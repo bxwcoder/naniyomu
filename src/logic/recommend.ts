@@ -183,12 +183,6 @@ function selectThree(pool: Candidate[]): [Candidate, RecommendationRole][] {
 
 // ---- 4. おすすめ理由 ----
 
-const ROLE_INTRO: Record<RecommendationRole, string> = {
-  best: 'あなたの希望にいちばん合う本です。',
-  nearby: '好みに近く、少し違う魅力がある本です。',
-  discovery: '新しい発見ができそうな本です。',
-};
-
 function tagLabel(tag: string): string {
   const [kind, value] = tag.split(':');
   const table: Record<string, Record<string, string>> = { genre: GENRES, theme: THEMES, mood: MOODS };
@@ -203,7 +197,8 @@ export function buildReasons(
   favoriteBooks: Book[],
   firstBook?: Book,
 ): string[] {
-  const reasons: string[] = [ROLE_INTRO[role]];
+  // 役割（1冊目・2冊目・3冊目）は画面のラベルで示すので、ここでは回答との一致点だけを書く
+  const reasons: string[] = [];
 
   if (detail.theme && answers.theme !== NO_THEME) {
     reasons.push(`あなたは「${THEMES[answers.theme]}」に興味があるため、このテーマの本を選びました。`);

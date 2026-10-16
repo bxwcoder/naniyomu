@@ -63,7 +63,7 @@ describe('おすすめの基本動作', () => {
     expect(result.recommendations).toHaveLength(3);
     expect(result.recommendations.map((r) => r.role)).toEqual(['best', 'nearby', 'discovery']);
     expect(new Set(result.recommendations.map((r) => r.book.book_id)).size).toBe(3);
-    for (const r of result.recommendations) expect(r.reasons.length).toBeGreaterThan(1);
+    for (const r of result.recommendations) expect(r.reasons.length).toBeGreaterThan(0);
   });
 
   it('1冊目は候補の中でいちばん点数が高い', () => {
