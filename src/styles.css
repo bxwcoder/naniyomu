@@ -133,7 +133,9 @@ a { color: var(--accent); }
   display: flex;
   align-items: center;
   gap: 8px;
-  padding: 6px 12px;
+  padding-block: 6px;
+  padding-left: max(12px, env(safe-area-inset-left, 0px));
+  padding-right: max(12px, env(safe-area-inset-right, 0px));
   min-height: 56px;
 }
 .app-header__title {
@@ -149,7 +151,10 @@ a { color: var(--accent); }
 main {
   max-width: 640px;
   margin: 0 auto;
-  padding: 20px 16px calc(40px + env(safe-area-inset-bottom));
+  padding-top: 20px;
+  padding-bottom: calc(40px + env(safe-area-inset-bottom, 0px));
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
 }
 main:focus { outline: none; }
 
