@@ -8,7 +8,6 @@ import type { RecommendResult, RelaxSuggestion } from '../types.ts';
 
 interface Props {
   result: RecommendResult;
-  favoriteText: string;
   onApplySuggestion: (s: RelaxSuggestion) => void;
   onRefresh: () => void;
   onRestart: () => void;
@@ -22,8 +21,8 @@ const SUGGESTION_LABELS: Record<RelaxSuggestion['question'], string> = {
 /** 指を横に何px動かしたら「スワイプ」とみなすか */
 const SWIPE_THRESHOLD = 50;
 
-export function ResultsPage({ result, favoriteText, onApplySuggestion, onRefresh, onRestart }: Props) {
-  const { recommendations, favoriteMatches } = result;
+export function ResultsPage({ result, onApplySuggestion, onRefresh, onRestart }: Props) {
+  const { recommendations } = result;
   const insufficient = result.status === 'insufficient';
   const [current, setCurrent] = useState(0);
   const touchStart = useRef<{ x: number; y: number } | null>(null);
@@ -72,9 +71,6 @@ export function ResultsPage({ result, favoriteText, onApplySuggestion, onRefresh
             : `今の条件に合う本は${count}冊でした`}
       </h1>
 
-      {favoriteMatches.length === 0 && favoriteText.trim() !== '' && (
-        <p className="notice notice--line">入力された本は未登録のため、回答だけで選びました</p>
-      )}
 
       {insufficient && (
         <section className="notice" aria-label="条件を変えて探す">

@@ -7,7 +7,6 @@ import { useEffect, useState } from 'react';
 export type Route =
   | { name: 'top' }
   | { name: 'question'; index: number }
-  | { name: 'favorite' }
   | { name: 'results' }
   | { name: 'book'; id: string }
   | { name: 'shelf'; tab: 'favorites' | 'read' };
@@ -18,7 +17,6 @@ export function parseHash(hash: string): Route {
   if (m) return { name: 'question', index: Number(m[1]) - 1 };
   m = path.match(/^\/book\/([\w-]+)$/);
   if (m) return { name: 'book', id: m[1] };
-  if (path === '/favorite-book') return { name: 'favorite' };
   if (path === '/results') return { name: 'results' };
   if (path === '/saved') return { name: 'shelf', tab: 'favorites' };
   if (path === '/read') return { name: 'shelf', tab: 'read' };
@@ -28,7 +26,6 @@ export function parseHash(hash: string): Route {
 export const paths = {
   top: '#/',
   question: (index: number) => `#/q/${index + 1}`,
-  favorite: '#/favorite-book',
   results: '#/results',
   book: (id: string) => `#/book/${id}`,
   saved: '#/saved',

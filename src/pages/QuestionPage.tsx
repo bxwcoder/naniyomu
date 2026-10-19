@@ -63,7 +63,7 @@ export function QuestionPage({ index, answers, onAnswer, onBack, onNext }: Props
         </button>
         {selected && (
           <button type="button" className="btn btn--small btn--primary" onClick={onNext}>
-            {index + 1 < total ? '次の質問 →' : '次へ →'}
+            {index + 1 < total ? '次の質問 →' : 'おすすめを見る →'}
           </button>
         )}
       </div>

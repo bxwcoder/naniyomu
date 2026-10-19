@@ -9,7 +9,6 @@ import { loadBooks } from './data/loadBooks.ts';
 import { navigate, paths, useHashRoute, type Route } from './hooks/useHashRoute.ts';
 import { recommend } from './logic/recommend.ts';
 import { BookDetailPage } from './pages/BookDetailPage.tsx';
-import { FavoritePage } from './pages/FavoritePage.tsx';
 import { QuestionPage, type QuestionKey } from './pages/QuestionPage.tsx';
 import { ResultsPage } from './pages/ResultsPage.tsx';
 import { ShelfPage } from './pages/ShelfPage.tsx';
@@ -35,10 +34,8 @@ function backTarget(route: Route): string | undefined {
       return undefined;
     case 'question':
       return route.index === 0 ? paths.top : paths.question(route.index - 1);
-    case 'favorite':
-      return paths.question(QUESTIONS.length - 1);
     case 'results':
-      return paths.favorite;
+      return paths.question(QUESTIONS.length - 1);
     case 'book':
       return paths.results;
     case 'shelf':
@@ -51,7 +48,6 @@ function AppInner() {
   const lib = useLibrary();
   const [load, setLoad] = useState<LoadState>({ status: 'loading' });
   const [draft, setDraft] = useState<Partial<Answers>>({});
-  const [favoriteText, setFavoriteText] = useState('');
   const [result, setResult] = useState<RecommendResult | null>(null);
   const mainRef = useRef<HTMLElement>(null);
 
@@ -79,9 +75,6 @@ function AppInner() {
     if (route.name === 'question') {
       const missing = firstUnanswered(draft);
       if (missing !== -1 && missing < route.index) navigate(paths.question(missing), { replace: true });
-    }
-    if (route.name === 'favorite' && !completeAnswers(draft)) {
-      navigate(paths.question(Math.max(firstUnanswered(draft), 0)), { replace: true });
     }
     if (route.name === 'results' && !result) {
       navigate(paths.top, { replace: true });
@@ -119,7 +112,6 @@ function AppInner() {
             hasPreviousResult={result !== null}
             onStart={() => {
               setDraft({});
-              setFavoriteText('');
               navigate(paths.question(0));
             }}
           />
@@ -128,40 +120,37 @@ function AppInner() {
 
       case 'question': {
         const index = Math.min(Math.max(route.index, 0), QUESTIONS.length - 1);
-        const goNext = () =>
-          navigate(index + 1 < QUESTIONS.length ? paths.question(index + 1) : paths.favorite);
+        const isLast = index + 1 === QUESTIONS.length;
+        // 次の質問へ。最後の質問なら、すぐにおすすめを計算して結果を表示する
+        const goNext = (answered: Partial<Answers>) => {
+          if (!isLast) {
+            navigate(paths.question(index + 1));
+            return;
+          }
+          const answers = completeAnswers(answered);
+          if (!answers) {
+            navigate(paths.question(Math.max(firstUnanswered(answered), 0)));
+            return;
+          }
+          runRecommend(books, answers);
+          navigate(paths.results);
+        };
         content = (
           <QuestionPage
             key={index}
             index={index}
             answers={draft}
             onAnswer={(key: QuestionKey, value: string) => {
-              setDraft((d) => ({ ...d, [key]: value }));
-              goNext();
+              const next = { ...draft, [key]: value };
+              setDraft(next);
+              goNext(next);
             }}
             onBack={() => navigate(index === 0 ? paths.top : paths.question(index - 1))}
-            onNext={goNext}
+            onNext={() => goNext(draft)}
           />
         );
         break;
       }
-
-      case 'favorite':
-        content = (
-          <FavoritePage
-            text={favoriteText}
-            onChange={setFavoriteText}
-            onBack={() => navigate(paths.question(QUESTIONS.length - 1))}
-            onSubmit={(text) => {
-              const answers = completeAnswers(draft);
-              if (!answers) return;
-              setFavoriteText(text);
-              runRecommend(books, { ...answers, favoriteText: text });
-              navigate(paths.results);
-            }}
-          />
-        );
-        break;
 
       case 'results': {
         const answers = completeAnswers(draft);
@@ -170,17 +159,15 @@ function AppInner() {
             <ResultsPage
               key={result.recommendations.map((r) => r.book.book_id).join(',')}
               result={result}
-              favoriteText={favoriteText}
-              onRefresh={() => runRecommend(books, { ...answers, favoriteText })}
+              onRefresh={() => runRecommend(books, answers)}
               onRestart={() => {
                 setDraft({});
-                setFavoriteText('');
                 navigate(paths.question(0));
               }}
               onApplySuggestion={(s: RelaxSuggestion) => {
                 const changed: Answers = { ...answers, [s.question]: 'any' };
                 setDraft(changed);
-                runRecommend(books, { ...changed, favoriteText });
+                runRecommend(books, changed);
                 window.scrollTo(0, 0);
               }}
             />
