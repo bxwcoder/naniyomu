@@ -1,8 +1,9 @@
 // お気に入り・読んだ本・おすすめへの反応の記録
 // アプリのどの画面からでも使えるように、ここでまとめて管理します。
-// ※フェーズ3では記録はアプリを開いている間だけ残ります（保存はフェーズ4で追加）。
+// 記録は storage.ts を使って、この端末のブラウザに保存します。
 
-import { createContext, useContext, useMemo, useReducer, type ReactNode } from 'react';
+import { createContext, useContext, useEffect, useMemo, useReducer, useRef, type ReactNode } from 'react';
+import { browserStore, loadLibrary, parseLibrary, saveLibrary, STORAGE_KEYS } from './storage.ts';
 
 /** おすすめへの反応の種類 */
 export type ReactionType = 'interested' | 'not_for_me' | 'already_read' | 'finished';
@@ -29,6 +30,7 @@ export interface LibraryState {
 export const emptyLibrary: LibraryState = { favorites: [], read: [], reactions: {} };
 
 type Action =
+  | { type: 'replace'; state: LibraryState }
   | { type: 'toggleFavorite'; bookId: string }
   | { type: 'toggleReaction'; bookId: string; reaction: ReactionType }
   | { type: 'unmarkRead'; bookId: string };
@@ -37,6 +39,8 @@ const without = (list: string[], id: string) => list.filter((x) => x !== id);
 
 export function libraryReducer(state: LibraryState, action: Action): LibraryState {
   switch (action.type) {
+    case 'replace':
+      return action.state;
     case 'toggleFavorite': {
       const has = state.favorites.includes(action.bookId);
       return {
@@ -98,7 +102,29 @@ interface LibraryApi {
 const LibraryContext = createContext<LibraryApi | null>(null);
 
 export function LibraryProvider({ children }: { children: ReactNode }) {
-  const [state, dispatch] = useReducer(libraryReducer, emptyLibrary);
+  const store = useRef(browserStore()).current;
+  // 起動時に、保存しておいた記録を読み込む
+  const [state, dispatch] = useReducer(libraryReducer, undefined, () => loadLibrary(store));
+
+  // 記録が変わるたびに保存する
+  useEffect(() => {
+    saveLibrary(store, state);
+  }, [store, state]);
+
+  // 同じ端末の別のタブで記録が変わったときも、こちらに反映する
+  useEffect(() => {
+    const onStorage = (e: StorageEvent) => {
+      if (e.key !== STORAGE_KEYS.library || e.newValue === null) return;
+      try {
+        dispatch({ type: 'replace', state: parseLibrary(JSON.parse(e.newValue)) });
+      } catch {
+        // 壊れた内容は無視する
+      }
+    };
+    window.addEventListener('storage', onStorage);
+    return () => window.removeEventListener('storage', onStorage);
+  }, []);
+
   const api = useMemo<LibraryApi>(
     () => ({
       state,

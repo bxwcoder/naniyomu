@@ -14,6 +14,8 @@ import { ResultsPage } from './pages/ResultsPage.tsx';
 import { ShelfPage } from './pages/ShelfPage.tsx';
 import { TopPage } from './pages/TopPage.tsx';
 import { excludedBookIds, LibraryProvider, useLibrary } from './state/library.tsx';
+import { browserStore, loadSessionRaw, restoreSession, saveSession, toStoredSession } from './state/storage.ts';
+import { OfflineNotice } from './components/OfflineNotice.tsx';
 import type { Answers, Book, RecommendResult, RelaxSuggestion } from './types.ts';
 
 type LoadState = { status: 'loading' } | { status: 'error'; message: string } | { status: 'ready'; books: Book[] };
@@ -49,7 +51,10 @@ function AppInner() {
   const [load, setLoad] = useState<LoadState>({ status: 'loading' });
   const [draft, setDraft] = useState<Partial<Answers>>({});
   const [result, setResult] = useState<RecommendResult | null>(null);
+  // 前回の回答と結果を読み込み終えたか
+  const [restored, setRestored] = useState(false);
   const mainRef = useRef<HTMLElement>(null);
+  const store = useRef(browserStore()).current;
 
   // ---- 書籍データの読み込み ----
   const startLoading = useCallback(() => {
@@ -63,6 +68,20 @@ function AppInner() {
   }, []);
   useEffect(startLoading, [startLoading]);
 
+  // ---- 前回の回答とおすすめ結果を読み込む（本のデータが読み込めてから） ----
+  useEffect(() => {
+    if (load.status !== 'ready' || restored) return;
+    const saved = restoreSession(loadSessionRaw(store), load.books);
+    setDraft(saved.answers);
+    setResult(saved.result);
+    setRestored(true);
+  }, [load, restored, store]);
+
+  // ---- 回答や結果が変わったら保存する ----
+  useEffect(() => {
+    if (restored) saveSession(store, toStoredSession(draft, result));
+  }, [restored, store, draft, result]);
+
   // ---- 画面が変わったら、いちばん上に戻して読み上げ位置も移す ----
   const routeKey = JSON.stringify(route);
   useEffect(() => {
@@ -72,6 +91,7 @@ function AppInner() {
 
   // ---- 順番どおりでない画面に直接来たときは、正しい画面へ移す ----
   useEffect(() => {
+    if (!restored) return;
     if (route.name === 'question') {
       const missing = firstUnanswered(draft);
       if (missing !== -1 && missing < route.index) navigate(paths.question(missing), { replace: true });
@@ -79,14 +99,14 @@ function AppInner() {
     if (route.name === 'results' && !result) {
       navigate(paths.top, { replace: true });
     }
-  }, [route, draft, result]);
+  }, [route, draft, result, restored]);
 
   const runRecommend = (books: Book[], answers: Answers) => {
     setResult(recommend(books, answers, { excludeBookIds: excludedBookIds(lib.state) }));
   };
 
   let content: React.ReactNode;
-  if (load.status === 'loading') {
+  if (load.status === 'loading' || (load.status === 'ready' && !restored)) {
     content = (
       <div role="status">
         <div className="spinner" aria-hidden="true" />
@@ -191,6 +211,7 @@ function AppInner() {
   return (
     <>
       <Header backTo={backTarget(route)} showLogo={route.name !== 'top'} />
+      <OfflineNotice />
       <main ref={mainRef} tabIndex={-1}>
         {content}
       </main>
