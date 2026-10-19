@@ -45,3 +45,9 @@ npm test      # 自動テストを実行する
 npm run dev   # 開発用にアプリを起動する
 npm run build # 公開用のファイルを dist フォルダに作る
 ```
+
+## 公開（Cloudflare）
+
+- GitHub の `main` に保存すると、Cloudflare が自動で `npm run build` を実行し、`dist` フォルダの中身を公開します。
+- 公開の設定は `wrangler.jsonc`、保存期間の設定は `public/_headers` にあります。
+- 手元で公開と同じ状態を試すとき：`npm run build` のあと `npx wrangler dev`

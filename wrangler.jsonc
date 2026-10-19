@@ -1,0 +1,10 @@
+// Cloudflare に公開するための設定
+// 「npm run build」で作った dist フォルダの中身を、そのまま公開します。
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "naniyomu",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./dist"
+  }
+}

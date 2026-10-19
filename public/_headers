@@ -1,0 +1,12 @@
+# 公開先（Cloudflare）での保存期間の設定
+
+# オフライン対応の仕組みは、更新がすぐ届くよう毎回確認させる
+/sw.js
+  Cache-Control: no-cache
+
+/manifest.webmanifest
+  Cache-Control: no-cache
+
+# 画面の部品はファイル名に版が入っているので、長く保存してよい
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
