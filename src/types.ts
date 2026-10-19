@@ -55,6 +55,8 @@ export interface Recommendation {
   score: number;
   /** 画面に表示するおすすめ理由（文章） */
   reasons: string[];
+  /** カードに表示する、回答と合っている点の短いラベル（例：「気分：気楽に読める」） */
+  highlights: string[];
 }
 
 /** 条件をゆるめたら何冊見つかるか、の案内 */

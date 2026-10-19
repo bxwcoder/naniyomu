@@ -1,6 +1,9 @@
 // 画面4：おすすめ結果
+// 3冊を縦に並べると1画面に収まらないので、上のタブで1冊ずつ切り替えます。
+// カードを左右にスワイプしても切り替えられます。
 
-import { BookCard } from '../components/BookCard.tsx';
+import { useRef, useState, type KeyboardEvent, type TouchEvent } from 'react';
+import { BookCard, ROLE_LABELS } from '../components/BookCard.tsx';
 import type { RecommendResult, RelaxSuggestion } from '../types.ts';
 
 interface Props {
@@ -11,75 +14,142 @@ interface Props {
   onRestart: () => void;
 }
 
+const SUGGESTION_LABELS: Record<RelaxSuggestion['question'], string> = {
+  genre: 'ジャンルを問わない',
+  difficulty: '読みやすさを気にしない',
+};
+
+/** 指を横に何px動かしたら「スワイプ」とみなすか */
+const SWIPE_THRESHOLD = 50;
+
 export function ResultsPage({ result, favoriteText, onApplySuggestion, onRefresh, onRestart }: Props) {
   const { recommendations, favoriteMatches } = result;
   const insufficient = result.status === 'insufficient';
+  const [current, setCurrent] = useState(0);
+  const touchStart = useRef<{ x: number; y: number } | null>(null);
+  const tabRefs = useRef<(HTMLButtonElement | null)[]>([]);
+  const count = recommendations.length;
+  const index = Math.min(current, Math.max(count - 1, 0));
+
+  const select = (i: number, focus = false) => {
+    const next = (i + count) % count;
+    setCurrent(next);
+    if (focus) tabRefs.current[next]?.focus();
+  };
+
+  const onTabKey = (e: KeyboardEvent) => {
+    if (e.key === 'ArrowRight') select(index + 1, true);
+    if (e.key === 'ArrowLeft') select(index - 1, true);
+  };
+
+  const onTouchStart = (e: TouchEvent) => {
+    const t = e.touches[0];
+    touchStart.current = { x: t.clientX, y: t.clientY };
+  };
+  const onTouchEnd = (e: TouchEvent) => {
+    const start = touchStart.current;
+    touchStart.current = null;
+    if (!start || count < 2) return;
+    const t = e.changedTouches[0];
+    const dx = t.clientX - start.x;
+    const dy = t.clientY - start.y;
+    // 縦のスクロールと区別するため、横の動きが大きいときだけ切り替える
+    if (Math.abs(dx) > SWIPE_THRESHOLD && Math.abs(dx) > Math.abs(dy) * 1.5) {
+      select(dx < 0 ? index + 1 : index - 1);
+    }
+  };
+
+  const shown = recommendations[index];
 
   return (
     <>
-      <h1>{insufficient ? '条件に合う本が少なめでした' : 'あなたへのおすすめ3冊'}</h1>
+      {/* 3冊のときはタブで分かるので、見出しは読み上げ用にだけ残す */}
+      <h1 className={insufficient ? 'result-title' : 'visually-hidden'}>
+        {!insufficient
+          ? 'あなたへのおすすめ3冊'
+          : count === 0
+            ? '今の条件に合う本は、まだありません'
+            : `今の条件に合う本は${count}冊でした`}
+      </h1>
 
-      {favoriteMatches.length > 0 && (
-        <p className="notice notice--accent">
-          あなたが挙げた{favoriteMatches.map((b) => `『${b.title}』`).join('、')}
-          の特徴も参考にしました。この本はすでに読んでいるので、おすすめからは外しています。
-        </p>
-      )}
       {favoriteMatches.length === 0 && favoriteText.trim() !== '' && (
-        <p className="notice">
-          入力していただいた本は、ナニヨムにまだ登録されていませんでした。今回は質問の回答だけでおすすめを選んでいます。
-        </p>
+        <p className="notice notice--line">入力された本は未登録のため、回答だけで選びました</p>
       )}
 
       {insufficient && (
-        <section className="notice" aria-label="条件の変更について">
-          <p>
-            {recommendations.length === 0
-              ? '今の条件にぴったり合う本は、まだ登録されていませんでした。'
-              : `今の条件に合う本は${recommendations.length}冊でした。`}
-            条件を勝手にゆるめることはしていません。次のどれかを試してみてください。
-          </p>
-          <div className="stack">
-            {result.suggestions
-              .filter((s) => s.availableCount > 0)
-              .map((s) => (
-                <div key={s.question} className="card">
-                  <p className="small" style={{ marginBottom: 8 }}>
-                    {s.message}
-                  </p>
-                  <button type="button" className="btn btn--small btn--block" onClick={() => onApplySuggestion(s)}>
-                    この条件で探す
-                  </button>
-                </div>
-              ))}
-            <button type="button" className="btn btn--block" onClick={onRestart}>
-              質問に最初から答え直す
-            </button>
-          </div>
+        <section className="notice" aria-label="条件を変えて探す">
+          {result.suggestions
+            .filter((s) => s.availableCount > 0)
+            .map((s) => (
+              <div key={s.question} className="suggestion">
+                <span>
+                  {SUGGESTION_LABELS[s.question]}
+                  <strong>（{s.availableCount}冊）</strong>
+                </span>
+                <button type="button" className="btn btn--small" onClick={() => onApplySuggestion(s)}>
+                  この条件で探す
+                </button>
+              </div>
+            ))}
         </section>
       )}
 
-      <div className="stack">
-        {recommendations.map((rec) => (
-          <BookCard key={rec.book.book_id} rec={rec} />
-        ))}
-      </div>
-
-      {recommendations.length > 0 && (
-        <div className="stack" style={{ marginTop: 24 }}>
-          <p className="muted small">
-            「読んだことがある」「好みと違う」を押した本は、次回のおすすめから外れます。
-          </p>
-          <button type="button" className="btn btn--primary btn--block" onClick={onRefresh}>
-            同じ答えで、もう一度おすすめを出す
-          </button>
-          {!insufficient && (
-            <button type="button" className="btn btn--block" onClick={onRestart}>
-              質問に最初から答え直す
-            </button>
-          )}
-        </div>
+      {count > 1 && (
+          <div
+            className="book-tabs"
+            role="tablist"
+            aria-label="おすすめの本"
+            style={{ '--tab-count': count } as React.CSSProperties}
+          >
+            {recommendations.map((rec, i) => (
+              <button
+                key={rec.book.book_id}
+                ref={(el) => {
+                  tabRefs.current[i] = el;
+                }}
+                type="button"
+                role="tab"
+                id={`book-tab-${i}`}
+                aria-selected={i === index}
+                aria-controls="book-panel"
+                tabIndex={i === index ? 0 : -1}
+                className="book-tab"
+                onClick={() => select(i)}
+                onKeyDown={onTabKey}
+              >
+                <strong>{i + 1}冊目</strong>
+                <span>{ROLE_LABELS[rec.role]}</span>
+              </button>
+            ))}
+          </div>
       )}
+
+      {count > 0 && (
+          <div onTouchStart={onTouchStart} onTouchEnd={onTouchEnd}>
+            <BookCard
+              key={shown.book.book_id}
+              rec={shown}
+              id="book-panel"
+              labelledBy={count > 1 ? `book-tab-${index}` : undefined}
+            />
+          </div>
+      )}
+
+      <div className="result-footer">
+        {count > 0 && (
+          <button type="button" className="btn btn--small" onClick={onRefresh}>
+            選び直す
+          </button>
+        )}
+        <button
+          type="button"
+          className="btn btn--small"
+          style={count > 0 ? undefined : { gridColumn: '1 / -1' }}
+          onClick={onRestart}
+        >
+          質問に答え直す
+        </button>
+      </div>
     </>
   );
 }

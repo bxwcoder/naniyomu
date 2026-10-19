@@ -168,6 +168,7 @@ function AppInner() {
         content =
           result && answers ? (
             <ResultsPage
+              key={result.recommendations.map((r) => r.book.book_id).join(',')}
               result={result}
               favoriteText={favoriteText}
               onRefresh={() => runRecommend(books, { ...answers, favoriteText })}
@@ -189,8 +190,8 @@ function AppInner() {
 
       case 'book': {
         const book = books.find((b) => b.book_id === route.id);
-        const reasons = result?.recommendations.find((r) => r.book.book_id === route.id)?.reasons;
-        content = <BookDetailPage book={book} reasons={reasons} />;
+        const highlights = result?.recommendations.find((r) => r.book.book_id === route.id)?.highlights;
+        content = <BookDetailPage book={book} highlights={highlights} />;
         break;
       }
 
@@ -202,7 +203,7 @@ function AppInner() {
 
   return (
     <>
-      <Header backTo={backTarget(route)} />
+      <Header backTo={backTarget(route)} showLogo={route.name !== 'top'} />
       <main ref={mainRef} tabIndex={-1}>
         {content}
       </main>

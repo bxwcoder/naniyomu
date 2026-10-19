@@ -22,12 +22,9 @@ export function QuestionPage({ index, answers, onAnswer, onBack, onNext }: Props
   return (
     <>
       <div className="progress">
-        <div className="progress__label">
-          <span>
-            質問 {index + 1} / {total}
-          </span>
-          <span>{index + 1 < total ? `あと${total - index - 1}問` : '最後の質問です'}</span>
-        </div>
+        <span>
+          質問 {index + 1} / {total}
+        </span>
         <div
           className="progress__bar"
           role="progressbar"
@@ -38,10 +35,10 @@ export function QuestionPage({ index, answers, onAnswer, onBack, onNext }: Props
         >
           <div className="progress__fill" style={{ width: `${((index + 1) / total) * 100}%` }} />
         </div>
+        <span>{index + 1 < total ? `あと${total - index - 1}問` : '最後'}</span>
       </div>
 
       <h1 id={headingId}>{q.text}</h1>
-      <p className="muted small">いちばん近いものを1つ選んでください。選ぶと次の質問に進みます。</p>
 
       <ul className="choices" role="radiogroup" aria-labelledby={headingId}>
         {q.choices.map((c) => (
@@ -61,11 +58,11 @@ export function QuestionPage({ index, answers, onAnswer, onBack, onNext }: Props
       </ul>
 
       <div className="nav-row">
-        <button type="button" className="btn" onClick={onBack}>
+        <button type="button" className="btn btn--small" onClick={onBack}>
           ← {index === 0 ? 'トップへ' : '前の質問'}
         </button>
         {selected && (
-          <button type="button" className="btn btn--primary" onClick={onNext}>
+          <button type="button" className="btn btn--small btn--primary" onClick={onNext}>
             {index + 1 < total ? '次の質問 →' : '次へ →'}
           </button>
         )}

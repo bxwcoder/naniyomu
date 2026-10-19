@@ -1,6 +1,7 @@
 /* ナニヨムの見た目
    色や文字の大きさは、下の「:root」にまとめてあります。
-   ここを変えると、アプリ全体の色合いが変わります。 */
+   ここを変えると、アプリ全体の色合いが変わります。
+   方針：スマートフォンの1画面（幅360px・高さ640px程度）に、各画面の大事な内容が収まるようにする。 */
 
 :root {
   --bg: #faf6ef;          /* 背景：生成りの紙のような色 */
@@ -23,7 +24,6 @@
   --radius-sm: 10px;
   --shadow: 0 1px 2px rgb(43 38 34 / 6%), 0 4px 14px rgb(43 38 34 / 6%);
   --font-sans: system-ui, -apple-system, 'Hiragino Sans', 'Noto Sans JP', 'Yu Gothic UI', 'Meiryo', sans-serif;
-  --font-serif: 'Hiragino Mincho ProN', 'Noto Serif JP', 'Yu Mincho', 'YuMincho', serif;
   color-scheme: light;
 }
 
@@ -83,22 +83,22 @@ body {
   background: var(--bg);
   color: var(--text);
   font-family: var(--font-sans);
-  font-size: 17px;
-  line-height: 1.75;
+  font-size: 16px;
+  line-height: 1.65;
   -webkit-tap-highlight-color: transparent;
 }
 
 h1,
 h2,
 h3 {
-  font-family: var(--font-serif);
   line-height: 1.4;
-  margin: 0 0 0.5em;
+  margin: 0 0 0.4em;
+  text-wrap: balance;
 }
-h1 { font-size: 1.6rem; }
-h2 { font-size: 1.3rem; }
-h3 { font-size: 1.15rem; }
-p { margin: 0 0 1em; }
+h1 { font-size: 1.35rem; }
+h2 { font-size: 1.1rem; }
+h3 { font-size: 1.1rem; }
+p { margin: 0 0 0.8em; }
 
 a { color: var(--accent); }
 
@@ -116,6 +116,14 @@ a { color: var(--accent); }
   white-space: nowrap;
 }
 
+/* ---- ロゴ ---- */
+
+.logo { display: block; width: auto; max-width: 100%; }
+.logo__text { fill: var(--text); }
+.logo__accent { fill: var(--accent); }
+.logo__bubble { fill: var(--warm); }
+.logo__mark { fill: var(--surface); }
+
 /* ---- 全体の枠 ---- */
 
 .app-header {
@@ -125,34 +133,32 @@ a { color: var(--accent); }
   background: color-mix(in srgb, var(--bg) 92%, transparent);
   backdrop-filter: blur(8px);
   border-bottom: 1px solid var(--border);
-  padding-top: env(safe-area-inset-top);
+  padding-top: env(safe-area-inset-top, 0px);
 }
 .app-header__inner {
   max-width: 640px;
   margin: 0 auto;
   display: flex;
   align-items: center;
-  gap: 8px;
-  padding-block: 6px;
-  padding-left: max(12px, env(safe-area-inset-left, 0px));
-  padding-right: max(12px, env(safe-area-inset-right, 0px));
-  min-height: 56px;
+  gap: 4px;
+  padding-block: 4px;
+  padding-left: max(8px, env(safe-area-inset-left, 0px));
+  padding-right: max(8px, env(safe-area-inset-right, 0px));
+  min-height: 52px;
 }
 .app-header__title {
-  font-family: var(--font-serif);
-  font-weight: 700;
-  font-size: 1.15rem;
-  color: var(--text);
-  text-decoration: none;
-  padding: 8px 4px;
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 6px;
+  border-radius: 8px;
 }
 .app-header__spacer { flex: 1; }
 
 main {
   max-width: 640px;
   margin: 0 auto;
-  padding-top: 20px;
-  padding-bottom: calc(40px + env(safe-area-inset-bottom, 0px));
+  padding-top: 10px;
+  padding-bottom: calc(20px + env(safe-area-inset-bottom, 0px));
   padding-left: max(16px, env(safe-area-inset-left, 0px));
   padding-right: max(16px, env(safe-area-inset-right, 0px));
 }
@@ -166,7 +172,7 @@ main:focus { outline: none; }
   justify-content: center;
   gap: 6px;
   min-height: 48px;
-  padding: 10px 18px;
+  padding: 8px 16px;
   border-radius: var(--radius-sm);
   border: 1px solid var(--border);
   background: var(--surface);
@@ -174,7 +180,7 @@ main:focus { outline: none; }
   font: inherit;
   font-size: 1rem;
   font-weight: 600;
-  line-height: 1.4;
+  line-height: 1.35;
   text-decoration: none;
   cursor: pointer;
   transition: background-color 0.15s, border-color 0.15s;
@@ -193,8 +199,8 @@ main:focus { outline: none; }
 }
 .btn--small {
   min-height: 44px;
-  padding: 8px 12px;
-  font-size: 0.92rem;
+  padding: 6px 10px;
+  font-size: 0.9rem;
 }
 .btn--block { width: 100%; }
 .btn[aria-pressed='true'].btn--fav {
@@ -212,73 +218,45 @@ main:focus { outline: none; }
   border-color: var(--text-muted);
 }
 
-.stack { display: flex; flex-direction: column; gap: 12px; }
+.stack { display: flex; flex-direction: column; gap: 10px; }
 .row { display: flex; flex-wrap: wrap; gap: 8px; }
+.grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
 .muted { color: var(--text-muted); }
-.small { font-size: 0.9rem; }
+.small { font-size: 0.88rem; }
 
 /* ---- トップページ ---- */
 
 .hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   text-align: center;
-  padding: 28px 8px 8px;
-}
-.hero__logo {
-  font-family: var(--font-serif);
-  font-size: 2.6rem;
-  letter-spacing: 0.08em;
-  margin: 0 0 4px;
+  gap: 6px;
+  padding-top: 28px;
 }
 .hero__catch {
-  font-family: var(--font-serif);
-  font-size: 1.2rem;
-  color: var(--accent);
-  margin-bottom: 20px;
-}
-.hero__lead { text-align: left; }
-.steps {
-  list-style: none;
-  padding: 0;
-  margin: 0 0 24px;
-  display: grid;
-  gap: 8px;
-}
-.steps li {
-  display: flex;
-  gap: 12px;
-  align-items: baseline;
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: var(--radius-sm);
-  padding: 10px 14px;
-  text-align: left;
-}
-.steps__num {
-  flex: none;
-  width: 1.8em;
-  height: 1.8em;
-  border-radius: 50%;
-  background: var(--accent-soft);
-  color: var(--accent);
+  font-size: 1.1rem;
   font-weight: 700;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 0.9rem;
+  color: var(--accent);
+  margin: 4px 0 10px;
 }
+.hero__lead { max-width: 22em; margin-bottom: 22px; }
+.hero__actions { width: 100%; }
 
 /* ---- 質問ページ ---- */
 
-.progress { margin-bottom: 20px; }
-.progress__label {
+.progress {
   display: flex;
-  justify-content: space-between;
-  font-size: 0.9rem;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 12px;
+  font-size: 0.88rem;
   color: var(--text-muted);
-  margin-bottom: 6px;
+  font-variant-numeric: tabular-nums;
 }
 .progress__bar {
-  height: 8px;
+  flex: 1;
+  height: 6px;
   background: var(--surface-muted);
   border-radius: 99px;
   overflow: hidden;
@@ -292,21 +270,22 @@ main:focus { outline: none; }
 .choices {
   list-style: none;
   padding: 0;
-  margin: 16px 0 24px;
+  margin: 10px 0 14px;
   display: grid;
-  gap: 10px;
+  gap: 8px;
 }
 .choice {
   width: 100%;
   text-align: left;
-  min-height: 56px;
-  padding: 12px 16px;
-  border-radius: var(--radius);
+  min-height: 50px;
+  padding: 8px 14px;
+  border-radius: var(--radius-sm);
   border: 2px solid var(--border);
   background: var(--surface);
   color: var(--text);
   font: inherit;
   font-weight: 600;
+  line-height: 1.4;
   cursor: pointer;
   display: flex;
   align-items: center;
@@ -315,8 +294,8 @@ main:focus { outline: none; }
 .choice:hover { border-color: var(--accent); }
 .choice__mark {
   flex: none;
-  width: 22px;
-  height: 22px;
+  width: 20px;
+  height: 20px;
   border-radius: 50%;
   border: 2px solid var(--border);
   display: inline-flex;
@@ -353,8 +332,8 @@ main:focus { outline: none; }
 }
 .field textarea {
   width: 100%;
-  min-height: 120px;
-  padding: 12px 14px;
+  min-height: 96px;
+  padding: 10px 12px;
   border-radius: var(--radius-sm);
   border: 1px solid var(--border);
   background: var(--surface);
@@ -364,6 +343,76 @@ main:focus { outline: none; }
 }
 .field textarea:focus { border-color: var(--accent); }
 
+/* ---- おすすめ結果：1冊ずつ切り替えるタブ ---- */
+
+.result-title { font-size: 1.1rem; margin-bottom: 8px; }
+.notice--line {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-block: 6px;
+  margin-bottom: 8px;
+}
+.highlights { margin: 0 0 10px; }
+.highlights h2 {
+  font-size: 0.78rem;
+  color: var(--accent);
+  margin: 0 0 4px;
+}
+.highlights ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+.highlights li {
+  font-size: 0.8rem;
+  line-height: 1.4;
+  padding: 3px 9px;
+  border-radius: 99px;
+  background: var(--accent-soft);
+  color: var(--text);
+}
+.book-tabs {
+  display: grid;
+  grid-template-columns: repeat(var(--tab-count, 3), 1fr);
+  gap: 4px;
+  padding: 4px;
+  margin: 0 0 10px;
+  background: var(--surface-muted);
+  border-radius: var(--radius-sm);
+}
+.book-tab {
+  min-height: 46px;
+  border: none;
+  border-radius: 8px;
+  background: transparent;
+  color: var(--text-muted);
+  font: inherit;
+  font-size: 0.8rem;
+  line-height: 1.3;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 4px;
+}
+.book-tab strong { font-size: 0.95rem; }
+.book-tab[aria-selected='true'] {
+  background: var(--surface);
+  color: var(--text);
+  box-shadow: var(--shadow);
+}
+.result-footer {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  margin-top: 10px;
+}
+
 /* ---- 本のカード ---- */
 
 .card {
@@ -371,86 +420,78 @@ main:focus { outline: none; }
   border: 1px solid var(--border);
   border-radius: var(--radius);
   box-shadow: var(--shadow);
-  padding: 16px;
+  padding: 12px;
 }
-.book-card__role {
-  display: inline-block;
-  font-size: 0.85rem;
-  font-weight: 700;
-  color: var(--accent);
-  background: var(--accent-soft);
-  border-radius: 99px;
-  padding: 2px 12px;
-  margin-bottom: 12px;
-}
+.book-card { touch-action: pan-y; }
 .book-card__head {
   display: flex;
-  gap: 14px;
-  margin-bottom: 12px;
+  gap: 12px;
+  margin-bottom: 10px;
 }
+.book-card__head > div { min-width: 0; }
 .book-card__title {
-  font-size: 1.2rem;
-  margin: 0 0 4px;
+  font-size: 1.05rem;
+  margin: 0 0 2px;
+  overflow-wrap: anywhere;
 }
-.book-card__author { color: var(--text-muted); margin: 0 0 6px; font-size: 0.95rem; }
-.tags { display: flex; flex-wrap: wrap; gap: 6px; padding: 0; margin: 0; list-style: none; }
+.book-card__author { color: var(--text-muted); margin: 0 0 6px; font-size: 0.88rem; line-height: 1.45; }
+.book-card__desc {
+  margin: 0 0 10px;
+  font-size: 0.95rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.tags { display: flex; flex-wrap: wrap; gap: 4px; padding: 0; margin: 0; list-style: none; }
 .tag {
-  font-size: 0.8rem;
-  padding: 2px 10px;
+  font-size: 0.75rem;
+  padding: 1px 8px;
   border-radius: 99px;
   background: var(--surface-muted);
   color: var(--text-muted);
 }
 .reasons {
-  margin: 12px 0;
-  padding: 12px 14px;
+  margin: 0 0 10px;
+  padding: 8px 12px;
   background: var(--accent-soft);
   border-radius: var(--radius-sm);
-  font-size: 0.95rem;
-}
-.reasons h4 {
-  margin: 0 0 4px;
   font-size: 0.9rem;
+  line-height: 1.55;
+}
+.reasons h2 {
+  margin: 0 0 2px;
+  font-size: 0.82rem;
   color: var(--accent);
 }
-.reasons ul { margin: 0; padding-left: 1.2em; }
-.reasons li + li { margin-top: 2px; }
-.meta-list {
-  display: grid;
-  grid-template-columns: auto 1fr;
-  gap: 4px 14px;
-  margin: 0 0 12px;
-  font-size: 0.95rem;
-}
-.meta-list dt { color: var(--text-muted); }
-.meta-list dd { margin: 0; }
+.reasons ul { margin: 0; padding-left: 1.1em; }
 .book-card__actions {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 8px;
-  margin-top: 12px;
+  gap: 6px;
 }
 .book-card__actions .btn {
-  padding: 8px 6px;
-  font-size: 0.88rem;
+  padding: 6px 4px;
+  font-size: 0.86rem;
   white-space: nowrap;
 }
 .status-note {
-  font-size: 0.9rem;
+  font-size: 0.82rem;
   color: var(--text-muted);
-  margin: 8px 0 0;
+  margin: 6px 0 0;
 }
 
 /* 書影（画像がないときは、タイトルの頭文字を入れた表紙風の四角を表示） */
 .cover {
   flex: none;
-  width: 72px;
+  width: 60px;
+  max-width: 100%;
   aspect-ratio: 2 / 3;
   border-radius: 6px;
   overflow: hidden;
   background: var(--surface-muted);
 }
-.cover--large { width: 112px; }
+.cover--large { width: 76px; }
 .cover img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .cover__placeholder {
   width: 100%;
@@ -458,28 +499,68 @@ main:focus { outline: none; }
   display: flex;
   align-items: center;
   justify-content: center;
-  font-family: var(--font-serif);
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   font-weight: 700;
   color: #fff;
-  border-left: 6px solid rgb(0 0 0 / 18%);
+  border-left: 5px solid rgb(0 0 0 / 18%);
 }
-.cover--large .cover__placeholder { font-size: 2.6rem; }
+.cover--large .cover__placeholder { font-size: 2.1rem; }
+
+/* ---- 書籍詳細 ---- */
+
+.detail-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 14px;
+  margin: 0 0 10px;
+  font-size: 0.88rem;
+}
+.detail-meta div { display: flex; gap: 6px; }
+.detail-meta dt { color: var(--text-muted); }
+.detail-meta dd { margin: 0; font-weight: 600; }
+.detail-desc { font-size: 0.95rem; margin-bottom: 8px; }
+.detail-features { font-size: 0.85rem; line-height: 1.5; margin-bottom: 8px; }
+.detail-features strong { color: var(--accent); }
+.detail-foot { font-size: 0.78rem; line-height: 1.5; color: var(--text-muted); margin: 8px 0 0; }
+.reaction-box {
+  border-top: 1px solid var(--border);
+  padding-top: 8px;
+}
+.reaction-box h2 { font-size: 0.9rem; margin-bottom: 6px; }
+.reaction-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 6px;
+}
+.reaction-grid .btn { white-space: nowrap; padding: 6px 2px; font-size: 0.84rem; }
+/* 「読んだことがある」は文字が長いので2マス分の幅にする */
+.reaction-grid .btn:nth-child(4) { grid-column: span 2; }
 
 /* ---- お知らせ・状態表示 ---- */
 
 .notice {
   border-radius: var(--radius-sm);
-  padding: 12px 14px;
-  margin-bottom: 16px;
+  padding: 8px 12px;
+  margin-bottom: 10px;
   background: var(--surface-muted);
-  font-size: 0.95rem;
+  font-size: 0.88rem;
+  line-height: 1.55;
 }
+.notice p { margin: 0 0 6px; }
+.notice p:last-child { margin: 0; }
 .notice--error { background: var(--danger-soft); color: var(--danger); }
 .notice--accent { background: var(--accent-soft); }
+.suggestion {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.suggestion + .suggestion { margin-top: 4px; }
+.suggestion span { flex: 1; min-width: 0; }
+.suggestion .btn { flex: none; }
 .empty {
   text-align: center;
-  padding: 32px 8px;
+  padding: 28px 8px;
   color: var(--text-muted);
 }
 .spinner {
@@ -502,7 +583,7 @@ main:focus { outline: none; }
   padding: 4px;
   background: var(--surface-muted);
   border-radius: var(--radius-sm);
-  margin-bottom: 16px;
+  margin-bottom: 12px;
 }
 .tab {
   min-height: 44px;
@@ -523,15 +604,20 @@ main:focus { outline: none; }
   color: var(--text);
   box-shadow: var(--shadow);
 }
+.shelf-list { list-style: none; padding: 0; margin: 0; }
 .shelf-item {
   display: flex;
   gap: 12px;
   align-items: center;
+  padding: 10px;
 }
+.shelf-item .cover { width: 44px; }
+.shelf-item .cover__placeholder { font-size: 1.1rem; border-left-width: 4px; }
 .shelf-item__body { flex: 1; min-width: 0; }
 .shelf-item__title {
   font-weight: 700;
   margin: 0;
+  line-height: 1.4;
   overflow-wrap: anywhere;
 }
 
@@ -540,6 +626,6 @@ main:focus { outline: none; }
 }
 
 @media (min-width: 700px) {
-  body { font-size: 18px; }
+  body { font-size: 17px; }
   .book-card__actions { grid-template-columns: repeat(4, 1fr); }
 }

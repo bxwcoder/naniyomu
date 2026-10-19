@@ -14,7 +14,9 @@ export function FavoritePage({ text, onChange, onSubmit, onBack }: Props) {
   const hintId = useId();
   return (
     <>
-      <p className="muted small">追加の質問（入力しなくても大丈夫です）</p>
+      <p className="muted small" style={{ marginBottom: 4 }}>
+        追加の質問（入力しなくても大丈夫です）
+      </p>
       <h1>最近、面白かった本はありますか？</h1>
 
       <form
@@ -35,9 +37,8 @@ export function FavoritePage({ text, onChange, onSubmit, onBack }: Props) {
             onChange={(e) => onChange(e.target.value)}
           />
         </div>
-        <p id={hintId} className="muted small">
-          ナニヨムに登録されている本のタイトルが入っていれば、その本の特徴を参考にします。
-          登録されていない本の場合は、今回は質問の回答だけでおすすめを選びます。
+        <p id={hintId} className="muted small" style={{ margin: 0 }}>
+          ナニヨムに登録済みの本なら、その本の特徴を参考にします。
         </p>
         <button type="submit" className="btn btn--primary btn--block" disabled={text.trim() === ''}>
           この内容でおすすめを見る
@@ -45,7 +46,7 @@ export function FavoritePage({ text, onChange, onSubmit, onBack }: Props) {
         <button type="button" className="btn btn--block" onClick={() => onSubmit('')}>
           入力せずにおすすめを見る
         </button>
-        <button type="button" className="btn btn--ghost" onClick={onBack}>
+        <button type="button" className="btn btn--ghost btn--small" onClick={onBack}>
           ← 前の質問に戻る
         </button>
       </form>

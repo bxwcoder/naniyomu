@@ -189,6 +189,18 @@ function tagLabel(tag: string): string {
   return table[kind]?.[value] ?? value;
 }
 
+/** カード用の短いラベル。読みやすさはカードに別に表示するので含めない */
+export function buildHighlights(book: Book, detail: ScoreDetail, answers: Answers, favoriteBooks: Book[]): string[] {
+  const list: string[] = [];
+  if (detail.theme && answers.theme !== NO_THEME) list.push(`興味：${THEMES[answers.theme]}`);
+  if (detail.mood) list.push(`気分：${MOODS[answers.mood]}`);
+  if (detail.length) list.push(`長さ：${LENGTHS[book.length_category]}`);
+  if (detail.favoriteShared.length > 0 && favoriteBooks.length > 0) {
+    list.push(`『${favoriteBooks[0].title}』と共通点あり`);
+  }
+  return list;
+}
+
 export function buildReasons(
   book: Book,
   detail: ScoreDetail,
@@ -280,6 +292,7 @@ export function recommend(books: Book[], answers: Answers, options: RecommendOpt
     role,
     score: c.detail.score,
     reasons: buildReasons(c.book, c.detail, answers, role, favoriteMatches, firstBook),
+    highlights: buildHighlights(c.book, c.detail, answers, favoriteMatches),
   });
 
   if (pool.length < 3) {

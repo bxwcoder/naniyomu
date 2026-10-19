@@ -43,7 +43,7 @@ export function ShelfPage({ tab, books }: Props) {
           </a>
         </div>
       ) : (
-        <ul className="stack" style={{ listStyle: 'none', padding: 0, margin: 0 }}>
+        <ul className="stack shelf-list">
           {list.map((book) => (
             <li key={book.book_id} className="card shelf-item">
               <BookCover book={book} />
