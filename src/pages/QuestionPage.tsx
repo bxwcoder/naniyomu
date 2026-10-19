@@ -40,22 +40,21 @@ export function QuestionPage({ index, answers, onAnswer, onBack, onNext }: Props
 
       <h1 id={headingId}>{q.text}</h1>
 
-      <ul className="choices" role="radiogroup" aria-labelledby={headingId}>
+      <div className="choices" role="radiogroup" aria-labelledby={headingId}>
         {q.choices.map((c) => (
-          <li key={c.value}>
-            <button
-              type="button"
-              role="radio"
-              aria-checked={selected === c.value}
-              className="choice"
-              onClick={() => onAnswer(q.key, c.value)}
-            >
-              <span className="choice__mark" aria-hidden="true" />
-              {c.label}
-            </button>
-          </li>
+          <button
+            key={c.value}
+            type="button"
+            role="radio"
+            aria-checked={selected === c.value}
+            className="choice"
+            onClick={() => onAnswer(q.key, c.value)}
+          >
+            <span className="choice__mark" aria-hidden="true" />
+            {c.label}
+          </button>
         ))}
-      </ul>
+      </div>
 
       <div className="nav-row">
         <button type="button" className="btn btn--small" onClick={onBack}>

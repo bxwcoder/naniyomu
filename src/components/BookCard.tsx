@@ -18,11 +18,9 @@ export const ROLE_LABELS: Record<RecommendationRole, string> = {
 
 interface Props {
   rec: Recommendation;
-  id?: string;
-  labelledBy?: string;
 }
 
-export function BookCard({ rec, id, labelledBy }: Props) {
+export function BookCard({ rec }: Props) {
   const { book } = rec;
   const lib = useLibrary();
   const fav = lib.isFavorite(book.book_id);
@@ -30,12 +28,7 @@ export function BookCard({ rec, id, labelledBy }: Props) {
   const disliked = lib.hasReaction(book.book_id, 'not_for_me');
 
   return (
-    <article
-      className="card book-card"
-      id={id}
-      role={labelledBy ? 'tabpanel' : undefined}
-      aria-labelledby={labelledBy}
-    >
+    <article className="card book-card">
       <div className="book-card__head">
         <BookCover book={book} />
         <div>

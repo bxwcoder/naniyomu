@@ -121,13 +121,14 @@ export function ResultsPage({ result, onApplySuggestion, onRefresh, onRestart }:
       )}
 
       {count > 0 && (
-          <div onTouchStart={onTouchStart} onTouchEnd={onTouchEnd}>
-            <BookCard
-              key={shown.book.book_id}
-              rec={shown}
-              id="book-panel"
-              labelledBy={count > 1 ? `book-tab-${index}` : undefined}
-            />
+          <div
+            id="book-panel"
+            role={count > 1 ? 'tabpanel' : undefined}
+            aria-labelledby={count > 1 ? `book-tab-${index}` : undefined}
+            onTouchStart={onTouchStart}
+            onTouchEnd={onTouchEnd}
+          >
+            <BookCard key={shown.book.book_id} rec={shown} />
           </div>
       )}
 

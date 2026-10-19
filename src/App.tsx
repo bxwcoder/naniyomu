@@ -118,7 +118,8 @@ function AppInner() {
       <div className="notice notice--error" role="alert">
         <p>{load.message}</p>
         <p>通信状態を確認して、もう一度お試しください。</p>
-        <button type="button" className="btn" onClick={startLoading}>
+        {/* 一度失敗した読み込みはブラウザが覚えてしまうので、ページごと読み込み直す */}
+        <button type="button" className="btn" onClick={() => window.location.reload()}>
           もう一度読み込む
         </button>
       </div>
