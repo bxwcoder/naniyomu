@@ -244,3 +244,26 @@ describe('データの形式チェック', () => {
     expect(validateBooks({}).errors).toHaveLength(1);
   });
 });
+
+describe('同じ点数の本の選ばれ方', () => {
+  it('同じ「くじ」番号なら、毎回同じ結果になる', () => {
+    const a = recommend(books, baseAnswers, { seed: 42 }).recommendations.map((r) => r.book.book_id);
+    const b = recommend(books, baseAnswers, { seed: 42 }).recommendations.map((r) => r.book.book_id);
+    expect(a).toEqual(b);
+  });
+
+  it('「くじ」を変えると、同じ点数の本の中から別の本も選ばれる（登録順だけで決まらない）', () => {
+    const seen = new Set<string>();
+    for (let seed = 1; seed <= 30; seed++) {
+      for (const r of recommend(books, baseAnswers, { seed }).recommendations) seen.add(r.book.book_id);
+    }
+    expect(seen.size).toBeGreaterThan(3);
+  });
+
+  it('どの「くじ」でも、1冊目は候補の中でいちばん点数が高い', () => {
+    const top = Math.max(...books.map((b) => scoreBook(b, baseAnswers).score));
+    for (let seed = 1; seed <= 20; seed++) {
+      expect(recommend(books, baseAnswers, { seed }).recommendations[0].score).toBe(top);
+    }
+  });
+});

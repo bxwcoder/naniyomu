@@ -2,6 +2,7 @@ import { describe, expect, it } from 'vitest';
 import booksData from '../data/books.json';
 import { recommend } from '../logic/recommend.ts';
 import { validateBooks } from '../logic/validateBooks.ts';
+import { GENRE_CHOICES, MOODS } from '../data/options.ts';
 import type { Answers } from '../types.ts';
 import { emptyLibrary, excludedBookIds, libraryReducer } from './library.tsx';
 import {
@@ -28,6 +29,19 @@ function memoryStore(initial: Record<string, string> = {}): KeyValueStore & { da
       data[k] = v;
     },
   };
+}
+
+/** 3冊そろわない答え方を1つ探す（読んだ本を多めに外して、必ず見つかるようにする） */
+function findInsufficientAnswers(): Answers {
+  const moods = Object.keys(MOODS) as Answers['mood'][];
+  const genres = Object.keys(GENRE_CHOICES).filter((g) => g !== 'any') as Answers['genre'][];
+  for (const genre of genres)
+    for (const mood of moods)
+      for (const difficulty of ['smooth', 'somewhat'] as Answers['difficulty'][]) {
+        const a: Answers = { mood, theme: 'none', difficulty, length: 'any', genre };
+        if (recommend(books, a).status === 'insufficient') return a;
+      }
+  throw new Error('3冊そろわない答え方が見つかりませんでした');
 }
 
 const answers: Answers = { mood: 'absorbing', theme: 'world', difficulty: 'any', length: 'any', genre: 'any' };
@@ -125,7 +139,8 @@ describe('前回の回答と結果の保存', () => {
   });
 
   it('条件が少なかったときの結果と案内も元に戻せる', () => {
-    const few: Answers = { mood: 'relaxing', theme: 'imagination', difficulty: 'smooth', length: 'any', genre: 'manga' };
+    // 本のデータが増えても使えるよう、3冊そろわない答え方を自動で探す
+    const few = findInsufficientAnswers();
     const result = recommend(books, few);
     expect(result.status).toBe('insufficient');
     const restored = restoreSession(toStoredSession(few, result), books);

@@ -34,6 +34,23 @@ import { DIVERSITY, SCORING } from './scoringConfig.ts';
 export interface RecommendOptions {
   /** おすすめから外す本（既読の本、「好みと違う」を押した本など） */
   excludeBookIds?: Iterable<string>;
+  /**
+   * 点数が同じ本の並び順を決める「くじ」の番号。
+   * 同じ番号なら毎回同じ結果になる（テスト用）。画面では毎回変えて、同点の本がまんべんなく出るようにする。
+   */
+  seed?: number;
+}
+
+/** 番号から、毎回同じ並びの乱数を作る（mulberry32 という簡単な方法） */
+function seededRandom(seed: number): () => number {
+  let a = seed >>> 0;
+  return () => {
+    a = (a + 0x6d2b79f5) >>> 0;
+    let t = a;
+    t = Math.imul(t ^ (t >>> 15), t | 1);
+    t ^= t + Math.imul(t ^ (t >>> 7), t | 61);
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+  };
 }
 
 /** 点数の内訳。おすすめ理由を作るときにも使う */
@@ -285,7 +302,12 @@ export function recommend(books: Book[], answers: Answers, options: RecommendOpt
     .map((book) => ({ book, detail: scoreBook(book, answers, favoriteMatches) }))
     .filter((c) => isRelevant(c.detail));
   // 点数の高い順に並べる（sort は同点のとき元の順番を保つ）
-  pool.sort((a, b) => b.detail.score - a.detail.score);
+  // 同点の本は「くじ」で並べ、登録順が早い本ばかりが選ばれないようにする
+  const random = seededRandom(options.seed ?? 1);
+  const tieBreak = new Map(pool.map((c) => [c.book.book_id, random()]));
+  pool.sort(
+    (a, b) => b.detail.score - a.detail.score || tieBreak.get(a.book.book_id)! - tieBreak.get(b.book.book_id)!,
+  );
 
   const toRecommendation = ([c, role]: [Candidate, RecommendationRole], firstBook?: Book): Recommendation => ({
     book: c.book,

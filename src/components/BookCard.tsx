@@ -5,9 +5,16 @@
 import { DIFFICULTIES, GENRES } from '../data/options.ts';
 import { paths } from '../hooks/useHashRoute.ts';
 import { useLibrary } from '../state/library.tsx';
-import type { Recommendation, RecommendationRole } from '../types.ts';
+import type { Book, Recommendation, RecommendationRole } from '../types.ts';
 import { BookCover } from './BookCover.tsx';
 import { HighlightList } from './HighlightList.tsx';
+
+/** カードの札に出す、短い読みやすさの表示（「読みやすさ：」を付けなくても意味が分かる言い方） */
+const DIFFICULTY_TAGS: Record<Book['difficulty'], string> = {
+  easy: 'スラスラ読める',
+  normal: 'ふつうの読みやすさ',
+  challenging: 'じっくり読む本',
+};
 
 /** タブに出す、3冊それぞれの役割 */
 export const ROLE_LABELS: Record<RecommendationRole, string> = {
@@ -40,14 +47,17 @@ export function BookCard({ rec }: Props) {
                 {GENRES[g]}
               </li>
             ))}
-            <li className="tag">読みやすさ：{DIFFICULTIES[book.difficulty]}</li>
+            <li className="tag" aria-label={`読みやすさ：${DIFFICULTIES[book.difficulty]}`}>
+              {DIFFICULTY_TAGS[book.difficulty]}
+            </li>
           </ul>
         </div>
       </div>
 
       <p className="book-card__desc">{book.description}</p>
 
-      <HighlightList items={rec.highlights} />
+      {/* 1画面に収めるため、カードでは大事な2つ（興味・気分）まで。残りは詳細画面で表示 */}
+      <HighlightList items={rec.highlights.slice(0, 2)} />
 
       <div className="book-card__actions">
         <button

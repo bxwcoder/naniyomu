@@ -102,7 +102,13 @@ function AppInner() {
   }, [route, draft, result, restored]);
 
   const runRecommend = (books: Book[], answers: Answers) => {
-    setResult(recommend(books, answers, { excludeBookIds: excludedBookIds(lib.state) }));
+    setResult(
+      recommend(books, answers, {
+        excludeBookIds: excludedBookIds(lib.state),
+        // 毎回ちがう「くじ」にして、同じ点数の本がまんべんなく出るようにする
+        seed: Math.floor(Math.random() * 2 ** 31),
+      }),
+    );
   };
 
   let content: React.ReactNode;

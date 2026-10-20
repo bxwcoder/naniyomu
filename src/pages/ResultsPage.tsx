@@ -14,8 +14,8 @@ interface Props {
 }
 
 const SUGGESTION_LABELS: Record<RelaxSuggestion['question'], string> = {
-  genre: 'ジャンルを問わない',
-  difficulty: '読みやすさを気にしない',
+  genre: 'ジャンルを問わずに探す',
+  difficulty: '読みやすさを問わずに探す',
 };
 
 /** 指を横に何px動かしたら「スワイプ」とみなすか */
@@ -63,36 +63,29 @@ export function ResultsPage({ result, onApplySuggestion, onRefresh, onRestart }:
   return (
     <>
       {/* 3冊のときはタブで分かるので、見出しは読み上げ用にだけ残す */}
-      <h1 className={insufficient ? 'result-title' : 'visually-hidden'}>
-        {!insufficient
-          ? 'あなたへのおすすめ3冊'
-          : count === 0
-            ? '今の条件に合う本は、まだありません'
-            : `今の条件に合う本は${count}冊でした`}
-      </h1>
+      {!insufficient && <h1 className="visually-hidden">あなたへのおすすめ3冊</h1>}
 
-
+      {/* 3冊そろわないときは、見出しと「条件を変えて探す」ボタンを1つの枠にまとめる */}
       {insufficient && (
-        <section className="notice" aria-label="条件を変えて探す">
-          {result.suggestions
-            .filter((s) => s.availableCount > 0)
-            .map((s) => (
-              <div key={s.question} className="suggestion">
-                <span>
-                  {SUGGESTION_LABELS[s.question]}
-                  <strong>（{s.availableCount}冊）</strong>
-                </span>
-                <button type="button" className="btn btn--small" onClick={() => onApplySuggestion(s)}>
-                  この条件で探す
+        <section className="notice" aria-labelledby="insufficient-title">
+          <h1 id="insufficient-title" className="result-title">
+            {count === 0 ? '今の条件に合う本は、まだありません' : `今の条件に合う本は${count}冊でした`}
+          </h1>
+          <div className="grid-2">
+            {result.suggestions
+              .filter((s) => s.availableCount > 0)
+              .map((s) => (
+                <button key={s.question} type="button" className="btn btn--small" onClick={() => onApplySuggestion(s)}>
+                  {SUGGESTION_LABELS[s.question]}（{s.availableCount}冊）
                 </button>
-              </div>
-            ))}
+              ))}
+          </div>
         </section>
       )}
 
       {count > 1 && (
           <div
-            className="book-tabs"
+            className={`book-tabs${count <= 2 ? ' book-tabs--compact' : ''}`}
             role="tablist"
             aria-label="おすすめの本"
             style={{ '--tab-count': count } as React.CSSProperties}
