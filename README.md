@@ -21,6 +21,7 @@
 | `src/logic/recommend.ts` | おすすめ3冊を選ぶ処理 |
 | `src/logic/matchFavorite.ts` | 「好きだった本」の入力を登録済みの本と照らし合わせる処理 |
 | `src/logic/validateBooks.ts` | 本のデータに書き間違いがないかを調べる処理 |
+| `src/logic/isbn.ts` | ISBN（本の番号）の打ち間違いの確認と、10けた→13けたの変換 |
 | `src/logic/recommend.test.ts` | 上の処理が正しく動くかを確かめる自動テスト |
 | `src/App.tsx` と `src/pages/` | 各画面（トップ・質問・結果・詳細・本棚） |
 | `src/state/library.tsx` | お気に入り・読んだ本・反応の管理 |
@@ -35,7 +36,8 @@
 1. `src/data/books.json` に1冊分を追加します（ほかの本と同じ形で書きます）。
 2. ジャンルなどの値は `src/data/options.ts` に書かれているものだけを使います。
 3. 実在を確認した本だけを登録し、確認したページのURLを `metadata_source` に書きます。
-4. `npm test` を実行して、エラーが出ないことを確かめます。
+4. `isbn` には、代表的な1冊（文庫があれば文庫、上下巻や漫画は第1巻）のISBN-13をハイフンなしで書きます。確認できない場合は `null` にします（推測で埋めない）。番号の打ち間違いは `npm test` で自動的に見つかります。
+5. `npm test` を実行して、エラーが出ないことを確かめます。
 
 ## 開発用のコマンド
 

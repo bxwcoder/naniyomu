@@ -30,6 +30,12 @@ export interface Book {
   recommendation_reasons: string[];
   cover_image_url: string | null;
   purchase_url: string | null;
+  /**
+   * 代表的な1冊の ISBN-13（ハイフンなし）。文庫があれば文庫、上下巻や漫画は第1巻。
+   * 確認できていない本は null（推測で埋めない）。
+   * ※本の識別には book_id を使う。ISBN は版ごとに変わるので、識別には使わない。
+   */
+  isbn: string | null;
   /** 書誌情報を確認したページ */
   metadata_source: string;
   metadata_verified: boolean;

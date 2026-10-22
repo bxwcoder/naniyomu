@@ -196,6 +196,7 @@ describe('条件に合う本が少ないとき', () => {
     recommendation_reasons: [],
     cover_image_url: null,
     purchase_url: null,
+    isbn: null,
     metadata_source: 'https://example.com',
     metadata_verified: true,
     ...over,

@@ -4,6 +4,7 @@
 
 import { DIFFICULTIES, GENRES, LENGTHS, MOODS, THEMES } from '../data/options.ts';
 import type { Book } from '../types.ts';
+import { isValidIsbn13 } from './isbn.ts';
 
 export interface ValidationResult {
   /** 問題のなかった本 */
@@ -40,7 +41,13 @@ function checkUrlOrNull(value: unknown, field: string, label: string, errors: st
 }
 
 /** 1冊分をチェックし、問題を errors に追加する。問題がなければ true */
-function validateOne(raw: unknown, index: number, seenIds: Set<string>, errors: string[]): raw is Book {
+function validateOne(
+  raw: unknown,
+  index: number,
+  seenIds: Set<string>,
+  seenIsbns: Map<string, string>,
+  errors: string[],
+): raw is Book {
   const before = errors.length;
   if (typeof raw !== 'object' || raw === null) {
     errors.push(`${index + 1}件目: 本のデータの形になっていません`);
@@ -76,6 +83,15 @@ function validateOne(raw: unknown, index: number, seenIds: Set<string>, errors: 
   }
   checkUrlOrNull(b.cover_image_url, 'cover_image_url', label, errors);
   checkUrlOrNull(b.purchase_url, 'purchase_url', label, errors);
+  if (b.isbn !== null) {
+    if (typeof b.isbn !== 'string' || !isValidIsbn13(b.isbn)) {
+      errors.push(`${label}: isbn「${String(b.isbn)}」が正しくありません（ハイフンなしの13けた。打ち間違いの可能性があります）。分からない場合は null にしてください`);
+    } else if (seenIsbns.has(b.isbn)) {
+      errors.push(`${label}: isbn「${b.isbn}」が「${seenIsbns.get(b.isbn)}」と重複しています`);
+    } else {
+      seenIsbns.set(b.isbn, String(b.title));
+    }
+  }
   if (!isNonEmptyString(b.metadata_source)) errors.push(`${label}: metadata_source（確認元）がありません`);
   if (typeof b.metadata_verified !== 'boolean') {
     errors.push(`${label}: metadata_verified は true か false にしてください`);
@@ -94,9 +110,10 @@ export function validateBooks(data: unknown): ValidationResult {
     return { validBooks: [], errors: ['本のデータが配列（[ ] で囲んだ一覧）になっていません'] };
   }
   const seenIds = new Set<string>();
+  const seenIsbns = new Map<string, string>();
   const validBooks: Book[] = [];
   data.forEach((raw, i) => {
-    if (validateOne(raw, i, seenIds, errors) && raw.metadata_verified) {
+    if (validateOne(raw, i, seenIds, seenIsbns, errors) && raw.metadata_verified) {
       validBooks.push(raw);
     }
   });
