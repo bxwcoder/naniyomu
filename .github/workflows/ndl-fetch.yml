@@ -2,6 +2,7 @@
 #
 # 実行方法：GitHub のリポジトリ画面 →「Actions」→「国立国会図書館から書誌情報を取得」→「Run workflow」
 # 結果は「ndl-data」ブランチに保存されます（main ブランチやアプリの公開には影響しません）。
+# 前回までに取れた本は取り直さないので、全部そろうまで何回か実行できます。
 
 name: 国立国会図書館から書誌情報を取得
 
@@ -18,7 +19,7 @@ concurrency:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 55
     steps:
       - uses: actions/checkout@v4
 
@@ -26,18 +27,38 @@ jobs:
         with:
           node-version-file: .node-version
 
+      - name: 前回までの結果を読み込む
+        run: |
+          mkdir -p ndl-output
+          if git fetch --depth 1 origin ndl-data; then
+            git archive FETCH_HEAD ndl | tar -x -C /tmp
+            cp -r /tmp/ndl/. ndl-output/
+            echo "前回の結果を読み込みました"
+          else
+            echo "前回の結果はありません"
+          fi
+
       - name: 書誌情報を取得
+        # 40分を過ぎたら区切りのよいところで終わり、取れた分を保存する
+        env:
+          MAX_RUN_MINUTES: '40'
         run: node scripts/ndl/fetch.mjs ndl-output
 
       - name: 結果を ndl-data ブランチに保存
+        # 取得の途中で止まっても、取れた分は保存する
+        if: always()
         run: |
+          if [ ! -f ndl-output/records.json ]; then
+            echo "保存する結果がありません"
+            exit 0
+          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           mv ndl-output /tmp/ndl-output
-          git checkout --orphan ndl-data
+          git checkout --orphan ndl-data-new
           git rm -rf --quiet .
           mkdir -p ndl
           cp -r /tmp/ndl-output/. ndl/
           git add ndl
           git commit --quiet -m "国立国会図書館の書誌情報（${GITHUB_SHA::7} 時点の本のデータ）"
-          git push --force origin ndl-data
+          git push --force origin ndl-data-new:ndl-data
