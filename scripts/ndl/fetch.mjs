@@ -9,22 +9,13 @@
 //     途中で止まっても、もう一度動かせば続きから取り込めます。
 //   - 環境変数 MAX_RUN_MINUTES（既定40分）を過ぎたら、区切りのよいところで終わります。
 //
-// 利用条件：国立国会図書館サーチの外部提供インタフェース（API）の利用条件に従います。
-//   https://ndlsearch.ndl.go.jp/help/api
-//   ※API の利用は非営利目的が前提です。広告や購入リンクで収益を得るようになったら、利用条件を確認し直します。
+// 利用条件は scripts/ndl/client.mjs を見てください。
 
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
+import { INTERVAL_MS, mainAuthor, normalizeName, query, sleep } from './client.mjs';
 import { parseOpenSearch } from './parse.mjs';
 
-const ENDPOINT = 'https://ndlsearch.ndl.go.jp/api/opensearch';
-const USER_AGENT = 'naniyomu-book-data/0.1 (+https://github.com/bxwcoder/naniyomu)';
-/** 問い合わせの間隔（ミリ秒）。国立国会図書館の負担にならないよう広めにとる */
-const INTERVAL_MS = 3000;
-/** 1回の問い合わせで待つ最大時間（ミリ秒）。応答が遅いことがあるので長めにする */
-const TIMEOUT_MS = 90000;
-/** 「問い合わせが多すぎます」（429）と言われたときに待つ時間（ミリ秒） */
-const RATE_LIMIT_WAIT_MS = 60000;
 /** この時間を過ぎたら、新しい本の取得を始めずに終わる */
 const MAX_RUN_MS = Number(process.env.MAX_RUN_MINUTES ?? 40) * 60000;
 /** 検索方法の版。検索方法を変えたら数字を上げると、古い方法で見つからなかった本を取り直す */
@@ -32,34 +23,6 @@ const METHOD_VERSION = 2;
 const startedAt = Date.now();
 
 const outDir = process.argv[2] ?? 'ndl-output';
-const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
-
-async function query(params) {
-  const url = `${ENDPOINT}?${new URLSearchParams(params)}`;
-  for (let attempt = 1; attempt <= 3; attempt++) {
-    try {
-      // 応答が返ってこないときに待ち続けないよう、一定時間であきらめて次の試行に進む
-      const res = await fetch(url, { headers: { 'User-Agent': USER_AGENT }, signal: AbortSignal.timeout(TIMEOUT_MS) });
-      const text = await res.text();
-      if (res.ok) return { url, status: res.status, text };
-      console.warn(`  ${res.status} が返りました（${attempt}回目）: ${url}`);
-      if (res.status < 500 && res.status !== 429) return { url, status: res.status, text };
-      if (res.status === 429) {
-        await sleep(RATE_LIMIT_WAIT_MS);
-        continue;
-      }
-    } catch (e) {
-      console.warn(`  通信エラー（${attempt}回目）: ${e.message}`);
-    }
-    await sleep(INTERVAL_MS * attempt * 2);
-  }
-  return { url, status: 0, text: '' };
-}
-
-/** 検索に使うため、著者名から「（原作）」などの補足や、複数著者の2人目以降を外す */
-function mainAuthor(author) {
-  return author.split(/[、,]/)[0].replace(/（.*?）|\(.*?\)/g, '').trim();
-}
 
 const books = JSON.parse(await readFile('src/data/books.json', 'utf8'));
 await mkdir(join(outDir, 'raw'), { recursive: true });
@@ -81,11 +44,6 @@ try {
 }
 const saveRecords = (records) =>
   writeFile(recordsPath, JSON.stringify({ fetchedAt: new Date().toISOString(), records }, null, 2));
-
-/** 国立国会図書館の著者名「小川, 洋子, 1962-」を「小川洋子」の形にそろえる */
-function normalizeName(name) {
-  return name.replace(/,?\s*\d{4}-(\d{4})?/g, '').replace(/[,\s・=＝]/g, '');
-}
 
 /** タイトルで検索し、著者名が合う候補だけを残す（国立国会図書館の著者名は「姓, 名」の形のため） */
 async function searchByTitle(book) {

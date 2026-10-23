@@ -1,0 +1,64 @@
+# 候補リストの本を国立国会図書館サーチで探す（手動で実行）
+#
+# 実行方法：GitHub のリポジトリ画面 →「Actions」→「候補リストの本を国立国会図書館で探す」→「Run workflow」
+# 結果は「catalog-data」ブランチに保存されます（main ブランチやアプリの公開には影響しません）。
+# 前回までに取れた本は取り直さないので、全部そろうまで何回か実行できます。
+
+name: 候補リストの本を国立国会図書館で探す
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: catalog-fetch
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .node-version
+
+      - name: 前回までの結果を読み込む
+        run: |
+          mkdir -p catalog-output
+          if git fetch --depth 1 origin catalog-data; then
+            git archive FETCH_HEAD catalog | tar -x -C /tmp
+            cp -r /tmp/catalog/. catalog-output/
+            echo "前回の結果を読み込みました"
+          else
+            echo "前回の結果はありません"
+          fi
+
+      - name: 本を探す
+        # 40分を過ぎたら区切りのよいところで終わり、取れた分を保存する
+        env:
+          MAX_RUN_MINUTES: '40'
+        run: node scripts/catalog/fetch.mjs catalog-output
+
+      - name: 結果を catalog-data ブランチに保存
+        # 途中で止まっても、取れた分は保存する
+        if: always()
+        run: |
+          if [ ! -f catalog-output/records.json ]; then
+            echo "保存する結果がありません"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mv catalog-output /tmp/catalog-output
+          git checkout --orphan catalog-data-new
+          git rm -rf --quiet .
+          mkdir -p catalog
+          cp -r /tmp/catalog-output/. catalog/
+          git add catalog
+          git commit --quiet -m "候補リストの検索結果（${GITHUB_SHA::7} 時点の候補リスト）"
+          git push --force origin catalog-data-new:catalog-data

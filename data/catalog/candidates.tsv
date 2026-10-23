@@ -1,0 +1,135 @@
+# ナニヨムに入れる本の候補リスト
+# 1行に1冊。タブ区切りで「タイトル	著者	選定元	札の上書き（任意）」。
+# - タイトルは副題を除いた本のタイトル（国立国会図書館の記録と照らし合わせます）
+# - 著者は代表の1人（共著・原作と作画などは「、」で区切り、1人目で照らし合わせます）
+# - 選定元ごとの札の決め方は scripts/catalog/rules.mjs にあります
+# - 札の上書きの書き方：d=難しさ / g=ジャンル / t=テーマ / m=気分（複数は「,」区切り、「;」で区切って並べる）
+#   例：d=easy;t=life,mystery
+title	author	source	hints
+博士の愛した数式	小川洋子	本屋大賞	d=easy
+夜のピクニック	恩田陸	本屋大賞	d=easy
+東京タワー	リリー・フランキー	本屋大賞	d=easy
+一瞬の風になれ	佐藤多佳子	本屋大賞	d=easy
+ゴールデンスランバー	伊坂幸太郎	本屋大賞	g=mystery_sf;t=mystery,life
+告白	湊かなえ	本屋大賞	d=easy;g=mystery_sf;t=mystery
+天地明察	冲方丁	本屋大賞	t=life,world
+謎解きはディナーのあとで	東川篤哉	本屋大賞	d=easy;g=mystery_sf;t=mystery;m=relaxing,absorbing
+舟を編む	三浦しをん	本屋大賞	d=easy
+海賊とよばれた男	百田尚樹	本屋大賞	t=life,world
+村上海賊の娘	和田竜	本屋大賞	t=world
+鹿の王	上橋菜穂子	本屋大賞	t=imagination,world
+羊と鋼の森	宮下奈都	本屋大賞	d=easy
+蜜蜂と遠雷	恩田陸	本屋大賞	
+かがみの孤城	辻村深月	本屋大賞	d=easy;t=imagination,mystery,life
+そして、バトンは渡された	瀬尾まいこ	本屋大賞	d=easy
+流浪の月	凪良ゆう	本屋大賞	
+52ヘルツのクジラたち	町田そのこ	本屋大賞	d=easy
+同志少女よ、敵を撃て	逢坂冬馬	本屋大賞	t=world,life
+汝、星のごとく	凪良ゆう	本屋大賞	
+成瀬は天下を取りにいく	宮島未奈	本屋大賞	d=easy;m=relaxing,absorbing
+カフネ	阿部暁子	本屋大賞	d=easy
+小さいおうち	中島京子	直木賞	
+月と蟹	道尾秀介	直木賞	
+下町ロケット	池井戸潤	直木賞	d=easy;t=life,practical
+蜩ノ記	葉室麟	直木賞	
+鍵のない夢を見る	辻村深月	直木賞	
+何者	朝井リョウ	直木賞	d=easy
+等伯	安部龍太郎	直木賞	
+ホテルローヤル	桜木紫乃	直木賞	
+恋歌	朝井まかて	直木賞	
+破門	黒川博行	直木賞	
+サラバ!	西加奈子	直木賞	
+流	東山彰良	直木賞	t=life,world
+海の見える理髪店	荻原浩	直木賞	
+月の満ち欠け	佐藤正午	直木賞	t=life,imagination
+銀河鉄道の父	門井慶喜	直木賞	
+ファーストラヴ	島本理生	直木賞	t=life,mystery
+宝島	真藤順丈	直木賞	t=world,life
+熱源	川越宗一	直木賞	t=world,life
+少年と犬	馳星周	直木賞	d=easy
+心淋し川	西條奈加	直木賞	
+テスカトリポカ	佐藤究	直木賞	t=world;m=absorbing,wonder
+星落ちて、なお	澤田瞳子	直木賞	
+黒牢城	米澤穂信	直木賞	g=mystery_sf;t=mystery
+塞王の楯	今村翔吾	直木賞	t=world
+夜に星を放つ	窪美澄	直木賞	
+地図と拳	小川哲	直木賞	t=world,imagination
+しろがねの葉	千早茜	直木賞	
+木挽町のあだ討ち	永井紗耶子	直木賞	t=mystery,life
+八月の御所グラウンド	万城目学	直木賞	t=imagination,life
+ツミデミック	一穂ミチ	直木賞	
+蛇にピアス	金原ひとみ	芥川賞	
+蹴りたい背中	綿矢りさ	芥川賞	
+苦役列車	西村賢太	芥川賞	
+火花	又吉直樹	芥川賞	
+スクラップ・アンド・ビルド	羽田圭介	芥川賞	
+コンビニ人間	村田沙耶香	芥川賞	
+おらおらでひとりいぐも	若竹千佐子	芥川賞	
+むらさきのスカートの女	今村夏子	芥川賞	
+推し、燃ゆ	宇佐見りん	芥川賞	
+おいしいごはんが食べられますように	高瀬隼子	芥川賞	
+ハンチバック	市川沙央	芥川賞	
+東京都同情塔	九段理江	芥川賞	t=life,imagination
+岳	石塚真一	マンガ大賞	t=world,life;m=moving,absorbing
+ちはやふる	末次由紀	マンガ大賞	t=life;m=moving,absorbing
+テルマエ・ロマエ	ヤマザキマリ	マンガ大賞	t=imagination,world;m=relaxing,wonder
+3月のライオン	羽海野チカ	マンガ大賞	t=life;m=moving
+銀の匙	荒川弘	マンガ大賞	t=life,world;m=relaxing,moving
+海街diary	吉田秋生	マンガ大賞	t=life;m=moving,relaxing
+乙嫁語り	森薫	マンガ大賞	t=world,life;m=relaxing,wonder
+かくかくしかじか	東村アキコ	マンガ大賞	t=life;m=moving
+ゴールデンカムイ	野田サトル	マンガ大賞	t=world;m=absorbing,wonder
+BEASTARS	板垣巴留	マンガ大賞	t=imagination,life;m=absorbing
+彼方のアストラ	篠原健太	マンガ大賞	t=imagination,mystery;m=absorbing
+ブルーピリオド	山口つばさ	マンガ大賞	t=life;m=moving,absorbing
+葬送のフリーレン	山田鐘人、アベツカサ	マンガ大賞	t=imagination,life;m=moving
+ダンピアのおいしい冒険	トマトスープ	マンガ大賞	t=world;m=wonder,absorbing
+これ描いて死ね	とよ田みのる	マンガ大賞	t=life;m=moving
+君と宇宙を歩くために	泥ノ田犬彦	マンガ大賞	t=life;m=moving
+生物と無生物のあいだ	福岡伸一	新書大賞	
+ルポ貧困大国アメリカ	堤未果	新書大賞	g=nonfiction,liberal_arts;t=world
+日本辺境論	内田樹	新書大賞	d=challenging
+デフレの正体	藻谷浩介	新書大賞	
+ふしぎなキリスト教	橋爪大三郎、大澤真幸	新書大賞	
+社会を変えるには	小熊英二	新書大賞	d=challenging
+里山資本主義	藻谷浩介	新書大賞	
+京都ぎらい	井上章一	新書大賞	m=learning,relaxing
+言ってはいけない	橘玲	新書大賞	
+バッタを倒しにアフリカへ	前野ウルド浩太郎	新書大賞	d=easy;g=nonfiction;t=world;m=wonder,absorbing
+日本軍兵士	吉田裕	新書大賞	
+人新世の「資本論」	斎藤幸平	新書大賞	d=challenging
+現代思想入門	千葉雅也	新書大賞	d=challenging
+言語の本質	今井むつみ、秋田喜美	新書大賞	
+なぜ働いていると本が読めなくなるのか	三宅香帆	新書大賞	t=life,practical
+十角館の殺人	綾辻行人	ミステリー定番	
+占星術殺人事件	島田荘司	ミステリー定番	
+容疑者Xの献身	東野圭吾	ミステリー定番	t=mystery,life
+白夜行	東野圭吾	ミステリー定番	t=mystery,life
+火車	宮部みゆき	ミステリー定番	
+模倣犯	宮部みゆき	ミステリー定番	
+葉桜の季節に君を想うということ	歌野晶午	ミステリー定番	
+屍人荘の殺人	今村昌弘	ミステリー定番	
+氷菓	米澤穂信	ミステリー定番	d=easy;m=absorbing,relaxing
+半落ち	横山秀夫	ミステリー定番	t=mystery,life;m=absorbing,moving
+イニシエーション・ラブ	乾くるみ	ミステリー定番	d=easy
+アヒルと鴨のコインロッカー	伊坂幸太郎	ミステリー定番	
+姑獲鳥の夏	京極夏彦	ミステリー定番	d=challenging
+すべてがFになる	森博嗣	ミステリー定番	
+ハサミ男	殊能将之	ミステリー定番	
+慟哭	貫井徳郎	ミステリー定番	
+向日葵の咲かない夏	道尾秀介	ミステリー定番	
+方舟	夕木春央	ミステリー定番	
+そして誰もいなくなった	アガサ・クリスティー	ミステリー定番	d=easy
+オリエント急行の殺人	アガサ・クリスティー	ミステリー定番	
+星を継ぐもの	ジェイムズ・P・ホーガン	SF・ファンタジー定番	t=imagination,mystery
+夏への扉	ロバート・A・ハインライン	SF・ファンタジー定番	m=absorbing,moving
+一九八四年	ジョージ・オーウェル	SF・ファンタジー定番	d=challenging
+華氏451度	レイ・ブラッドベリ	SF・ファンタジー定番	
+アルジャーノンに花束を	ダニエル・キイス	SF・ファンタジー定番	t=imagination,life;m=moving
+三体	劉慈欣	SF・ファンタジー定番	
+虐殺器官	伊藤計劃	SF・ファンタジー定番	d=challenging
+ハーモニー	伊藤計劃	SF・ファンタジー定番	
+新世界より	貴志祐介	SF・ファンタジー定番	
+月の影影の海	小野不由美	SF・ファンタジー定番	g=novel;t=imagination,life
+精霊の守り人	上橋菜穂子	SF・ファンタジー定番	d=easy;g=novel;t=imagination,world
+図書館戦争	有川浩	SF・ファンタジー定番	d=easy;g=novel;t=imagination,life;m=absorbing,relaxing

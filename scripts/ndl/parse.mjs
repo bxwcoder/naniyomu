@@ -22,6 +22,11 @@ function all(block, tag) {
 }
 const first = (block, tag) => all(block, tag)[0]?.value ?? null;
 
+/** 分類番号（<dc:subject xsi:type="dcndl:NDC10"> など）を1つ取り出す */
+function identifiersOf(block, type) {
+  return all(block, 'dc:subject').find((x) => x.attrs.includes(`dcndl:${type}"`))?.value ?? null;
+}
+
 /** RSS の <item> を1件ずつ、必要な項目に分けて返す */
 export function parseOpenSearch(xml) {
   if (!xml) return [];
@@ -44,6 +49,11 @@ export function parseOpenSearch(xml) {
       subjects: all(it, 'dc:subject').map((x) => `${x.attrs.match(/dcndl:(\w+)/)?.[1] ?? ''}:${x.value}`),
       categories: all(it, 'category').map((x) => x.value),
       isbns,
+      /** 日本十進分類（NDC10 があれば NDC10、なければ NDC9 など）。例：913.6 */
+      ndc:
+        identifiersOf(it, 'NDC10') ?? identifiersOf(it, 'NDC9') ?? identifiersOf(it, 'NDC8') ?? identifiersOf(it, 'NDC'),
+      /** 国立国会図書館以外に、この本の記録がある図書館などの数（どれくらい広く置かれているかの目安） */
+      holdings: (it.match(/<rdfs:seeAlso\b/g) ?? []).length,
       link: first(it, 'link'),
     };
   });
