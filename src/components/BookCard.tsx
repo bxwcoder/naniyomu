@@ -6,6 +6,7 @@ import { DIFFICULTIES, GENRES } from '../data/options.ts';
 import { paths } from '../hooks/useHashRoute.ts';
 import { useLibrary } from '../state/library.tsx';
 import type { Book, Recommendation, RecommendationRole } from '../types.ts';
+import { basicInfoText } from './bookInfo.ts';
 import { BookCover } from './BookCover.tsx';
 import { HighlightList } from './HighlightList.tsx';
 
@@ -54,7 +55,11 @@ export function BookCard({ rec }: Props) {
         </div>
       </div>
 
-      <p className="book-card__desc">{book.description}</p>
+      {book.description ? (
+        <p className="book-card__desc">{book.description}</p>
+      ) : (
+        <p className="book-card__desc book-card__desc--basic">{basicInfoText(book)}</p>
+      )}
 
       {/* 1画面に収めるため、カードでは大事な2つ（興味・気分）まで。残りは詳細画面で表示 */}
       <HighlightList items={rec.highlights.slice(0, 2)} />

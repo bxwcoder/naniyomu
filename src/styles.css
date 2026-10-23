@@ -528,6 +528,8 @@ main:focus { outline: none; }
 .detail-meta dt { color: var(--text-muted); }
 .detail-meta dd { margin: 0; font-weight: 600; }
 .detail-desc { font-size: 0.95rem; margin-bottom: 8px; }
+.book-card__desc--basic,
+.detail-desc--basic { color: var(--text-muted); font-size: 0.85rem; }
 .detail-features { font-size: 0.85rem; line-height: 1.5; margin-bottom: 8px; }
 .detail-features strong { color: var(--accent); }
 .detail-foot { font-size: 0.78rem; line-height: 1.5; color: var(--text-muted); margin: 8px 0 0; }

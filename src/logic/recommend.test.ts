@@ -1,5 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import booksData from '../data/books.json';
+import autoBooksData from '../data/books.auto.json';
 import {
   DIFFICULTY_CHOICES,
   GENRE_CHOICES,
@@ -53,6 +54,35 @@ describe('書籍データ', () => {
       expect(b.metadata_verified).toBe(true);
       expect(b.metadata_source).toMatch(/^https:\/\//);
     }
+  });
+});
+
+describe('自動で集めた本のデータ（books.auto.json）', () => {
+  const all = validateBooks([...booksData, ...autoBooksData]);
+
+  it('手で書いた本と合わせても、形式の間違いや重複がない', () => {
+    expect(all.errors).toEqual([]);
+    expect(all.validBooks.length).toBe(booksData.length + autoBooksData.length);
+  });
+
+  it('すべて basic で、ISBN と国立国会図書館の確認元がある', () => {
+    for (const b of autoBooksData as Book[]) {
+      expect(b.tier).toBe('basic');
+      expect(b.isbn).toMatch(/^97[89]\d{10}$/);
+      expect(b.metadata_source).toMatch(/^https:\/\/ndlsearch\.ndl\.go\.jp\//);
+    }
+  });
+
+  it('紹介文は basic の本だけ空でよい', () => {
+    const base = books[0];
+    expect(validateBooks([{ ...base, description: '', tier: 'basic' }]).errors).toEqual([]);
+    expect(validateBooks([{ ...base, description: '' }]).errors).not.toEqual([]);
+  });
+
+  it('点数が同じなら、紹介文のある本（curated）が少し上になる', () => {
+    const base = books[0];
+    const basic: Book = { ...base, book_id: 'basic-copy', tier: 'basic' };
+    expect(scoreBook(base, baseAnswers).score).toBeGreaterThan(scoreBook(basic, baseAnswers).score);
   });
 });
 

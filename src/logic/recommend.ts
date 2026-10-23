@@ -125,6 +125,7 @@ export function scoreBook(book: Book, answers: Answers, favoriteBooks: Book[] = 
     (detail.genre ? SCORING.genre : 0) +
     (detail.difficulty ? SCORING.difficulty : 0) +
     (detail.length ? SCORING.length : 0) +
+    (book.tier === 'basic' ? 0 : SCORING.curated) +
     Math.min(detail.favoriteShared.length * SCORING.favoritePerFeature, SCORING.favoriteMax);
   return detail;
 }

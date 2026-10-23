@@ -25,8 +25,9 @@ export interface Book {
   moods: Mood[];
   difficulty: Difficulty;
   length_category: LengthCategory;
+  /** 紹介文。自動で集めた本（tier が basic）は空欄 */
   description: string;
-  /** 推薦理由を作るための、この本の特徴 */
+  /** 推薦理由を作るための、この本の特徴（自動で集めた本は空） */
   recommendation_reasons: string[];
   cover_image_url: string | null;
   purchase_url: string | null;
@@ -39,6 +40,16 @@ export interface Book {
   /** 書誌情報を確認したページ */
   metadata_source: string;
   metadata_verified: boolean;
+  /**
+   * データの種類。省略したときは curated。
+   * - curated：1冊ずつ調べて紹介文まで書いた本（books.json）
+   * - basic：候補リストから国立国会図書館の情報で自動で作った本（books.auto.json）。紹介文はない
+   */
+  tier?: 'curated' | 'basic';
+  /** 出版社（自動で集めた本だけ） */
+  publisher?: string | null;
+  /** ページ数（自動で集めた本だけ。分からなければ null） */
+  pages?: number | null;
 }
 
 /** 5つの質問への回答 */

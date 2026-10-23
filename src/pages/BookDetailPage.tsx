@@ -1,5 +1,6 @@
 // 画面5：書籍詳細（画面7の「おすすめへの反応」もここで記録できます）
 
+import { basicInfoText } from '../components/bookInfo.ts';
 import { BookCover } from '../components/BookCover.tsx';
 import { HighlightList } from '../components/HighlightList.tsx';
 import { DIFFICULTIES, GENRES, LENGTHS } from '../data/options.ts';
@@ -51,7 +52,15 @@ export function BookDetailPage({ book, highlights }: Props) {
         </div>
       </div>
 
-      <p className="detail-desc">{book.description || NOT_REGISTERED}</p>
+      {book.description ? (
+        <p className="detail-desc">{book.description}</p>
+      ) : (
+        <p className="detail-desc detail-desc--basic">
+          {basicInfoText(book) || NOT_REGISTERED}
+          <br />
+          紹介文はまだありません。本の情報は国立国会図書館の記録を元にしています。
+        </p>
+      )}
 
       {highlights && <HighlightList items={highlights} />}
 

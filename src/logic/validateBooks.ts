@@ -77,7 +77,19 @@ function validateOne(
   if (typeof b.length_category !== 'string' || !(b.length_category in LENGTHS)) {
     errors.push(`${label}: length_category に使えない値「${String(b.length_category)}」があります`);
   }
-  if (!isNonEmptyString(b.description)) errors.push(`${label}: description がありません`);
+  if (b.tier !== undefined && b.tier !== 'curated' && b.tier !== 'basic') {
+    errors.push(`${label}: tier は curated か basic にしてください`);
+  }
+  // 自動で集めた本（basic）は紹介文が空でよい
+  if (b.tier === 'basic' ? typeof b.description !== 'string' : !isNonEmptyString(b.description)) {
+    errors.push(`${label}: description がありません`);
+  }
+  if (b.publisher !== undefined && b.publisher !== null && !isNonEmptyString(b.publisher)) {
+    errors.push(`${label}: publisher は文字か null にしてください`);
+  }
+  if (b.pages !== undefined && b.pages !== null && !(Number.isInteger(b.pages) && (b.pages as number) > 0)) {
+    errors.push(`${label}: pages は正の整数か null にしてください`);
+  }
   if (!Array.isArray(b.recommendation_reasons) || !b.recommendation_reasons.every(isNonEmptyString)) {
     errors.push(`${label}: recommendation_reasons は文字の配列にしてください`);
   }
