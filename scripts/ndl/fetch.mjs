@@ -2,7 +2,7 @@
 //
 // 使い方：  node scripts/ndl/fetch.mjs [出力先フォルダ]
 //   - ISBN がある本は、ISBN で1冊ずつ問い合わせます。
-//   - ISBN が空欄（null）の本は、タイトルと著者名で検索して候補を集めます。
+//   - ISBN が空欄（null）の本や、ISBN で見つからない本は、タイトルで検索し、著者名が合う候補を集めます。
 //   - 国立国会図書館の負担にならないよう、問い合わせの間は少し時間を空けます。
 //   - 返ってきたデータは、そのままの形（raw）と、読み取った形（records.json）の両方を保存します。
 //
@@ -47,22 +47,43 @@ function mainAuthor(author) {
 const books = JSON.parse(await readFile('src/data/books.json', 'utf8'));
 await mkdir(join(outDir, 'raw'), { recursive: true });
 
+/** 国立国会図書館の著者名「小川, 洋子, 1962-」を「小川洋子」の形にそろえる */
+function normalizeName(name) {
+  return name.replace(/,?\s*\d{4}-(\d{4})?/g, '').replace(/[,\s・=＝]/g, '');
+}
+
+/** タイトルで検索し、著者名が合う候補だけを残す（国立国会図書館の著者名は「姓, 名」の形のため） */
+async function searchByTitle(book) {
+  const params = { title: book.title.split(/[\s―]/)[0], cnt: '30' };
+  const result = await query(params);
+  const author = normalizeName(mainAuthor(book.author));
+  const items = parseOpenSearch(result.text).filter((it) =>
+    [...it.creators, it.author ?? ''].some((c) => normalizeName(c).includes(author) || author.includes(normalizeName(c).slice(0, 4))),
+  );
+  return { ...result, items };
+}
+
 const records = [];
 for (const [i, book] of books.entries()) {
-  const params = book.isbn
-    ? { isbn: book.isbn, cnt: '5' }
-    : { title: book.title.split(/[\s―]/)[0], creator: mainAuthor(book.author), cnt: '10', mediatype: '1' };
-  console.log(`[${i + 1}/${books.length}] ${book.title}（${book.isbn ? 'ISBN ' + book.isbn : 'タイトル・著者で検索'}）`);
-  const { url, status, text } = await query(params);
-  await writeFile(join(outDir, 'raw', `${book.book_id}.xml`), text);
-  let items = [];
-  try {
-    items = parseOpenSearch(text);
-  } catch (e) {
-    console.warn(`  読み取りに失敗: ${e.message}`);
+  console.log(`[${i + 1}/${books.length}] ${book.title}（${book.isbn ? 'ISBN ' + book.isbn : 'タイトルで検索'}）`);
+  let searchedBy = 'isbn';
+  let result;
+  if (book.isbn) {
+    result = await query({ isbn: book.isbn, cnt: '5' });
+    result.items = parseOpenSearch(result.text);
+    // ISBN で見つからなければ、タイトルで探し直す
+    if (result.status === 200 && result.items.length === 0) {
+      await sleep(INTERVAL_MS);
+      result = await searchByTitle(book);
+      searchedBy = 'title-fallback';
+    }
+  } else {
+    result = await searchByTitle(book);
+    searchedBy = 'title';
   }
-  console.log(`  → ${status} / ${items.length}件`);
-  records.push({ book_id: book.book_id, isbn: book.isbn, searchedBy: book.isbn ? 'isbn' : 'title', url, status, items });
+  await writeFile(join(outDir, 'raw', `${book.book_id}.xml`), result.text);
+  console.log(`  → ${result.status} / ${result.items.length}件`);
+  records.push({ book_id: book.book_id, isbn: book.isbn, searchedBy, url: result.url, status: result.status, items: result.items });
   await sleep(INTERVAL_MS);
 }
 
