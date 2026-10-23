@@ -1,0 +1,43 @@
+# 国立国会図書館サーチから書誌情報を取り込む（手動で実行）
+#
+# 実行方法：GitHub のリポジトリ画面 →「Actions」→「国立国会図書館から書誌情報を取得」→「Run workflow」
+# 結果は「ndl-data」ブランチに保存されます（main ブランチやアプリの公開には影響しません）。
+
+name: 国立国会図書館から書誌情報を取得
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ndl-fetch
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .node-version
+
+      - name: 書誌情報を取得
+        run: node scripts/ndl/fetch.mjs ndl-output
+
+      - name: 結果を ndl-data ブランチに保存
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mv ndl-output /tmp/ndl-output
+          git checkout --orphan ndl-data
+          git rm -rf --quiet .
+          mkdir -p ndl
+          cp -r /tmp/ndl-output/. ndl/
+          git add ndl
+          git commit --quiet -m "国立国会図書館の書誌情報（${GITHUB_SHA::7} 時点の本のデータ）"
+          git push --force origin ndl-data
