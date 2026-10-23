@@ -1,0 +1,183 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>9784484881041 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?isbn=9784484881041&amp;cnt=5</link>
+    <description>Search results for isbn=9784484881041 cnt=5</description>
+    <language>ja</language>
+    <openSearch:totalResults>4</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
+    <item>
+      <title>アイデアのつくり方</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000001948091</link>
+      <description><![CDATA[<p>ティビーエス・ブリタニカ,1988,4-484-88104-7<p><ul><li>タイトル：アイデアのつくり方</li><li>タイトル（読み）：アイデア ノ ツクリカタ</li><li>責任表示：ジェームス・W.ヤング [著],今井茂雄 訳</li></ul>]]></description>
+      <author>Young, James Webb, 1886-1973,今井, 茂雄, 1920-,ジェームス・W.ヤング [著],今井茂雄 訳</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000001948091</guid>
+      <pubDate>Tue, 13 Sep 2005 08:59:59 +0900</pubDate>
+      <dc:title>アイデアのつくり方</dc:title>
+      <dcndl:titleTranscription>アイデア ノ ツクリカタ</dcndl:titleTranscription>
+      <dc:creator>Young, James Webb, 1886-1973</dc:creator>
+      <dc:creator>今井, 茂雄, 1920-</dc:creator>
+      <dcndl:creatorTranscription>イマイ, シゲオ, 1920-</dcndl:creatorTranscription>
+      <dc:publisher>ティビーエス・ブリタニカ</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1988</dc:date>
+      <dcterms:issued>1988.4</dcterms:issued>
+      <dcndl:price>680円</dcndl:price>
+      <dc:extent>102p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">4-484-88104-7</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">4-484-88104-7</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000001948091</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">89004708</dc:identifier>
+      <dc:subject>広告</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">DH428</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">674</dc:subject>
+      <dc:description>解説: 竹内均</dc:description>
+      <dc:description>原タイトル: A technique for producing ideas</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001000190083"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008000581407"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008000958098"/>
+      <rdfs:seeAlso rdf:resource="https://www.plib.pref.aomori.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1102612895"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.miyagi.jp/winj/opac/switch-detail-iccap.do?bibid=1101487393"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001001459605"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.tochigi.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1102310153"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp/winj/opac/switch-detail-iccap.do?bibid=1101362905"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=653523&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.chiba.lg.jp//licsxp-iopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000100299360"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101502039"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1190288352"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=2662957&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=196306"/>
+      <rdfs:seeAlso rdf:resource="https://opac.pref-lib.niigata.niigata.jp/winj/opac/switch-detail-iccap.do?bibid=1107855070"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1000000869980/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1104618091/"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.gifu.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1102811865"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001101841166"/>
+      <rdfs:seeAlso rdf:resource="http://websv.aichi-pref-library.jp/winj/opac/switch-detail-iccap.do?bibid=1100308952"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009410035791"/>
+      <rdfs:seeAlso rdf:resource="http://opac1.library.pref.mie.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100440727"/>
+      <rdfs:seeAlso rdf:resource="https://www.shiga-pref-library.jp/wo/opc_srh/srh_detail/0381522/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kyoto.jp/bib/?B10045022"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000334061"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000012594644"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000013559157"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000896630"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007000547048"/>
+      <rdfs:seeAlso rdf:resource="https://opacsvr01.library.pref.nara.jp/opac/volume/1292466"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.wakayama-c.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1102463769"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009811504937"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1103734560"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.yamaguchi.lg.jp//wo/opc_srh/srh_detail/5010167747/"/>
+      <rdfs:seeAlso rdf:resource="https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1100057933"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1116371618"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.fukuoka.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1103516443"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000002382242"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1102506473"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.miyazaki.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101102471"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.okinawa.jp/winj/opac/switch-detail-iccap.do?bibid=1101053079"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000001948091"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=1465197"/>
+      <rdfs:seeAlso rdf:resource="https://dl.ndl.go.jp/pid/13144360"/>
+      <rdfs:seeAlso rdf:resource="https://library.affrc.go.jp/api/QQ20091246"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784484881041"/>
+      <dc:description> 1988</dc:description>
+    </item>
+    <item>
+      <title>アイデアのつくり方</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1971149384818488457</link>
+      <description><![CDATA[<p>阪急コミュニケーションズ,9784484881041<p><ul><li>タイトル：アイデアのつくり方</li><li>タイトル（読み）：アイデア ノ ツクリカタ</li><li>責任表示：ジェームス・W・ヤング [著] ; 今井茂雄訳</li><li>NDC(9)：674</li></ul>]]></description>
+      <author>Young, James Webb,今井, 茂雄,ジェームス・W・ヤング [著] ; 今井茂雄訳</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1971149384818488457</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>アイデアのつくり方</dc:title>
+      <dcndl:titleTranscription>アイデア ノ ツクリカタ</dcndl:titleTranscription>
+      <dc:creator>Young, James Webb</dc:creator>
+      <dc:creator>今井, 茂雄</dc:creator>
+      <dcndl:creatorTranscription>イマイ, シゲオ</dcndl:creatorTranscription>
+      <dc:publisher>阪急コミュニケーションズ</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dcterms:issued>1988</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9784484881041</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9784484881041</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BA64307346</dc:identifier>
+      <dc:subject>広告</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">674</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">674</dc:subject>
+      <dc:description>出版者が異なるので&lt;BN02209204&gt;とは別書誌</dc:description>
+      <dc:description>記述は第44刷 (2003.11) による</dc:description>
+      <dc:description>解説: 竹内均</dc:description>
+      <dc:description>原著1986年印刷版 (初版1940年) からの翻訳</dc:description>
+      <dc:description>第1刷 (1988.4) の出版者: TBSブリタニカ</dc:description>
+      <dc:description>第78刷 (2022.6) の出版者: CCCメディアハウス</dc:description>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971149384818488457"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>アイデアのつくり方</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859724635650</link>
+      <description><![CDATA[<p>CCCメディアハウス,2015,9784484881041<p><ul><li>タイトル：アイデアのつくり方</li><li>タイトル（読み）：アイデア ノ ツクリカタ</li><li>責任表示：ジェームス・W.ヤング [著] ; 今井茂雄訳</li><li>NDC(9)：674</li></ul>]]></description>
+      <author>Young, James Webb,今井, 茂雄,ジェームス・W.ヤング [著] ; 今井茂雄訳</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859724635650</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>アイデアのつくり方</dc:title>
+      <dcndl:titleTranscription>アイデア ノ ツクリカタ</dcndl:titleTranscription>
+      <dc:creator>Young, James Webb</dc:creator>
+      <dc:creator>今井, 茂雄</dc:creator>
+      <dcndl:creatorTranscription>イマイ, シゲオ</dcndl:creatorTranscription>
+      <dc:publisher>CCCメディアハウス</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2015</dc:date>
+      <dcterms:issued>1988</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9784484881041</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9784484881041</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BB20160441</dc:identifier>
+      <dc:subject>広告</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">674</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">674</dc:subject>
+      <dc:description>出版者が異なるため&lt;BN02209204&gt;、&lt;BA64307346&gt;とは別書誌</dc:description>
+      <dc:description>記述は第68刷(2015.7)による</dc:description>
+      <dc:description>第1刷の出版者: TBSブリタニカ(1988.4刊)</dc:description>
+      <dc:description>出版者: 2025年4月1日よりCEメディアハウスに社名変更</dc:description>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971430859724635650"/>
+      <dc:description> 2015</dc:description>
+    </item>
+    <item>
+      <title>アイデアのつくり方</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1971712334756014273</link>
+      <description><![CDATA[<p>TBSブリタニカ,1988,9784484881041<p><ul><li>タイトル：アイデアのつくり方</li><li>タイトル（読み）：アイデア ノ ツクリカタ</li><li>責任表示：ジェームス・W・ヤング [著] ; 今井茂雄訳</li></ul>]]></description>
+      <author>Young, James Webb,今井, 茂雄,ジェームス・W・ヤング [著] ; 今井茂雄訳</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1971712334756014273</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>アイデアのつくり方</dc:title>
+      <dcndl:titleTranscription>アイデア ノ ツクリカタ</dcndl:titleTranscription>
+      <dc:creator>Young, James Webb</dc:creator>
+      <dc:creator>今井, 茂雄</dc:creator>
+      <dcndl:creatorTranscription>イマイ, シゲオ</dcndl:creatorTranscription>
+      <dc:publisher>TBSブリタニカ</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">1988</dc:date>
+      <dcterms:issued>1988</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9784484881041</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9784484881041</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BN02209204</dc:identifier>
+      <dc:subject>広告</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">DH428</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">674</dc:subject>
+      <dc:description>解説: 竹内均</dc:description>
+      <dc:description>A technique for producing ideas.の翻訳</dc:description>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1100695729"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1104040792"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971712334756014273"/>
+      <dc:description> 1988</dc:description>
+    </item>
+  </channel>
+</rss>

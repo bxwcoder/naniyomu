@@ -1,0 +1,93 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>9784101235288 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?isbn=9784101235288&amp;cnt=5</link>
+    <description>Search results for isbn=9784101235288 cnt=5</description>
+    <language>ja</language>
+    <openSearch:totalResults>2</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
+    <item>
+      <title>深夜特急</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I030404375</link>
+      <description><![CDATA[<p>1,新潮社,2020,978-4-10-123528-8<p><ul><li>タイトル：深夜特急</li><li>タイトル（読み）：シンヤ トッキュウ</li><li>責任表示：沢木耕太郎 著</li><li>シリーズ名：新潮文庫 ; さ-7-51</li><li>シリーズ名（読み）：シンチョウ ブンコ ; サ-7-51</li><li>NDC(10)：915.6</li></ul>]]></description>
+      <author>沢木, 耕太郎, 1947-,沢木耕太郎 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I030404375</guid>
+      <pubDate>Sat, 26 Sep 2020 02:48:08 +0900</pubDate>
+      <dc:title>深夜特急</dc:title>
+      <dcndl:titleTranscription>シンヤ トッキュウ</dcndl:titleTranscription>
+      <dc:creator>沢木, 耕太郎, 1947-</dc:creator>
+      <dcndl:creatorTranscription>サワキ, コウタロウ, 1947-</dcndl:creatorTranscription>
+      <dcndl:volume>1</dcndl:volume>
+      <dcndl:edition>新版</dcndl:edition>
+      <dcndl:seriesTitle>新潮文庫 ; さ-7-51</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>シンチョウ ブンコ ; サ-7-51</dcndl:seriesTitleTranscription>
+      <dc:publisher>新潮社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2020</dc:date>
+      <dcterms:issued>2020.7</dcterms:issued>
+      <dcndl:price>550円</dcndl:price>
+      <dc:extent>270p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-10-123528-8</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">030404375</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23422798</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">34072064</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">KH971</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">915.6</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008001490760"/>
+      <rdfs:seeAlso rdf:resource="https://www.plib.pref.aomori.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1104170104"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=3015652&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1153612002"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113792110"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=3400499&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=2475041"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1000001329428/"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.yamanashi.jp/licsxp-opac/WOpacMnuTopInitAction.do"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.gifu.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1190497876"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001103691761"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014877001"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007001036261"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1110431238"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1130226904"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000002859158"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1110251612"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I030404375"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970304959905708056"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970867909774384580"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971149384870307723"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/10E04584100000000000"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784101235288"/>
+      <dc:description> 2020</dc:description>
+    </item>
+    <item>
+      <title>深夜特急</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000134-I000423971</link>
+      <description><![CDATA[<p>１,新潮社,2020-07-01,9784101235288<p><ul><li>タイトル：深夜特急</li><li>タイトル（読み）：ｼﾝﾔ ﾄｯｷｭｳ</li><li>責任表示：沢木耕太郎</li><li>シリーズ名：新潮文庫</li><li>シリーズ名（読み）：ｼﾝﾁｮｳ ﾌﾞﾝｺ</li><li>各巻タイトル：香港・マカオ</li><li>各巻タイトル（読み）：ﾎﾝｺﾝ ﾏｶｵ</li></ul>]]></description>
+      <author>沢木耕太郎</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000134-I000423971</guid>
+      <pubDate>Thu, 24 Aug 2023 09:00:00 +0900</pubDate>
+      <dc:title>深夜特急</dc:title>
+      <dcndl:titleTranscription>ｼﾝﾔ ﾄｯｷｭｳ</dcndl:titleTranscription>
+      <dcndl:volume>１</dcndl:volume>
+      <dcndl:seriesTitle>新潮文庫</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ｼﾝﾁｮｳ ﾌﾞﾝｺ</dcndl:seriesTitleTranscription>
+      <dcndl:volumeTitle>香港・マカオ</dcndl:volumeTitle>
+      <dcndl:volumeTitleTranscription>ﾎﾝｺﾝ ﾏｶｵ</dcndl:volumeTitleTranscription>
+      <dc:publisher>新潮社</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2020-07-01</dc:date>
+      <dcterms:issued>2020.7.1(令2) (新版)</dcterms:issued>
+      <dcndl:price>550</dcndl:price>
+      <dc:extent>269p ; 16cm</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">9784101235288</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9784101235288</dc:identifier>
+      <dc:description>初版初刷：平６．３．２５ ６２刷：令１．５．１０</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.kanabun.or.jp/CARIN/CARINOPACLINK.HTM?ID=B01144375"/>
+      <dc:description> 2020-07-01</dc:description>
+    </item>
+  </channel>
+</rss>

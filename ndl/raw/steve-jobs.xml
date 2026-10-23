@@ -1,0 +1,159 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>9784062171267 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?isbn=9784062171267&amp;cnt=5</link>
+    <description>Search results for isbn=9784062171267 cnt=5</description>
+    <language>ja</language>
+    <openSearch:totalResults>3</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
+    <item>
+      <title>Steve Jobs : The Exclusive Biography</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000134-I000392264</link>
+      <description><![CDATA[<p>１,講談社,2011-11-17,9784062171267<p><ul><li>タイトル：Steve Jobs : The Exclusive Biography</li><li>タイトル（読み）：ｽﾃｨｰﾌﾞ ｼﾞｮﾌﾞｽﾞ</li><li>責任表示：井口耕二</li></ul>]]></description>
+      <author>井口耕二</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000134-I000392264</guid>
+      <pubDate>Thu, 24 Aug 2023 09:00:00 +0900</pubDate>
+      <dc:title>Steve Jobs : The Exclusive Biography</dc:title>
+      <dcndl:titleTranscription>ｽﾃｨｰﾌﾞ ｼﾞｮﾌﾞｽﾞ</dcndl:titleTranscription>
+      <dcndl:volume>１</dcndl:volume>
+      <dc:publisher>講談社</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2011-11-17</dc:date>
+      <dcterms:issued>2011.11.17 (７刷)</dcterms:issued>
+      <dcndl:price>1900</dcndl:price>
+      <dc:extent>445p ; 20cm</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">9784062171267</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9784062171267</dc:identifier>
+      <dc:description>初刷：２０１１．１０．２４</dc:description>
+      <dc:description>装幀：重原隆</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.kanabun.or.jp/CARIN/CARINOPACLINK.HTM?ID=B00205846"/>
+      <dc:description> 2011-11-17</dc:description>
+    </item>
+    <item>
+      <title>スティーブ・ジョブズ</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1971712334698209547</link>
+      <description><![CDATA[<p>1,講談社,2011,9784062171267<p><ul><li>タイトル：スティーブ・ジョブズ</li><li>タイトル（読み）：スティーブ・ジョブズ</li><li>責任表示：ウォルター・アイザックソン著 ; 井口耕二訳 / Walter Isaacson ; [translated by] Koji Inokuchi</li><li>NDC(9)：289.3</li></ul>]]></description>
+      <author>Isaacson, Walter,井口, 耕二,ウォルター・アイザックソン著 ; 井口耕二訳 / Walter Isaacson ; [translated by] Koji Inokuchi</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1971712334698209547</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>スティーブ・ジョブズ</dc:title>
+      <dcndl:titleTranscription>スティーブ・ジョブズ</dcndl:titleTranscription>
+      <dc:creator>Isaacson, Walter</dc:creator>
+      <dc:creator>井口, 耕二</dc:creator>
+      <dcndl:creatorTranscription>イノクチ, コウジ</dcndl:creatorTranscription>
+      <dcndl:volume>1</dcndl:volume>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2011</dc:date>
+      <dcterms:issued>2011.10-2011.11</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9784062171267</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9784062171267</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BB07074039</dc:identifier>
+      <dc:subject>Jobs, Steven(1955-2011)</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">289.3</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">289.3</dc:subject>
+      <dc:description>各巻頁付け: Vol. 1(2011年10月24日発行) 445p. Vol. 2(2011年11月1日発行) 430p</dc:description>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971712334698209547"/>
+      <dc:description> 2011</dc:description>
+    </item>
+    <item>
+      <title>スティーブ・ジョブズ : The Exclusive Biography</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000011306946</link>
+      <description><![CDATA[<p>1,講談社,2011,978-4-06-217126-7<p><ul><li>タイトル：スティーブ・ジョブズ : The Exclusive Biography</li><li>タイトル（読み）：スティーブ ジョブズ : Exclusive Biography</li><li>責任表示：ウォルター・アイザックソン 著,井口耕二 訳</li><li>NDC(9)：289.3</li></ul>]]></description>
+      <author>Isaacson, Walter, 1952-,井口, 耕二, 1959-,ウォルター・アイザックソン 著,井口耕二 訳</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000011306946</guid>
+      <pubDate>Wed, 11 Jan 2012 19:49:40 +0900</pubDate>
+      <dc:title>スティーブ・ジョブズ : The Exclusive Biography</dc:title>
+      <dcndl:titleTranscription>スティーブ ジョブズ : Exclusive Biography</dcndl:titleTranscription>
+      <dc:creator>Isaacson, Walter, 1952-</dc:creator>
+      <dc:creator>井口, 耕二, 1959-</dc:creator>
+      <dcndl:creatorTranscription>イノクチ, コウジ, 1959-</dcndl:creatorTranscription>
+      <dcndl:volume>1</dcndl:volume>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2011</dc:date>
+      <dcterms:issued>2011.10</dcterms:issued>
+      <dcndl:price>1900円</dcndl:price>
+      <dc:extent>445p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-217126-7</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000011306946</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22011066</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NSMARCNO">130014300</dc:identifier>
+      <dc:subject>Jobs, Steve, 1955-2011</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GK453</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">289.3</dc:subject>
+      <dc:description>原タイトル: Steve Jobs</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.hokkaido.jp/wo/opc_srh/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008000463903"/>
+      <rdfs:seeAlso rdf:resource="https://www.plib.pref.aomori.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1103322909"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.iwate.jp/opac/advanced-search"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.miyagi.jp/winj/opac/switch-detail-iccap.do?bibid=1101393162"/>
+      <rdfs:seeAlso rdf:resource="https://www.apl.pref.akita.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000616097"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.pref.yamagata.jp/winj/opac/switch-detail-iccap.do?bibid=1103074963"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.fcs.ed.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001102835628"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001001980369"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.tochigi.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101766260"/>
+      <rdfs:seeAlso rdf:resource="https://www1.library.pref.gunma.jp/winj/opac/switch-detail-iccap.do?bibid=1102081760"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp/winj/opac/switch-detail-iccap.do?bibid=1101212549"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=177031&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.chiba.lg.jp/licsxp-iopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000002244196"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1108536932"/>
+      <rdfs:seeAlso rdf:resource="https://www.klnet.pref.kanagawa.jp/winj/opac/switch-detail-iccap.do?bibid=1104246546"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1111075707"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=2218122&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=1608242"/>
+      <rdfs:seeAlso rdf:resource="https://opac.pref-lib.niigata.niigata.jp/winj/opac/switch-detail-iccap.do?bibid=1107448197"/>
+      <rdfs:seeAlso rdf:resource="https://lib2.lib.pref.toyama.jp/opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000171954"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1100000495945/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1105041827/"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.yamanashi.jp/licsxp-opac/WOpacMnuTopInitAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.nagano.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000529896"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.gifu.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1102471259"/>
+      <rdfs:seeAlso rdf:resource="https://www.tosyokan.pref.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000160863"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001101926674"/>
+      <rdfs:seeAlso rdf:resource="http://websv.aichi-pref-library.jp/winj/opac/switch-detail-iccap.do?bibid=1182495726"/>
+      <rdfs:seeAlso rdf:resource="http://opac1.library.pref.mie.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1110096298"/>
+      <rdfs:seeAlso rdf:resource="https://www.shiga-pref-library.jp/wo/opc_srh/srh_detail/4068462/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kyoto.jp/bib/?B10734621"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bib/?B12712494"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000012391113"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007000139404"/>
+      <rdfs:seeAlso rdf:resource="https://opacsvr01.library.pref.nara.jp/opac/volume/610736"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.wakayama-c.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1102349246"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1101813896"/>
+      <rdfs:seeAlso rdf:resource="https://www2.library.pref.shimane.lg.jp/opac/switch-detail-iccap.do?bibid=1110301272"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009811482378"/>
+      <rdfs:seeAlso rdf:resource="https://www2.hplibra.pref.hiroshima.jp/bib/?B11687630"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1103346563"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.yamaguchi.lg.jp//wo/opc_srh/srh_detail/1000923027/"/>
+      <rdfs:seeAlso rdf:resource="https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1103325861"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100474946"/>
+      <rdfs:seeAlso rdf:resource="https://www.ehimetosyokan.jp/winj/opac/switch-detail-iccap.do?bibid=1101052234"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1109404684"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.fukuoka.jp/winj/opac/switch-detail-iccap.do?bibid=1109289981"/>
+      <rdfs:seeAlso rdf:resource="https://www2.tosyo-saga.jp/kentosyo2/opac/switch-detail-iccap.do?bibid=1101468479"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000001086544"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kumamoto.jp/winj/opac/switch-detail-iccap.do?bibid=1101213298"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1102133000"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.miyazaki.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101698116"/>
+      <rdfs:seeAlso rdf:resource="https://www2.library.pref.kagoshima.jp/kento/opac/switch-detail-iccap.do?bibid=1111089067"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000011306946"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=1847857"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=1860893"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=1863362"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=2536041"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4809677"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000049-I024521532"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/0621712600100011000I"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784062171267"/>
+      <dc:description> 2011</dc:description>
+    </item>
+  </channel>
+</rss>

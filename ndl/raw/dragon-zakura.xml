@@ -1,0 +1,1049 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>ドラゴン桜 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E6%A1%9C&amp;cnt=30</link>
+    <description>Search results for title=ドラゴン桜 cnt=30</description>
+    <language>ja</language>
+    <openSearch:totalResults>166</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>30</openSearch:itemsPerPage>
+    <item>
+      <title>汗をかかずにトップを奪え!</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859717904824</link>
+      <description><![CDATA[<p>大和書房,2010,9784479302926<p><ul><li>タイトル：汗をかかずにトップを奪え!</li><li>タイトル（読み）：アセ オ カカズニ トップ オ ウバエ!</li><li>責任表示：三田紀房著</li><li>NDC(9)：159.4</li></ul>]]></description>
+      <author>三田, 紀房,三田紀房著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859717904824</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>汗をかかずにトップを奪え!</dc:title>
+      <dcndl:titleTranscription>アセ オ カカズニ トップ オ ウバエ!</dcndl:titleTranscription>
+      <dc:creator>三田, 紀房</dc:creator>
+      <dcndl:creatorTranscription>ミタ, ノリフサ</dcndl:creatorTranscription>
+      <dc:publisher>大和書房</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2010</dc:date>
+      <dcterms:issued>2010.6</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9784479302926</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9784479302926</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BB03852482</dc:identifier>
+      <dc:subject>人生訓</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">US51</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">159.4</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">159</dc:subject>
+      <dc:description>2007年11月刊行分の文庫版</dc:description>
+      <dc:description>タイトルは背による</dc:description>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971430859717904824"/>
+      <dc:description> 2010</dc:description>
+    </item>
+    <item>
+      <title>汗をかかずにトップを奪え!</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809798070041</link>
+      <description><![CDATA[<p>大和書房,2007,9784479792253<p><ul><li>タイトル：汗をかかずにトップを奪え!</li><li>タイトル（読み）：アセ オ カカズ ニ トップ オ ウバエ</li><li>責任表示：三田紀房著</li><li>NDC(9)：159.4</li></ul>]]></description>
+      <author>三田, 紀房,三田紀房著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809798070041</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>汗をかかずにトップを奪え!</dc:title>
+      <dcndl:titleTranscription>アセ オ カカズ ニ トップ オ ウバエ</dcndl:titleTranscription>
+      <dc:creator>三田, 紀房</dc:creator>
+      <dcndl:creatorTranscription>ミタ, ノリフサ</dcndl:creatorTranscription>
+      <dc:publisher>大和書房</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2007</dc:date>
+      <dcterms:issued>2007.11</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9784479792253</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9784479792253</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BA84177899</dc:identifier>
+      <dc:subject>人生訓</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">159.4</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">159</dc:subject>
+      <dc:description>記述は第4刷(2007.12)による</dc:description>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971993809798070041"/>
+      <dc:description> 2007</dc:description>
+    </item>
+    <item>
+      <title>汗をかかずにトップを奪え! : 『ドラゴン桜』流ビジネス突破塾</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009182780</link>
+      <description><![CDATA[<p>大和書房,2007,978-4-479-79225-3<p><ul><li>タイトル：汗をかかずにトップを奪え! : 『ドラゴン桜』流ビジネス突破塾</li><li>タイトル（読み）：アセ オ カカズ ニ トップ オ ウバエ : ドラゴンザクラリュウ ビジネス トッパジュク</li><li>責任表示：三田紀房 著</li><li>NDC(9)：159.4</li></ul>]]></description>
+      <author>三田, 紀房,三田紀房 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009182780</guid>
+      <pubDate>Thu, 27 Dec 2007 22:33:09 +0900</pubDate>
+      <dc:title>汗をかかずにトップを奪え! : 『ドラゴン桜』流ビジネス突破塾</dc:title>
+      <dcndl:titleTranscription>アセ オ カカズ ニ トップ オ ウバエ : ドラゴンザクラリュウ ビジネス トッパジュク</dcndl:titleTranscription>
+      <dc:creator>三田, 紀房</dc:creator>
+      <dcndl:creatorTranscription>ミタ, ノリフサ</dcndl:creatorTranscription>
+      <dc:publisher>大和書房</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2007</dc:date>
+      <dcterms:issued>2007.11</dcterms:issued>
+      <dcndl:price>1200円</dcndl:price>
+      <dc:extent>197p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-479-79225-3</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009182780</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21340287</dc:identifier>
+      <dc:subject>人生訓--サラリーマン</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">US51</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">159.4</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.iwate.jp/opac/advanced-search"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=2166541&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1107083852"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=1338775"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001100666349"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009917058351"/>
+      <rdfs:seeAlso rdf:resource="https://www.shiga-pref-library.jp/wo/opc_srh/srh_detail/2084122/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bib/?B12288952"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000011536320"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000700301999"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009811024833"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1102939032"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.okinawa.jp/winj/opac/switch-detail-iccap.do?bibid=1100388660"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009182780"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784479792253"/>
+      <dc:description> 2007</dc:description>
+    </item>
+    <item>
+      <title>汗をかかずにトップを奪え! : 『ドラゴン桜』流ビジネス突破塾</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000010891372</link>
+      <description><![CDATA[<p>大和書房,2010,978-4-479-30292-6<p><ul><li>タイトル：汗をかかずにトップを奪え! : 『ドラゴン桜』流ビジネス突破塾</li><li>タイトル（読み）：アセ オ カカズニ トップ オ ウバエ : ドラゴンザクラリュウ ビジネス トッパジュク</li><li>責任表示：三田紀房 著</li><li>シリーズ名：だいわ文庫 ; 143-2G</li><li>シリーズ名（読み）：ダイワ ブンコ ; 143(2)(G)</li><li>NDC(9)：159.4</li></ul>]]></description>
+      <author>三田, 紀房,三田紀房 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000010891372</guid>
+      <pubDate>Wed, 4 Aug 2010 18:16:12 +0900</pubDate>
+      <dc:title>汗をかかずにトップを奪え! : 『ドラゴン桜』流ビジネス突破塾</dc:title>
+      <dcndl:titleTranscription>アセ オ カカズニ トップ オ ウバエ : ドラゴンザクラリュウ ビジネス トッパジュク</dcndl:titleTranscription>
+      <dc:creator>三田, 紀房</dc:creator>
+      <dcndl:creatorTranscription>ミタ, ノリフサ</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>だいわ文庫 ; 143-2G</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ダイワ ブンコ ; 143(2)(G)</dcndl:seriesTitleTranscription>
+      <dc:publisher>大和書房</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2010</dc:date>
+      <dcterms:issued>2010.6</dcterms:issued>
+      <dcndl:price>600円</dcndl:price>
+      <dc:extent>197p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-479-30292-6</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000010891372</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21785592</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NSMARCNO">112371600</dc:identifier>
+      <dc:subject>人生訓--サラリーマン</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">US51</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">159.4</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.iwate.jp/opac/advanced-search"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1110042335"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000010891372"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784479302926"/>
+      <dc:description> 2010</dc:description>
+    </item>
+    <item>
+      <title>アップデートしつづける勉強法で東大へ行け! : ドラゴン桜2公式ガイドブック</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I031367905</link>
+      <description><![CDATA[<p>講談社,2021,978-4-06-520657-7<p><ul><li>タイトル：アップデートしつづける勉強法で東大へ行け! : ドラゴン桜2公式ガイドブック</li><li>タイトル（読み）：アップデート シツズケル ベンキョウホウ デ トウダイ エ イケ</li><li>責任表示：三田紀房, モーニング編集部 監修</li><li>シリーズ名：KCDX</li><li>NDC(10)：376.87</li></ul>]]></description>
+      <author>三田紀房, モーニング編集部 監修</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I031367905</guid>
+      <pubDate>Mon, 26 Apr 2021 22:15:33 +0900</pubDate>
+      <dc:title>アップデートしつづける勉強法で東大へ行け! : ドラゴン桜2公式ガイドブック</dc:title>
+      <dcndl:titleTranscription>アップデート シツズケル ベンキョウホウ デ トウダイ エ イケ</dcndl:titleTranscription>
+      <dcndl:seriesTitle>KCDX</dcndl:seriesTitle>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+      <dcterms:issued>2021.4</dcterms:issued>
+      <dcndl:price>1200円</dcndl:price>
+      <dc:extent>191p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-520657-7</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">031367905</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23515797</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">07465320</dc:identifier>
+      <dc:subject>入学試験 大学</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">Y34</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">376.87</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=3105062&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I031367905"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/06A0000000000326697E"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784065206577"/>
+      <dc:description> 2021</dc:description>
+    </item>
+    <item>
+      <title>あなたが伸びる学び型 : ドラゴン桜とFFS理論が教えてくれる</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I031399153</link>
+      <description><![CDATA[<p>日経BP,2021,978-4-296-10943-2<p><ul><li>タイトル：あなたが伸びる学び型 : ドラゴン桜とFFS理論が教えてくれる</li><li>タイトル（読み）：アナタ ガ ノビル マナビカタ : ドラゴンザクラ ト エフエフエス リロン ガ オシエテ クレル</li><li>責任表示：古野俊幸 著</li><li>NDC(10)：379.7</li></ul>]]></description>
+      <author>古野, 俊幸,古野俊幸 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I031399153</guid>
+      <pubDate>Thu, 20 May 2021 01:38:34 +0900</pubDate>
+      <dc:title>あなたが伸びる学び型 : ドラゴン桜とFFS理論が教えてくれる</dc:title>
+      <dcndl:titleTranscription>アナタ ガ ノビル マナビカタ : ドラゴンザクラ ト エフエフエス リロン ガ オシエテ クレル</dcndl:titleTranscription>
+      <dc:creator>古野, 俊幸</dc:creator>
+      <dcndl:creatorTranscription>フルノ, トシユキ</dcndl:creatorTranscription>
+      <dc:publisher>日経BP</dc:publisher>
+      <dc:publisher>日経BPマーケティング</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+      <dcterms:issued>2021.4</dcterms:issued>
+      <dcndl:price>1800円</dcndl:price>
+      <dc:extent>327p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-296-10943-2</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">031399153</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23525344</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">34198396</dc:identifier>
+      <dc:subject>学習法</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">UA21</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">379.7</dc:subject>
+      <dc:description>出版</dc:description>
+      <dc:description>頒布</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.miyagi.jp/winj/opac/switch-detail-iccap.do?bibid=1102297267"/>
+      <rdfs:seeAlso rdf:resource="https://www.apl.pref.akita.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009920846428"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=3099881&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113872535"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=3495298&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=2545743"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001103763808"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002110006991"/>
+      <rdfs:seeAlso rdf:resource="https://www.shiga-pref-library.jp/wo/opc_srh/srh_detail/4786535/"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000015026564"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007001119519"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009812488817"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1110504056"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.fukuoka.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1102007976"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I031399153"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970023484919120802"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784296109432"/>
+      <dc:description> 2021</dc:description>
+    </item>
+    <item>
+      <title>あなたの人生をダメにする勉強法 : 「ドラゴン桜」式最強タイパ勉強法で結果が変わる</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I033472426</link>
+      <description><![CDATA[<p>日本能率協会マネジメントセンター,2024,978-4-8005-9215-6<p><ul><li>タイトル：あなたの人生をダメにする勉強法 : 「ドラゴン桜」式最強タイパ勉強法で結果が変わる</li><li>タイトル（読み）：アナタ ノ ジンセイ オ ダメ ニ スル ベンキョウホウ : ドラゴンザクラシキ サイキョウ タイパ ベンキョウホウ デ ケッカ ガ カワル</li><li>責任表示：青戸一之 著,西岡壱誠 監修</li><li>NDC(10)：379.7</li></ul>]]></description>
+      <author>青戸, 一之, 1983-,西岡, 壱誠, 1996-,青戸一之 著,西岡壱誠 監修</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I033472426</guid>
+      <pubDate>Wed, 26 Jun 2024 23:47:59 +0900</pubDate>
+      <dc:title>あなたの人生をダメにする勉強法 : 「ドラゴン桜」式最強タイパ勉強法で結果が変わる</dc:title>
+      <dcndl:titleTranscription>アナタ ノ ジンセイ オ ダメ ニ スル ベンキョウホウ : ドラゴンザクラシキ サイキョウ タイパ ベンキョウホウ デ ケッカ ガ カワル</dcndl:titleTranscription>
+      <dc:creator>青戸, 一之, 1983-</dc:creator>
+      <dc:creator>西岡, 壱誠, 1996-</dc:creator>
+      <dcndl:creatorTranscription>アオト, カズユキ, 1983-</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ニシオカ, イッセイ, 1996-</dcndl:creatorTranscription>
+      <dc:publisher>日本能率協会マネジメントセンター</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2024</dc:date>
+      <dcterms:issued>2024.6</dcterms:issued>
+      <dcndl:price>1600円</dcndl:price>
+      <dc:extent>257p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-8005-9215-6</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033472426</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23993238</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">34608468</dc:identifier>
+      <dc:subject>学習法</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">UA21</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">379.7</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000015537119"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000003207976"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I033472426"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971149384831855368"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971712334784403916"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784800592156"/>
+      <dc:description> 2024</dc:description>
+    </item>
+    <item>
+      <title>阿部寛(56) 「借金2億」「女優ナンパで仕事ゼロ」の実録"ドラゴン桜"</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I031452956</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：阿部寛(56) 「借金2億」「女優ナンパで仕事ゼロ」の実録"ドラゴン桜"</li><li>タイトル（読み）：アベカン(56) 「 シャッキン 2オク 」 「 ジョユウ ナンパ デ シゴト ゼロ 」 ノ ジツロク"ドラゴンザクラ"</li></ul>]]></description>
+      <author/>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I031452956</guid>
+      <pubDate>Tue, 25 May 2021 18:25:52 +0900</pubDate>
+      <dc:title>阿部寛(56) 「借金2億」「女優ナンパで仕事ゼロ」の実録"ドラゴン桜"</dc:title>
+      <dcndl:titleTranscription>アベカン(56) 「 シャッキン 2オク 」 「 ジョユウ ナンパ デ シゴト ゼロ 」 ノ ジツロク"ドラゴンザクラ"</dcndl:titleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">031452956</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZW5</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I031452956"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520291856189697920"/>
+      <dc:description>掲載誌：週刊文春 / 文芸春秋 [編] 20(通号 3118) p.32-34</dc:description>
+    </item>
+    <item>
+      <title>インタビュー 「ドラゴン桜」作者・三田紀房 「東大を受けてみろ」という先生が増えた</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I8079342</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：インタビュー 「ドラゴン桜」作者・三田紀房 「東大を受けてみろ」という先生が増えた</li><li>タイトル（読み）：インタビュー ドラゴンザクラ サクシャ ミタ ノリフサ トウダイ オ ウケテ ミロ ト イウ センセイ ガ フエタ</li><li>責任表示：三田 紀房</li><li>シリーズ名：私立に勝つ公立高校</li><li>シリーズ名（読み）：シリツ ニ カツ コウリツ コウコウ</li></ul>]]></description>
+      <author>三田 紀房,三田 紀房</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I8079342</guid>
+      <pubDate>Fri, 20 Oct 2006 22:39:02 +0900</pubDate>
+      <dc:title>インタビュー 「ドラゴン桜」作者・三田紀房 「東大を受けてみろ」という先生が増えた</dc:title>
+      <dcndl:titleTranscription>インタビュー ドラゴンザクラ サクシャ ミタ ノリフサ トウダイ オ ウケテ ミロ ト イウ センセイ ガ フエタ</dcndl:titleTranscription>
+      <dc:creator>三田 紀房</dc:creator>
+      <dcndl:seriesTitle>私立に勝つ公立高校</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>シリツ ニ カツ コウリツ コウコウ</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">8079342</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZD1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I8079342"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1522543655523752448"/>
+      <dc:description>掲載誌：エコノミスト 55(通号 3855) p.23</dc:description>
+    </item>
+    <item>
+      <title>インドネシアにおける日本マンガの現地化にみる「クールジャパン戦略」とのすれ違い : 『ドラゴン桜』翻案版 KELAS KHUSUS NAGAの事例から</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I027238968</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：インドネシアにおける日本マンガの現地化にみる「クールジャパン戦略」とのすれ違い : 『ドラゴン桜』翻案版 KELAS KHUSUS NAGAの事例から</li><li>タイトル（読み）：インドネシア ニ オケル ニホン マンガ ノ ゲンチカ ニ ミル 「 クール ジャパン センリャク 」 ト ノ スレチガイ : 『 ドラゴンザクラ 』 ホンアンバン KELAS KHUSUS NAGA ノ ジレイ カラ</li><li>責任表示：東 弘子,浜元 聡子</li></ul>]]></description>
+      <author>東 弘子,浜元 聡子,東 弘子,浜元 聡子</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I027238968</guid>
+      <pubDate>Tue, 19 Apr 2016 01:45:37 +0900</pubDate>
+      <dc:title>インドネシアにおける日本マンガの現地化にみる「クールジャパン戦略」とのすれ違い : 『ドラゴン桜』翻案版 KELAS KHUSUS NAGAの事例から</dc:title>
+      <dcndl:titleTranscription>インドネシア ニ オケル ニホン マンガ ノ ゲンチカ ニ ミル 「 クール ジャパン センリャク 」 ト ノ スレチガイ : 『 ドラゴンザクラ 』 ホンアンバン KELAS KHUSUS NAGA ノ ジレイ カラ</dcndl:titleTranscription>
+      <dc:creator>東 弘子</dc:creator>
+      <dc:creator>浜元 聡子</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">027238968</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZE1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I027238968"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520009408925751424"/>
+      <dc:description>掲載誌：共生の文化研究 = Journal of cultural symbiosis research / 愛知県立大学多文化共生研究所 編 10 p.111-119</dc:description>
+    </item>
+    <item>
+      <title>エンゼルバンク : ドラゴン桜外伝 : バイリンガル版</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000010993057</link>
+      <description><![CDATA[<p>vol.1,講談社インターナショナル,2010,978-4-7700-4140-1<p><ul><li>タイトル：エンゼルバンク : ドラゴン桜外伝 : バイリンガル版</li><li>タイトル（読み）：エンゼル バンク : ドラゴンザクラ ガイデン : バイリンガルバン</li><li>責任表示：三田紀房 著</li><li>シリーズ名：Kodansha bilingual comics</li><li>シリーズ名（読み）：Kodansha bilingual comics</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>三田, 紀房,三田紀房 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000010993057</guid>
+      <pubDate>Mon, 8 Nov 2021 20:46:09 +0900</pubDate>
+      <dc:title>エンゼルバンク : ドラゴン桜外伝 : バイリンガル版</dc:title>
+      <dcndl:titleTranscription>エンゼル バンク : ドラゴンザクラ ガイデン : バイリンガルバン</dcndl:titleTranscription>
+      <dc:creator>三田, 紀房</dc:creator>
+      <dcndl:creatorTranscription>ミタ, ノリフサ</dcndl:creatorTranscription>
+      <dcndl:volume>vol.1</dcndl:volume>
+      <dcndl:seriesTitle>Kodansha bilingual comics</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>Kodansha bilingual comics</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社インターナショナル</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2010</dc:date>
+      <dcterms:issued>2010.9</dcterms:issued>
+      <dcndl:price>1200円</dcndl:price>
+      <dc:extent>248p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-7700-4140-1</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000010993057</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21822078</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NSMARCNO">113697100</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <dc:description>英語併記</dc:description>
+      <dc:description>訳: とよざきようこ, ステュウット・ヴァーナム-アットキン</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.iwate.jp/opac/advanced-search"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000010993057"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784770041401"/>
+      <dc:description> 2010</dc:description>
+    </item>
+    <item>
+      <title>エンゼルバンク : ドラゴン桜外伝 : バイリンガル版</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000011055756</link>
+      <description><![CDATA[<p>vol.2,講談社インターナショナル,2010,978-4-7700-4141-8<p><ul><li>タイトル：エンゼルバンク : ドラゴン桜外伝 : バイリンガル版</li><li>タイトル（読み）：エンゼル バンク : ドラゴンザクラ ガイデン : バイリンガルバン</li><li>責任表示：三田紀房 著</li><li>シリーズ名：Kodansha bilingual comics</li><li>シリーズ名（読み）：Kodansha bilingual comics</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>三田, 紀房,三田紀房 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000011055756</guid>
+      <pubDate>Mon, 8 Nov 2021 21:25:20 +0900</pubDate>
+      <dc:title>エンゼルバンク : ドラゴン桜外伝 : バイリンガル版</dc:title>
+      <dcndl:titleTranscription>エンゼル バンク : ドラゴンザクラ ガイデン : バイリンガルバン</dcndl:titleTranscription>
+      <dc:creator>三田, 紀房</dc:creator>
+      <dcndl:creatorTranscription>ミタ, ノリフサ</dcndl:creatorTranscription>
+      <dcndl:volume>vol.2</dcndl:volume>
+      <dcndl:seriesTitle>Kodansha bilingual comics</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>Kodansha bilingual comics</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社インターナショナル</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2010</dc:date>
+      <dcterms:issued>2010.11</dcterms:issued>
+      <dcndl:price>1200円</dcndl:price>
+      <dc:extent>248p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-7700-4141-8</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000011055756</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21851608</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NSMARCNO">114674000</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <dc:description>英語併記</dc:description>
+      <dc:description>訳: とよざきようこ, ステュウット・ヴァーナム-アットキン</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.iwate.jp/opac/advanced-search"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000011055756"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784770041418"/>
+      <dc:description> 2010</dc:description>
+    </item>
+    <item>
+      <title>エンゼルバンク : ドラゴン桜外伝 : バイリンガル版</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1970304959869374109</link>
+      <description><![CDATA[<p>1,講談社インターナショナル,2010,9784770041401<p><ul><li>タイトル：エンゼルバンク : ドラゴン桜外伝 : バイリンガル版</li><li>タイトル（読み）：エンゼル バンク : ドラゴンザクラ ガイデン : バイリンガルバン</li><li>責任表示：三田紀房著 ; とよざきようこ, ステュウット・ヴァーナムーアットキン訳</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>三田, 紀房,豊崎, 洋子,Varnam-Atkin, Stuart,三田紀房著 ; とよざきようこ, ステュウット・ヴァーナムーアットキン訳</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1970304959869374109</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>エンゼルバンク : ドラゴン桜外伝 : バイリンガル版</dc:title>
+      <dcndl:titleTranscription>エンゼル バンク : ドラゴンザクラ ガイデン : バイリンガルバン</dcndl:titleTranscription>
+      <dc:creator>三田, 紀房</dc:creator>
+      <dc:creator>豊崎, 洋子</dc:creator>
+      <dc:creator>Varnam-Atkin, Stuart</dc:creator>
+      <dcndl:creatorTranscription>ミタ, ノリフサ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>トヨザキ, ヨウコ</dcndl:creatorTranscription>
+      <dcndl:volume>1</dcndl:volume>
+      <dc:publisher>講談社インターナショナル</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2010</dc:date>
+      <dcterms:issued>2010.9-</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9784770041401</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9784770041401</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BB06028885</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <dc:description>英語併記</dc:description>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970304959869374109"/>
+      <dc:description> 2010</dc:description>
+    </item>
+    <item>
+      <title>エンゼルバンク : ドラゴン桜外伝</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009236741</link>
+      <description><![CDATA[<p>1,講談社,2008,978-4-06-372661-9<p><ul><li>タイトル：エンゼルバンク : ドラゴン桜外伝</li><li>タイトル（読み）：エンゼル バンク</li><li>責任表示：三田紀房 著</li><li>シリーズ名：モーニングKC ; 1661</li><li>シリーズ名（読み）：モーニング KC</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>三田, 紀房,三田紀房 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009236741</guid>
+      <pubDate>Mon, 25 Oct 2021 18:19:00 +0900</pubDate>
+      <dc:title>エンゼルバンク : ドラゴン桜外伝</dc:title>
+      <dcndl:titleTranscription>エンゼル バンク</dcndl:titleTranscription>
+      <dc:creator>三田, 紀房</dc:creator>
+      <dcndl:creatorTranscription>ミタ, ノリフサ</dcndl:creatorTranscription>
+      <dcndl:volume>1</dcndl:volume>
+      <dcndl:seriesTitle>モーニングKC ; 1661</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>モーニング KC</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2008</dc:date>
+      <dcterms:issued>2008.1</dcterms:issued>
+      <dcndl:price>524円</dcndl:price>
+      <dc:extent>1冊 (ページ付なし)</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-372661-9</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009236741</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21358209</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1109009872"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002210076905"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014167887"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009236741"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970023484852667265"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/0637266100100011000B"/>
+      <dc:description> 2008</dc:description>
+    </item>
+    <item>
+      <title>エンゼルバンク : ドラゴン桜外伝</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000010671750</link>
+      <description><![CDATA[<p>10,講談社,2010,978-4-06-372870-5<p><ul><li>タイトル：エンゼルバンク : ドラゴン桜外伝</li><li>タイトル（読み）：エンゼル バンク</li><li>責任表示：三田紀房 著</li><li>シリーズ名：モーニングKC ; 1870</li><li>シリーズ名（読み）：モーニング KC</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>三田, 紀房,三田紀房 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000010671750</guid>
+      <pubDate>Mon, 8 Nov 2021 21:26:17 +0900</pubDate>
+      <dc:title>エンゼルバンク : ドラゴン桜外伝</dc:title>
+      <dcndl:titleTranscription>エンゼル バンク</dcndl:titleTranscription>
+      <dc:creator>三田, 紀房</dc:creator>
+      <dcndl:creatorTranscription>ミタ, ノリフサ</dcndl:creatorTranscription>
+      <dcndl:volume>10</dcndl:volume>
+      <dcndl:seriesTitle>モーニングKC ; 1870</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>モーニング KC</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2010</dc:date>
+      <dcterms:issued>2010.1</dcterms:issued>
+      <dcndl:price>533円</dcndl:price>
+      <dc:extent>1冊 (ページ付なし)</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-372870-5</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000010671750</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21701649</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1110010811"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002210076910"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014167910"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000010671750"/>
+      <dc:description> 2010</dc:description>
+    </item>
+    <item>
+      <title>エンゼルバンク : ドラゴン桜外伝</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000010730171</link>
+      <description><![CDATA[<p>11,講談社,2010,978-4-06-372892-7<p><ul><li>タイトル：エンゼルバンク : ドラゴン桜外伝</li><li>タイトル（読み）：エンゼル バンク</li><li>責任表示：三田紀房 著</li><li>シリーズ名：モーニングKC ; 1892</li><li>シリーズ名（読み）：モーニング KC</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>三田, 紀房,三田紀房 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000010730171</guid>
+      <pubDate>Mon, 8 Nov 2021 20:54:14 +0900</pubDate>
+      <dc:title>エンゼルバンク : ドラゴン桜外伝</dc:title>
+      <dcndl:titleTranscription>エンゼル バンク</dcndl:titleTranscription>
+      <dc:creator>三田, 紀房</dc:creator>
+      <dcndl:creatorTranscription>ミタ, ノリフサ</dcndl:creatorTranscription>
+      <dcndl:volume>11</dcndl:volume>
+      <dcndl:seriesTitle>モーニングKC ; 1892</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>モーニング KC</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2010</dc:date>
+      <dcterms:issued>2010.2</dcterms:issued>
+      <dcndl:price>533円</dcndl:price>
+      <dc:extent>1冊 (ページ付なし)</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-372892-7</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000010730171</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21723509</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002210076911"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014167911"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000010730171"/>
+      <dc:description> 2010</dc:description>
+    </item>
+    <item>
+      <title>エンゼルバンク : ドラゴン桜外伝</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000010849384</link>
+      <description><![CDATA[<p>12,講談社,2010,978-4-06-372898-9<p><ul><li>タイトル：エンゼルバンク : ドラゴン桜外伝</li><li>タイトル（読み）：エンゼル バンク</li><li>責任表示：三田紀房 著</li><li>シリーズ名：モーニングKC ; 1898</li><li>シリーズ名（読み）：モーニング KC</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>三田, 紀房,三田紀房 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000010849384</guid>
+      <pubDate>Mon, 8 Nov 2021 20:57:43 +0900</pubDate>
+      <dc:title>エンゼルバンク : ドラゴン桜外伝</dc:title>
+      <dcndl:titleTranscription>エンゼル バンク</dcndl:titleTranscription>
+      <dc:creator>三田, 紀房</dc:creator>
+      <dcndl:creatorTranscription>ミタ, ノリフサ</dcndl:creatorTranscription>
+      <dcndl:volume>12</dcndl:volume>
+      <dcndl:seriesTitle>モーニングKC ; 1898</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>モーニング KC</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2010</dc:date>
+      <dcterms:issued>2010.4</dcterms:issued>
+      <dcndl:price>533円</dcndl:price>
+      <dc:extent>1冊 (ページ付なし)</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-372898-9</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000010849384</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21750946</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113247996"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002210076913"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014167912"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000010849384"/>
+      <dc:description> 2010</dc:description>
+    </item>
+    <item>
+      <title>エンゼルバンク : ドラゴン桜外伝</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000010876171</link>
+      <description><![CDATA[<p>13,講談社,2010,978-4-06-372912-2<p><ul><li>タイトル：エンゼルバンク : ドラゴン桜外伝</li><li>タイトル（読み）：エンゼル バンク</li><li>責任表示：三田紀房 著</li><li>シリーズ名：モーニングKC ; 1912</li><li>シリーズ名（読み）：モーニング KC</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>三田, 紀房,三田紀房 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000010876171</guid>
+      <pubDate>Mon, 8 Nov 2021 19:43:17 +0900</pubDate>
+      <dc:title>エンゼルバンク : ドラゴン桜外伝</dc:title>
+      <dcndl:titleTranscription>エンゼル バンク</dcndl:titleTranscription>
+      <dc:creator>三田, 紀房</dc:creator>
+      <dcndl:creatorTranscription>ミタ, ノリフサ</dcndl:creatorTranscription>
+      <dcndl:volume>13</dcndl:volume>
+      <dcndl:seriesTitle>モーニングKC ; 1912</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>モーニング KC</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2010</dc:date>
+      <dcterms:issued>2010.5</dcterms:issued>
+      <dcndl:price>533円</dcndl:price>
+      <dc:extent>1冊 (ページ付なし)</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-372912-2</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000010876171</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21768360</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113247997"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002210076914"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014167913"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000010876171"/>
+      <dc:description> 2010</dc:description>
+    </item>
+    <item>
+      <title>エンゼルバンク : ドラゴン桜外伝</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000010965918</link>
+      <description><![CDATA[<p>14,講談社,2010,978-4-06-372928-3<p><ul><li>タイトル：エンゼルバンク : ドラゴン桜外伝</li><li>タイトル（読み）：エンゼル バンク</li><li>責任表示：三田紀房 著</li><li>シリーズ名：モーニングKC ; 1928</li><li>シリーズ名（読み）：モーニング KC</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>三田, 紀房,三田紀房 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000010965918</guid>
+      <pubDate>Mon, 8 Nov 2021 21:31:46 +0900</pubDate>
+      <dc:title>エンゼルバンク : ドラゴン桜外伝</dc:title>
+      <dcndl:titleTranscription>エンゼル バンク</dcndl:titleTranscription>
+      <dc:creator>三田, 紀房</dc:creator>
+      <dcndl:creatorTranscription>ミタ, ノリフサ</dcndl:creatorTranscription>
+      <dcndl:volume>14</dcndl:volume>
+      <dcndl:seriesTitle>モーニングKC ; 1928</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>モーニング KC</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2010</dc:date>
+      <dcterms:issued>2010.8</dcterms:issued>
+      <dcndl:price>533円</dcndl:price>
+      <dc:extent>1冊 (ページ付なし)</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-372928-3</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000010965918</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21802735</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113247998"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002210076916"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014167914"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000010965918"/>
+      <dc:description> 2010</dc:description>
+    </item>
+    <item>
+      <title>エンゼルバンク : ドラゴン桜外伝</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009337355</link>
+      <description><![CDATA[<p>2,講談社,2008,978-4-06-372684-8<p><ul><li>タイトル：エンゼルバンク : ドラゴン桜外伝</li><li>タイトル（読み）：エンゼル バンク</li><li>責任表示：三田紀房 著</li><li>シリーズ名：モーニングKC ; 1684</li><li>シリーズ名（読み）：モーニング KC</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>三田, 紀房,三田紀房 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009337355</guid>
+      <pubDate>Mon, 25 Oct 2021 19:40:16 +0900</pubDate>
+      <dc:title>エンゼルバンク : ドラゴン桜外伝</dc:title>
+      <dcndl:titleTranscription>エンゼル バンク</dcndl:titleTranscription>
+      <dc:creator>三田, 紀房</dc:creator>
+      <dcndl:creatorTranscription>ミタ, ノリフサ</dcndl:creatorTranscription>
+      <dcndl:volume>2</dcndl:volume>
+      <dcndl:seriesTitle>モーニングKC ; 1684</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>モーニング KC</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2008</dc:date>
+      <dcterms:issued>2008.4</dcterms:issued>
+      <dcndl:price>524円</dcndl:price>
+      <dc:extent>1冊 (ページ付なし)</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-372684-8</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009337355</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21407213</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1109009873"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002210076909"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014167902"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009337355"/>
+      <dc:description> 2008</dc:description>
+    </item>
+    <item>
+      <title>エンゼルバンク : ドラゴン桜外伝</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009423298</link>
+      <description><![CDATA[<p>3,講談社,2008,978-4-06-372719-7<p><ul><li>タイトル：エンゼルバンク : ドラゴン桜外伝</li><li>タイトル（読み）：エンゼル バンク</li><li>責任表示：三田紀房 著</li><li>シリーズ名：モーニングKC ; 1719</li><li>シリーズ名（読み）：モーニング KC</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>三田, 紀房,三田紀房 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009423298</guid>
+      <pubDate>Mon, 25 Oct 2021 18:44:22 +0900</pubDate>
+      <dc:title>エンゼルバンク : ドラゴン桜外伝</dc:title>
+      <dcndl:titleTranscription>エンゼル バンク</dcndl:titleTranscription>
+      <dc:creator>三田, 紀房</dc:creator>
+      <dcndl:creatorTranscription>ミタ, ノリフサ</dcndl:creatorTranscription>
+      <dcndl:volume>3</dcndl:volume>
+      <dcndl:seriesTitle>モーニングKC ; 1719</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>モーニング KC</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2008</dc:date>
+      <dcterms:issued>2008.7</dcterms:issued>
+      <dcndl:price>533円</dcndl:price>
+      <dc:extent>1冊 (ページ付なし)</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-372719-7</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009423298</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21455626</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1109009874"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002210076912"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014167903"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009423298"/>
+      <dc:description> 2008</dc:description>
+    </item>
+    <item>
+      <title>エンゼルバンク : ドラゴン桜外伝</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009722828</link>
+      <description><![CDATA[<p>4,講談社,2008,978-4-06-372742-5<p><ul><li>タイトル：エンゼルバンク : ドラゴン桜外伝</li><li>タイトル（読み）：エンゼル バンク</li><li>責任表示：三田紀房 著</li><li>シリーズ名：モーニングKC ; 1742</li><li>シリーズ名（読み）：モーニング KC</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>三田, 紀房,三田紀房 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009722828</guid>
+      <pubDate>Mon, 1 Nov 2021 19:54:25 +0900</pubDate>
+      <dc:title>エンゼルバンク : ドラゴン桜外伝</dc:title>
+      <dcndl:titleTranscription>エンゼル バンク</dcndl:titleTranscription>
+      <dc:creator>三田, 紀房</dc:creator>
+      <dcndl:creatorTranscription>ミタ, ノリフサ</dcndl:creatorTranscription>
+      <dcndl:volume>4</dcndl:volume>
+      <dcndl:seriesTitle>モーニングKC ; 1742</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>モーニング KC</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2008</dc:date>
+      <dcterms:issued>2008.10</dcterms:issued>
+      <dcndl:price>533円</dcndl:price>
+      <dc:extent>1冊 (ページ付なし)</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-372742-5</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009722828</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21497554</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1109009875"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002210076915"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014167904"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009722828"/>
+      <dc:description> 2008</dc:description>
+    </item>
+    <item>
+      <title>エンゼルバンク : ドラゴン桜外伝</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009996353</link>
+      <description><![CDATA[<p>5,講談社,2009,978-4-06-372770-8<p><ul><li>タイトル：エンゼルバンク : ドラゴン桜外伝</li><li>タイトル（読み）：エンゼル バンク</li><li>責任表示：三田紀房 著</li><li>シリーズ名：モーニングKC ; 1770</li><li>シリーズ名（読み）：モーニング KC</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>三田, 紀房,三田紀房 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009996353</guid>
+      <pubDate>Mon, 1 Nov 2021 18:53:08 +0900</pubDate>
+      <dc:title>エンゼルバンク : ドラゴン桜外伝</dc:title>
+      <dcndl:titleTranscription>エンゼル バンク</dcndl:titleTranscription>
+      <dc:creator>三田, 紀房</dc:creator>
+      <dcndl:creatorTranscription>ミタ, ノリフサ</dcndl:creatorTranscription>
+      <dcndl:volume>5</dcndl:volume>
+      <dcndl:seriesTitle>モーニングKC ; 1770</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>モーニング KC</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2009</dc:date>
+      <dcterms:issued>2009.1</dcterms:issued>
+      <dcndl:price>533円</dcndl:price>
+      <dc:extent>1冊 (ページ付なし)</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-372770-8</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009996353</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21542464</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1109009876"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002210076917"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014167905"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009996353"/>
+      <dc:description> 2009</dc:description>
+    </item>
+    <item>
+      <title>エンゼルバンク : ドラゴン桜外伝</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000010112026</link>
+      <description><![CDATA[<p>6,講談社,2009,978-4-06-372790-6<p><ul><li>タイトル：エンゼルバンク : ドラゴン桜外伝</li><li>タイトル（読み）：エンゼル バンク</li><li>責任表示：三田紀房 著</li><li>シリーズ名：モーニングKC ; 1790</li><li>シリーズ名（読み）：モーニング KC</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>三田, 紀房,三田紀房 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000010112026</guid>
+      <pubDate>Mon, 1 Nov 2021 20:03:52 +0900</pubDate>
+      <dc:title>エンゼルバンク : ドラゴン桜外伝</dc:title>
+      <dcndl:titleTranscription>エンゼル バンク</dcndl:titleTranscription>
+      <dc:creator>三田, 紀房</dc:creator>
+      <dcndl:creatorTranscription>ミタ, ノリフサ</dcndl:creatorTranscription>
+      <dcndl:volume>6</dcndl:volume>
+      <dcndl:seriesTitle>モーニングKC ; 1790</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>モーニング KC</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2009</dc:date>
+      <dcterms:issued>2009.4</dcterms:issued>
+      <dcndl:price>533円</dcndl:price>
+      <dc:extent>1冊 (ページ付なし)</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-372790-6</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000010112026</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21577499</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1109039143"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002210076918"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014167906"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000010112026"/>
+      <dc:description> 2009</dc:description>
+    </item>
+    <item>
+      <title>エンゼルバンク : ドラゴン桜外伝</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000010414250</link>
+      <description><![CDATA[<p>7,講談社,2009,978-4-06-372819-4<p><ul><li>タイトル：エンゼルバンク : ドラゴン桜外伝</li><li>タイトル（読み）：エンゼル バンク</li><li>責任表示：三田紀房 著</li><li>シリーズ名：モーニングKC ; 1819</li><li>シリーズ名（読み）：モーニング KC</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>三田, 紀房,三田紀房 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000010414250</guid>
+      <pubDate>Mon, 1 Nov 2021 20:56:04 +0900</pubDate>
+      <dc:title>エンゼルバンク : ドラゴン桜外伝</dc:title>
+      <dcndl:titleTranscription>エンゼル バンク</dcndl:titleTranscription>
+      <dc:creator>三田, 紀房</dc:creator>
+      <dcndl:creatorTranscription>ミタ, ノリフサ</dcndl:creatorTranscription>
+      <dcndl:volume>7</dcndl:volume>
+      <dcndl:seriesTitle>モーニングKC ; 1819</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>モーニング KC</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2009</dc:date>
+      <dcterms:issued>2009.7</dcterms:issued>
+      <dcndl:price>533円</dcndl:price>
+      <dc:extent>1冊 (ページ付なし)</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-372819-4</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000010414250</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21623024</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1109082341"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002210076919"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014167907"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000010414250"/>
+      <dc:description> 2009</dc:description>
+    </item>
+    <item>
+      <title>エンゼルバンク : ドラゴン桜外伝</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000010595971</link>
+      <description><![CDATA[<p>8,講談社,2009,978-4-06-372841-5<p><ul><li>タイトル：エンゼルバンク : ドラゴン桜外伝</li><li>タイトル（読み）：エンゼル バンク</li><li>責任表示：三田紀房 著</li><li>シリーズ名：モーニングKC ; 1841</li><li>シリーズ名（読み）：モーニング KC</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>三田, 紀房,三田紀房 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000010595971</guid>
+      <pubDate>Mon, 1 Nov 2021 21:44:05 +0900</pubDate>
+      <dc:title>エンゼルバンク : ドラゴン桜外伝</dc:title>
+      <dcndl:titleTranscription>エンゼル バンク</dcndl:titleTranscription>
+      <dc:creator>三田, 紀房</dc:creator>
+      <dcndl:creatorTranscription>ミタ, ノリフサ</dcndl:creatorTranscription>
+      <dcndl:volume>8</dcndl:volume>
+      <dcndl:seriesTitle>モーニングKC ; 1841</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>モーニング KC</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2009</dc:date>
+      <dcterms:issued>2009.10</dcterms:issued>
+      <dcndl:price>533円</dcndl:price>
+      <dc:extent>1冊 (ページ付なし)</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-372841-5</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000010595971</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21668605</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1109082345"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002210076907"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014167908"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000010595971"/>
+      <dc:description> 2009</dc:description>
+    </item>
+    <item>
+      <title>エンゼルバンク : ドラゴン桜外伝</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000010649650</link>
+      <description><![CDATA[<p>9,講談社,2009,978-4-06-372857-6<p><ul><li>タイトル：エンゼルバンク : ドラゴン桜外伝</li><li>タイトル（読み）：エンゼル バンク</li><li>責任表示：三田紀房 著</li><li>シリーズ名：モーニングKC ; 1857</li><li>シリーズ名（読み）：モーニング KC</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>三田, 紀房,三田紀房 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000010649650</guid>
+      <pubDate>Mon, 8 Nov 2021 19:16:05 +0900</pubDate>
+      <dc:title>エンゼルバンク : ドラゴン桜外伝</dc:title>
+      <dcndl:titleTranscription>エンゼル バンク</dcndl:titleTranscription>
+      <dc:creator>三田, 紀房</dc:creator>
+      <dcndl:creatorTranscription>ミタ, ノリフサ</dcndl:creatorTranscription>
+      <dcndl:volume>9</dcndl:volume>
+      <dcndl:seriesTitle>モーニングKC ; 1857</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>モーニング KC</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2009</dc:date>
+      <dcterms:issued>2009.12</dcterms:issued>
+      <dcndl:price>533円</dcndl:price>
+      <dc:extent>1冊 (ページ付なし)</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-372857-6</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000010649650</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21692138</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1110000993"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002210076908"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014167909"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000010649650"/>
+      <dc:description> 2009</dc:description>
+    </item>
+    <item>
+      <title>親が知っておきたい学びの本質の教科書 : ドラゴン桜2×朝日小学生新聞×朝日中高生新聞</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I030023978</link>
+      <description><![CDATA[<p>教科別編,朝日学生新聞社,2019,978-4-909064-81-3<p><ul><li>タイトル：親が知っておきたい学びの本質の教科書 : ドラゴン桜2×朝日小学生新聞×朝日中高生新聞</li><li>タイトル（読み）：オヤ ガ シッテ オキタイ マナビ ノ ホンシツ ノ キョウカショ : ドラゴンザクラ ツー アサヒ ショウガクセイ シンブン アサヒ チュウコウセイ シンブン</li><li>責任表示：山内宏泰 著,三田紀房 漫画,最相葉月 [ほか] [述]</li><li>NDC(10)：379.9</li></ul>]]></description>
+      <author>山内, 宏泰, 1972-,山内宏泰 著,三田紀房 漫画,最相葉月 [ほか] [述]</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I030023978</guid>
+      <pubDate>Sat, 25 Jan 2020 02:00:13 +0900</pubDate>
+      <dc:title>親が知っておきたい学びの本質の教科書 : ドラゴン桜2×朝日小学生新聞×朝日中高生新聞</dc:title>
+      <dcndl:titleTranscription>オヤ ガ シッテ オキタイ マナビ ノ ホンシツ ノ キョウカショ : ドラゴンザクラ ツー アサヒ ショウガクセイ シンブン アサヒ チュウコウセイ シンブン</dcndl:titleTranscription>
+      <dc:creator>山内, 宏泰, 1972-</dc:creator>
+      <dcndl:creatorTranscription>ヤマウチ, ヒロヤス, 1972-</dcndl:creatorTranscription>
+      <dcndl:volume>教科別編</dcndl:volume>
+      <dc:publisher>朝日学生新聞社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019.10</dcterms:issued>
+      <dcndl:price>1500円</dcndl:price>
+      <dc:extent>226p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-909064-81-3</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">030023978</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23323255</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">33992182</dc:identifier>
+      <dc:subject>家庭教育</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">Y76</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">379.9</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.miyagi.jp/winj/opac/switch-detail-iccap.do?bibid=1102171283"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=2954126&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1000049187/"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014767980"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007000978680"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009812353141"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1110377746"/>
+      <rdfs:seeAlso rdf:resource="https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1110403685"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000002798505"/>
+      <rdfs:seeAlso rdf:resource="https://www2.library.pref.kagoshima.jp/kento/opac/switch-detail-iccap.do?bibid=1111876957"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I030023978"/>
+      <dc:description> 2019</dc:description>
+    </item>
+    <item>
+      <title>親が知っておきたい学びの本質の教科書 : ドラゴン桜2×朝日小学生新聞×朝日中高生新聞</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I030540444</link>
+      <description><![CDATA[<p>教育と子育て編,朝日学生新聞社,2020,978-4-02-191104-0<p><ul><li>タイトル：親が知っておきたい学びの本質の教科書 : ドラゴン桜2×朝日小学生新聞×朝日中高生新聞</li><li>タイトル（読み）：オヤ ガ シッテ オキタイ マナビ ノ ホンシツ ノ キョウカショ : ドラゴンザクラ ツー アサヒ ショウガクセイ シンブン アサヒ チュウコウセイ シンブン</li><li>責任表示：山内宏泰 著,三田紀房 漫画,柳沢幸雄 [ほか] [述]</li><li>NDC(10)：379.9</li></ul>]]></description>
+      <author>山内, ヒロヤス,山内宏泰 著,三田紀房 漫画,柳沢幸雄 [ほか] [述]</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I030540444</guid>
+      <pubDate>Fri, 25 Sep 2020 20:08:47 +0900</pubDate>
+      <dc:title>親が知っておきたい学びの本質の教科書 : ドラゴン桜2×朝日小学生新聞×朝日中高生新聞</dc:title>
+      <dcndl:titleTranscription>オヤ ガ シッテ オキタイ マナビ ノ ホンシツ ノ キョウカショ : ドラゴンザクラ ツー アサヒ ショウガクセイ シンブン アサヒ チュウコウセイ シンブン</dcndl:titleTranscription>
+      <dc:creator>山内, ヒロヤス</dc:creator>
+      <dcndl:creatorTranscription>ヤマウチ, ヒロヤス</dcndl:creatorTranscription>
+      <dcndl:volume>教育と子育て編</dcndl:volume>
+      <dc:publisher>朝日学生新聞社</dc:publisher>
+      <dc:publisher>朝日新聞出版 (発売)</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2020</dc:date>
+      <dcterms:issued>2020.8</dcterms:issued>
+      <dcndl:price>1700円</dcndl:price>
+      <dc:extent>210p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-02-191104-0</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">030540444</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23422253</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">34097691</dc:identifier>
+      <dc:subject>家庭教育</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">Y76</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">379.9</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.miyagi.jp/winj/opac/switch-detail-iccap.do?bibid=1102234735"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014902095"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007001049179"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009812422739"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1110442494"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000002871521"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I030540444"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970586434882681358"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784021911040"/>
+      <dc:description> 2020</dc:description>
+    </item>
+    <item>
+      <title>親が知っておきたい学びの本質の教科書</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434904962227</link>
+      <description><![CDATA[<p>教科別編,朝日学生新聞社,2019,9784909064813<p><ul><li>タイトル：親が知っておきたい学びの本質の教科書</li><li>タイトル（読み）：オヤ ガ シッテ オキタイ マナビ ノ ホンシツ ノ キョウカショ</li><li>責任表示：山内宏泰著 ; 三田紀房漫画 ; 最相葉月 [ほか述]</li><li>NDC(10)：379.9</li></ul>]]></description>
+      <author>山内, 宏泰,三田, 紀房,最相, 葉月,坂本, 聰,牛瀧, 文宏,岩政, 大樹,伊藤, 賀一,宝槻, 泰伸,村山, 斉,福岡, 伸一,関, 正生,高橋, 一也,工藤, 勇一,山内宏泰著 ; 三田紀房漫画 ; 最相葉月 [ほか述]</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434904962227</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>親が知っておきたい学びの本質の教科書</dc:title>
+      <dcndl:titleTranscription>オヤ ガ シッテ オキタイ マナビ ノ ホンシツ ノ キョウカショ</dcndl:titleTranscription>
+      <dc:creator>山内, 宏泰</dc:creator>
+      <dc:creator>三田, 紀房</dc:creator>
+      <dc:creator>最相, 葉月</dc:creator>
+      <dc:creator>坂本, 聰</dc:creator>
+      <dc:creator>牛瀧, 文宏</dc:creator>
+      <dc:creator>岩政, 大樹</dc:creator>
+      <dc:creator>伊藤, 賀一</dc:creator>
+      <dc:creator>宝槻, 泰伸</dc:creator>
+      <dc:creator>村山, 斉</dc:creator>
+      <dc:creator>福岡, 伸一</dc:creator>
+      <dc:creator>関, 正生</dc:creator>
+      <dc:creator>高橋, 一也</dc:creator>
+      <dc:creator>工藤, 勇一</dc:creator>
+      <dcndl:creatorTranscription>ヤマウチ, ヒロヤス</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ミタ, ノリフサ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>サイショウ, ハズキ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>サカモト, サトシ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ウシタキ, フミヒロ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>イワマサ, ダイキ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>イトウ, ガイチ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ホウツキ, ヤスノブ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ムラヤマ, ヒトシ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>フクオカ, シンイチ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>セキ, マサオ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>タカハシ, カズヤ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>クドウ, ユウイチ</dcndl:creatorTranscription>
+      <dcndl:volume>教科別編</dcndl:volume>
+      <dc:publisher>朝日学生新聞社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019.10</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9784909064813</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9784909064813</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BB31534838</dc:identifier>
+      <dc:subject>家庭教育</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">Y76</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">379.9</dc:subject>
+      <dc:description>タイトルは奥付による</dc:description>
+      <dc:description>その他の述者: 坂本聰, 牛瀧文宏, 岩政大樹, 伊藤賀一, 宝槻泰伸, 村山斉, 福岡伸一, 関正生, 高橋一也, 工藤勇一</dc:description>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970586434904962227"/>
+      <dc:description> 2019</dc:description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,67 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>9784167910105 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?isbn=9784167910105&amp;cnt=5</link>
+    <description>Search results for isbn=9784167910105 cnt=5</description>
+    <language>ja</language>
+    <openSearch:totalResults>1</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
+    <item>
+      <title>羊と鋼の森</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I028779942</link>
+      <description><![CDATA[<p>文藝春秋,2018,978-4-16-791010-5<p><ul><li>タイトル：羊と鋼の森</li><li>タイトル（読み）：ヒツジ ト ハガネ ノ モリ</li><li>責任表示：宮下奈都 著</li><li>シリーズ名：文春文庫 ; み43-2</li><li>シリーズ名（読み）：ブンシュン ブンコ ; ミ-43-2</li><li>NDC(10)：913.6</li></ul>]]></description>
+      <author>宮下, 奈都,宮下奈都 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I028779942</guid>
+      <pubDate>Sat, 4 Jul 2026 00:29:19 +0900</pubDate>
+      <dc:title>羊と鋼の森</dc:title>
+      <dcndl:titleTranscription>ヒツジ ト ハガネ ノ モリ</dcndl:titleTranscription>
+      <dc:creator>宮下, 奈都</dc:creator>
+      <dcndl:creatorTranscription>ミヤシタ, ナツ</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>文春文庫 ; み43-2</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ブンシュン ブンコ ; ミ-43-2</dcndl:seriesTitleTranscription>
+      <dc:publisher>文藝春秋</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2018</dc:date>
+      <dcterms:issued>2018.2</dcterms:issued>
+      <dcndl:price>650円</dcndl:price>
+      <dc:extent>274p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-16-791010-5</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">028779942</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23009554</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">33718127</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">KH874</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">913.6</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.hokkaido.jp/wo/opc_srh/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008001241287"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=2772462&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113561713"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=3004430&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=2088433"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1110313991/"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.yamanashi.jp/licsxp-opac/WOpacMnuTopInitAction.do"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.gifu.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1190287734"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001103488001"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001710092778"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bib/?B13529006"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014445387"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007000802676"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009812189146"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1110224049"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1130019429"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1110047328"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.miyazaki.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1102186165"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I028779942"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=3847477"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=3893017"/>
+      <rdfs:seeAlso rdf:resource="https://www.kanabun.or.jp/CARIN/CARINOPACLINK.HTM?ID=B00230520"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970023484927571471"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/1679101000000000000F"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784167910105"/>
+      <dc:description> 2018</dc:description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,65 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>9784167911300 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?isbn=9784167911300&amp;cnt=5</link>
+    <description>Search results for isbn=9784167911300 cnt=5</description>
+    <language>ja</language>
+    <openSearch:totalResults>1</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
+    <item>
+      <title>コンビニ人間</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029161151</link>
+      <description><![CDATA[<p>文藝春秋,2018,978-4-16-791130-0<p><ul><li>タイトル：コンビニ人間</li><li>タイトル（読み）：コンビニ ニンゲン</li><li>責任表示：村田沙耶香 著</li><li>シリーズ名：文春文庫 ; む16-1</li><li>シリーズ名（読み）：ブンシュン ブンコ ; ム-16-1</li><li>NDC(10)：913.6</li></ul>]]></description>
+      <author>村田, 沙耶香, 1979-,村田沙耶香 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I029161151</guid>
+      <pubDate>Tue, 14 Jul 2026 01:50:53 +0900</pubDate>
+      <dc:title>コンビニ人間</dc:title>
+      <dcndl:titleTranscription>コンビニ ニンゲン</dcndl:titleTranscription>
+      <dc:creator>村田, 沙耶香, 1979-</dc:creator>
+      <dcndl:creatorTranscription>ムラタ, サヤカ, 1979-</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>文春文庫 ; む16-1</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ブンシュン ブンコ ; ム-16-1</dcndl:seriesTitleTranscription>
+      <dc:publisher>文藝春秋</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2018</dc:date>
+      <dcterms:issued>2018.9</dcterms:issued>
+      <dcndl:price>580円</dcndl:price>
+      <dc:extent>168p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-16-791130-0</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">029161151</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23106126</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">33809233</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">KH881</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">913.6</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008001305491"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=2833372&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113619363"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=3098103&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=2130795"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.gifu.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1190339624"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001103538231"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001810048431"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014552206"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007000858391"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009812244019"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1110275628"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1130070879"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000002688753"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1110097820"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I029161151"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=3997139"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4051696"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4846396"/>
+      <rdfs:seeAlso rdf:resource="https://www.kanabun.or.jp/CARIN/CARINOPACLINK.HTM?ID=B01116548"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970023484843049888"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/1679113000000000000K"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/90357800000000275106"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784167911300"/>
+      <dc:description> 2018</dc:description>
+    </item>
+  </channel>
+</rss>

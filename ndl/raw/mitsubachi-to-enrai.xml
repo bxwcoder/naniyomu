@@ -1,0 +1,66 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>9784344428522 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?isbn=9784344428522&amp;cnt=5</link>
+    <description>Search results for isbn=9784344428522 cnt=5</description>
+    <language>ja</language>
+    <openSearch:totalResults>1</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
+    <item>
+      <title>蜜蜂と遠雷</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029585014</link>
+      <description><![CDATA[<p>上,幻冬舎,2019,978-4-344-42852-2<p><ul><li>タイトル：蜜蜂と遠雷</li><li>タイトル（読み）：ミツバチ ト エンライ</li><li>責任表示：恩田陸 [著]</li><li>シリーズ名：幻冬舎文庫 ; お-7-14</li><li>シリーズ名（読み）：ゲントウシャ ブンコ ; オ-7-14</li><li>NDC(10)：913.6</li></ul>]]></description>
+      <author>恩田, 陸, 1964-,恩田陸 [著]</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I029585014</guid>
+      <pubDate>Thu, 2 Jul 2026 20:51:03 +0900</pubDate>
+      <dc:title>蜜蜂と遠雷</dc:title>
+      <dcndl:titleTranscription>ミツバチ ト エンライ</dcndl:titleTranscription>
+      <dc:creator>恩田, 陸, 1964-</dc:creator>
+      <dcndl:creatorTranscription>オンダ, リク, 1964-</dcndl:creatorTranscription>
+      <dcndl:volume>上</dcndl:volume>
+      <dcndl:seriesTitle>幻冬舎文庫 ; お-7-14</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ゲントウシャ ブンコ ; オ-7-14</dcndl:seriesTitleTranscription>
+      <dc:publisher>幻冬舎</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019.4</dcterms:issued>
+      <dcndl:price>730円</dcndl:price>
+      <dc:extent>454p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-344-42852-2</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">029585014</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23200253</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">33904200</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">KH971</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">913.6</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.hokkaido.jp/wo/opc_srh/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008001369601"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.miyagi.jp/winj/opac/switch-detail-iccap.do?bibid=1102121286"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.miyagi.jp/winj/opac/switch-detail-iccap.do?bibid=1102138704"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.pref.yamagata.jp/winj/opac/switch-detail-iccap.do?bibid=1120191205"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=2899088&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113681090"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=3189032&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=2174714"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.yamanashi.jp/licsxp-opac/WOpacMnuTopInitAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001103592292"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001910003641"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014668681"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007000923061"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1110329852"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1130125322"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1110151403"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I029585014"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4003715"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4022569"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4173103"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000073-I11586904"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970304959820139319"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784344428522"/>
+      <dc:description> 2019</dc:description>
+    </item>
+  </channel>
+</rss>

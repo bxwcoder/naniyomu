@@ -1,0 +1,62 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>9784101017525 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?isbn=9784101017525&amp;cnt=5</link>
+    <description>Search results for isbn=9784101017525 cnt=5</description>
+    <language>ja</language>
+    <openSearch:totalResults>1</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
+    <item>
+      <title>ぼくはイエローでホワイトで、ちょっとブルー</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I031472640</link>
+      <description><![CDATA[<p>新潮社,2021,978-4-10-101752-5<p><ul><li>タイトル：ぼくはイエローでホワイトで、ちょっとブルー</li><li>タイトル（読み）：ボク ワ イエロー デ ホワイト デ 、 チョット ブルー</li><li>責任表示：ブレイディみかこ 著</li><li>シリーズ名：新潮文庫</li><li>シリーズ名（読み）：シンチョウ ブンコ</li><li>NDC(10)：372.333</li></ul>]]></description>
+      <author>Brady, Mikako, 1965-,ブレイディみかこ 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I031472640</guid>
+      <pubDate>Fri, 15 Apr 2022 00:18:56 +0900</pubDate>
+      <dc:title>ぼくはイエローでホワイトで、ちょっとブルー</dc:title>
+      <dcndl:titleTranscription>ボク ワ イエロー デ ホワイト デ 、 チョット ブルー</dcndl:titleTranscription>
+      <dc:creator>Brady, Mikako, 1965-</dc:creator>
+      <dcndl:seriesTitle>新潮文庫</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>シンチョウ ブンコ</dcndl:seriesTitleTranscription>
+      <dc:publisher>新潮社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+      <dcterms:issued>2021.7</dcterms:issued>
+      <dcndl:price>630円</dcndl:price>
+      <dc:extent>332 p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-10-101752-5</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">031472640</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23565771</dc:identifier>
+      <dc:subject>イギリス--教育</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">FB64</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">372.333</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.hokkaido.jp/wo/opc_srh/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008001593893"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=3114730&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113886981"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=3514016&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=2559083"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1000001424881/"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.yamanashi.jp/licsxp-opac/WOpacMnuTopInitAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002110032813"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000015052715"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007001132774"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1120414639"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1110516384"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1110336004"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I031472640"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4333208"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000049-I032837587"/>
+      <rdfs:seeAlso rdf:resource="https://www.kanabun.or.jp/CARIN/CARINOPACLINK.HTM?ID=B01158525"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971430859846525466"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/10E04991100000000000"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784101017525"/>
+      <dc:description> 2021</dc:description>
+    </item>
+  </channel>
+</rss>

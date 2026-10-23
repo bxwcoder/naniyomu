@@ -1,0 +1,69 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>9784488663315 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?isbn=9784488663315&amp;cnt=5</link>
+    <description>Search results for isbn=9784488663315 cnt=5</description>
+    <language>ja</language>
+    <openSearch:totalResults>1</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
+    <item>
+      <title>星を継ぐもの</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I032900979</link>
+      <description><![CDATA[<p>東京創元社,2023,978-4-488-66331-5<p><ul><li>タイトル：星を継ぐもの</li><li>タイトル（読み）：ホシ オ ツグ モノ</li><li>責任表示：ジェイムズ・P・ホーガン 著,池央耿 訳</li><li>シリーズ名：創元SF文庫 ; SFホ1-1</li><li>シリーズ名（読み）：ソウゲン エスエフ ブンコ ; ホ-1-1</li><li>NDC(10)：933.7</li></ul>]]></description>
+      <author>Hogan, James P., 1941-2010,池, 央耿, 1940-2023,ジェイムズ・P・ホーガン 著,池央耿 訳</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I032900979</guid>
+      <pubDate>Mon, 28 Apr 2025 20:16:23 +0900</pubDate>
+      <dc:title>星を継ぐもの</dc:title>
+      <dcndl:titleTranscription>ホシ オ ツグ モノ</dcndl:titleTranscription>
+      <dc:creator>Hogan, James P., 1941-2010</dc:creator>
+      <dc:creator>池, 央耿, 1940-2023</dc:creator>
+      <dcndl:creatorTranscription>イケ, ヒロアキ, 1940-2023</dcndl:creatorTranscription>
+      <dcndl:edition>新版</dcndl:edition>
+      <dcndl:seriesTitle>創元SF文庫 ; SFホ1-1</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ソウゲン エスエフ ブンコ ; ホ-1-1</dcndl:seriesTitleTranscription>
+      <dc:publisher>東京創元社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2023</dc:date>
+      <dcterms:issued>2023.7</dcterms:issued>
+      <dcndl:price>800円</dcndl:price>
+      <dc:extent>326p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-488-66331-5</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">032900979</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23856994</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">34492376</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">KS179</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">933.7</dc:subject>
+      <dc:description>出版</dc:description>
+      <dc:description>原タイトル: INHERIT THE STARS</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008001781984"/>
+      <rdfs:seeAlso rdf:resource="https://www.apl.pref.akita.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009921030811"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.pref.yamagata.jp/winj/opac/switch-detail-iccap.do?bibid=1120541351"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=3305418&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.chiba.lg.jp/licsxp-iopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000101084195"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1154206960"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1122067423"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=3712603&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001103938953"/>
+      <rdfs:seeAlso rdf:resource="http://websv.aichi-pref-library.jp/winj/opac/switch-detail-iccap.do?bibid=1191259053"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002310026876"/>
+      <rdfs:seeAlso rdf:resource="https://www.shiga-pref-library.jp/wo/opc_srh/srh_detail/4933851/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bib/?B14305566"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000015389360"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007001314336"/>
+      <rdfs:seeAlso rdf:resource="https://opacsvr01.library.pref.nara.jp/opac/volume/1412635"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009812687248"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1110680883"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1130475656"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000003131462"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I032900979"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4952589"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970023484921938215"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/48866331000000000000"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784488663315"/>
+      <dc:description> 2023</dc:description>
+    </item>
+  </channel>
+</rss>

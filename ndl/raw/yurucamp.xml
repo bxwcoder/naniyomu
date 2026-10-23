@@ -1,0 +1,744 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>ゆるキャン△ - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E3%82%86%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3%E2%96%B3&amp;cnt=30</link>
+    <description>Search results for title=ゆるキャン△ cnt=30</description>
+    <language>ja</language>
+    <openSearch:totalResults>104</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>30</openSearch:itemsPerPage>
+    <item>
+      <title>アウトドア音楽のすすめwithゆるキャン△</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I031550421</link>
+      <description><![CDATA[<p>ヤマハミュージックエンタテインメントホールディングスミュージックメディア部,2021,978-4-636-97804-9<p><ul><li>タイトル：アウトドア音楽のすすめwithゆるキャン△</li><li>タイトル（読み）：アウトドア オンガク ノ ススメ ウィズ ユルキャン</li><li>NDC(10)：778.77</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I031550421</guid>
+      <pubDate>Wed, 15 Sep 2021 23:19:19 +0900</pubDate>
+      <dc:title>アウトドア音楽のすすめwithゆるキャン△</dc:title>
+      <dcndl:titleTranscription>アウトドア オンガク ノ ススメ ウィズ ユルキャン</dcndl:titleTranscription>
+      <dc:publisher>ヤマハミュージックエンタテインメントホールディングスミュージックメディア部</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+      <dcterms:issued>2021.8</dcterms:issued>
+      <dcndl:price>1800円</dcndl:price>
+      <dc:extent>87p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-636-97804-9</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">031550421</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23579974</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">34229315</dc:identifier>
+      <dc:subject>音楽</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">Y88</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">778.77</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1000001431215/"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.yamanashi.jp/licsxp-opac/WOpacMnuTopInitAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I031550421"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970305062219143554"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784636978049"/>
+      <dc:description> 2021</dc:description>
+    </item>
+    <item>
+      <title>いばらき三遊記　：　笠間 水戸 大洗　：　水戸,笠間,大洗の季節の「花」を楽しむ周遊プラン　：　陶芸や染物,とんぼ玉,ジュルキャンドルなど物作りを満喫!!</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I08111001002112175</link>
+      <description><![CDATA[<p>笠間発見ツアーズ,2012-05,<p><ul><li>タイトル：いばらき三遊記　：　笠間 水戸 大洗　：　水戸,笠間,大洗の季節の「花」を楽しむ周遊プラン　：　陶芸や染物,とんぼ玉,ジュルキャンドルなど物作りを満喫!!</li><li>タイトル（読み）：イバラキ サンユウキ　カサマ ミト オオアライ　：　ミト カサマ オオアライ ノ キセツ ノ ハナ オ タノシム シュウユウ プラン　：　トウゲイ ヤ ソメモノ トンボタマ ジュルキャンドル ナド モノズクリ オ マンキツ</li><li>NDC(9)：291.31</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I08111001002112175</guid>
+      <pubDate>Wed, 15 Jan 2020 02:28:29 +0900</pubDate>
+      <dc:title>いばらき三遊記　：　笠間 水戸 大洗　：　水戸,笠間,大洗の季節の「花」を楽しむ周遊プラン　：　陶芸や染物,とんぼ玉,ジュルキャンドルなど物作りを満喫!!</dc:title>
+      <dcndl:titleTranscription>イバラキ サンユウキ　カサマ ミト オオアライ　：　ミト カサマ オオアライ ノ キセツ ノ ハナ オ タノシム シュウユウ プラン　：　トウゲイ ヤ ソメモノ トンボタマ ジュルキャンドル ナド モノズクリ オ マンキツ</dcndl:titleTranscription>
+      <dc:publisher>笠間発見ツアーズ</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2012-05</dc:date>
+      <dcterms:issued>〔2012.5〕</dcterms:issued>
+      <dcndl:price>頒価不明</dcndl:price>
+      <dc:extent>1枚</dc:extent>
+      <dc:subject>茨城県・県央地域-紀行・案内記</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">291.31</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-kopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001002112175"/>
+      <dc:description> 2012-05</dc:description>
+    </item>
+    <item>
+      <title>映画ゆるキャン△ : アニメーション原画集</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I034743562</link>
+      <description><![CDATA[<p>シーステイション,2024,4595316496075<p><ul><li>タイトル：映画ゆるキャン△ : アニメーション原画集</li><li>タイトル（読み）：エイガ ユルキャン △ : アニメーション ゲンガシュウ</li><li>責任表示：シーステイション株式会社 著,シーステイション株式会社 企画・監修</li><li>シリーズ名：Yurucamp key animation book ; 7サツメ</li><li>シリーズ名（読み）：Yurucamp key animation book ; 7 サツメ</li><li>NDC(10)：778.77</li></ul>]]></description>
+      <author>シーステイション株式会社,シーステイション株式会社 著,シーステイション株式会社 企画・監修</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I034743562</guid>
+      <pubDate>Sat, 13 Jun 2026 00:00:34 +0900</pubDate>
+      <dc:title>映画ゆるキャン△ : アニメーション原画集</dc:title>
+      <dcndl:titleTranscription>エイガ ユルキャン △ : アニメーション ゲンガシュウ</dcndl:titleTranscription>
+      <dc:creator>シーステイション株式会社</dc:creator>
+      <dcndl:creatorTranscription>シーステイション カブシキ ガイシャ</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>Yurucamp key animation book ; 7サツメ</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>Yurucamp key animation book ; 7 サツメ</dcndl:seriesTitleTranscription>
+      <dc:publisher>シーステイション</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2024</dc:date>
+      <dcterms:issued>2024.4</dcterms:issued>
+      <dcndl:price>3630円 (税込)</dcndl:price>
+      <dc:extent>223 p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">4595316496075</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">4595316496075</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">034743562</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">24265255</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">Y88</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">778.77</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I034743562"/>
+      <dc:description> 2024</dc:description>
+    </item>
+    <item>
+      <title>映画『ゆるキャン△』　：　オリジナル・サウンドトラック</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I22213001303009498</link>
+      <description><![CDATA[<p>MAGES.,2022-06,<p><ul><li>タイトル：映画『ゆるキャン△』　：　オリジナル・サウンドトラック</li><li>タイトル（読み）：エイガ ユルキャン　オリジナル サウンドトラック</li><li>責任表示：立山 秋航／演奏</li></ul>]]></description>
+      <author>立山 秋航,亜咲花,立山 秋航／演奏</author>
+      <category>図書</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I22213001303009498</guid>
+      <pubDate>Tue, 16 Jun 2026 23:05:31 +0900</pubDate>
+      <dc:title>映画『ゆるキャン△』　：　オリジナル・サウンドトラック</dc:title>
+      <dcndl:titleTranscription>エイガ ユルキャン　オリジナル サウンドトラック</dcndl:titleTranscription>
+      <dc:creator>立山 秋航</dc:creator>
+      <dc:creator>亜咲花</dc:creator>
+      <dcndl:creatorTranscription>タテヤマ アキユキ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>アサカ</dcndl:creatorTranscription>
+      <dc:publisher>MAGES.</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2022-06</dc:date>
+      <dcterms:issued>2022.6</dcterms:issued>
+      <dcndl:price>￥３０００</dcndl:price>
+      <dc:extent>1</dc:extent>
+      <dc:identifier xsi:type="dcndl:TRCMARCNO">22903771</dc:identifier>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=3001303009498"/>
+      <dc:description> 2022-06</dc:description>
+    </item>
+    <item>
+      <title>映画ゆるキャン△公式ガイドブックキャンプ場取材記録</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I032748932</link>
+      <description><![CDATA[<p>芳文社,2023,978-4-8322-7456-3<p><ul><li>タイトル：映画ゆるキャン△公式ガイドブックキャンプ場取材記録</li><li>タイトル（読み）：エイガ ユルキャン △ コウシキ ガイドブック キャンプジョウ シュザイ キロク</li><li>責任表示：あfろ 原作,まんがタイムきらら 編</li><li>シリーズ名：Manga time KR comics. Kirara menu ; 1906</li><li>NDC(10)：778.77</li></ul>]]></description>
+      <author>芳文社 (1950年),あfろ 原作,まんがタイムきらら 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I032748932</guid>
+      <pubDate>Tue, 23 May 2023 01:09:16 +0900</pubDate>
+      <dc:title>映画ゆるキャン△公式ガイドブックキャンプ場取材記録</dc:title>
+      <dcndl:titleTranscription>エイガ ユルキャン △ コウシキ ガイドブック キャンプジョウ シュザイ キロク</dcndl:titleTranscription>
+      <dc:creator>芳文社 (1950年)</dc:creator>
+      <dcndl:creatorTranscription>ホウブンシャ (1950ネン)</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>Manga time KR comics. Kirara menu ; 1906</dcndl:seriesTitle>
+      <dc:publisher>芳文社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2023</dc:date>
+      <dcterms:issued>2023.4</dcterms:issued>
+      <dcndl:price>3000円</dcndl:price>
+      <dc:extent>112 p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-8322-7456-3</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">032748932</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23834585</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">Y88</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">778.77</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I032748932"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/83227456e00000000000"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784832274563"/>
+      <dc:description> 2023</dc:description>
+    </item>
+    <item>
+      <title>映画ゆるキャン△すぺしゃるえでぃしょんズラ!</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I034818168</link>
+      <description><![CDATA[<p>FuRyu,2022,4562240237241<p><ul><li>タイトル：映画ゆるキャン△すぺしゃるえでぃしょんズラ!</li><li>タイトル（読み）：エイガ ユルキャン △ スペシャル エディション ズラ !</li><li>責任表示：野外活動委員会 監修,本田らな, 飯田ねり, 綾野佳菜子, 米山貴之 企画・構成,漆原虹平 編集,仲上佳克, 日詰明嘉 執筆,丸山尚 撮影</li><li>シリーズ名：映画『ゆるキャン△』パンフレット</li><li>シリーズ名（読み）：エイガ 『 ユルキャン △ 』 パンフレット</li><li>NDC(10)：778.77</li></ul>]]></description>
+      <author>野外活動委員会 監修,本田らな, 飯田ねり, 綾野佳菜子, 米山貴之 企画・構成,漆原虹平 編集,仲上佳克, 日詰明嘉 執筆,丸山尚 撮影</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I034818168</guid>
+      <pubDate>Fri, 24 Jul 2026 03:39:56 +0900</pubDate>
+      <dc:title>映画ゆるキャン△すぺしゃるえでぃしょんズラ!</dc:title>
+      <dcndl:titleTranscription>エイガ ユルキャン △ スペシャル エディション ズラ !</dcndl:titleTranscription>
+      <dcndl:seriesTitle>映画『ゆるキャン△』パンフレット</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>エイガ 『 ユルキャン △ 』 パンフレット</dcndl:seriesTitleTranscription>
+      <dc:publisher>FuRyu</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2022</dc:date>
+      <dcterms:issued>[2022]</dcterms:issued>
+      <dcndl:price>2727円</dcndl:price>
+      <dc:extent>128 p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">4562240237241</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">4562240237241</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">034818168</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">24280799</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">Y88</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">778.77</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I034818168"/>
+      <dc:description> 2022</dc:description>
+    </item>
+    <item>
+      <title>映画ゆるキャン△聖地巡礼ドライブ&amp;ツーリングガイド : 映画『ゆるキャン△』の情報満載!聖地巡礼ファン必携のガイドブック</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I032612544</link>
+      <description><![CDATA[<p>八重洲出版,2023,978-4-86144-693-1<p><ul><li>タイトル：映画ゆるキャン△聖地巡礼ドライブ&ツーリングガイド : 映画『ゆるキャン△』の情報満載!聖地巡礼ファン必携のガイドブック</li><li>タイトル（読み）：エイガ ユルキャン セイチ ジュンレイ ドライブ アンド ツーリング ガイド : エイガ ユルキャン ノ ジョウホウ マンサイ セイチ ジュンレイ ファン ヒッケイ ノ ガイドブック</li><li>シリーズ名：ヤエスメディアムック ; 790</li><li>シリーズ名（読み）：ヤエス メディア ムック ; 790</li><li>NDC(10)：291.5</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I032612544</guid>
+      <pubDate>Wed, 22 Feb 2023 19:04:15 +0900</pubDate>
+      <dc:title>映画ゆるキャン△聖地巡礼ドライブ&amp;ツーリングガイド : 映画『ゆるキャン△』の情報満載!聖地巡礼ファン必携のガイドブック</dc:title>
+      <dcndl:titleTranscription>エイガ ユルキャン セイチ ジュンレイ ドライブ アンド ツーリング ガイド : エイガ ユルキャン ノ ジョウホウ マンサイ セイチ ジュンレイ ファン ヒッケイ ノ ガイドブック</dcndl:titleTranscription>
+      <dcndl:seriesTitle>ヤエスメディアムック ; 790</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ヤエス メディア ムック ; 790</dcndl:seriesTitleTranscription>
+      <dc:publisher>八重洲出版</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2023</dc:date>
+      <dcterms:issued>2023.1</dcterms:issued>
+      <dcndl:price>1980円</dcndl:price>
+      <dc:extent>98p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-86144-693-1</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">032612544</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23798714</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">07500574</dc:identifier>
+      <dc:subject>中部地方 案内記</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">Y94</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">291.5</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.yamanashi.jp/licsxp-opac/WOpacMnuTopInitAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://www.tosyokan.pref.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1006000735158"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001103905824"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I032612544"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970304959897479825"/>
+      <dc:description> 2023</dc:description>
+    </item>
+    <item>
+      <title>映画ゆるキャン△ : 設定・背景美術集</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I034743584</link>
+      <description><![CDATA[<p>シーステイション,2024,4595316496082<p><ul><li>タイトル：映画ゆるキャン△ : 設定・背景美術集</li><li>タイトル（読み）：エイガ ユルキャン △ : セッテイ ・ ハイケイ ビジュツシュウ</li><li>責任表示：シーステイション株式会社 著,シーステイション株式会社 企画・監修</li><li>シリーズ名：Yurucamp key animation book ; オシマイ</li><li>シリーズ名（読み）：Yurucamp key animation book ; オシマイ</li><li>NDC(10)：778.77</li></ul>]]></description>
+      <author>シーステイション株式会社,シーステイション株式会社 著,シーステイション株式会社 企画・監修</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I034743584</guid>
+      <pubDate>Fri, 12 Jun 2026 23:58:44 +0900</pubDate>
+      <dc:title>映画ゆるキャン△ : 設定・背景美術集</dc:title>
+      <dcndl:titleTranscription>エイガ ユルキャン △ : セッテイ ・ ハイケイ ビジュツシュウ</dcndl:titleTranscription>
+      <dc:creator>シーステイション株式会社</dc:creator>
+      <dcndl:creatorTranscription>シーステイション カブシキ ガイシャ</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>Yurucamp key animation book ; オシマイ</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>Yurucamp key animation book ; オシマイ</dcndl:seriesTitleTranscription>
+      <dc:publisher>シーステイション</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2024</dc:date>
+      <dcterms:issued>2024.6</dcterms:issued>
+      <dcndl:price>3300円 (税込)</dcndl:price>
+      <dc:extent>191 p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">4595316496082</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">4595316496082</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">034743584</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">24265253</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">Y88</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">778.77</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I034743584"/>
+      <dc:description> 2024</dc:description>
+    </item>
+    <item>
+      <title>映画「ゆるキャン△」パンフレット : のーまるえでぃしょんズラ！</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I19111009952139470</link>
+      <description><![CDATA[<p>出版者不明,2022,<p><ul><li>タイトル：映画「ゆるキャン△」パンフレット : のーまるえでぃしょんズラ！</li><li>タイトル（読み）：エイガ　ユルキャン　パンフレット</li><li>責任表示：野外活動委員会／監修</li></ul>]]></description>
+      <author>野外活動委員会,野外活動委員会／監修</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I19111009952139470</guid>
+      <pubDate>Thu, 7 Dec 2023 16:04:44 +0900</pubDate>
+      <dc:title>映画「ゆるキャン△」パンフレット : のーまるえでぃしょんズラ！</dc:title>
+      <dcndl:titleTranscription>エイガ　ユルキャン　パンフレット</dcndl:titleTranscription>
+      <dc:creator>野外活動委員会</dc:creator>
+      <dcndl:creatorTranscription>ヤガイ　カツドウ　イインカイ</dcndl:creatorTranscription>
+      <dc:publisher>出版者不明</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2022</dc:date>
+      <dcterms:issued>［２０２２．７］</dcterms:issued>
+      <dcndl:price>¥１０９１</dcndl:price>
+      <dc:extent>４５ｐ</dc:extent>
+      <dc:subject>映画‖日本</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC">７７８．７７</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.yamanashi.jp/licsxp-opac/WOpacMnuTopInitAction.do"/>
+      <dc:description> 2022</dc:description>
+    </item>
+    <item>
+      <title>経営写(No.744)グラニフ代表取締役CEO 村田昭彦 あらゆるキャンバスを通じ"グラフィック"で人々の生活を豊かにしていきたい!</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I031739891</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：経営写(No.744)グラニフ代表取締役CEO 村田昭彦 あらゆるキャンバスを通じ"グラフィック"で人々の生活を豊かにしていきたい!</li><li>タイトル（読み）：ケイエイシャ(No.744)グラニフ ダイヒョウ トリシマリヤク CEO ムラタ アキヒコ アラユル キャンバス オ ツウジ"グラフィック"デ ヒトビト ノ セイカツ オ ユタカ ニ シテ イキタイ!</li><li>責任表示：村田 昭彦</li></ul>]]></description>
+      <author>村田 昭彦,村田 昭彦</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I031739891</guid>
+      <pubDate>Thu, 21 Oct 2021 19:17:21 +0900</pubDate>
+      <dc:title>経営写(No.744)グラニフ代表取締役CEO 村田昭彦 あらゆるキャンバスを通じ"グラフィック"で人々の生活を豊かにしていきたい!</dc:title>
+      <dcndl:titleTranscription>ケイエイシャ(No.744)グラニフ ダイヒョウ トリシマリヤク CEO ムラタ アキヒコ アラユル キャンバス オ ツウジ"グラフィック"デ ヒトビト ノ セイカツ オ ユタカ ニ シテ イキタイ!</dcndl:titleTranscription>
+      <dc:creator>村田 昭彦</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">031739891</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZD1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I031739891"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1524232505978778624"/>
+      <dc:description>掲載誌：財界 22(通号 1732) p.110-113</dc:description>
+    </item>
+    <item>
+      <title>口頭発表：マンガ『ゆるキャン△』における写真的〈拡張〉現実</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1050863705679112448</link>
+      <description><![CDATA[<p>2020-03-19,<p><ul><li>タイトル：口頭発表：マンガ『ゆるキャン△』における写真的〈拡張〉現実</li></ul>]]></description>
+      <author>門林, 岳史</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1050863705679112448</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>口頭発表：マンガ『ゆるキャン△』における写真的〈拡張〉現実</dc:title>
+      <dc:creator>門林, 岳史</dc:creator>
+      <dcndl:creatorTranscription>カドバヤシ, タケシ</dcndl:creatorTranscription>
+      <dc:date xsi:type="dcterms:W3CDTF">2020-03-19</dc:date>
+      <dcterms:issued>2020-03-19</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://iamas.repo.nii.ac.jp/records/2000214"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1050863705679112448"/>
+      <dc:description>掲載誌：情報科学芸術大学院大学紀要 2020-03-19 p.104-107</dc:description>
+    </item>
+    <item>
+      <title>口頭発表 マンガ『ゆるキャン△』における写真的〈拡張〉現実</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I030339259</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：口頭発表 マンガ『ゆるキャン△』における写真的〈拡張〉現実</li><li>タイトル（読み）：コウトウ ハッピョウ マンガ 『 ユル キャン △ 』 ニ オケル シャシンテキ 〈 カクチョウ 〉 ゲンジツ</li><li>責任表示：門林 岳史</li><li>シリーズ名：特集 岐阜おおがきビエンナーレ2019 メディア技術がもたらす公共圏 ; Symposium : December 8, 2019 メディア技術がもたらす公共圏</li><li>シリーズ名（読み）：トクシュウ ギフオオ ガ キ ビエンナーレ 2019 メディア ギジュツ ガ モタラス コウキョウケン ; Symposium : December 8, 2019 メディア ギジュツ ガ モタラス コウキョウケン</li></ul>]]></description>
+      <author>門林 岳史,門林 岳史</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I030339259</guid>
+      <pubDate>Tue, 7 Apr 2020 02:05:39 +0900</pubDate>
+      <dc:title>口頭発表 マンガ『ゆるキャン△』における写真的〈拡張〉現実</dc:title>
+      <dcndl:titleTranscription>コウトウ ハッピョウ マンガ 『 ユル キャン △ 』 ニ オケル シャシンテキ 〈 カクチョウ 〉 ゲンジツ</dcndl:titleTranscription>
+      <dc:creator>門林 岳史</dc:creator>
+      <dcndl:seriesTitle>特集 岐阜おおがきビエンナーレ2019 メディア技術がもたらす公共圏 ; Symposium : December 8, 2019 メディア技術がもたらす公共圏</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>トクシュウ ギフオオ ガ キ ビエンナーレ 2019 メディア ギジュツ ガ モタラス コウキョウケン ; Symposium : December 8, 2019 メディア ギジュツ ガ モタラス コウキョウケン</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">030339259</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZM2</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I030339259"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520290885208084864"/>
+      <dc:description>掲載誌：情報科学芸術大学院大学紀要 p.104-107</dc:description>
+    </item>
+    <item>
+      <title>孤独のゆるキャン△ : 孤独のグルメ×ゆるキャン△</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I033082031</link>
+      <description><![CDATA[<p>猫間家,2018,<p><ul><li>タイトル：孤独のゆるキャン△ : 孤独のグルメ×ゆるキャン△</li><li>タイトル（読み）：コドク ノ ユルキャン △ : コドク ノ グルメ × ユルキャン △</li><li>責任表示：猫間ことみつ [著]</li><li>シリーズ名：猫間ことみつ個人誌 ; no. 230</li><li>シリーズ名（読み）：ネコマ コトミツ コジンシ ; no. 230</li></ul>]]></description>
+      <author>猫間ことみつ [著]</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I033082031</guid>
+      <pubDate>Thu, 12 Oct 2023 19:29:06 +0900</pubDate>
+      <dc:title>孤独のゆるキャン△ : 孤独のグルメ×ゆるキャン△</dc:title>
+      <dcndl:titleTranscription>コドク ノ ユルキャン △ : コドク ノ グルメ × ユルキャン △</dcndl:titleTranscription>
+      <dcndl:seriesTitle>猫間ことみつ個人誌 ; no. 230</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ネコマ コトミツ コジンシ ; no. 230</dcndl:seriesTitleTranscription>
+      <dc:publisher>猫間家</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2018</dc:date>
+      <dcterms:issued>2018.8</dcterms:issued>
+      <dc:extent>16 p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033082031</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23892441</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">Y94</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I033082031"/>
+      <dc:description> 2018</dc:description>
+    </item>
+    <item>
+      <title>静岡県キャンプ地マップ　：　静岡県キャンプ地マップをアニメ『ゆるキャン△』がご紹介</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I22111006000700532</link>
+      <description><![CDATA[<p>静岡県,2021,<p><ul><li>タイトル：静岡県キャンプ地マップ　：　静岡県キャンプ地マップをアニメ『ゆるキャン△』がご紹介</li><li>タイトル（読み）：シズオカケン キャンプチ マップ　シズオカケン キャンプチ マップ オ アニメ ユルキャン ガ ゴショウカイ</li><li>NDC(9)：S290</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I22111006000700532</guid>
+      <pubDate>Thu, 9 Jul 2026 09:50:08 +0900</pubDate>
+      <dc:title>静岡県キャンプ地マップ　：　静岡県キャンプ地マップをアニメ『ゆるキャン△』がご紹介</dc:title>
+      <dcndl:titleTranscription>シズオカケン キャンプチ マップ　シズオカケン キャンプチ マップ オ アニメ ユルキャン ガ ゴショウカイ</dcndl:titleTranscription>
+      <dc:publisher>静岡県</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+      <dcterms:issued>[2021]</dcterms:issued>
+      <dc:extent>1枚</dc:extent>
+      <dc:subject>静岡県-紀行・案内記</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">S290</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">S290</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.tosyokan.pref.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1006000700532"/>
+      <dc:description> 2021</dc:description>
+    </item>
+    <item>
+      <title>静岡県キャンプ地マップ　：　静岡県内のキャンプ地をアニメ『ゆるキャン△』がご紹介</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I22111006000862146</link>
+      <description><![CDATA[<p>静岡県,2024,<p><ul><li>タイトル：静岡県キャンプ地マップ　：　静岡県内のキャンプ地をアニメ『ゆるキャン△』がご紹介</li><li>タイトル（読み）：シズオカケン キャンプチ マップ　シズオカケンナイ ノ キャンプチ オ アニメ ユルキャン ガ ゴショウカイ</li><li>NDC(9)：S290</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I22111006000862146</guid>
+      <pubDate>Tue, 14 Jul 2026 09:50:08 +0900</pubDate>
+      <dc:title>静岡県キャンプ地マップ　：　静岡県内のキャンプ地をアニメ『ゆるキャン△』がご紹介</dc:title>
+      <dcndl:titleTranscription>シズオカケン キャンプチ マップ　シズオカケンナイ ノ キャンプチ オ アニメ ユルキャン ガ ゴショウカイ</dcndl:titleTranscription>
+      <dc:publisher>静岡県</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2024</dc:date>
+      <dcterms:issued>[2024]</dcterms:issued>
+      <dc:extent>1枚</dc:extent>
+      <dc:subject>静岡県-紀行・案内記</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">S290</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">S290</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.tosyokan.pref.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1006000862146"/>
+      <dc:description> 2024</dc:description>
+    </item>
+    <item>
+      <title>静岡県キャンプ地マップ　：　静岡県キャンプ地マップをゆるキャン△がご紹介</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I22211001103769972</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：静岡県キャンプ地マップ　：　静岡県キャンプ地マップをゆるキャン△がご紹介</li><li>タイトル（読み）：シズオカケン　キャンプチ　マップ　シズオカケン　キャンプチ　マップ　オ　ユルキャン　ガ　ゴショウカイ</li><li>責任表示：静岡県／［編］</li><li>NDC(9)：S786.3</li></ul>]]></description>
+      <author>静岡県／［編］</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I22211001103769972</guid>
+      <pubDate>Mon, 1 Jun 2026 21:25:30 +0900</pubDate>
+      <dc:title>静岡県キャンプ地マップ　：　静岡県キャンプ地マップをゆるキャン△がご紹介</dc:title>
+      <dcndl:titleTranscription>シズオカケン　キャンプチ　マップ　シズオカケン　キャンプチ　マップ　オ　ユルキャン　ガ　ゴショウカイ</dcndl:titleTranscription>
+      <dcterms:issued>［不明］</dcterms:issued>
+      <dcndl:price>頒価不明</dcndl:price>
+      <dc:extent>1枚</dc:extent>
+      <dc:subject>キャンピング</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">S786.3</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">S786.3</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001103769972"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>静岡県キャンプ地マップ　：　静岡県内のキャンプ地をアニメ『ゆるキャン△』がご紹介</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I22211002000106309</link>
+      <description><![CDATA[<p>静岡県観光振興課,2024,<p><ul><li>タイトル：静岡県キャンプ地マップ　：　静岡県内のキャンプ地をアニメ『ゆるキャン△』がご紹介</li><li>タイトル（読み）：シズオカケン キャンプチ マップ　シズオカケンナイ ノ キャンプチ オ アニメ ユルキャン ガ ゴショウカイ</li><li>NDC(9)：S290.9</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I22211002000106309</guid>
+      <pubDate>Tue, 28 Jul 2026 01:15:30 +0900</pubDate>
+      <dc:title>静岡県キャンプ地マップ　：　静岡県内のキャンプ地をアニメ『ゆるキャン△』がご紹介</dc:title>
+      <dcndl:titleTranscription>シズオカケン キャンプチ マップ　シズオカケンナイ ノ キャンプチ オ アニメ ユルキャン ガ ゴショウカイ</dcndl:titleTranscription>
+      <dc:publisher>静岡県観光振興課</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2024</dc:date>
+      <dcterms:issued>[2024]</dcterms:issued>
+      <dcndl:price>頒価不明</dcndl:price>
+      <dc:extent>1枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:OPLMARCNO">6000862146</dc:identifier>
+      <dc:subject>静岡県-紀行・案内記</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">S290.9</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000106309"/>
+      <dc:description> 2024</dc:description>
+    </item>
+    <item>
+      <title>静岡県モデル地マップ　：　静岡県内のアニメ『ゆるキャン△』モデル地をご紹介</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I22111006000700531</link>
+      <description><![CDATA[<p>静岡県,2021,<p><ul><li>タイトル：静岡県モデル地マップ　：　静岡県内のアニメ『ゆるキャン△』モデル地をご紹介</li><li>タイトル（読み）：シズオカケン モデルチ マップ　シズオカ ケンナイ ノ アニメ ユルキャン モデルチ オ ゴショウカイ</li><li>NDC(9)：S290</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I22111006000700531</guid>
+      <pubDate>Fri, 10 Jul 2026 09:50:08 +0900</pubDate>
+      <dc:title>静岡県モデル地マップ　：　静岡県内のアニメ『ゆるキャン△』モデル地をご紹介</dc:title>
+      <dcndl:titleTranscription>シズオカケン モデルチ マップ　シズオカ ケンナイ ノ アニメ ユルキャン モデルチ オ ゴショウカイ</dcndl:titleTranscription>
+      <dc:publisher>静岡県</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+      <dcterms:issued>[2021]</dcterms:issued>
+      <dc:extent>1枚</dc:extent>
+      <dc:subject>静岡県-紀行・案内記</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">S290</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">S290</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.tosyokan.pref.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1006000700531"/>
+      <dc:description> 2021</dc:description>
+    </item>
+    <item>
+      <title>静岡県モデル地マップ　：　静岡県内のアニメ『ゆるキャン△』モデル地をご紹介</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I22111006000873510</link>
+      <description><![CDATA[<p>静岡県観光振興課,2024,<p><ul><li>タイトル：静岡県モデル地マップ　：　静岡県内のアニメ『ゆるキャン△』モデル地をご紹介</li><li>タイトル（読み）：シズオカケン モデルチ マップ　シズオカ ケンナイ ノ アニメ ユルキャン モデルチ オ ゴショウカイ</li><li>責任表示：静岡県観光振興課／[編]</li><li>NDC(9)：S290</li></ul>]]></description>
+      <author>静岡県観光振興課,静岡県観光振興課／[編]</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I22111006000873510</guid>
+      <pubDate>Sat, 11 Jul 2026 09:50:08 +0900</pubDate>
+      <dc:title>静岡県モデル地マップ　：　静岡県内のアニメ『ゆるキャン△』モデル地をご紹介</dc:title>
+      <dcndl:titleTranscription>シズオカケン モデルチ マップ　シズオカ ケンナイ ノ アニメ ユルキャン モデルチ オ ゴショウカイ</dcndl:titleTranscription>
+      <dc:creator>静岡県観光振興課</dc:creator>
+      <dcndl:creatorTranscription>シズオカケン カンコウ シンコウカ</dcndl:creatorTranscription>
+      <dc:publisher>静岡県観光振興課</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2024</dc:date>
+      <dcterms:issued>[2024]</dcterms:issued>
+      <dc:extent>1枚</dc:extent>
+      <dc:subject>静岡県-紀行・案内記</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">S290</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">S290</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.tosyokan.pref.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1006000873510"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000048735"/>
+      <dc:description> 2024</dc:description>
+    </item>
+    <item>
+      <title>静岡県モデル地マップ　：　静岡県モデル地マップをゆるキャン△がご紹介</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I22211001103771649</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：静岡県モデル地マップ　：　静岡県モデル地マップをゆるキャン△がご紹介</li><li>タイトル（読み）：シズオカケン　モデルチ　マップ　シズオカケン　モデルチ　マップ　オ　ユルキャン　ガ　ゴショウカイ</li><li>責任表示：静岡県／［編］</li><li>NDC(9)：S778.77</li></ul>]]></description>
+      <author>静岡県／［編］</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I22211001103771649</guid>
+      <pubDate>Mon, 1 Jun 2026 21:25:30 +0900</pubDate>
+      <dc:title>静岡県モデル地マップ　：　静岡県モデル地マップをゆるキャン△がご紹介</dc:title>
+      <dcndl:titleTranscription>シズオカケン　モデルチ　マップ　シズオカケン　モデルチ　マップ　オ　ユルキャン　ガ　ゴショウカイ</dcndl:titleTranscription>
+      <dcterms:issued>［不明］</dcterms:issued>
+      <dcndl:price>頒価不明</dcndl:price>
+      <dc:extent>1枚</dc:extent>
+      <dc:subject>アニメーション</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">S778.77</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">S778.77</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001103771649"/>
+      <dc:description/>
+    </item>
+    <item>
+      <title>自衛隊のガチな野営を知るために ガチ vs ゆる比べてみた</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I032106474</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：自衛隊のガチな野営を知るために ガチ vs ゆる比べてみた</li><li>タイトル（読み）：ジエイタイ ノ ガチ ナ ヤエイ オ シル タメニ ガチ vs ユル クラベテ ミタ</li><li>シリーズ名：ゆるキャンにも役立つガチ野営法 自衛隊式キャンプ入門</li><li>シリーズ名（読み）：ユル キャン ニ モ ヤクダツ ガチ ヤエイホウ ジエイタイシキ キャンプ ニュウモン</li></ul>]]></description>
+      <author/>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I032106474</guid>
+      <pubDate>Wed, 27 Apr 2022 01:54:43 +0900</pubDate>
+      <dc:title>自衛隊のガチな野営を知るために ガチ vs ゆる比べてみた</dc:title>
+      <dcndl:titleTranscription>ジエイタイ ノ ガチ ナ ヤエイ オ シル タメニ ガチ vs ユル クラベテ ミタ</dcndl:titleTranscription>
+      <dcndl:seriesTitle>ゆるキャンにも役立つガチ野営法 自衛隊式キャンプ入門</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ユル キャン ニ モ ヤクダツ ガチ ヤエイホウ ジエイタイシキ キャンプ ニュウモン</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">032106474</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZA28</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I032106474"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520855132297467648"/>
+      <dc:description>掲載誌：Mamor = マモル : 日本の防衛のこと、もっと知りたい! 5(通号 183) p.8-11</dc:description>
+    </item>
+    <item>
+      <title>鳥羽先生がひどい目に合う本 : ゆるキャン△に見る教育公務員の非違行為と懲戒処分</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I032999146</link>
+      <description><![CDATA[<p>祭軌道,2023,<p><ul><li>タイトル：鳥羽先生がひどい目に合う本 : ゆるキャン△に見る教育公務員の非違行為と懲戒処分</li><li>タイトル（読み）：トバ センセイ ガ ヒドイ メ ニ アウ ホン : ユル キャン △ ニ ミル キョウイク コウムイン ノ ヒイ コウイ ト チョウカイ ショブン</li><li>責任表示：テール猫実 著</li></ul>]]></description>
+      <author>テール猫実 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I032999146</guid>
+      <pubDate>Fri, 1 Sep 2023 20:48:16 +0900</pubDate>
+      <dc:title>鳥羽先生がひどい目に合う本 : ゆるキャン△に見る教育公務員の非違行為と懲戒処分</dc:title>
+      <dcndl:titleTranscription>トバ センセイ ガ ヒドイ メ ニ アウ ホン : ユル キャン △ ニ ミル キョウイク コウムイン ノ ヒイ コウイ ト チョウカイ ショブン</dcndl:titleTranscription>
+      <dc:publisher>祭軌道</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2023</dc:date>
+      <dcterms:issued>2023.8</dcterms:issued>
+      <dc:extent>1冊 (ページ付なし)</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">032999146</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23877591</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">Y93</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I032999146"/>
+      <dc:description> 2023</dc:description>
+    </item>
+    <item>
+      <title>なでしこソロキャンへの道in富士　：　ゆるキャン△×静岡県　：　アニメの登場シーンと実際の場所を徹底比較!　：　なでしこの初ソロキャンプモデル地MAP</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I22111006000812890</link>
+      <description><![CDATA[<p>2021,<p><ul><li>タイトル：なでしこソロキャンへの道in富士　：　ゆるキャン△×静岡県　：　アニメの登場シーンと実際の場所を徹底比較!　：　なでしこの初ソロキャンプモデル地MAP</li><li>タイトル（読み）：ナデシコ ソロ キャン エノ ミチ イン フジ　ユルキャン シズオカケン　：　アニメ ノ トウジョウ シーン ト ジッサイ ノ バショ オ テッテイ ヒカク　：　ナデシコ ノ ハツ ソロ キャンプ モデルチ マップ</li><li>NDC(9)：S291.4</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I22111006000812890</guid>
+      <pubDate>Sun, 12 Jul 2026 09:50:08 +0900</pubDate>
+      <dc:title>なでしこソロキャンへの道in富士　：　ゆるキャン△×静岡県　：　アニメの登場シーンと実際の場所を徹底比較!　：　なでしこの初ソロキャンプモデル地MAP</dc:title>
+      <dcndl:titleTranscription>ナデシコ ソロ キャン エノ ミチ イン フジ　ユルキャン シズオカケン　：　アニメ ノ トウジョウ シーン ト ジッサイ ノ バショ オ テッテイ ヒカク　：　ナデシコ ノ ハツ ソロ キャンプ モデルチ マップ</dcndl:titleTranscription>
+      <dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+      <dcterms:issued>[2021頃]</dcterms:issued>
+      <dc:extent>1枚</dc:extent>
+      <dc:subject>静岡県-紀行・案内記</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">S291.4</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">S291.4</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.tosyokan.pref.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1006000812890"/>
+      <dc:description> 2021</dc:description>
+    </item>
+    <item>
+      <title>初めてでも"通"ぶれる!おぎやはぎのハピキャン : 世界一自由なゆるキャンプガイド</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I032682928</link>
+      <description><![CDATA[<p>マガジンハウス,2023,978-4-8387-3200-5<p><ul><li>タイトル：初めてでも"通"ぶれる!おぎやはぎのハピキャン : 世界一自由なゆるキャンプガイド</li><li>タイトル（読み）：ハジメテ デモ ツウブレル オギ ヤハギ ノ ハピキャン : セカイイチ ジユウ ナ ユル キャンプ ガイド</li><li>責任表示：おぎやはぎのハピキャン 著</li><li>NDC(10)：786.3</li></ul>]]></description>
+      <author>名古屋テレビ放送株式会社,おぎやはぎのハピキャン 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I032682928</guid>
+      <pubDate>Fri, 7 Apr 2023 20:27:08 +0900</pubDate>
+      <dc:title>初めてでも"通"ぶれる!おぎやはぎのハピキャン : 世界一自由なゆるキャンプガイド</dc:title>
+      <dcndl:titleTranscription>ハジメテ デモ ツウブレル オギ ヤハギ ノ ハピキャン : セカイイチ ジユウ ナ ユル キャンプ ガイド</dcndl:titleTranscription>
+      <dc:creator>名古屋テレビ放送株式会社</dc:creator>
+      <dcndl:creatorTranscription>ナゴヤ テレビ ホウソウ カブシキ ガイシャ</dcndl:creatorTranscription>
+      <dc:publisher>マガジンハウス</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2023</dc:date>
+      <dcterms:issued>2023.3</dcterms:issued>
+      <dcndl:price>1400円</dcndl:price>
+      <dc:extent>111p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-8387-3200-5</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">032682928</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23817050</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">34449847</dc:identifier>
+      <dc:subject>キャンピング</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">Y77</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">786.3</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1000001578111/"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000015339092"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I032682928"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/83873200AAA000000000"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784838732005"/>
+      <dc:description> 2023</dc:description>
+    </item>
+    <item>
+      <title>ファウンテンブルーに染まって</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I032174790</link>
+      <description><![CDATA[<p>JVCケンウッド・ビクターエンタテインメント,2022,<p><ul><li>タイトル：ファウンテンブルーに染まって</li><li>タイトル（読み）：ファウンテン ブルー ニ ソマッテ</li><li>責任表示：門脇更紗</li></ul>]]></description>
+      <author>門脇更紗</author>
+      <category>録音資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I032174790</guid>
+      <pubDate>Sat, 27 Aug 2022 02:27:05 +0900</pubDate>
+      <dc:title>ファウンテンブルーに染まって</dc:title>
+      <dcndl:titleTranscription>ファウンテン ブルー ニ ソマッテ</dcndl:titleTranscription>
+      <dc:publisher>JVCケンウッド・ビクターエンタテインメント</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2022</dc:date>
+      <dcterms:issued>2022.7</dcterms:issued>
+      <dcndl:price>3600円</dcndl:price>
+      <dc:extent>CD 1枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:RIS502">VIZL-2081</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">032174790</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23721279</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YMC11</dc:subject>
+      <dc:description>出版</dc:description>
+      <dc:description>初回限定盤</dc:description>
+      <dc:description>所要時間: 38分</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I032174790"/>
+      <dc:description> 2022</dc:description>
+    </item>
+    <item>
+      <title>瞬きもせずに+</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I031181233</link>
+      <description><![CDATA[<p>ドリーミュージック,2021,<p><ul><li>タイトル：瞬きもせずに+</li><li>タイトル（読み）：マタタキ モ セズ ニ +</li><li>責任表示：H△G</li></ul>]]></description>
+      <author>H△G</author>
+      <category>録音資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I031181233</guid>
+      <pubDate>Wed, 15 Sep 2021 00:56:25 +0900</pubDate>
+      <dc:title>瞬きもせずに+</dc:title>
+      <dcndl:titleTranscription>マタタキ モ セズ ニ +</dcndl:titleTranscription>
+      <dc:publisher>ドリーミュージック</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+      <dcterms:issued>2021.2</dcterms:issued>
+      <dcndl:price>3500円</dcndl:price>
+      <dc:extent>CD 1枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:RIS502">MUCD-8148</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">031181233</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23579520</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YMC11</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I031181233"/>
+      <dc:description> 2021</dc:description>
+    </item>
+    <item>
+      <title>マンガ『ゆるキャン△』における写真的〈拡張〉現実」</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1010005505775828736</link>
+      <description><![CDATA[<p>2019,<p><ul><li>タイトル：マンガ『ゆるキャン△』における写真的〈拡張〉現実」</li></ul>]]></description>
+      <author>門林 岳史</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1010005505775828736</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>マンガ『ゆるキャン△』における写真的〈拡張〉現実」</dc:title>
+      <dc:creator>門林 岳史</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1010005505775828736"/>
+      <dc:description>掲載誌：『情報科学芸術大学院大学紀要』 2019</dc:description>
+    </item>
+    <item>
+      <title>マンガ『ゆるキャン△』における写真的〈拡張〉現実</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1011694355644591488</link>
+      <description><![CDATA[<p>2020,<p><ul><li>タイトル：マンガ『ゆるキャン△』における写真的〈拡張〉現実</li></ul>]]></description>
+      <author>門林 岳史</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1011694355644591488</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>マンガ『ゆるキャン△』における写真的〈拡張〉現実</dc:title>
+      <dc:creator>門林 岳史</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">2020</dc:date>
+      <dcterms:issued>2020</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1011694355644591488"/>
+      <dc:description>掲載誌：情報科学芸術大学院大学紀要 2020 p.104-107</dc:description>
+    </item>
+    <item>
+      <title>ゆるキャン△ : アニメーション原画集</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I032898241</link>
+      <description><![CDATA[<p>下巻,シーステイション,2023,4595316496020<p><ul><li>タイトル：ゆるキャン△ : アニメーション原画集</li><li>タイトル（読み）：ユルキャン △ : アニメーション ゲンガシュウ</li><li>責任表示：シーステイション株式会社 著,シーステイション株式会社 企画・監修</li><li>シリーズ名：Yurucamp key animation book ; 2サツメ</li><li>シリーズ名（読み）：Yurucamp key animation book ; 2 サツメ</li><li>NDC(10)：778.77</li></ul>]]></description>
+      <author>シーステイション株式会社,シーステイション株式会社 著,シーステイション株式会社 企画・監修</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I032898241</guid>
+      <pubDate>Wed, 10 Jun 2026 20:45:30 +0900</pubDate>
+      <dc:title>ゆるキャン△ : アニメーション原画集</dc:title>
+      <dcndl:titleTranscription>ユルキャン △ : アニメーション ゲンガシュウ</dcndl:titleTranscription>
+      <dc:creator>シーステイション株式会社</dc:creator>
+      <dcndl:creatorTranscription>シーステイション カブシキ ガイシャ</dcndl:creatorTranscription>
+      <dcndl:volume>下巻</dcndl:volume>
+      <dcndl:seriesTitle>Yurucamp key animation book ; 2サツメ</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>Yurucamp key animation book ; 2 サツメ</dcndl:seriesTitleTranscription>
+      <dc:publisher>シーステイション</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2023</dc:date>
+      <dcterms:issued>2023.5</dcterms:issued>
+      <dcndl:price>3300円 (税込)</dcndl:price>
+      <dc:extent>191 p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">4595316496020</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">4595316496020</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">032898241</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">24263976</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">Y88</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">778.77</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I032898241"/>
+      <dc:description> 2023</dc:description>
+    </item>
+    <item>
+      <title>ゆるキャン△ : アニメーション原画集</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I032898240</link>
+      <description><![CDATA[<p>上巻,シーステイション,2023,4595316496013<p><ul><li>タイトル：ゆるキャン△ : アニメーション原画集</li><li>タイトル（読み）：ユルキャン △ : アニメーション ゲンガシュウ</li><li>責任表示：シーステイション株式会社 著,シーステイション株式会社 企画・監修</li><li>シリーズ名：Yurucamp key animation book ; 1サツメ</li><li>シリーズ名（読み）：Yurucamp key animation book ; 1 サツメ</li><li>NDC(10)：778.77</li></ul>]]></description>
+      <author>シーステイション株式会社,シーステイション株式会社 著,シーステイション株式会社 企画・監修</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I032898240</guid>
+      <pubDate>Wed, 10 Jun 2026 20:39:12 +0900</pubDate>
+      <dc:title>ゆるキャン△ : アニメーション原画集</dc:title>
+      <dcndl:titleTranscription>ユルキャン △ : アニメーション ゲンガシュウ</dcndl:titleTranscription>
+      <dc:creator>シーステイション株式会社</dc:creator>
+      <dcndl:creatorTranscription>シーステイション カブシキ ガイシャ</dcndl:creatorTranscription>
+      <dcndl:volume>上巻</dcndl:volume>
+      <dcndl:seriesTitle>Yurucamp key animation book ; 1サツメ</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>Yurucamp key animation book ; 1 サツメ</dcndl:seriesTitleTranscription>
+      <dc:publisher>シーステイション</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2023</dc:date>
+      <dcterms:issued>2023.4</dcterms:issued>
+      <dcndl:price>3300円 (税込)</dcndl:price>
+      <dc:extent>191 p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">4595316496013</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">4595316496013</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">032898240</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">24263971</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">Y88</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">778.77</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I032898240"/>
+      <dc:description> 2023</dc:description>
+    </item>
+  </channel>
+</rss>

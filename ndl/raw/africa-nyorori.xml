@@ -1,0 +1,185 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>アフリカにょろり旅 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E3%81%AB%E3%82%87%E3%82%8D%E3%82%8A%E6%97%85&amp;cnt=30</link>
+    <description>Search results for title=アフリカにょろり旅 cnt=30</description>
+    <language>ja</language>
+    <openSearch:totalResults>4</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>30</openSearch:itemsPerPage>
+    <item>
+      <title>アフリカにょろり旅</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000008443981</link>
+      <description><![CDATA[<p>講談社,2007,978-4-06-213868-0<p><ul><li>タイトル：アフリカにょろり旅</li><li>タイトル（読み）：アフリカ ニョロリ タビ</li><li>責任表示：青山潤 著</li><li>NDC(9)：294.09</li></ul>]]></description>
+      <author>青山, 潤,青山潤 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000008443981</guid>
+      <pubDate>Wed, 14 Mar 2007 20:03:45 +0900</pubDate>
+      <dc:title>アフリカにょろり旅</dc:title>
+      <dcndl:titleTranscription>アフリカ ニョロリ タビ</dcndl:titleTranscription>
+      <dc:creator>青山, 潤</dc:creator>
+      <dcndl:creatorTranscription>アオヤマ, ジュン</dcndl:creatorTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2007</dc:date>
+      <dcterms:issued>2007.2</dcterms:issued>
+      <dcndl:price>1600円</dcndl:price>
+      <dc:extent>281p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-213868-0</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000008443981</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21190030</dc:identifier>
+      <dc:subject>アフリカ--紀行</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GF54</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">294.09</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.hokkaido.jp/wo/opc_srh/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1006700393465"/>
+      <rdfs:seeAlso rdf:resource="https://www.plib.pref.aomori.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1102818902"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.iwate.jp/opac/advanced-search"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.miyagi.jp/winj/opac/switch-detail-iccap.do?bibid=1100620214"/>
+      <rdfs:seeAlso rdf:resource="https://www.apl.pref.akita.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000135864"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.pref.yamagata.jp/winj/opac/switch-detail-iccap.do?bibid=1101613423"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-kopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001001421756"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.tochigi.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101389078"/>
+      <rdfs:seeAlso rdf:resource="https://www1.library.pref.gunma.jp/winj/opac/switch-detail-iccap.do?bibid=1101433242"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=2125234&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.chiba.lg.jp/licsxp-iopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000001713466"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1107104883"/>
+      <rdfs:seeAlso rdf:resource="https://www.klnet.pref.kanagawa.jp/winj/opac/switch-detail-iccap.do?bibid=1103122036"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1107009068"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=583512&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=1285249"/>
+      <rdfs:seeAlso rdf:resource="https://opac.pref-lib.niigata.niigata.jp/winj/opac/switch-detail-iccap.do?bibid=1106147615"/>
+      <rdfs:seeAlso rdf:resource="https://lib2.lib.pref.toyama.jp/opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009810676960"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1100000003954/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1104653241/"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.yamanashi.jp/licsxp-opac/WOpacMnuTopInitAction.do"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.gifu.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1102892926"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001100621671"/>
+      <rdfs:seeAlso rdf:resource="http://websv.aichi-pref-library.jp/winj/opac/switch-detail-iccap.do?bibid=1160792927"/>
+      <rdfs:seeAlso rdf:resource="https://www.shiga-pref-library.jp/wo/opc_srh/srh_detail/2009227/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bib/?B12201828"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000011365106"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000700227256"/>
+      <rdfs:seeAlso rdf:resource="https://opacsvr01.library.pref.nara.jp/opac/volume/529113"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.wakayama-c.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1100513302"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1101399238"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009810938753"/>
+      <rdfs:seeAlso rdf:resource="https://www2.hplibra.pref.hiroshima.jp/bib/?B12082719"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1102861202"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.yamaguchi.lg.jp//wo/opc_srh/srh_detail/1000404420/"/>
+      <rdfs:seeAlso rdf:resource="https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1102461407"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100097807"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1108987898"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.fukuoka.jp/winj/opac/switch-detail-iccap.do?bibid=1106376361"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.fukuoka.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1103107702"/>
+      <rdfs:seeAlso rdf:resource="https://www2.tosyo-saga.jp/kentosyo2/opac/switch-detail-iccap.do?bibid=1100198370"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000016655"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kumamoto.jp/winj/opac/switch-detail-iccap.do?bibid=1121701592"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.miyazaki.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100868825"/>
+      <rdfs:seeAlso rdf:resource="https://www2.library.pref.kagoshima.jp/kento/opac/switch-detail-iccap.do?bibid=1107007798"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.okinawa.jp/winj/opac/switch-detail-iccap.do?bibid=1100309300"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000008443981"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=1161089"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=1225605"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=1225877"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=1304925"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970023484845391926"/>
+      <dc:description> 2007</dc:description>
+    </item>
+    <item>
+      <title>アフリカにょろり旅, 青山潤著, 講談社文庫(私のすすめるこの一冊,コーヒーブレーク)</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390001206566845824</link>
+      <description><![CDATA[<p>2012,<p><ul><li>タイトル：アフリカにょろり旅, 青山潤著, 講談社文庫(私のすすめるこの一冊,コーヒーブレーク)</li></ul>]]></description>
+      <author>坂本 慎一</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390001206566845824</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>アフリカにょろり旅, 青山潤著, 講談社文庫(私のすすめるこの一冊,コーヒーブレーク)</dc:title>
+      <dc:creator>坂本 慎一</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">2012</dc:date>
+      <dcterms:issued>2012</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://doi.org/10.20697/jasj.68.2_107_2"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390001206566845824"/>
+      <dc:description>掲載誌：音響学会誌 2 2012 p.107-108</dc:description>
+    </item>
+    <item>
+      <title>アフリカにょろり旅</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009989559</link>
+      <description><![CDATA[<p>講談社,2009,978-4-06-276239-7<p><ul><li>タイトル：アフリカにょろり旅</li><li>タイトル（読み）：アフリカ ニョロリタビ</li><li>責任表示：青山潤 [著]</li><li>シリーズ名：講談社文庫 ; あ108-1</li><li>シリーズ名（読み）：コウダンシャ ブンコ ; ア(108)(1)</li><li>NDC(9)：294.09</li></ul>]]></description>
+      <author>青山, 潤,青山潤 [著]</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009989559</guid>
+      <pubDate>Thu, 12 Feb 2009 19:37:46 +0900</pubDate>
+      <dc:title>アフリカにょろり旅</dc:title>
+      <dcndl:titleTranscription>アフリカ ニョロリタビ</dcndl:titleTranscription>
+      <dc:creator>青山, 潤</dc:creator>
+      <dcndl:creatorTranscription>アオヤマ, ジュン</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>講談社文庫 ; あ108-1</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>コウダンシャ ブンコ ; ア(108)(1)</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2009</dc:date>
+      <dcterms:issued>2009.1</dcterms:issued>
+      <dcndl:price>600円</dcndl:price>
+      <dc:extent>338p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-276239-7</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009989559</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21532116</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NSMARCNO">093981300</dc:identifier>
+      <dc:subject>アフリカ--紀行</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GF54</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">294.09</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.iwate.jp/opac/advanced-search"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.miyagi.jp/winj/opac/switch-detail-iccap.do?bibid=1101102187"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=2226631&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=1813324&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=1424371"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000810132441"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000011790146"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000900412554"/>
+      <rdfs:seeAlso rdf:resource="https://www.ehimetosyokan.jp/winj/opac/switch-detail-iccap.do?bibid=1101106788"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1101647790"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009989559"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=2216170"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971993809820052159"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/0627623900100011000N"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784062762397"/>
+      <dc:description> 2009</dc:description>
+    </item>
+    <item>
+      <title>누가 뭐래도, 아프리카  : [誰が何と言っても,アフリカ] : ［アフリカにょろり旅］</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I23111182177556</link>
+      <description><![CDATA[<p>황매,2008,89-91312-78-4<p><ul><li>タイトル：누가 뭐래도, 아프리카  : [誰が何と言っても,アフリカ] : ［アフリカにょろり旅］</li><li>タイトル（読み）：ﾀﾞﾚ ｶﾞ ﾅﾝﾄ ｲｯﾃﾓ ｱﾌﾘｶ : ｱﾌﾘｶ ﾆｮﾛﾘﾀﾋﾞ</li><li>責任表示：아오야마준 지음 ; ［青山潤 著] ; 고주영 옮김 ; [コジュヨン 訳]</li><li>NDC(9)：294.81</li></ul>]]></description>
+      <author>아오야마, 준,青山, 潤,고주영,[コ, ジュヨン,아오야마준 지음 ; ［青山潤 著] ; 고주영 옮김 ; [コジュヨン 訳]</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I23111182177556</guid>
+      <pubDate>Fri, 22 Jan 2021 10:24:32 +0900</pubDate>
+      <dc:title>누가 뭐래도, 아프리카  : [誰が何と言っても,アフリカ] : ［アフリカにょろり旅］</dc:title>
+      <dcndl:titleTranscription>ﾀﾞﾚ ｶﾞ ﾅﾝﾄ ｲｯﾃﾓ ｱﾌﾘｶ : ｱﾌﾘｶ ﾆｮﾛﾘﾀﾋﾞ</dcndl:titleTranscription>
+      <dc:creator>아오야마, 준</dc:creator>
+      <dc:creator>青山, 潤</dc:creator>
+      <dc:creator>고주영</dc:creator>
+      <dc:creator>[コ, ジュヨン</dc:creator>
+      <dcndl:creatorTranscription>ｱｵﾔﾏ, ｼﾞｭﾝ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ｺ, ｼﾞｭﾖﾝ</dcndl:creatorTranscription>
+      <dc:publisher>황매</dc:publisher>
+      <dc:publisher>[黄梅]</dc:publisher>
+      <dcndl:publicationPlace>KR</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2008</dc:date>
+      <dcterms:issued>2008.2</dcterms:issued>
+      <dc:extent>283p ; 19cm</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">89-91312-78-4</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">89-91312-78-4</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDC9">294.81</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">294.81</dc:subject>
+      <dc:description>情報源・本文はハングル</dc:description>
+      <rdfs:seeAlso rdf:resource="http://websv.aichi-pref-library.jp/winj/opac/switch-detail-iccap.do?bibid=1182177556"/>
+      <dc:description> 2008</dc:description>
+    </item>
+  </channel>
+</rss>

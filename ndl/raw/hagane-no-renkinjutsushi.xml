@@ -1,0 +1,111 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>9784757506206 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?isbn=9784757506206&amp;cnt=5</link>
+    <description>Search results for isbn=9784757506206 cnt=5</description>
+    <language>ja</language>
+    <openSearch:totalResults>3</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
+    <item>
+      <title>鋼の錬金術師</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000003057246</link>
+      <description><![CDATA[<p>1,エニックス,2002,4-7575-0620-1<p><ul><li>タイトル：鋼の錬金術師</li><li>タイトル（読み）：ハガネノ レンキンジュツシ</li><li>責任表示：荒川弘 著</li><li>シリーズ名：ガンガンコミックス</li><li>シリーズ名（読み）：ガンガン コミックス</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>荒川, 弘, 1973-,荒川弘 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000003057246</guid>
+      <pubDate>Tue, 13 Jun 2023 00:52:12 +0900</pubDate>
+      <dc:title>鋼の錬金術師</dc:title>
+      <dcndl:titleTranscription>ハガネノ レンキンジュツシ</dcndl:titleTranscription>
+      <dc:creator>荒川, 弘, 1973-</dc:creator>
+      <dcndl:creatorTranscription>アラカワ, ヒロム, 1973-</dcndl:creatorTranscription>
+      <dcndl:volume>1</dcndl:volume>
+      <dcndl:seriesTitle>ガンガンコミックス</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ガンガン コミックス</dcndl:seriesTitleTranscription>
+      <dc:publisher>エニックス</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2002</dc:date>
+      <dcterms:issued>2002.2</dcterms:issued>
+      <dcndl:price>390円</dcndl:price>
+      <dc:extent>179p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">4-7575-0620-1</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">4-7575-0620-1</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000003057246</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">20231135</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1006400127432"/>
+      <rdfs:seeAlso rdf:resource="https://www1.library.pref.gunma.jp/winj/opac/switch-detail-iccap.do?bibid=1102042956"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1152327461"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1104013503"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000010746631"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000003057246"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bibj/?B16211064"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784757506206"/>
+      <dc:description> 2002</dc:description>
+    </item>
+    <item>
+      <title>鋼の錬金術師</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I032131027</link>
+      <description><![CDATA[<p>1,スクウェア・エニックス,2022,4-7575-0620-1<p><ul><li>タイトル：鋼の錬金術師</li><li>タイトル（読み）：ハガネ ノ レンキンジュツシ</li><li>責任表示：荒川弘</li><li>シリーズ名：ガンガンコミックス</li><li>シリーズ名（読み）：ガンガン コミックス</li><li>NDC(10)：726.1</li></ul>]]></description>
+      <author>荒川, 弘, 1973-,荒川弘</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I032131027</guid>
+      <pubDate>Tue, 13 Jun 2023 00:51:36 +0900</pubDate>
+      <dc:title>鋼の錬金術師</dc:title>
+      <dcndl:titleTranscription>ハガネ ノ レンキンジュツシ</dcndl:titleTranscription>
+      <dc:creator>荒川, 弘, 1973-</dc:creator>
+      <dcndl:creatorTranscription>アラカワ, ヒロム, 1973-</dcndl:creatorTranscription>
+      <dcndl:volume>1</dcndl:volume>
+      <dcndl:seriesTitle>ガンガンコミックス</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ガンガン コミックス</dcndl:seriesTitleTranscription>
+      <dc:publisher>スクウェア・エニックス</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2022</dc:date>
+      <dcterms:issued>2022.4 (96刷)</dcterms:issued>
+      <dc:extent>179 p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">4-7575-0620-1</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">4-7575-0620-1</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">032131027</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23695590</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I032131027"/>
+      <dc:description> 2022</dc:description>
+    </item>
+    <item>
+      <title>鋼の錬金術師</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909834992950</link>
+      <description><![CDATA[<p>1,スクウェア・エニックス,2002,4757506201<p><ul><li>タイトル：鋼の錬金術師</li><li>タイトル（読み）：ハガネ ノ レンキンジュツシ</li><li>責任表示：荒川弘著</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>荒川, 弘,荒川弘著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909834992950</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>鋼の錬金術師</dc:title>
+      <dcndl:titleTranscription>ハガネ ノ レンキンジュツシ</dcndl:titleTranscription>
+      <dc:creator>荒川, 弘</dc:creator>
+      <dcndl:creatorTranscription>アラカワ, ヒロム</dcndl:creatorTranscription>
+      <dcndl:volume>1</dcndl:volume>
+      <dc:publisher>スクウェア・エニックス</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2002</dc:date>
+      <dcterms:issued>2002-2010</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">4757506201</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BA77983049</dc:identifier>
+      <dc:subject>漫画</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <dc:description>発行者: エニックス→スクウェア・エニックス(合併による社名変更)</dc:description>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970867909834992950"/>
+      <dc:description> 2002</dc:description>
+    </item>
+  </channel>
+</rss>

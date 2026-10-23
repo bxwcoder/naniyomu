@@ -1,0 +1,6325 @@
+{
+  "fetchedAt": "2026-10-23T12:46:33.037Z",
+  "records": [
+    {
+      "book_id": "hakase-no-aishita-sushiki",
+      "isbn": "9784101215235",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784101215235&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "博士の愛した数式",
+          "titleTranscription": "ハカセ ノ アイシタ スウシキ",
+          "volume": null,
+          "seriesTitle": "新潮文庫",
+          "creators": [
+            "小川, 洋子, 1962-"
+          ],
+          "author": "小川, 洋子, 1962-,小川洋子 著",
+          "publisher": [
+            "新潮社"
+          ],
+          "issued": "2005.12",
+          "extent": "291p",
+          "subjects": [
+            "NDLC:KH454",
+            "NDC9:913.6"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "4101215235",
+            "4101215235"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008005881"
+        }
+      ]
+    },
+    {
+      "book_id": "kimi-no-suizo",
+      "isbn": "9784575519945",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784575519945&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "君の膵臓をたべたい",
+          "titleTranscription": "キミ ノ スイゾウ オ タベタイ",
+          "volume": null,
+          "seriesTitle": "双葉文庫 ; す-12-01",
+          "creators": [
+            "住野, よる"
+          ],
+          "author": "住野, よる,住野よる 著",
+          "publisher": [
+            "双葉社"
+          ],
+          "issued": "2017.4",
+          "extent": "325p",
+          "subjects": [
+            "NDLC:KH931",
+            "NDC10:913.6"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784575519945"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I028108860"
+        }
+      ]
+    },
+    {
+      "book_id": "fune-wo-amu",
+      "isbn": "9784334768805",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784334768805&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "舟を編む",
+          "titleTranscription": "フネ オ アム",
+          "volume": null,
+          "seriesTitle": "光文社文庫 ; み24-2",
+          "creators": [
+            "三浦, しをん, 1976-"
+          ],
+          "author": "三浦, しをん, 1976-,三浦しをん 著",
+          "publisher": [
+            "光文社"
+          ],
+          "issued": "2015.3",
+          "extent": "347p",
+          "subjects": [
+            "NDLC:KH874",
+            "NDC9:913.6"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784334768805"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I026191234"
+        }
+      ]
+    },
+    {
+      "book_id": "konbini-ningen",
+      "isbn": "9784167911300",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784167911300&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "コンビニ人間",
+          "titleTranscription": "コンビニ ニンゲン",
+          "volume": null,
+          "seriesTitle": "文春文庫 ; む16-1",
+          "creators": [
+            "村田, 沙耶香, 1979-"
+          ],
+          "author": "村田, 沙耶香, 1979-,村田沙耶香 著",
+          "publisher": [
+            "文藝春秋"
+          ],
+          "issued": "2018.9",
+          "extent": "168p",
+          "subjects": [
+            "NDLC:KH881",
+            "NDC10:913.6"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784167911300"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I029161151"
+        }
+      ]
+    },
+    {
+      "book_id": "nishi-no-majo",
+      "isbn": "9784101253329",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784101253329&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "西の魔女が死んだ",
+          "titleTranscription": "ニシ ノ マジョ ガ シンダ",
+          "volume": null,
+          "seriesTitle": "新潮文庫",
+          "creators": [
+            "梨木, 香歩, 1959-"
+          ],
+          "author": "梨木, 香歩, 1959-,梨木香歩 著",
+          "publisher": [
+            "新潮社"
+          ],
+          "issued": "2001.8",
+          "extent": "226p",
+          "subjects": [
+            "NDLC:KH431",
+            "NDC9:913.6"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "4101253323",
+            "4101253323"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003008351"
+        }
+      ]
+    },
+    {
+      "book_id": "mitsubachi-to-enrai",
+      "isbn": "9784344428522",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784344428522&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "蜜蜂と遠雷",
+          "titleTranscription": "ミツバチ ト エンライ",
+          "volume": "上",
+          "seriesTitle": "幻冬舎文庫 ; お-7-14",
+          "creators": [
+            "恩田, 陸, 1964-"
+          ],
+          "author": "恩田, 陸, 1964-,恩田陸 [著]",
+          "publisher": [
+            "幻冬舎"
+          ],
+          "issued": "2019.4",
+          "extent": "454p",
+          "subjects": [
+            "NDLC:KH971",
+            "NDC10:913.6"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784344428522"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I029585014"
+        }
+      ]
+    },
+    {
+      "book_id": "jukkakukan-no-satsujin",
+      "isbn": "9784062758574",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784062758574&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "十角館の殺人",
+          "titleTranscription": "ジュッカクカン ノ サツジン",
+          "volume": null,
+          "seriesTitle": "講談社文庫",
+          "creators": [
+            "綾辻, 行人, 1960-"
+          ],
+          "author": "綾辻, 行人, 1960-,綾辻行人 [著]",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2007.10",
+          "extent": "495p",
+          "subjects": [
+            "NDLC:KH73",
+            "NDC9:913.6"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784062758574"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009135632"
+        },
+        {
+          "title": "十角館の殺人",
+          "titleTranscription": "ｼﾞｭｯｶｸｶﾝ ﾉ ｻﾂｼﾞﾝ",
+          "volume": null,
+          "seriesTitle": "講談社文庫",
+          "creators": [],
+          "author": "綾辻行人",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2008.3.27 (３刷)",
+          "extent": null,
+          "subjects": [],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784062758574",
+            "9784062758574"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000134-I000369670"
+        }
+      ]
+    },
+    {
+      "book_id": "yogisha-x-no-kenshin",
+      "isbn": "9784167110123",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784167110123&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "容疑者Xの献身",
+          "titleTranscription": "ヨウギシャ X ノ ケンシン",
+          "volume": null,
+          "seriesTitle": "文春文庫",
+          "creators": [
+            "東野, 圭吾, 1958-2026"
+          ],
+          "author": "東野, 圭吾, 1958-2026,東野圭吾 著",
+          "publisher": [
+            "文藝春秋"
+          ],
+          "issued": "2008.8",
+          "extent": "394p",
+          "subjects": [
+            "NDLC:KH139",
+            "NDC9:913.6"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784167110123"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009433304"
+        }
+      ]
+    },
+    {
+      "book_id": "kasha",
+      "isbn": "9784101369181",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784101369181&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "火車",
+          "titleTranscription": "カシャ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "宮部, みゆき"
+          ],
+          "author": "宮部, みゆき,宮部みゆき著",
+          "publisher": [
+            "新潮社"
+          ],
+          "issued": "1998",
+          "extent": null,
+          "subjects": [
+            "NDLC:KH366",
+            "NDC9:913.6",
+            "NDC8:913.6"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784101369181",
+            "9784101369181"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970023484981350851"
+        },
+        {
+          "title": "火車",
+          "titleTranscription": "カシャ",
+          "volume": null,
+          "seriesTitle": "新潮文庫",
+          "creators": [
+            "宮部, みゆき, 1960-"
+          ],
+          "author": "宮部, みゆき, 1960-,宮部みゆき 著",
+          "publisher": [
+            "新潮社"
+          ],
+          "issued": "1998.2",
+          "extent": "590p",
+          "subjects": [
+            "NDLC:KH366",
+            "NDC9:913.6"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "4101369186",
+            "4101369186"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002659283"
+        },
+        {
+          "title": "火車",
+          "titleTranscription": "カシャ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "宮部, みゆき"
+          ],
+          "author": "宮部, みゆき,宮部みゆき著",
+          "publisher": [
+            "新潮社"
+          ],
+          "issued": "1998",
+          "extent": null,
+          "subjects": [
+            "NDLC:KH366",
+            "NDC9:913.6",
+            "NDC8:913.6"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784101369181",
+            "9784101369181"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970304959863864453"
+        }
+      ]
+    },
+    {
+      "book_id": "hoshi-wo-tsugumono",
+      "isbn": "9784488663315",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784488663315&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "星を継ぐもの",
+          "titleTranscription": "ホシ オ ツグ モノ",
+          "volume": null,
+          "seriesTitle": "創元SF文庫 ; SFホ1-1",
+          "creators": [
+            "Hogan, James P., 1941-2010",
+            "池, 央耿, 1940-2023"
+          ],
+          "author": "Hogan, James P., 1941-2010,池, 央耿, 1940-2023,ジェイムズ・P・ホーガン 著,池央耿 訳",
+          "publisher": [
+            "東京創元社"
+          ],
+          "issued": "2023.7",
+          "extent": "326p",
+          "subjects": [
+            "NDLC:KS179",
+            "NDC10:933.7"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784488663315"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I032900979"
+        }
+      ]
+    },
+    {
+      "book_id": "project-hail-mary",
+      "isbn": null,
+      "searchedBy": "title",
+      "method": 2,
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?title=%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%83%BB%E3%83%98%E3%82%A4%E3%83%AB%E3%83%BB%E3%83%A1%E3%82%A2%E3%83%AA%E3%83%BC&cnt=30",
+      "status": 0,
+      "items": []
+    },
+    {
+      "book_id": "batta-wo-taoshini",
+      "isbn": "9784334039899",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784334039899&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "バッタを倒しにアフリカへ",
+          "titleTranscription": "バッタ オ タオシニ アフリカ エ",
+          "volume": null,
+          "seriesTitle": "光文社新書 ; 883",
+          "creators": [
+            "前野, ウルド浩太郎, 1980-"
+          ],
+          "author": "前野, ウルド浩太郎, 1980-,前野ウルド浩太郎 著",
+          "publisher": [
+            "光文社"
+          ],
+          "issued": "2017.5",
+          "extent": "378p",
+          "subjects": [
+            ":バッタ",
+            "NDLC:RA531",
+            "NDC10:486.45"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784334039899"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I028130700"
+        }
+      ]
+    },
+    {
+      "book_id": "boku-wa-yellow",
+      "isbn": "9784101017525",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784101017525&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "ぼくはイエローでホワイトで、ちょっとブルー",
+          "titleTranscription": "ボク ワ イエロー デ ホワイト デ 、 チョット ブルー",
+          "volume": null,
+          "seriesTitle": "新潮文庫",
+          "creators": [
+            "Brady, Mikako, 1965-"
+          ],
+          "author": "Brady, Mikako, 1965-,ブレイディみかこ 著",
+          "publisher": [
+            "新潮社"
+          ],
+          "issued": "2021.7",
+          "extent": "332 p",
+          "subjects": [
+            ":イギリス--教育",
+            "NDLC:FB64",
+            "NDC10:372.333"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784101017525"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I031472640"
+        }
+      ]
+    },
+    {
+      "book_id": "yoru-to-kiri",
+      "isbn": "9784622039709",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784622039709&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "夜と霧",
+          "titleTranscription": "ヨル ト キリ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "Frankl, Viktor Emil, 1905-1997",
+            "池田, 香代子, 1948-"
+          ],
+          "author": "Frankl, Viktor Emil, 1905-1997,池田, 香代子, 1948-,ヴィクトール・E.フランクル [著],池田香代子 訳",
+          "publisher": [
+            "みすず書房"
+          ],
+          "issued": "2002.11",
+          "extent": "169p",
+          "subjects": [
+            ":アウシュビッツ強制収容所",
+            "NDLC:GA87",
+            "NDC9:946"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "4622039702",
+            "4622039702"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003605215"
+        }
+      ]
+    },
+    {
+      "book_id": "kuhaku-no-go-mile",
+      "isbn": null,
+      "searchedBy": "title",
+      "method": 2,
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?title=%E7%A9%BA%E7%99%BD%E3%81%AE%E4%BA%94%E3%83%9E%E3%82%A4%E3%83%AB&cnt=30",
+      "status": 200,
+      "items": [
+        {
+          "title": "空白の五マイル : チベット、世界最大のツアンポー峡谷に挑む",
+          "titleTranscription": "クウハク ノ ゴマイル : チベット セカイ サイダイ ノ ツアンポー キョウコク ニ イドム",
+          "volume": null,
+          "seriesTitle": "集英社文庫 ; か60-1",
+          "creators": [
+            "角幡, 唯介"
+          ],
+          "author": "角幡, 唯介,角幡唯介 著",
+          "publisher": [
+            "集英社"
+          ],
+          "issued": "2012.9",
+          "extent": "318p",
+          "subjects": [
+            ":チベット--探検",
+            "NDLC:GE431",
+            "NDC9:292.29"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784087468823"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I023908577"
+        },
+        {
+          "title": "空白の五マイル : チベット、世界最大のツアンポー峡谷に挑む",
+          "titleTranscription": "クウハク ノ 5マイル : チベット セカイ サイダイ ノ ツアンポー キョウコク ニ イドム",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "角幡, 唯介"
+          ],
+          "author": "角幡, 唯介,角幡唯介 著",
+          "publisher": [
+            "集英社"
+          ],
+          "issued": "2010.11",
+          "extent": "307p",
+          "subjects": [
+            ":チベット--探検",
+            "NDLC:GE431",
+            "NDC9:292.29"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784087814705"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011037194"
+        },
+        {
+          "title": "第八回 開高健ノンフィクション賞受賞作発表 『空白の五マイル--人跡未踏のチベット・ツアンポー峡谷単独行』角幡唯介 インタビュー[含 選評]",
+          "titleTranscription": "ダイ8カイ カイコウ ケン ノンフィクションショウ ジュショウサク ハッピョウ クウハク ノ 5マイル ジンセキ ミトウ ノ チベット ツアンポー キョウコク タンドクコウ カクハタ ユウスケ イ インタビュー ガン センピョウ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "角幡 唯介",
+            "河崎 三行"
+          ],
+          "author": "角幡 唯介,河崎 三行,角幡 唯介,河崎 三行",
+          "publisher": [],
+          "issued": "Fri, 29 Jul 2011 22:40:18 +0900",
+          "extent": null,
+          "subjects": [
+            "NDLC:ZW1"
+          ],
+          "categories": [
+            "記事",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R000000004-I11162735"
+        },
+        {
+          "title": "第八回開高健ノンフィクション賞受賞作『空白の五マイル』刊行 対談 角幡唯介×高野秀行--生きるか死ぬかのストレートど真ん中",
+          "titleTranscription": "ダイ8カイ カイコウ タケシ ノンフィクションショウ ジュショウサク クウハク ノ 5マイル カンコウ タイダン カクハタ ユウスケ タカノ ヒデユキ イキル カ シヌ カ ノ ストレートドマンナカ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "角幡 唯介",
+            "高野 秀行"
+          ],
+          "author": "角幡 唯介,高野 秀行,角幡 唯介,高野 秀行",
+          "publisher": [],
+          "issued": "Fri, 17 Dec 2010 22:40:52 +0900",
+          "extent": null,
+          "subjects": [
+            "NDLC:ZU11"
+          ],
+          "categories": [
+            "記事",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R000000004-I10906413"
+        }
+      ]
+    },
+    {
+      "book_id": "kirawareru-yuki",
+      "isbn": "9784478025819",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784478025819&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "嫌われる勇気",
+          "titleTranscription": "キラワレル ユウキ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "岸見, 一郎",
+            "古賀, 史健"
+          ],
+          "author": "岸見, 一郎,古賀, 史健,岸見一郎, 古賀史健著",
+          "publisher": [
+            "ダイヤモンド社"
+          ],
+          "issued": "2013.12",
+          "extent": null,
+          "subjects": [
+            ":精神分析",
+            "NDLC:SB35",
+            "NDC9:146.1",
+            "NDC8:146.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784478025819",
+            "9784478025819"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971712334738747191"
+        },
+        {
+          "title": "嫌われる勇気 : 自己啓発の源流「アドラー」の教え",
+          "titleTranscription": "キラワレル ユウキ : ジコ ケイハツ ノ ゲンリュウ アドラー ノ オシエ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "岸見, 一郎, 1956-",
+            "古賀, 史健, 1973-"
+          ],
+          "author": "岸見, 一郎, 1956-,古賀, 史健, 1973-,岸見一郎, 古賀史健 著",
+          "publisher": [
+            "ダイヤモンド社"
+          ],
+          "issued": "2013.12",
+          "extent": "294p",
+          "subjects": [
+            ":Adler, Alfred, 1870-1937",
+            "NDLC:SB35",
+            "NDC9:146.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784478025819"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I025056492"
+        }
+      ]
+    },
+    {
+      "book_id": "sapiens",
+      "isbn": "9784309467887",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784309467887&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "サピエンス全史 : 文明の構造と人類の幸福",
+          "titleTranscription": "サピエンス ゼンシ : ブンメイ ノ コウゾウ ト ジンルイ ノ コウフク",
+          "volume": "上",
+          "seriesTitle": "河出文庫 ; ハ15-4",
+          "creators": [
+            "Harari, Yuval N., 1976-",
+            "柴田, 裕之, 1959-"
+          ],
+          "author": "Harari, Yuval N., 1976-,柴田, 裕之, 1959-,ユヴァル・ノア・ハラリ 著,柴田裕之 訳",
+          "publisher": [
+            "河出書房新社"
+          ],
+          "issued": "2023.11",
+          "extent": "352p",
+          "subjects": [
+            ":世界史",
+            "NDLC:GA32",
+            "NDC10:209"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784309467887"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I033129599"
+        }
+      ]
+    },
+    {
+      "book_id": "factfulness",
+      "isbn": "9784822289607",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784822289607&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "FACTFULNESS : 10の思い込みを乗り越え、データを基に世界を正しく見る習慣",
+          "titleTranscription": "ファクトフルネス : ジュウ ノ オモイコミ オ ノリコエ データ オ モト ニ セカイ オ タダシク ミル シュウカン",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "Rosling, Hans, 1948-2017",
+            "Rosling, Ola, 1975-",
+            "Rönnlund, Anna Rosling, 1975-",
+            "上杉, 周作",
+            "関, 美和"
+          ],
+          "author": "Rosling, Hans, 1948-2017,Rosling, Ola, 1975-,Rönnlund, Anna Rosling, 1975-,上杉, 周作,関, 美和,ハンス・ロスリング, オーラ・ロスリング, アンナ・ロスリング・ロンランド 著,上杉周作, 関美和 訳",
+          "publisher": [
+            "日経BP社",
+            "日経BPマーケティング (発売)"
+          ],
+          "issued": "2019.1",
+          "extent": "397p",
+          "subjects": [
+            ":情報活動",
+            "NDLC:UA21",
+            "NDC10:002.7"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784822289607"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I029398192"
+        }
+      ]
+    },
+    {
+      "book_id": "seibutsu-to-museibutsu",
+      "isbn": "9784061498914",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784061498914&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "生物と無生物のあいだ",
+          "titleTranscription": "セイブツ ト ムセイブツ ノ アイダ",
+          "volume": null,
+          "seriesTitle": "講談社現代新書",
+          "creators": [
+            "福岡, 伸一, 1959-"
+          ],
+          "author": "福岡, 伸一, 1959-,福岡伸一 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2007.5",
+          "extent": "285p",
+          "subjects": [
+            ":生命科学",
+            "NDLC:RA21",
+            "NDC9:460.4"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784061498914"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008549315"
+        }
+      ]
+    },
+    {
+      "book_id": "ju-byogenkin-tetsu",
+      "isbn": "9784794218780",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784794218780&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "銃・病原菌・鉄",
+          "titleTranscription": "ジュウ ビョウゲンキン テツ",
+          "volume": "上巻",
+          "seriesTitle": "草思社文庫 ; ダ1-1",
+          "creators": [
+            "Diamond, Jared M",
+            "倉骨, 彰, 1947-"
+          ],
+          "author": "Diamond, Jared M,倉骨, 彰, 1947-,ジャレド・ダイアモンド 著,倉骨彰 訳",
+          "publisher": [
+            "草思社"
+          ],
+          "issued": "2012.2",
+          "extent": "395, 17p",
+          "subjects": [
+            ":社会変動",
+            "NDLC:EC212",
+            "NDC9:361.5"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784794218780"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I023352457"
+        }
+      ]
+    },
+    {
+      "book_id": "kanemochi-tosan",
+      "isbn": "9784480864246",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784480864246&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "金持ち父さん貧乏父さん : アメリカの金持ちが教えてくれるお金の哲学",
+          "titleTranscription": "カネモチ トウサン ビンボウ トウサン : アメリカ ノ カネモチ ガ オシエテ クレル オカネ ノ テツガク",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "Kiyosaki, Robert T, 1947-",
+            "白根, 美保子"
+          ],
+          "author": "Kiyosaki, Robert T, 1947-,白根, 美保子,ロバート・キヨサキ 著,白根美保子 訳",
+          "publisher": [
+            "筑摩書房"
+          ],
+          "issued": "2013.11",
+          "extent": "262p",
+          "subjects": [
+            ":金儲法",
+            "NDLC:DF199",
+            "NDC9:338.18"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784480864246"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I024956274"
+        }
+      ]
+    },
+    {
+      "book_id": "hito-wo-ugokasu",
+      "isbn": "9784422100982",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784422100982&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "人を動かす",
+          "titleTranscription": "ヒト オ ウゴカス",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "Carnegie, Dale, 1888-1955",
+            "山口, 博, 1913-"
+          ],
+          "author": "Carnegie, Dale, 1888-1955,山口, 博, 1913-,D・カーネギー 著,山口博 訳",
+          "publisher": [
+            "創元社"
+          ],
+          "issued": "2016.1",
+          "extent": "318p",
+          "subjects": [
+            ":人生訓",
+            "NDLC:US51",
+            "NDC9:159"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784422100982"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I027034415"
+        }
+      ]
+    },
+    {
+      "book_id": "hon-wo-yomu-hon",
+      "isbn": "9784061592995",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784061592995&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "本を読む本",
+          "titleTranscription": "ホン オ ヨム ホン",
+          "volume": null,
+          "seriesTitle": "講談社学術文庫",
+          "creators": [
+            "Adler, Mortimer Jerome, 1902-2001",
+            "Van Doren, Charles Lincoln, 1926-",
+            "外山, 滋比古, 1923-2020",
+            "槙, 未知子"
+          ],
+          "author": "Adler, Mortimer Jerome, 1902-2001,Van Doren, Charles Lincoln, 1926-,外山, 滋比古, 1923-2020,槙, 未知子,M.J.アドラー, C.V.ドーレン [著],外山滋比古, 槙未知子 訳",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "1997.10",
+          "extent": "265p",
+          "subjects": [
+            ":読書",
+            "NDLC:US61",
+            "NDC9:019"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "4061592998",
+            "4061592998"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002639697"
+        }
+      ]
+    },
+    {
+      "book_id": "7-habits",
+      "isbn": "9784863940246",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784863940246&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "完訳7つの習慣 : 人格主義の回復",
+          "titleTranscription": "カンヤク ナナツ ノ シュウカン : ジンカク シュギ ノ カイフク",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "Covey, Stephen R., 1932-2012",
+            "フランクリンコヴィージャパン株式会社"
+          ],
+          "author": "Covey, Stephen R., 1932-2012,フランクリンコヴィージャパン株式会社,スティーブン・R・コヴィー 著,フランクリン・コヴィー・ジャパン 訳",
+          "publisher": [
+            "キングベアー出版"
+          ],
+          "issued": "2013.8",
+          "extent": "521p",
+          "subjects": [
+            ":人生訓",
+            "NDLC:YU7",
+            "NDC9:159"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784863940246"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I024765841"
+        },
+        {
+          "title": "完訳7つの習慣 : 人格主義の回復",
+          "titleTranscription": "カンヤク 7ツ ノ シュウカン : ジンカク シュギ ノ カイフク",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "Covey, Stephen R.",
+            "フランクリンコヴィージャパン"
+          ],
+          "author": "Covey, Stephen R.,フランクリンコヴィージャパン,スティーブン・R・コヴィー著 ; フランクリン・コヴィー・ジャパン訳",
+          "publisher": [
+            "キングベアー出版"
+          ],
+          "issued": "2018.8",
+          "extent": null,
+          "subjects": [
+            ":人生訓",
+            "NDC9:159",
+            "NDC8:159"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784863940246",
+            "9784863940246"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971712334788316076"
+        },
+        {
+          "title": "完訳7つの習慣 : 人格主義の回復",
+          "titleTranscription": "カンヤク 7ツ ノ シュウカン : ジンカク シュギ ノ カイフク",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "Covey, Stephen R.",
+            "フランクリンコヴィージャパン"
+          ],
+          "author": "Covey, Stephen R.,フランクリンコヴィージャパン,スティーブン・R・コヴィー著 ; フランクリン・コヴィー・ジャパン訳",
+          "publisher": [
+            "キングベアー出版"
+          ],
+          "issued": "2019.3",
+          "extent": null,
+          "subjects": [
+            ":人生訓",
+            "NDC9:159",
+            "NDC8:159"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784863940246",
+            "9784863940246"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971712334788735114"
+        }
+      ]
+    },
+    {
+      "book_id": "uchu-kyodai",
+      "isbn": "9784063726749",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784063726749&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "宇宙兄弟",
+          "titleTranscription": "ウチュウ キョウダイ",
+          "volume": "1",
+          "seriesTitle": "モーニングKC ; 1674",
+          "creators": [
+            "小山, 宙哉, 1978-"
+          ],
+          "author": "小山, 宙哉, 1978-,小山宙哉 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2008.3",
+          "extent": "215p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784063726749"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009304190"
+        }
+      ]
+    },
+    {
+      "book_id": "chi-chikyu-no-undo",
+      "isbn": "9784098607785",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784098607785&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "チ。-地球の運動について-",
+          "titleTranscription": "チ チキュウ ノ ウンドウ ニ ツイテ",
+          "volume": "第1集",
+          "seriesTitle": "ビッグコミックス",
+          "creators": [
+            "魚豊"
+          ],
+          "author": "魚豊,魚豊 作・画",
+          "publisher": [
+            "小学館"
+          ],
+          "issued": "2020.12",
+          "extent": "155p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC10:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784098607785"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I030796185"
+        }
+      ]
+    },
+    {
+      "book_id": "hagane-no-renkinjutsushi",
+      "isbn": "9784757506206",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784757506206&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "鋼の錬金術師",
+          "titleTranscription": "ハガネノ レンキンジュツシ",
+          "volume": "1",
+          "seriesTitle": "ガンガンコミックス",
+          "creators": [
+            "荒川, 弘, 1973-"
+          ],
+          "author": "荒川, 弘, 1973-,荒川弘 著",
+          "publisher": [
+            "エニックス"
+          ],
+          "issued": "2002.2",
+          "extent": "179p",
+          "subjects": [
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "4757506201",
+            "4757506201"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003057246"
+        },
+        {
+          "title": "鋼の錬金術師",
+          "titleTranscription": "ハガネ ノ レンキンジュツシ",
+          "volume": "1",
+          "seriesTitle": "ガンガンコミックス",
+          "creators": [
+            "荒川, 弘, 1973-"
+          ],
+          "author": "荒川, 弘, 1973-,荒川弘",
+          "publisher": [
+            "スクウェア・エニックス"
+          ],
+          "issued": "2022.4 (96刷)",
+          "extent": "179 p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC10:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "4757506201",
+            "4757506201"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I032131027"
+        },
+        {
+          "title": "鋼の錬金術師",
+          "titleTranscription": "ハガネ ノ レンキンジュツシ",
+          "volume": "1",
+          "seriesTitle": null,
+          "creators": [
+            "荒川, 弘"
+          ],
+          "author": "荒川, 弘,荒川弘著",
+          "publisher": [
+            "スクウェア・エニックス"
+          ],
+          "issued": "2002-2010",
+          "extent": null,
+          "subjects": [
+            ":漫画",
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "4757506201"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909834992950"
+        }
+      ]
+    },
+    {
+      "book_id": "golden-kamuy",
+      "isbn": "9784088900827",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784088900827&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "ゴールデンカムイ",
+          "titleTranscription": "ゴールデン カムイ",
+          "volume": "1",
+          "seriesTitle": "ヤングジャンプコミックス",
+          "creators": [
+            "野田, サトル"
+          ],
+          "author": "野田, サトル,野田サトル 著",
+          "publisher": [
+            "集英社"
+          ],
+          "issued": "2015.1",
+          "extent": "1冊(ページ付なし)",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784088900827"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I026025703"
+        }
+      ]
+    },
+    {
+      "book_id": "shinya-tokkyu",
+      "isbn": "9784101235288",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784101235288&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "深夜特急",
+          "titleTranscription": "シンヤ トッキュウ",
+          "volume": "1",
+          "seriesTitle": "新潮文庫 ; さ-7-51",
+          "creators": [
+            "沢木, 耕太郎, 1947-"
+          ],
+          "author": "沢木, 耕太郎, 1947-,沢木耕太郎 著",
+          "publisher": [
+            "新潮社"
+          ],
+          "issued": "2020.7",
+          "extent": "270p",
+          "subjects": [
+            "NDLC:KH971",
+            "NDC10:915.6"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784101235288"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I030404375"
+        },
+        {
+          "title": "深夜特急",
+          "titleTranscription": "ｼﾝﾔ ﾄｯｷｭｳ",
+          "volume": "１",
+          "seriesTitle": "新潮文庫",
+          "creators": [],
+          "author": "沢木耕太郎",
+          "publisher": [
+            "新潮社"
+          ],
+          "issued": "2020.7.1(令2) (新版)",
+          "extent": "269p ; 16cm",
+          "subjects": [],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784101235288",
+            "9784101235288"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000134-I000423971"
+        }
+      ]
+    },
+    {
+      "book_id": "somaliland",
+      "isbn": "9784087455953",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784087455953&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "謎の独立国家ソマリランド : そして海賊国家プントランドと戦国南部ソマリア",
+          "titleTranscription": "ナゾ ノ ドクリツ コッカ ソマリランド : ソシテ カイゾク コッカ プントランド ト センゴク ナンブ ソマリア",
+          "volume": null,
+          "seriesTitle": "集英社文庫 ; た58-16",
+          "creators": [
+            "高野, 秀行, 1966-"
+          ],
+          "author": "高野, 秀行, 1966-,高野秀行 著",
+          "publisher": [
+            "集英社"
+          ],
+          "issued": "2017.6",
+          "extent": "576p",
+          "subjects": [
+            ":ソマリア--社会",
+            "NDLC:GF126",
+            "NDC10:302.453"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784087455953"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I028194084"
+        }
+      ]
+    },
+    {
+      "book_id": "angel-flight",
+      "isbn": null,
+      "searchedBy": "title",
+      "method": 2,
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?title=%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%95%E3%83%A9%E3%82%A4%E3%83%88&cnt=30",
+      "status": 200,
+      "items": [
+        {
+          "title": "エンジェルフライト-国際霊柩送還士 : Blu-ray box",
+          "titleTranscription": "エンジェル フライト - コクサイ レイキュウ ソウカンシ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [],
+          "author": "佐々涼子 原作,古沢良太, 香坂隆史 脚本",
+          "publisher": [
+            "NHKエンタープライズ"
+          ],
+          "issued": "2026.7",
+          "extent": "Blu-ray Disc 3枚",
+          "subjects": [
+            "NDLC:YL331"
+          ],
+          "categories": [
+            "映像資料",
+            "記録メディア"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I034554238"
+        },
+        {
+          "title": "エンジェルフライト : 国際霊柩送還士",
+          "titleTranscription": "エンジェル フライト : コクサイ レイキュウ ソウカンシ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "佐々, 涼子, 1968-2024"
+          ],
+          "author": "佐々, 涼子, 1968-2024,佐々涼子 著",
+          "publisher": [
+            "集英社"
+          ],
+          "issued": "2012.11",
+          "extent": "279p",
+          "subjects": [
+            ":エアハースインターナショナル株式会社",
+            "NDLC:DH475",
+            "NDC9:673.93"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784087815139"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I024059385"
+        },
+        {
+          "title": "エンジェルフライト : 国際霊柩送還士",
+          "titleTranscription": "エンジェル フライト : コクサイ レイキュウ ソウカンシ",
+          "volume": null,
+          "seriesTitle": "集英社文庫 ; さ58-1",
+          "creators": [
+            "佐々, 涼子, 1968-2024"
+          ],
+          "author": "佐々, 涼子, 1968-2024,佐々涼子 著",
+          "publisher": [
+            "集英社"
+          ],
+          "issued": "2014.11",
+          "extent": "284p",
+          "subjects": [
+            ":エアハースインターナショナル株式会社",
+            "NDLC:DH475",
+            "NDC9:673.93"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784087452525"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I025874833"
+        },
+        {
+          "title": "この著者に会いたい 『エンジェルフライト』佐々涼子(ささりょうこ)(ライター) 彼らの使命感を支えているのは、やはり遺族の喜び、感謝ではないでしょうか",
+          "titleTranscription": "コノ チョシャ ニ アイタイ 『 エンジェルフライト 』 ササリョウコ(ササリョウコ)(ライター) カレ ラ ノ シメイカン オ ササエテ イル ノ ワ 、 ヤハリ イゾク ノ ヨロコビ 、 カンシャ デワ ナイ デショウ カ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "佐々 涼子",
+            "仲俣 暁生"
+          ],
+          "author": "佐々 涼子,仲俣 暁生,佐々 涼子,仲俣 暁生",
+          "publisher": [],
+          "issued": "Fri, 6 Feb 2026 23:08:00 +0900",
+          "extent": null,
+          "subjects": [
+            "NDLC:ZW1"
+          ],
+          "categories": [
+            "記事",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R000000004-I024110880"
+        },
+        {
+          "title": "対談 第10回受賞作 佐々涼子『エンジェルフライト : 国際霊柩送還士』 佐々涼子×石井光太 世界観が崩される瞬間からの出発",
+          "titleTranscription": "タイダン ダイ10カイ ジュショウサク ササリョウコ 『 エンジェルフライト : コクサイレイキュウソウカンシ 』 ササリョウコ × イシイ ヒカリタイ セカイカン ガ クズサレル シュンカン カラ ノ シュッパツ",
+          "volume": null,
+          "seriesTitle": "開高健ノンフィクション賞10周年記念特集",
+          "creators": [
+            "佐々 涼子",
+            "石井 光太"
+          ],
+          "author": "佐々 涼子,石井 光太,佐々 涼子,石井 光太",
+          "publisher": [],
+          "issued": "Mon, 3 Dec 2012 18:36:59 +0900",
+          "extent": null,
+          "subjects": [
+            "NDLC:ZU11"
+          ],
+          "categories": [
+            "記事",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R000000004-I024095508"
+        },
+        {
+          "title": "第十回開高健ノンフィクション賞受賞作発表 『エンジェルフライト : 国際霊柩送還士』佐々涼子(ささりょうこ)",
+          "titleTranscription": "ダイジッカイ カイコウケンノンフィクションショウ ジュショウサク ハッピョウ 『 エンジェルフライト : コクサイレイキュウソウカンシ 』 ササリョウコ(ササリョウコ)",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [],
+          "author": null,
+          "publisher": [],
+          "issued": "Tue, 16 Oct 2012 18:53:24 +0900",
+          "extent": null,
+          "subjects": [
+            "NDLC:ZU11"
+          ],
+          "categories": [
+            "記事",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R000000004-I023987248"
+        },
+        {
+          "title": "読書の時間 BOOK LESSON エンジェルフライト : 国際霊柩送還士 佐々涼子著 我々は弔い損ねてはいないか",
+          "titleTranscription": "ドクショ ノ ジカン BOOK LESSON エンジェルフライト : コクサイレイキュウソウカンシ ササリョウコ チョ ワレワレ ワ トムライ ソコネテ ワ イナイ カ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "佐々 涼子"
+          ],
+          "author": "佐々 涼子,佐々 涼子",
+          "publisher": [],
+          "issued": "Tue, 5 Feb 2013 00:43:13 +0900",
+          "extent": null,
+          "subjects": [
+            "NDLC:ZW1"
+          ],
+          "categories": [
+            "記事",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R000000004-I024217732"
+        },
+        {
+          "title": "私の本棚 エンジェルフライト[佐々涼子著]",
+          "titleTranscription": "ワタクシ ノ ホンダナ エンジェルフライト[ササリョウコ チョ]",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [],
+          "author": null,
+          "publisher": [],
+          "issued": "Wed, 22 Nov 2023 02:06:47 +0900",
+          "extent": null,
+          "subjects": [
+            "NDLC:ZA15"
+          ],
+          "categories": [
+            "記事",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R000000004-I033169493"
+        }
+      ]
+    },
+    {
+      "book_id": "kumo-wo-sagasu",
+      "isbn": "9784309031019",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784309031019&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "くもをさがす",
+          "titleTranscription": "クモ オ サガス",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "西, 加奈子, 1977-"
+          ],
+          "author": "西, 加奈子, 1977-,西加奈子 著",
+          "publisher": [
+            "河出書房新社"
+          ],
+          "issued": "2023.4",
+          "extent": "252p",
+          "subjects": [
+            "NDLC:KH971",
+            "NDC10:916"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784309031019"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I032743887"
+        }
+      ]
+    },
+    {
+      "book_id": "homeless-chugakusei",
+      "isbn": "9784344415683",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784344415683&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "ホームレス中学生",
+          "titleTranscription": "ホームレス チュウガクセイ",
+          "volume": null,
+          "seriesTitle": "幻冬舎よしもと文庫 ; Y-11-1",
+          "creators": [
+            "田村, 裕, 1979-"
+          ],
+          "author": "田村, 裕, 1979-,田村裕 [著]",
+          "publisher": [
+            "幻冬舎"
+          ],
+          "issued": "2010.11",
+          "extent": "230p",
+          "subjects": [
+            ":田村, 裕, 1979-",
+            "NDLC:KD831",
+            "NDC9:779.14"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784344415683"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011184325"
+        }
+      ]
+    },
+    {
+      "book_id": "anne-no-nikki",
+      "isbn": "9784167651336",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784167651336&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "アンネの日記",
+          "titleTranscription": "アンネ ノ ニッキ",
+          "volume": null,
+          "seriesTitle": "文春文庫",
+          "creators": [
+            "Frank, Anne, 1929-1945",
+            "深町, 真理子, 1931-"
+          ],
+          "author": "Frank, Anne, 1929-1945,深町, 真理子, 1931-,アンネ・フランク 著,深町眞理子 訳",
+          "publisher": [
+            "文藝春秋"
+          ],
+          "issued": "2003.4",
+          "extent": "597p",
+          "subjects": [
+            "NDLC:GA87",
+            "NDC9:949.35"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "4167651335",
+            "4167651335"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004088542"
+        }
+      ]
+    },
+    {
+      "book_id": "hadaka-demo-ikiru",
+      "isbn": "9784062820646",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784062820646&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "裸でも生きる : 25歳女性起業家の号泣戦記",
+          "titleTranscription": "ハダカ デモ イキル : 25サイ ジョセイ キギョウカ ノ ゴウキュウ センキ",
+          "volume": null,
+          "seriesTitle": "講談社biz",
+          "creators": [
+            "山口, 絵理子"
+          ],
+          "author": "山口, 絵理子,山口絵理子 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2007.9",
+          "extent": "263p",
+          "subjects": [
+            ":山口, 絵理子",
+            "NDLC:GK157",
+            "NDC9:289.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784062820646"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009103262"
+        },
+        {
+          "title": "25歳女性起業家の号泣戦記",
+          "titleTranscription": "25サイ ジョセイ キギョウカ ノ ゴウキュウ センキ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "山口, 絵理子"
+          ],
+          "author": "山口, 絵理子,山口絵理子著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2007.9",
+          "extent": null,
+          "subjects": [
+            ":山口, 絵理子",
+            "NDC9:589.27",
+            "NDC8:589.27"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784062820646",
+            "9784062820646"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434868059539"
+        }
+      ]
+    },
+    {
+      "book_id": "jibun-no-naka-ni-doku",
+      "isbn": "9784413096843",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784413096843&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "自分の中に毒を持て : あなたは\"常識人間\"を捨てられるか",
+          "titleTranscription": "ジブン ノ ナカ ニ ドク オ モテ : アナタ ワ ジョウシキ ニンゲン オ ステラレルカ",
+          "volume": null,
+          "seriesTitle": "青春文庫 ; お-50",
+          "creators": [
+            "岡本, 太郎, 1911-1996"
+          ],
+          "author": "岡本, 太郎, 1911-1996,岡本太郎 著",
+          "publisher": [
+            "青春出版社"
+          ],
+          "issued": "2017.12",
+          "extent": "246p",
+          "subjects": [
+            ":人生訓",
+            "NDLC:US51",
+            "NDC10:159"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784413096843"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I028674384"
+        },
+        {
+          "title": "自分の中に毒を持て : あなたは\"常識人間\"を捨てられるか",
+          "titleTranscription": "ジブン ノ ナカ ニ ドク オ モテ : アナタ ワ \"ジョウシキ ニンゲン\" オ ステラレルカ",
+          "volume": ": 新装版",
+          "seriesTitle": null,
+          "creators": [
+            "岡本, 太郎"
+          ],
+          "author": "岡本, 太郎,岡本太郎著",
+          "publisher": [
+            "青春出版社"
+          ],
+          "issued": "2017.12",
+          "extent": null,
+          "subjects": [
+            ":人生訓",
+            "NDLC:US51",
+            "NDC10:159",
+            "NDC9:159",
+            "NDC8:159"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784413096843",
+            "9784413096843"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971712334751351616"
+        }
+      ]
+    },
+    {
+      "book_id": "steve-jobs",
+      "isbn": "9784062171267",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784062171267&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "Steve Jobs : The Exclusive Biography",
+          "titleTranscription": "ｽﾃｨｰﾌﾞ ｼﾞｮﾌﾞｽﾞ",
+          "volume": "１",
+          "seriesTitle": null,
+          "creators": [],
+          "author": "井口耕二",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2011.11.17 (７刷)",
+          "extent": "445p ; 20cm",
+          "subjects": [],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784062171267",
+            "9784062171267"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000134-I000392264"
+        },
+        {
+          "title": "スティーブ・ジョブズ",
+          "titleTranscription": "スティーブ・ジョブズ",
+          "volume": "1",
+          "seriesTitle": null,
+          "creators": [
+            "Isaacson, Walter",
+            "井口, 耕二"
+          ],
+          "author": "Isaacson, Walter,井口, 耕二,ウォルター・アイザックソン著 ; 井口耕二訳 / Walter Isaacson ; [translated by] Koji Inokuchi",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2011.10-2011.11",
+          "extent": null,
+          "subjects": [
+            ":Jobs, Steven(1955-2011)",
+            "NDC9:289.3",
+            "NDC8:289.3"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784062171267",
+            "9784062171267"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971712334698209547"
+        },
+        {
+          "title": "スティーブ・ジョブズ : The Exclusive Biography",
+          "titleTranscription": "スティーブ ジョブズ : Exclusive Biography",
+          "volume": "1",
+          "seriesTitle": null,
+          "creators": [
+            "Isaacson, Walter, 1952-",
+            "井口, 耕二, 1959-"
+          ],
+          "author": "Isaacson, Walter, 1952-,井口, 耕二, 1959-,ウォルター・アイザックソン 著,井口耕二 訳",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2011.10",
+          "extent": "445p",
+          "subjects": [
+            ":Jobs, Steve, 1955-2011",
+            "NDLC:GK453",
+            "NDC9:289.3"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784062171267"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011306946"
+        }
+      ]
+    },
+    {
+      "book_id": "africa-nyorori",
+      "isbn": null,
+      "searchedBy": "title",
+      "method": 2,
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?title=%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E3%81%AB%E3%82%87%E3%82%8D%E3%82%8A%E6%97%85&cnt=30",
+      "status": 200,
+      "items": [
+        {
+          "title": "アフリカにょろり旅",
+          "titleTranscription": "アフリカ ニョロリ タビ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "青山, 潤"
+          ],
+          "author": "青山, 潤,青山潤 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2007.2",
+          "extent": "281p",
+          "subjects": [
+            ":アフリカ--紀行",
+            "NDLC:GF54",
+            "NDC9:294.09"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784062138680"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008443981"
+        },
+        {
+          "title": "アフリカにょろり旅",
+          "titleTranscription": "アフリカ ニョロリタビ",
+          "volume": null,
+          "seriesTitle": "講談社文庫 ; あ108-1",
+          "creators": [
+            "青山, 潤"
+          ],
+          "author": "青山, 潤,青山潤 [著]",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2009.1",
+          "extent": "338p",
+          "subjects": [
+            ":アフリカ--紀行",
+            "NDLC:GF54",
+            "NDC9:294.09"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784062762397"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009989559"
+        },
+        {
+          "title": "누가 뭐래도, 아프리카  : [誰が何と言っても,アフリカ] : ［アフリカにょろり旅］",
+          "titleTranscription": "ﾀﾞﾚ ｶﾞ ﾅﾝﾄ ｲｯﾃﾓ ｱﾌﾘｶ : ｱﾌﾘｶ ﾆｮﾛﾘﾀﾋﾞ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "아오야마, 준",
+            "青山, 潤",
+            "고주영",
+            "[コ, ジュヨン"
+          ],
+          "author": "아오야마, 준,青山, 潤,고주영,[コ, ジュヨン,아오야마준 지음 ; ［青山潤 著] ; 고주영 옮김 ; [コジュヨン 訳]",
+          "publisher": [
+            "황매",
+            "[黄梅]"
+          ],
+          "issued": "2008.2",
+          "extent": "283p ; 19cm",
+          "subjects": [
+            "NDC9:294.81",
+            "NDC8:294.81"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "8991312784",
+            "8991312784"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000001-I23111182177556"
+        }
+      ]
+    },
+    {
+      "book_id": "nokanfu-nikki",
+      "isbn": "9784167323028",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784167323028&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "納棺夫日記",
+          "titleTranscription": "ノウカンフ ニッキ",
+          "volume": null,
+          "seriesTitle": "文春文庫",
+          "creators": [
+            "青木, 新門, 1937-2022"
+          ],
+          "author": "青木, 新門, 1937-2022,青木新門 著",
+          "publisher": [
+            "文芸春秋"
+          ],
+          "issued": "1996.7",
+          "extent": "227p",
+          "subjects": [
+            "NDLC:KH53",
+            "NDC9:914.6"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "4167323028",
+            "4167323028"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002517948"
+        }
+      ]
+    },
+    {
+      "book_id": "souka-mou-kimi",
+      "isbn": "9784101133348",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784101133348&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "そうか、もう君はいないのか",
+          "titleTranscription": "ソウカ モウ キミ ワ イナイノカ",
+          "volume": null,
+          "seriesTitle": "新潮文庫 ; し-7-34",
+          "creators": [
+            "城山, 三郎, 1927-2007"
+          ],
+          "author": "城山, 三郎, 1927-2007,城山三郎 著",
+          "publisher": [
+            "新潮社"
+          ],
+          "issued": "2010.8",
+          "extent": "173p",
+          "subjects": [
+            "NDLC:KH561",
+            "NDC9:914.6"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784101133348"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010942234"
+        }
+      ]
+    },
+    {
+      "book_id": "yotsubato",
+      "isbn": null,
+      "searchedBy": "title",
+      "method": 2,
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?title=%E3%82%88%E3%81%A4%E3%81%B0%E3%81%A8%21&cnt=30",
+      "status": 200,
+      "items": [
+        {
+          "title": "心にひびくマンガの名言 : 人生の大切なことはマンガがすべて教えてくれる",
+          "titleTranscription": "ココロ ニ ヒビク マンガ ノ メイゲン : ジンセイ ノ タイセツ ナ コト ワ マンガ ガ スベテ オシエテ クレル",
+          "volume": "5",
+          "seriesTitle": null,
+          "creators": [],
+          "author": null,
+          "publisher": [
+            "学研教育出版",
+            "学研マーケティング (発売)"
+          ],
+          "issued": "2014.2",
+          "extent": "45p",
+          "subjects": [
+            ":漫画",
+            "NDLC:Y6",
+            "NDC9:726.101"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784055010573"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I025167947"
+        },
+        {
+          "title": "大切なことに気づく : ちびまる子ちゃん/バガボンド/よつばと!/FAIRY TAIL/もやしもん/ジャングル大帝など",
+          "titleTranscription": null,
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [],
+          "author": null,
+          "publisher": [
+            "学研教育出版",
+            "学研マーケティング (発売)"
+          ],
+          "issued": "2014.2",
+          "extent": null,
+          "subjects": [
+            "NDLC:Y6",
+            "NDC9:726.101"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784055010573",
+            "9784055010573"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970304959855756678"
+        },
+        {
+          "title": "トキワ荘企画展「よつばと！原画展」①",
+          "titleTranscription": null,
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [],
+          "author": null,
+          "publisher": [
+            "東京都豊島区"
+          ],
+          "issued": "2023年8月4日",
+          "extent": null,
+          "subjects": [],
+          "categories": [
+            "文書・図像類",
+            "デジタル"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000094-I394376"
+        },
+        {
+          "title": "トキワ荘企画展「よつばと！原画展」②",
+          "titleTranscription": null,
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [],
+          "author": null,
+          "publisher": [
+            "東京都豊島区"
+          ],
+          "issued": "2023年8月4日",
+          "extent": null,
+          "subjects": [],
+          "categories": [
+            "文書・図像類",
+            "デジタル"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000094-I394377"
+        },
+        {
+          "title": "FiND YOTSUBA : 「よつばと!」カレンダー写真集",
+          "titleTranscription": "ファインド ヨツバ : ヨツバト カレンダー シャシンシュウ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "かくた, みほ"
+          ],
+          "author": "かくた, みほ,あずまきよひこ イラスト,かくたみほ 写真",
+          "publisher": [
+            "アスキー・メディアワークス",
+            "KADOKAWA (発売)"
+          ],
+          "issued": "2013.8",
+          "extent": "90p",
+          "subjects": [
+            "NDLC:Y89",
+            "NDC9:748"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784048918794"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I024768750"
+        },
+        {
+          "title": "よつばとしろとくろのどうぶつ",
+          "titleTranscription": "ヨツバ ト シロ ト クロ ノ ドウブツ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "あずま, きよひこ"
+          ],
+          "author": "あずま, きよひこ,あずまきよひこ え",
+          "publisher": [
+            "メディアワークス",
+            "角川書店 (発売)"
+          ],
+          "issued": "2006.12",
+          "extent": "1冊 (ページ付なし)",
+          "subjects": [
+            "NDLC:Y88",
+            "NDC9:726.5"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "484023714X",
+            "484023714X"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008398267"
+        },
+        {
+          "title": "よつばと!",
+          "titleTranscription": "ヨツバ ト !",
+          "volume": "1",
+          "seriesTitle": "電撃コミックス",
+          "creators": [
+            "あずま, きよひこ"
+          ],
+          "author": "あずま, きよひこ,あずまきよひこ 著",
+          "publisher": [
+            "アスキー・メディアワークス",
+            "角川グループパブリッシング (発売)"
+          ],
+          "issued": "2003.9",
+          "extent": "224p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "4840224668",
+            "4840224668"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I023092039"
+        },
+        {
+          "title": "よつばと!",
+          "titleTranscription": "ヨツバ ト",
+          "volume": "1",
+          "seriesTitle": "電撃コミックス　：　C102-1",
+          "creators": [
+            "あずま きよひこ"
+          ],
+          "author": "あずま きよひこ,あずま きよひこ／著",
+          "publisher": [
+            "KADOKAWA"
+          ],
+          "issued": "2003.9",
+          "extent": "224p",
+          "subjects": [
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784048690669"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000001-I27211000014134314"
+        },
+        {
+          "title": "よつばと！",
+          "titleTranscription": "ヨツバト",
+          "volume": "１０",
+          "seriesTitle": "電撃コミックス",
+          "creators": [
+            "あずま, きよひこ"
+          ],
+          "author": "あずま, きよひこ,あずまきよひこ え",
+          "publisher": [
+            "アスキー・メディアワークス",
+            "角川グループパブリッシング"
+          ],
+          "issued": "２０１０．１１",
+          "extent": "１冊（ページ付なし） ; １９ｃｍ",
+          "subjects": [
+            "NDC10:726.1",
+            "NDC8:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "404870143"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000001-I14211110087804"
+        },
+        {
+          "title": "よつばと!",
+          "titleTranscription": "ヨツバ ト !",
+          "volume": "10",
+          "seriesTitle": "電撃コミックス",
+          "creators": [
+            "あずま, きよひこ"
+          ],
+          "author": "あずま, きよひこ,あずまきよひこ 著",
+          "publisher": [
+            "アスキー・メディアワークス",
+            "角川グループパブリッシング (発売)"
+          ],
+          "issued": "2010.11",
+          "extent": "145p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784048701433"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I023092057"
+        },
+        {
+          "title": "よつばと！",
+          "titleTranscription": "ヨツバト",
+          "volume": "１１",
+          "seriesTitle": "電撃コミックス",
+          "creators": [
+            "あずま, きよひこ"
+          ],
+          "author": "あずま, きよひこ,あずまきよひこ え",
+          "publisher": [
+            "アスキー・メディアワークス",
+            "角川グループパブリッシング"
+          ],
+          "issued": "２０１１．１１",
+          "extent": "１冊（ページ付なし） ; １９ｃｍ",
+          "subjects": [
+            "NDC10:726.1",
+            "NDC8:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "404886097"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000001-I14211111083638"
+        },
+        {
+          "title": "よつばと!",
+          "titleTranscription": "ヨツバ ト !",
+          "volume": "11",
+          "seriesTitle": "電撃コミックス",
+          "creators": [
+            "あずま, きよひこ"
+          ],
+          "author": "あずま, きよひこ,あずまきよひこ",
+          "publisher": [
+            "アスキー・メディアワークス",
+            "角川グループパブリッシング"
+          ],
+          "issued": "2011.11",
+          "extent": "178 p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC10:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784048860970"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I034139642"
+        },
+        {
+          "title": "よつばと！",
+          "titleTranscription": "ヨツバト",
+          "volume": "１２",
+          "seriesTitle": "電撃コミックス",
+          "creators": [
+            "あずま, きよひこ"
+          ],
+          "author": "あずま, きよひこ,あずまきよひこ え",
+          "publisher": [
+            "アスキー・メディアワークス",
+            "角川グループパブリッシング"
+          ],
+          "issued": "２０１３．３",
+          "extent": "１冊（ページ付なし） ; １９ｃｍ",
+          "subjects": [
+            "NDC10:726.1",
+            "NDC8:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "404891352"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000001-I14211113031734"
+        },
+        {
+          "title": "よつばと!",
+          "titleTranscription": "ヨツバ ト !",
+          "volume": "12",
+          "seriesTitle": "電撃コミックス",
+          "creators": [
+            "あずま, きよひこ"
+          ],
+          "author": "あずま, きよひこ,あずまきよひこ",
+          "publisher": [
+            "アスキー・メディアワークス",
+            "角川グループパブリッシング"
+          ],
+          "issued": "2013.3",
+          "extent": "201 p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC10:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784048913522"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I034139643"
+        }
+      ]
+    },
+    {
+      "book_id": "yurucamp",
+      "isbn": null,
+      "searchedBy": "title",
+      "method": 2,
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?title=%E3%82%86%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3%E2%96%B3&cnt=30",
+      "status": 200,
+      "items": [
+        {
+          "title": "アウトドア音楽のすすめwithゆるキャン△",
+          "titleTranscription": "アウトドア オンガク ノ ススメ ウィズ ユルキャン",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [],
+          "author": null,
+          "publisher": [
+            "ヤマハミュージックエンタテインメントホールディングスミュージックメディア部"
+          ],
+          "issued": "2021.8",
+          "extent": "87p",
+          "subjects": [
+            ":音楽",
+            "NDLC:Y88",
+            "NDC10:778.77"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784636978049"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I031550421"
+        },
+        {
+          "title": "いばらき三遊記　：　笠間 水戸 大洗　：　水戸,笠間,大洗の季節の「花」を楽しむ周遊プラン　：　陶芸や染物,とんぼ玉,ジュルキャンドルなど物作りを満喫!!",
+          "titleTranscription": "イバラキ サンユウキ　カサマ ミト オオアライ　：　ミト カサマ オオアライ ノ キセツ ノ ハナ オ タノシム シュウユウ プラン　：　トウゲイ ヤ ソメモノ トンボタマ ジュルキャンドル ナド モノズクリ オ マンキツ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [],
+          "author": null,
+          "publisher": [
+            "笠間発見ツアーズ"
+          ],
+          "issued": "〔2012.5〕",
+          "extent": "1枚",
+          "subjects": [
+            ":茨城県・県央地域-紀行・案内記",
+            "NDC9:291.31"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000001-I08111001002112175"
+        },
+        {
+          "title": "映画ゆるキャン△公式ガイドブックキャンプ場取材記録",
+          "titleTranscription": "エイガ ユルキャン △ コウシキ ガイドブック キャンプジョウ シュザイ キロク",
+          "volume": null,
+          "seriesTitle": "Manga time KR comics. Kirara menu ; 1906",
+          "creators": [
+            "芳文社 (1950年)"
+          ],
+          "author": "芳文社 (1950年),あfろ 原作,まんがタイムきらら 編",
+          "publisher": [
+            "芳文社"
+          ],
+          "issued": "2023.4",
+          "extent": "112 p",
+          "subjects": [
+            "NDLC:Y88",
+            "NDC10:778.77"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784832274563"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I032748932"
+        },
+        {
+          "title": "映画ゆるキャン△聖地巡礼ドライブ&ツーリングガイド : 映画『ゆるキャン△』の情報満載!聖地巡礼ファン必携のガイドブック",
+          "titleTranscription": "エイガ ユルキャン セイチ ジュンレイ ドライブ アンド ツーリング ガイド : エイガ ユルキャン ノ ジョウホウ マンサイ セイチ ジュンレイ ファン ヒッケイ ノ ガイドブック",
+          "volume": null,
+          "seriesTitle": "ヤエスメディアムック ; 790",
+          "creators": [],
+          "author": null,
+          "publisher": [
+            "八重洲出版"
+          ],
+          "issued": "2023.1",
+          "extent": "98p",
+          "subjects": [
+            ":中部地方 案内記",
+            "NDLC:Y94",
+            "NDC10:291.5"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784861446931"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I032612544"
+        },
+        {
+          "title": "静岡県キャンプ地マップ　：　静岡県キャンプ地マップをアニメ『ゆるキャン△』がご紹介",
+          "titleTranscription": "シズオカケン キャンプチ マップ　シズオカケン キャンプチ マップ オ アニメ ユルキャン ガ ゴショウカイ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [],
+          "author": null,
+          "publisher": [
+            "静岡県"
+          ],
+          "issued": "[2021]",
+          "extent": "1枚",
+          "subjects": [
+            ":静岡県-紀行・案内記",
+            "NDC9:S290",
+            "NDC8:S290"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000001-I22111006000700532"
+        },
+        {
+          "title": "静岡県キャンプ地マップ　：　静岡県内のキャンプ地をアニメ『ゆるキャン△』がご紹介",
+          "titleTranscription": "シズオカケン キャンプチ マップ　シズオカケンナイ ノ キャンプチ オ アニメ ユルキャン ガ ゴショウカイ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [],
+          "author": null,
+          "publisher": [
+            "静岡県"
+          ],
+          "issued": "[2024]",
+          "extent": "1枚",
+          "subjects": [
+            ":静岡県-紀行・案内記",
+            "NDC9:S290",
+            "NDC8:S290"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000001-I22111006000862146"
+        },
+        {
+          "title": "静岡県キャンプ地マップ　：　静岡県内のキャンプ地をアニメ『ゆるキャン△』がご紹介",
+          "titleTranscription": "シズオカケン キャンプチ マップ　シズオカケンナイ ノ キャンプチ オ アニメ ユルキャン ガ ゴショウカイ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [],
+          "author": null,
+          "publisher": [
+            "静岡県観光振興課"
+          ],
+          "issued": "[2024]",
+          "extent": "1枚",
+          "subjects": [
+            ":静岡県-紀行・案内記",
+            "NDC9:S290.9"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000001-I22211002000106309"
+        },
+        {
+          "title": "静岡県モデル地マップ　：　静岡県内のアニメ『ゆるキャン△』モデル地をご紹介",
+          "titleTranscription": "シズオカケン モデルチ マップ　シズオカ ケンナイ ノ アニメ ユルキャン モデルチ オ ゴショウカイ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [],
+          "author": null,
+          "publisher": [
+            "静岡県"
+          ],
+          "issued": "[2021]",
+          "extent": "1枚",
+          "subjects": [
+            ":静岡県-紀行・案内記",
+            "NDC9:S290",
+            "NDC8:S290"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000001-I22111006000700531"
+        },
+        {
+          "title": "自衛隊のガチな野営を知るために ガチ vs ゆる比べてみた",
+          "titleTranscription": "ジエイタイ ノ ガチ ナ ヤエイ オ シル タメニ ガチ vs ユル クラベテ ミタ",
+          "volume": null,
+          "seriesTitle": "ゆるキャンにも役立つガチ野営法 自衛隊式キャンプ入門",
+          "creators": [],
+          "author": null,
+          "publisher": [],
+          "issued": "Wed, 27 Apr 2022 01:54:43 +0900",
+          "extent": null,
+          "subjects": [
+            "NDLC:ZA28"
+          ],
+          "categories": [
+            "記事",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R000000004-I032106474"
+        },
+        {
+          "title": "なでしこソロキャンへの道in富士　：　ゆるキャン△×静岡県　：　アニメの登場シーンと実際の場所を徹底比較!　：　なでしこの初ソロキャンプモデル地MAP",
+          "titleTranscription": "ナデシコ ソロ キャン エノ ミチ イン フジ　ユルキャン シズオカケン　：　アニメ ノ トウジョウ シーン ト ジッサイ ノ バショ オ テッテイ ヒカク　：　ナデシコ ノ ハツ ソロ キャンプ モデルチ マップ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [],
+          "author": null,
+          "publisher": [],
+          "issued": "[2021頃]",
+          "extent": "1枚",
+          "subjects": [
+            ":静岡県-紀行・案内記",
+            "NDC9:S291.4",
+            "NDC8:S291.4"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000001-I22111006000812890"
+        }
+      ]
+    },
+    {
+      "book_id": "dragon-zakura",
+      "isbn": null,
+      "searchedBy": "title",
+      "method": 2,
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?title=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E6%A1%9C&cnt=30",
+      "status": 200,
+      "items": [
+        {
+          "title": "汗をかかずにトップを奪え!",
+          "titleTranscription": "アセ オ カカズニ トップ オ ウバエ!",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "三田, 紀房"
+          ],
+          "author": "三田, 紀房,三田紀房著",
+          "publisher": [
+            "大和書房"
+          ],
+          "issued": "2010.6",
+          "extent": null,
+          "subjects": [
+            ":人生訓",
+            "NDLC:US51",
+            "NDC9:159.4",
+            "NDC8:159"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784479302926",
+            "9784479302926"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859717904824"
+        },
+        {
+          "title": "汗をかかずにトップを奪え!",
+          "titleTranscription": "アセ オ カカズ ニ トップ オ ウバエ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "三田, 紀房"
+          ],
+          "author": "三田, 紀房,三田紀房著",
+          "publisher": [
+            "大和書房"
+          ],
+          "issued": "2007.11",
+          "extent": null,
+          "subjects": [
+            ":人生訓",
+            "NDC9:159.4",
+            "NDC8:159"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784479792253",
+            "9784479792253"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809798070041"
+        },
+        {
+          "title": "汗をかかずにトップを奪え! : 『ドラゴン桜』流ビジネス突破塾",
+          "titleTranscription": "アセ オ カカズ ニ トップ オ ウバエ : ドラゴンザクラリュウ ビジネス トッパジュク",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "三田, 紀房"
+          ],
+          "author": "三田, 紀房,三田紀房 著",
+          "publisher": [
+            "大和書房"
+          ],
+          "issued": "2007.11",
+          "extent": "197p",
+          "subjects": [
+            ":人生訓--サラリーマン",
+            "NDLC:US51",
+            "NDC9:159.4"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784479792253"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009182780"
+        },
+        {
+          "title": "汗をかかずにトップを奪え! : 『ドラゴン桜』流ビジネス突破塾",
+          "titleTranscription": "アセ オ カカズニ トップ オ ウバエ : ドラゴンザクラリュウ ビジネス トッパジュク",
+          "volume": null,
+          "seriesTitle": "だいわ文庫 ; 143-2G",
+          "creators": [
+            "三田, 紀房"
+          ],
+          "author": "三田, 紀房,三田紀房 著",
+          "publisher": [
+            "大和書房"
+          ],
+          "issued": "2010.6",
+          "extent": "197p",
+          "subjects": [
+            ":人生訓--サラリーマン",
+            "NDLC:US51",
+            "NDC9:159.4"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784479302926"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010891372"
+        },
+        {
+          "title": "アップデートしつづける勉強法で東大へ行け! : ドラゴン桜2公式ガイドブック",
+          "titleTranscription": "アップデート シツズケル ベンキョウホウ デ トウダイ エ イケ",
+          "volume": null,
+          "seriesTitle": "KCDX",
+          "creators": [],
+          "author": "三田紀房, モーニング編集部 監修",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2021.4",
+          "extent": "191p",
+          "subjects": [
+            ":入学試験 大学",
+            "NDLC:Y34",
+            "NDC10:376.87"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784065206577"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I031367905"
+        },
+        {
+          "title": "阿部寛(56) 「借金2億」「女優ナンパで仕事ゼロ」の実録\"ドラゴン桜\"",
+          "titleTranscription": "アベカン(56) 「 シャッキン 2オク 」 「 ジョユウ ナンパ デ シゴト ゼロ 」 ノ ジツロク\"ドラゴンザクラ\"",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [],
+          "author": null,
+          "publisher": [],
+          "issued": "Tue, 25 May 2021 18:25:52 +0900",
+          "extent": null,
+          "subjects": [
+            "NDLC:ZW5"
+          ],
+          "categories": [
+            "記事",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R000000004-I031452956"
+        },
+        {
+          "title": "インタビュー 「ドラゴン桜」作者・三田紀房 「東大を受けてみろ」という先生が増えた",
+          "titleTranscription": "インタビュー ドラゴンザクラ サクシャ ミタ ノリフサ トウダイ オ ウケテ ミロ ト イウ センセイ ガ フエタ",
+          "volume": null,
+          "seriesTitle": "私立に勝つ公立高校",
+          "creators": [
+            "三田 紀房"
+          ],
+          "author": "三田 紀房,三田 紀房",
+          "publisher": [],
+          "issued": "Fri, 20 Oct 2006 22:39:02 +0900",
+          "extent": null,
+          "subjects": [
+            "NDLC:ZD1"
+          ],
+          "categories": [
+            "記事",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R000000004-I8079342"
+        },
+        {
+          "title": "エンゼルバンク : ドラゴン桜外伝 : バイリンガル版",
+          "titleTranscription": "エンゼル バンク : ドラゴンザクラ ガイデン : バイリンガルバン",
+          "volume": "vol.1",
+          "seriesTitle": "Kodansha bilingual comics",
+          "creators": [
+            "三田, 紀房"
+          ],
+          "author": "三田, 紀房,三田紀房 著",
+          "publisher": [
+            "講談社インターナショナル"
+          ],
+          "issued": "2010.9",
+          "extent": "248p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784770041401"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010993057"
+        },
+        {
+          "title": "エンゼルバンク : ドラゴン桜外伝 : バイリンガル版",
+          "titleTranscription": "エンゼル バンク : ドラゴンザクラ ガイデン : バイリンガルバン",
+          "volume": "vol.2",
+          "seriesTitle": "Kodansha bilingual comics",
+          "creators": [
+            "三田, 紀房"
+          ],
+          "author": "三田, 紀房,三田紀房 著",
+          "publisher": [
+            "講談社インターナショナル"
+          ],
+          "issued": "2010.11",
+          "extent": "248p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784770041418"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011055756"
+        },
+        {
+          "title": "エンゼルバンク : ドラゴン桜外伝 : バイリンガル版",
+          "titleTranscription": "エンゼル バンク : ドラゴンザクラ ガイデン : バイリンガルバン",
+          "volume": "1",
+          "seriesTitle": null,
+          "creators": [
+            "三田, 紀房",
+            "豊崎, 洋子",
+            "Varnam-Atkin, Stuart"
+          ],
+          "author": "三田, 紀房,豊崎, 洋子,Varnam-Atkin, Stuart,三田紀房著 ; とよざきようこ, ステュウット・ヴァーナムーアットキン訳",
+          "publisher": [
+            "講談社インターナショナル"
+          ],
+          "issued": "2010.9-",
+          "extent": null,
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784770041401",
+            "9784770041401"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970304959869374109"
+        },
+        {
+          "title": "エンゼルバンク : ドラゴン桜外伝",
+          "titleTranscription": "エンゼル バンク",
+          "volume": "1",
+          "seriesTitle": "モーニングKC ; 1661",
+          "creators": [
+            "三田, 紀房"
+          ],
+          "author": "三田, 紀房,三田紀房 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2008.1",
+          "extent": "1冊 (ページ付なし)",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784063726619"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009236741"
+        },
+        {
+          "title": "エンゼルバンク : ドラゴン桜外伝",
+          "titleTranscription": "エンゼル バンク",
+          "volume": "10",
+          "seriesTitle": "モーニングKC ; 1870",
+          "creators": [
+            "三田, 紀房"
+          ],
+          "author": "三田, 紀房,三田紀房 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2010.1",
+          "extent": "1冊 (ページ付なし)",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784063728705"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010671750"
+        },
+        {
+          "title": "エンゼルバンク : ドラゴン桜外伝",
+          "titleTranscription": "エンゼル バンク",
+          "volume": "11",
+          "seriesTitle": "モーニングKC ; 1892",
+          "creators": [
+            "三田, 紀房"
+          ],
+          "author": "三田, 紀房,三田紀房 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2010.2",
+          "extent": "1冊 (ページ付なし)",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784063728927"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010730171"
+        },
+        {
+          "title": "エンゼルバンク : ドラゴン桜外伝",
+          "titleTranscription": "エンゼル バンク",
+          "volume": "12",
+          "seriesTitle": "モーニングKC ; 1898",
+          "creators": [
+            "三田, 紀房"
+          ],
+          "author": "三田, 紀房,三田紀房 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2010.4",
+          "extent": "1冊 (ページ付なし)",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784063728989"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010849384"
+        },
+        {
+          "title": "エンゼルバンク : ドラゴン桜外伝",
+          "titleTranscription": "エンゼル バンク",
+          "volume": "13",
+          "seriesTitle": "モーニングKC ; 1912",
+          "creators": [
+            "三田, 紀房"
+          ],
+          "author": "三田, 紀房,三田紀房 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2010.5",
+          "extent": "1冊 (ページ付なし)",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784063729122"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010876171"
+        },
+        {
+          "title": "エンゼルバンク : ドラゴン桜外伝",
+          "titleTranscription": "エンゼル バンク",
+          "volume": "14",
+          "seriesTitle": "モーニングKC ; 1928",
+          "creators": [
+            "三田, 紀房"
+          ],
+          "author": "三田, 紀房,三田紀房 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2010.8",
+          "extent": "1冊 (ページ付なし)",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784063729283"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010965918"
+        },
+        {
+          "title": "エンゼルバンク : ドラゴン桜外伝",
+          "titleTranscription": "エンゼル バンク",
+          "volume": "2",
+          "seriesTitle": "モーニングKC ; 1684",
+          "creators": [
+            "三田, 紀房"
+          ],
+          "author": "三田, 紀房,三田紀房 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2008.4",
+          "extent": "1冊 (ページ付なし)",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784063726848"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009337355"
+        },
+        {
+          "title": "エンゼルバンク : ドラゴン桜外伝",
+          "titleTranscription": "エンゼル バンク",
+          "volume": "3",
+          "seriesTitle": "モーニングKC ; 1719",
+          "creators": [
+            "三田, 紀房"
+          ],
+          "author": "三田, 紀房,三田紀房 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2008.7",
+          "extent": "1冊 (ページ付なし)",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784063727197"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009423298"
+        },
+        {
+          "title": "エンゼルバンク : ドラゴン桜外伝",
+          "titleTranscription": "エンゼル バンク",
+          "volume": "4",
+          "seriesTitle": "モーニングKC ; 1742",
+          "creators": [
+            "三田, 紀房"
+          ],
+          "author": "三田, 紀房,三田紀房 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2008.10",
+          "extent": "1冊 (ページ付なし)",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784063727425"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009722828"
+        },
+        {
+          "title": "エンゼルバンク : ドラゴン桜外伝",
+          "titleTranscription": "エンゼル バンク",
+          "volume": "5",
+          "seriesTitle": "モーニングKC ; 1770",
+          "creators": [
+            "三田, 紀房"
+          ],
+          "author": "三田, 紀房,三田紀房 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2009.1",
+          "extent": "1冊 (ページ付なし)",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784063727708"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009996353"
+        },
+        {
+          "title": "エンゼルバンク : ドラゴン桜外伝",
+          "titleTranscription": "エンゼル バンク",
+          "volume": "6",
+          "seriesTitle": "モーニングKC ; 1790",
+          "creators": [
+            "三田, 紀房"
+          ],
+          "author": "三田, 紀房,三田紀房 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2009.4",
+          "extent": "1冊 (ページ付なし)",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784063727906"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010112026"
+        },
+        {
+          "title": "エンゼルバンク : ドラゴン桜外伝",
+          "titleTranscription": "エンゼル バンク",
+          "volume": "7",
+          "seriesTitle": "モーニングKC ; 1819",
+          "creators": [
+            "三田, 紀房"
+          ],
+          "author": "三田, 紀房,三田紀房 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2009.7",
+          "extent": "1冊 (ページ付なし)",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784063728194"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010414250"
+        },
+        {
+          "title": "エンゼルバンク : ドラゴン桜外伝",
+          "titleTranscription": "エンゼル バンク",
+          "volume": "8",
+          "seriesTitle": "モーニングKC ; 1841",
+          "creators": [
+            "三田, 紀房"
+          ],
+          "author": "三田, 紀房,三田紀房 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2009.10",
+          "extent": "1冊 (ページ付なし)",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784063728415"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010595971"
+        },
+        {
+          "title": "エンゼルバンク : ドラゴン桜外伝",
+          "titleTranscription": "エンゼル バンク",
+          "volume": "9",
+          "seriesTitle": "モーニングKC ; 1857",
+          "creators": [
+            "三田, 紀房"
+          ],
+          "author": "三田, 紀房,三田紀房 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2009.12",
+          "extent": "1冊 (ページ付なし)",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784063728576"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010649650"
+        },
+        {
+          "title": "親が知っておきたい学びの本質の教科書 : ドラゴン桜2×朝日小学生新聞×朝日中高生新聞",
+          "titleTranscription": "オヤ ガ シッテ オキタイ マナビ ノ ホンシツ ノ キョウカショ : ドラゴンザクラ ツー アサヒ ショウガクセイ シンブン アサヒ チュウコウセイ シンブン",
+          "volume": "教科別編",
+          "seriesTitle": null,
+          "creators": [
+            "山内, 宏泰, 1972-"
+          ],
+          "author": "山内, 宏泰, 1972-,山内宏泰 著,三田紀房 漫画,最相葉月 [ほか] [述]",
+          "publisher": [
+            "朝日学生新聞社"
+          ],
+          "issued": "2019.10",
+          "extent": "226p",
+          "subjects": [
+            ":家庭教育",
+            "NDLC:Y76",
+            "NDC10:379.9"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784909064813"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I030023978"
+        },
+        {
+          "title": "親が知っておきたい学びの本質の教科書 : ドラゴン桜2×朝日小学生新聞×朝日中高生新聞",
+          "titleTranscription": "オヤ ガ シッテ オキタイ マナビ ノ ホンシツ ノ キョウカショ : ドラゴンザクラ ツー アサヒ ショウガクセイ シンブン アサヒ チュウコウセイ シンブン",
+          "volume": "教育と子育て編",
+          "seriesTitle": null,
+          "creators": [
+            "山内, ヒロヤス"
+          ],
+          "author": "山内, ヒロヤス,山内宏泰 著,三田紀房 漫画,柳沢幸雄 [ほか] [述]",
+          "publisher": [
+            "朝日学生新聞社",
+            "朝日新聞出版 (発売)"
+          ],
+          "issued": "2020.8",
+          "extent": "210p",
+          "subjects": [
+            ":家庭教育",
+            "NDLC:Y76",
+            "NDC10:379.9"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784021911040"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I030540444"
+        },
+        {
+          "title": "親が知っておきたい学びの本質の教科書",
+          "titleTranscription": "オヤ ガ シッテ オキタイ マナビ ノ ホンシツ ノ キョウカショ",
+          "volume": "教科別編",
+          "seriesTitle": null,
+          "creators": [
+            "山内, 宏泰",
+            "三田, 紀房",
+            "最相, 葉月",
+            "坂本, 聰",
+            "牛瀧, 文宏",
+            "岩政, 大樹",
+            "伊藤, 賀一",
+            "宝槻, 泰伸",
+            "村山, 斉",
+            "福岡, 伸一",
+            "関, 正生",
+            "高橋, 一也",
+            "工藤, 勇一"
+          ],
+          "author": "山内, 宏泰,三田, 紀房,最相, 葉月,坂本, 聰,牛瀧, 文宏,岩政, 大樹,伊藤, 賀一,宝槻, 泰伸,村山, 斉,福岡, 伸一,関, 正生,高橋, 一也,工藤, 勇一,山内宏泰著 ; 三田紀房漫画 ; 最相葉月 [ほか述]",
+          "publisher": [
+            "朝日学生新聞社"
+          ],
+          "issued": "2019.10",
+          "extent": null,
+          "subjects": [
+            ":家庭教育",
+            "NDLC:Y76",
+            "NDC10:379.9"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784909064813",
+            "9784909064813"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434904962227"
+        }
+      ]
+    },
+    {
+      "book_id": "hataraku-saibou",
+      "isbn": "9784063765601",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784063765601&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "はたらく細胞",
+          "titleTranscription": "ハタラク サイボウ",
+          "volume": "01",
+          "seriesTitle": "シリウスKC ; 560",
+          "creators": [
+            "清水, 茜, 1994-"
+          ],
+          "author": "清水, 茜, 1994-,清水茜 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2015.7",
+          "extent": "1冊",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784063765601"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I026561403"
+        },
+        {
+          "title": "はたらく細胞",
+          "titleTranscription": "ハタラク サイボウ",
+          "volume": "1",
+          "seriesTitle": null,
+          "creators": [
+            "清水, 茜"
+          ],
+          "author": "清水, 茜,清水茜著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2015.7-",
+          "extent": null,
+          "subjects": [
+            "NDLC:Y84",
+            "NDC10:726.1",
+            "NDC9:726.1",
+            "NDC8:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784063765601",
+            "9784063765601"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434794507811"
+        }
+      ]
+    },
+    {
+      "book_id": "gin-no-saji",
+      "isbn": "9784091231802",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784091231802&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "銀の匙",
+          "titleTranscription": "ギン ノ サジ",
+          "volume": "1",
+          "seriesTitle": null,
+          "creators": [
+            "荒川, 弘"
+          ],
+          "author": "荒川, 弘,荒川弘著",
+          "publisher": [
+            "小学館"
+          ],
+          "issued": "2011.7-",
+          "extent": null,
+          "subjects": [
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784091231802",
+            "9784091231802"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909830528033"
+        },
+        {
+          "title": "銀の匙",
+          "titleTranscription": "ギン ノ サジ",
+          "volume": "volume 1",
+          "seriesTitle": "少年サンデーコミックス",
+          "creators": [
+            "荒川, 弘, 1973-"
+          ],
+          "author": "荒川, 弘, 1973-,荒川弘 著",
+          "publisher": [
+            "小学館"
+          ],
+          "issued": "2011.7",
+          "extent": "186p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784091231802"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011238679"
+        }
+      ]
+    },
+    {
+      "book_id": "sangatsu-no-lion",
+      "isbn": "9784592145110",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784592145110&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "3月のライオン",
+          "titleTranscription": "3ガツ ノ ライオン",
+          "volume": "1",
+          "seriesTitle": "Jets comics ; 547",
+          "creators": [
+            "羽海野, チカ",
+            "先崎, 学, 1970-"
+          ],
+          "author": "羽海野, チカ,先崎, 学, 1970-,羽海野チカ 著,先崎学 将棋監修",
+          "publisher": [
+            "白泉社"
+          ],
+          "issued": "2008.3",
+          "extent": "1冊",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784592145110"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009287705"
+        }
+      ]
+    },
+    {
+      "book_id": "blue-period",
+      "isbn": "9784065105863",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784065105863&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "ブルーピリオド",
+          "titleTranscription": "ブルー ピリオド",
+          "volume": "1",
+          "seriesTitle": "アフタヌーンKC",
+          "creators": [
+            "山口, つばさ"
+          ],
+          "author": "山口, つばさ,山口つばさ 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2017.12",
+          "extent": "1冊(ページ付なし)",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC10:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784065105863"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I028713865"
+        }
+      ]
+    },
+    {
+      "book_id": "dungeon-meshi",
+      "isbn": "9784047301535",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784047301535&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "ダンジョン飯 = DELICIOUS IN DUNGEON",
+          "titleTranscription": "ダンジョンメシ",
+          "volume": "1",
+          "seriesTitle": null,
+          "creators": [
+            "九井, 諒子"
+          ],
+          "author": "九井, 諒子,九井諒子著",
+          "publisher": [
+            "KADOKAWA"
+          ],
+          "issued": "2015.1",
+          "extent": null,
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784047301535",
+            "9784047301535"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971149384795807268"
+        },
+        {
+          "title": "ダンジョン飯",
+          "titleTranscription": "ダンジョンメシ",
+          "volume": "1",
+          "seriesTitle": "BEAM COMIX",
+          "creators": [
+            "九井, 諒子"
+          ],
+          "author": "九井, 諒子,九井諒子 著",
+          "publisher": [
+            "KADOKAWA"
+          ],
+          "issued": "2015.1",
+          "extent": "191p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784047301535"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I026002097"
+        }
+      ]
+    },
+    {
+      "book_id": "yakusoku-neverland",
+      "isbn": null,
+      "searchedBy": "title",
+      "method": 2,
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?title=%E7%B4%84%E6%9D%9F%E3%81%AE%E3%83%8D%E3%83%90%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89&cnt=30",
+      "status": 200,
+      "items": [
+        {
+          "title": "お約束のネバーランド",
+          "titleTranscription": "オヤクソク ノ ネバーランド",
+          "volume": null,
+          "seriesTitle": "ジャンプコミックス. JUMP COMICS+",
+          "creators": [
+            "宮崎, 周平",
+            "白井, カイウ",
+            "出水, ぽすか, 1988-"
+          ],
+          "author": "宮崎, 周平,白井, カイウ,出水, ぽすか, 1988-,宮崎周平 漫画,白井カイウ, 出水ぽすか 原作",
+          "publisher": [
+            "集英社"
+          ],
+          "issued": "2019.6",
+          "extent": "185p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC10:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784088818436"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I029695257"
+        },
+        {
+          "title": "これだけは見ておきたいアニメのうたベスト。",
+          "titleTranscription": "コレダケ ワ ミテオキタイ アニメ ノ ウタ ベスト 。",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [],
+          "author": null,
+          "publisher": [
+            "[clutch music]"
+          ],
+          "issued": "[2020]",
+          "extent": "CD 1枚",
+          "subjects": [
+            "NDLC:YMC11"
+          ],
+          "categories": [
+            "録音資料",
+            "記録メディア"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I033027121"
+        },
+        {
+          "title": "シークレットバイブル約束のネバーランド0 MYSTIC CODE",
+          "titleTranscription": "シークレット バイブル ヤクソク ノ ネバーランド レイ ミスティック コード",
+          "volume": null,
+          "seriesTitle": "ジャンプコミックス",
+          "creators": [
+            "白井, カイウ"
+          ],
+          "author": "白井, カイウ,白井カイウ 原作,出水ぽすか 作画,杉田卓 担当編集",
+          "publisher": [
+            "集英社"
+          ],
+          "issued": "2020.12",
+          "extent": "239p",
+          "subjects": [
+            ":漫画",
+            "NDLC:Y88",
+            "NDC10:726.101"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784088824628"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I030781525"
+        },
+        {
+          "title": "ノーマンからの手紙",
+          "titleTranscription": "ノーマン カラ ノ テガミ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "白井, カイウ",
+            "出水, ぽすか",
+            "七緒"
+          ],
+          "author": "白井, カイウ,出水, ぽすか,七緒,白井カイウ原作 ; 出水ぽすか作画 ; 七緒小説",
+          "publisher": [
+            "集英社"
+          ],
+          "issued": "2018.6",
+          "extent": null,
+          "subjects": [
+            "NDLC:KH884",
+            "NDC10:913.6"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784087034523",
+            "9784087034523"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809754873362"
+        },
+        {
+          "title": "ママたちの追想曲",
+          "titleTranscription": "ママタチ ノ ツイソウキョク",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "白井, カイウ",
+            "出水, ぽすか",
+            "七緒"
+          ],
+          "author": "白井, カイウ,出水, ぽすか,七緒,白井カイウ原作 ; 出水ぽすか作画 ; 七緒小説",
+          "publisher": [
+            "集英社"
+          ],
+          "issued": "2019.1",
+          "extent": null,
+          "subjects": [
+            "NDLC:KH971",
+            "NDC10:913.6"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784087034714",
+            "9784087034714"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909848016299"
+        },
+        {
+          "title": "約束のネバーランド : Blu-rayスペシャルエディション",
+          "titleTranscription": "ヤクソク ノ ネバーランド",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [],
+          "author": "白井カイウ, 出水ぽすか 原作,後藤法子 脚本,平川雄一朗 監督",
+          "publisher": [
+            "フジテレビジョン",
+            "東宝"
+          ],
+          "issued": "2021.5",
+          "extent": "Blu-ray Disc 3枚",
+          "subjects": [
+            "NDLC:YL331"
+          ],
+          "categories": [
+            "映像資料",
+            "記録メディア"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I031316962"
+        },
+        {
+          "title": "約束のネバーランドART BOOK WORLD",
+          "titleTranscription": "ヤクソク ノ ネバーランド アート ブック ワールド",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "出水, ぽすか, 1988-"
+          ],
+          "author": "出水, ぽすか, 1988-,白井カイウ 原作,出水ぽすか 作画",
+          "publisher": [
+            "集英社"
+          ],
+          "issued": "2020.11",
+          "extent": "1冊(ページ付なし)",
+          "subjects": [
+            "NDLC:Y89",
+            "NDC10:726.5"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784087925593"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I030675536"
+        },
+        {
+          "title": "約束のネバーランド INVITATION BOOK",
+          "titleTranscription": "ヤクソク ノ ネバー ランド インヴィテーション ブック",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "白井/カイウ",
+            "出水/ぽすか",
+            "吾峠/呼世晴"
+          ],
+          "author": "白井/カイウ,出水/ぽすか,吾峠/呼世晴,白井カイウ∥[原作],出水ぽすか∥[作画],吾峠呼世晴 [著]",
+          "publisher": [
+            "[集英社]"
+          ],
+          "issued": "9999.99",
+          "extent": "18, 18p ; 18cm",
+          "subjects": [],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000128-IB16540203"
+        },
+        {
+          "title": "約束のネバーランド : 映画ノベライズ",
+          "titleTranscription": "ヤクソク ノ ネバーランド : エイガ ノベライズ",
+          "volume": null,
+          "seriesTitle": "集英社オレンジ文庫 ; な6-1",
+          "creators": [
+            "白井, カイウ",
+            "出水, ぽすか, 1988-",
+            "後藤, 法子",
+            "七緒"
+          ],
+          "author": "白井, カイウ,出水, ぽすか, 1988-,後藤, 法子,七緒,白井カイウ 原作,出水ぽすか 作画,後藤法子 脚本,七緒 著",
+          "publisher": [
+            "集英社"
+          ],
+          "issued": "2020.12",
+          "extent": "225p",
+          "subjects": [
+            "NDLC:KH971",
+            "NDC10:913.6"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784086803595"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I030789622"
+        },
+        {
+          "title": "約束のネバーランド : 映画ノベライズみらい文庫版",
+          "titleTranscription": "ヤクソク ノ ネバーランド : エイガ ノベライズ ミライ ブンコバン",
+          "volume": null,
+          "seriesTitle": "集英社みらい文庫 ; し-16-1",
+          "creators": [
+            "白井, カイウ",
+            "出水, ぽすか, 1988-",
+            "後藤, 法子",
+            "小川, 彗"
+          ],
+          "author": "白井, カイウ,出水, ぽすか, 1988-,後藤, 法子,小川, 彗,白井カイウ 原作,出水ぽすか 作画,後藤法子 脚本,小川彗 著",
+          "publisher": [
+            "集英社"
+          ],
+          "issued": "2020.12",
+          "extent": "187p",
+          "subjects": [
+            "NDLC:Y7",
+            "NDC10:913.6"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784083216237"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I030798554"
+        },
+        {
+          "title": "約束のネバーランド : 人と鬼1000年目の真実",
+          "titleTranscription": "ヤクソク ノ ネバーランド",
+          "volume": null,
+          "seriesTitle": "MSムック",
+          "creators": [],
+          "author": null,
+          "publisher": [
+            "メディアソフト"
+          ],
+          "issued": "2020.8",
+          "extent": "207p",
+          "subjects": [
+            ":漫画",
+            "NDLC:Y94",
+            "NDC10:726.101"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784867140932"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I030482292"
+        },
+        {
+          "title": "約束のネバーランド ～10年目の贈りもの～",
+          "titleTranscription": "ヤクソクノネバーランド ジュウネンメノオクリモノ",
+          "volume": null,
+          "seriesTitle": "JUMP jBOOKS",
+          "creators": [
+            "白井 カイウ",
+            "出水 ぽすか",
+            "七緒"
+          ],
+          "author": "白井 カイウ,出水 ぽすか,七緒,白井 カイウ 著・文・その他,出水 ぽすか 著・文・その他,七緒 著・文・その他",
+          "publisher": [
+            "集英社",
+            "集英社"
+          ],
+          "issued": "2026-12-04",
+          "extent": null,
+          "subjects": [
+            ":ジェイブックス"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784087035797",
+            "9784087035797"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000137-I9784087035797"
+        },
+        {
+          "title": "約束のネバーランド : 1000年前の約束の真相",
+          "titleTranscription": "ヤクソク ノ ネバーランド",
+          "volume": null,
+          "seriesTitle": "マイウェイムック",
+          "creators": [],
+          "author": null,
+          "publisher": [
+            "マイウェイ出版"
+          ],
+          "issued": "2018.5",
+          "extent": "191p",
+          "subjects": [
+            ":漫画",
+            "NDLC:Y94",
+            "NDC10:726.101"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784865118926"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I028904014"
+        },
+        {
+          "title": "約束のネバーランド",
+          "titleTranscription": "ヤクソク ノ ネバー ランド",
+          "volume": "1",
+          "seriesTitle": "ジャンプコミックス",
+          "creators": [
+            "白井, カイウ",
+            "出水, ぽすか, 1988-"
+          ],
+          "author": "白井, カイウ,出水, ぽすか, 1988-,白井カイウ 原作,出水ぽすか 作画",
+          "publisher": [
+            "集英社"
+          ],
+          "issued": "2016.12",
+          "extent": "183p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784088808727"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I027747295"
+        },
+        {
+          "title": "約束のネバーランド",
+          "titleTranscription": "ヤクソク ノ ネバーランド",
+          "volume": "10",
+          "seriesTitle": "ジャンプコミックス",
+          "creators": [
+            "白井, カイウ",
+            "出水, ぽすか, 1988-"
+          ],
+          "author": "白井, カイウ,出水, ぽすか, 1988-,白井カイウ 原作,出水ぽすか 作画",
+          "publisher": [
+            "集英社"
+          ],
+          "issued": "2018.8",
+          "extent": "189p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC10:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784088815343"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I029115667"
+        },
+        {
+          "title": "約束のネバーランド",
+          "titleTranscription": "ヤクソク ノ ネバーランド",
+          "volume": "11",
+          "seriesTitle": "ジャンプコミックス",
+          "creators": [
+            "白井, カイウ",
+            "出水, ぽすか, 1988-"
+          ],
+          "author": "白井, カイウ,出水, ぽすか, 1988-,白井カイウ 原作,出水ぽすか 作画",
+          "publisher": [
+            "集英社"
+          ],
+          "issued": "2018.11",
+          "extent": "186p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC10:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784088816227"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I029296023"
+        },
+        {
+          "title": "約束のネバーランド",
+          "titleTranscription": "ヤクソク ノ ネバーランド",
+          "volume": "12",
+          "seriesTitle": "ジャンプコミックス",
+          "creators": [
+            "白井, カイウ",
+            "出水, ぽすか, 1988-"
+          ],
+          "author": "白井, カイウ,出水, ぽすか, 1988-,白井カイウ 原作,出水ぽすか 作画",
+          "publisher": [
+            "集英社"
+          ],
+          "issued": "2019.1",
+          "extent": "186p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC10:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784088816920"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I029406378"
+        },
+        {
+          "title": "約束のネバーランド",
+          "titleTranscription": "ヤクソク ノ ネバーランド",
+          "volume": "13",
+          "seriesTitle": "ジャンプコミックス",
+          "creators": [
+            "白井, カイウ",
+            "出水, ぽすか, 1988-"
+          ],
+          "author": "白井, カイウ,出水, ぽすか, 1988-,白井カイウ 原作,出水ぽすか 作画",
+          "publisher": [
+            "集英社"
+          ],
+          "issued": "2019.3",
+          "extent": "185p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC10:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784088817545"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I029531404"
+        }
+      ]
+    },
+    {
+      "book_id": "kinou-nani-tabeta",
+      "isbn": null,
+      "searchedBy": "title",
+      "method": 2,
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?title=%E3%81%8D%E3%81%AE%E3%81%86%E4%BD%95%E9%A3%9F%E3%81%B9%E3%81%9F%EF%BC%9F&cnt=30",
+      "status": 200,
+      "items": [
+        {
+          "title": "きのう何食べた?",
+          "titleTranscription": "キノウ ナニ タベタ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [],
+          "author": "よしながふみ 原作,安達奈緒子 脚本",
+          "publisher": [
+            "「きのう何食べた?」製作委員会",
+            "東宝 (発売)"
+          ],
+          "issued": "2019.9",
+          "extent": "ビデオディスク 5枚 (359分)",
+          "subjects": [
+            "NDLC:YL331"
+          ],
+          "categories": [
+            "映像資料",
+            "記録メディア"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I029711025"
+        },
+        {
+          "title": "きのう何食べた?シナリオブック",
+          "titleTranscription": "キノウ ナニ タベタ シナリオ ブック",
+          "volume": "ドラマ編",
+          "seriesTitle": null,
+          "creators": [
+            "よしなが, ふみ, 1971-",
+            "安達, 奈緒子"
+          ],
+          "author": "よしなが, ふみ, 1971-,安達, 奈緒子,よしながふみ 原作,安達奈緒子 脚本",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2021.12",
+          "extent": "383p",
+          "subjects": [
+            "NDLC:KH971",
+            "NDC10:912.7"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784065249826"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I031862354"
+        },
+        {
+          "title": "きのう何食べた?正月スペシャル2020",
+          "titleTranscription": "キノウ ナニ タベタ ? ショウガツ スペシャル 2020",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [],
+          "author": "よしながふみ 原作,安達奈緒子 脚本",
+          "publisher": [
+            "「きのう何食べた?正月スペシャル2020」製作委員会",
+            "東宝"
+          ],
+          "issued": "2020.4",
+          "extent": "Blu-ray Disc 1枚",
+          "subjects": [
+            "NDLC:YL331"
+          ],
+          "categories": [
+            "映像資料",
+            "記録メディア"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I030231703"
+        },
+        {
+          "title": "きのう何食べた?料理索引本 : 1-19巻",
+          "titleTranscription": "キノウ ナニ タベタ ? リョウリ サクインボン : 1 - 19カン",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [],
+          "author": null,
+          "publisher": [
+            "諸国物産取扱永代屋"
+          ],
+          "issued": "2021.12",
+          "extent": "37 p",
+          "subjects": [
+            "NDLC:Y93"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I032329556"
+        },
+        {
+          "title": "きのう何食べた?",
+          "titleTranscription": "キノウ ナニ タベタ ?",
+          "volume": "1",
+          "seriesTitle": null,
+          "creators": [
+            "よしなが, ふみ"
+          ],
+          "author": "よしなが, ふみ,よしながふみ",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2021.10",
+          "extent": null,
+          "subjects": [
+            ":漫画",
+            "NDLC:Y84",
+            "NDC10:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434884247826"
+        },
+        {
+          "title": "きのう何食べた?",
+          "titleTranscription": "キノウ ナニ タベタ",
+          "volume": "1",
+          "seriesTitle": "モーニングKC ; 1648",
+          "creators": [
+            "よしなが, ふみ, 1971-"
+          ],
+          "author": "よしなが, ふみ, 1971-,よしながふみ 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2007.11",
+          "extent": "153p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784063726480"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009175737"
+        },
+        {
+          "title": "きのう何食べた?",
+          "titleTranscription": "キノウ ナニ タベタ ?",
+          "volume": "1",
+          "seriesTitle": "モーニングKC ; 1648",
+          "creators": [
+            "よしなが, ふみ, 1971-"
+          ],
+          "author": "よしなが, ふみ, 1971-,よしながふみ",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2021.10",
+          "extent": "153 p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC10:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I031723269"
+        },
+        {
+          "title": "きのう何食べた?",
+          "titleTranscription": "キノウ ナニ タベタ",
+          "volume": "10",
+          "seriesTitle": "モーニングKC ; 2446",
+          "creators": [
+            "よしなが, ふみ, 1971-"
+          ],
+          "author": "よしなが, ふみ, 1971-,よしながふみ 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2015.6",
+          "extent": "152p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784063884463"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I026494134"
+        },
+        {
+          "title": "きのう何食べた?",
+          "titleTranscription": "キノウ ナニ タベタ",
+          "volume": "11",
+          "seriesTitle": "モーニングKC ; 2527",
+          "creators": [
+            "よしなが, ふみ, 1971-"
+          ],
+          "author": "よしなが, ふみ, 1971-,よしながふみ 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2015.11",
+          "extent": "153p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784063885279"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I026861526"
+        },
+        {
+          "title": "きのう何食べた?",
+          "titleTranscription": "キノウ ナニ タベタ",
+          "volume": "12",
+          "seriesTitle": "モーニングKC ; 2647",
+          "creators": [
+            "よしなが, ふみ, 1971-"
+          ],
+          "author": "よしなが, ふみ, 1971-,よしながふみ 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2016.10",
+          "extent": "154p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784063886474"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I027656418"
+        },
+        {
+          "title": "きのう何食べた?",
+          "titleTranscription": "キノウ ナニ タベタ",
+          "volume": "13",
+          "seriesTitle": "モーニングKC ; 2772",
+          "creators": [
+            "よしなが, ふみ, 1971-"
+          ],
+          "author": "よしなが, ふみ, 1971-,よしながふみ 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2017.9",
+          "extent": "151p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC10:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784065102619"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I028505197"
+        },
+        {
+          "title": "きのう何食べた?",
+          "titleTranscription": "キノウ ナニ タベタ",
+          "volume": "14",
+          "seriesTitle": "モーニングKC",
+          "creators": [
+            "よしなが, ふみ, 1971-"
+          ],
+          "author": "よしなが, ふみ, 1971-,よしながふみ 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2018.7",
+          "extent": "151p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC10:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784065120286"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I029094260"
+        },
+        {
+          "title": "きのう何食べた?",
+          "titleTranscription": "キノウ ナニ タベタ",
+          "volume": "15",
+          "seriesTitle": "モーニングKC",
+          "creators": [
+            "よしなが, ふみ, 1971-"
+          ],
+          "author": "よしなが, ふみ, 1971-,よしながふみ 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2019.3",
+          "extent": "155p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC10:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784065149492"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I029572439"
+        },
+        {
+          "title": "きのう何食べた?",
+          "titleTranscription": "キノウ ナニ タベタ",
+          "volume": "16",
+          "seriesTitle": "モーニングKC",
+          "creators": [
+            "よしなが, ふみ, 1971-"
+          ],
+          "author": "よしなが, ふみ, 1971-,よしながふみ 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2019.12",
+          "extent": "158p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC10:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784065178317"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I030135429"
+        },
+        {
+          "title": "きのう何食べた?",
+          "titleTranscription": "キノウ ナニ タベタ",
+          "volume": "17",
+          "seriesTitle": "モーニングKC",
+          "creators": [
+            "よしなが, ふみ, 1971-"
+          ],
+          "author": "よしなが, ふみ, 1971-,よしながふみ 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2020.8",
+          "extent": "154p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC10:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784065203095"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I030563292"
+        },
+        {
+          "title": "きのう何食べた?",
+          "titleTranscription": "キノウ ナニ タベタ",
+          "volume": "18",
+          "seriesTitle": "モーニングKC",
+          "creators": [
+            "よしなが, ふみ, 1971-"
+          ],
+          "author": "よしなが, ふみ, 1971-,よしながふみ 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2021.5",
+          "extent": "154p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC10:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784065233313"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I031445253"
+        },
+        {
+          "title": "きのう何食べた?",
+          "titleTranscription": "キノウ ナニ タベタ?",
+          "volume": "19",
+          "seriesTitle": null,
+          "creators": [
+            "よしなが, ふみ"
+          ],
+          "author": "よしなが, ふみ,よしながふみ著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2021.11",
+          "extent": null,
+          "subjects": [
+            ":漫画",
+            "NDC10:726.1",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784065257982",
+            "9784065257982"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909860341899"
+        },
+        {
+          "title": "きのう何食べた? : バイリンガル版",
+          "titleTranscription": "キノウ ナニ タベタ",
+          "volume": "1",
+          "seriesTitle": "KODANSHA BILINGUAL COMICS",
+          "creators": [
+            "よしなが, ふみ, 1971-",
+            "Rosewood, Maya"
+          ],
+          "author": "よしなが, ふみ, 1971-,Rosewood, Maya,よしながふみ 著,マヤ・ローズウッド 訳",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2021.7",
+          "extent": "159p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC10:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784065237786"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I031563150"
+        },
+        {
+          "title": "きのう何食べた?",
+          "titleTranscription": "キノウ ナニ タベタ ?",
+          "volume": "2",
+          "seriesTitle": null,
+          "creators": [
+            "よしなが, ふみ"
+          ],
+          "author": "よしなが, ふみ,よしながふみ",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2021.10",
+          "extent": null,
+          "subjects": [
+            ":漫画",
+            "NDLC:Y84",
+            "NDC10:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909850438182"
+        },
+        {
+          "title": "きのう何食べた?",
+          "titleTranscription": "キノウ ナニ タベタ",
+          "volume": "2",
+          "seriesTitle": "モーニングKC ; 1754",
+          "creators": [
+            "よしなが, ふみ, 1971-"
+          ],
+          "author": "よしなが, ふみ, 1971-,よしながふみ 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2008.11",
+          "extent": "150p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784063727548"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009826989"
+        },
+        {
+          "title": "きのう何食べた? : 限定版",
+          "titleTranscription": "キノウ ナニ タベタ",
+          "volume": "2",
+          "seriesTitle": "モーニングKCピース",
+          "creators": [
+            "よしなが, ふみ, 1971-"
+          ],
+          "author": "よしなが, ふみ, 1971-,よしながふみ 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2008.11",
+          "extent": "150p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784063647440"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009899338"
+        },
+        {
+          "title": "きのう何食べた?",
+          "titleTranscription": "キノウ ナニ タベタ ?",
+          "volume": "2",
+          "seriesTitle": "モーニングKC ; 1754",
+          "creators": [
+            "よしなが, ふみ, 1971-"
+          ],
+          "author": "よしなが, ふみ, 1971-,よしながふみ",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2021.10",
+          "extent": "150 p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC10:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I031736206"
+        },
+        {
+          "title": "きのう何食べた?",
+          "titleTranscription": "キノウ ナニ タベタ?",
+          "volume": "20",
+          "seriesTitle": null,
+          "creators": [
+            "よしなが, ふみ"
+          ],
+          "author": "よしなが, ふみ,よしながふみ著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2022.10",
+          "extent": null,
+          "subjects": [
+            ":漫画",
+            "NDC10:726.1",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784065290538",
+            "9784065290538"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809767770534"
+        },
+        {
+          "title": "きのう何食べた?",
+          "titleTranscription": "キノウ ナニ タベタ ?",
+          "volume": "20",
+          "seriesTitle": "プレミアムKC",
+          "creators": [
+            "よしなが, ふみ, 1971-"
+          ],
+          "author": "よしなが, ふみ, 1971-,よしながふみ",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2022.10",
+          "extent": "154 p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC10:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784065296141"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I032434868"
+        },
+        {
+          "title": "きのう何食べた?",
+          "titleTranscription": "キノウ ナニ タベタ",
+          "volume": "21",
+          "seriesTitle": "モーニングKC",
+          "creators": [
+            "よしなが, ふみ, 1971-"
+          ],
+          "author": "よしなが, ふみ, 1971-,よしながふみ 著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2023.5",
+          "extent": "148p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC10:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784065315361"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I032816014"
+        },
+        {
+          "title": "きのう何食べた?",
+          "titleTranscription": "キノウ ナニ タベタ?",
+          "volume": "22",
+          "seriesTitle": null,
+          "creators": [
+            "よしなが, ふみ"
+          ],
+          "author": "よしなが, ふみ,よしながふみ著",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2023.10",
+          "extent": null,
+          "subjects": [
+            ":漫画",
+            "NDC10:726.1",
+            "NDC9:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784065332948",
+            "9784065332948"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809759634196"
+        },
+        {
+          "title": "きのう何食べた?",
+          "titleTranscription": "キノウ ナニ タベタ ?",
+          "volume": "22",
+          "seriesTitle": "プレミアムKC",
+          "creators": [
+            "よしなが, ふみ, 1971-"
+          ],
+          "author": "よしなが, ふみ, 1971-,よしながふみ",
+          "publisher": [
+            "講談社"
+          ],
+          "issued": "2023.10",
+          "extent": "153 p",
+          "subjects": [
+            "NDLC:Y84",
+            "NDC10:726.1"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784065335376"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I033114025"
+        }
+      ]
+    },
+    {
+      "book_id": "yume-wo-kanaeru-zou",
+      "isbn": "9784866512419",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784866512419&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "夢をかなえるゾウ",
+          "titleTranscription": "ユメ オ カナエル ゾウ",
+          "volume": "1",
+          "seriesTitle": null,
+          "creators": [
+            "水野, 敬也, 1976-"
+          ],
+          "author": "水野, 敬也, 1976-,水野敬也 著",
+          "publisher": [
+            "文響社"
+          ],
+          "issued": "2020.7",
+          "extent": "398p",
+          "subjects": [
+            "NDLC:KH971",
+            "NDC10:913.6"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784866512419"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I030481823"
+        }
+      ]
+    },
+    {
+      "book_id": "kimitachi-wa-dou-ikiruka",
+      "isbn": "9784003315811",
+      "searchedBy": "title-fallback",
+      "method": 2,
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?title=%E5%90%9B%E3%81%9F%E3%81%A1%E3%81%AF%E3%81%A9%E3%81%86%E7%94%9F%E3%81%8D%E3%82%8B%E3%81%8B&cnt=30",
+      "status": 200,
+      "items": [
+        {
+          "title": "癒しのチェロ&ヴァイオリンジブリ・ベスト",
+          "titleTranscription": "イヤシ ノ チェロ & ヴァイオリン ジブリ ・ ベスト",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [],
+          "author": null,
+          "publisher": [
+            "日本コロムビア"
+          ],
+          "issued": "2025.7",
+          "extent": "CD 1枚",
+          "subjects": [
+            "NDLC:YMC11"
+          ],
+          "categories": [
+            "録音資料",
+            "記録メディア"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I034082699"
+        }
+      ]
+    },
+    {
+      "book_id": "saodakeya",
+      "isbn": "9784334032913",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784334032913&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "さおだけ屋はなぜ潰れないのか? : 身近な疑問からはじめる会計学",
+          "titleTranscription": "サオダケヤ ワ ナゼ ツブレナイノカ : ミジカナ ギモン カラ ハジメル カイケイガク",
+          "volume": null,
+          "seriesTitle": "光文社新書",
+          "creators": [
+            "山田, 真哉, 1976-"
+          ],
+          "author": "山田, 真哉, 1976-,山田真哉 著",
+          "publisher": [
+            "光文社"
+          ],
+          "issued": "2005.2",
+          "extent": "216p",
+          "subjects": [
+            ":会計学",
+            "NDLC:DH512",
+            "NDC9:336.9"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "4334032915",
+            "4334032915"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007651494"
+        }
+      ]
+    },
+    {
+      "book_id": "tokimeku-katazuke",
+      "isbn": "9784763131201",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784763131201&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "人生がときめく片づけの魔法",
+          "titleTranscription": "ジンセイ ガ トキメク カタズケ ノ マホウ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "近藤, 麻理恵"
+          ],
+          "author": "近藤, 麻理恵,近藤麻理恵 著",
+          "publisher": [
+            "サンマーク出版"
+          ],
+          "issued": "2011.1",
+          "extent": "270p",
+          "subjects": [
+            "NDLC:Y74",
+            "NDC9:597.5"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784763131201"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011109764"
+        },
+        {
+          "title": "人生がときめく片づけの魔法",
+          "titleTranscription": "ジンセイ ガ トキメク カタズケ ノ マホウ",
+          "volume": "[1]",
+          "seriesTitle": null,
+          "creators": [
+            "近藤, 麻理恵"
+          ],
+          "author": "近藤, 麻理恵,近藤麻理恵著",
+          "publisher": [
+            "サンマーク出版"
+          ],
+          "issued": "2011.1-",
+          "extent": null,
+          "subjects": [
+            ":収納",
+            "NDC9:597.5",
+            "NDC8:597.5"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784763131201",
+            "9784763131201"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809742283955"
+        }
+      ]
+    },
+    {
+      "book_id": "idea-no-tsukurikata",
+      "isbn": "9784484881041",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784484881041&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "アイデアのつくり方",
+          "titleTranscription": "アイデア ノ ツクリカタ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "Young, James Webb, 1886-1973",
+            "今井, 茂雄, 1920-"
+          ],
+          "author": "Young, James Webb, 1886-1973,今井, 茂雄, 1920-,ジェームス・W.ヤング [著],今井茂雄 訳",
+          "publisher": [
+            "ティビーエス・ブリタニカ"
+          ],
+          "issued": "1988.4",
+          "extent": "102p",
+          "subjects": [
+            ":広告",
+            "NDLC:DH428",
+            "NDC8:674"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "4484881047",
+            "4484881047"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001948091"
+        },
+        {
+          "title": "アイデアのつくり方",
+          "titleTranscription": "アイデア ノ ツクリカタ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "Young, James Webb",
+            "今井, 茂雄"
+          ],
+          "author": "Young, James Webb,今井, 茂雄,ジェームス・W・ヤング [著] ; 今井茂雄訳",
+          "publisher": [
+            "阪急コミュニケーションズ"
+          ],
+          "issued": "1988",
+          "extent": null,
+          "subjects": [
+            ":広告",
+            "NDC9:674",
+            "NDC8:674"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784484881041",
+            "9784484881041"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971149384818488457"
+        },
+        {
+          "title": "アイデアのつくり方",
+          "titleTranscription": "アイデア ノ ツクリカタ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "Young, James Webb",
+            "今井, 茂雄"
+          ],
+          "author": "Young, James Webb,今井, 茂雄,ジェームス・W.ヤング [著] ; 今井茂雄訳",
+          "publisher": [
+            "CCCメディアハウス"
+          ],
+          "issued": "1988",
+          "extent": null,
+          "subjects": [
+            ":広告",
+            "NDC9:674",
+            "NDC8:674"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784484881041",
+            "9784484881041"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859724635650"
+        },
+        {
+          "title": "アイデアのつくり方",
+          "titleTranscription": "アイデア ノ ツクリカタ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "Young, James Webb",
+            "今井, 茂雄"
+          ],
+          "author": "Young, James Webb,今井, 茂雄,ジェームス・W・ヤング [著] ; 今井茂雄訳",
+          "publisher": [
+            "TBSブリタニカ"
+          ],
+          "issued": "1988",
+          "extent": null,
+          "subjects": [
+            ":広告",
+            "NDLC:DH428",
+            "NDC8:674"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784484881041",
+            "9784484881041"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971712334756014273"
+        }
+      ]
+    },
+    {
+      "book_id": "okane-no-daigaku",
+      "isbn": "9784023323780",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784023323780&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "本当の自由を手に入れるお金の大学",
+          "titleTranscription": "ホントウ ノ ジユウ オ テ ニ イレル オカネ ノ ダイガク",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "両@リベ大学長"
+          ],
+          "author": "両@リベ大学長,両@リベ大学長 著",
+          "publisher": [
+            "朝日新聞出版"
+          ],
+          "issued": "2024.11",
+          "extent": "321p",
+          "subjects": [
+            ":家庭経済",
+            "NDLC:EF21",
+            "NDC10:591"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784023323780"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I033788496"
+        }
+      ]
+    },
+    {
+      "book_id": "hima-to-taikutsu",
+      "isbn": "9784101035413",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784101035413&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "暇と退屈の倫理学",
+          "titleTranscription": "ヒマ ト タイクツ ノ リンリガク",
+          "volume": null,
+          "seriesTitle": "新潮文庫 ; こ-73-1",
+          "creators": [
+            "國分, 功一郎, 1974-"
+          ],
+          "author": "國分, 功一郎, 1974-,國分功一郎 著",
+          "publisher": [
+            "新潮社"
+          ],
+          "issued": "2022.1",
+          "extent": "508p",
+          "subjects": [
+            ":人生観",
+            "NDLC:H15",
+            "NDC10:113"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784101035413"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I031862362"
+        }
+      ]
+    },
+    {
+      "book_id": "dokuso-sen",
+      "isbn": "9784004317852",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784004317852&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "独ソ戦 : 絶滅戦争の惨禍",
+          "titleTranscription": "ドクソセン : ゼツメツ センソウ ノ サンカ",
+          "volume": null,
+          "seriesTitle": "岩波新書 新赤版 ; 1785",
+          "creators": [
+            "大木, 毅, 1961-"
+          ],
+          "author": "大木, 毅, 1961-,大木毅 著",
+          "publisher": [
+            "岩波書店"
+          ],
+          "issued": "2019.7",
+          "extent": "248p",
+          "subjects": [
+            ":世界戦争 (1939-1945)",
+            "NDLC:GA82",
+            "NDC10:391.2074"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784004317852"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I029746619"
+        }
+      ]
+    },
+    {
+      "book_id": "zou-no-jikan",
+      "isbn": null,
+      "searchedBy": "title",
+      "method": 2,
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?title=%E3%82%BE%E3%82%A6%E3%81%AE%E6%99%82%E9%96%93&cnt=30",
+      "status": 200,
+      "items": [
+        {
+          "title": "今改めて「ゾウの時間とネズミの時間」",
+          "titleTranscription": "イマ アラタメテ 「 ゾウ ノ ジカン ト ネズミ ノ ジカン 」",
+          "volume": null,
+          "seriesTitle": "特集 時間の流れと産婦人科生物学 : 早すぎること,遅すぎること,長すぎること,短かすぎること ; 時間の生物学総論",
+          "creators": [
+            "本川 達雄"
+          ],
+          "author": "本川 達雄,本川 達雄",
+          "publisher": [],
+          "issued": "Thu, 1 Jun 2023 23:38:45 +0900",
+          "extent": null,
+          "subjects": [
+            "NDLC:ZS38"
+          ],
+          "categories": [
+            "記事",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R000000004-I032838341"
+        },
+        {
+          "title": "絵とき ゾウの時間とネズミの時間",
+          "titleTranscription": "エトキ ゾウ ノ ジカン ト ネズミ ノ ジカン",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "本川 達雄",
+            "あべ 弘士"
+          ],
+          "author": "本川 達雄,あべ 弘士,本川達雄文,あべ弘士絵",
+          "publisher": [],
+          "issued": "Tue, 22 Nov 2005 04:17:51 +0900",
+          "extent": null,
+          "subjects": [
+            "NDLC:ZY1"
+          ],
+          "categories": [
+            "記事",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R000000004-I500008922101"
+        },
+        {
+          "title": "絵ときゾウの時間とネズミの時間",
+          "titleTranscription": "エトキ ゾウ ノ ジカン ト ネズミ ノ ジカン",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "本川, 達雄",
+            "あべ, 弘士"
+          ],
+          "author": "本川, 達雄,あべ, 弘士,本川達雄文; あべ弘士絵",
+          "publisher": [
+            "福音館書店"
+          ],
+          "issued": "1993.3",
+          "extent": null,
+          "subjects": [
+            "NDC8:468"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859853411097"
+        },
+        {
+          "title": "絵ときゾウの時間とネズミの時間",
+          "titleTranscription": "エトキ ゾウ ノ ジカン ト ネズミ ノ ジカン",
+          "volume": null,
+          "seriesTitle": "たくさんのふしぎ傑作集",
+          "creators": [
+            "本川 達雄",
+            "あべ 弘士"
+          ],
+          "author": "本川 達雄,あべ 弘士,本川 達雄／文,あべ 弘士／絵",
+          "publisher": [
+            "福音館書店"
+          ],
+          "issued": "2024.9",
+          "extent": "39p",
+          "subjects": [
+            ":動物生理学",
+            "NDC9:481.3"
+          ],
+          "categories": [
+            "電子書籍・電子雑誌",
+            "図書",
+            "デジタル"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000001-I22211002000022452"
+        },
+        {
+          "title": "絵ときゾウの時間とネズミの時間",
+          "titleTranscription": "エトキ ゾウ ノ ジカン ト ネズミ ノ ジカン",
+          "volume": null,
+          "seriesTitle": "たくさんのふしぎ傑作集",
+          "creators": [
+            "本川, 達雄, 1948-",
+            "あべ, 弘士, 1948-"
+          ],
+          "author": "本川, 達雄, 1948-,あべ, 弘士, 1948-,本川達雄 文,あべ弘士 絵",
+          "publisher": [
+            "福音館書店"
+          ],
+          "issued": "1994.4",
+          "extent": "40p",
+          "subjects": [
+            ":動物",
+            "NDC9:481"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "4834001938",
+            "4834001938"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002317118"
+        },
+        {
+          "title": "絵ときゾウの時間ネズミの時間",
+          "titleTranscription": "ｴ ﾄｷ ｿﾞｳﾉ ｼﾞｶﾝ ﾈｽﾞﾐﾉ ｼﾞｶﾝ",
+          "volume": null,
+          "seriesTitle": "月刊たくさんのふしぎ ; 第９６号（１９９３年３月号）",
+          "creators": [
+            "本川, 達雄",
+            "あべ, 弘士"
+          ],
+          "author": "本川, 達雄,あべ, 弘士,本川達雄 文 ; あべ弘士 写真",
+          "publisher": [
+            "福音館書店"
+          ],
+          "issued": "１９９３．３",
+          "extent": "４０，８ｐ ; ２５ｃｍ",
+          "subjects": [
+            "NDC8:480J"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000001-I02111100386452"
+        },
+        {
+          "title": "教育講演4 ゾウの時間・ネズミの時間・運動の時間",
+          "titleTranscription": "キョウイク コウエン 4 ゾウ ノ ジカン ネズミ ノ ジカン ウンドウ ノ ジカン",
+          "volume": null,
+          "seriesTitle": "〔第53回日本体力医学会大会〕",
+          "creators": [
+            "本川 達雄"
+          ],
+          "author": "本川 達雄,本川 達雄",
+          "publisher": [],
+          "issued": "Mon, 29 Mar 1999 22:39:55 +0900",
+          "extent": null,
+          "subjects": [
+            "NDLC:ZF21"
+          ],
+          "categories": [
+            "記事",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R000000004-I4662551"
+        },
+        {
+          "title": "講演録 ゾウの時間・ネズミの時間とは!?--ではヒトの時間・ビジネスの時間は?!",
+          "titleTranscription": "コウエンロク ゾウ ノ ジカン ネズミ ノ ジカン トワ デハ ヒト ノ ジカ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "本川 達雄"
+          ],
+          "author": "本川 達雄,本川 達雄",
+          "publisher": [],
+          "issued": "Mon, 8 Feb 1999 01:15:15 +0900",
+          "extent": null,
+          "subjects": [
+            "NDLC:ZD23"
+          ],
+          "categories": [
+            "記事",
+            "デジタル"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R000000004-I4339978"
+        },
+        {
+          "title": "講演録 ゾウの時間・ネズミの時間・ビジネスの時間",
+          "titleTranscription": "コウエンロク ゾウ ノ ジカン ネズミ ノ ジカン ビジネス ノ ジカン",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "本川 達雄"
+          ],
+          "author": "本川 達雄,本川 達雄",
+          "publisher": [],
+          "issued": "Fri, 2 Nov 2007 22:38:31 +0900",
+          "extent": null,
+          "subjects": [
+            "NDLC:ZD23"
+          ],
+          "categories": [
+            "記事",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R000000004-I8960803"
+        },
+        {
+          "title": "ゾウの時間",
+          "titleTranscription": null,
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "本川達雄"
+          ],
+          "author": "本川達雄",
+          "publisher": [],
+          "issued": "1992",
+          "extent": null,
+          "subjects": [],
+          "categories": [
+            "記事",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1573668925367750144"
+        },
+        {
+          "title": "ゾウの時間ネズミの時間",
+          "titleTranscription": null,
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "本川, 達雄",
+            "MOTOKAWA, TATSUO"
+          ],
+          "author": "本川, 達雄,MOTOKAWA, TATSUO,本川, 達雄,MOTOKAWA, TATSUO",
+          "publisher": [
+            "中央公論社"
+          ],
+          "issued": "1992",
+          "extent": null,
+          "subjects": [],
+          "categories": [
+            "記事",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R000000025-I008970003873299"
+        },
+        {
+          "title": "ゾウの時間ネズミの時間",
+          "titleTranscription": "ｿﾞｳ ﾉ ｼﾞｶﾝ ﾈｽﾞﾐ ﾉ ｼﾞｶﾝ",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "本川達雄/著"
+          ],
+          "author": "本川達雄/著,本川達雄/著",
+          "publisher": [
+            "中央公論社"
+          ],
+          "issued": "1992.8",
+          "extent": "230p ; 18cm",
+          "subjects": [],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000001-I21111101353021"
+        },
+        {
+          "title": "ゾウの時間ネズミの時間 サイズの生物学",
+          "titleTranscription": "ゾウ ノ ジカン ネズミ ノ ジカン",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "本川, 達雄"
+          ],
+          "author": "本川, 達雄,本川達雄 著",
+          "publisher": [
+            "埼玉県立浦和図書館 (手製)"
+          ],
+          "issued": "1995",
+          "extent": "点字 4冊",
+          "subjects": [
+            "NDC9:481.3"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000049-I000003903564"
+        },
+        {
+          "title": "ゾウの時間ネズミの時間",
+          "titleTranscription": null,
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "本川達雄"
+          ],
+          "author": "本川達雄",
+          "publisher": [],
+          "issued": "1999",
+          "extent": null,
+          "subjects": [],
+          "categories": [
+            "記事",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1572543025795576320"
+        },
+        {
+          "title": "ゾウの時間ネズミの時間",
+          "titleTranscription": null,
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "本川達雄"
+          ],
+          "author": "本川達雄",
+          "publisher": [],
+          "issued": "1992",
+          "extent": null,
+          "subjects": [],
+          "categories": [
+            "記事",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1572824499940303744"
+        },
+        {
+          "title": "ゾウの時間・ネズミの時間・医療の時間（その2）",
+          "titleTranscription": null,
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "本川, 達雄",
+            "MOTOKAWA, TATSUO"
+          ],
+          "author": "本川, 達雄,MOTOKAWA, TATSUO,本川, 達雄,MOTOKAWA, TATSUO",
+          "publisher": [],
+          "issued": "2001",
+          "extent": null,
+          "subjects": [],
+          "categories": [
+            "記事",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R000000025-I008970003925920"
+        },
+        {
+          "title": "ゾウの時間・ネズミの時間・医療の時間（その1）",
+          "titleTranscription": null,
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "本川, 達雄",
+            "MOTOKAWA, TATSUO"
+          ],
+          "author": "本川, 達雄,MOTOKAWA, TATSUO,本川, 達雄,MOTOKAWA, TATSUO",
+          "publisher": [],
+          "issued": "2001",
+          "extent": null,
+          "subjects": [],
+          "categories": [
+            "記事",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R000000025-I008970003932050"
+        },
+        {
+          "title": "ゾウの時間・ネズミの時間・医療の時間（その３）",
+          "titleTranscription": null,
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "本川, 達雄",
+            "MOTOKAWA, TATSUO"
+          ],
+          "author": "本川, 達雄,MOTOKAWA, TATSUO,本川, 達雄,MOTOKAWA, TATSUO",
+          "publisher": [],
+          "issued": "2001",
+          "extent": null,
+          "subjects": [],
+          "categories": [
+            "記事",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R000000025-I008970003932081"
+        },
+        {
+          "title": "ゾウの時間・ネズミの時間・医療の時間",
+          "titleTranscription": "ゾウ ノ ジカン ・ ネズミ ノ ジカン ・ イリョウ ノ ジカン",
+          "volume": null,
+          "seriesTitle": "がん検診認定医制度と第5回がん検診認定医習熟講習会 特集号 ; 第5回日本がん検診・診断学会習熟講習会 講演",
+          "creators": [
+            "本川 達雄"
+          ],
+          "author": "本川 達雄,本川 達雄",
+          "publisher": [],
+          "issued": "Tue, 3 Dec 2013 19:09:28 +0900",
+          "extent": null,
+          "subjects": [
+            "NDLC:ZS34"
+          ],
+          "categories": [
+            "記事",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R000000004-I025033179"
+        },
+        {
+          "title": "ゾウの時間・ネズミの時間・医療の時間(2)サイズと時間",
+          "titleTranscription": "ゾウ ノ ジカン ネズミ ノ ジカン イリョウ ノ ジカン 2 サイズ ト ジカン",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "本川 達雄"
+          ],
+          "author": "本川 達雄,本川 達雄",
+          "publisher": [],
+          "issued": "Tue, 25 Sep 2001 22:47:34 +0900",
+          "extent": null,
+          "subjects": [
+            "NDLC:ZE5"
+          ],
+          "categories": [
+            "記事",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R000000004-I5904668"
+        },
+        {
+          "title": "本川達雄/ゾウの時間ネズミの時間～歌う生物学",
+          "titleTranscription": "ゾウノジカン ネズミノジカン ウタウ セイブツガク",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [],
+          "author": null,
+          "publisher": [
+            "コロムビアミュージックエンタテインメント"
+          ],
+          "issued": "1995.4",
+          "extent": "録音ディスク 1枚",
+          "subjects": [
+            "NDLC:YMC11"
+          ],
+          "categories": [
+            "録音資料",
+            "記録メディア"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008999487"
+        },
+        {
+          "title": "ゾウの時間・ネズミの時間・運動の時間",
+          "titleTranscription": null,
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "本川, 達雄",
+            "MOTOKAWA, TATSUO"
+          ],
+          "author": "本川, 達雄,MOTOKAWA, TATSUO,本川, 達雄,MOTOKAWA, TATSUO",
+          "publisher": [],
+          "issued": "1999",
+          "extent": null,
+          "subjects": [],
+          "categories": [
+            "記事",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R000000025-I008970003902793"
+        },
+        {
+          "title": "ゾウの時間、ネズミの時間、運動の時間",
+          "titleTranscription": "ゾウ ノ ジカン ネズミ ノ ジカン ウンドウ ノ ジカン",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "本川, 達雄"
+          ],
+          "author": "本川, 達雄,本川達雄 [述]",
+          "publisher": [
+            "メディカル情報センター"
+          ],
+          "issued": "Fri, 25 Sep 2026 11:13:32 +0900",
+          "extent": null,
+          "subjects": [],
+          "categories": [
+            "映像資料",
+            "記録メディア"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971712334727477799"
+        },
+        {
+          "title": "「ゾウの時間・ネズミの時間」から睡眠を考える",
+          "titleTranscription": null,
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "本川, 達雄"
+          ],
+          "author": "本川, 達雄",
+          "publisher": [],
+          "issued": "2023-03",
+          "extent": null,
+          "subjects": [
+            ":time of animals, metabolic rate, sleep"
+          ],
+          "categories": [
+            "記事",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1050295956120168960"
+        },
+        {
+          "title": "ゾウの時間・ネズミの時間・現代人の時間",
+          "titleTranscription": null,
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "本川 達雄"
+          ],
+          "author": "本川 達雄",
+          "publisher": [],
+          "issued": "2017-03-31",
+          "extent": null,
+          "subjects": [
+            ":動物の時間, 代謝時間, 時間環境"
+          ],
+          "categories": [
+            "記事",
+            "デジタル"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1390282680182118272"
+        },
+        {
+          "title": "ゾウの時間ネズミの時間 : サイズの生物学",
+          "titleTranscription": "ゾウ　ノ　ジカン　ネズミ　ノ　ジカン : サイズ　ノ　セイブツガク",
+          "volume": null,
+          "seriesTitle": "中公新書ワイド版",
+          "creators": [
+            "本川, 達雄"
+          ],
+          "author": "本川, 達雄,本川達雄 著",
+          "publisher": [
+            "中央公論新社"
+          ],
+          "issued": "2003.10",
+          "extent": "２３０ｐ ; ２２ｃｍ",
+          "subjects": [
+            ":動物形態学",
+            "NDC9:481.1",
+            "NDC8:481"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "4121400143"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000001-I45111100922936"
+        },
+        {
+          "title": "ゾウの時間　ネズミの時間 : サイズの生物学",
+          "titleTranscription": "ゾウ　ノ　ジカン　ネズミ　ノ　ジカン : サイズ　ノ　セイブツガク",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "本川／達雄"
+          ],
+          "author": "本川／達雄,本川達雄 著",
+          "publisher": [
+            "中央公論社"
+          ],
+          "issued": "1993年",
+          "extent": "5巻",
+          "subjects": [
+            "NDC:481"
+          ],
+          "categories": [
+            "図書",
+            "記録メディア"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000038-I965570"
+        },
+        {
+          "title": "ゾウの時間ネズミの時間 : サイズの生物学",
+          "titleTranscription": "ゾウ ノ ジカン ネズミ ノ ジカン : サイズ ノ セイブツガク",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "本川, 達雄"
+          ],
+          "author": "本川, 達雄,本川達雄著",
+          "publisher": [
+            "中央公論新社"
+          ],
+          "issued": "2003.10",
+          "extent": null,
+          "subjects": [
+            ":動物生理学",
+            "NDC9:481.3",
+            "NDC8:481.3"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "4121400143"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809749823030"
+        }
+      ]
+    },
+    {
+      "book_id": "uchu-wa-nani",
+      "isbn": null,
+      "searchedBy": "title",
+      "method": 2,
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?title=%E5%AE%87%E5%AE%99%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%A7%E3%81%8D%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B&cnt=30",
+      "status": 200,
+      "items": [
+        {
+          "title": "宇宙は何でできているのか : 素粒子物理学で解く宇宙の謎",
+          "titleTranscription": "ウチュウ ワ ナニ デ デキテイルノカ : ソリュウシ ブツリガク デ トク ウチュウ ノ ナゾ",
+          "volume": null,
+          "seriesTitle": "幻冬舎新書 ; 187",
+          "creators": [
+            "村山, 斉"
+          ],
+          "author": "村山, 斉,村山斉 著",
+          "publisher": [
+            "幻冬舎"
+          ],
+          "issued": "2010.9",
+          "extent": "226p",
+          "subjects": [
+            ":宇宙論",
+            "NDLC:MB31",
+            "NDC9:443.9"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784344981881"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011046728"
+        },
+        {
+          "title": "新書大賞2011 大賞受賞インタビュー 『宇宙は何でできているのか』",
+          "titleTranscription": "シンショ タイショウ 2011 タイショウ ジュショウ インタビュー ウチュウ ワ ナン デ デキテ イル ノ カ",
+          "volume": null,
+          "seriesTitle": "新書大賞2011",
+          "creators": [
+            "村山 斉"
+          ],
+          "author": "村山 斉,村山 斉",
+          "publisher": [],
+          "issued": "Fri, 18 Feb 2011 22:35:18 +0900",
+          "extent": null,
+          "subjects": [
+            "NDLC:ZW1"
+          ],
+          "categories": [
+            "記事",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R000000004-I10960211"
+        },
+        {
+          "title": "Books&Trends 『宇宙は何でできているのか』を書いた、村山斉氏に聞く",
+          "titleTranscription": "Books Trends ウチュウ ワ ナン デ デキテ イル ノ カ オ カイタ ムラヤマ ヒトシシ ニ キク",
+          "volume": null,
+          "seriesTitle": null,
+          "creators": [
+            "村山 斉"
+          ],
+          "author": "村山 斉,村山 斉",
+          "publisher": [],
+          "issued": "Fri, 12 Nov 2010 22:36:03 +0900",
+          "extent": null,
+          "subjects": [
+            "NDLC:ZD1"
+          ],
+          "categories": [
+            "記事",
+            "紙"
+          ],
+          "isbns": [],
+          "link": "https://ndlsearch.ndl.go.jp/books/R000000004-I10868543"
+        }
+      ]
+    },
+    {
+      "book_id": "tenchi-meisatsu",
+      "isbn": "9784041003183",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784041003183&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "天地明察",
+          "titleTranscription": "テンチ メイサツ",
+          "volume": "上",
+          "seriesTitle": "角川文庫 ; う20-6",
+          "creators": [
+            "冲方, 丁, 1977-"
+          ],
+          "author": "冲方, 丁, 1977-,冲方丁 [著]",
+          "publisher": [
+            "角川書店",
+            "角川グループパブリッシング (発売)"
+          ],
+          "issued": "2012.5",
+          "extent": "282p",
+          "subjects": [
+            "NDLC:KH644",
+            "NDC9:913.6"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784041003183"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I023591522"
+        }
+      ]
+    },
+    {
+      "book_id": "shitamachi-rocket",
+      "isbn": "9784094088960",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784094088960&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "下町ロケット",
+          "titleTranscription": "シタマチ ロケット",
+          "volume": "ガウディ計画",
+          "seriesTitle": null,
+          "creators": [
+            "池井戸, 潤"
+          ],
+          "author": "池井戸, 潤,池井戸潤著",
+          "publisher": [
+            "小学館"
+          ],
+          "issued": "2013.12-",
+          "extent": null,
+          "subjects": [
+            "NDC9:913.6",
+            "NDC8:913.6"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784094088960",
+            "9784094088960"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971149384794429570"
+        },
+        {
+          "title": "下町ロケット",
+          "titleTranscription": "シタマチ ロケット",
+          "volume": null,
+          "seriesTitle": "小学館文庫 ; い39-3",
+          "creators": [
+            "池井戸, 潤, 1963-"
+          ],
+          "author": "池井戸, 潤, 1963-,池井戸潤 著",
+          "publisher": [
+            "小学館"
+          ],
+          "issued": "2013.12",
+          "extent": "493p",
+          "subjects": [
+            "NDLC:KH844",
+            "NDC9:913.6"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784094088960"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I025065907"
+        }
+      ]
+    },
+    {
+      "book_id": "hitsuji-to-hagane",
+      "isbn": "9784167910105",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784167910105&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "羊と鋼の森",
+          "titleTranscription": "ヒツジ ト ハガネ ノ モリ",
+          "volume": null,
+          "seriesTitle": "文春文庫 ; み43-2",
+          "creators": [
+            "宮下, 奈都"
+          ],
+          "author": "宮下, 奈都,宮下奈都 著",
+          "publisher": [
+            "文藝春秋"
+          ],
+          "issued": "2018.2",
+          "extent": "274p",
+          "subjects": [
+            "NDLC:KH874",
+            "NDC10:913.6"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784167910105"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I028779942"
+        }
+      ]
+    },
+    {
+      "book_id": "kagami-no-kojo",
+      "isbn": "9784591169711",
+      "searchedBy": "isbn",
+      "url": "https://ndlsearch.ndl.go.jp/api/opensearch?isbn=9784591169711&cnt=5",
+      "status": 200,
+      "items": [
+        {
+          "title": "かがみの孤城",
+          "titleTranscription": "カガミ ノ コジョウ",
+          "volume": "上",
+          "seriesTitle": "ポプラ文庫 ; つ1-1",
+          "creators": [
+            "辻村, 深月, 1980-"
+          ],
+          "author": "辻村, 深月, 1980-,辻村深月 [著]",
+          "publisher": [
+            "ポプラ社"
+          ],
+          "issued": "2021.3",
+          "extent": "411p",
+          "subjects": [
+            "NDLC:KH971",
+            "NDC10:913.6"
+          ],
+          "categories": [
+            "図書",
+            "紙"
+          ],
+          "isbns": [
+            "9784591169711"
+          ],
+          "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I031288891"
+        }
+      ]
+    }
+  ]
+}

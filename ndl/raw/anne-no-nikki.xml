@@ -1,0 +1,75 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>9784167651336 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?isbn=9784167651336&amp;cnt=5</link>
+    <description>Search results for isbn=9784167651336 cnt=5</description>
+    <language>ja</language>
+    <openSearch:totalResults>1</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
+    <item>
+      <title>アンネの日記</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000004088542</link>
+      <description><![CDATA[<p>文藝春秋,2003,4-16-765133-5<p><ul><li>タイトル：アンネの日記</li><li>タイトル（読み）：アンネ ノ ニッキ</li><li>責任表示：アンネ・フランク 著,深町眞理子 訳</li><li>シリーズ名：文春文庫</li><li>シリーズ名（読み）：ブンシュン ブンコ</li><li>NDC(9)：949.35</li></ul>]]></description>
+      <author>Frank, Anne, 1929-1945,深町, 真理子, 1931-,アンネ・フランク 著,深町眞理子 訳</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000004088542</guid>
+      <pubDate>Tue, 10 Jun 2003 23:41:23 +0900</pubDate>
+      <dc:title>アンネの日記</dc:title>
+      <dcndl:titleTranscription>アンネ ノ ニッキ</dcndl:titleTranscription>
+      <dc:creator>Frank, Anne, 1929-1945</dc:creator>
+      <dc:creator>深町, 真理子, 1931-</dc:creator>
+      <dcndl:creatorTranscription>フカマチ, マリコ, 1931-</dcndl:creatorTranscription>
+      <dcndl:edition>増補新訂版</dcndl:edition>
+      <dcndl:seriesTitle>文春文庫</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ブンシュン ブンコ</dcndl:seriesTitleTranscription>
+      <dc:publisher>文藝春秋</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2003</dc:date>
+      <dcterms:issued>2003.4</dcterms:issued>
+      <dcndl:price>838円</dcndl:price>
+      <dc:extent>597p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">4-16-765133-5</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">4-16-765133-5</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000004088542</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">20390086</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">GA87</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">949.35</dc:subject>
+      <dc:description>肖像あり</dc:description>
+      <dc:description>原タイトル: De dagboeken van Anne Frank</dc:description>
+      <dc:description>文献あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1006300026566"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.miyagi.jp/winj/opac/switch-detail-iccap.do?bibid=1100183334"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=1204981&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1152385270"/>
+      <rdfs:seeAlso rdf:resource="https://www.klnet.pref.kanagawa.jp/winj/opac/switch-detail-iccap.do?bibid=1101917312"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1103025767"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=208514&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=1011541"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1104338594/"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.yamanashi.jp/licsxp-opac/WOpacMnuTopInitAction.do"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.gifu.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1102810834"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009913004716"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000010509095"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000001596239"/>
+      <rdfs:seeAlso rdf:resource="https://opacsvr01.library.pref.nara.jp/opac/volume/1031262"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.wakayama-c.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1100440023"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1101076124"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009810454171"/>
+      <rdfs:seeAlso rdf:resource="https://www2.hplibra.pref.hiroshima.jp/bib/?B12012180"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1100629847"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1102046886"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1108582851"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009810564755"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.okinawa.jp/winj/opac/switch-detail-iccap.do?bibid=1108344461"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000004088542"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=2982181"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=3458207"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/1676513300000000000O"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784167651336"/>
+      <dc:description> 2003</dc:description>
+    </item>
+  </channel>
+</rss>

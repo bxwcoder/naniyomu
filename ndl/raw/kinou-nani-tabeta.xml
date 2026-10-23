@@ -1,0 +1,1110 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>きのう何食べた？ - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E3%81%8D%E3%81%AE%E3%81%86%E4%BD%95%E9%A3%9F%E3%81%B9%E3%81%9F%EF%BC%9F&amp;cnt=30</link>
+    <description>Search results for title=きのう何食べた？ cnt=30</description>
+    <language>ja</language>
+    <openSearch:totalResults>66</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>30</openSearch:itemsPerPage>
+    <item>
+      <title>味見したい本</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029363958</link>
+      <description><![CDATA[<p>筑摩書房,2018,978-4-480-43556-9<p><ul><li>タイトル：味見したい本</li><li>タイトル（読み）：アジミ シタイ ホン</li><li>責任表示：木村衣有子 著</li><li>シリーズ名：ちくま文庫 ; き34-2</li><li>シリーズ名（読み）：チクマ ブンコ ; キ-34-2</li><li>NDC(10)：019.9</li></ul>]]></description>
+      <author>木村, 衣有子, 1975-,木村衣有子 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I029363958</guid>
+      <pubDate>Sat, 23 Mar 2019 01:21:22 +0900</pubDate>
+      <dc:title>味見したい本</dc:title>
+      <dcndl:titleTranscription>アジミ シタイ ホン</dcndl:titleTranscription>
+      <dc:creator>木村, 衣有子, 1975-</dc:creator>
+      <dcndl:creatorTranscription>キムラ, ユウコ, 1975-</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>ちくま文庫 ; き34-2</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>チクマ ブンコ ; キ-34-2</dcndl:seriesTitleTranscription>
+      <dc:publisher>筑摩書房</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2018</dc:date>
+      <dcterms:issued>2018.12</dcterms:issued>
+      <dcndl:price>740円</dcndl:price>
+      <dc:extent>259p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-480-43556-9</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">029363958</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23183488</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">33857147</dc:identifier>
+      <dc:subject>読書</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">US61</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">019.9</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008001335669"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.tochigi.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1102307714"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=2863493&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1153292725"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113648270"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=3133521&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1000001190019/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1110379323/"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001103563972"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bib/?B13639491"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014608478"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007000887810"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009812271987"/>
+      <rdfs:seeAlso rdf:resource="https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1110286566"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1130096997"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001000707955"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1110122966"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I029363958"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4210496"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4408359"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000049-I033181761"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000073-I14107652"/>
+      <rdfs:seeAlso rdf:resource="https://www.kanabun.or.jp/CARIN/CARINOPACLINK.HTM?ID=B01116736"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971712334703455372"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/480E0000000003186000"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784480435569"/>
+      <dc:description> 2018</dc:description>
+    </item>
+    <item>
+      <title>インタビュー 劇場版『きのう何食べた?』 中江和仁監督に聞く 観る人に「幸福感」を与える劇場版のカギはどこに?</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I031774745</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：インタビュー 劇場版『きのう何食べた?』 中江和仁監督に聞く 観る人に「幸福感」を与える劇場版のカギはどこに?</li><li>タイトル（読み）：インタビュー ゲキジョウバン 『 キノウ ナン タベタ?』 ナカエ ワ ジン カントク ニ キク ミル ヒト ニ 「 コウフクカン 」 オ アタエル ゲキジョウバン ノ カギ ワ ドコ ニ?</li><li>責任表示：阪 清和</li></ul>]]></description>
+      <author>阪 清和,阪 清和</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I031774745</guid>
+      <pubDate>Mon, 8 Nov 2021 19:53:11 +0900</pubDate>
+      <dc:title>インタビュー 劇場版『きのう何食べた?』 中江和仁監督に聞く 観る人に「幸福感」を与える劇場版のカギはどこに?</dc:title>
+      <dcndl:titleTranscription>インタビュー ゲキジョウバン 『 キノウ ナン タベタ?』 ナカエ ワ ジン カントク ニ キク ミル ヒト ニ 「 コウフクカン 」 オ アタエル ゲキジョウバン ノ カギ ワ ドコ ニ?</dcndl:titleTranscription>
+      <dc:creator>阪 清和</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">031774745</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZW5</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I031774745"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1521980706167002624"/>
+      <dc:description>掲載誌：金曜日 42(通号 1374) p.28-31</dc:description>
+    </item>
+    <item>
+      <title>きのう何食べた?</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029711025</link>
+      <description><![CDATA[<p>「きのう何食べた?」製作委員会,2019,<p><ul><li>タイトル：きのう何食べた?</li><li>タイトル（読み）：キノウ ナニ タベタ</li><li>責任表示：よしながふみ 原作,安達奈緒子 脚本</li></ul>]]></description>
+      <author>よしながふみ 原作,安達奈緒子 脚本</author>
+      <category>映像資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I029711025</guid>
+      <pubDate>Thu, 24 Oct 2019 02:21:53 +0900</pubDate>
+      <dc:title>きのう何食べた?</dc:title>
+      <dcndl:titleTranscription>キノウ ナニ タベタ</dcndl:titleTranscription>
+      <dc:publisher>「きのう何食べた?」製作委員会</dc:publisher>
+      <dc:publisher>東宝 (発売)</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019.9</dcterms:issued>
+      <dcndl:price>19000円</dcndl:price>
+      <dc:extent>ビデオディスク 5枚 (359分)</dc:extent>
+      <dc:identifier xsi:type="dcndl:RIS502">TBR-29194D</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">029711025</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23280266</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YL331</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I029711025"/>
+      <dc:description> 2019</dc:description>
+    </item>
+    <item>
+      <title>きのう何食べた?シナリオブック</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I031862354</link>
+      <description><![CDATA[<p>ドラマ編,講談社,2021,978-4-06-524982-6<p><ul><li>タイトル：きのう何食べた?シナリオブック</li><li>タイトル（読み）：キノウ ナニ タベタ シナリオ ブック</li><li>責任表示：よしながふみ 原作,安達奈緒子 脚本</li><li>NDC(10)：912.7</li></ul>]]></description>
+      <author>よしなが, ふみ, 1971-,安達, 奈緒子,よしながふみ 原作,安達奈緒子 脚本</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I031862354</guid>
+      <pubDate>Thu, 27 Jan 2022 20:53:28 +0900</pubDate>
+      <dc:title>きのう何食べた?シナリオブック</dc:title>
+      <dcndl:titleTranscription>キノウ ナニ タベタ シナリオ ブック</dcndl:titleTranscription>
+      <dc:creator>よしなが, ふみ, 1971-</dc:creator>
+      <dc:creator>安達, 奈緒子</dc:creator>
+      <dcndl:creatorTranscription>ヨシナガ, フミ, 1971-</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>アダチ, ナオコ</dcndl:creatorTranscription>
+      <dcndl:volume>ドラマ編</dcndl:volume>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+      <dcterms:issued>2021.12</dcterms:issued>
+      <dcndl:price>1500円</dcndl:price>
+      <dc:extent>383p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-524982-6</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">031862354</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23635783</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">34287786</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">KH971</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">912.7</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=3164234&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113933046"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000015141081"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I031862354"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4395055"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4564749"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970023484953217155"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784065249826"/>
+      <dc:description> 2021</dc:description>
+    </item>
+    <item>
+      <title>きのう何食べた?正月スペシャル2020</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I030231703</link>
+      <description><![CDATA[<p>「きのう何食べた?正月スペシャル2020」製作委員会,2020,<p><ul><li>タイトル：きのう何食べた?正月スペシャル2020</li><li>タイトル（読み）：キノウ ナニ タベタ ? ショウガツ スペシャル 2020</li><li>責任表示：よしながふみ 原作,安達奈緒子 脚本</li></ul>]]></description>
+      <author>よしながふみ 原作,安達奈緒子 脚本</author>
+      <category>映像資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I030231703</guid>
+      <pubDate>Tue, 19 Oct 2021 23:57:43 +0900</pubDate>
+      <dc:title>きのう何食べた?正月スペシャル2020</dc:title>
+      <dcndl:titleTranscription>キノウ ナニ タベタ ? ショウガツ スペシャル 2020</dcndl:titleTranscription>
+      <dc:publisher>「きのう何食べた?正月スペシャル2020」製作委員会</dc:publisher>
+      <dc:publisher>東宝</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2020</dc:date>
+      <dcterms:issued>2020.4</dcterms:issued>
+      <dcndl:price>4800円</dcndl:price>
+      <dc:extent>Blu-ray Disc 1枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:RIS502">TBR-30008D</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">030231703</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23595350</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YL331</dc:subject>
+      <dc:description>出版</dc:description>
+      <dc:description>頒布</dc:description>
+      <dc:description>所要時間: 約75分</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I030231703"/>
+      <dc:description> 2020</dc:description>
+    </item>
+    <item>
+      <title>きのう何食べた? : シロさんの簡単レシピ : 公式ガイド&amp;レシピ</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909773626025</link>
+      <description><![CDATA[<p>[1],講談社,2019,9784065151327<p><ul><li>タイトル：きのう何食べた? : シロさんの簡単レシピ : 公式ガイド&レシピ</li><li>タイトル（読み）：キノウ ナニ タベタ シロサン ノ カンタン レシピ : コウシキ ガイド & レシピ</li><li>責任表示：講談社編</li><li>NDC(10)：778.8</li><li>NDC(9)：778.8</li></ul>]]></description>
+      <author>講談社,講談社編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909773626025</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>きのう何食べた? : シロさんの簡単レシピ : 公式ガイド&amp;レシピ</dc:title>
+      <dcndl:titleTranscription>キノウ ナニ タベタ シロサン ノ カンタン レシピ : コウシキ ガイド &amp; レシピ</dcndl:titleTranscription>
+      <dc:creator>講談社</dc:creator>
+      <dcndl:creatorTranscription>コウダンシャ</dcndl:creatorTranscription>
+      <dcndl:volume>[1]</dcndl:volume>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019.4</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9784065151327</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9784065151327</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BB28196985</dc:identifier>
+      <dc:subject>テレビドラマ</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">778.8</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">778.8</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">778.8</dc:subject>
+      <dc:description>記述は第3刷 (2019.5) による</dc:description>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970867909773626025"/>
+      <dc:description> 2019</dc:description>
+    </item>
+    <item>
+      <title>きのう何食べた?料理索引本 : 1-19巻</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I032329556</link>
+      <description><![CDATA[<p>諸国物産取扱永代屋,2021,<p><ul><li>タイトル：きのう何食べた?料理索引本 : 1-19巻</li><li>タイトル（読み）：キノウ ナニ タベタ ? リョウリ サクインボン : 1 - 19カン</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I032329556</guid>
+      <pubDate>Fri, 2 Sep 2022 18:30:38 +0900</pubDate>
+      <dc:title>きのう何食べた?料理索引本 : 1-19巻</dc:title>
+      <dcndl:titleTranscription>キノウ ナニ タベタ ? リョウリ サクインボン : 1 - 19カン</dcndl:titleTranscription>
+      <dc:publisher>諸国物産取扱永代屋</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+      <dcterms:issued>2021.12</dcterms:issued>
+      <dc:extent>37 p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">032329556</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23723642</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">Y93</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I032329556"/>
+      <dc:description> 2021</dc:description>
+    </item>
+    <item>
+      <title>きのう何食べた?</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434884247826</link>
+      <description><![CDATA[<p>1,講談社,2021,<p><ul><li>タイトル：きのう何食べた?</li><li>タイトル（読み）：キノウ ナニ タベタ ?</li><li>責任表示：よしながふみ</li><li>NDC(10)：726.1</li></ul>]]></description>
+      <author>よしなが, ふみ,よしながふみ</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434884247826</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>きのう何食べた?</dc:title>
+      <dcndl:titleTranscription>キノウ ナニ タベタ ?</dcndl:titleTranscription>
+      <dc:creator>よしなが, ふみ</dc:creator>
+      <dcndl:creatorTranscription>ヨシナガ, フミ</dcndl:creatorTranscription>
+      <dcndl:volume>1</dcndl:volume>
+      <dcndl:edition>劇場版公開記念ポストカード付き1-2巻セット</dcndl:edition>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+      <dcterms:issued>2021.10</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BC18886543</dc:identifier>
+      <dc:subject>漫画</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+      <dc:description>劇場版公開記念ポストカード付き1-2巻セットのセットISBN: 9784065258514</dc:description>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970586434884247826"/>
+      <dc:description> 2021</dc:description>
+    </item>
+    <item>
+      <title>きのう何食べた?</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009175737</link>
+      <description><![CDATA[<p>1,講談社,2007,978-4-06-372648-0<p><ul><li>タイトル：きのう何食べた?</li><li>タイトル（読み）：キノウ ナニ タベタ</li><li>責任表示：よしながふみ 著</li><li>シリーズ名：モーニングKC ; 1648</li><li>シリーズ名（読み）：モーニング KC</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>よしなが, ふみ, 1971-,よしながふみ 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009175737</guid>
+      <pubDate>Mon, 25 Oct 2021 19:15:31 +0900</pubDate>
+      <dc:title>きのう何食べた?</dc:title>
+      <dcndl:titleTranscription>キノウ ナニ タベタ</dcndl:titleTranscription>
+      <dc:creator>よしなが, ふみ, 1971-</dc:creator>
+      <dcndl:creatorTranscription>ヨシナガ, フミ, 1971-</dcndl:creatorTranscription>
+      <dcndl:volume>1</dcndl:volume>
+      <dcndl:seriesTitle>モーニングKC ; 1648</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>モーニング KC</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2007</dc:date>
+      <dcterms:issued>2007.11</dcterms:issued>
+      <dcndl:price>562円</dcndl:price>
+      <dc:extent>153p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-372648-0</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009175737</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21328789</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008000460033"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1108537188"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1108016981"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001010026839"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000012389399"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007000135833"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1116275145"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009175737"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4381484"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971149384794233662"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/0637264800100011000U"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784063726480"/>
+      <dc:description> 2007</dc:description>
+    </item>
+    <item>
+      <title>きのう何食べた?</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I031723269</link>
+      <description><![CDATA[<p>1,講談社,2021,<p><ul><li>タイトル：きのう何食べた?</li><li>タイトル（読み）：キノウ ナニ タベタ ?</li><li>責任表示：よしながふみ</li><li>シリーズ名：モーニングKC ; 1648</li><li>シリーズ名（読み）：モーニング KC ; 1648</li><li>NDC(10)：726.1</li></ul>]]></description>
+      <author>よしなが, ふみ, 1971-,よしながふみ</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I031723269</guid>
+      <pubDate>Mon, 25 Oct 2021 20:02:38 +0900</pubDate>
+      <dc:title>きのう何食べた?</dc:title>
+      <dcndl:titleTranscription>キノウ ナニ タベタ ?</dcndl:titleTranscription>
+      <dc:creator>よしなが, ふみ, 1971-</dc:creator>
+      <dcndl:creatorTranscription>ヨシナガ, フミ, 1971-</dcndl:creatorTranscription>
+      <dcndl:volume>1</dcndl:volume>
+      <dcndl:seriesTitle>モーニングKC ; 1648</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>モーニング KC ; 1648</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+      <dcterms:issued>2021.10</dcterms:issued>
+      <dc:extent>153 p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">031723269</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23597884</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+      <dc:description>出版</dc:description>
+      <dc:description>劇場版公開記念ポストカード付き1-2巻セット</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I031723269"/>
+      <dc:description> 2021</dc:description>
+    </item>
+    <item>
+      <title>きのう何食べた?</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I026494134</link>
+      <description><![CDATA[<p>10,講談社,2015,978-4-06-388446-3<p><ul><li>タイトル：きのう何食べた?</li><li>タイトル（読み）：キノウ ナニ タベタ</li><li>責任表示：よしながふみ 著</li><li>シリーズ名：モーニングKC ; 2446</li><li>シリーズ名（読み）：モーニング ケーシー ; 2446</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>よしなが, ふみ, 1971-,よしながふみ 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I026494134</guid>
+      <pubDate>Mon, 13 Dec 2021 21:05:18 +0900</pubDate>
+      <dc:title>きのう何食べた?</dc:title>
+      <dcndl:titleTranscription>キノウ ナニ タベタ</dcndl:titleTranscription>
+      <dc:creator>よしなが, ふみ, 1971-</dc:creator>
+      <dcndl:creatorTranscription>ヨシナガ, フミ, 1971-</dcndl:creatorTranscription>
+      <dcndl:volume>10</dcndl:volume>
+      <dcndl:seriesTitle>モーニングKC ; 2446</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>モーニング ケーシー ; 2446</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2015</dc:date>
+      <dcterms:issued>2015.6</dcterms:issued>
+      <dcndl:price>581円</dcndl:price>
+      <dc:extent>152p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-388446-3</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">026494134</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22596917</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">07347467</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008000951539"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1152658293"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113297438"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001510028103"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000013543025"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1120020326"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I026494134"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4474105"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/0638844600100011000R"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784063884463"/>
+      <dc:description> 2015</dc:description>
+    </item>
+    <item>
+      <title>きのう何食べた?</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I026861526</link>
+      <description><![CDATA[<p>11,講談社,2015,978-4-06-388527-9<p><ul><li>タイトル：きのう何食べた?</li><li>タイトル（読み）：キノウ ナニ タベタ</li><li>責任表示：よしながふみ 著</li><li>シリーズ名：モーニングKC ; 2527</li><li>シリーズ名（読み）：モーニング ケーシー ; 2527</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>よしなが, ふみ, 1971-,よしながふみ 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I026861526</guid>
+      <pubDate>Mon, 20 Dec 2021 20:29:32 +0900</pubDate>
+      <dc:title>きのう何食べた?</dc:title>
+      <dcndl:titleTranscription>キノウ ナニ タベタ</dcndl:titleTranscription>
+      <dc:creator>よしなが, ふみ, 1971-</dc:creator>
+      <dcndl:creatorTranscription>ヨシナガ, フミ, 1971-</dcndl:creatorTranscription>
+      <dcndl:volume>11</dcndl:volume>
+      <dcndl:seriesTitle>モーニングKC ; 2527</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>モーニング ケーシー ; 2527</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2015</dc:date>
+      <dcterms:issued>2015.11</dcterms:issued>
+      <dcndl:price>581円</dcndl:price>
+      <dc:extent>153p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-388527-9</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">026861526</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22660569</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">07356610</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008000996970"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1152732346"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113364990"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001510075936"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000013868699"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1120055688"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I026861526"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4474108"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/0638852700100011000V"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784063885279"/>
+      <rdfs:seeAlso rdf:resource="https://jinken.opac.jp/opac/Holding_list/search?rgtn=014808"/>
+      <dc:description> 2015</dc:description>
+    </item>
+    <item>
+      <title>きのう何食べた?</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I027656418</link>
+      <description><![CDATA[<p>12,講談社,2016,978-4-06-388647-4<p><ul><li>タイトル：きのう何食べた?</li><li>タイトル（読み）：キノウ ナニ タベタ</li><li>責任表示：よしながふみ 著</li><li>シリーズ名：モーニングKC ; 2647</li><li>シリーズ名（読み）：モーニング ケーシー ; 2647</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>よしなが, ふみ, 1971-,よしながふみ 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I027656418</guid>
+      <pubDate>Tue, 18 Jan 2022 23:01:53 +0900</pubDate>
+      <dc:title>きのう何食べた?</dc:title>
+      <dcndl:titleTranscription>キノウ ナニ タベタ</dcndl:titleTranscription>
+      <dc:creator>よしなが, ふみ, 1971-</dc:creator>
+      <dcndl:creatorTranscription>ヨシナガ, フミ, 1971-</dcndl:creatorTranscription>
+      <dcndl:volume>12</dcndl:volume>
+      <dcndl:seriesTitle>モーニングKC ; 2647</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>モーニング ケーシー ; 2647</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2016</dc:date>
+      <dcterms:issued>2016.10</dcterms:issued>
+      <dcndl:price>581円</dcndl:price>
+      <dc:extent>154p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-388647-4</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">027656418</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22803641</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">07375320</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008001099552"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1152900942"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113443097"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001610064651"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014192125"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1120143774"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I027656418"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4533166"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/06A0000000000007390L"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784063886474"/>
+      <rdfs:seeAlso rdf:resource="https://jinken.opac.jp/opac/Holding_list/search?rgtn=014809"/>
+      <dc:description> 2016</dc:description>
+    </item>
+    <item>
+      <title>きのう何食べた?</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I028505197</link>
+      <description><![CDATA[<p>13,講談社,2017,978-4-06-510261-9<p><ul><li>タイトル：きのう何食べた?</li><li>タイトル（読み）：キノウ ナニ タベタ</li><li>責任表示：よしながふみ 著</li><li>シリーズ名：モーニングKC ; 2772</li><li>シリーズ名（読み）：モーニング ケーシー ; 2772</li><li>NDC(10)：726.1</li></ul>]]></description>
+      <author>よしなが, ふみ, 1971-,よしながふみ 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I028505197</guid>
+      <pubDate>Tue, 18 Jan 2022 02:00:31 +0900</pubDate>
+      <dc:title>きのう何食べた?</dc:title>
+      <dcndl:titleTranscription>キノウ ナニ タベタ</dcndl:titleTranscription>
+      <dc:creator>よしなが, ふみ, 1971-</dc:creator>
+      <dcndl:creatorTranscription>ヨシナガ, フミ, 1971-</dcndl:creatorTranscription>
+      <dcndl:volume>13</dcndl:volume>
+      <dcndl:seriesTitle>モーニングKC ; 2772</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>モーニング ケーシー ; 2772</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2017</dc:date>
+      <dcterms:issued>2017.9</dcterms:issued>
+      <dcndl:price>581円</dcndl:price>
+      <dc:extent>151p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-510261-9</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">028505197</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22951911</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">07394242</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008001200540"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1153067792"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113536996"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001710049464"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014375277"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1120229081"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I028505197"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4601727"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/06A0000000000047117V"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784065102619"/>
+      <rdfs:seeAlso rdf:resource="https://jinken.opac.jp/opac/Holding_list/search?rgtn=014810"/>
+      <dc:description> 2017</dc:description>
+    </item>
+    <item>
+      <title>きのう何食べた?</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029094260</link>
+      <description><![CDATA[<p>14,講談社,2018,978-4-06-512028-6<p><ul><li>タイトル：きのう何食べた?</li><li>タイトル（読み）：キノウ ナニ タベタ</li><li>責任表示：よしながふみ 著</li><li>シリーズ名：モーニングKC</li><li>シリーズ名（読み）：モーニング ケーシー</li><li>NDC(10)：726.1</li></ul>]]></description>
+      <author>よしなが, ふみ, 1971-,よしながふみ 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I029094260</guid>
+      <pubDate>Mon, 24 Jan 2022 21:18:30 +0900</pubDate>
+      <dc:title>きのう何食べた?</dc:title>
+      <dcndl:titleTranscription>キノウ ナニ タベタ</dcndl:titleTranscription>
+      <dc:creator>よしなが, ふみ, 1971-</dc:creator>
+      <dcndl:creatorTranscription>ヨシナガ, フミ, 1971-</dcndl:creatorTranscription>
+      <dcndl:volume>14</dcndl:volume>
+      <dcndl:seriesTitle>モーニングKC</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>モーニング ケーシー</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2018</dc:date>
+      <dcterms:issued>2018.7</dcterms:issued>
+      <dcndl:price>581円</dcndl:price>
+      <dc:extent>151p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-512028-6</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">029094260</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23086672</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">07411269</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1153222117"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113622776"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001810038196"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014533556"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1120306637"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I029094260"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4601729"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/06A0000000000035527V"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784065120286"/>
+      <dc:description> 2018</dc:description>
+    </item>
+    <item>
+      <title>きのう何食べた?</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029572439</link>
+      <description><![CDATA[<p>15,講談社,2019,978-4-06-514949-2<p><ul><li>タイトル：きのう何食べた?</li><li>タイトル（読み）：キノウ ナニ タベタ</li><li>責任表示：よしながふみ 著</li><li>シリーズ名：モーニングKC</li><li>シリーズ名（読み）：モーニング ケーシー</li><li>NDC(10)：726.1</li></ul>]]></description>
+      <author>よしなが, ふみ, 1971-,よしながふみ 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I029572439</guid>
+      <pubDate>Mon, 31 Jan 2022 18:32:08 +0900</pubDate>
+      <dc:title>きのう何食べた?</dc:title>
+      <dcndl:titleTranscription>キノウ ナニ タベタ</dcndl:titleTranscription>
+      <dc:creator>よしなが, ふみ, 1971-</dc:creator>
+      <dcndl:creatorTranscription>ヨシナガ, フミ, 1971-</dcndl:creatorTranscription>
+      <dcndl:volume>15</dcndl:volume>
+      <dcndl:seriesTitle>モーニングKC</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>モーニング ケーシー</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019.3</dcterms:issued>
+      <dcndl:price>610円</dcndl:price>
+      <dc:extent>155p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-514949-2</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">029572439</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23224344</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">07424647</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008001363823"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1153339598"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113682050"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001810109583"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014660401"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1120366646"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I029572439"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4617887"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/06A0000000000097586A"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784065149492"/>
+      <rdfs:seeAlso rdf:resource="https://jinken.opac.jp/opac/Holding_list/search?rgtn=014812"/>
+      <dc:description> 2019</dc:description>
+    </item>
+    <item>
+      <title>きのう何食べた?</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I030135429</link>
+      <description><![CDATA[<p>16,講談社,2019,978-4-06-517831-7<p><ul><li>タイトル：きのう何食べた?</li><li>タイトル（読み）：キノウ ナニ タベタ</li><li>責任表示：よしながふみ 著</li><li>シリーズ名：モーニングKC</li><li>シリーズ名（読み）：モーニング ケーシー</li><li>NDC(10)：726.1</li></ul>]]></description>
+      <author>よしなが, ふみ, 1971-,よしながふみ 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I030135429</guid>
+      <pubDate>Mon, 7 Feb 2022 18:35:07 +0900</pubDate>
+      <dc:title>きのう何食べた?</dc:title>
+      <dcndl:titleTranscription>キノウ ナニ タベタ</dcndl:titleTranscription>
+      <dc:creator>よしなが, ふみ, 1971-</dc:creator>
+      <dcndl:creatorTranscription>ヨシナガ, フミ, 1971-</dcndl:creatorTranscription>
+      <dcndl:volume>16</dcndl:volume>
+      <dcndl:seriesTitle>モーニングKC</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>モーニング ケーシー</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019.12</dcterms:issued>
+      <dcndl:price>630円</dcndl:price>
+      <dc:extent>158p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-517831-7</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">030135429</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23333690</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">07441331</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008001442984"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1153483546"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113758082"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001910097184"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014795976"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1120433658"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I030135429"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4626896"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/06A0000000000165170G"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784065178317"/>
+      <dc:description> 2019</dc:description>
+    </item>
+    <item>
+      <title>きのう何食べた?</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I030563292</link>
+      <description><![CDATA[<p>17,講談社,2020,978-4-06-520309-5<p><ul><li>タイトル：きのう何食べた?</li><li>タイトル（読み）：キノウ ナニ タベタ</li><li>責任表示：よしながふみ 著</li><li>シリーズ名：モーニングKC</li><li>シリーズ名（読み）：モーニング ケーシー</li><li>NDC(10)：726.1</li></ul>]]></description>
+      <author>よしなが, ふみ, 1971-,よしながふみ 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I030563292</guid>
+      <pubDate>Mon, 14 Feb 2022 19:31:04 +0900</pubDate>
+      <dc:title>きのう何食べた?</dc:title>
+      <dcndl:titleTranscription>キノウ ナニ タベタ</dcndl:titleTranscription>
+      <dc:creator>よしなが, ふみ, 1971-</dc:creator>
+      <dcndl:creatorTranscription>ヨシナガ, フミ, 1971-</dcndl:creatorTranscription>
+      <dcndl:volume>17</dcndl:volume>
+      <dcndl:seriesTitle>モーニングKC</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>モーニング ケーシー</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2020</dc:date>
+      <dcterms:issued>2020.8</dcterms:issued>
+      <dcndl:price>640円</dcndl:price>
+      <dc:extent>154p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-520309-5</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">030563292</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23419515</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">07454068</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1153667652"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113808402"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014905846"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1120486887"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I030563292"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4631751"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/06A0000000000225949N"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784065203095"/>
+      <dc:description> 2020</dc:description>
+    </item>
+    <item>
+      <title>きのう何食べた?</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I031445253</link>
+      <description><![CDATA[<p>18,講談社,2021,978-4-06-523331-3<p><ul><li>タイトル：きのう何食べた?</li><li>タイトル（読み）：キノウ ナニ タベタ</li><li>責任表示：よしながふみ 著</li><li>シリーズ名：モーニングKC</li><li>シリーズ名（読み）：モーニング ケーシー</li><li>NDC(10)：726.1</li></ul>]]></description>
+      <author>よしなが, ふみ, 1971-,よしながふみ 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I031445253</guid>
+      <pubDate>Thu, 3 Jun 2021 20:50:39 +0900</pubDate>
+      <dc:title>きのう何食べた?</dc:title>
+      <dcndl:titleTranscription>キノウ ナニ タベタ</dcndl:titleTranscription>
+      <dc:creator>よしなが, ふみ, 1971-</dc:creator>
+      <dcndl:creatorTranscription>ヨシナガ, フミ, 1971-</dcndl:creatorTranscription>
+      <dcndl:volume>18</dcndl:volume>
+      <dcndl:seriesTitle>モーニングKC</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>モーニング ケーシー</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+      <dcterms:issued>2021.5</dcterms:issued>
+      <dcndl:price>650円</dcndl:price>
+      <dc:extent>154p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-523331-3</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">031445253</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23532860</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">07468198</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008001586718"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1153820057"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113881915"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002110014013"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000015039329"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1120552053"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I031445253"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4636135"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971149384859065497"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/06A0000000000307700W"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784065233313"/>
+      <rdfs:seeAlso rdf:resource="https://jinken.opac.jp/opac/Holding_list/search?rgtn=014815"/>
+      <dc:description> 2021</dc:description>
+    </item>
+    <item>
+      <title>きのう何食べた?</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909860341899</link>
+      <description><![CDATA[<p>19,講談社,2021,9784065257982<p><ul><li>タイトル：きのう何食べた?</li><li>タイトル（読み）：キノウ ナニ タベタ?</li><li>責任表示：よしながふみ著</li><li>NDC(10)：726.1</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>よしなが, ふみ,よしながふみ著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909860341899</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>きのう何食べた?</dc:title>
+      <dcndl:titleTranscription>キノウ ナニ タベタ?</dcndl:titleTranscription>
+      <dc:creator>よしなが, ふみ</dc:creator>
+      <dcndl:creatorTranscription>ヨシナガ, フミ</dcndl:creatorTranscription>
+      <dcndl:volume>19</dcndl:volume>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+      <dcterms:issued>2021.11</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9784065257982</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9784065257982</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BC11003563</dc:identifier>
+      <dc:subject>漫画</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008001631286"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1153905258"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113924407"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002110068838"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000015119110"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1120590642"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4636785"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970867909860341899"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/06A0000000000385024C"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784065257982"/>
+      <dc:description> 2021</dc:description>
+    </item>
+    <item>
+      <title>きのう何食べた? : バイリンガル版</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I031563150</link>
+      <description><![CDATA[<p>1,講談社,2021,978-4-06-523778-6<p><ul><li>タイトル：きのう何食べた? : バイリンガル版</li><li>タイトル（読み）：キノウ ナニ タベタ</li><li>責任表示：よしながふみ 著,マヤ・ローズウッド 訳</li><li>シリーズ名：KODANSHA BILINGUAL COMICS</li><li>NDC(10)：726.1</li></ul>]]></description>
+      <author>よしなが, ふみ, 1971-,Rosewood, Maya,よしながふみ 著,マヤ・ローズウッド 訳</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I031563150</guid>
+      <pubDate>Thu, 19 Aug 2021 18:05:47 +0900</pubDate>
+      <dc:title>きのう何食べた? : バイリンガル版</dc:title>
+      <dcndl:titleTranscription>キノウ ナニ タベタ</dcndl:titleTranscription>
+      <dc:creator>よしなが, ふみ, 1971-</dc:creator>
+      <dc:creator>Rosewood, Maya</dc:creator>
+      <dcndl:creatorTranscription>ヨシナガ, フミ, 1971-</dcndl:creatorTranscription>
+      <dcndl:volume>1</dcndl:volume>
+      <dcndl:seriesTitle>KODANSHA BILINGUAL COMICS</dcndl:seriesTitle>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+      <dcterms:issued>2021.7</dcterms:issued>
+      <dcndl:price>1200円</dcndl:price>
+      <dc:extent>159p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-523778-6</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">031563150</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23567746</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">34231631</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+      <dc:description>出版</dc:description>
+      <dc:description>英語併記</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000015069925"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1120566813"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I031563150"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971149384836900508"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/06A0000000000322613O"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784065237786"/>
+      <dc:description> 2021</dc:description>
+    </item>
+    <item>
+      <title>きのう何食べた?</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909850438182</link>
+      <description><![CDATA[<p>2,講談社,2021,<p><ul><li>タイトル：きのう何食べた?</li><li>タイトル（読み）：キノウ ナニ タベタ ?</li><li>責任表示：よしながふみ</li><li>NDC(10)：726.1</li></ul>]]></description>
+      <author>よしなが, ふみ,よしながふみ</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909850438182</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>きのう何食べた?</dc:title>
+      <dcndl:titleTranscription>キノウ ナニ タベタ ?</dcndl:titleTranscription>
+      <dc:creator>よしなが, ふみ</dc:creator>
+      <dcndl:creatorTranscription>ヨシナガ, フミ</dcndl:creatorTranscription>
+      <dcndl:volume>2</dcndl:volume>
+      <dcndl:edition>劇場版公開記念ポストカード付き1-2巻セット</dcndl:edition>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+      <dcterms:issued>2021.10</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BC18886645</dc:identifier>
+      <dc:subject>漫画</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+      <dc:description>劇場版公開記念ポストカード付き1-2巻セットのセットISBN: 9784065258514</dc:description>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970867909850438182"/>
+      <dc:description> 2021</dc:description>
+    </item>
+    <item>
+      <title>きのう何食べた?</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009826989</link>
+      <description><![CDATA[<p>2,講談社,2008,978-4-06-372754-8<p><ul><li>タイトル：きのう何食べた?</li><li>タイトル（読み）：キノウ ナニ タベタ</li><li>責任表示：よしながふみ 著</li><li>シリーズ名：モーニングKC ; 1754</li><li>シリーズ名（読み）：モーニング KC</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>よしなが, ふみ, 1971-,よしながふみ 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009826989</guid>
+      <pubDate>Mon, 1 Nov 2021 21:31:10 +0900</pubDate>
+      <dc:title>きのう何食べた?</dc:title>
+      <dcndl:titleTranscription>キノウ ナニ タベタ</dcndl:titleTranscription>
+      <dc:creator>よしなが, ふみ, 1971-</dc:creator>
+      <dcndl:creatorTranscription>ヨシナガ, フミ, 1971-</dcndl:creatorTranscription>
+      <dcndl:volume>2</dcndl:volume>
+      <dcndl:seriesTitle>モーニングKC ; 1754</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>モーニング KC</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2008</dc:date>
+      <dcterms:issued>2008.11</dcterms:issued>
+      <dcndl:price>562円</dcndl:price>
+      <dc:extent>150p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-372754-8</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009826989</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21517414</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008000311045"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1153501220"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1108092818"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000012122954"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001000568074"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1116151436"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009826989"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4392682"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/0637275400100011000M"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784063727548"/>
+      <rdfs:seeAlso rdf:resource="https://jinken.opac.jp/opac/Holding_list/search?rgtn=014799"/>
+      <dc:description> 2008</dc:description>
+    </item>
+    <item>
+      <title>きのう何食べた? : 限定版</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009899338</link>
+      <description><![CDATA[<p>2,講談社,2008,978-4-06-364744-0<p><ul><li>タイトル：きのう何食べた? : 限定版</li><li>タイトル（読み）：キノウ ナニ タベタ</li><li>責任表示：よしながふみ 著</li><li>シリーズ名：モーニングKCピース</li><li>シリーズ名（読み）：モーニング KC ピース</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>よしなが, ふみ, 1971-,よしながふみ 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009899338</guid>
+      <pubDate>Mon, 1 Nov 2021 20:42:22 +0900</pubDate>
+      <dc:title>きのう何食べた? : 限定版</dc:title>
+      <dcndl:titleTranscription>キノウ ナニ タベタ</dcndl:titleTranscription>
+      <dc:creator>よしなが, ふみ, 1971-</dc:creator>
+      <dcndl:creatorTranscription>ヨシナガ, フミ, 1971-</dcndl:creatorTranscription>
+      <dcndl:volume>2</dcndl:volume>
+      <dcndl:seriesTitle>モーニングKCピース</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>モーニング KC ピース</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2008</dc:date>
+      <dcterms:issued>2008.11</dcterms:issued>
+      <dcndl:price>914円</dcndl:price>
+      <dc:extent>150p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-364744-0</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009899338</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21513501</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009899338"/>
+      <dc:description> 2008</dc:description>
+    </item>
+    <item>
+      <title>きのう何食べた?</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I031736206</link>
+      <description><![CDATA[<p>2,講談社,2021,<p><ul><li>タイトル：きのう何食べた?</li><li>タイトル（読み）：キノウ ナニ タベタ ?</li><li>責任表示：よしながふみ</li><li>シリーズ名：モーニングKC ; 1754</li><li>シリーズ名（読み）：モーニング KC ; 1754</li><li>NDC(10)：726.1</li></ul>]]></description>
+      <author>よしなが, ふみ, 1971-,よしながふみ</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I031736206</guid>
+      <pubDate>Mon, 25 Oct 2021 20:02:48 +0900</pubDate>
+      <dc:title>きのう何食べた?</dc:title>
+      <dcndl:titleTranscription>キノウ ナニ タベタ ?</dcndl:titleTranscription>
+      <dc:creator>よしなが, ふみ, 1971-</dc:creator>
+      <dcndl:creatorTranscription>ヨシナガ, フミ, 1971-</dcndl:creatorTranscription>
+      <dcndl:volume>2</dcndl:volume>
+      <dcndl:seriesTitle>モーニングKC ; 1754</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>モーニング KC ; 1754</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+      <dcterms:issued>2021.10</dcterms:issued>
+      <dc:extent>150 p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">031736206</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23597885</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+      <dc:description>出版</dc:description>
+      <dc:description>劇場版公開記念ポストカード付き1-2巻セット</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I031736206"/>
+      <dc:description> 2021</dc:description>
+    </item>
+    <item>
+      <title>きのう何食べた?</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809767770534</link>
+      <description><![CDATA[<p>20,講談社,2022,9784065290538<p><ul><li>タイトル：きのう何食べた?</li><li>タイトル（読み）：キノウ ナニ タベタ?</li><li>責任表示：よしながふみ著</li><li>NDC(10)：726.1</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>よしなが, ふみ,よしながふみ著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809767770534</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>きのう何食べた?</dc:title>
+      <dcndl:titleTranscription>キノウ ナニ タベタ?</dcndl:titleTranscription>
+      <dc:creator>よしなが, ふみ</dc:creator>
+      <dcndl:creatorTranscription>ヨシナガ, フミ</dcndl:creatorTranscription>
+      <dcndl:volume>20</dcndl:volume>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2022</dc:date>
+      <dcterms:issued>2022.10</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9784065290538</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9784065290538</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BC17292361</dc:identifier>
+      <dc:subject>漫画</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1154083674"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1122012878"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002210054391"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000015275309"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1120667758"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4657934"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971993809767770534"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/06A0000000000538953E"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784065290538"/>
+      <dc:description> 2022</dc:description>
+    </item>
+    <item>
+      <title>きのう何食べた?</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I032434868</link>
+      <description><![CDATA[<p>20,講談社,2022,978-4-06-529614-1<p><ul><li>タイトル：きのう何食べた?</li><li>タイトル（読み）：キノウ ナニ タベタ ?</li><li>責任表示：よしながふみ</li><li>シリーズ名：プレミアムKC</li><li>シリーズ名（読み）：プレミアム KC</li><li>NDC(10)：726.1</li></ul>]]></description>
+      <author>よしなが, ふみ, 1971-,よしながふみ</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I032434868</guid>
+      <pubDate>Mon, 7 Nov 2022 19:32:48 +0900</pubDate>
+      <dc:title>きのう何食べた?</dc:title>
+      <dcndl:titleTranscription>キノウ ナニ タベタ ?</dcndl:titleTranscription>
+      <dc:creator>よしなが, ふみ, 1971-</dc:creator>
+      <dcndl:creatorTranscription>ヨシナガ, フミ, 1971-</dcndl:creatorTranscription>
+      <dcndl:volume>20</dcndl:volume>
+      <dcndl:edition>特装版</dcndl:edition>
+      <dcndl:seriesTitle>プレミアムKC</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>プレミアム KC</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2022</dc:date>
+      <dcterms:issued>2022.10</dcterms:issued>
+      <dcndl:price>1400円</dcndl:price>
+      <dc:extent>154 p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-529614-1</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">032434868</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23753366</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000015275315"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I032434868"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/06A0000000000734159V"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784065296141"/>
+      <dc:description> 2022</dc:description>
+    </item>
+    <item>
+      <title>きのう何食べた?</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I032816014</link>
+      <description><![CDATA[<p>21,講談社,2023,978-4-06-531536-1<p><ul><li>タイトル：きのう何食べた?</li><li>タイトル（読み）：キノウ ナニ タベタ</li><li>責任表示：よしながふみ 著</li><li>シリーズ名：モーニングKC</li><li>シリーズ名（読み）：モーニング ケーシー</li><li>NDC(10)：726.1</li></ul>]]></description>
+      <author>よしなが, ふみ, 1971-,よしながふみ 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I032816014</guid>
+      <pubDate>Thu, 29 Jun 2023 22:40:27 +0900</pubDate>
+      <dc:title>きのう何食べた?</dc:title>
+      <dcndl:titleTranscription>キノウ ナニ タベタ</dcndl:titleTranscription>
+      <dc:creator>よしなが, ふみ, 1971-</dc:creator>
+      <dcndl:creatorTranscription>ヨシナガ, フミ, 1971-</dcndl:creatorTranscription>
+      <dcndl:volume>21</dcndl:volume>
+      <dcndl:seriesTitle>モーニングKC</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>モーニング ケーシー</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2023</dc:date>
+      <dcterms:issued>2023.5</dcterms:issued>
+      <dcndl:price>650円</dcndl:price>
+      <dc:extent>148p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-531536-1</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">032816014</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23851538</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">07504942</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1154185049"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1122061366"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002310015207"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000015369921"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1120716190"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I032816014"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4708067"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970867909851658646"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/06A0000000000647930V"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784065315361"/>
+      <dc:description> 2023</dc:description>
+    </item>
+    <item>
+      <title>きのう何食べた?</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809759634196</link>
+      <description><![CDATA[<p>22,講談社,2023,9784065332948<p><ul><li>タイトル：きのう何食べた?</li><li>タイトル（読み）：キノウ ナニ タベタ?</li><li>責任表示：よしながふみ著</li><li>NDC(10)：726.1</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>よしなが, ふみ,よしながふみ著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809759634196</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>きのう何食べた?</dc:title>
+      <dcndl:titleTranscription>キノウ ナニ タベタ?</dcndl:titleTranscription>
+      <dc:creator>よしなが, ふみ</dc:creator>
+      <dcndl:creatorTranscription>ヨシナガ, フミ</dcndl:creatorTranscription>
+      <dcndl:volume>22</dcndl:volume>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2023</dc:date>
+      <dcterms:issued>2023.10</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9784065332948</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9784065332948</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BD04511754</dc:identifier>
+      <dc:subject>漫画</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1154256186"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1122098967"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002310055887"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000015436714"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1120748387"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4711294"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971993809759634196"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/06A0000000000710303N"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784065332948"/>
+      <dc:description> 2023</dc:description>
+    </item>
+    <item>
+      <title>きのう何食べた?</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I033114025</link>
+      <description><![CDATA[<p>22,講談社,2023,978-4-06-533537-6<p><ul><li>タイトル：きのう何食べた?</li><li>タイトル（読み）：キノウ ナニ タベタ ?</li><li>責任表示：よしながふみ</li><li>シリーズ名：プレミアムKC</li><li>シリーズ名（読み）：プレミアム KC</li><li>NDC(10)：726.1</li></ul>]]></description>
+      <author>よしなが, ふみ, 1971-,よしながふみ</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I033114025</guid>
+      <pubDate>Tue, 7 Nov 2023 02:15:18 +0900</pubDate>
+      <dc:title>きのう何食べた?</dc:title>
+      <dcndl:titleTranscription>キノウ ナニ タベタ ?</dcndl:titleTranscription>
+      <dc:creator>よしなが, ふみ, 1971-</dc:creator>
+      <dcndl:creatorTranscription>ヨシナガ, フミ, 1971-</dcndl:creatorTranscription>
+      <dcndl:volume>22</dcndl:volume>
+      <dcndl:edition>特装版</dcndl:edition>
+      <dcndl:seriesTitle>プレミアムKC</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>プレミアム KC</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2023</dc:date>
+      <dcterms:issued>2023.10</dcterms:issued>
+      <dcndl:price>1300円</dcndl:price>
+      <dc:extent>153 p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-533537-6</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033114025</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23903188</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I033114025"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/06A0000000000734160P"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784065335376"/>
+      <dc:description> 2023</dc:description>
+    </item>
+  </channel>
+</rss>

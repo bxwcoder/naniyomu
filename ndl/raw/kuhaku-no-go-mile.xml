@@ -1,0 +1,210 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>空白の五マイル - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E7%A9%BA%E7%99%BD%E3%81%AE%E4%BA%94%E3%83%9E%E3%82%A4%E3%83%AB&amp;cnt=30</link>
+    <description>Search results for title=空白の五マイル cnt=30</description>
+    <language>ja</language>
+    <openSearch:totalResults>5</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>30</openSearch:itemsPerPage>
+    <item>
+      <title>空白の五マイル : チベット、世界最大のツアンポー峡谷に挑む</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I023908577</link>
+      <description><![CDATA[<p>集英社,2012,978-4-08-746882-3<p><ul><li>タイトル：空白の五マイル : チベット、世界最大のツアンポー峡谷に挑む</li><li>タイトル（読み）：クウハク ノ ゴマイル : チベット セカイ サイダイ ノ ツアンポー キョウコク ニ イドム</li><li>責任表示：角幡唯介 著</li><li>シリーズ名：集英社文庫 ; か60-1</li><li>シリーズ名（読み）：シュウエイシャ ブンコ ; カ-60-1</li><li>NDC(9)：292.29</li></ul>]]></description>
+      <author>角幡, 唯介,角幡唯介 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I023908577</guid>
+      <pubDate>Fri, 9 Nov 2012 20:19:21 +0900</pubDate>
+      <dc:title>空白の五マイル : チベット、世界最大のツアンポー峡谷に挑む</dc:title>
+      <dcndl:titleTranscription>クウハク ノ ゴマイル : チベット セカイ サイダイ ノ ツアンポー キョウコク ニ イドム</dcndl:titleTranscription>
+      <dc:creator>角幡, 唯介</dc:creator>
+      <dcndl:creatorTranscription>カクハタ, ユウスケ</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>集英社文庫 ; か60-1</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>シュウエイシャ ブンコ ; カ-60-1</dcndl:seriesTitleTranscription>
+      <dc:publisher>集英社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2012</dc:date>
+      <dcterms:issued>2012.9</dcterms:issued>
+      <dcndl:price>600円</dcndl:price>
+      <dc:extent>318p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-08-746882-3</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">023908577</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22152700</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">32810474</dc:identifier>
+      <dc:subject>チベット--探検</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GE431</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">292.29</dc:subject>
+      <dc:description>文献あり 年表あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008000581310"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=270136&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1112068900"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=2327708&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=1664613"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001210063090"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000012593035"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.okinawa.jp/winj/opac/switch-detail-iccap.do?bibid=1100963690"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I023908577"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=2003493"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=3404343"/>
+      <rdfs:seeAlso rdf:resource="https://www.kanabun.or.jp/CARIN/CARINOPACLINK.HTM?ID=B00204797"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970586434933743790"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784087468823"/>
+      <dc:description> 2012</dc:description>
+    </item>
+    <item>
+      <title>空白の五マイル : チベット、世界最大のツアンポー峡谷に挑む</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000011037194</link>
+      <description><![CDATA[<p>集英社,2010,978-4-08-781470-5<p><ul><li>タイトル：空白の五マイル : チベット、世界最大のツアンポー峡谷に挑む</li><li>タイトル（読み）：クウハク ノ 5マイル : チベット セカイ サイダイ ノ ツアンポー キョウコク ニ イドム</li><li>責任表示：角幡唯介 著</li><li>NDC(9)：292.29</li></ul>]]></description>
+      <author>角幡, 唯介,角幡唯介 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000011037194</guid>
+      <pubDate>Thu, 16 Dec 2010 23:02:15 +0900</pubDate>
+      <dc:title>空白の五マイル : チベット、世界最大のツアンポー峡谷に挑む</dc:title>
+      <dcndl:titleTranscription>クウハク ノ 5マイル : チベット セカイ サイダイ ノ ツアンポー キョウコク ニ イドム</dcndl:titleTranscription>
+      <dc:creator>角幡, 唯介</dc:creator>
+      <dcndl:creatorTranscription>カクハタ, ユウスケ</dcndl:creatorTranscription>
+      <dc:publisher>集英社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2010</dc:date>
+      <dcterms:issued>2010.11</dcterms:issued>
+      <dcndl:price>1600円</dcndl:price>
+      <dc:extent>307p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-08-781470-5</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000011037194</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21846558</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NSMARCNO">114702300</dc:identifier>
+      <dc:subject>チベット--探検</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GE431</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">292.29</dc:subject>
+      <dc:description>文献あり 年表あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.hokkaido.jp/wo/opc_srh/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008000347543"/>
+      <rdfs:seeAlso rdf:resource="https://www.plib.pref.aomori.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1103219824"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.iwate.jp/opac/advanced-search"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.miyagi.jp/winj/opac/switch-detail-iccap.do?bibid=1101294677"/>
+      <rdfs:seeAlso rdf:resource="https://www.apl.pref.akita.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000517240"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.pref.yamagata.jp/winj/opac/switch-detail-iccap.do?bibid=1101987268"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.fcs.ed.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001102739151"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001001866102"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.tochigi.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101690447"/>
+      <rdfs:seeAlso rdf:resource="https://www1.library.pref.gunma.jp/winj/opac/switch-detail-iccap.do?bibid=1101964558"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=80190&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.chiba.lg.jp/licsxp-iopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000002139767"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1108220792"/>
+      <rdfs:seeAlso rdf:resource="https://www.klnet.pref.kanagawa.jp/winj/opac/switch-detail-iccap.do?bibid=1104036248"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1110082665"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=2030816&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=1547958"/>
+      <rdfs:seeAlso rdf:resource="https://opac.pref-lib.niigata.niigata.jp/winj/opac/switch-detail-iccap.do?bibid=1106478713"/>
+      <rdfs:seeAlso rdf:resource="https://lib2.lib.pref.toyama.jp/opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000089461"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1100000397581/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1104965765/"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.yamanashi.jp/licsxp-opac/WOpacMnuTopInitAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.nagano.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000403487"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.gifu.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1102662625"/>
+      <rdfs:seeAlso rdf:resource="https://www.tosyokan.pref.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000059350"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001101809655"/>
+      <rdfs:seeAlso rdf:resource="http://websv.aichi-pref-library.jp/winj/opac/switch-detail-iccap.do?bibid=1182394699"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001010072434"/>
+      <rdfs:seeAlso rdf:resource="http://opac1.library.pref.mie.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1102968990"/>
+      <rdfs:seeAlso rdf:resource="https://www.shiga-pref-library.jp/wo/opc_srh/srh_detail/2356347/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kyoto.jp/bib/?B10715639"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bib/?B12613507"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000012186959"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001000599955"/>
+      <rdfs:seeAlso rdf:resource="https://opacsvr01.library.pref.nara.jp/opac/volume/583351"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.wakayama-c.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1102230437"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1101737462"/>
+      <rdfs:seeAlso rdf:resource="https://www2.library.pref.shimane.lg.jp/opac/switch-detail-iccap.do?bibid=1110174703"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009811359882"/>
+      <rdfs:seeAlso rdf:resource="https://www2.hplibra.pref.hiroshima.jp/bib/?B11952261"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1103248170"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.yamaguchi.lg.jp//wo/opc_srh/srh_detail/1000819899/"/>
+      <rdfs:seeAlso rdf:resource="https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1103205308"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100400769"/>
+      <rdfs:seeAlso rdf:resource="https://www.ehimetosyokan.jp/winj/opac/switch-detail-iccap.do?bibid=1101045926"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.fukuoka.jp/winj/opac/switch-detail-iccap.do?bibid=1109193283"/>
+      <rdfs:seeAlso rdf:resource="https://www2.tosyo-saga.jp/kentosyo2/opac/switch-detail-iccap.do?bibid=1101370497"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000959715"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kumamoto.jp/winj/opac/switch-detail-iccap.do?bibid=1101109338"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1101776038"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.miyazaki.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101744349"/>
+      <rdfs:seeAlso rdf:resource="https://www2.library.pref.kagoshima.jp/kento/opac/switch-detail-iccap.do?bibid=1110071470"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000011037194"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=1642555"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=1716391"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=1743899"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=1743913"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000073-I8426037"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971993809698046366"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784087814705"/>
+      <rdfs:seeAlso rdf:resource="https://okuraken-lib.opac.jp/opac/Ndl/hlist?rgtn=900018160"/>
+      <dc:description> 2010</dc:description>
+    </item>
+    <item>
+      <title>第八回 開高健ノンフィクション賞受賞作発表 『空白の五マイル--人跡未踏のチベット・ツアンポー峡谷単独行』角幡唯介 インタビュー[含 選評]</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I11162735</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：第八回 開高健ノンフィクション賞受賞作発表 『空白の五マイル--人跡未踏のチベット・ツアンポー峡谷単独行』角幡唯介 インタビュー[含 選評]</li><li>タイトル（読み）：ダイ8カイ カイコウ ケン ノンフィクションショウ ジュショウサク ハッピョウ クウハク ノ 5マイル ジンセキ ミトウ ノ チベット ツアンポー キョウコク タンドクコウ カクハタ ユウスケ イ インタビュー ガン センピョウ</li><li>責任表示：角幡 唯介,河崎 三行</li></ul>]]></description>
+      <author>角幡 唯介,河崎 三行,角幡 唯介,河崎 三行</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I11162735</guid>
+      <pubDate>Fri, 29 Jul 2011 22:40:18 +0900</pubDate>
+      <dc:title>第八回 開高健ノンフィクション賞受賞作発表 『空白の五マイル--人跡未踏のチベット・ツアンポー峡谷単独行』角幡唯介 インタビュー[含 選評]</dc:title>
+      <dcndl:titleTranscription>ダイ8カイ カイコウ ケン ノンフィクションショウ ジュショウサク ハッピョウ クウハク ノ 5マイル ジンセキ ミトウ ノ チベット ツアンポー キョウコク タンドクコウ カクハタ ユウスケ イ インタビュー ガン センピョウ</dcndl:titleTranscription>
+      <dc:creator>角幡 唯介</dc:creator>
+      <dc:creator>河崎 三行</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">11162735</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZW1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I11162735"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1522543655033490048"/>
+      <dc:description>掲載誌：Kotoba 1 p.138～143</dc:description>
+    </item>
+    <item>
+      <title>第八回開高健ノンフィクション賞受賞作『空白の五マイル』刊行 対談 角幡唯介×高野秀行--生きるか死ぬかのストレートど真ん中</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I10906413</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：第八回開高健ノンフィクション賞受賞作『空白の五マイル』刊行 対談 角幡唯介×高野秀行--生きるか死ぬかのストレートど真ん中</li><li>タイトル（読み）：ダイ8カイ カイコウ タケシ ノンフィクションショウ ジュショウサク クウハク ノ 5マイル カンコウ タイダン カクハタ ユウスケ タカノ ヒデユキ イキル カ シヌ カ ノ ストレートドマンナカ</li><li>責任表示：角幡 唯介,高野 秀行</li></ul>]]></description>
+      <author>角幡 唯介,高野 秀行,角幡 唯介,高野 秀行</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I10906413</guid>
+      <pubDate>Fri, 17 Dec 2010 22:40:52 +0900</pubDate>
+      <dc:title>第八回開高健ノンフィクション賞受賞作『空白の五マイル』刊行 対談 角幡唯介×高野秀行--生きるか死ぬかのストレートど真ん中</dc:title>
+      <dcndl:titleTranscription>ダイ8カイ カイコウ タケシ ノンフィクションショウ ジュショウサク クウハク ノ 5マイル カンコウ タイダン カクハタ ユウスケ タカノ ヒデユキ イキル カ シヌ カ ノ ストレートドマンナカ</dcndl:titleTranscription>
+      <dc:creator>角幡 唯介</dc:creator>
+      <dc:creator>高野 秀行</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">10906413</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZU11</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I10906413"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1523106605530145920"/>
+      <dc:description>掲載誌：青春と読書 / 集英社 [編] 12(通号 413) p.8～13</dc:description>
+    </item>
+    <item>
+      <title>未知だらけの世界、まだまだ冒険は読める[角幡唯介著『空白の五マイル : チベット、世界最大のツアンポー峡谷に挑む』,本多勝一著『カナダ=エスキモー』,トール・ヘイエルダール著 水口志計夫訳『コン・ティキ号探検記』]</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I028028825</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：未知だらけの世界、まだまだ冒険は読める[角幡唯介著『空白の五マイル : チベット、世界最大のツアンポー峡谷に挑む』,本多勝一著『カナダ=エスキモー』,トール・ヘイエルダール著 水口志計夫訳『コン・ティキ号探検記』]</li><li>タイトル（読み）：ミチダラケ ノ セカイ 、 マダマダ ボウケン ワ ヨメル[カク ハタ タダカイチョ 『 クウハク ノ ゴマイル : チベット 、 セカイ サイダイ ノ ツアンポー キョウコク ニ イドム 』,ホンダショウ イチ チョ 『 カナダ=エスキモー 』,トール ・ ヘイエルダール チョ ミズグチ シケイフ ヤク 『 コン ・ ティキゴウ タンケンキ 』]</li><li>責任表示：伊藤 達生</li><li>シリーズ名：特集 このノンフィクションが凄い! ; 読む</li><li>シリーズ名（読み）：トクシュウ コノ ノンフィクション ガ スゴイ! ; ヨム</li></ul>]]></description>
+      <author>伊藤 達生,伊藤 達生</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I028028825</guid>
+      <pubDate>Tue, 14 Mar 2017 23:24:27 +0900</pubDate>
+      <dc:title>未知だらけの世界、まだまだ冒険は読める[角幡唯介著『空白の五マイル : チベット、世界最大のツアンポー峡谷に挑む』,本多勝一著『カナダ=エスキモー』,トール・ヘイエルダール著 水口志計夫訳『コン・ティキ号探検記』]</dc:title>
+      <dcndl:titleTranscription>ミチダラケ ノ セカイ 、 マダマダ ボウケン ワ ヨメル[カク ハタ タダカイチョ 『 クウハク ノ ゴマイル : チベット 、 セカイ サイダイ ノ ツアンポー キョウコク ニ イドム 』,ホンダショウ イチ チョ 『 カナダ=エスキモー 』,トール ・ ヘイエルダール チョ ミズグチ シケイフ ヤク 『 コン ・ ティキゴウ タンケンキ 』]</dcndl:titleTranscription>
+      <dc:creator>伊藤 達生</dc:creator>
+      <dcndl:seriesTitle>特集 このノンフィクションが凄い! ; 読む</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>トクシュウ コノ ノンフィクション ガ スゴイ! ; ヨム</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">028028825</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZW1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I028028825"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1521699230684004992"/>
+      <dc:description>掲載誌：Kotoba 27 p.86-89</dc:description>
+    </item>
+  </channel>
+</rss>

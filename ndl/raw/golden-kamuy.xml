@@ -1,0 +1,56 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>9784088900827 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?isbn=9784088900827&amp;cnt=5</link>
+    <description>Search results for isbn=9784088900827 cnt=5</description>
+    <language>ja</language>
+    <openSearch:totalResults>1</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
+    <item>
+      <title>ゴールデンカムイ</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I026025703</link>
+      <description><![CDATA[<p>1,集英社,2015,978-4-08-890082-7<p><ul><li>タイトル：ゴールデンカムイ</li><li>タイトル（読み）：ゴールデン カムイ</li><li>責任表示：野田サトル 著</li><li>シリーズ名：ヤングジャンプコミックス</li><li>シリーズ名（読み）：ヤング ジャンプ コミックス</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>野田, サトル,野田サトル 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I026025703</guid>
+      <pubDate>Mon, 13 Dec 2021 21:12:46 +0900</pubDate>
+      <dc:title>ゴールデンカムイ</dc:title>
+      <dcndl:titleTranscription>ゴールデン カムイ</dcndl:titleTranscription>
+      <dc:creator>野田, サトル</dc:creator>
+      <dcndl:creatorTranscription>ノダ, サトル</dcndl:creatorTranscription>
+      <dcndl:volume>1</dcndl:volume>
+      <dcndl:seriesTitle>ヤングジャンプコミックス</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ヤング ジャンプ コミックス</dcndl:seriesTitleTranscription>
+      <dc:publisher>集英社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2015</dc:date>
+      <dcterms:issued>2015.1</dcterms:issued>
+      <dcndl:price>514円</dcndl:price>
+      <dc:extent>1冊(ページ付なし)</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-08-890082-7</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">026025703</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22519017</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">07339210</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.hokkaido.jp/wo/opc_srh/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008001056334"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1152587917"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113837613"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1000000953447/"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001103333363"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001610019993"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014112111"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I026025703"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971430859724150431"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000014463800"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000034293700"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784088900827"/>
+      <dc:description> 2015</dc:description>
+    </item>
+  </channel>
+</rss>

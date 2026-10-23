@@ -1,0 +1,111 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>9784062820646 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?isbn=9784062820646&amp;cnt=5</link>
+    <description>Search results for isbn=9784062820646 cnt=5</description>
+    <language>ja</language>
+    <openSearch:totalResults>2</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
+    <item>
+      <title>裸でも生きる : 25歳女性起業家の号泣戦記</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009103262</link>
+      <description><![CDATA[<p>講談社,2007,978-4-06-282064-6<p><ul><li>タイトル：裸でも生きる : 25歳女性起業家の号泣戦記</li><li>タイトル（読み）：ハダカ デモ イキル : 25サイ ジョセイ キギョウカ ノ ゴウキュウ センキ</li><li>責任表示：山口絵理子 著</li><li>シリーズ名：講談社biz</li><li>シリーズ名（読み）：コウダンシャ biz</li><li>NDC(9)：289.1</li></ul>]]></description>
+      <author>山口, 絵理子,山口絵理子 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009103262</guid>
+      <pubDate>Thu, 11 Oct 2007 20:48:08 +0900</pubDate>
+      <dc:title>裸でも生きる : 25歳女性起業家の号泣戦記</dc:title>
+      <dcndl:titleTranscription>ハダカ デモ イキル : 25サイ ジョセイ キギョウカ ノ ゴウキュウ センキ</dcndl:titleTranscription>
+      <dc:creator>山口, 絵理子</dc:creator>
+      <dcndl:creatorTranscription>ヤマグチ, エリコ</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>講談社biz</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>コウダンシャ biz</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2007</dc:date>
+      <dcterms:issued>2007.9</dcterms:issued>
+      <dcndl:price>1400円</dcndl:price>
+      <dc:extent>263p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-282064-6</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009103262</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21297317</dc:identifier>
+      <dc:subject>山口, 絵理子</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">GK157</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">289.1</dc:subject>
+      <dc:description>年譜あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.hokkaido.jp/wo/opc_srh/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1006700451076"/>
+      <rdfs:seeAlso rdf:resource="https://www.plib.pref.aomori.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1102884436"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.pref.yamagata.jp/winj/opac/switch-detail-iccap.do?bibid=1101672857"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.fcs.ed.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001102417115"/>
+      <rdfs:seeAlso rdf:resource="https://www1.library.pref.gunma.jp/winj/opac/switch-detail-iccap.do?bibid=1101567538"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=2157619&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1107310775"/>
+      <rdfs:seeAlso rdf:resource="https://www.klnet.pref.kanagawa.jp/winj/opac/switch-detail-iccap.do?bibid=1103279442"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1107067439"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=623771&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=1326864"/>
+      <rdfs:seeAlso rdf:resource="https://lib2.lib.pref.toyama.jp/opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009810720737"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1104703767/"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.yamanashi.jp/licsxp-opac/WOpacMnuTopInitAction.do"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.gifu.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1102735113"/>
+      <rdfs:seeAlso rdf:resource="http://websv.aichi-pref-library.jp/winj/opac/switch-detail-iccap.do?bibid=1182053989"/>
+      <rdfs:seeAlso rdf:resource="https://www.shiga-pref-library.jp/wo/opc_srh/srh_detail/2067589/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bib/?B12269547"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000011497460"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000700285228"/>
+      <rdfs:seeAlso rdf:resource="https://opacsvr01.library.pref.nara.jp/opac/volume/517004"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.wakayama-c.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1100525645"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1101449996"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009811005940"/>
+      <rdfs:seeAlso rdf:resource="https://www2.hplibra.pref.hiroshima.jp/bib/?B11934666"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1102921113"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.yamaguchi.lg.jp//wo/opc_srh/srh_detail/1000468436/"/>
+      <rdfs:seeAlso rdf:resource="https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1102598470"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.fukuoka.jp/winj/opac/switch-detail-iccap.do?bibid=1106441522"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.fukuoka.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100244248"/>
+      <rdfs:seeAlso rdf:resource="https://www2.tosyo-saga.jp/kentosyo2/opac/switch-detail-iccap.do?bibid=1101050670"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000206299"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.miyazaki.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101664209"/>
+      <rdfs:seeAlso rdf:resource="https://www2.library.pref.kagoshima.jp/kento/opac/switch-detail-iccap.do?bibid=1107051055"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.okinawa.jp/winj/opac/switch-detail-iccap.do?bibid=1100371075"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009103262"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=1218368"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=1235723"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=1289244"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784062820646"/>
+      <rdfs:seeAlso rdf:resource="https://jinken.opac.jp/opac/Holding_list/search?rgtn=013484"/>
+      <dc:description> 2007</dc:description>
+    </item>
+    <item>
+      <title>25歳女性起業家の号泣戦記</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434868059539</link>
+      <description><![CDATA[<p>講談社,2007,9784062820646<p><ul><li>タイトル：25歳女性起業家の号泣戦記</li><li>タイトル（読み）：25サイ ジョセイ キギョウカ ノ ゴウキュウ センキ</li><li>責任表示：山口絵理子著</li><li>NDC(9)：589.27</li></ul>]]></description>
+      <author>山口, 絵理子,山口絵理子著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434868059539</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>25歳女性起業家の号泣戦記</dc:title>
+      <dcndl:titleTranscription>25サイ ジョセイ キギョウカ ノ ゴウキュウ センキ</dcndl:titleTranscription>
+      <dc:creator>山口, 絵理子</dc:creator>
+      <dcndl:creatorTranscription>ヤマグチ, エリコ</dcndl:creatorTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2007</dc:date>
+      <dcterms:issued>2007.9</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9784062820646</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9784062820646</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BA83259819</dc:identifier>
+      <dc:subject>山口, 絵理子</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">589.27</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">589.27</dc:subject>
+      <dc:description>山口絵理子とマザーハウスの歩み: p262-263</dc:description>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970586434868059539"/>
+      <dc:description> 2007</dc:description>
+    </item>
+  </channel>
+</rss>

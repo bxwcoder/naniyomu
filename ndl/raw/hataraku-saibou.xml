@@ -1,0 +1,88 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>9784063765601 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?isbn=9784063765601&amp;cnt=5</link>
+    <description>Search results for isbn=9784063765601 cnt=5</description>
+    <language>ja</language>
+    <openSearch:totalResults>2</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
+    <item>
+      <title>はたらく細胞</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I026561403</link>
+      <description><![CDATA[<p>01,講談社,2015,978-4-06-376560-1<p><ul><li>タイトル：はたらく細胞</li><li>タイトル（読み）：ハタラク サイボウ</li><li>責任表示：清水茜 著</li><li>シリーズ名：シリウスKC ; 560</li><li>シリーズ名（読み）：シリウス ケーシー ; 560</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>清水, 茜, 1994-,清水茜 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I026561403</guid>
+      <pubDate>Mon, 13 Dec 2021 20:47:08 +0900</pubDate>
+      <dc:title>はたらく細胞</dc:title>
+      <dcndl:titleTranscription>ハタラク サイボウ</dcndl:titleTranscription>
+      <dc:creator>清水, 茜, 1994-</dc:creator>
+      <dcndl:creatorTranscription>シミズ, アカネ, 1994-</dcndl:creatorTranscription>
+      <dcndl:volume>01</dcndl:volume>
+      <dcndl:seriesTitle>シリウスKC ; 560</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>シリウス ケーシー ; 560</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2015</dc:date>
+      <dcterms:issued>2015.7</dcterms:issued>
+      <dcndl:price>600円</dcndl:price>
+      <dc:extent>1冊</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-376560-1</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">026561403</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22611427</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">07348853</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008001327972"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113888452"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=2434486"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=2692305"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014596191"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007000794941"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007000880241"/>
+      <rdfs:seeAlso rdf:resource="https://www2.hplibra.pref.hiroshima.jp/bib/?B12505908"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I026561403"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=3942703"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bibj/?B16530528"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970870100965589654"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971430859805287820"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/0637656000100011000Y"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784063765601"/>
+      <dc:description> 2015</dc:description>
+    </item>
+    <item>
+      <title>はたらく細胞</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434794507811</link>
+      <description><![CDATA[<p>1,講談社,2015,9784063765601<p><ul><li>タイトル：はたらく細胞</li><li>タイトル（読み）：ハタラク サイボウ</li><li>責任表示：清水茜著</li><li>NDC(10)：726.1</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>清水, 茜,清水茜著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434794507811</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>はたらく細胞</dc:title>
+      <dcndl:titleTranscription>ハタラク サイボウ</dcndl:titleTranscription>
+      <dc:creator>清水, 茜</dc:creator>
+      <dcndl:creatorTranscription>シミズ, アカネ</dcndl:creatorTranscription>
+      <dcndl:volume>1</dcndl:volume>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2015</dc:date>
+      <dcterms:issued>2015.7-</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9784063765601</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9784063765601</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BB20195027</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">726.1</dc:subject>
+      <dc:description>1の第36刷 (2020.9) にはシリーズ番号「560」なし</dc:description>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970586434794507811"/>
+      <dc:description> 2015</dc:description>
+    </item>
+  </channel>
+</rss>

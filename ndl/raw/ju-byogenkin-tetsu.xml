@@ -1,0 +1,65 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>9784794218780 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?isbn=9784794218780&amp;cnt=5</link>
+    <description>Search results for isbn=9784794218780 cnt=5</description>
+    <language>ja</language>
+    <openSearch:totalResults>1</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
+    <item>
+      <title>銃・病原菌・鉄</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I023352457</link>
+      <description><![CDATA[<p>上巻,草思社,2012,978-4-7942-1878-0<p><ul><li>タイトル：銃・病原菌・鉄</li><li>タイトル（読み）：ジュウ ビョウゲンキン テツ</li><li>責任表示：ジャレド・ダイアモンド 著,倉骨彰 訳</li><li>シリーズ名：草思社文庫 ; ダ1-1</li><li>シリーズ名（読み）：ソウシシャ ブンコ ; ダ(1)(1)</li><li>NDC(9)：361.5</li></ul>]]></description>
+      <author>Diamond, Jared M,倉骨, 彰, 1947-,ジャレド・ダイアモンド 著,倉骨彰 訳</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I023352457</guid>
+      <pubDate>Wed, 23 Aug 2017 07:01:38 +0900</pubDate>
+      <dc:title>銃・病原菌・鉄</dc:title>
+      <dcndl:titleTranscription>ジュウ ビョウゲンキン テツ</dcndl:titleTranscription>
+      <dc:creator>Diamond, Jared M</dc:creator>
+      <dc:creator>倉骨, 彰, 1947-</dc:creator>
+      <dcndl:creatorTranscription>クラホネ, アキラ, 1947-</dcndl:creatorTranscription>
+      <dcndl:volume>上巻</dcndl:volume>
+      <dcndl:seriesTitle>草思社文庫 ; ダ1-1</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ソウシシャ ブンコ ; ダ(1)(1)</dcndl:seriesTitleTranscription>
+      <dc:publisher>草思社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2012</dc:date>
+      <dcterms:issued>2012.2</dcterms:issued>
+      <dcndl:price>900円</dcndl:price>
+      <dc:extent>395, 17p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-7942-1878-0</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">023352457</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22048490</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NSMARCNO">131461600</dc:identifier>
+      <dc:subject>社会変動</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">EC212</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">361.5</dc:subject>
+      <dc:description>原タイトル: Guns, germs, and steel</dc:description>
+      <dc:description>文献あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.hokkaido.jp/wo/opc_srh/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008000495489"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=203322&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1152018002"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1112007207"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=2248349&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=1625233"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1100000521579/"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.yamanashi.jp/licsxp-opac/WOpacMnuTopInitAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001110169336"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000012446371"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007000165783"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.yamaguchi.lg.jp//wo/opc_srh/srh_detail/1000947995/"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.fukuoka.jp/winj/opac/switch-detail-iccap.do?bibid=1109314786"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1102157500"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I023352457"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971430859861004567"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/79421878000000000000"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784794218780"/>
+      <dc:description> 2012</dc:description>
+    </item>
+  </channel>
+</rss>

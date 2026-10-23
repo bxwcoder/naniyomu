@@ -1,0 +1,177 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>宇宙は何でできているのか - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E5%AE%87%E5%AE%99%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%A7%E3%81%8D%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B&amp;cnt=30</link>
+    <description>Search results for title=宇宙は何でできているのか cnt=30</description>
+    <language>ja</language>
+    <openSearch:totalResults>5</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>30</openSearch:itemsPerPage>
+    <item>
+      <title>宇宙は何でできているのか : 素粒子物理学で解く宇宙の謎</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000011046728</link>
+      <description><![CDATA[<p>幻冬舎,2010,978-4-344-98188-1<p><ul><li>タイトル：宇宙は何でできているのか : 素粒子物理学で解く宇宙の謎</li><li>タイトル（読み）：ウチュウ ワ ナニ デ デキテイルノカ : ソリュウシ ブツリガク デ トク ウチュウ ノ ナゾ</li><li>責任表示：村山斉 著</li><li>シリーズ名：幻冬舎新書 ; 187</li><li>シリーズ名（読み）：ゲントウシャ シンショ ; 187</li><li>NDC(9)：443.9</li></ul>]]></description>
+      <author>村山, 斉,村山斉 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000011046728</guid>
+      <pubDate>Fri, 8 Apr 2011 00:57:36 +0900</pubDate>
+      <dc:title>宇宙は何でできているのか : 素粒子物理学で解く宇宙の謎</dc:title>
+      <dcndl:titleTranscription>ウチュウ ワ ナニ デ デキテイルノカ : ソリュウシ ブツリガク デ トク ウチュウ ノ ナゾ</dcndl:titleTranscription>
+      <dc:creator>村山, 斉</dc:creator>
+      <dcndl:creatorTranscription>ムラヤマ, ヒトシ</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>幻冬舎新書 ; 187</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ゲントウシャ シンショ ; 187</dcndl:seriesTitleTranscription>
+      <dc:publisher>幻冬舎</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2010</dc:date>
+      <dcterms:issued>2010.9</dcterms:issued>
+      <dcndl:price>800円</dcndl:price>
+      <dc:extent>226p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-344-98188-1</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000011046728</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21906396</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NSMARCNO">114059200</dc:identifier>
+      <dc:subject>宇宙論</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">MB31</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">443.9</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.hokkaido.jp/wo/opc_srh/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008000331139"/>
+      <rdfs:seeAlso rdf:resource="https://www.plib.pref.aomori.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1103205491"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.iwate.jp/opac/advanced-search"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.miyagi.jp/winj/opac/switch-detail-iccap.do?bibid=1101280630"/>
+      <rdfs:seeAlso rdf:resource="https://www.apl.pref.akita.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000503523"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.fcs.ed.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001102725173"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001001849397"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.tochigi.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101681341"/>
+      <rdfs:seeAlso rdf:resource="https://www1.library.pref.gunma.jp/winj/opac/switch-detail-iccap.do?bibid=1101941602"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp/winj/opac/switch-detail-iccap.do?bibid=1101088557"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=66495&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.chiba.lg.jp/licsxp-iopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000002125032"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1108187266"/>
+      <rdfs:seeAlso rdf:resource="https://www.klnet.pref.kanagawa.jp/winj/opac/switch-detail-iccap.do?bibid=1104011503"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1110070657"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=2014708&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=1539161"/>
+      <rdfs:seeAlso rdf:resource="https://opac.pref-lib.niigata.niigata.jp/winj/opac/switch-detail-iccap.do?bibid=1106467011"/>
+      <rdfs:seeAlso rdf:resource="https://lib2.lib.pref.toyama.jp/opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000077148"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1100000383322/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1104956641/"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.yamanashi.jp/licsxp-opac/WOpacMnuTopInitAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.nagano.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000386010"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.gifu.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1102903079"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001101772924"/>
+      <rdfs:seeAlso rdf:resource="http://websv.aichi-pref-library.jp/winj/opac/switch-detail-iccap.do?bibid=1182380324"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001010057532"/>
+      <rdfs:seeAlso rdf:resource="http://opac1.library.pref.mie.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1102936153"/>
+      <rdfs:seeAlso rdf:resource="https://www.shiga-pref-library.jp/wo/opc_srh/srh_detail/2344859/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kyoto.jp/bib/?B10713210"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bib/?B12599418"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000012158586"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001000585544"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.hyogo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1103065878"/>
+      <rdfs:seeAlso rdf:resource="https://opacsvr01.library.pref.nara.jp/opac/volume/582869"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.wakayama-c.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1102214900"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1101726751"/>
+      <rdfs:seeAlso rdf:resource="https://www2.library.pref.shimane.lg.jp/opac/switch-detail-iccap.do?bibid=1110154685"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009811343182"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1103233126"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.yamaguchi.lg.jp//wo/opc_srh/srh_detail/1000806082/"/>
+      <rdfs:seeAlso rdf:resource="https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1103184712"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100390837"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1109314731"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000942145"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1101768172"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.miyazaki.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101720960"/>
+      <rdfs:seeAlso rdf:resource="https://www2.library.pref.kagoshima.jp/kento/opac/switch-detail-iccap.do?bibid=1110059597"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.okinawa.jp/winj/opac/switch-detail-iccap.do?bibid=1100719422"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000011046728"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=1630140"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=1721688"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=1741513"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=1762488"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971712334807787029"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/90357800000000106039"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784344981881"/>
+      <dc:description> 2010</dc:description>
+    </item>
+    <item>
+      <title>新書大賞2011 大賞受賞インタビュー 『宇宙は何でできているのか』</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I10960211</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：新書大賞2011 大賞受賞インタビュー 『宇宙は何でできているのか』</li><li>タイトル（読み）：シンショ タイショウ 2011 タイショウ ジュショウ インタビュー ウチュウ ワ ナン デ デキテ イル ノ カ</li><li>責任表示：村山 斉</li><li>シリーズ名：新書大賞2011</li><li>シリーズ名（読み）：シンショ タイショウ 2011</li></ul>]]></description>
+      <author>村山 斉,村山 斉</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I10960211</guid>
+      <pubDate>Fri, 18 Feb 2011 22:35:18 +0900</pubDate>
+      <dc:title>新書大賞2011 大賞受賞インタビュー 『宇宙は何でできているのか』</dc:title>
+      <dcndl:titleTranscription>シンショ タイショウ 2011 タイショウ ジュショウ インタビュー ウチュウ ワ ナン デ デキテ イル ノ カ</dcndl:titleTranscription>
+      <dc:creator>村山 斉</dc:creator>
+      <dcndl:seriesTitle>新書大賞2011</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>シンショ タイショウ 2011</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">10960211</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZW1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I10960211"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1523106605481466752"/>
+      <dc:description>掲載誌：中央公論 3(通号 1523) p.25～27</dc:description>
+    </item>
+    <item>
+      <title>文献紹介 村山斉『宇宙は何でできているのか』</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I11290862</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：文献紹介 村山斉『宇宙は何でできているのか』</li><li>タイトル（読み）：ブンケン ショウカイ ムラヤマ ヒトシ ウチュウ ワ ナン デ デキテ イル ノ カ</li><li>責任表示：山田 寛</li></ul>]]></description>
+      <author>山田 寛,山田 寛</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I11290862</guid>
+      <pubDate>Fri, 11 Nov 2011 01:12:28 +0900</pubDate>
+      <dc:title>文献紹介 村山斉『宇宙は何でできているのか』</dc:title>
+      <dcndl:titleTranscription>ブンケン ショウカイ ムラヤマ ヒトシ ウチュウ ワ ナン デ デキテ イル ノ カ</dcndl:titleTranscription>
+      <dc:creator>山田 寛</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">11290862</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZV1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I11290862"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520572359419859712"/>
+      <dc:description>掲載誌：東亜大学紀要 = Bulletin of University of East Asia 14 p.61～63</dc:description>
+    </item>
+    <item>
+      <title>村上斉『宇宙は何でできているのか』</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1050845762541651584</link>
+      <description><![CDATA[<p>2011-07,<p><ul><li>タイトル：村上斉『宇宙は何でできているのか』</li></ul>]]></description>
+      <author>山田, 寛</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1050845762541651584</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>村上斉『宇宙は何でできているのか』</dc:title>
+      <dc:creator>山田, 寛</dc:creator>
+      <dcndl:creatorTranscription>ヤマダ ヒロシ</dcndl:creatorTranscription>
+      <dc:date xsi:type="dcterms:W3CDTF">2011-07</dc:date>
+      <dcterms:issued>2011-07</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://ypir.lib.yamaguchi-u.ac.jp/ea/209"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1050845762541651584"/>
+      <dc:description>掲載誌：東亜大学紀要 2011-07 p.61-64</dc:description>
+    </item>
+    <item>
+      <title>Books&amp;Trends 『宇宙は何でできているのか』を書いた、村山斉氏に聞く</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I10868543</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：Books&Trends 『宇宙は何でできているのか』を書いた、村山斉氏に聞く</li><li>タイトル（読み）：Books Trends ウチュウ ワ ナン デ デキテ イル ノ カ オ カイタ ムラヤマ ヒトシシ ニ キク</li><li>責任表示：村山 斉</li></ul>]]></description>
+      <author>村山 斉,村山 斉</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I10868543</guid>
+      <pubDate>Fri, 12 Nov 2010 22:36:03 +0900</pubDate>
+      <dc:title>Books&amp;Trends 『宇宙は何でできているのか』を書いた、村山斉氏に聞く</dc:title>
+      <dcndl:titleTranscription>Books Trends ウチュウ ワ ナン デ デキテ イル ノ カ オ カイタ ムラヤマ ヒトシシ ニ キク</dcndl:titleTranscription>
+      <dc:creator>村山 斉</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">10868543</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZD1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I10868543"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520291855928368768"/>
+      <dc:description>掲載誌：週刊東洋経済 6293 p.128～129</dc:description>
+    </item>
+  </channel>
+</rss>

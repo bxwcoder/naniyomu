@@ -1,0 +1,93 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>9784094088960 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?isbn=9784094088960&amp;cnt=5</link>
+    <description>Search results for isbn=9784094088960 cnt=5</description>
+    <language>ja</language>
+    <openSearch:totalResults>2</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
+    <item>
+      <title>下町ロケット</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1971149384794429570</link>
+      <description><![CDATA[<p>ガウディ計画,小学館,2013,9784094088960<p><ul><li>タイトル：下町ロケット</li><li>タイトル（読み）：シタマチ ロケット</li><li>責任表示：池井戸潤著</li><li>NDC(9)：913.6</li></ul>]]></description>
+      <author>池井戸, 潤,池井戸潤著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1971149384794429570</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>下町ロケット</dc:title>
+      <dcndl:titleTranscription>シタマチ ロケット</dcndl:titleTranscription>
+      <dc:creator>池井戸, 潤</dc:creator>
+      <dcndl:creatorTranscription>イケイド, ジュン</dcndl:creatorTranscription>
+      <dcndl:volume>ガウディ計画</dcndl:volume>
+      <dc:publisher>小学館</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2013</dc:date>
+      <dcterms:issued>2013.12-</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9784094088960</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9784094088960</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BB1448798X</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDC9">913.6</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">913.6</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971149384794429570"/>
+      <dc:description> 2013</dc:description>
+    </item>
+    <item>
+      <title>下町ロケット</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I025065907</link>
+      <description><![CDATA[<p>小学館,2013,978-4-09-408896-0<p><ul><li>タイトル：下町ロケット</li><li>タイトル（読み）：シタマチ ロケット</li><li>責任表示：池井戸潤 著</li><li>シリーズ名：小学館文庫 ; い39-3</li><li>シリーズ名（読み）：ショウガクカン ブンコ ; イ-39-3</li><li>NDC(9)：913.6</li></ul>]]></description>
+      <author>池井戸, 潤, 1963-,池井戸潤 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I025065907</guid>
+      <pubDate>Fri, 17 Jan 2014 23:45:52 +0900</pubDate>
+      <dc:title>下町ロケット</dc:title>
+      <dcndl:titleTranscription>シタマチ ロケット</dcndl:titleTranscription>
+      <dc:creator>池井戸, 潤, 1963-</dc:creator>
+      <dcndl:creatorTranscription>イケイド, ジュン, 1963-</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>小学館文庫 ; い39-3</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ショウガクカン ブンコ ; イ-39-3</dcndl:seriesTitleTranscription>
+      <dc:publisher>小学館</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2013</dc:date>
+      <dcterms:issued>2013.12</dcterms:issued>
+      <dcndl:price>720円</dcndl:price>
+      <dc:extent>493p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-09-408896-0</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">025065907</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22343787</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">33025744</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">KH844</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">913.6</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008000748636"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.miyagi.jp/winj/opac/switch-detail-iccap.do?bibid=1101621019"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=398798&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113120531"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=2478852&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=1760888"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1105217284/"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.yamanashi.jp/licsxp-opac/WOpacMnuTopInitAction.do"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.gifu.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1102774454"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001310121443"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bib/?B12053832"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000012865943"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007000374974"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1103576240"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1110182117"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000002222428"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1102353977"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I025065907"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=2369116"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=3634142"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000049-I027699553"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000049-I029652710"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000073-I11377392"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/094088960000d0000000"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/094088960000f0000000"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784094088960"/>
+      <dc:description> 2013</dc:description>
+    </item>
+  </channel>
+</rss>

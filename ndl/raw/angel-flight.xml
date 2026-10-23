@@ -1,0 +1,331 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>エンジェルフライト - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%95%E3%83%A9%E3%82%A4%E3%83%88&amp;cnt=30</link>
+    <description>Search results for title=エンジェルフライト cnt=30</description>
+    <language>ja</language>
+    <openSearch:totalResults>10</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>30</openSearch:itemsPerPage>
+    <item>
+      <title>エンジェルフライト-国際霊柩送還士 : Blu-ray box</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I034554238</link>
+      <description><![CDATA[<p>NHKエンタープライズ,2026,<p><ul><li>タイトル：エンジェルフライト-国際霊柩送還士 : Blu-ray box</li><li>タイトル（読み）：エンジェル フライト - コクサイ レイキュウ ソウカンシ</li><li>責任表示：佐々涼子 原作,古沢良太, 香坂隆史 脚本</li></ul>]]></description>
+      <author>佐々涼子 原作,古沢良太, 香坂隆史 脚本</author>
+      <category>映像資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I034554238</guid>
+      <pubDate>Fri, 15 May 2026 02:02:11 +0900</pubDate>
+      <dc:title>エンジェルフライト-国際霊柩送還士 : Blu-ray box</dc:title>
+      <dcndl:titleTranscription>エンジェル フライト - コクサイ レイキュウ ソウカンシ</dcndl:titleTranscription>
+      <dc:publisher>NHKエンタープライズ</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2026</dc:date>
+      <dcterms:issued>2026.7</dcterms:issued>
+      <dcndl:price>14400円</dcndl:price>
+      <dc:extent>Blu-ray Disc 3枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:RIS502">NSBX-54670</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">034554238</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">24253320</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YL331</dc:subject>
+      <dc:description>出版</dc:description>
+      <dc:description>所要時間: 337分</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I034554238"/>
+      <dc:description> 2026</dc:description>
+    </item>
+    <item>
+      <title>エンジェルフライト : 国際霊柩送還士</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I024059385</link>
+      <description><![CDATA[<p>集英社,2012,978-4-08-781513-9<p><ul><li>タイトル：エンジェルフライト : 国際霊柩送還士</li><li>タイトル（読み）：エンジェル フライト : コクサイ レイキュウ ソウカンシ</li><li>責任表示：佐々涼子 著</li><li>NDC(9)：673.93</li></ul>]]></description>
+      <author>佐々, 涼子, 1968-2024,佐々涼子 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I024059385</guid>
+      <pubDate>Tue, 21 Jan 2025 01:18:07 +0900</pubDate>
+      <dc:title>エンジェルフライト : 国際霊柩送還士</dc:title>
+      <dcndl:titleTranscription>エンジェル フライト : コクサイ レイキュウ ソウカンシ</dcndl:titleTranscription>
+      <dc:creator>佐々, 涼子, 1968-2024</dc:creator>
+      <dcndl:creatorTranscription>ササ, リョウコ, 1968-2024</dcndl:creatorTranscription>
+      <dc:publisher>集英社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2012</dc:date>
+      <dcterms:issued>2012.11</dcterms:issued>
+      <dcndl:price>1500円</dcndl:price>
+      <dc:extent>279p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-08-781513-9</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">024059385</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22178202</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">32843720</dc:identifier>
+      <dc:subject>エアハースインターナショナル株式会社</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">DH475</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">673.93</dc:subject>
+      <dc:description>文献あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.hokkaido.jp/wo/opc_srh/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008000606104"/>
+      <rdfs:seeAlso rdf:resource="https://www.plib.pref.aomori.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1103437690"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.iwate.jp/opac/advanced-search"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.miyagi.jp/winj/opac/switch-detail-iccap.do?bibid=1101506724"/>
+      <rdfs:seeAlso rdf:resource="https://www.apl.pref.akita.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009920018873"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.pref.yamagata.jp/winj/opac/switch-detail-iccap.do?bibid=1103187879"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.fcs.ed.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001102950790"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001002110020"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.tochigi.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101848083"/>
+      <rdfs:seeAlso rdf:resource="https://www1.library.pref.gunma.jp/winj/opac/switch-detail-iccap.do?bibid=1110093716"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=289290&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.chiba.lg.jp/licsxp-iopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000100010760"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1152180262"/>
+      <rdfs:seeAlso rdf:resource="https://www.klnet.pref.kanagawa.jp/winj/opac/switch-detail-iccap.do?bibid=1104465693"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1112085846"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=2350821&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=1717338"/>
+      <rdfs:seeAlso rdf:resource="https://opac.pref-lib.niigata.niigata.jp/winj/opac/switch-detail-iccap.do?bibid=1107590158"/>
+      <rdfs:seeAlso rdf:resource="https://lib2.lib.pref.toyama.jp/opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000267757"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1100000610290/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1105129015/"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.yamanashi.jp/licsxp-opac/WOpacMnuTopInitAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.nagano.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000663025"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.gifu.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1102624347"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001102096858"/>
+      <rdfs:seeAlso rdf:resource="http://websv.aichi-pref-library.jp/winj/opac/switch-detail-iccap.do?bibid=1182613321"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001210086510"/>
+      <rdfs:seeAlso rdf:resource="http://opac1.library.pref.mie.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1110212004"/>
+      <rdfs:seeAlso rdf:resource="https://www.shiga-pref-library.jp/wo/opc_srh/srh_detail/4151306/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kyoto.jp/bib/?B10757952"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bib/?B12829014"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000012632247"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007000257376"/>
+      <rdfs:seeAlso rdf:resource="https://opacsvr01.library.pref.nara.jp/opac/volume/1006037"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.wakayama-c.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1102485005"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1101901233"/>
+      <rdfs:seeAlso rdf:resource="https://www2.library.pref.shimane.lg.jp/opac/switch-detail-iccap.do?bibid=1110443731"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009811617957"/>
+      <rdfs:seeAlso rdf:resource="https://www2.hplibra.pref.hiroshima.jp/bib/?B11831124"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1103460660"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.yamaguchi.lg.jp//wo/opc_srh/srh_detail/1001033678/"/>
+      <rdfs:seeAlso rdf:resource="https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1103473235"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1110094744"/>
+      <rdfs:seeAlso rdf:resource="https://www.ehimetosyokan.jp/winj/opac/switch-detail-iccap.do?bibid=1101067139"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1109494643"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.fukuoka.jp/winj/opac/switch-detail-iccap.do?bibid=1109402199"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.fukuoka.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101014039"/>
+      <rdfs:seeAlso rdf:resource="https://www2.tosyo-saga.jp/kentosyo2/opac/switch-detail-iccap.do?bibid=1101580146"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000002104953"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1102243342"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.miyazaki.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101789925"/>
+      <rdfs:seeAlso rdf:resource="https://www2.library.pref.kagoshima.jp/kento/opac/switch-detail-iccap.do?bibid=1111205137"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.okinawa.jp/winj/opac/switch-detail-iccap.do?bibid=1100983113"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I024059385"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=2005805"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=2010955"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=2013430"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=2013604"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=2213758"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=2619597"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=3333662"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=3427345"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=3435456"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000049-I027160271"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000073-I11094836"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000073-I11098421"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000073-I13982187"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971149384769229326"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784087815139"/>
+      <dc:description> 2012</dc:description>
+    </item>
+    <item>
+      <title>エンジェルフライト : 国際霊柩送還士</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I025874833</link>
+      <description><![CDATA[<p>集英社,2014,978-4-08-745252-5<p><ul><li>タイトル：エンジェルフライト : 国際霊柩送還士</li><li>タイトル（読み）：エンジェル フライト : コクサイ レイキュウ ソウカンシ</li><li>責任表示：佐々涼子 著</li><li>シリーズ名：集英社文庫 ; さ58-1</li><li>シリーズ名（読み）：シュウエイシャ ブンコ ; サ-58-1</li><li>NDC(9)：673.93</li></ul>]]></description>
+      <author>佐々, 涼子, 1968-2024,佐々涼子 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I025874833</guid>
+      <pubDate>Tue, 21 Jan 2025 01:18:07 +0900</pubDate>
+      <dc:title>エンジェルフライト : 国際霊柩送還士</dc:title>
+      <dcndl:titleTranscription>エンジェル フライト : コクサイ レイキュウ ソウカンシ</dcndl:titleTranscription>
+      <dc:creator>佐々, 涼子, 1968-2024</dc:creator>
+      <dcndl:creatorTranscription>ササ, リョウコ, 1968-2024</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>集英社文庫 ; さ58-1</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>シュウエイシャ ブンコ ; サ-58-1</dcndl:seriesTitleTranscription>
+      <dc:publisher>集英社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2014</dc:date>
+      <dcterms:issued>2014.11</dcterms:issued>
+      <dcndl:price>560円</dcndl:price>
+      <dc:extent>284p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-08-745252-5</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">025874833</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22499776</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">33176424</dc:identifier>
+      <dc:subject>エアハースインターナショナル株式会社</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">DH475</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">673.93</dc:subject>
+      <dc:description>2012年刊の大幅加筆修正</dc:description>
+      <dc:description>文献あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008000883473"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.pref.yamagata.jp/winj/opac/switch-detail-iccap.do?bibid=1103393237"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=490176&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1152555835"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113217684"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=2582791&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=1836842"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1110067167/"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.gifu.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1102901285"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001410075817"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000013361389"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007000479525"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009811851177"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000002314748"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I025874833"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4634615"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970586434841902868"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784087452525"/>
+      <dc:description> 2014</dc:description>
+    </item>
+    <item>
+      <title>オリジナル・サウンドトラックエンジェルフライト</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I033557926</link>
+      <description><![CDATA[<p>Rambling RECORDS,2024,<p><ul><li>タイトル：オリジナル・サウンドトラックエンジェルフライト</li><li>タイトル（読み）：オリジナル ・ サウンドトラック エンジェル フライト</li><li>責任表示：遠藤浩二 音楽</li></ul>]]></description>
+      <author>遠藤浩二 音楽</author>
+      <category>録音資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I033557926</guid>
+      <pubDate>Fri, 4 Apr 2025 00:39:48 +0900</pubDate>
+      <dc:title>オリジナル・サウンドトラックエンジェルフライト</dc:title>
+      <dcndl:titleTranscription>オリジナル ・ サウンドトラック エンジェル フライト</dcndl:titleTranscription>
+      <dc:publisher>Rambling RECORDS</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2024</dc:date>
+      <dcterms:issued>2024.7</dcterms:issued>
+      <dcndl:price>2970円 (税込)</dcndl:price>
+      <dc:extent>CD 1枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:RIS502">RBCP-3544</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033557926</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">24099622</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YMC11</dc:subject>
+      <dc:description>出版</dc:description>
+      <dc:description>所要時間: 73分46秒</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I033557926"/>
+      <dc:description> 2024</dc:description>
+    </item>
+    <item>
+      <title>この著者に会いたい 『エンジェルフライト』佐々涼子(ささりょうこ)(ライター) 彼らの使命感を支えているのは、やはり遺族の喜び、感謝ではないでしょうか</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I024110880</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：この著者に会いたい 『エンジェルフライト』佐々涼子(ささりょうこ)(ライター) 彼らの使命感を支えているのは、やはり遺族の喜び、感謝ではないでしょうか</li><li>タイトル（読み）：コノ チョシャ ニ アイタイ 『 エンジェルフライト 』 ササリョウコ(ササリョウコ)(ライター) カレ ラ ノ シメイカン オ ササエテ イル ノ ワ 、 ヤハリ イゾク ノ ヨロコビ 、 カンシャ デワ ナイ デショウ カ</li><li>責任表示：佐々 涼子,仲俣 暁生</li></ul>]]></description>
+      <author>佐々 涼子,仲俣 暁生,佐々 涼子,仲俣 暁生</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I024110880</guid>
+      <pubDate>Fri, 6 Feb 2026 23:08:00 +0900</pubDate>
+      <dc:title>この著者に会いたい 『エンジェルフライト』佐々涼子(ささりょうこ)(ライター) 彼らの使命感を支えているのは、やはり遺族の喜び、感謝ではないでしょうか</dc:title>
+      <dcndl:titleTranscription>コノ チョシャ ニ アイタイ 『 エンジェルフライト 』 ササリョウコ(ササリョウコ)(ライター) カレ ラ ノ シメイカン オ ササエテ イル ノ ワ 、 ヤハリ イゾク ノ ヨロコビ 、 カンシャ デワ ナイ デショウ カ</dcndl:titleTranscription>
+      <dc:creator>佐々 涼子</dc:creator>
+      <dc:creator>仲俣 暁生</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">024110880</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZW1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I024110880"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520854804928872832"/>
+      <dc:description>掲載誌：Voice = ボイス 421 p.168-173</dc:description>
+    </item>
+    <item>
+      <title>対談 第10回受賞作 佐々涼子『エンジェルフライト : 国際霊柩送還士』 佐々涼子×石井光太 世界観が崩される瞬間からの出発</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I024095508</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：対談 第10回受賞作 佐々涼子『エンジェルフライト : 国際霊柩送還士』 佐々涼子×石井光太 世界観が崩される瞬間からの出発</li><li>タイトル（読み）：タイダン ダイ10カイ ジュショウサク ササリョウコ 『 エンジェルフライト : コクサイレイキュウソウカンシ 』 ササリョウコ × イシイ ヒカリタイ セカイカン ガ クズサレル シュンカン カラ ノ シュッパツ</li><li>責任表示：佐々 涼子,石井 光太</li><li>シリーズ名：開高健ノンフィクション賞10周年記念特集</li><li>シリーズ名（読み）：カイコウケンノンフィクションショウ 10シュウネン キネン トクシュウ</li></ul>]]></description>
+      <author>佐々 涼子,石井 光太,佐々 涼子,石井 光太</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I024095508</guid>
+      <pubDate>Mon, 3 Dec 2012 18:36:59 +0900</pubDate>
+      <dc:title>対談 第10回受賞作 佐々涼子『エンジェルフライト : 国際霊柩送還士』 佐々涼子×石井光太 世界観が崩される瞬間からの出発</dc:title>
+      <dcndl:titleTranscription>タイダン ダイ10カイ ジュショウサク ササリョウコ 『 エンジェルフライト : コクサイレイキュウソウカンシ 』 ササリョウコ × イシイ ヒカリタイ セカイカン ガ クズサレル シュンカン カラ ノ シュッパツ</dcndl:titleTranscription>
+      <dc:creator>佐々 涼子</dc:creator>
+      <dc:creator>石井 光太</dc:creator>
+      <dcndl:seriesTitle>開高健ノンフィクション賞10周年記念特集</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>カイコウケンノンフィクションショウ 10シュウネン キネン トクシュウ</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">024095508</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZU11</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I024095508"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1522262179928129408"/>
+      <dc:description>掲載誌：青春と読書 / 集英社 [編] 12(通号 437) p.6-11</dc:description>
+    </item>
+    <item>
+      <title>第十回開高健ノンフィクション賞受賞作発表 『エンジェルフライト : 国際霊柩送還士』佐々涼子(ささりょうこ)</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I023987248</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：第十回開高健ノンフィクション賞受賞作発表 『エンジェルフライト : 国際霊柩送還士』佐々涼子(ささりょうこ)</li><li>タイトル（読み）：ダイジッカイ カイコウケンノンフィクションショウ ジュショウサク ハッピョウ 『 エンジェルフライト : コクサイレイキュウソウカンシ 』 ササリョウコ(ササリョウコ)</li></ul>]]></description>
+      <author/>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I023987248</guid>
+      <pubDate>Tue, 16 Oct 2012 18:53:24 +0900</pubDate>
+      <dc:title>第十回開高健ノンフィクション賞受賞作発表 『エンジェルフライト : 国際霊柩送還士』佐々涼子(ささりょうこ)</dc:title>
+      <dcndl:titleTranscription>ダイジッカイ カイコウケンノンフィクションショウ ジュショウサク ハッピョウ 『 エンジェルフライト : コクサイレイキュウソウカンシ 』 ササリョウコ(ササリョウコ)</dcndl:titleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">023987248</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZU11</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I023987248"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520010378610694400"/>
+      <dc:description>掲載誌：青春と読書 / 集英社 [編] 10(通号 435) p.42-48</dc:description>
+    </item>
+    <item>
+      <title>読書の時間 BOOK LESSON エンジェルフライト : 国際霊柩送還士 佐々涼子著 我々は弔い損ねてはいないか</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I024217732</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：読書の時間 BOOK LESSON エンジェルフライト : 国際霊柩送還士 佐々涼子著 我々は弔い損ねてはいないか</li><li>タイトル（読み）：ドクショ ノ ジカン BOOK LESSON エンジェルフライト : コクサイレイキュウソウカンシ ササリョウコ チョ ワレワレ ワ トムライ ソコネテ ワ イナイ カ</li><li>責任表示：佐々 涼子</li></ul>]]></description>
+      <author>佐々 涼子,佐々 涼子</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I024217732</guid>
+      <pubDate>Tue, 5 Feb 2013 00:43:13 +0900</pubDate>
+      <dc:title>読書の時間 BOOK LESSON エンジェルフライト : 国際霊柩送還士 佐々涼子著 我々は弔い損ねてはいないか</dc:title>
+      <dcndl:titleTranscription>ドクショ ノ ジカン BOOK LESSON エンジェルフライト : コクサイレイキュウソウカンシ ササリョウコ チョ ワレワレ ワ トムライ ソコネテ ワ イナイ カ</dcndl:titleTranscription>
+      <dc:creator>佐々 涼子</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">024217732</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZW1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I024217732"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1524232504475506560"/>
+      <dc:description>掲載誌：正論 494 p.288-291</dc:description>
+    </item>
+    <item>
+      <title>私の本棚 エンジェルフライト[佐々涼子著]</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I033169493</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：私の本棚 エンジェルフライト[佐々涼子著]</li><li>タイトル（読み）：ワタクシ ノ ホンダナ エンジェルフライト[ササリョウコ チョ]</li></ul>]]></description>
+      <author/>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I033169493</guid>
+      <pubDate>Wed, 22 Nov 2023 02:06:47 +0900</pubDate>
+      <dc:title>私の本棚 エンジェルフライト[佐々涼子著]</dc:title>
+      <dcndl:titleTranscription>ワタクシ ノ ホンダナ エンジェルフライト[ササリョウコ チョ]</dcndl:titleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033169493</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZA15</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I033169493"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520016748557664512"/>
+      <dc:description>掲載誌：東京消防 / 東京消防編集室 編 11(通号 1121) p.43</dc:description>
+    </item>
+    <item>
+      <title>Amazon Prime Video「エンジェルフライト 国際霊柩送還士」撮影報告</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I032996997</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：Amazon Prime Video「エンジェルフライト 国際霊柩送還士」撮影報告</li><li>タイトル（読み）：Amazon Prime Video 「 エンジェルフライト コクサイレイキュウソウカンシ 」 サツエイ ホウコク</li><li>責任表示：相馬 和典,鈴木 岳</li></ul>]]></description>
+      <author>相馬 和典,鈴木 岳,相馬 和典,鈴木 岳</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I032996997</guid>
+      <pubDate>Thu, 24 Aug 2023 19:18:30 +0900</pubDate>
+      <dc:title>Amazon Prime Video「エンジェルフライト 国際霊柩送還士」撮影報告</dc:title>
+      <dcndl:titleTranscription>Amazon Prime Video 「 エンジェルフライト コクサイレイキュウソウカンシ 」 サツエイ ホウコク</dcndl:titleTranscription>
+      <dc:creator>相馬 和典</dc:creator>
+      <dc:creator>鈴木 岳</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">032996997</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZK8</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I032996997"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520860177962084224"/>
+      <dc:description>掲載誌：映画テレビ技術 = The motion picture &amp; TV engineering 852 p.22-31</dc:description>
+    </item>
+  </channel>
+</rss>

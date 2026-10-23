@@ -1,0 +1,98 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>9784063726749 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?isbn=9784063726749&amp;cnt=5</link>
+    <description>Search results for isbn=9784063726749 cnt=5</description>
+    <language>ja</language>
+    <openSearch:totalResults>1</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
+    <item>
+      <title>宇宙兄弟</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009304190</link>
+      <description><![CDATA[<p>1,講談社,2008,978-4-06-372674-9<p><ul><li>タイトル：宇宙兄弟</li><li>タイトル（読み）：ウチュウ キョウダイ</li><li>責任表示：小山宙哉 著</li><li>シリーズ名：モーニングKC ; 1674</li><li>シリーズ名（読み）：モーニング KC</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>小山, 宙哉, 1978-,小山宙哉 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009304190</guid>
+      <pubDate>Mon, 25 Oct 2021 19:20:18 +0900</pubDate>
+      <dc:title>宇宙兄弟</dc:title>
+      <dcndl:titleTranscription>ウチュウ キョウダイ</dcndl:titleTranscription>
+      <dc:creator>小山, 宙哉, 1978-</dc:creator>
+      <dcndl:creatorTranscription>コヤマ, チュウヤ, 1978-</dcndl:creatorTranscription>
+      <dcndl:volume>1</dcndl:volume>
+      <dcndl:seriesTitle>モーニングKC ; 1674</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>モーニング KC</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2008</dc:date>
+      <dcterms:issued>2008.3</dcterms:issued>
+      <dcndl:price>552円</dcndl:price>
+      <dc:extent>215p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-372674-9</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009304190</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21388912</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008000191178"/>
+      <rdfs:seeAlso rdf:resource="https://www.apl.pref.akita.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000622381"/>
+      <rdfs:seeAlso rdf:resource="https://www.apl.pref.akita.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000622382"/>
+      <rdfs:seeAlso rdf:resource="https://www.apl.pref.akita.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000655330"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1107508990"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113202401"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=2085299"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000011925224"/>
+      <rdfs:seeAlso rdf:resource="https://www2.hplibra.pref.hiroshima.jp/bib/?B11627400"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.okinawa.jp/winj/opac/switch-detail-iccap.do?bibid=1100570381"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009304190"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=2218446"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=2218447"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bibj/?B12481027"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/596390"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/596391"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/596392"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/596393"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/596394"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/596395"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/596396"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/596397"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/596398"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/596399"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/596400"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/596401"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/596402"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/596403"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/596404"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/596405"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/596406"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/596407"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/596408"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/596409"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/596410"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/596411"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/596412"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/596413"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/596414"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/596415"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/596416"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/596417"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/598187"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/602612"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/606406"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/610058"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/616407"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/619327"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/624584"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/629269"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/638094"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/643102"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970023484876409637"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/0637267400100011000L"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/06A0000000000936335A"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784063726749"/>
+      <dc:description> 2008</dc:description>
+    </item>
+  </channel>
+</rss>

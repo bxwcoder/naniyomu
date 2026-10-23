@@ -1,0 +1,713 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>君たちはどう生きるか - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E5%90%9B%E3%81%9F%E3%81%A1%E3%81%AF%E3%81%A9%E3%81%86%E7%94%9F%E3%81%8D%E3%82%8B%E3%81%8B&amp;cnt=30</link>
+    <description>Search results for title=君たちはどう生きるか cnt=30</description>
+    <language>ja</language>
+    <openSearch:totalResults>372</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>30</openSearch:itemsPerPage>
+    <item>
+      <title>「愛」と「戦」と「死」 : 宮沢賢治作「烏の北斗七星」に関連して : 昭和十八年十一月十日出陣に際して</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I029204709</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：「愛」と「戦」と「死」 : 宮沢賢治作「烏の北斗七星」に関連して : 昭和十八年十一月十日出陣に際して</li><li>タイトル（読み）：「 アイ 」 ト 「 セン 」 ト 「 シ 」 : ミヤザワ ケンジサク 「 カラス ノ ホクト シチセイ 」 ニ カンレン シテ : ショウワ ジュウハチネン ジュウイチガツ トオカ シュツジン ニ サイシテ</li><li>責任表示：佐々木 八郎</li><li>シリーズ名：『君たちはどう生きるか』と佐々木八郎</li><li>シリーズ名（読み）：『 キミタチ ワ ドウ イキル カ 』 ト ササキ ハチロウ</li></ul>]]></description>
+      <author>佐々木 八郎,佐々木 八郎</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I029204709</guid>
+      <pubDate>Thu, 14 Sep 2023 00:02:32 +0900</pubDate>
+      <dc:title>「愛」と「戦」と「死」 : 宮沢賢治作「烏の北斗七星」に関連して : 昭和十八年十一月十日出陣に際して</dc:title>
+      <dcndl:titleTranscription>「 アイ 」 ト 「 セン 」 ト 「 シ 」 : ミヤザワ ケンジサク 「 カラス ノ ホクト シチセイ 」 ニ カンレン シテ : ショウワ ジュウハチネン ジュウイチガツ トオカ シュツジン ニ サイシテ</dcndl:titleTranscription>
+      <dc:creator>佐々木 八郎</dc:creator>
+      <dcndl:seriesTitle>『君たちはどう生きるか』と佐々木八郎</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>『 キミタチ ワ ドウ イキル カ 』 ト ササキ ハチロウ</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">029204709</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZG6</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I029204709"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1521980704634449920"/>
+      <dc:description>掲載誌：サムライ・平和 : 日本の心と平和を鎌倉から発信する総合誌 12 p.87-89</dc:description>
+    </item>
+    <item>
+      <title>青サギ、北米に翔ぶ : アメリカ人が宮﨑駿の最新作に恋した理由</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I033536244</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：青サギ、北米に翔ぶ : アメリカ人が宮﨑駿の最新作に恋した理由</li><li>タイトル（読み）：アオ サギ 、 ホクベイ ニ ショウブ : アメリカジン ガ ミヤザキ ハヤオ ノ サイシンサク ニ コイシタ リユウ</li><li>責任表示：デイヴ ジェスデッド</li><li>シリーズ名：特集 世界が見た「君たちはどう生きるか」 : 北米編</li><li>シリーズ名（読み）：トクシュウ セカイ ガ ミタ 「 キミタチ ワ ドウ イキル カ 」 : ホクベイヘン</li></ul>]]></description>
+      <author>デイヴ ジェスデッド,デイヴ ジェスデッド</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I033536244</guid>
+      <pubDate>Mon, 17 Jun 2024 23:53:26 +0900</pubDate>
+      <dc:title>青サギ、北米に翔ぶ : アメリカ人が宮﨑駿の最新作に恋した理由</dc:title>
+      <dcndl:titleTranscription>アオ サギ 、 ホクベイ ニ ショウブ : アメリカジン ガ ミヤザキ ハヤオ ノ サイシンサク ニ コイシタ リユウ</dcndl:titleTranscription>
+      <dc:creator>デイヴ ジェスデッド</dc:creator>
+      <dcndl:seriesTitle>特集 世界が見た「君たちはどう生きるか」 : 北米編</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>トクシュウ セカイ ガ ミタ 「 キミタチ ワ ドウ イキル カ 」 : ホクベイヘン</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033536244</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZW2</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I033536244"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520300545425595520"/>
+      <dc:description>掲載誌：熱風 : スタジオジブリの好奇心 5(通号 257) p.35-45</dc:description>
+    </item>
+    <item>
+      <title>アカデミー賞授賞式出張レポート</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I033536242</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：アカデミー賞授賞式出張レポート</li><li>タイトル（読み）：アカデミーショウ ジュショウシキ シュッチョウ レポート</li><li>責任表示：中島 清文</li><li>シリーズ名：特集 世界が見た「君たちはどう生きるか」 : 北米編</li><li>シリーズ名（読み）：トクシュウ セカイ ガ ミタ 「 キミタチ ワ ドウ イキル カ 」 : ホクベイヘン</li></ul>]]></description>
+      <author>中島 清文,中島 清文</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I033536242</guid>
+      <pubDate>Mon, 17 Jun 2024 23:52:48 +0900</pubDate>
+      <dc:title>アカデミー賞授賞式出張レポート</dc:title>
+      <dcndl:titleTranscription>アカデミーショウ ジュショウシキ シュッチョウ レポート</dcndl:titleTranscription>
+      <dc:creator>中島 清文</dc:creator>
+      <dcndl:seriesTitle>特集 世界が見た「君たちはどう生きるか」 : 北米編</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>トクシュウ セカイ ガ ミタ 「 キミタチ ワ ドウ イキル カ 」 : ホクベイヘン</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033536242</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZW2</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I033536242"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520582020402353280"/>
+      <dc:description>掲載誌：熱風 : スタジオジブリの好奇心 5(通号 257) p.6-19</dc:description>
+    </item>
+    <item>
+      <title>アニメーションと個人性 : 『君たちはどう生きるか』の個人的な鑑賞記</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I033090183</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：アニメーションと個人性 : 『君たちはどう生きるか』の個人的な鑑賞記</li><li>タイトル（読み）：アニメーション ト コジンセイ : 『 キミタチ ワ ドウ イキル カ 』 ノ コジンテキ ナ カンショウキ</li><li>責任表示：宮本 裕子</li><li>シリーズ名：総特集 宮﨑駿『君たちはどう生きるか』をどう観たか</li><li>シリーズ名（読み）：ソウ トクシュウ ミヤザキ ハヤオ 『 キミタチ ワ ドウ イキル カ 』 オ ドウ ミタ カ</li></ul>]]></description>
+      <author>宮本 裕子,宮本 裕子</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I033090183</guid>
+      <pubDate>Tue, 10 Oct 2023 18:56:17 +0900</pubDate>
+      <dc:title>アニメーションと個人性 : 『君たちはどう生きるか』の個人的な鑑賞記</dc:title>
+      <dcndl:titleTranscription>アニメーション ト コジンセイ : 『 キミタチ ワ ドウ イキル カ 』 ノ コジンテキ ナ カンショウキ</dcndl:titleTranscription>
+      <dc:creator>宮本 裕子</dc:creator>
+      <dcndl:seriesTitle>総特集 宮﨑駿『君たちはどう生きるか』をどう観たか</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ソウ トクシュウ ミヤザキ ハヤオ 『 キミタチ ワ ドウ イキル カ 』 オ ドウ ミタ カ</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033090183</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZH2</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I033090183"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520016283527009792"/>
+      <dc:description>掲載誌：現代思想 13(通号 臨増) p.28-33</dc:description>
+    </item>
+    <item>
+      <title>いい本見つけた! -吉野　源三郎　著-『君たちはどう生きるか』/-ブラットリー･トレバー･グリウー著　石田亨　訳-ブルーデイブック</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390846634881230976</link>
+      <description><![CDATA[<p>2001-06-01,<p><ul><li>タイトル：いい本見つけた! -吉野　源三郎　著-『君たちはどう生きるか』/-ブラットリー･トレバー･グリウー著　石田亨　訳-ブルーデイブック</li></ul>]]></description>
+      <author>加納 佳代子</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390846634881230976</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>いい本見つけた! -吉野　源三郎　著-『君たちはどう生きるか』/-ブラットリー･トレバー･グリウー著　石田亨　訳-ブルーデイブック</dc:title>
+      <dc:creator>加納 佳代子</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">2001-06-01</dc:date>
+      <dcterms:issued>2001-06-01</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390846634881230976"/>
+      <dc:description>掲載誌：看護学雑誌 6 2001-06-01 p.574-576</dc:description>
+    </item>
+    <item>
+      <title>異界と接続する傷</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I033090216</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：異界と接続する傷</li><li>タイトル（読み）：イカイ ト セツゾク スル キズ</li><li>責任表示：安田 登</li><li>シリーズ名：総特集 宮﨑駿『君たちはどう生きるか』をどう観たか</li><li>シリーズ名（読み）：ソウ トクシュウ ミヤザキ ハヤオ 『 キミタチ ワ ドウ イキル カ 』 オ ドウ ミタ カ</li></ul>]]></description>
+      <author>安田 登,安田 登</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I033090216</guid>
+      <pubDate>Tue, 10 Oct 2023 18:59:16 +0900</pubDate>
+      <dc:title>異界と接続する傷</dc:title>
+      <dcndl:titleTranscription>イカイ ト セツゾク スル キズ</dcndl:titleTranscription>
+      <dc:creator>安田 登</dc:creator>
+      <dcndl:seriesTitle>総特集 宮﨑駿『君たちはどう生きるか』をどう観たか</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ソウ トクシュウ ミヤザキ ハヤオ 『 キミタチ ワ ドウ イキル カ 』 オ ドウ ミタ カ</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033090216</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZH2</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I033090216"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520016283526894592"/>
+      <dc:description>掲載誌：現代思想 13(通号 臨増) p.87-91</dc:description>
+    </item>
+    <item>
+      <title>生きるための教養 : 混迷の時代を、君たちはどう生きるか</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I034901750</link>
+      <description><![CDATA[<p>上,東洋経済新報社,2026,978-4-492-04844-3<p><ul><li>タイトル：生きるための教養 : 混迷の時代を、君たちはどう生きるか</li><li>タイトル（読み）：イキル タメ ノ キョウヨウ</li><li>責任表示：堀内勉 著</li><li>NDC(10)：159</li></ul>]]></description>
+      <author>堀内, 勉, 1960-,堀内勉 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I034901750</guid>
+      <pubDate>Wed, 14 Oct 2026 22:04:56 +0900</pubDate>
+      <dc:title>生きるための教養 : 混迷の時代を、君たちはどう生きるか</dc:title>
+      <dcndl:titleTranscription>イキル タメ ノ キョウヨウ</dcndl:titleTranscription>
+      <dc:creator>堀内, 勉, 1960-</dc:creator>
+      <dcndl:creatorTranscription>ホリウチ, ツトム, 1960-</dcndl:creatorTranscription>
+      <dcndl:volume>上</dcndl:volume>
+      <dc:publisher>東洋経済新報社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2026</dc:date>
+      <dcterms:issued>2026.9</dcterms:issued>
+      <dcndl:price>3800円</dcndl:price>
+      <dc:extent>514p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-492-04844-3</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">034901750</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">24308609</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">34904769</dc:identifier>
+      <dc:subject>人生訓</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">US51</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">159</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=3580484&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1155068788"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1000489002/"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007001594915"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1120970414"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1110738984"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I034901750"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970872501303958175"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/4920484401001100000J"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784492048443"/>
+      <dc:description> 2026</dc:description>
+    </item>
+    <item>
+      <title>生きるための教養 : 混迷の時代を、君たちはどう生きるか</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I034901751</link>
+      <description><![CDATA[<p>下,東洋経済新報社,2026,978-4-492-04845-0<p><ul><li>タイトル：生きるための教養 : 混迷の時代を、君たちはどう生きるか</li><li>タイトル（読み）：イキル タメ ノ キョウヨウ</li><li>責任表示：堀内勉 著</li><li>NDC(10)：159</li></ul>]]></description>
+      <author>堀内, 勉, 1960-,堀内勉 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I034901751</guid>
+      <pubDate>Wed, 14 Oct 2026 22:06:13 +0900</pubDate>
+      <dc:title>生きるための教養 : 混迷の時代を、君たちはどう生きるか</dc:title>
+      <dcndl:titleTranscription>イキル タメ ノ キョウヨウ</dcndl:titleTranscription>
+      <dc:creator>堀内, 勉, 1960-</dc:creator>
+      <dcndl:creatorTranscription>ホリウチ, ツトム, 1960-</dcndl:creatorTranscription>
+      <dcndl:volume>下</dcndl:volume>
+      <dc:publisher>東洋経済新報社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2026</dc:date>
+      <dcterms:issued>2026.9</dcterms:issued>
+      <dcndl:price>3800円</dcndl:price>
+      <dc:extent>551p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-492-04845-0</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">034901751</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">24308610</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">34904770</dc:identifier>
+      <dc:subject>人生訓</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">US51</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">159</dc:subject>
+      <dc:description>出版</dc:description>
+      <dc:description>文献あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=3580485&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1155068789"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1000489003/"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007001594919"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1110738988"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I034901751"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971153976280666977"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/4920484501001100000M"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784492048450"/>
+      <dc:description> 2026</dc:description>
+    </item>
+    <item>
+      <title>池上彰特別授業君たちはどう生きるか</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029512499</link>
+      <description><![CDATA[<p>NHK出版,2019,978-4-14-081765-0<p><ul><li>タイトル：池上彰特別授業君たちはどう生きるか</li><li>タイトル（読み）：イケガミ アキラ トクベツ ジュギョウ キミタチ ワ ドウ イキルカ</li><li>責任表示：池上彰 著</li><li>シリーズ名：NHK100分de名著. 読書の学校</li><li>シリーズ名（読み）：エヌエイチケー ヒャップン デ メイチョ. ドクショ ノ ガッコウ</li><li>NDC(10)：159.7</li></ul>]]></description>
+      <author>池上, 彰, 1950-,池上彰 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I029512499</guid>
+      <pubDate>Mon, 16 May 2022 17:51:01 +0900</pubDate>
+      <dc:title>池上彰特別授業君たちはどう生きるか</dc:title>
+      <dcndl:titleTranscription>イケガミ アキラ トクベツ ジュギョウ キミタチ ワ ドウ イキルカ</dcndl:titleTranscription>
+      <dc:creator>池上, 彰, 1950-</dc:creator>
+      <dcndl:creatorTranscription>イケガミ, アキラ, 1950-</dcndl:creatorTranscription>
+      <dcndl:edition>図書館版</dcndl:edition>
+      <dcndl:seriesTitle>NHK100分de名著. 読書の学校</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>エヌエイチケー ヒャップン デ メイチョ. ドクショ ノ ガッコウ</dcndl:seriesTitleTranscription>
+      <dc:publisher>NHK出版</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019.2</dcterms:issued>
+      <dcndl:price>2000円</dcndl:price>
+      <dc:extent>117p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-14-081765-0</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">029512499</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23183071</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">33887485</dc:identifier>
+      <dc:subject>吉野, 源三郎 ヨシノ, ゲンザブロウ</dc:subject>
+      <dcndl:genre>児童図書</dcndl:genre>
+      <dcndl:genreTranscription>ジドウ トショ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y5</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">159.7</dc:subject>
+      <dc:description>初版のタイトル: 君たちはどう生きるか</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.iwate.jp/opac/advanced-search"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.miyagi.jp/winj/opac/switch-detail-iccap.do?bibid=1102117020"/>
+      <rdfs:seeAlso rdf:resource="https://www.apl.pref.akita.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009920664742"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.pref.yamagata.jp/winj/opac/switch-detail-iccap.do?bibid=1120187015"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1003000428587"/>
+      <rdfs:seeAlso rdf:resource="https://www1.library.pref.gunma.jp/winj/opac/switch-detail-iccap.do?bibid=1110695614"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113669849"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=3181828&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://opac.pref-lib.niigata.niigata.jp/winj/opac/switch-detail-iccap.do?bibid=1120205716"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1000001216474/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.nagano.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000001306034"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001103588136"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014661822"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007000918089"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.wakayama-c.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1120024300"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1120251666"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.yamaguchi.lg.jp//wo/opc_srh/srh_detail/1001637701/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1130121745"/>
+      <rdfs:seeAlso rdf:resource="https://www2.tosyo-saga.jp/kentosyo2/opac/switch-detail-iccap.do?bibid=1102188316"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000002740921"/>
+      <rdfs:seeAlso rdf:resource="https://www2.library.pref.kagoshima.jp/kento/opac/switch-detail-iccap.do?bibid=1111824512"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I029512499"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784140817650"/>
+      <dc:description> 2019</dc:description>
+    </item>
+    <item>
+      <title>池上彰特別授業君たちはどう生きるか</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434904474773</link>
+      <description><![CDATA[<p>: 図書館版,NHK出版,2019,9784140817650<p><ul><li>タイトル：池上彰特別授業君たちはどう生きるか</li><li>タイトル（読み）：イケガミ アキラ トクベツ ジュギョウ キミタチ ワ ドウ イキルカ</li><li>責任表示：池上彰著</li><li>NDC(10)：159.5</li></ul>]]></description>
+      <author>池上, 彰,池上彰著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434904474773</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>池上彰特別授業君たちはどう生きるか</dc:title>
+      <dcndl:titleTranscription>イケガミ アキラ トクベツ ジュギョウ キミタチ ワ ドウ イキルカ</dcndl:titleTranscription>
+      <dc:creator>池上, 彰</dc:creator>
+      <dcndl:creatorTranscription>イケガミ, アキラ</dcndl:creatorTranscription>
+      <dcndl:volume>: 図書館版</dcndl:volume>
+      <dc:publisher>NHK出版</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019.2</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9784140817650</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9784140817650</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BB28433322</dc:identifier>
+      <dc:subject>君たちはどう生きるか</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">159.5</dc:subject>
+      <dc:description>2017年7月7日に武蔵高等学校中学校で行われた「池上彰特別授業」をもとに、加筆のうえ構成したもの</dc:description>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970586434904474773"/>
+      <dc:description> 2019</dc:description>
+    </item>
+    <item>
+      <title>意識的な幻想(ファンタスム) : 石のモンタージュ</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I033090221</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：意識的な幻想(ファンタスム) : 石のモンタージュ</li><li>タイトル（読み）：イシキテキ ナ ゲンソウ(ファンタスム) : イシ ノ モンタージュ</li><li>責任表示：難波 阿丹</li><li>シリーズ名：総特集 宮﨑駿『君たちはどう生きるか』をどう観たか</li><li>シリーズ名（読み）：ソウ トクシュウ ミヤザキ ハヤオ 『 キミタチ ワ ドウ イキル カ 』 オ ドウ ミタ カ</li></ul>]]></description>
+      <author>難波 阿丹,難波 阿丹</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I033090221</guid>
+      <pubDate>Tue, 10 Oct 2023 19:00:20 +0900</pubDate>
+      <dc:title>意識的な幻想(ファンタスム) : 石のモンタージュ</dc:title>
+      <dcndl:titleTranscription>イシキテキ ナ ゲンソウ(ファンタスム) : イシ ノ モンタージュ</dcndl:titleTranscription>
+      <dc:creator>難波 阿丹</dc:creator>
+      <dcndl:seriesTitle>総特集 宮﨑駿『君たちはどう生きるか』をどう観たか</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ソウ トクシュウ ミヤザキ ハヤオ 『 キミタチ ワ ドウ イキル カ 』 オ ドウ ミタ カ</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033090221</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZH2</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I033090221"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520297758503469824"/>
+      <dc:description>掲載誌：現代思想 13(通号 臨増) p.111-116</dc:description>
+    </item>
+    <item>
+      <title>意識的な幻想（ファンタスム）ー石のモンタージュ</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1010302693904799232</link>
+      <description><![CDATA[<p>2023,<p><ul><li>タイトル：意識的な幻想（ファンタスム）ー石のモンタージュ</li></ul>]]></description>
+      <author>難波 阿丹</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1010302693904799232</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>意識的な幻想（ファンタスム）ー石のモンタージュ</dc:title>
+      <dc:creator>難波 阿丹</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">2023</dc:date>
+      <dcterms:issued>2023</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1010302693904799232"/>
+      <dc:description>掲載誌：現代思想2023年10月臨時増刊号 総特集＊宮崎駿『君たちはどう生きるか』をどう観たか 2023</dc:description>
+    </item>
+    <item>
+      <title>イタリア人と「君たちはどう生きるか」</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I033580665</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：イタリア人と「君たちはどう生きるか」</li><li>タイトル（読み）：イタリアジン ト 「 キミタチ ワ ドウ イキル カ 」</li><li>責任表示：ステファノ マッセンツィ</li><li>シリーズ名：特集 世界が見た「君たちはどう生きるか」 : 欧州・アジア編</li><li>シリーズ名（読み）：トクシュウ セカイ ガ ミタ 「 キミタチ ワ ドウ イキル カ 」 : オウシュウ ・ アジアヘン</li></ul>]]></description>
+      <author>ステファノ マッセンツィ,ステファノ マッセンツィ</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I033580665</guid>
+      <pubDate>Fri, 12 Jul 2024 01:26:40 +0900</pubDate>
+      <dc:title>イタリア人と「君たちはどう生きるか」</dc:title>
+      <dcndl:titleTranscription>イタリアジン ト 「 キミタチ ワ ドウ イキル カ 」</dcndl:titleTranscription>
+      <dc:creator>ステファノ マッセンツィ</dc:creator>
+      <dcndl:seriesTitle>特集 世界が見た「君たちはどう生きるか」 : 欧州・アジア編</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>トクシュウ セカイ ガ ミタ 「 キミタチ ワ ドウ イキル カ 」 : オウシュウ ・ アジアヘン</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033580665</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZW2</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I033580665"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520863782910685952"/>
+      <dc:description>掲載誌：熱風 : スタジオジブリの好奇心 6(通号 258) p.29-35</dc:description>
+    </item>
+    <item>
+      <title>いつか来た道 とおりゃんせ--五〇年代児童が読んだ本(最終回)『君たちはどう生きるか』をどう生きるか</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I11096040</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：いつか来た道 とおりゃんせ--五〇年代児童が読んだ本(最終回)『君たちはどう生きるか』をどう生きるか</li><li>タイトル（読み）：イツカ キタ ミチ トオリャンセ 50ネンダイ ジドウ ガ ヨンダ ホン サイシュウカイ キミタチ ワ ドウ イキル カ オ ドウ イキル カ</li><li>責任表示：田中 眞澄</li></ul>]]></description>
+      <author>田中 眞澄,田中 眞澄</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I11096040</guid>
+      <pubDate>Fri, 10 Jun 2011 22:37:52 +0900</pubDate>
+      <dc:title>いつか来た道 とおりゃんせ--五〇年代児童が読んだ本(最終回)『君たちはどう生きるか』をどう生きるか</dc:title>
+      <dcndl:titleTranscription>イツカ キタ ミチ トオリャンセ 50ネンダイ ジドウ ガ ヨンダ ホン サイシュウカイ キミタチ ワ ドウ イキル カ オ ドウ イキル カ</dcndl:titleTranscription>
+      <dc:creator>田中 眞澄</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">11096040</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZW1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I11096040"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520573330642484480"/>
+      <dc:description>掲載誌：世界 819 p.174～177</dc:description>
+    </item>
+    <item>
+      <title>今、『君たちはどう生きるか』の周辺で</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I029042735</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：今、『君たちはどう生きるか』の周辺で</li><li>タイトル（読み）：イマ 、 『 キミタチ ワ ドウ イキル カ 』 ノ シュウヘン デ</li><li>責任表示：梨木 香歩</li></ul>]]></description>
+      <author>梨木 香歩,梨木 香歩</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I029042735</guid>
+      <pubDate>Mon, 25 Jun 2018 22:59:21 +0900</pubDate>
+      <dc:title>今、『君たちはどう生きるか』の周辺で</dc:title>
+      <dcndl:titleTranscription>イマ 、 『 キミタチ ワ ドウ イキル カ 』 ノ シュウヘン デ</dcndl:titleTranscription>
+      <dc:creator>梨木 香歩</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">029042735</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZU7</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I029042735"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1521980705709436032"/>
+      <dc:description>掲載誌：図書 832 p.2-5</dc:description>
+    </item>
+    <item>
+      <title>今もまだ、"終わった感"があるような、ないような。そういう意味では異色の作品でした</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I033168647</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：今もまだ、"終わった感"があるような、ないような。そういう意味では異色の作品でした</li><li>タイトル（読み）：イマ モ マダ 、"オワッタ カン"ガ アル ヨウナ 、 ナイ ヨウナ 。 ソウ イウ イミ デワ イショク ノ サクヒン デシタ</li><li>責任表示：武重 洋二</li><li>シリーズ名：特集 君たちはどう生きるか(第3弾)</li><li>シリーズ名（読み）：トクシュウ キミタチ ワ ドウ イキル カ(ダイ3ダン)</li></ul>]]></description>
+      <author>武重 洋二,武重 洋二</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I033168647</guid>
+      <pubDate>Tue, 21 Nov 2023 19:59:18 +0900</pubDate>
+      <dc:title>今もまだ、"終わった感"があるような、ないような。そういう意味では異色の作品でした</dc:title>
+      <dcndl:titleTranscription>イマ モ マダ 、"オワッタ カン"ガ アル ヨウナ 、 ナイ ヨウナ 。 ソウ イウ イミ デワ イショク ノ サクヒン デシタ</dcndl:titleTranscription>
+      <dc:creator>武重 洋二</dc:creator>
+      <dcndl:seriesTitle>特集 君たちはどう生きるか(第3弾)</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>トクシュウ キミタチ ワ ドウ イキル カ(ダイ3ダン)</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033168647</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZW2</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I033168647"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520298223535153024"/>
+      <dc:description>掲載誌：熱風 : スタジオジブリの好奇心 11(通号 251) p.22-28</dc:description>
+    </item>
+    <item>
+      <title>癒しのチェロ&amp;ヴァイオリンジブリ・ベスト</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I034082699</link>
+      <description><![CDATA[<p>日本コロムビア,2025,<p><ul><li>タイトル：癒しのチェロ&ヴァイオリンジブリ・ベスト</li><li>タイトル（読み）：イヤシ ノ チェロ & ヴァイオリン ジブリ ・ ベスト</li></ul>]]></description>
+      <author/>
+      <category>録音資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I034082699</guid>
+      <pubDate>Tue, 28 Apr 2026 00:56:29 +0900</pubDate>
+      <dc:title>癒しのチェロ&amp;ヴァイオリンジブリ・ベスト</dc:title>
+      <dcndl:titleTranscription>イヤシ ノ チェロ &amp; ヴァイオリン ジブリ ・ ベスト</dcndl:titleTranscription>
+      <dc:publisher>日本コロムビア</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2025</dc:date>
+      <dcterms:issued>2025.7</dcterms:issued>
+      <dcndl:price>2000円</dcndl:price>
+      <dc:extent>CD 1枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:RIS502">COCQ-85634</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">034082699</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">24248016</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YMC11</dc:subject>
+      <dc:description>出版</dc:description>
+      <dc:description>所要時間: 57分21秒</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I034082699"/>
+      <dc:description> 2025</dc:description>
+    </item>
+    <item>
+      <title>インタビュー キム・ヨンジュ、カン・ミョンジン 韓国・大元メディアとスタジオジブリの35年</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I033580668</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：インタビュー キム・ヨンジュ、カン・ミョンジン 韓国・大元メディアとスタジオジブリの35年</li><li>タイトル（読み）：インタビュー キム ・ ヨンジュ 、 カン ・ ミョンジン カンコク ・ ダイゲン メディア ト スタジオ ジブリ ノ 35ネン</li><li>責任表示：キム ヨンジュ,カン ミョンジン</li><li>シリーズ名：特集 世界が見た「君たちはどう生きるか」 : 欧州・アジア編</li><li>シリーズ名（読み）：トクシュウ セカイ ガ ミタ 「 キミタチ ワ ドウ イキル カ 」 : オウシュウ ・ アジアヘン</li></ul>]]></description>
+      <author>キム ヨンジュ,カン ミョンジン,キム ヨンジュ,カン ミョンジン</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I033580668</guid>
+      <pubDate>Fri, 12 Jul 2024 01:27:25 +0900</pubDate>
+      <dc:title>インタビュー キム・ヨンジュ、カン・ミョンジン 韓国・大元メディアとスタジオジブリの35年</dc:title>
+      <dcndl:titleTranscription>インタビュー キム ・ ヨンジュ 、 カン ・ ミョンジン カンコク ・ ダイゲン メディア ト スタジオ ジブリ ノ 35ネン</dcndl:titleTranscription>
+      <dc:creator>キム ヨンジュ</dc:creator>
+      <dc:creator>カン ミョンジン</dc:creator>
+      <dcndl:seriesTitle>特集 世界が見た「君たちはどう生きるか」 : 欧州・アジア編</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>トクシュウ セカイ ガ ミタ 「 キミタチ ワ ドウ イキル カ 」 : オウシュウ ・ アジアヘン</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033580668</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZW2</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I033580668"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520019357980528384"/>
+      <dc:description>掲載誌：熱風 : スタジオジブリの好奇心 6(通号 258) p.45-56</dc:description>
+    </item>
+    <item>
+      <title>インタビュー ヴァンサン・マラヴァル グッドフェラスCEO 20年ぐらいかけて醸成してきた信頼関係が、いままさに花開いたという感じです</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I033580662</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：インタビュー ヴァンサン・マラヴァル グッドフェラスCEO 20年ぐらいかけて醸成してきた信頼関係が、いままさに花開いたという感じです</li><li>タイトル（読み）：インタビュー ヴァンサン ・ マラヴァル グッドフェラス CEO 20ネン グライ カケテ ジョウセイ シテ キタ シンライ カンケイ ガ 、 イマ マサニ ハナヒライタ ト イウ カンジ デス</li><li>責任表示：ヴァンサン マラヴァル</li><li>シリーズ名：特集 世界が見た「君たちはどう生きるか」 : 欧州・アジア編</li><li>シリーズ名（読み）：トクシュウ セカイ ガ ミタ 「 キミタチ ワ ドウ イキル カ 」 : オウシュウ ・ アジアヘン</li></ul>]]></description>
+      <author>ヴァンサン マラヴァル,ヴァンサン マラヴァル</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I033580662</guid>
+      <pubDate>Fri, 12 Jul 2024 01:26:11 +0900</pubDate>
+      <dc:title>インタビュー ヴァンサン・マラヴァル グッドフェラスCEO 20年ぐらいかけて醸成してきた信頼関係が、いままさに花開いたという感じです</dc:title>
+      <dcndl:titleTranscription>インタビュー ヴァンサン ・ マラヴァル グッドフェラス CEO 20ネン グライ カケテ ジョウセイ シテ キタ シンライ カンケイ ガ 、 イマ マサニ ハナヒライタ ト イウ カンジ デス</dcndl:titleTranscription>
+      <dc:creator>ヴァンサン マラヴァル</dc:creator>
+      <dcndl:seriesTitle>特集 世界が見た「君たちはどう生きるか」 : 欧州・アジア編</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>トクシュウ セカイ ガ ミタ 「 キミタチ ワ ドウ イキル カ 」 : オウシュウ ・ アジアヘン</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033580662</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZW2</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I033580662"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520863782910615296"/>
+      <dc:description>掲載誌：熱風 : スタジオジブリの好奇心 6(通号 258) p.7-19</dc:description>
+    </item>
+    <item>
+      <title>インタビュー マガジンハウス 鉄尾周一さんに聞く</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I029260773</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：インタビュー マガジンハウス 鉄尾周一さんに聞く</li><li>タイトル（読み）：インタビュー マガジン ハウス テツ ビシュウ イチサン ニ キク</li><li>責任表示：鉄尾 周一,野澤 朋子</li><li>シリーズ名：特集 今なぜ『君たちはどう生きるか』なのか</li><li>シリーズ名（読み）：トクシュウ イマ ナゼ 『 キミタチ ワ ドウ イキル カ 』 ナ ノ カ</li></ul>]]></description>
+      <author>鉄尾 周一,野澤 朋子,鉄尾 周一,野澤 朋子</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I029260773</guid>
+      <pubDate>Sat, 13 Oct 2018 01:11:15 +0900</pubDate>
+      <dc:title>インタビュー マガジンハウス 鉄尾周一さんに聞く</dc:title>
+      <dcndl:titleTranscription>インタビュー マガジン ハウス テツ ビシュウ イチサン ニ キク</dcndl:titleTranscription>
+      <dc:creator>鉄尾 周一</dc:creator>
+      <dc:creator>野澤 朋子</dc:creator>
+      <dcndl:seriesTitle>特集 今なぜ『君たちはどう生きるか』なのか</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>トクシュウ イマ ナゼ 『 キミタチ ワ ドウ イキル カ 』 ナ ノ カ</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">029260773</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZK22</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I029260773"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1523669555955143040"/>
+      <dc:description>掲載誌：日本児童文学 / 日本児童文学者協会 編 5(通号 637) p.46-51</dc:description>
+    </item>
+    <item>
+      <title>インタビュー 羅湘(ロォシャン) 台湾テレビ局・芸能記者 台湾で暮らす、ひとりの女性が見た「君たちはどう生きるか」</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I033580669</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：インタビュー 羅湘(ロォシャン) 台湾テレビ局・芸能記者 台湾で暮らす、ひとりの女性が見た「君たちはどう生きるか」</li><li>タイトル（読み）：インタビュー ラショウ(ロォシャン) タイワン テレビキョク ・ ゲイノウ キシャ タイワン デ クラス 、 ヒトリ ノ ジョセイ ガ ミタ 「 キミタチ ワ ドウ イキル カ 」</li><li>責任表示：羅 湘</li><li>シリーズ名：特集 世界が見た「君たちはどう生きるか」 : 欧州・アジア編</li><li>シリーズ名（読み）：トクシュウ セカイ ガ ミタ 「 キミタチ ワ ドウ イキル カ 」 : オウシュウ ・ アジアヘン</li></ul>]]></description>
+      <author>羅 湘,羅 湘</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I033580669</guid>
+      <pubDate>Fri, 12 Jul 2024 01:27:43 +0900</pubDate>
+      <dc:title>インタビュー 羅湘(ロォシャン) 台湾テレビ局・芸能記者 台湾で暮らす、ひとりの女性が見た「君たちはどう生きるか」</dc:title>
+      <dcndl:titleTranscription>インタビュー ラショウ(ロォシャン) タイワン テレビキョク ・ ゲイノウ キシャ タイワン デ クラス 、 ヒトリ ノ ジョセイ ガ ミタ 「 キミタチ ワ ドウ イキル カ 」</dcndl:titleTranscription>
+      <dc:creator>羅 湘</dc:creator>
+      <dcndl:seriesTitle>特集 世界が見た「君たちはどう生きるか」 : 欧州・アジア編</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>トクシュウ セカイ ガ ミタ 「 キミタチ ワ ドウ イキル カ 」 : オウシュウ ・ アジアヘン</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033580669</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZW2</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I033580669"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520863782911056000"/>
+      <dc:description>掲載誌：熱風 : スタジオジブリの好奇心 6(通号 258) p.57-62</dc:description>
+    </item>
+    <item>
+      <title>「どう生きるか」という問いに向けて  : 村上春樹『街とその不確かな壁』／宮﨑駿『君たちはどう生きるか』</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1050585095044037504</link>
+      <description><![CDATA[<p>2025-03-14,<p><ul><li>タイトル：「どう生きるか」という問いに向けて  : 村上春樹『街とその不確かな壁』／宮﨑駿『君たちはどう生きるか』</li><li>タイトル（読み）：ウェイ オブ ライフ ト イウ トイ ニ ムケテ : ムラカミ ハルキ マチ ト ソノ フタシカ ナ カベ ミヤザキ ハヤオ キミタチ ワ ドウ イキルカ</li></ul>]]></description>
+      <author>内田, 康</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1050585095044037504</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>「どう生きるか」という問いに向けて  : 村上春樹『街とその不確かな壁』／宮﨑駿『君たちはどう生きるか』</dc:title>
+      <dcndl:titleTranscription>ウェイ オブ ライフ ト イウ トイ ニ ムケテ : ムラカミ ハルキ マチ ト ソノ フタシカ ナ カベ ミヤザキ ハヤオ キミタチ ワ ドウ イキルカ</dcndl:titleTranscription>
+      <dc:creator>内田, 康</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">2025-03-14</dc:date>
+      <dcterms:issued>2025-03-14</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://petit.lib.yamaguchi-u.ac.jp/29853"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1050585095044037504"/>
+      <dc:description>掲載誌：村上春樹とアダプテーション研究 2025-03-14 p.42-61</dc:description>
+    </item>
+    <item>
+      <title>ウクレレで奏でるスタジオジブリ作品集 : 「君たちはどう生きるか」まで : ソロ曲参考演奏音源対応</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I034569861</link>
+      <description><![CDATA[<p>ヤマハミュージックエンタテインメントホールディングスミュージックメディア部,2026,978-4-636-12416-3<p><ul><li>タイトル：ウクレレで奏でるスタジオジブリ作品集 : 「君たちはどう生きるか」まで : ソロ曲参考演奏音源対応</li><li>タイトル（読み）：ウクレレ デ カナデル スタジオ ジブリ サクヒンシュウ : 「 キミタチ ワ ドウ イキルカ 」 マデ : ソロキョク サンコウ エンソウ オンゲン タイオウ</li><li>責任表示：山下正 アレンジ・監修,大澤直樹, かつらけいのすけ, 浦田泰宏 アレンジ</li><li>NDC(10)：767</li></ul>]]></description>
+      <author>山下正 アレンジ・監修,大澤直樹, かつらけいのすけ, 浦田泰宏 アレンジ</author>
+      <category>図書</category>
+      <category>楽譜</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I034569861</guid>
+      <pubDate>Tue, 10 Mar 2026 03:01:53 +0900</pubDate>
+      <dc:title>ウクレレで奏でるスタジオジブリ作品集 : 「君たちはどう生きるか」まで : ソロ曲参考演奏音源対応</dc:title>
+      <dcndl:titleTranscription>ウクレレ デ カナデル スタジオ ジブリ サクヒンシュウ : 「 キミタチ ワ ドウ イキルカ 」 マデ : ソロキョク サンコウ エンソウ オンゲン タイオウ</dcndl:titleTranscription>
+      <dc:publisher>ヤマハミュージックエンタテインメントホールディングスミュージックメディア部</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2026</dc:date>
+      <dcterms:issued>2026.3</dcterms:issued>
+      <dcndl:price>2600円</dcndl:price>
+      <dc:extent>103 p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-636-12416-3</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">034569861</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">24229278</dc:identifier>
+      <dcndl:genre>楽譜</dcndl:genre>
+      <dcndl:genreTranscription>ガクフ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">YM311</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">767</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I034569861"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784636124163"/>
+      <dc:description> 2026</dc:description>
+    </item>
+    <item>
+      <title>請負仕事からの脱却</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I033767537</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：請負仕事からの脱却</li><li>タイトル（読み）：ウケオイ シゴト カラ ノ ダッキャク</li><li>責任表示：渡邉 竜一</li><li>シリーズ名：構造設計U-35 : 君たちはどう生きるか ; 若手の構造設計者に向けてのメッセージ</li><li>シリーズ名（読み）：コウゾウ セッケイ U-35 : キミタチ ワ ドウ イキル カ ; ワカテ ノ コウゾウ セッケイシャ ニ ムケテ ノ メッセージ</li></ul>]]></description>
+      <author>渡邉 竜一,渡邉 竜一</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I033767537</guid>
+      <pubDate>Fri, 1 Nov 2024 20:31:32 +0900</pubDate>
+      <dc:title>請負仕事からの脱却</dc:title>
+      <dcndl:titleTranscription>ウケオイ シゴト カラ ノ ダッキャク</dcndl:titleTranscription>
+      <dc:creator>渡邉 竜一</dc:creator>
+      <dcndl:seriesTitle>構造設計U-35 : 君たちはどう生きるか ; 若手の構造設計者に向けてのメッセージ</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>コウゾウ セッケイ U-35 : キミタチ ワ ドウ イキル カ ; ワカテ ノ コウゾウ セッケイシャ ニ ムケテ ノ メッセージ</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033767537</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZN1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I033767537"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520020596864975616"/>
+      <dc:description>掲載誌：Structure : Journal of Japan structural Consultants Association 172 p.14,22-23</dc:description>
+    </item>
+    <item>
+      <title>海を渡る風 : TUULI YLI MEREN</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I033580666</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：海を渡る風 : TUULI YLI MEREN</li><li>タイトル（読み）：ウミ オ ワタル カゼ : TUULI YLI MEREN</li><li>責任表示：ミカ シルタラ</li><li>シリーズ名：特集 世界が見た「君たちはどう生きるか」 : 欧州・アジア編</li><li>シリーズ名（読み）：トクシュウ セカイ ガ ミタ 「 キミタチ ワ ドウ イキル カ 」 : オウシュウ ・ アジアヘン</li></ul>]]></description>
+      <author>ミカ シルタラ,ミカ シルタラ</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I033580666</guid>
+      <pubDate>Fri, 12 Jul 2024 01:26:55 +0900</pubDate>
+      <dc:title>海を渡る風 : TUULI YLI MEREN</dc:title>
+      <dcndl:titleTranscription>ウミ オ ワタル カゼ : TUULI YLI MEREN</dcndl:titleTranscription>
+      <dc:creator>ミカ シルタラ</dc:creator>
+      <dcndl:seriesTitle>特集 世界が見た「君たちはどう生きるか」 : 欧州・アジア編</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>トクシュウ セカイ ガ ミタ 「 キミタチ ワ ドウ イキル カ 」 : オウシュウ ・ アジアヘン</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033580666</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZW2</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I033580666"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520300832957027840"/>
+      <dc:description>掲載誌：熱風 : スタジオジブリの好奇心 6(通号 258) p.36-40</dc:description>
+    </item>
+    <item>
+      <title>映画「君たちはどう生きるか」アカデミー賞受賞記者会見</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I033465309</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：映画「君たちはどう生きるか」アカデミー賞受賞記者会見</li><li>タイトル（読み）：エイガ 「 キミタチ ワ ドウ イキル カ 」 アカデミーショウ ジュショウ キシャ カイケン</li><li>責任表示：鈴木 敏夫</li></ul>]]></description>
+      <author>鈴木 敏夫,鈴木 敏夫</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I033465309</guid>
+      <pubDate>Mon, 13 May 2024 20:02:49 +0900</pubDate>
+      <dc:title>映画「君たちはどう生きるか」アカデミー賞受賞記者会見</dc:title>
+      <dcndl:titleTranscription>エイガ 「 キミタチ ワ ドウ イキル カ 」 アカデミーショウ ジュショウ キシャ カイケン</dcndl:titleTranscription>
+      <dc:creator>鈴木 敏夫</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033465309</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZW2</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I033465309"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520300291256830720"/>
+      <dc:description>掲載誌：熱風 : スタジオジブリの好奇心 4(通号 256) p.5-24</dc:description>
+    </item>
+    <item>
+      <title>映画『君たちはどう生きるか』作画監督が明かす 宮﨑駿監督との真剣勝負</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I032973812</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：映画『君たちはどう生きるか』作画監督が明かす 宮﨑駿監督との真剣勝負</li><li>タイトル（読み）：エイガ 『 キミタチ ワ ドウ イキル カ 』 サクガ カントク ガ アカス ミヤザキ ハヤオ カントク ト ノ シンケン ショウブ</li><li>責任表示：本田 雄</li></ul>]]></description>
+      <author>本田 雄,本田 雄</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I032973812</guid>
+      <pubDate>Wed, 9 Aug 2023 22:10:47 +0900</pubDate>
+      <dc:title>映画『君たちはどう生きるか』作画監督が明かす 宮﨑駿監督との真剣勝負</dc:title>
+      <dcndl:titleTranscription>エイガ 『 キミタチ ワ ドウ イキル カ 』 サクガ カントク ガ アカス ミヤザキ ハヤオ カントク ト ノ シンケン ショウブ</dcndl:titleTranscription>
+      <dc:creator>本田 雄</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">032973812</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZW1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I032973812"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520578603924082944"/>
+      <dc:description>掲載誌：文芸春秋 9 p.154-163</dc:description>
+    </item>
+    <item>
+      <title>英語教育リレー随想  97号(2018.4)  『君たちはどう生きるか』によせて</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1050868062825974784</link>
+      <description><![CDATA[<p>2018-04,<p><ul><li>タイトル：英語教育リレー随想  97号(2018.4)  『君たちはどう生きるか』によせて</li></ul>]]></description>
+      <author>東條, 加寿子,Tojo, Kazuhiko</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1050868062825974784</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>英語教育リレー随想  97号(2018.4)  『君たちはどう生きるか』によせて</dc:title>
+      <dc:creator>東條, 加寿子</dc:creator>
+      <dc:creator>Tojo, Kazuhiko</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">2018-04</dc:date>
+      <dcterms:issued>2018-04</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://hdl.handle.net/10775/3513"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1050868062825974784"/>
+      <dc:description> 2018-04</dc:description>
+    </item>
+    <item>
+      <title>往復書簡 君たちはどう生きるか</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I032134211</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：往復書簡 君たちはどう生きるか</li><li>タイトル（読み）：オウフク ショカン キミタチ ワ ドウ イキル カ</li><li>責任表示：寺田 雄飛,那須 まさのぶ</li></ul>]]></description>
+      <author>寺田 雄飛,那須 まさのぶ,寺田 雄飛,那須 まさのぶ</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I032134211</guid>
+      <pubDate>Tue, 17 May 2022 00:36:04 +0900</pubDate>
+      <dc:title>往復書簡 君たちはどう生きるか</dc:title>
+      <dcndl:titleTranscription>オウフク ショカン キミタチ ワ ドウ イキル カ</dcndl:titleTranscription>
+      <dc:creator>寺田 雄飛</dc:creator>
+      <dc:creator>那須 まさのぶ</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">032134211</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZF1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I032134211"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520010707387402240"/>
+      <dc:description>掲載誌：「教育」と「文学」の研究 : 国分一太郎「教育」と「文学」研究会・紀要 / 国分一太郎「教育」と「文学」研究会 編 7 p.25-27</dc:description>
+    </item>
+    <item>
+      <title>「夫」になれない男たち : 『君たちはどう生きるか』『街とその不確かな壁』そして『【推しの子】』</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I033528636</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：「夫」になれない男たち : 『君たちはどう生きるか』『街とその不確かな壁』そして『【推しの子】』</li><li>タイトル（読み）：「 オット 」 ニ ナレナイ オトコ タチ : 『 キミタチ ワ ドウ イキル カ 』 『 マチ ト ソノ フ タシカ ナ カベ 』 ソシテ 『 【 オシ ノ コ 】 』</li><li>責任表示：三宅 香帆</li><li>シリーズ名：批評総特集 「論」の遠近法2024</li><li>シリーズ名（読み）：ヒヒョウ ソウ トクシュウ 「 ロン 」 ノ エンキンホウ 2024</li></ul>]]></description>
+      <author>三宅 香帆,三宅 香帆</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I033528636</guid>
+      <pubDate>Wed, 12 Jun 2024 22:11:40 +0900</pubDate>
+      <dc:title>「夫」になれない男たち : 『君たちはどう生きるか』『街とその不確かな壁』そして『【推しの子】』</dc:title>
+      <dcndl:titleTranscription>「 オット 」 ニ ナレナイ オトコ タチ : 『 キミタチ ワ ドウ イキル カ 』 『 マチ ト ソノ フ タシカ ナ カベ 』 ソシテ 『 【 オシ ノ コ 】 』</dcndl:titleTranscription>
+      <dc:creator>三宅 香帆</dc:creator>
+      <dcndl:seriesTitle>批評総特集 「論」の遠近法2024</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ヒヒョウ ソウ トクシュウ 「 ロン 」 ノ エンキンホウ 2024</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033528636</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZK24</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I033528636"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520019004057159680"/>
+      <dc:description>掲載誌：群像 7 p.206-214</dc:description>
+    </item>
+  </channel>
+</rss>

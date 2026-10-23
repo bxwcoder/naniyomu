@@ -1,0 +1,847 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>よつばと! - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E3%82%88%E3%81%A4%E3%81%B0%E3%81%A8%21&amp;cnt=30</link>
+    <description>Search results for title=よつばと! cnt=30</description>
+    <language>ja</language>
+    <openSearch:totalResults>61</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>30</openSearch:itemsPerPage>
+    <item>
+      <title>建築家が見たマンガの世界</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I025761267</link>
+      <description><![CDATA[<p>よつばと!・ジョジョの奇妙な冒険・ヱヴァンゲリヲン新劇場版・ペルソナ4の経済編,グロリアアーステクノロジー,2014,978-4-434-19660-7<p><ul><li>タイトル：建築家が見たマンガの世界</li><li>タイトル（読み）：ケンチクカ ガ ミタ マンガ ノ セカイ</li><li>責任表示：櫻田一家 著</li><li>NDC(9)：726.101</li></ul>]]></description>
+      <author>櫻田一家,櫻田一家 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I025761267</guid>
+      <pubDate>Fri, 24 Oct 2014 01:19:19 +0900</pubDate>
+      <dc:title>建築家が見たマンガの世界</dc:title>
+      <dcndl:titleTranscription>ケンチクカ ガ ミタ マンガ ノ セカイ</dcndl:titleTranscription>
+      <dc:creator>櫻田一家</dc:creator>
+      <dcndl:creatorTranscription>サクラダ イッカ</dcndl:creatorTranscription>
+      <dcndl:volume>よつばと!・ジョジョの奇妙な冒険・ヱヴァンゲリヲン新劇場版・ペルソナ4の経済編</dcndl:volume>
+      <dc:publisher>グロリアアーステクノロジー</dc:publisher>
+      <dc:publisher>星雲社 (発売)</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2014</dc:date>
+      <dcterms:issued>2014.9</dcterms:issued>
+      <dcndl:price>1200円</dcndl:price>
+      <dc:extent>199p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-434-19660-7</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">025761267</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22477481</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">33154116</dc:identifier>
+      <dc:subject>漫画--日本</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">KC486</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.101</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=474625&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000013231477"/>
+      <rdfs:seeAlso rdf:resource="https://www2.library.pref.kagoshima.jp/kento/opac/switch-detail-iccap.do?bibid=1111390175"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.okinawa.jp/winj/opac/switch-detail-iccap.do?bibid=1101169431"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I025761267"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bibj/?B13081006"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971430859724150422"/>
+      <dc:description> 2014</dc:description>
+    </item>
+    <item>
+      <title>心にひびくマンガの名言 : 人生の大切なことはマンガがすべて教えてくれる</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I025167947</link>
+      <description><![CDATA[<p>5,学研教育出版,2014,978-4-05-501057-3<p><ul><li>タイトル：心にひびくマンガの名言 : 人生の大切なことはマンガがすべて教えてくれる</li><li>タイトル（読み）：ココロ ニ ヒビク マンガ ノ メイゲン : ジンセイ ノ タイセツ ナ コト ワ マンガ ガ スベテ オシエテ クレル</li><li>NDC(9)：726.101</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I025167947</guid>
+      <pubDate>Mon, 13 Jun 2022 19:36:21 +0900</pubDate>
+      <dc:title>心にひびくマンガの名言 : 人生の大切なことはマンガがすべて教えてくれる</dc:title>
+      <dcndl:titleTranscription>ココロ ニ ヒビク マンガ ノ メイゲン : ジンセイ ノ タイセツ ナ コト ワ マンガ ガ スベテ オシエテ クレル</dcndl:titleTranscription>
+      <dcndl:volume>5</dcndl:volume>
+      <dc:publisher>学研教育出版</dc:publisher>
+      <dc:publisher>学研マーケティング (発売)</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2014</dc:date>
+      <dcterms:issued>2014.2</dcterms:issued>
+      <dcndl:price>2800円</dcndl:price>
+      <dc:extent>45p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-05-501057-3</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">025167947</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22361440</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">33046430</dc:identifier>
+      <dc:subject>漫画</dc:subject>
+      <dcndl:genre>児童図書</dcndl:genre>
+      <dcndl:genreTranscription>ジドウ トショ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y6</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.101</dc:subject>
+      <dc:description>索引あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.apl.pref.akita.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009920158031"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001002247927"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp//winj/opac/switch-detail-iccap.do?bibid=1101493636"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1152402661"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=2493219&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.yamanashi.jp/licsxp-opac/WOpacMnuTopInitAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://www.tosyokan.pref.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000406919"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000012898744"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.wakayama-c.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1102632757"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1101995622"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009811760556"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1110089660"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.yamaguchi.lg.jp//wo/opc_srh/srh_detail/1001158376/"/>
+      <rdfs:seeAlso rdf:resource="https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1103652104"/>
+      <rdfs:seeAlso rdf:resource="https://www.ehimetosyokan.jp/winj/opac/switch-detail-iccap.do?bibid=1101109652"/>
+      <rdfs:seeAlso rdf:resource="https://www2.tosyo-saga.jp/kentosyo2/opac/switch-detail-iccap.do?bibid=1101711997"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000002234117"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.miyazaki.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101887697"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I025167947"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bibj/?B12996376"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784055010573"/>
+      <dc:description> 2014</dc:description>
+    </item>
+    <item>
+      <title>続・棒パン日常 四つ葉と四つんばい</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I032825438</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：続・棒パン日常 四つ葉と四つんばい</li><li>タイトル（読み）：ゾク ・ ボウ パン ニチジョウ ヨツバ ト ヨッツ ンバイ</li><li>責任表示：穂村 弘</li><li>シリーズ名：さらば友よ! 特集 目黒考二・北上次郎・藤代三郎追悼号</li><li>シリーズ名（読み）：サラバ トモ ヨ! トクシュウ メグロコウニ ・ ホクジョウ ジロウ ・ フジシロ サブロウ ツイトウゴウ</li></ul>]]></description>
+      <author>穂村 弘,穂村 弘</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I032825438</guid>
+      <pubDate>Thu, 25 May 2023 23:42:41 +0900</pubDate>
+      <dc:title>続・棒パン日常 四つ葉と四つんばい</dc:title>
+      <dcndl:titleTranscription>ゾク ・ ボウ パン ニチジョウ ヨツバ ト ヨッツ ンバイ</dcndl:titleTranscription>
+      <dc:creator>穂村 弘</dc:creator>
+      <dcndl:seriesTitle>さらば友よ! 特集 目黒考二・北上次郎・藤代三郎追悼号</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>サラバ トモ ヨ! トクシュウ メグロコウニ ・ ホクジョウ ジロウ ・ フジシロ サブロウ ツイトウゴウ</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">032825438</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZU11</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I032825438"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520859216114739840"/>
+      <dc:description>掲載誌：本の雑誌 5(通号 479) p.152</dc:description>
+    </item>
+    <item>
+      <title>大切なことに気づく : ちびまる子ちゃん/バガボンド/よつばと!/FAIRY TAIL/もやしもん/ジャングル大帝など</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1970304959855756678</link>
+      <description><![CDATA[<p>学研教育出版,2014,9784055010573<p><ul><li>タイトル：大切なことに気づく : ちびまる子ちゃん/バガボンド/よつばと!/FAIRY TAIL/もやしもん/ジャングル大帝など</li><li>NDC(9)：726.101</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1970304959855756678</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>大切なことに気づく : ちびまる子ちゃん/バガボンド/よつばと!/FAIRY TAIL/もやしもん/ジャングル大帝など</dc:title>
+      <dc:publisher>学研教育出版</dc:publisher>
+      <dc:publisher>学研マーケティング (発売)</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2014</dc:date>
+      <dcterms:issued>2014.2</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9784055010573</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9784055010573</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BB16608804</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">Y6</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.101</dc:subject>
+      <dc:description>索引あり</dc:description>
+      <dc:description>第5刷の出版事項: 東京 : 学研プラス, 2016.4</dc:description>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970304959855756678"/>
+      <dc:description> 2014</dc:description>
+    </item>
+    <item>
+      <title>小さなお花屋さん〈よつば登場!〉</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I026095599</link>
+      <description><![CDATA[<p>文芸社,2015,978-4-286-15373-5<p><ul><li>タイトル：小さなお花屋さん〈よつば登場!〉</li><li>タイトル（読み）：チイサナ オハナヤサン ヨツバ トウジョウ</li><li>責任表示：高橋冬星 文と絵</li><li>NDC(9)：913.6</li></ul>]]></description>
+      <author>高橋, 冬星,高橋冬星 文と絵</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I026095599</guid>
+      <pubDate>Mon, 6 Jun 2022 18:08:05 +0900</pubDate>
+      <dc:title>小さなお花屋さん〈よつば登場!〉</dc:title>
+      <dcndl:titleTranscription>チイサナ オハナヤサン ヨツバ トウジョウ</dcndl:titleTranscription>
+      <dc:creator>高橋, 冬星</dc:creator>
+      <dcndl:creatorTranscription>タカハシ, トウセイ</dcndl:creatorTranscription>
+      <dc:publisher>文芸社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2015</dc:date>
+      <dcterms:issued>2015.3</dcterms:issued>
+      <dcndl:price>500円</dcndl:price>
+      <dc:extent>67p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-286-15373-5</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">026095599</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22541866</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">33222865</dc:identifier>
+      <dcndl:genre>児童図書</dcndl:genre>
+      <dcndl:genreTranscription>ジドウ トショ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y8</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">913.6</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I026095599"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784286153735"/>
+      <dc:description> 2015</dc:description>
+    </item>
+    <item>
+      <title>とーちゃんだからできる魔法の子育てBOOK : 漫画『よつばと!』にも学ぶ</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I023978637</link>
+      <description><![CDATA[<p>笠倉出版社,2012,978-4-7730-8624-9<p><ul><li>タイトル：とーちゃんだからできる魔法の子育てBOOK : 漫画『よつばと!』にも学ぶ</li><li>タイトル（読み）：トーチャン ダカラ デキル マホウ ノ コソダテ ブック : マンガ ヨツバ ト ニモ マナブ</li><li>責任表示：川井道子 監修</li><li>NDC(9)：379.9</li></ul>]]></description>
+      <author>川井, 道子,川井道子 監修</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I023978637</guid>
+      <pubDate>Mon, 26 Nov 2012 20:43:30 +0900</pubDate>
+      <dc:title>とーちゃんだからできる魔法の子育てBOOK : 漫画『よつばと!』にも学ぶ</dc:title>
+      <dcndl:titleTranscription>トーチャン ダカラ デキル マホウ ノ コソダテ ブック : マンガ ヨツバ ト ニモ マナブ</dcndl:titleTranscription>
+      <dc:creator>川井, 道子</dc:creator>
+      <dcndl:creatorTranscription>カワイ, ミチコ</dcndl:creatorTranscription>
+      <dc:publisher>笠倉出版社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2012</dc:date>
+      <dcterms:issued>2012.10</dcterms:issued>
+      <dcndl:price>1300円</dcndl:price>
+      <dc:extent>160p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-7730-8624-9</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">023978637</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22160777</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">32827098</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">Y76</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">379.9</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=2336528&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1105121051/"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000012610141"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007000244837"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1101893269"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000002093231"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kumamoto.jp/winj/opac/switch-detail-iccap.do?bibid=1102082965"/>
+      <rdfs:seeAlso rdf:resource="https://www2.library.pref.kagoshima.jp/kento/opac/switch-detail-iccap.do?bibid=1111193362"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I023978637"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784773086249"/>
+      <dc:description> 2012</dc:description>
+    </item>
+    <item>
+      <title>トキワ荘企画展「よつばと！原画展」①</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000094-I394376</link>
+      <description><![CDATA[<p>東京都豊島区,2023-08-04,<p><ul><li>タイトル：トキワ荘企画展「よつばと！原画展」①</li></ul>]]></description>
+      <author/>
+      <category>文書・図像類</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000094-I394376</guid>
+      <pubDate>Wed, 25 Mar 2026 16:12:15 +0900</pubDate>
+      <dc:title>トキワ荘企画展「よつばと！原画展」①</dc:title>
+      <dc:publisher>東京都豊島区</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2023-08-04</dc:date>
+      <dcterms:issued>2023年8月4日</dcterms:issued>
+      <dc:description>写真</dc:description>
+      <dc:description>平成ぐらふぃっくす－平成報道写真-令和5年</dc:description>
+      <rdfs:seeAlso rdf:resource="https://adeac.jp/toshima-history/catalog/gp2023080401"/>
+      <dc:description> 2023-08-04</dc:description>
+    </item>
+    <item>
+      <title>トキワ荘企画展「よつばと！原画展」②</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000094-I394377</link>
+      <description><![CDATA[<p>東京都豊島区,2023-08-04,<p><ul><li>タイトル：トキワ荘企画展「よつばと！原画展」②</li></ul>]]></description>
+      <author/>
+      <category>文書・図像類</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000094-I394377</guid>
+      <pubDate>Wed, 25 Mar 2026 16:12:15 +0900</pubDate>
+      <dc:title>トキワ荘企画展「よつばと！原画展」②</dc:title>
+      <dc:publisher>東京都豊島区</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2023-08-04</dc:date>
+      <dcterms:issued>2023年8月4日</dcterms:issued>
+      <dc:description>写真</dc:description>
+      <dc:description>平成ぐらふぃっくす－平成報道写真-令和5年</dc:description>
+      <rdfs:seeAlso rdf:resource="https://adeac.jp/toshima-history/catalog/gp2023080402"/>
+      <dc:description> 2023-08-04</dc:description>
+    </item>
+    <item>
+      <title>豊島区立トキワ荘マンガミュージアム特別企画展 「よつばと！原画展」</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000094-I386198</link>
+      <description><![CDATA[<p>2023-08-04,<p><ul><li>タイトル：豊島区立トキワ荘マンガミュージアム特別企画展 「よつばと！原画展」</li><li>責任表示：豊島区 : トシマク</li></ul>]]></description>
+      <author>豊島区 : トシマク</author>
+      <category>文書・図像類</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000094-I386198</guid>
+      <pubDate>Wed, 25 Mar 2026 16:12:15 +0900</pubDate>
+      <dc:title>豊島区立トキワ荘マンガミュージアム特別企画展 「よつばと！原画展」</dc:title>
+      <dc:date xsi:type="dcterms:W3CDTF">2023-08-04</dc:date>
+      <dcterms:issued>令和5年8月4日</dcterms:issued>
+      <dc:description>文書・記録</dc:description>
+      <dc:description>資料アーカイブ－基礎資料－プレスリリース</dc:description>
+      <rdfs:seeAlso rdf:resource="https://adeac.jp/toshima-history/catalog/mp408789"/>
+      <dc:description> 2023-08-04</dc:description>
+    </item>
+    <item>
+      <title>「なじみのないもの」の翻訳と誤訳に関する考察 : 日本マンガ『よつばと！』のドイツ語訳における「たい焼きJ</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1050007072223532928</link>
+      <description><![CDATA[<p>2016-02-28,<p><ul><li>タイトル：「なじみのないもの」の翻訳と誤訳に関する考察 : 日本マンガ『よつばと！』のドイツ語訳における「たい焼きJ</li></ul>]]></description>
+      <author>大塚, 萌</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1050007072223532928</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>「なじみのないもの」の翻訳と誤訳に関する考察 : 日本マンガ『よつばと！』のドイツ語訳における「たい焼きJ</dc:title>
+      <dc:creator>大塚, 萌</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">2016-02-28</dc:date>
+      <dcterms:issued>2016-02-28</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://opac.ll.chiba-u.jp/da/curator/100389/"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1050007072223532928"/>
+      <dc:description>掲載誌：千葉大学大学院人文社会科学研究科研究プロジェクト報告書 = Chiba University Graduate School of Humanities and Social Sciences Research Project Reports 2016-02-28 p.96-104</dc:description>
+    </item>
+    <item>
+      <title>夏胡瓜四葉とそのF1の形質</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I10078725</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：夏胡瓜四葉とそのF1の形質</li><li>タイトル（読み）：ナツ キュウリ ヨツバ ト ソノ F1 ノ ケイシツ</li><li>責任表示：金沢 幸三</li></ul>]]></description>
+      <author>金沢 幸三,金沢 幸三</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I10078725</guid>
+      <pubDate>Thu, 12 Mar 2009 21:30:31 +0900</pubDate>
+      <dc:title>夏胡瓜四葉とそのF1の形質</dc:title>
+      <dcndl:titleTranscription>ナツ キュウリ ヨツバ ト ソノ F1 ノ ケイシツ</dcndl:titleTranscription>
+      <dc:creator>金沢 幸三</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">10078725</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZR7</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I10078725"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1523669554861952384"/>
+      <dc:description>掲載誌：農業技術研究 5 p.6～9</dc:description>
+    </item>
+    <item>
+      <title>日独比較文化から見る「なじみのないもの」の翻訳手法--日本マンガ『よつばと!』のドイツ語訳における「セミ」</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000025-I014500004996060</link>
+      <description><![CDATA[<p>千葉大学大学院人文社会科学研究科,2016-03-30,<p><ul><li>タイトル：日独比較文化から見る「なじみのないもの」の翻訳手法--日本マンガ『よつばと!』のドイツ語訳における「セミ」</li><li>責任表示：大塚, 萌</li></ul>]]></description>
+      <author>大塚, 萌,大塚, 萌</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000025-I014500004996060</guid>
+      <pubDate>Wed, 30 Jun 2021 14:53:53 +0900</pubDate>
+      <dc:title>日独比較文化から見る「なじみのないもの」の翻訳手法--日本マンガ『よつばと!』のドイツ語訳における「セミ」</dc:title>
+      <dc:creator>大塚, 萌</dc:creator>
+      <dc:publisher>千葉大学大学院人文社会科学研究科</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2016-03-30</dc:date>
+      <dcterms:issued>2016-03-30</dcterms:issued>
+      <dc:subject>翻訳</dc:subject>
+      <dc:description>出版タイプ： VoR</dc:description>
+      <dc:description>type:text</dc:description>
+      <dc:description>本論ではドイツ語に翻訳された日本マンガのテクスト比較分析を行う。作品に登場するものには、日本ではなじみの深いものであっても、翻訳版受容側の文化にとってはあまりなじみのないものも含まれる。それらを翻訳する際に、どのように翻訳語が選択されているかを本研究では分析する。また、翻訳語選択の背景となる文化はどのようなものかを先行研究から考察する。分析には、『よつばと!』を用いる。対象となる要素は、「セミ」に関する語とする。先行研究から、ドイツにはセミは生息しておらず、鳴く昆虫という程度の認識しかないことが明らかになった。『よつばと!』の翻訳例においては、„Grille“と„Zikade“を文脈に合わせて使い分けていることが分かった。さらに単なる翻訳語の使い分けという問題ではなく、単語の対応関係の構成変更やオノマトペ翻訳、文字テクストからの要素削除の問題も関わることが分かった。</dc:description>
+      <rdfs:seeAlso rdf:resource="https://opac.ll.chiba-u.jp/da/curator/900119412/"/>
+      <dc:description>掲載誌：千葉大学人文社会科学研究 2016-03-30 p.159-179</dc:description>
+    </item>
+    <item>
+      <title>日本マンガ『よつばと！』翻訳比較研究に関わる補遺</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1050007072208669184</link>
+      <description><![CDATA[<p>2017-02-28,<p><ul><li>タイトル：日本マンガ『よつばと！』翻訳比較研究に関わる補遺</li></ul>]]></description>
+      <author>大塚, 萌</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1050007072208669184</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>日本マンガ『よつばと！』翻訳比較研究に関わる補遺</dc:title>
+      <dc:creator>大塚, 萌</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">2017-02-28</dc:date>
+      <dcterms:issued>2017-02-28</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://opac.ll.chiba-u.jp/da/curator/103109/"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1050007072208669184"/>
+      <dc:description>掲載誌：千葉大学大学院人文社会科学研究科研究プロジェクト報告書 = Chiba University. Graduate School of Humanities and Social Sciences Research Project Reports 2017-02-28 p.54-79</dc:description>
+    </item>
+    <item>
+      <title>発話行為・会話分析的要素による日独マンガ翻訳テクストのパラメーター比較分析 : 日本マンガ『よつばと！』における「何（だ）それ」を例に</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1050851497138834432</link>
+      <description><![CDATA[<p>2016-02-28,<p><ul><li>タイトル：発話行為・会話分析的要素による日独マンガ翻訳テクストのパラメーター比較分析 : 日本マンガ『よつばと！』における「何（だ）それ」を例に</li></ul>]]></description>
+      <author>大塚, 萌</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1050851497138834432</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>発話行為・会話分析的要素による日独マンガ翻訳テクストのパラメーター比較分析 : 日本マンガ『よつばと！』における「何（だ）それ」を例に</dc:title>
+      <dc:creator>大塚, 萌</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">2016-02-28</dc:date>
+      <dcterms:issued>2016-02-28</dcterms:issued>
+      <rdfs:seeAlso rdf:resource="https://opac.ll.chiba-u.jp/da/curator/100346/"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1050851497138834432"/>
+      <dc:description>掲載誌：千葉大学大学院人文社会科学研究科研究プロジェクト報告書 = Chiba University Graduate School of Humanities and Social Sciences Research Project Reports 2016-02-28 p.56-85</dc:description>
+    </item>
+    <item>
+      <title>日独比較文化から見る「なじみのないもの」の翻訳手法 : 日本マンガ『よつばと!』のドイツ語訳における「セミ」</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I027298573</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：日独比較文化から見る「なじみのないもの」の翻訳手法 : 日本マンガ『よつばと!』のドイツ語訳における「セミ」</li><li>タイトル（読み）：ヒドクヒカク ブンカ カラ ミル 「 ナジミ ノ ナイ モノ 」 ノ ホンヤク シュホウ : ニホン マンガ 『 ヨツバ ト!』 ノ ドイツゴ ヤク ニ オケル 「 セミ 」</li><li>責任表示：大塚 萌</li></ul>]]></description>
+      <author>大塚 萌,大塚 萌</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I027298573</guid>
+      <pubDate>Sat, 14 May 2022 01:43:42 +0900</pubDate>
+      <dc:title>日独比較文化から見る「なじみのないもの」の翻訳手法 : 日本マンガ『よつばと!』のドイツ語訳における「セミ」</dc:title>
+      <dcndl:titleTranscription>ヒドクヒカク ブンカ カラ ミル 「 ナジミ ノ ナイ モノ 」 ノ ホンヤク シュホウ : ニホン マンガ 『 ヨツバ ト!』 ノ ドイツゴ ヤク ニ オケル 「 セミ 」</dcndl:titleTranscription>
+      <dc:creator>大塚 萌</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">027298573</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZV1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I027298573"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1050288547192152704"/>
+      <dc:description>掲載誌：千葉大学人文社会科学研究 = Studies on humanities and social sciences of Chiba University / 千葉大学大学院人文社会科学研究科 編 32 p.159-179</dc:description>
+    </item>
+    <item>
+      <title>FiND YOTSUBA : 「よつばと!」カレンダー写真集</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I024768750</link>
+      <description><![CDATA[<p>アスキー・メディアワークス,2013,978-4-04-891879-4<p><ul><li>タイトル：FiND YOTSUBA : 「よつばと!」カレンダー写真集</li><li>タイトル（読み）：ファインド ヨツバ : ヨツバト カレンダー シャシンシュウ</li><li>責任表示：あずまきよひこ イラスト,かくたみほ 写真</li><li>NDC(9)：748</li></ul>]]></description>
+      <author>かくた, みほ,あずまきよひこ イラスト,かくたみほ 写真</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I024768750</guid>
+      <pubDate>Tue, 24 Sep 2013 22:56:44 +0900</pubDate>
+      <dc:title>FiND YOTSUBA : 「よつばと!」カレンダー写真集</dc:title>
+      <dcndl:titleTranscription>ファインド ヨツバ : ヨツバト カレンダー シャシンシュウ</dcndl:titleTranscription>
+      <dc:creator>かくた, みほ</dc:creator>
+      <dcndl:creatorTranscription>カクタ, ミホ</dcndl:creatorTranscription>
+      <dc:publisher>アスキー・メディアワークス</dc:publisher>
+      <dc:publisher>KADOKAWA (発売)</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2013</dc:date>
+      <dcterms:issued>2013.8</dcterms:issued>
+      <dcndl:price>2000円</dcndl:price>
+      <dc:extent>90p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-04-891879-4</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">024768750</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22301703</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">32972737</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">Y89</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">748</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009811706249"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I024768750"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784048918794"/>
+      <dc:description> 2013</dc:description>
+    </item>
+    <item>
+      <title>翻訳・翻案・伝承 : 文化接触と交流の総合研究</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I028168527</link>
+      <description><![CDATA[<p>2,千葉大学大学院人文社会科学研究科,2017,<p><ul><li>タイトル：翻訳・翻案・伝承 : 文化接触と交流の総合研究</li><li>タイトル（読み）：ホンヤク ・ ホンアン ・ デンショウ : ブンカ セッショク ト コウリュウ ノ ソウゴウ ケンキュウ</li><li>責任表示：石井正人 編</li><li>シリーズ名：人文社会科学研究科研究プロジェクト報告書 = Chiba University Graduate School of Humanities and Social Sciences research project reports ; 第320集</li><li>シリーズ名（読み）：ジンブン シャカイ カガク ケンキュウカ ケンキュウ プロジェクト ホウコクショ = Chiba University Graduate School of Humanities and Social Sciences research project reports ; ダイ320シュウ</li><li>NDC(10)：361.5</li></ul>]]></description>
+      <author>石井, 正人, 1957-,千葉大学大学院人文社会科学研究科,石井正人 編</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I028168527</guid>
+      <pubDate>Fri, 23 Jun 2017 19:58:28 +0900</pubDate>
+      <dc:title>翻訳・翻案・伝承 : 文化接触と交流の総合研究</dc:title>
+      <dcndl:titleTranscription>ホンヤク ・ ホンアン ・ デンショウ : ブンカ セッショク ト コウリュウ ノ ソウゴウ ケンキュウ</dcndl:titleTranscription>
+      <dc:creator>石井, 正人, 1957-</dc:creator>
+      <dc:creator>千葉大学大学院人文社会科学研究科</dc:creator>
+      <dcndl:creatorTranscription>イシイ, マサト, 1957-</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>チバ ダイガク ダイガクイン ジンブン シャカイ カガク ケンキュウカ</dcndl:creatorTranscription>
+      <dcndl:volume>2</dcndl:volume>
+      <dcndl:seriesTitle>人文社会科学研究科研究プロジェクト報告書 = Chiba University Graduate School of Humanities and Social Sciences research project reports ; 第320集</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ジンブン シャカイ カガク ケンキュウカ ケンキュウ プロジェクト ホウコクショ = Chiba University Graduate School of Humanities and Social Sciences research project reports ; ダイ320シュウ</dcndl:seriesTitleTranscription>
+      <dc:publisher>千葉大学大学院人文社会科学研究科</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2017</dc:date>
+      <dcterms:issued>2017.2</dcterms:issued>
+      <dc:extent>413p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">028168527</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22902054</dc:identifier>
+      <dc:subject>文化変容</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">EC212</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">361.5</dc:subject>
+      <dc:description>文献あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I028168527"/>
+      <dc:description> 2017</dc:description>
+    </item>
+    <item>
+      <title>マンガに隠れたビジネスのヒントを探る(第8回) よつばと破壊的イノベーション : 「よつばと!」(アスキー・メディアワークス)より</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I025042625</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：マンガに隠れたビジネスのヒントを探る(第8回) よつばと破壊的イノベーション : 「よつばと!」(アスキー・メディアワークス)より</li><li>タイトル（読み）：マンガ ニ カクレタ ビジネス ノ ヒント オ サグル(ダイ8カイ) ヨツバ ト ハカイテキ イノベーション : 「 ヨツバ ト!」(アスキー ・ メディア ワークス)ヨリ</li><li>責任表示：稲垣 桃子</li></ul>]]></description>
+      <author>稲垣 桃子,稲垣 桃子</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I025042625</guid>
+      <pubDate>Thu, 5 Dec 2013 22:22:14 +0900</pubDate>
+      <dc:title>マンガに隠れたビジネスのヒントを探る(第8回) よつばと破壊的イノベーション : 「よつばと!」(アスキー・メディアワークス)より</dc:title>
+      <dcndl:titleTranscription>マンガ ニ カクレタ ビジネス ノ ヒント オ サグル(ダイ8カイ) ヨツバ ト ハカイテキ イノベーション : 「 ヨツバ ト!」(アスキー ・ メディア ワークス)ヨリ</dcndl:titleTranscription>
+      <dc:creator>稲垣 桃子</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">025042625</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZD25</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I025042625"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1523951029740843904"/>
+      <dc:description>掲載誌：企業診断 / 同友館 編 12 p.60-63</dc:description>
+    </item>
+    <item>
+      <title>ユートピアゆき猫目の切符--『よつばと!』のメタ感情記号</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I9563205</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：ユートピアゆき猫目の切符--『よつばと!』のメタ感情記号</li><li>タイトル（読み）：ユートピア ユキ ネコメ ノ キップ ヨツバ ト ノ メタ カンジョウ キゴウ</li><li>責任表示：斎藤 環</li><li>シリーズ名：特集 マンガ批評の新展開</li><li>シリーズ名（読み）：トクシュウ マンガ ヒヒョウ ノ シンテンカイ</li></ul>]]></description>
+      <author>斎藤 環,斎藤 環</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I9563205</guid>
+      <pubDate>Wed, 26 Jun 2024 20:45:49 +0900</pubDate>
+      <dc:title>ユートピアゆき猫目の切符--『よつばと!』のメタ感情記号</dc:title>
+      <dcndl:titleTranscription>ユートピア ユキ ネコメ ノ キップ ヨツバ ト ノ メタ カンジョウ キゴウ</dcndl:titleTranscription>
+      <dc:creator>斎藤 環</dc:creator>
+      <dcndl:seriesTitle>特集 マンガ批評の新展開</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>トクシュウ マンガ ヒヒョウ ノ シンテンカイ</dcndl:seriesTitleTranscription>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">9563205</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZK24</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I9563205"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1520291855148285568"/>
+      <dc:description>掲載誌：ユリイカ = Eureka 7(通号 552) p.77～83</dc:description>
+    </item>
+    <item>
+      <title>よつばと</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000007725297</link>
+      <description><![CDATA[<p>ジェネオンエンタテインメント,2005,<p><ul><li>タイトル：よつばと</li><li>タイトル（読み）：ヨツバ ト</li><li>責任表示：栗原正己 作曲,栗コーダーポップスオーケストラ 演奏</li></ul>]]></description>
+      <author>栗原正己 作曲,栗コーダーポップスオーケストラ 演奏</author>
+      <category>録音資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000007725297</guid>
+      <pubDate>Mon, 20 Jun 2005 19:09:56 +0900</pubDate>
+      <dc:title>よつばと</dc:title>
+      <dcndl:titleTranscription>ヨツバ ト</dcndl:titleTranscription>
+      <dc:publisher>ジェネオンエンタテインメント</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2005</dc:date>
+      <dcterms:issued>2005.4</dcterms:issued>
+      <dcndl:price>2940円 (税込)</dcndl:price>
+      <dc:extent>録音ディスク 1枚 (42分)</dc:extent>
+      <dc:identifier xsi:type="dcndl:RIS502">GNCA-1042</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000007725297</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">20785127</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YMC11</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000007725297"/>
+      <dc:description> 2005</dc:description>
+    </item>
+    <item>
+      <title>よつばと 組曲「冬将軍」</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000008379662</link>
+      <description><![CDATA[<p>ジェネオンエンタテインメント,2006,<p><ul><li>タイトル：よつばと 組曲「冬将軍」</li><li>タイトル（読み）：ヨツバ ト</li><li>責任表示：栗原正己 作曲,栗コーダーポップスオーケストラ 演奏</li></ul>]]></description>
+      <author>栗原正己 作曲,栗コーダーポップスオーケストラ 演奏</author>
+      <category>録音資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000008379662</guid>
+      <pubDate>Wed, 7 Mar 2007 00:08:10 +0900</pubDate>
+      <dc:title>よつばと 組曲「冬将軍」</dc:title>
+      <dcndl:titleTranscription>ヨツバ ト</dcndl:titleTranscription>
+      <dc:publisher>ジェネオンエンタテインメント</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2006</dc:date>
+      <dcterms:issued>2006.11</dcterms:issued>
+      <dcndl:price>2940円 (税込)</dcndl:price>
+      <dc:extent>録音ディスク 1枚 (49分)</dc:extent>
+      <dc:identifier xsi:type="dcndl:RIS502">GNCA-1108</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000008379662</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21184248</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YMC11</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000008379662"/>
+      <dc:description> 2006</dc:description>
+    </item>
+    <item>
+      <title>よつばとしろとくろのどうぶつ</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000008398267</link>
+      <description><![CDATA[<p>メディアワークス,2006,4-8402-3714-X<p><ul><li>タイトル：よつばとしろとくろのどうぶつ</li><li>タイトル（読み）：ヨツバ ト シロ ト クロ ノ ドウブツ</li><li>責任表示：あずまきよひこ え</li><li>NDC(9)：726.5</li></ul>]]></description>
+      <author>あずま, きよひこ,あずまきよひこ え</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000008398267</guid>
+      <pubDate>Wed, 7 Feb 2007 01:02:00 +0900</pubDate>
+      <dc:title>よつばとしろとくろのどうぶつ</dc:title>
+      <dcndl:titleTranscription>ヨツバ ト シロ ト クロ ノ ドウブツ</dcndl:titleTranscription>
+      <dc:creator>あずま, きよひこ</dc:creator>
+      <dcndl:creatorTranscription>アズマ, キヨヒコ</dcndl:creatorTranscription>
+      <dc:publisher>メディアワークス</dc:publisher>
+      <dc:publisher>角川書店 (発売)</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2006</dc:date>
+      <dcterms:issued>2006.12</dcterms:issued>
+      <dcndl:price>838円</dcndl:price>
+      <dc:extent>1冊 (ページ付なし)</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">4-8402-3714-X</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">4-8402-3714-X</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000008398267</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21165178</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">Y88</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.5</dc:subject>
+      <dc:description>英語併記</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.apl.pref.akita.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000121728"/>
+      <rdfs:seeAlso rdf:resource="https://www.klnet.pref.kanagawa.jp/winj/opac/switch-detail-iccap.do?bibid=1103080806"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009916063842"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000600213525"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009810921512"/>
+      <rdfs:seeAlso rdf:resource="https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1102434420"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009810969775"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000008398267"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971993809783278900"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784840237147"/>
+      <dc:description> 2006</dc:description>
+    </item>
+    <item>
+      <title>よつばと!</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I023092039</link>
+      <description><![CDATA[<p>1,アスキー・メディアワークス,2003,4-8402-2466-8<p><ul><li>タイトル：よつばと!</li><li>タイトル（読み）：ヨツバ ト !</li><li>責任表示：あずまきよひこ 著</li><li>シリーズ名：電撃コミックス</li><li>シリーズ名（読み）：デンゲキ コミックス</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>あずま, きよひこ,あずまきよひこ 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I023092039</guid>
+      <pubDate>Mon, 22 Nov 2021 20:31:06 +0900</pubDate>
+      <dc:title>よつばと!</dc:title>
+      <dcndl:titleTranscription>ヨツバ ト !</dcndl:titleTranscription>
+      <dc:creator>あずま, きよひこ</dc:creator>
+      <dcndl:creatorTranscription>アズマ, キヨヒコ</dcndl:creatorTranscription>
+      <dcndl:volume>1</dcndl:volume>
+      <dcndl:seriesTitle>電撃コミックス</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>デンゲキ コミックス</dcndl:seriesTitleTranscription>
+      <dc:publisher>アスキー・メディアワークス</dc:publisher>
+      <dc:publisher>角川グループパブリッシング (発売)</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2003</dc:date>
+      <dcterms:issued>2003.9</dcterms:issued>
+      <dcndl:price>600円</dcndl:price>
+      <dc:extent>224p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">4-8402-2466-8</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">4-8402-2466-8</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">023092039</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22138025</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1108030919"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000011233600"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I023092039"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=1962790"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bibj/?B16222627"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970304959844276928"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784840224666"/>
+      <dc:description> 2003</dc:description>
+    </item>
+    <item>
+      <title>よつばと!</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I27211000014134314</link>
+      <description><![CDATA[<p>1,KADOKAWA,2003-09,978-4-04-869066-9<p><ul><li>タイトル：よつばと!</li><li>タイトル（読み）：ヨツバ ト</li><li>責任表示：あずま きよひこ／著</li><li>シリーズ名：電撃コミックス　：　C102-1</li><li>シリーズ名（読み）：デンゲキ コミックス　C-102-1</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>あずま きよひこ,あずま きよひこ／著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I27211000014134314</guid>
+      <pubDate>Thu, 16 Apr 2026 18:48:42 +0900</pubDate>
+      <dc:title>よつばと!</dc:title>
+      <dcndl:titleTranscription>ヨツバ ト</dcndl:titleTranscription>
+      <dc:creator>あずま きよひこ</dc:creator>
+      <dcndl:creatorTranscription>アズマ キヨヒコ</dcndl:creatorTranscription>
+      <dcndl:volume>1</dcndl:volume>
+      <dcndl:seriesTitle>電撃コミックス　：　C102-1</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>デンゲキ コミックス　C-102-1</dcndl:seriesTitleTranscription>
+      <dc:publisher>KADOKAWA</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2003-09</dc:date>
+      <dcterms:issued>2003.9</dcterms:issued>
+      <dcndl:price>600</dcndl:price>
+      <dc:extent>224p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-04-869066-9</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TRCMARCNO">16142256</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1152849301"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014134314"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784048690669"/>
+      <dc:description> 2003-09</dc:description>
+    </item>
+    <item>
+      <title>よつばと！</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I14211110087804</link>
+      <description><![CDATA[<p>１０,アスキー・メディアワークス,2010,404870143<p><ul><li>タイトル：よつばと！</li><li>タイトル（読み）：ヨツバト</li><li>責任表示：あずまきよひこ え</li><li>シリーズ名：電撃コミックス</li><li>シリーズ名（読み）：デンゲキ　コミックス</li><li>NDC(10)：726.1</li></ul>]]></description>
+      <author>あずま, きよひこ,あずまきよひこ え</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I14211110087804</guid>
+      <pubDate>Wed, 3 Jan 2024 09:59:01 +0900</pubDate>
+      <dc:title>よつばと！</dc:title>
+      <dcndl:titleTranscription>ヨツバト</dcndl:titleTranscription>
+      <dc:creator>あずま, きよひこ</dc:creator>
+      <dcndl:creatorTranscription>アズマ, キヨヒコ</dcndl:creatorTranscription>
+      <dcndl:volume>１０</dcndl:volume>
+      <dcndl:seriesTitle>電撃コミックス</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>デンゲキ　コミックス</dcndl:seriesTitleTranscription>
+      <dc:publisher>アスキー・メディアワークス</dc:publisher>
+      <dc:publisher>角川グループパブリッシング</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2010</dc:date>
+      <dcterms:issued>２０１０．１１</dcterms:issued>
+      <dcndl:price>６００円</dcndl:price>
+      <dc:extent>１冊（ページ付なし） ; １９ｃｍ</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">404870143</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1110087804"/>
+      <dc:description> 2010</dc:description>
+    </item>
+    <item>
+      <title>よつばと!</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I023092057</link>
+      <description><![CDATA[<p>10,アスキー・メディアワークス,2010,978-4-04-870143-3<p><ul><li>タイトル：よつばと!</li><li>タイトル（読み）：ヨツバ ト !</li><li>責任表示：あずまきよひこ 著</li><li>シリーズ名：電撃コミックス</li><li>シリーズ名（読み）：デンゲキ コミックス</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>あずま, きよひこ,あずまきよひこ 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I023092057</guid>
+      <pubDate>Mon, 22 Nov 2021 20:31:07 +0900</pubDate>
+      <dc:title>よつばと!</dc:title>
+      <dcndl:titleTranscription>ヨツバ ト !</dcndl:titleTranscription>
+      <dc:creator>あずま, きよひこ</dc:creator>
+      <dcndl:creatorTranscription>アズマ, キヨヒコ</dcndl:creatorTranscription>
+      <dcndl:volume>10</dcndl:volume>
+      <dcndl:seriesTitle>電撃コミックス</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>デンゲキ コミックス</dcndl:seriesTitleTranscription>
+      <dc:publisher>アスキー・メディアワークス</dc:publisher>
+      <dc:publisher>角川グループパブリッシング (発売)</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2010</dc:date>
+      <dcterms:issued>2010.11</dcterms:issued>
+      <dcndl:price>600円</dcndl:price>
+      <dc:extent>145p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-04-870143-3</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">023092057</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22138044</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1152994389"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000012222881"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014255715"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I023092057"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=2240702"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bibj/?B12629147"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bibj/?B16538728"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784048701433"/>
+      <dc:description> 2010</dc:description>
+    </item>
+    <item>
+      <title>よつばと！</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I14211111083638</link>
+      <description><![CDATA[<p>１１,アスキー・メディアワークス,2011,404886097<p><ul><li>タイトル：よつばと！</li><li>タイトル（読み）：ヨツバト</li><li>責任表示：あずまきよひこ え</li><li>シリーズ名：電撃コミックス</li><li>シリーズ名（読み）：デンゲキ　コミックス</li><li>NDC(10)：726.1</li></ul>]]></description>
+      <author>あずま, きよひこ,あずまきよひこ え</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I14211111083638</guid>
+      <pubDate>Mon, 1 Jan 2024 14:00:57 +0900</pubDate>
+      <dc:title>よつばと！</dc:title>
+      <dcndl:titleTranscription>ヨツバト</dcndl:titleTranscription>
+      <dc:creator>あずま, きよひこ</dc:creator>
+      <dcndl:creatorTranscription>アズマ, キヨヒコ</dcndl:creatorTranscription>
+      <dcndl:volume>１１</dcndl:volume>
+      <dcndl:seriesTitle>電撃コミックス</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>デンゲキ　コミックス</dcndl:seriesTitleTranscription>
+      <dc:publisher>アスキー・メディアワークス</dc:publisher>
+      <dc:publisher>角川グループパブリッシング</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2011</dc:date>
+      <dcterms:issued>２０１１．１１</dcterms:issued>
+      <dcndl:price>６００円</dcndl:price>
+      <dc:extent>１冊（ページ付なし） ; １９ｃｍ</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">404886097</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1111083638"/>
+      <dc:description> 2011</dc:description>
+    </item>
+    <item>
+      <title>よつばと!</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I034139642</link>
+      <description><![CDATA[<p>11,アスキー・メディアワークス,2011,978-4-04-886097-0<p><ul><li>タイトル：よつばと!</li><li>タイトル（読み）：ヨツバ ト !</li><li>責任表示：あずまきよひこ</li><li>シリーズ名：電撃コミックス</li><li>シリーズ名（読み）：デンゲキ コミックス</li><li>NDC(10)：726.1</li></ul>]]></description>
+      <author>あずま, きよひこ,あずまきよひこ</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I034139642</guid>
+      <pubDate>Tue, 22 Jul 2025 19:15:34 +0900</pubDate>
+      <dc:title>よつばと!</dc:title>
+      <dcndl:titleTranscription>ヨツバ ト !</dcndl:titleTranscription>
+      <dc:creator>あずま, きよひこ</dc:creator>
+      <dcndl:creatorTranscription>アズマ, キヨヒコ</dcndl:creatorTranscription>
+      <dcndl:volume>11</dcndl:volume>
+      <dcndl:seriesTitle>電撃コミックス</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>デンゲキ コミックス</dcndl:seriesTitleTranscription>
+      <dc:publisher>アスキー・メディアワークス</dc:publisher>
+      <dc:publisher>角川グループパブリッシング</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2011</dc:date>
+      <dcterms:issued>2011.11</dcterms:issued>
+      <dcndl:price>600円</dcndl:price>
+      <dc:extent>178 p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-04-886097-0</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">034139642</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">24141169</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+      <dc:description>出版</dc:description>
+      <dc:description>頒布</dc:description>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1152956615"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000012410759"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014255716"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I034139642"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=2240703"/>
+      <rdfs:seeAlso rdf:resource="https://mediaarts-db.artmuseums.go.jp/id/M431821"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bibj/?B16538729"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784048860970"/>
+      <dc:description> 2011</dc:description>
+    </item>
+    <item>
+      <title>よつばと！</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I14211113031734</link>
+      <description><![CDATA[<p>１２,アスキー・メディアワークス,2013,404891352<p><ul><li>タイトル：よつばと！</li><li>タイトル（読み）：ヨツバト</li><li>責任表示：あずまきよひこ え</li><li>シリーズ名：電撃コミックス</li><li>シリーズ名（読み）：デンゲキ　コミックス</li><li>NDC(10)：726.1</li></ul>]]></description>
+      <author>あずま, きよひこ,あずまきよひこ え</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I14211113031734</guid>
+      <pubDate>Sat, 30 Dec 2023 09:58:46 +0900</pubDate>
+      <dc:title>よつばと！</dc:title>
+      <dcndl:titleTranscription>ヨツバト</dcndl:titleTranscription>
+      <dc:creator>あずま, きよひこ</dc:creator>
+      <dcndl:creatorTranscription>アズマ, キヨヒコ</dcndl:creatorTranscription>
+      <dcndl:volume>１２</dcndl:volume>
+      <dcndl:seriesTitle>電撃コミックス</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>デンゲキ　コミックス</dcndl:seriesTitleTranscription>
+      <dc:publisher>アスキー・メディアワークス</dc:publisher>
+      <dc:publisher>角川グループパブリッシング</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2013</dc:date>
+      <dcterms:issued>２０１３．３</dcterms:issued>
+      <dcndl:price>６００円</dcndl:price>
+      <dc:extent>１冊（ページ付なし） ; １９ｃｍ</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">404891352</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113031734"/>
+      <dc:description> 2013</dc:description>
+    </item>
+    <item>
+      <title>よつばと!</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I034139643</link>
+      <description><![CDATA[<p>12,アスキー・メディアワークス,2013,978-4-04-891352-2<p><ul><li>タイトル：よつばと!</li><li>タイトル（読み）：ヨツバ ト !</li><li>責任表示：あずまきよひこ</li><li>シリーズ名：電撃コミックス</li><li>シリーズ名（読み）：デンゲキ コミックス</li><li>NDC(10)：726.1</li></ul>]]></description>
+      <author>あずま, きよひこ,あずまきよひこ</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I034139643</guid>
+      <pubDate>Tue, 22 Jul 2025 19:18:47 +0900</pubDate>
+      <dc:title>よつばと!</dc:title>
+      <dcndl:titleTranscription>ヨツバ ト !</dcndl:titleTranscription>
+      <dc:creator>あずま, きよひこ</dc:creator>
+      <dcndl:creatorTranscription>アズマ, キヨヒコ</dcndl:creatorTranscription>
+      <dcndl:volume>12</dcndl:volume>
+      <dcndl:seriesTitle>電撃コミックス</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>デンゲキ コミックス</dcndl:seriesTitleTranscription>
+      <dc:publisher>アスキー・メディアワークス</dc:publisher>
+      <dc:publisher>角川グループパブリッシング</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2013</dc:date>
+      <dcterms:issued>2013.3</dcterms:issued>
+      <dcndl:price>600円</dcndl:price>
+      <dc:extent>201 p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-04-891352-2</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">034139643</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">24141170</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+      <dc:description>出版</dc:description>
+      <dc:description>頒布</dc:description>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1152956616"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001210124710"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000012694434"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014255717"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I034139643"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=2240704"/>
+      <rdfs:seeAlso rdf:resource="https://mediaarts-db.artmuseums.go.jp/id/M431822"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bibj/?B12868757"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bibj/?B16538730"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784048913522"/>
+      <dc:description> 2013</dc:description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,89 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>9784062758574 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?isbn=9784062758574&amp;cnt=5</link>
+    <description>Search results for isbn=9784062758574 cnt=5</description>
+    <language>ja</language>
+    <openSearch:totalResults>2</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
+    <item>
+      <title>十角館の殺人</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009135632</link>
+      <description><![CDATA[<p>講談社,2007,978-4-06-275857-4<p><ul><li>タイトル：十角館の殺人</li><li>タイトル（読み）：ジュッカクカン ノ サツジン</li><li>責任表示：綾辻行人 [著]</li><li>シリーズ名：講談社文庫</li><li>シリーズ名（読み）：コウダンシャ ブンコ</li><li>NDC(9)：913.6</li></ul>]]></description>
+      <author>綾辻, 行人, 1960-,綾辻行人 [著]</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000009135632</guid>
+      <pubDate>Fri, 4 Sep 2026 01:17:27 +0900</pubDate>
+      <dc:title>十角館の殺人</dc:title>
+      <dcndl:titleTranscription>ジュッカクカン ノ サツジン</dcndl:titleTranscription>
+      <dc:creator>綾辻, 行人, 1960-</dc:creator>
+      <dcndl:creatorTranscription>アヤツジ, ユキト, 1960-</dcndl:creatorTranscription>
+      <dcndl:edition>新装改訂版</dcndl:edition>
+      <dcndl:seriesTitle>講談社文庫</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>コウダンシャ ブンコ</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2007</dc:date>
+      <dcterms:issued>2007.10</dcterms:issued>
+      <dcndl:price>695円</dcndl:price>
+      <dc:extent>495p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-275857-4</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000009135632</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21307770</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">KH73</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">913.6</dc:subject>
+      <dc:description>著作目録あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.hokkaido.jp/wo/opc_srh/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1006700458204"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.miyagi.jp/winj/opac/switch-detail-iccap.do?bibid=1100693188"/>
+      <rdfs:seeAlso rdf:resource="https://www.apl.pref.akita.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000205595"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=2161108&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1107074241"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=628431&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=2066599"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1100000073764/"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001100660858"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009917050024"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bib/?B12277686"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000011514066"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000700292531"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1101455841"/>
+      <rdfs:seeAlso rdf:resource="https://www2.library.pref.shimane.lg.jp/opac/switch-detail-iccap.do?bibid=1101119255"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1102929360"/>
+      <rdfs:seeAlso rdf:resource="https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1102610222"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.fukuoka.jp/winj/opac/switch-detail-iccap.do?bibid=1106449338"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1100269591"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000009135632"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971712334828263838"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/0627585700100011000B"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784062758574"/>
+      <dc:description> 2007</dc:description>
+    </item>
+    <item>
+      <title>十角館の殺人</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000134-I000369670</link>
+      <description><![CDATA[<p>講談社,2008-03-27,9784062758574<p><ul><li>タイトル：十角館の殺人</li><li>タイトル（読み）：ｼﾞｭｯｶｸｶﾝ ﾉ ｻﾂｼﾞﾝ</li><li>責任表示：綾辻行人</li><li>シリーズ名：講談社文庫</li><li>シリーズ名（読み）：ｺｳﾀﾞﾝｼｬ ﾌﾞﾝｺ</li></ul>]]></description>
+      <author>綾辻行人</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000134-I000369670</guid>
+      <pubDate>Thu, 24 Aug 2023 09:00:00 +0900</pubDate>
+      <dc:title>十角館の殺人</dc:title>
+      <dcndl:titleTranscription>ｼﾞｭｯｶｸｶﾝ ﾉ ｻﾂｼﾞﾝ</dcndl:titleTranscription>
+      <dcndl:edition>新装改訂版</dcndl:edition>
+      <dcndl:seriesTitle>講談社文庫</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ｺｳﾀﾞﾝｼｬ ﾌﾞﾝｺ</dcndl:seriesTitleTranscription>
+      <dc:publisher>講談社</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2008-03-27</dc:date>
+      <dcterms:issued>2008.3.27 (３刷)</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9784062758574</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9784062758574</dc:identifier>
+      <dc:description>初版初刷：１９９１．９．１５ ５０刷：２００７．３．２６ 新装改訂初刷：２００７．１０．１６</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.kanabun.or.jp/CARIN/CARINOPACLINK.HTM?ID=B00183283"/>
+      <dc:description> 2008-03-27</dc:description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,79 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>9784480864246 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?isbn=9784480864246&amp;cnt=5</link>
+    <description>Search results for isbn=9784480864246 cnt=5</description>
+    <language>ja</language>
+    <openSearch:totalResults>1</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
+    <item>
+      <title>金持ち父さん貧乏父さん : アメリカの金持ちが教えてくれるお金の哲学</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I024956274</link>
+      <description><![CDATA[<p>筑摩書房,2013,978-4-480-86424-6<p><ul><li>タイトル：金持ち父さん貧乏父さん : アメリカの金持ちが教えてくれるお金の哲学</li><li>タイトル（読み）：カネモチ トウサン ビンボウ トウサン : アメリカ ノ カネモチ ガ オシエテ クレル オカネ ノ テツガク</li><li>責任表示：ロバート・キヨサキ 著,白根美保子 訳</li><li>NDC(9)：338.18</li></ul>]]></description>
+      <author>Kiyosaki, Robert T, 1947-,白根, 美保子,ロバート・キヨサキ 著,白根美保子 訳</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I024956274</guid>
+      <pubDate>Fri, 7 Feb 2014 18:32:53 +0900</pubDate>
+      <dc:title>金持ち父さん貧乏父さん : アメリカの金持ちが教えてくれるお金の哲学</dc:title>
+      <dcndl:titleTranscription>カネモチ トウサン ビンボウ トウサン : アメリカ ノ カネモチ ガ オシエテ クレル オカネ ノ テツガク</dcndl:titleTranscription>
+      <dc:creator>Kiyosaki, Robert T, 1947-</dc:creator>
+      <dc:creator>白根, 美保子</dc:creator>
+      <dcndl:creatorTranscription>シラネ, ミホコ</dcndl:creatorTranscription>
+      <dcndl:edition>改訂版</dcndl:edition>
+      <dc:publisher>筑摩書房</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2013</dc:date>
+      <dcterms:issued>2013.11</dcterms:issued>
+      <dcndl:price>1600円</dcndl:price>
+      <dc:extent>262p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-480-86424-6</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">024956274</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22353848</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">33005898</dc:identifier>
+      <dc:subject>金儲法</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">DF199</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">338.18</dc:subject>
+      <dc:description>原タイトル: Rich Dad Poor Dad</dc:description>
+      <dc:description>文献あり 著作目録あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008000730167"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.miyagi.jp/winj/opac/switch-detail-iccap.do?bibid=1101604861"/>
+      <rdfs:seeAlso rdf:resource="https://www.apl.pref.akita.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009920129892"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.pref.yamagata.jp/winj/opac/switch-detail-iccap.do?bibid=1103287154"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001002217529"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=385792&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1152360417"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113104704"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=1748763"/>
+      <rdfs:seeAlso rdf:resource="https://opac.pref-lib.niigata.niigata.jp/winj/opac/switch-detail-iccap.do?bibid=1107690521"/>
+      <rdfs:seeAlso rdf:resource="https://lib2.lib.pref.toyama.jp/opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000354952"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1000000700592/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1105205454/"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001103079584"/>
+      <rdfs:seeAlso rdf:resource="http://websv.aichi-pref-library.jp/winj/opac/switch-detail-iccap.do?bibid=1182713677"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001310090644"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bib/?B12966492"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000012836981"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007000358816"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1101976770"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1103559752"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.yamaguchi.lg.jp//wo/opc_srh/srh_detail/1001131543/"/>
+      <rdfs:seeAlso rdf:resource="https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1103621285"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1110171608"/>
+      <rdfs:seeAlso rdf:resource="https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1109600048"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.fukuoka.jp/winj/opac/switch-detail-iccap.do?bibid=1109497662"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000002206262"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1102338341"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.miyazaki.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101867488"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I024956274"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=2297700"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4620012"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970586434937429639"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/480E0000000004481000"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784480864246"/>
+      <dc:description> 2013</dc:description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>9784101133348 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?isbn=9784101133348&amp;cnt=5</link>
+    <description>Search results for isbn=9784101133348 cnt=5</description>
+    <language>ja</language>
+    <openSearch:totalResults>1</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
+    <item>
+      <title>そうか、もう君はいないのか</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000010942234</link>
+      <description><![CDATA[<p>新潮社,2010,978-4-10-113334-8<p><ul><li>タイトル：そうか、もう君はいないのか</li><li>タイトル（読み）：ソウカ モウ キミ ワ イナイノカ</li><li>責任表示：城山三郎 著</li><li>シリーズ名：新潮文庫 ; し-7-34</li><li>シリーズ名（読み）：シンチョウ ブンコ ; シ(7)(34)</li><li>NDC(9)：914.6</li></ul>]]></description>
+      <author>城山, 三郎, 1927-2007,城山三郎 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I000010942234</guid>
+      <pubDate>Thu, 17 Sep 2026 18:46:03 +0900</pubDate>
+      <dc:title>そうか、もう君はいないのか</dc:title>
+      <dcndl:titleTranscription>ソウカ モウ キミ ワ イナイノカ</dcndl:titleTranscription>
+      <dc:creator>城山, 三郎, 1927-2007</dc:creator>
+      <dcndl:creatorTranscription>シロヤマ, サブロウ, 1927-2007</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>新潮文庫 ; し-7-34</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>シンチョウ ブンコ ; シ(7)(34)</dcndl:seriesTitleTranscription>
+      <dc:publisher>新潮社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2010</dc:date>
+      <dcterms:issued>2010.8</dcterms:issued>
+      <dcndl:price>362円</dcndl:price>
+      <dc:extent>173p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-10-113334-8</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">000010942234</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">21805869</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NSMARCNO">113116300</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">KH561</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">914.6</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008000311431"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=48491&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1110054556"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=1995396&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=1528727"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1104942946/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001010039072"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000012120212"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1103216142"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100378081"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1100544003"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.okinawa.jp/winj/opac/switch-detail-iccap.do?bibid=1100698793"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I000010942234"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=1943169"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=2190593"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4723803"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000073-I14434046"/>
+      <rdfs:seeAlso rdf:resource="https://www.kanabun.or.jp/CARIN/CARINOPACLINK.HTM?ID=B00195101"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971712334754831790"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/10E05104100000000000"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784101133348"/>
+      <dc:description> 2010</dc:description>
+    </item>
+  </channel>
+</rss>

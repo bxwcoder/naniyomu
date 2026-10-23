@@ -1,0 +1,64 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>9784101035413 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?isbn=9784101035413&amp;cnt=5</link>
+    <description>Search results for isbn=9784101035413 cnt=5</description>
+    <language>ja</language>
+    <openSearch:totalResults>1</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
+    <item>
+      <title>暇と退屈の倫理学</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I031862362</link>
+      <description><![CDATA[<p>新潮社,2022,978-4-10-103541-3<p><ul><li>タイトル：暇と退屈の倫理学</li><li>タイトル（読み）：ヒマ ト タイクツ ノ リンリガク</li><li>責任表示：國分功一郎 著</li><li>シリーズ名：新潮文庫 ; こ-73-1</li><li>シリーズ名（読み）：シンチョウ ブンコ ; コ-73-1</li><li>NDC(10)：113</li></ul>]]></description>
+      <author>國分, 功一郎, 1974-,國分功一郎 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I031862362</guid>
+      <pubDate>Tue, 25 Jan 2022 01:22:15 +0900</pubDate>
+      <dc:title>暇と退屈の倫理学</dc:title>
+      <dcndl:titleTranscription>ヒマ ト タイクツ ノ リンリガク</dcndl:titleTranscription>
+      <dc:creator>國分, 功一郎, 1974-</dc:creator>
+      <dcndl:creatorTranscription>コクブン, コウイチロウ, 1974-</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>新潮文庫 ; こ-73-1</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>シンチョウ ブンコ ; コ-73-1</dcndl:seriesTitleTranscription>
+      <dc:publisher>新潮社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2022</dc:date>
+      <dcterms:issued>2022.1</dcterms:issued>
+      <dcndl:price>800円</dcndl:price>
+      <dc:extent>508p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-10-103541-3</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">031862362</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23634206</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">34287800</dc:identifier>
+      <dc:subject>人生観</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">H15</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">113</dc:subject>
+      <dc:description>出版</dc:description>
+      <dc:description>増補新版 太田出版 2015年刊の再刊</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008001642811"/>
+      <rdfs:seeAlso rdf:resource="https://www.apl.pref.akita.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009920903791"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1003000671169"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=3163414&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113932524"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=3567378&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=2599843"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002110080993"/>
+      <rdfs:seeAlso rdf:resource="https://www.shiga-pref-library.jp/wo/opc_srh/srh_detail/4830942/"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000015138611"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.wakayama-c.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1120259299"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1120449191"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1110558242"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1110377526"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I031862362"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4523966"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4708136"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970867909893491133"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/10E05195100000000000"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784101035413"/>
+      <dc:description> 2022</dc:description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,122 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>9784863940246 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?isbn=9784863940246&amp;cnt=5</link>
+    <description>Search results for isbn=9784863940246 cnt=5</description>
+    <language>ja</language>
+    <openSearch:totalResults>3</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
+    <item>
+      <title>完訳7つの習慣 : 人格主義の回復</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I024765841</link>
+      <description><![CDATA[<p>キングベアー出版,2013,978-4-86394-024-6<p><ul><li>タイトル：完訳7つの習慣 : 人格主義の回復</li><li>タイトル（読み）：カンヤク ナナツ ノ シュウカン : ジンカク シュギ ノ カイフク</li><li>責任表示：スティーブン・R・コヴィー 著,フランクリン・コヴィー・ジャパン 訳</li><li>NDC(9)：159</li></ul>]]></description>
+      <author>Covey, Stephen R., 1932-2012,フランクリンコヴィージャパン株式会社,スティーブン・R・コヴィー 著,フランクリン・コヴィー・ジャパン 訳</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I024765841</guid>
+      <pubDate>Mon, 29 Mar 2021 20:15:24 +0900</pubDate>
+      <dc:title>完訳7つの習慣 : 人格主義の回復</dc:title>
+      <dcndl:titleTranscription>カンヤク ナナツ ノ シュウカン : ジンカク シュギ ノ カイフク</dcndl:titleTranscription>
+      <dc:creator>Covey, Stephen R., 1932-2012</dc:creator>
+      <dc:creator>フランクリンコヴィージャパン株式会社</dc:creator>
+      <dcndl:creatorTranscription>フランクリン コヴィー ジャパン カブシキ ガイシャ</dcndl:creatorTranscription>
+      <dc:publisher>キングベアー出版</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2013</dc:date>
+      <dcterms:issued>2013.8</dcterms:issued>
+      <dcndl:price>2200円</dcndl:price>
+      <dc:extent>521p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-86394-024-6</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">024765841</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22298082</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">32972302</dc:identifier>
+      <dc:subject>人生訓</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">YU7</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">159</dc:subject>
+      <dc:description>原タイトル: THE SEVEN HABITS OF HIGHLY EFFECTIVE PEOPLE</dc:description>
+      <dc:description>索引あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.hokkaido.jp/wo/opc_srh/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008000706504"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008001569634"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=366543&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1152327051"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113083138"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=1732501"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1000000680928/"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001103059508"/>
+      <rdfs:seeAlso rdf:resource="http://websv.aichi-pref-library.jp/winj/opac/switch-detail-iccap.do?bibid=1190667777"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002010102667"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bib/?B12939507"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000012795541"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000015010442"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009811706619"/>
+      <rdfs:seeAlso rdf:resource="https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1103593751"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.okinawa.jp/winj/opac/switch-detail-iccap.do?bibid=1101060878"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I024765841"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970304959960481423"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/90357800000000176848"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/90357800000000259995"/>
+      <dc:description> 2013</dc:description>
+    </item>
+    <item>
+      <title>完訳7つの習慣 : 人格主義の回復</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1971712334788316076</link>
+      <description><![CDATA[<p>キングベアー出版,2018,9784863940246<p><ul><li>タイトル：完訳7つの習慣 : 人格主義の回復</li><li>タイトル（読み）：カンヤク 7ツ ノ シュウカン : ジンカク シュギ ノ カイフク</li><li>責任表示：スティーブン・R・コヴィー著 ; フランクリン・コヴィー・ジャパン訳</li><li>NDC(9)：159</li></ul>]]></description>
+      <author>Covey, Stephen R.,フランクリンコヴィージャパン,スティーブン・R・コヴィー著 ; フランクリン・コヴィー・ジャパン訳</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1971712334788316076</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>完訳7つの習慣 : 人格主義の回復</dc:title>
+      <dcndl:titleTranscription>カンヤク 7ツ ノ シュウカン : ジンカク シュギ ノ カイフク</dcndl:titleTranscription>
+      <dc:creator>Covey, Stephen R.</dc:creator>
+      <dc:creator>フランクリンコヴィージャパン</dc:creator>
+      <dcndl:creatorTranscription>フランクリン コヴィー ジャパン</dcndl:creatorTranscription>
+      <dcndl:edition>第5刷</dcndl:edition>
+      <dc:publisher>キングベアー出版</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2018</dc:date>
+      <dcterms:issued>2018.8</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9784863940246</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9784863940246</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BB26949583</dc:identifier>
+      <dc:subject>人生訓</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">159</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">159</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971712334788316076"/>
+      <dc:description> 2018</dc:description>
+    </item>
+    <item>
+      <title>完訳7つの習慣 : 人格主義の回復</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1971712334788735114</link>
+      <description><![CDATA[<p>キングベアー出版,2019,9784863940246<p><ul><li>タイトル：完訳7つの習慣 : 人格主義の回復</li><li>タイトル（読み）：カンヤク 7ツ ノ シュウカン : ジンカク シュギ ノ カイフク</li><li>責任表示：スティーブン・R・コヴィー著 ; フランクリン・コヴィー・ジャパン訳</li><li>NDC(9)：159</li></ul>]]></description>
+      <author>Covey, Stephen R.,フランクリンコヴィージャパン,スティーブン・R・コヴィー著 ; フランクリン・コヴィー・ジャパン訳</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1971712334788735114</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>完訳7つの習慣 : 人格主義の回復</dc:title>
+      <dcndl:titleTranscription>カンヤク 7ツ ノ シュウカン : ジンカク シュギ ノ カイフク</dcndl:titleTranscription>
+      <dc:creator>Covey, Stephen R.</dc:creator>
+      <dc:creator>フランクリンコヴィージャパン</dc:creator>
+      <dcndl:creatorTranscription>フランクリン コヴィー ジャパン</dcndl:creatorTranscription>
+      <dcndl:edition>第7刷</dcndl:edition>
+      <dc:publisher>キングベアー出版</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019.3</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9784863940246</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9784863940246</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BB28273077</dc:identifier>
+      <dc:subject>人生訓</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">159</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">159</dc:subject>
+      <dc:description>第7刷よりジェームス・スキナー「7つの習慣」ライブセミナー特典映像へのアクセス権付き(出版社確認済) ---第12刷(2020.5), 第13刷(2020.10), 第14刷(2021.5), 第15刷(2021.9), 第18刷(2024.11)にはなし</dc:description>
+      <dc:description>第12刷(2020年5月刊), 第13刷(2020年10月刊), 第14刷(2021年5月刊), 第15刷(2021.9), 第18刷(2024.11)の奥付の出版者表示: FCEパブリッシングキングベアー出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971712334788735114"/>
+      <dc:description> 2019</dc:description>
+    </item>
+  </channel>
+</rss>

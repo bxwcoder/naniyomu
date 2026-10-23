@@ -1,0 +1,1008 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>約束のネバーランド - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?title=%E7%B4%84%E6%9D%9F%E3%81%AE%E3%83%8D%E3%83%90%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89&amp;cnt=30</link>
+    <description>Search results for title=約束のネバーランド cnt=30</description>
+    <language>ja</language>
+    <openSearch:totalResults>111</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>30</openSearch:itemsPerPage>
+    <item>
+      <title>アイデンティティ</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I031181272</link>
+      <description><![CDATA[<p>Sony Music Labels,2021,<p><ul><li>タイトル：アイデンティティ</li><li>タイトル（読み）：アイデンティティ</li><li>責任表示：秋山黄色</li></ul>]]></description>
+      <author>秋山黄色</author>
+      <category>録音資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I031181272</guid>
+      <pubDate>Sat, 20 Feb 2021 06:06:33 +0900</pubDate>
+      <dc:title>アイデンティティ</dc:title>
+      <dcndl:titleTranscription>アイデンティティ</dcndl:titleTranscription>
+      <dc:publisher>Sony Music Labels</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+      <dcterms:issued>2021.1</dcterms:issued>
+      <dcndl:price>1600円</dcndl:price>
+      <dc:extent>CD 1枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:RIS502">ESCL-5491</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">031181272</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23486332</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YMC11</dc:subject>
+      <dc:description>出版</dc:description>
+      <dc:description>期間生産限定アニメ盤</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I031181272"/>
+      <dc:description> 2021</dc:description>
+    </item>
+    <item>
+      <title>アニメもんのSF散歩(第28回)約束のネバーランド</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I029696526</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：アニメもんのSF散歩(第28回)約束のネバーランド</li><li>タイトル（読み）：アニメ モ ン ノ SF サンポ(ダイ28カイ)ヤクソク ノ ネバーランド</li><li>責任表示：藤津 亮太</li></ul>]]></description>
+      <author>藤津 亮太,藤津 亮太</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I029696526</guid>
+      <pubDate>Tue, 4 Jun 2019 22:24:47 +0900</pubDate>
+      <dc:title>アニメもんのSF散歩(第28回)約束のネバーランド</dc:title>
+      <dcndl:titleTranscription>アニメ モ ン ノ SF サンポ(ダイ28カイ)ヤクソク ノ ネバーランド</dcndl:titleTranscription>
+      <dc:creator>藤津 亮太</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">029696526</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZK24</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I029696526"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1524232505762132864"/>
+      <dc:description>掲載誌：SFマガジン = SF magazine 3(通号 733) p.256-259</dc:description>
+    </item>
+    <item>
+      <title>英米文学者と読む「約束のネバーランド」</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I030543542</link>
+      <description><![CDATA[<p>集英社,2020,978-4-08-721131-3<p><ul><li>タイトル：英米文学者と読む「約束のネバーランド」</li><li>タイトル（読み）：エイベイ ブンガクシャ ト ヨム ヤクソク ノ ネバーランド</li><li>責任表示：戸田慧 著</li><li>シリーズ名：集英社新書 ; 1031</li><li>シリーズ名（読み）：シュウエイシャ シンショ ; 1031</li><li>NDC(10)：726.101</li></ul>]]></description>
+      <author>戸田, 慧, 1985-,戸田慧 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I030543542</guid>
+      <pubDate>Wed, 21 Oct 2020 20:51:51 +0900</pubDate>
+      <dc:title>英米文学者と読む「約束のネバーランド」</dc:title>
+      <dcndl:titleTranscription>エイベイ ブンガクシャ ト ヨム ヤクソク ノ ネバーランド</dcndl:titleTranscription>
+      <dc:creator>戸田, 慧, 1985-</dc:creator>
+      <dcndl:creatorTranscription>トダ, ケイ, 1985-</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>集英社新書 ; 1031</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>シュウエイシャ シンショ ; 1031</dcndl:seriesTitleTranscription>
+      <dc:publisher>集英社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2020</dc:date>
+      <dcterms:issued>2020.8</dcterms:issued>
+      <dcndl:price>860円</dcndl:price>
+      <dc:extent>254p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-08-721131-3</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">030543542</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23436084</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">34098147</dc:identifier>
+      <dc:subject>約束のネバーランド (漫画)</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">KC486</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.101</dc:subject>
+      <dc:description>文献あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008001506235"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.miyagi.jp/winj/opac/switch-detail-iccap.do?bibid=1102236422"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.fcs.ed.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001103707792"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1003000551092"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.tochigi.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1102424985"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=3029838&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1153665705"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113805075"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=2486435"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1000102479/"/>
+      <rdfs:seeAlso rdf:resource="https://www.tosyokan.pref.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1006000493140"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001103704529"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bib/?B13839007"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014904107"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007001051338"/>
+      <rdfs:seeAlso rdf:resource="https://opacsvr01.library.pref.nara.jp/opac/volume/1320950"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1120354766"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009812423751"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1110444124"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000002873459"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I030543542"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4250243"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4312077"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bibj/?B13839007"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971993809788602773"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08721131942507000000"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784087211313"/>
+      <dc:description> 2020</dc:description>
+    </item>
+    <item>
+      <title>お約束のネバーランド</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029695257</link>
+      <description><![CDATA[<p>集英社,2019,978-4-08-881843-6<p><ul><li>タイトル：お約束のネバーランド</li><li>タイトル（読み）：オヤクソク ノ ネバーランド</li><li>責任表示：宮崎周平 漫画,白井カイウ, 出水ぽすか 原作</li><li>シリーズ名：ジャンプコミックス. JUMP COMICS+</li><li>シリーズ名（読み）：ジャンプ コミックス. ジャンプ コミックス プラス</li><li>NDC(10)：726.1</li></ul>]]></description>
+      <author>宮崎, 周平,白井, カイウ,出水, ぽすか, 1988-,宮崎周平 漫画,白井カイウ, 出水ぽすか 原作</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I029695257</guid>
+      <pubDate>Mon, 31 Jan 2022 21:19:28 +0900</pubDate>
+      <dc:title>お約束のネバーランド</dc:title>
+      <dcndl:titleTranscription>オヤクソク ノ ネバーランド</dcndl:titleTranscription>
+      <dc:creator>宮崎, 周平</dc:creator>
+      <dc:creator>白井, カイウ</dc:creator>
+      <dc:creator>出水, ぽすか, 1988-</dc:creator>
+      <dcndl:creatorTranscription>ミヤザキ, シュウヘイ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>シライ, カイウ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>デミズ, ポスカ, 1988-</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>ジャンプコミックス. JUMP COMICS+</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ジャンプ コミックス. ジャンプ コミックス プラス</dcndl:seriesTitleTranscription>
+      <dc:publisher>集英社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019.6</dcterms:issued>
+      <dcndl:price>440円</dcndl:price>
+      <dc:extent>185p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-08-881843-6</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">029695257</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23231191</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">07429144</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I029695257"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784088818436"/>
+      <dc:description> 2019</dc:description>
+    </item>
+    <item>
+      <title>ケアする惑星(8)ダーウィニズムとケア(1)『約束のネバーランド』と高瀬隼子作品</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R000000004-I031959616</link>
+      <description><![CDATA[<p><p><ul><li>タイトル：ケアする惑星(8)ダーウィニズムとケア(1)『約束のネバーランド』と高瀬隼子作品</li><li>タイトル（読み）：ケア スル ワクセイ(8)ダーウィニズム ト ケア(1)『 ヤクソク ノ ネバーランド 』 ト タカセ ハヤブサコ サクヒン</li><li>責任表示：小川 公代</li></ul>]]></description>
+      <author>小川 公代,小川 公代</author>
+      <category>記事</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R000000004-I031959616</guid>
+      <pubDate>Mon, 26 Sep 2022 18:36:52 +0900</pubDate>
+      <dc:title>ケアする惑星(8)ダーウィニズムとケア(1)『約束のネバーランド』と高瀬隼子作品</dc:title>
+      <dcndl:titleTranscription>ケア スル ワクセイ(8)ダーウィニズム ト ケア(1)『 ヤクソク ノ ネバーランド 』 ト タカセ ハヤブサコ サクヒン</dcndl:titleTranscription>
+      <dc:creator>小川 公代</dc:creator>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:identifier xsi:type="dcndl:NDLBibID">031959616</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">ZK24</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R000000004-I031959616"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1521699231201119104"/>
+      <dc:description>掲載誌：群像 3 p.447-455</dc:description>
+    </item>
+    <item>
+      <title>これだけは見ておきたいアニメのうたベスト。</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I033027121</link>
+      <description><![CDATA[<p>[clutch music],2020,<p><ul><li>タイトル：これだけは見ておきたいアニメのうたベスト。</li><li>タイトル（読み）：コレダケ ワ ミテオキタイ アニメ ノ ウタ ベスト 。</li></ul>]]></description>
+      <author/>
+      <category>録音資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I033027121</guid>
+      <pubDate>Mon, 16 Oct 2023 22:29:22 +0900</pubDate>
+      <dc:title>これだけは見ておきたいアニメのうたベスト。</dc:title>
+      <dcndl:titleTranscription>コレダケ ワ ミテオキタイ アニメ ノ ウタ ベスト 。</dcndl:titleTranscription>
+      <dc:publisher>[clutch music]</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2020</dc:date>
+      <dcterms:issued>[2020]</dcterms:issued>
+      <dcndl:price>2000円</dcndl:price>
+      <dc:extent>CD 1枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:RIS502">KAUB-6127</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">033027121</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23894038</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YMC11</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I033027121"/>
+      <dc:description> 2020</dc:description>
+    </item>
+    <item>
+      <title>シークレットバイブル約束のネバーランド0 MYSTIC CODE</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I030781525</link>
+      <description><![CDATA[<p>集英社,2020,978-4-08-882462-8<p><ul><li>タイトル：シークレットバイブル約束のネバーランド0 MYSTIC CODE</li><li>タイトル（読み）：シークレット バイブル ヤクソク ノ ネバーランド レイ ミスティック コード</li><li>責任表示：白井カイウ 原作,出水ぽすか 作画,杉田卓 担当編集</li><li>シリーズ名：ジャンプコミックス</li><li>シリーズ名（読み）：ジャンプ コミックス</li><li>NDC(10)：726.101</li></ul>]]></description>
+      <author>白井, カイウ,白井カイウ 原作,出水ぽすか 作画,杉田卓 担当編集</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I030781525</guid>
+      <pubDate>Wed, 20 Jan 2021 22:21:15 +0900</pubDate>
+      <dc:title>シークレットバイブル約束のネバーランド0 MYSTIC CODE</dc:title>
+      <dcndl:titleTranscription>シークレット バイブル ヤクソク ノ ネバーランド レイ ミスティック コード</dcndl:titleTranscription>
+      <dc:creator>白井, カイウ</dc:creator>
+      <dcndl:creatorTranscription>シライ, カイウ</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>ジャンプコミックス</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ジャンプ コミックス</dcndl:seriesTitleTranscription>
+      <dc:publisher>集英社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2020</dc:date>
+      <dcterms:issued>2020.12</dcterms:issued>
+      <dcndl:price>750円</dcndl:price>
+      <dc:extent>239p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-08-882462-8</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">030781525</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23473647</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">07459549</dc:identifier>
+      <dc:subject>漫画</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">Y88</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.101</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113850554"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1110522804"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I030781525"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bibj/?B16546308"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08882462880872315501"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784088824628"/>
+      <dc:description> 2020</dc:description>
+    </item>
+    <item>
+      <title>どのように鬼はサピエンスを取り込んだのか? : 約束のネバーランド考察</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I034705410</link>
+      <description><![CDATA[<p>とうふおにぎり,2019,<p><ul><li>タイトル：どのように鬼はサピエンスを取り込んだのか? : 約束のネバーランド考察</li><li>タイトル（読み）：ドノ ヨウ ニ オニ ワ サピエンス オ トリコンダノカ ? : ヤクソク ノ ネバーランド コウサツ</li><li>NDC(10)：726.101</li></ul>]]></description>
+      <author>とうふおにぎり</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I034705410</guid>
+      <pubDate>Thu, 18 Jun 2026 03:00:09 +0900</pubDate>
+      <dc:title>どのように鬼はサピエンスを取り込んだのか? : 約束のネバーランド考察</dc:title>
+      <dcndl:titleTranscription>ドノ ヨウ ニ オニ ワ サピエンス オ トリコンダノカ ? : ヤクソク ノ ネバーランド コウサツ</dcndl:titleTranscription>
+      <dc:creator>とうふおにぎり</dc:creator>
+      <dcndl:creatorTranscription>トウフ オニギリ</dcndl:creatorTranscription>
+      <dc:publisher>とうふおにぎり</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019.8</dcterms:issued>
+      <dc:extent>56 p</dc:extent>
+      <dc:identifier xsi:type="dcndl:NDLBibID">034705410</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">24267296</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">Y88</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.101</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I034705410"/>
+      <dc:description> 2019</dc:description>
+    </item>
+    <item>
+      <title>ノーマンからの手紙</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809754873362</link>
+      <description><![CDATA[<p>集英社,2018,9784087034523<p><ul><li>タイトル：ノーマンからの手紙</li><li>タイトル（読み）：ノーマン カラ ノ テガミ</li><li>責任表示：白井カイウ原作 ; 出水ぽすか作画 ; 七緒小説</li><li>NDC(10)：913.6</li></ul>]]></description>
+      <author>白井, カイウ,出水, ぽすか,七緒,白井カイウ原作 ; 出水ぽすか作画 ; 七緒小説</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809754873362</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>ノーマンからの手紙</dc:title>
+      <dcndl:titleTranscription>ノーマン カラ ノ テガミ</dcndl:titleTranscription>
+      <dc:creator>白井, カイウ</dc:creator>
+      <dc:creator>出水, ぽすか</dc:creator>
+      <dc:creator>七緒</dc:creator>
+      <dcndl:creatorTranscription>シライ, カイウ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>デミズ, ポスカ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ナナオ</dcndl:creatorTranscription>
+      <dc:publisher>集英社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2018</dc:date>
+      <dcterms:issued>2018.6</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9784087034523</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9784087034523</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BB28116421</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">KH884</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">913.6</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971993809754873362"/>
+      <dc:description> 2018</dc:description>
+    </item>
+    <item>
+      <title>魔法</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I031208979</link>
+      <description><![CDATA[<p>Sony Music Labels,2021,<p><ul><li>タイトル：魔法</li><li>タイトル（読み）：マホウ</li><li>責任表示：Myuk</li></ul>]]></description>
+      <author>Myuk</author>
+      <category>録音資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I031208979</guid>
+      <pubDate>Fri, 16 Apr 2021 23:47:47 +0900</pubDate>
+      <dc:title>魔法</dc:title>
+      <dcndl:titleTranscription>マホウ</dcndl:titleTranscription>
+      <dc:publisher>Sony Music Labels</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+      <dcterms:issued>2021.3</dcterms:issued>
+      <dcndl:price>1200円</dcndl:price>
+      <dc:extent>CD 1枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:RIS502">AICL-4000</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">031208979</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23512579</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YMC11</dc:subject>
+      <dc:description>出版</dc:description>
+      <dc:description>期間生産限定盤</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I031208979"/>
+      <dc:description> 2021</dc:description>
+    </item>
+    <item>
+      <title>ママたちの追想曲</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909848016299</link>
+      <description><![CDATA[<p>集英社,2019,9784087034714<p><ul><li>タイトル：ママたちの追想曲</li><li>タイトル（読み）：ママタチ ノ ツイソウキョク</li><li>責任表示：白井カイウ原作 ; 出水ぽすか作画 ; 七緒小説</li><li>NDC(10)：913.6</li></ul>]]></description>
+      <author>白井, カイウ,出水, ぽすか,七緒,白井カイウ原作 ; 出水ぽすか作画 ; 七緒小説</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909848016299</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>ママたちの追想曲</dc:title>
+      <dcndl:titleTranscription>ママタチ ノ ツイソウキョク</dcndl:titleTranscription>
+      <dc:creator>白井, カイウ</dc:creator>
+      <dc:creator>出水, ぽすか</dc:creator>
+      <dc:creator>七緒</dc:creator>
+      <dcndl:creatorTranscription>シライ, カイウ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>デミズ, ポスカ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ナナオ</dcndl:creatorTranscription>
+      <dc:publisher>集英社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019.1</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9784087034714</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9784087034714</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BB28116432</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">KH971</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">913.6</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970867909848016299"/>
+      <dc:description> 2019</dc:description>
+    </item>
+    <item>
+      <title>漫画『約束のネバーランド』にみる思春期の終わり</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390572175686709888</link>
+      <description><![CDATA[<p>2021-08,<p><ul><li>タイトル：漫画『約束のネバーランド』にみる思春期の終わり</li></ul>]]></description>
+      <author>西嶋 雅樹</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390572175686709888</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>漫画『約束のネバーランド』にみる思春期の終わり</dc:title>
+      <dc:creator>西嶋 雅樹</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">2021-08</dc:date>
+      <dcterms:issued>2021-08</dcterms:issued>
+      <dc:subject>『約束のネバーランド』</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ir.lib.shimane-u.ac.jp/53831"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390572175686709888"/>
+      <dc:description>掲載誌：島根大学教育臨床総合研究 2021-08 p.149-157</dc:description>
+    </item>
+    <item>
+      <title>漫画 『約束のネバーランド』 にみる思春期・青年期の心性</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1390588435902276352</link>
+      <description><![CDATA[<p>2019,<p><ul><li>タイトル：漫画 『約束のネバーランド』 にみる思春期・青年期の心性</li></ul>]]></description>
+      <author>西嶋 雅樹</author>
+      <category>記事</category>
+      <category>デジタル</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1390588435902276352</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>漫画 『約束のネバーランド』 にみる思春期・青年期の心性</dc:title>
+      <dc:creator>西嶋 雅樹</dc:creator>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019</dcterms:issued>
+      <dc:subject>『約束のネバーランド』</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://doi.org/10.69344/kokorosodachi.3.0_11"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1390588435902276352"/>
+      <dc:description>掲載誌：島根大学こころとそだちの相談センター紀要 0 2019 p.11-20</dc:description>
+    </item>
+    <item>
+      <title>漫道コバヤシ</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I030353777</link>
+      <description><![CDATA[<p>巻5,フジテレビジョン,2020,<p><ul><li>タイトル：漫道コバヤシ</li><li>タイトル（読み）：マンドウ コバヤシ</li><li>責任表示：[ケンドー] コバヤシ, 三条陸, 出水ぽすか [出演]</li></ul>]]></description>
+      <author>[ケンドー] コバヤシ, 三条陸, 出水ぽすか [出演]</author>
+      <category>映像資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I030353777</guid>
+      <pubDate>Wed, 17 Jun 2020 22:00:18 +0900</pubDate>
+      <dc:title>漫道コバヤシ</dc:title>
+      <dcndl:titleTranscription>マンドウ コバヤシ</dcndl:titleTranscription>
+      <dcndl:volume>巻5</dcndl:volume>
+      <dc:publisher>フジテレビジョン</dc:publisher>
+      <dc:publisher>よしもとミュージック (発売)</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2020</dc:date>
+      <dcterms:issued>[2020.5]</dcterms:issued>
+      <dcndl:price>3000円</dcndl:price>
+      <dc:extent>ビデオディスク 1枚 (103分)</dc:extent>
+      <dc:identifier xsi:type="dcndl:RIS502">YRBJ-30037</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">030353777</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23376694</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YL321</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I030353777"/>
+      <dc:description> 2020</dc:description>
+    </item>
+    <item>
+      <title>約束のネバーランド : Blu-rayスペシャルエディション</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I031316962</link>
+      <description><![CDATA[<p>フジテレビジョン,2021,<p><ul><li>タイトル：約束のネバーランド : Blu-rayスペシャルエディション</li><li>タイトル（読み）：ヤクソク ノ ネバーランド</li><li>責任表示：白井カイウ, 出水ぽすか 原作,後藤法子 脚本,平川雄一朗 監督</li></ul>]]></description>
+      <author>白井カイウ, 出水ぽすか 原作,後藤法子 脚本,平川雄一朗 監督</author>
+      <category>映像資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I031316962</guid>
+      <pubDate>Tue, 2 Nov 2021 20:17:02 +0900</pubDate>
+      <dc:title>約束のネバーランド : Blu-rayスペシャルエディション</dc:title>
+      <dcndl:titleTranscription>ヤクソク ノ ネバーランド</dcndl:titleTranscription>
+      <dc:publisher>フジテレビジョン</dc:publisher>
+      <dc:publisher>東宝</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+      <dcterms:issued>2021.5</dcterms:issued>
+      <dcndl:price>7800円</dcndl:price>
+      <dc:extent>Blu-ray Disc 3枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:RIS502">TBR-31203D</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">031316962</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23602161</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YL331</dc:subject>
+      <dc:description>出版</dc:description>
+      <dc:description>頒布</dc:description>
+      <dc:description>所要時間: 119分</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I031316962"/>
+      <dc:description> 2021</dc:description>
+    </item>
+    <item>
+      <title>約束のネバーランドART BOOK WORLD</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I030675536</link>
+      <description><![CDATA[<p>集英社,2020,978-4-08-792559-3<p><ul><li>タイトル：約束のネバーランドART BOOK WORLD</li><li>タイトル（読み）：ヤクソク ノ ネバーランド アート ブック ワールド</li><li>責任表示：白井カイウ 原作,出水ぽすか 作画</li><li>NDC(10)：726.5</li></ul>]]></description>
+      <author>出水, ぽすか, 1988-,白井カイウ 原作,出水ぽすか 作画</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I030675536</guid>
+      <pubDate>Tue, 7 Dec 2021 18:46:40 +0900</pubDate>
+      <dc:title>約束のネバーランドART BOOK WORLD</dc:title>
+      <dcndl:titleTranscription>ヤクソク ノ ネバーランド アート ブック ワールド</dcndl:titleTranscription>
+      <dc:creator>出水, ぽすか, 1988-</dc:creator>
+      <dcndl:creatorTranscription>デミズ, ポスカ, 1988-</dcndl:creatorTranscription>
+      <dc:publisher>集英社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2020</dc:date>
+      <dcterms:issued>2020.11</dcterms:issued>
+      <dcndl:price>2200円</dcndl:price>
+      <dc:extent>1冊(ページ付なし)</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-08-792559-3</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">030675536</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23457088</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">34125863</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">Y89</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.5</dc:subject>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1110465036"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I030675536"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bibj/?B13870075"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784087925593"/>
+      <dc:description> 2020</dc:description>
+    </item>
+    <item>
+      <title>約束のネバーランド INVITATION BOOK</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000128-IB16540203</link>
+      <description><![CDATA[<p>[集英社],9999,<p><ul><li>タイトル：約束のネバーランド INVITATION BOOK</li><li>タイトル（読み）：ヤクソク ノ ネバー ランド インヴィテーション ブック</li><li>責任表示：白井カイウ∥[原作],出水ぽすか∥[作画],吾峠呼世晴 [著]</li></ul>]]></description>
+      <author>白井/カイウ,出水/ぽすか,吾峠/呼世晴,白井カイウ∥[原作],出水ぽすか∥[作画],吾峠呼世晴 [著]</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000128-IB16540203</guid>
+      <pubDate>Sun, 21 Dec 2025 17:14:56 +0900</pubDate>
+      <dc:title>約束のネバーランド INVITATION BOOK</dc:title>
+      <dcndl:titleTranscription>ヤクソク ノ ネバー ランド インヴィテーション ブック</dcndl:titleTranscription>
+      <dc:creator>白井/カイウ</dc:creator>
+      <dc:creator>出水/ぽすか</dc:creator>
+      <dc:creator>吾峠/呼世晴</dc:creator>
+      <dc:publisher>[集英社]</dc:publisher>
+      <dcndl:publicationPlace>JA</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">9999</dc:date>
+      <dcterms:issued>9999.99</dcterms:issued>
+      <dcndl:price>[NOT FOR SALE]</dcndl:price>
+      <dc:extent>18, 18p ; 18cm</dc:extent>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bibj/?B16540203"/>
+      <dc:description> 9999</dc:description>
+    </item>
+    <item>
+      <title>約束のネバーランド : 映画ノベライズ</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I030789622</link>
+      <description><![CDATA[<p>集英社,2020,978-4-08-680359-5<p><ul><li>タイトル：約束のネバーランド : 映画ノベライズ</li><li>タイトル（読み）：ヤクソク ノ ネバーランド : エイガ ノベライズ</li><li>責任表示：白井カイウ 原作,出水ぽすか 作画,後藤法子 脚本,七緒 著</li><li>シリーズ名：集英社オレンジ文庫 ; な6-1</li><li>シリーズ名（読み）：シュウエイシャ オレンジ ブンコ ; ナ-6-1</li><li>NDC(10)：913.6</li></ul>]]></description>
+      <author>白井, カイウ,出水, ぽすか, 1988-,後藤, 法子,七緒,白井カイウ 原作,出水ぽすか 作画,後藤法子 脚本,七緒 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I030789622</guid>
+      <pubDate>Tue, 7 Dec 2021 18:46:40 +0900</pubDate>
+      <dc:title>約束のネバーランド : 映画ノベライズ</dc:title>
+      <dcndl:titleTranscription>ヤクソク ノ ネバーランド : エイガ ノベライズ</dcndl:titleTranscription>
+      <dc:creator>白井, カイウ</dc:creator>
+      <dc:creator>出水, ぽすか, 1988-</dc:creator>
+      <dc:creator>後藤, 法子</dc:creator>
+      <dc:creator>七緒</dc:creator>
+      <dcndl:creatorTranscription>シライ, カイウ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>デミズ, ポスカ, 1988-</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ゴトウ, ノリコ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ナナオ</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>集英社オレンジ文庫 ; な6-1</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>シュウエイシャ オレンジ ブンコ ; ナ-6-1</dcndl:seriesTitleTranscription>
+      <dc:publisher>集英社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2020</dc:date>
+      <dcterms:issued>2020.12</dcterms:issued>
+      <dcndl:price>590円</dcndl:price>
+      <dc:extent>225p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-08-680359-5</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">030789622</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23500989</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">34147835</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">KH971</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">913.6</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008001546169"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=2516546"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bib/?B13885117"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014968559"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009812458006"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I030789622"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4247958"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4260674"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4266280"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4280290"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970304959906131484"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08680359950183000000"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784086803595"/>
+      <dc:description> 2020</dc:description>
+    </item>
+    <item>
+      <title>約束のネバーランド : 映画ノベライズみらい文庫版</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I030798554</link>
+      <description><![CDATA[<p>集英社,2020,978-4-08-321623-7<p><ul><li>タイトル：約束のネバーランド : 映画ノベライズみらい文庫版</li><li>タイトル（読み）：ヤクソク ノ ネバーランド : エイガ ノベライズ ミライ ブンコバン</li><li>責任表示：白井カイウ 原作,出水ぽすか 作画,後藤法子 脚本,小川彗 著</li><li>シリーズ名：集英社みらい文庫 ; し-16-1</li><li>シリーズ名（読み）：シュウエイシャ ミライ ブンコ ; シ-16-1</li><li>NDC(10)：913.6</li></ul>]]></description>
+      <author>白井, カイウ,出水, ぽすか, 1988-,後藤, 法子,小川, 彗,白井カイウ 原作,出水ぽすか 作画,後藤法子 脚本,小川彗 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I030798554</guid>
+      <pubDate>Tue, 7 Dec 2021 18:46:40 +0900</pubDate>
+      <dc:title>約束のネバーランド : 映画ノベライズみらい文庫版</dc:title>
+      <dcndl:titleTranscription>ヤクソク ノ ネバーランド : エイガ ノベライズ ミライ ブンコバン</dcndl:titleTranscription>
+      <dc:creator>白井, カイウ</dc:creator>
+      <dc:creator>出水, ぽすか, 1988-</dc:creator>
+      <dc:creator>後藤, 法子</dc:creator>
+      <dc:creator>小川, 彗</dc:creator>
+      <dcndl:creatorTranscription>シライ, カイウ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>デミズ, ポスカ, 1988-</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ゴトウ, ノリコ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>オガワ, スイ</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>集英社みらい文庫 ; し-16-1</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>シュウエイシャ ミライ ブンコ ; シ-16-1</dcndl:seriesTitleTranscription>
+      <dc:publisher>集英社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2020</dc:date>
+      <dcterms:issued>2020.12</dcterms:issued>
+      <dcndl:price>700円</dcndl:price>
+      <dc:extent>187p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-08-321623-7</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">030798554</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23488535</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">34149265</dc:identifier>
+      <dcndl:genre>児童図書</dcndl:genre>
+      <dcndl:genreTranscription>ジドウ トショ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y7</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">913.6</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008001546287"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1000001378978/"/>
+      <rdfs:seeAlso rdf:resource="https://www.tosyokan.pref.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1006000527804"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bib/?B13885235"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014968605"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009812458052"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1110476548"/>
+      <rdfs:seeAlso rdf:resource="https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1110554271"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000002908946"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I030798554"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bibj/?B13885235"/>
+      <rdfs:seeAlso rdf:resource="https://ts-opac.baika.ac.jp/opac/volume/647544"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971430859802485394"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08321623961418000000"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784083216237"/>
+      <dc:description> 2020</dc:description>
+    </item>
+    <item>
+      <title>約束のネバーランド : 人と鬼1000年目の真実</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I030482292</link>
+      <description><![CDATA[<p>メディアソフト,2020,978-4-86714-093-2<p><ul><li>タイトル：約束のネバーランド : 人と鬼1000年目の真実</li><li>タイトル（読み）：ヤクソク ノ ネバーランド</li><li>シリーズ名：MSムック</li><li>シリーズ名（読み）：エムエス ムック</li><li>NDC(10)：726.101</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I030482292</guid>
+      <pubDate>Tue, 13 Apr 2021 18:24:12 +0900</pubDate>
+      <dc:title>約束のネバーランド : 人と鬼1000年目の真実</dc:title>
+      <dcndl:titleTranscription>ヤクソク ノ ネバーランド</dcndl:titleTranscription>
+      <dcndl:seriesTitle>MSムック</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>エムエス ムック</dcndl:seriesTitleTranscription>
+      <dc:publisher>メディアソフト</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2020</dc:date>
+      <dcterms:issued>2020.8</dcterms:issued>
+      <dcndl:price>900円</dcndl:price>
+      <dc:extent>207p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-86714-093-2</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">030482292</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23510371</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">07453237</dc:identifier>
+      <dc:subject>漫画</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">Y94</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.101</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I030482292"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bibj/?B13826751"/>
+      <dc:description> 2020</dc:description>
+    </item>
+    <item>
+      <title>約束のネバーランドオリジナルサウンドトラック</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I030770871</link>
+      <description><![CDATA[<p>ユニバーサルミュージック,2020,<p><ul><li>タイトル：約束のネバーランドオリジナルサウンドトラック</li><li>タイトル（読み）：ヤクソク ノ ネバーランド オリジナル サウンドトラック</li><li>責任表示：得田真裕 音楽</li></ul>]]></description>
+      <author>得田真裕 音楽</author>
+      <category>録音資料</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I030770871</guid>
+      <pubDate>Tue, 2 Feb 2021 22:13:42 +0900</pubDate>
+      <dc:title>約束のネバーランドオリジナルサウンドトラック</dc:title>
+      <dcndl:titleTranscription>ヤクソク ノ ネバーランド オリジナル サウンドトラック</dcndl:titleTranscription>
+      <dc:publisher>ユニバーサルミュージック</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2020</dc:date>
+      <dcterms:issued>2020.12</dcterms:issued>
+      <dcndl:price>3000円</dcndl:price>
+      <dc:extent>CD 1枚</dc:extent>
+      <dc:identifier xsi:type="dcndl:RIS502">UPCH-20569</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">030770871</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23479578</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">YMC11</dc:subject>
+      <dc:description>出版</dc:description>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I030770871"/>
+      <dc:description> 2020</dc:description>
+    </item>
+    <item>
+      <title>約束のネバーランド　：　Season 1&amp;2 Original Soundtrack</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000001-I22213001303007883</link>
+      <description><![CDATA[<p>アニプレックス,2021-02,<p><ul><li>タイトル：約束のネバーランド　：　Season 1&2 Original Soundtrack</li><li>タイトル（読み）：ヤクソク ノ ネバーランド　シーズン ワン アンド ツー オリジナル サウンドトラック</li><li>責任表示：TAKAHIRO OBATA／音楽,UVERworld／[ほか]演奏</li></ul>]]></description>
+      <author>TAKAHIRO OBATA,UVERworld,小畑 貴裕,TAKAHIRO OBATA／音楽,UVERworld／[ほか]演奏</author>
+      <category>図書</category>
+      <category>記録メディア</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000001-I22213001303007883</guid>
+      <pubDate>Mon, 8 Jun 2026 19:45:31 +0900</pubDate>
+      <dc:title>約束のネバーランド　：　Season 1&amp;2 Original Soundtrack</dc:title>
+      <dcndl:titleTranscription>ヤクソク ノ ネバーランド　シーズン ワン アンド ツー オリジナル サウンドトラック</dcndl:titleTranscription>
+      <dc:creator>TAKAHIRO OBATA</dc:creator>
+      <dc:creator>UVERworld</dc:creator>
+      <dc:creator>小畑 貴裕</dc:creator>
+      <dcndl:creatorTranscription>タカヒロ オバタ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ウーバー ワールド</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>オバタ タカヒロ</dcndl:creatorTranscription>
+      <dc:publisher>アニプレックス</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2021-02</dc:date>
+      <dcterms:issued>2021.2</dcterms:issued>
+      <dcndl:price>￥３５００</dcndl:price>
+      <dc:extent>2</dc:extent>
+      <dc:identifier xsi:type="dcndl:TRCMARCNO">21901002</dc:identifier>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=3001303007883"/>
+      <dc:description> 2021-02</dc:description>
+    </item>
+    <item>
+      <title>約束のネバーランド ～10年目の贈りもの～</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000137-I9784087035797</link>
+      <description><![CDATA[<p>集英社,2026-12-04,9784087035797<p><ul><li>タイトル：約束のネバーランド ～10年目の贈りもの～</li><li>タイトル（読み）：ヤクソクノネバーランド ジュウネンメノオクリモノ</li><li>責任表示：白井 カイウ 著・文・その他,出水 ぽすか 著・文・その他,七緒 著・文・その他</li><li>シリーズ名：JUMP jBOOKS</li></ul>]]></description>
+      <author>白井 カイウ,出水 ぽすか,七緒,白井 カイウ 著・文・その他,出水 ぽすか 著・文・その他,七緒 著・文・その他</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000137-I9784087035797</guid>
+      <pubDate>Thu, 22 Oct 2026 00:44:00 +0900</pubDate>
+      <dc:title>約束のネバーランド ～10年目の贈りもの～</dc:title>
+      <dcndl:titleTranscription>ヤクソクノネバーランド ジュウネンメノオクリモノ</dcndl:titleTranscription>
+      <dc:creator>白井 カイウ</dc:creator>
+      <dc:creator>出水 ぽすか</dc:creator>
+      <dc:creator>七緒</dc:creator>
+      <dcndl:creatorTranscription>シライ カイウ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>デミズ ポスカ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>ナナオ</dcndl:creatorTranscription>
+      <dcndl:seriesTitle>JUMP jBOOKS</dcndl:seriesTitle>
+      <dc:publisher>集英社</dc:publisher>
+      <dc:publisher>集英社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2026-12-04</dc:date>
+      <dcterms:issued>2026-12-04</dcterms:issued>
+      <dcndl:price>800</dcndl:price>
+      <dc:identifier xsi:type="dcndl:ISBN">9784087035797</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9784087035797</dc:identifier>
+      <dc:subject>ジェイブックス</dc:subject>
+      <dc:description>発売</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784087035797"/>
+      <dc:description> 2026-12-04</dc:description>
+    </item>
+    <item>
+      <title>約束のネバーランド超考察本 : A secret in Grace field house is considered : 鬼の世界の真実 : 作者インタビューから読み解く、展開の今後</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I028309355</link>
+      <description><![CDATA[<p>ジーウォーク (発売),2017,978-4-86297-682-6<p><ul><li>タイトル：約束のネバーランド超考察本 : A secret in Grace field house is considered : 鬼の世界の真実 : 作者インタビューから読み解く、展開の今後</li><li>タイトル（読み）：ヤクソク ノ ネバーランド チョウコウサツボン : ア シークレット イン グレース フィールド ハウス イズ コンシダード : オニ ノ セカイ ノ シンジツ : サクシャ インタビュー カラ ヨミトク テンカイ ノ コンゴ</li><li>責任表示：ネバーランド研究会 著</li><li>NDC(10)：726.101</li></ul>]]></description>
+      <author>ネバーランド研究会,ネバーランド研究会 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I028309355</guid>
+      <pubDate>Thu, 22 Feb 2018 07:08:02 +0900</pubDate>
+      <dc:title>約束のネバーランド超考察本 : A secret in Grace field house is considered : 鬼の世界の真実 : 作者インタビューから読み解く、展開の今後</dc:title>
+      <dcndl:titleTranscription>ヤクソク ノ ネバーランド チョウコウサツボン : ア シークレット イン グレース フィールド ハウス イズ コンシダード : オニ ノ セカイ ノ シンジツ : サクシャ インタビュー カラ ヨミトク テンカイ ノ コンゴ</dcndl:titleTranscription>
+      <dc:creator>ネバーランド研究会</dc:creator>
+      <dcndl:creatorTranscription>ネバーランド ケンキュウカイ</dcndl:creatorTranscription>
+      <dc:publisher>ジーウォーク (発売)</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2017</dc:date>
+      <dcterms:issued>2017.8</dcterms:issued>
+      <dcndl:price>880円</dcndl:price>
+      <dc:extent>225p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-86297-682-6</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">028309355</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23009865</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">33625610</dc:identifier>
+      <dc:subject>漫画</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">Y88</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.101</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I028309355"/>
+      <dc:description> 2017</dc:description>
+    </item>
+    <item>
+      <title>約束のネバーランド : 1000年前の約束の真相</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I028904014</link>
+      <description><![CDATA[<p>マイウェイ出版,2018,978-4-86511-892-6<p><ul><li>タイトル：約束のネバーランド : 1000年前の約束の真相</li><li>タイトル（読み）：ヤクソク ノ ネバーランド</li><li>シリーズ名：マイウェイムック</li><li>シリーズ名（読み）：マイウェイ ムック</li><li>NDC(10)：726.101</li></ul>]]></description>
+      <author/>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I028904014</guid>
+      <pubDate>Wed, 12 Dec 2018 22:03:37 +0900</pubDate>
+      <dc:title>約束のネバーランド : 1000年前の約束の真相</dc:title>
+      <dcndl:titleTranscription>ヤクソク ノ ネバーランド</dcndl:titleTranscription>
+      <dcndl:seriesTitle>マイウェイムック</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>マイウェイ ムック</dcndl:seriesTitleTranscription>
+      <dc:publisher>マイウェイ出版</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2018</dc:date>
+      <dcterms:issued>2018.5</dcterms:issued>
+      <dcndl:price>907円</dcndl:price>
+      <dc:extent>191p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-86511-892-6</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">028904014</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23142885</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">07407414</dc:identifier>
+      <dc:subject>漫画</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">Y94</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.101</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I028904014"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bibj/?B13552825"/>
+      <dc:description> 2018</dc:description>
+    </item>
+    <item>
+      <title>約束のネバーランド</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I027747295</link>
+      <description><![CDATA[<p>1,集英社,2016,978-4-08-880872-7<p><ul><li>タイトル：約束のネバーランド</li><li>タイトル（読み）：ヤクソク ノ ネバー ランド</li><li>責任表示：白井カイウ 原作,出水ぽすか 作画</li><li>シリーズ名：ジャンプコミックス</li><li>シリーズ名（読み）：ジャンプ コミックス</li><li>NDC(9)：726.1</li></ul>]]></description>
+      <author>白井, カイウ,出水, ぽすか, 1988-,白井カイウ 原作,出水ぽすか 作画</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I027747295</guid>
+      <pubDate>Tue, 18 Jan 2022 01:48:39 +0900</pubDate>
+      <dc:title>約束のネバーランド</dc:title>
+      <dcndl:titleTranscription>ヤクソク ノ ネバー ランド</dcndl:titleTranscription>
+      <dc:creator>白井, カイウ</dc:creator>
+      <dc:creator>出水, ぽすか, 1988-</dc:creator>
+      <dcndl:creatorTranscription>シライ, カイウ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>デミズ, ポスカ, 1988-</dcndl:creatorTranscription>
+      <dcndl:volume>1</dcndl:volume>
+      <dcndl:seriesTitle>ジャンプコミックス</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ジャンプ コミックス</dcndl:seriesTitleTranscription>
+      <dc:publisher>集英社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2016</dc:date>
+      <dcterms:issued>2016.12</dcterms:issued>
+      <dcndl:price>400円</dcndl:price>
+      <dc:extent>183p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-08-880872-7</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">027747295</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22827364</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">07378611</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113837599"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=2496903"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014335813"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I027747295"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bibj/?B16534784"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971712334751055243"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029520900"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029521000"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029521100"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029521200"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029521300"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029521400"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029521500"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784088808727"/>
+      <dc:description> 2016</dc:description>
+    </item>
+    <item>
+      <title>約束のネバーランド</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029115667</link>
+      <description><![CDATA[<p>10,集英社,2018,978-4-08-881534-3<p><ul><li>タイトル：約束のネバーランド</li><li>タイトル（読み）：ヤクソク ノ ネバーランド</li><li>責任表示：白井カイウ 原作,出水ぽすか 作画</li><li>シリーズ名：ジャンプコミックス</li><li>シリーズ名（読み）：ジャンプ コミックス</li><li>NDC(10)：726.1</li></ul>]]></description>
+      <author>白井, カイウ,出水, ぽすか, 1988-,白井カイウ 原作,出水ぽすか 作画</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I029115667</guid>
+      <pubDate>Mon, 24 Jan 2022 19:31:38 +0900</pubDate>
+      <dc:title>約束のネバーランド</dc:title>
+      <dcndl:titleTranscription>ヤクソク ノ ネバーランド</dcndl:titleTranscription>
+      <dc:creator>白井, カイウ</dc:creator>
+      <dc:creator>出水, ぽすか, 1988-</dc:creator>
+      <dcndl:creatorTranscription>シライ, カイウ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>デミズ, ポスカ, 1988-</dcndl:creatorTranscription>
+      <dcndl:volume>10</dcndl:volume>
+      <dcndl:seriesTitle>ジャンプコミックス</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ジャンプ コミックス</dcndl:seriesTitleTranscription>
+      <dc:publisher>集英社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2018</dc:date>
+      <dcterms:issued>2018.8</dcterms:issued>
+      <dcndl:price>440円</dcndl:price>
+      <dc:extent>189p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-08-881534-3</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">029115667</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23101122</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">07412433</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113837570"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=2496910"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014539626"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I029115667"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bibj/?B16539563"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970304959906131972"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029528800"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029528900"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029529000"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029529100"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029529200"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029529300"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029529400"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029529500"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029529600"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784088815343"/>
+      <dc:description> 2018</dc:description>
+    </item>
+    <item>
+      <title>約束のネバーランド</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029296023</link>
+      <description><![CDATA[<p>11,集英社,2018,978-4-08-881622-7<p><ul><li>タイトル：約束のネバーランド</li><li>タイトル（読み）：ヤクソク ノ ネバーランド</li><li>責任表示：白井カイウ 原作,出水ぽすか 作画</li><li>シリーズ名：ジャンプコミックス</li><li>シリーズ名（読み）：ジャンプ コミックス</li><li>NDC(10)：726.1</li></ul>]]></description>
+      <author>白井, カイウ,出水, ぽすか, 1988-,白井カイウ 原作,出水ぽすか 作画</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I029296023</guid>
+      <pubDate>Mon, 31 Jan 2022 21:06:05 +0900</pubDate>
+      <dc:title>約束のネバーランド</dc:title>
+      <dcndl:titleTranscription>ヤクソク ノ ネバーランド</dcndl:titleTranscription>
+      <dc:creator>白井, カイウ</dc:creator>
+      <dc:creator>出水, ぽすか, 1988-</dc:creator>
+      <dcndl:creatorTranscription>シライ, カイウ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>デミズ, ポスカ, 1988-</dcndl:creatorTranscription>
+      <dcndl:volume>11</dcndl:volume>
+      <dcndl:seriesTitle>ジャンプコミックス</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ジャンプ コミックス</dcndl:seriesTitleTranscription>
+      <dc:publisher>集英社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2018</dc:date>
+      <dcterms:issued>2018.11</dcterms:issued>
+      <dcndl:price>440円</dcndl:price>
+      <dc:extent>186p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-08-881622-7</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">029296023</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23135680</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">07418386</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113837575"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=2496909"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014585212"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I029296023"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bibj/?B16540273"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971430859835504512"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029529700"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029529800"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029529900"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029530000"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029530100"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029530200"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029530300"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029530400"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029530500"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784088816227"/>
+      <dc:description> 2018</dc:description>
+    </item>
+    <item>
+      <title>約束のネバーランド</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029406378</link>
+      <description><![CDATA[<p>12,集英社,2019,978-4-08-881692-0<p><ul><li>タイトル：約束のネバーランド</li><li>タイトル（読み）：ヤクソク ノ ネバーランド</li><li>責任表示：白井カイウ 原作,出水ぽすか 作画</li><li>シリーズ名：ジャンプコミックス</li><li>シリーズ名（読み）：ジャンプ コミックス</li><li>NDC(10)：726.1</li></ul>]]></description>
+      <author>白井, カイウ,出水, ぽすか, 1988-,白井カイウ 原作,出水ぽすか 作画</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I029406378</guid>
+      <pubDate>Mon, 31 Jan 2022 21:09:54 +0900</pubDate>
+      <dc:title>約束のネバーランド</dc:title>
+      <dcndl:titleTranscription>ヤクソク ノ ネバーランド</dcndl:titleTranscription>
+      <dc:creator>白井, カイウ</dc:creator>
+      <dc:creator>出水, ぽすか, 1988-</dc:creator>
+      <dcndl:creatorTranscription>シライ, カイウ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>デミズ, ポスカ, 1988-</dcndl:creatorTranscription>
+      <dcndl:volume>12</dcndl:volume>
+      <dcndl:seriesTitle>ジャンプコミックス</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ジャンプ コミックス</dcndl:seriesTitleTranscription>
+      <dc:publisher>集英社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019.1</dcterms:issued>
+      <dcndl:price>440円</dcndl:price>
+      <dc:extent>186p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-08-881692-0</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">029406378</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23161765</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">07420834</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113837578"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=2496908"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014620752"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I029406378"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bibj/?B16540911"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971712334789709708"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029530600"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029530700"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029530800"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029530900"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029531000"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029531100"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029531200"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029531300"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029531400"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784088816920"/>
+      <dc:description> 2019</dc:description>
+    </item>
+    <item>
+      <title>約束のネバーランド</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029531404</link>
+      <description><![CDATA[<p>13,集英社,2019,978-4-08-881754-5<p><ul><li>タイトル：約束のネバーランド</li><li>タイトル（読み）：ヤクソク ノ ネバーランド</li><li>責任表示：白井カイウ 原作,出水ぽすか 作画</li><li>シリーズ名：ジャンプコミックス</li><li>シリーズ名（読み）：ジャンプ コミックス</li><li>NDC(10)：726.1</li></ul>]]></description>
+      <author>白井, カイウ,出水, ぽすか, 1988-,白井カイウ 原作,出水ぽすか 作画</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I029531404</guid>
+      <pubDate>Mon, 31 Jan 2022 21:13:38 +0900</pubDate>
+      <dc:title>約束のネバーランド</dc:title>
+      <dcndl:titleTranscription>ヤクソク ノ ネバーランド</dcndl:titleTranscription>
+      <dc:creator>白井, カイウ</dc:creator>
+      <dc:creator>出水, ぽすか, 1988-</dc:creator>
+      <dcndl:creatorTranscription>シライ, カイウ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>デミズ, ポスカ, 1988-</dcndl:creatorTranscription>
+      <dcndl:volume>13</dcndl:volume>
+      <dcndl:seriesTitle>ジャンプコミックス</dcndl:seriesTitle>
+      <dcndl:seriesTitleTranscription>ジャンプ コミックス</dcndl:seriesTitleTranscription>
+      <dc:publisher>集英社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019.3</dcterms:issued>
+      <dcndl:price>440円</dcndl:price>
+      <dc:extent>185p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-08-881754-5</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">029531404</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23190914</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">07423931</dc:identifier>
+      <dcndl:genre>漫画</dcndl:genre>
+      <dcndl:genreTranscription>マンガ</dcndl:genreTranscription>
+      <dc:subject xsi:type="dcndl:NDLC">Y84</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">726.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113837581"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=2496907"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014650073"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I029531404"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1970586434882870283"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029531500"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029531600"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029531700"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029531800"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029531900"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029532000"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029532100"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029532200"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/08X10000000029532300"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784088817545"/>
+      <dc:description> 2019</dc:description>
+    </item>
+  </channel>
+</rss>

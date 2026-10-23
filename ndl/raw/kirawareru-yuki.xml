@@ -1,0 +1,133 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>9784478025819 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?isbn=9784478025819&amp;cnt=5</link>
+    <description>Search results for isbn=9784478025819 cnt=5</description>
+    <language>ja</language>
+    <openSearch:totalResults>2</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
+    <item>
+      <title>嫌われる勇気</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000136-I1971712334738747191</link>
+      <description><![CDATA[<p>ダイヤモンド社,2013,9784478025819<p><ul><li>タイトル：嫌われる勇気</li><li>タイトル（読み）：キラワレル ユウキ</li><li>責任表示：岸見一郎, 古賀史健著</li><li>NDC(9)：146.1</li></ul>]]></description>
+      <author>岸見, 一郎,古賀, 史健,岸見一郎, 古賀史健著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000136-I1971712334738747191</guid>
+      <pubDate>Fri, 25 Sep 2026 11:13:32 +0900</pubDate>
+      <dc:title>嫌われる勇気</dc:title>
+      <dcndl:titleTranscription>キラワレル ユウキ</dcndl:titleTranscription>
+      <dc:creator>岸見, 一郎</dc:creator>
+      <dc:creator>古賀, 史健</dc:creator>
+      <dcndl:creatorTranscription>キシミ, イチロウ</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>コガ, フミタケ</dcndl:creatorTranscription>
+      <dc:publisher>ダイヤモンド社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2013</dc:date>
+      <dcterms:issued>2013.12</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9784478025819</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9784478025819</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NIIBibID">BB1441300X</dc:identifier>
+      <dc:subject>精神分析</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">SB35</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">146.1</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC8">146.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971712334738747191"/>
+      <dc:description> 2013</dc:description>
+    </item>
+    <item>
+      <title>嫌われる勇気 : 自己啓発の源流「アドラー」の教え</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I025056492</link>
+      <description><![CDATA[<p>ダイヤモンド社,2013,978-4-478-02581-9<p><ul><li>タイトル：嫌われる勇気 : 自己啓発の源流「アドラー」の教え</li><li>タイトル（読み）：キラワレル ユウキ : ジコ ケイハツ ノ ゲンリュウ アドラー ノ オシエ</li><li>責任表示：岸見一郎, 古賀史健 著</li><li>NDC(9)：146.1</li></ul>]]></description>
+      <author>岸見, 一郎, 1956-,古賀, 史健, 1973-,岸見一郎, 古賀史健 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I025056492</guid>
+      <pubDate>Fri, 17 Jan 2014 22:59:33 +0900</pubDate>
+      <dc:title>嫌われる勇気 : 自己啓発の源流「アドラー」の教え</dc:title>
+      <dcndl:titleTranscription>キラワレル ユウキ : ジコ ケイハツ ノ ゲンリュウ アドラー ノ オシエ</dcndl:titleTranscription>
+      <dc:creator>岸見, 一郎, 1956-</dc:creator>
+      <dc:creator>古賀, 史健, 1973-</dc:creator>
+      <dcndl:creatorTranscription>キシミ, イチロウ, 1956-</dcndl:creatorTranscription>
+      <dcndl:creatorTranscription>コガ, フミタケ, 1973-</dcndl:creatorTranscription>
+      <dc:publisher>ダイヤモンド社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2013</dc:date>
+      <dcterms:issued>2013.12</dcterms:issued>
+      <dcndl:price>1500円</dcndl:price>
+      <dc:extent>294p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-478-02581-9</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">025056492</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">22343729</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">33024454</dc:identifier>
+      <dc:subject>Adler, Alfred, 1870-1937</dc:subject>
+      <dc:subject xsi:type="dcndl:NDLC">SB35</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC9">146.1</dc:subject>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.hokkaido.jp/wo/opc_srh/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008000742828"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.iwate.jp/opac/advanced-search"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.miyagi.jp/winj/opac/switch-detail-iccap.do?bibid=1101615994"/>
+      <rdfs:seeAlso rdf:resource="https://www.apl.pref.akita.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009920141756"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.pref.yamagata.jp/winj/opac/switch-detail-iccap.do?bibid=1103297902"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.fcs.ed.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001103076236"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.ibaraki.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001002229500"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.pref.tochigi.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101931402"/>
+      <rdfs:seeAlso rdf:resource="https://www1.library.pref.gunma.jp/winj/opac/switch-detail-iccap.do?bibid=1110199959"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.saitama.jp/winj/opac/switch-detail-iccap.do?bibid=1101478530"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=396895&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.chiba.lg.jp/licsxp-iopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000100126776"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1152377900"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113116257"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=2474173&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=1757867"/>
+      <rdfs:seeAlso rdf:resource="https://opac.pref-lib.niigata.niigata.jp/winj/opac/switch-detail-iccap.do?bibid=1107701743"/>
+      <rdfs:seeAlso rdf:resource="https://lib2.lib.pref.toyama.jp/opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000364156"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1000000711447/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1105214066/"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.yamanashi.jp/licsxp-opac/WOpacMnuTopInitAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://www.tosyokan.pref.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000388888"/>
+      <rdfs:seeAlso rdf:resource="https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001103090434"/>
+      <rdfs:seeAlso rdf:resource="http://websv.aichi-pref-library.jp/winj/opac/switch-detail-iccap.do?bibid=1182724872"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001310105918"/>
+      <rdfs:seeAlso rdf:resource="http://opac1.library.pref.mie.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1110322773"/>
+      <rdfs:seeAlso rdf:resource="https://www.shiga-pref-library.jp/wo/opc_srh/srh_detail/4234787/"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.osaka.jp/bib/?B12980511"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000012859256"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007000369983"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.hyogo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1103363267"/>
+      <rdfs:seeAlso rdf:resource="https://opacsvr01.library.pref.nara.jp/opac/volume/1069908"/>
+      <rdfs:seeAlso rdf:resource="http://www.lib.wakayama-c.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1102605711"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1101985113"/>
+      <rdfs:seeAlso rdf:resource="https://www2.library.pref.shimane.lg.jp/opac/switch-detail-iccap.do?bibid=1110572517"/>
+      <rdfs:seeAlso rdf:resource="https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009811740911"/>
+      <rdfs:seeAlso rdf:resource="https://www2.hplibra.pref.hiroshima.jp/bib/?B12250304"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1103571017"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.yamaguchi.lg.jp//wo/opc_srh/srh_detail/1001142204/"/>
+      <rdfs:seeAlso rdf:resource="https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1103635743"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1110180431"/>
+      <rdfs:seeAlso rdf:resource="https://www.ehimetosyokan.jp/winj/opac/switch-detail-iccap.do?bibid=1101109843"/>
+      <rdfs:seeAlso rdf:resource="https://www2.tosyo-saga.jp/kentosyo2/opac/switch-detail-iccap.do?bibid=1101696294"/>
+      <rdfs:seeAlso rdf:resource="https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000002217362"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1102349001"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.miyazaki.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101950143"/>
+      <rdfs:seeAlso rdf:resource="https://www2.library.pref.kagoshima.jp/kento/opac/switch-detail-iccap.do?bibid=1111313268"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.pref.okinawa.jp/winj/opac/switch-detail-iccap.do?bibid=1101091461"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I025056492"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=2433570"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=2458127"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=3483487"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000049-I027250861"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000049-I029439550"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000073-I12511079"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000073-I13058766"/>
+      <rdfs:seeAlso rdf:resource="https://library.affrc.go.jp/api/QQ20616355"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/47802581000000000000"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/90357800000000174867"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784478025819"/>
+      <rdfs:seeAlso rdf:resource="https://okuraken-lib.opac.jp/opac/Ndl/hlist?rgtn=900067906"/>
+      <dc:description> 2013</dc:description>
+    </item>
+  </channel>
+</rss>

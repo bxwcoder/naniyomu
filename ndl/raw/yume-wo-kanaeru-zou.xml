@@ -1,0 +1,58 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>9784866512419 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?isbn=9784866512419&amp;cnt=5</link>
+    <description>Search results for isbn=9784866512419 cnt=5</description>
+    <language>ja</language>
+    <openSearch:totalResults>1</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
+    <item>
+      <title>夢をかなえるゾウ</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I030481823</link>
+      <description><![CDATA[<p>1,文響社,2020,978-4-86651-241-9<p><ul><li>タイトル：夢をかなえるゾウ</li><li>タイトル（読み）：ユメ オ カナエル ゾウ</li><li>責任表示：水野敬也 著</li><li>NDC(10)：913.6</li></ul>]]></description>
+      <author>水野, 敬也, 1976-,水野敬也 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <guid isPermaLink="true">https://ndlsearch.ndl.go.jp/books/R100000002-I030481823</guid>
+      <pubDate>Mon, 31 Aug 2020 22:25:11 +0900</pubDate>
+      <dc:title>夢をかなえるゾウ</dc:title>
+      <dcndl:titleTranscription>ユメ オ カナエル ゾウ</dcndl:titleTranscription>
+      <dc:creator>水野, 敬也, 1976-</dc:creator>
+      <dcndl:creatorTranscription>ミズノ, ケイヤ, 1976-</dcndl:creatorTranscription>
+      <dcndl:volume>1</dcndl:volume>
+      <dc:publisher>文響社</dc:publisher>
+      <dcndl:publicationPlace>JP</dcndl:publicationPlace>
+      <dc:date xsi:type="dcterms:W3CDTF">2020</dc:date>
+      <dcterms:issued>2020.7</dcterms:issued>
+      <dcndl:price>770円</dcndl:price>
+      <dc:extent>398p</dc:extent>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-86651-241-9</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">030481823</dc:identifier>
+      <dc:identifier xsi:type="dcndl:JPNO">23410123</dc:identifier>
+      <dc:identifier xsi:type="dcndl:TOHANMARCNO">34086110</dc:identifier>
+      <dc:subject xsi:type="dcndl:NDLC">KH971</dc:subject>
+      <dc:subject xsi:type="dcndl:NDC10">913.6</dc:subject>
+      <dc:description>飛鳥新社 2007年刊の加筆・修正</dc:description>
+      <dc:description>文献あり 索引あり</dc:description>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1008001495336"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.city.saitama.jp/bookdetail?num=3019784&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113796218"/>
+      <rdfs:seeAlso rdf:resource="https://www.library.city.kawasaki.jp/bookdetail?num=3405481&amp;ctg=1"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=2478593"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib.pref.yamanashi.jp/licsxp-opac/WOpacMnuTopInitAction.do"/>
+      <rdfs:seeAlso rdf:resource="https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014884839"/>
+      <rdfs:seeAlso rdf:resource="https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007001040656"/>
+      <rdfs:seeAlso rdf:resource="http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1110435107"/>
+      <rdfs:seeAlso rdf:resource="https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1110255534"/>
+      <rdfs:seeAlso rdf:resource="https://ndlsearch.ndl.go.jp/books/R100000002-I030481823"/>
+      <rdfs:seeAlso rdf:resource="https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&amp;S00222=4376514"/>
+      <rdfs:seeAlso rdf:resource="https://mina.ndl.go.jp/books/R100000073-I12251796"/>
+      <rdfs:seeAlso rdf:resource="https://cir.nii.ac.jp/crid/1971149384836126004"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/90507300000000000230"/>
+      <rdfs:seeAlso rdf:resource="https://www.books.or.jp/book-details/9784866512419"/>
+      <dc:description> 2020</dc:description>
+    </item>
+  </channel>
+</rss>
