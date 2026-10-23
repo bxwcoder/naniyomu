@@ -18,6 +18,8 @@ const ENDPOINT = 'https://ndlsearch.ndl.go.jp/api/opensearch';
 const USER_AGENT = 'naniyomu-book-data/0.1 (+https://github.com/bxwcoder/naniyomu)';
 /** 問い合わせの間隔（ミリ秒） */
 const INTERVAL_MS = 1500;
+/** 1回の問い合わせで待つ最大時間（ミリ秒） */
+const TIMEOUT_MS = 30000;
 
 const outDir = process.argv[2] ?? 'ndl-output';
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -26,7 +28,8 @@ async function query(params) {
   const url = `${ENDPOINT}?${new URLSearchParams(params)}`;
   for (let attempt = 1; attempt <= 3; attempt++) {
     try {
-      const res = await fetch(url, { headers: { 'User-Agent': USER_AGENT } });
+      // 応答が返ってこないときに待ち続けないよう、30秒であきらめて次の試行に進む
+      const res = await fetch(url, { headers: { 'User-Agent': USER_AGENT }, signal: AbortSignal.timeout(TIMEOUT_MS) });
       const text = await res.text();
       if (res.ok) return { url, status: res.status, text };
       console.warn(`  ${res.status} が返りました（${attempt}回目）: ${url}`);
@@ -65,6 +68,7 @@ async function searchByTitle(book) {
 
 const records = [];
 for (const [i, book] of books.entries()) {
+  const started = Date.now();
   console.log(`[${i + 1}/${books.length}] ${book.title}（${book.isbn ? 'ISBN ' + book.isbn : 'タイトルで検索'}）`);
   let searchedBy = 'isbn';
   let result;
@@ -82,7 +86,7 @@ for (const [i, book] of books.entries()) {
     searchedBy = 'title';
   }
   await writeFile(join(outDir, 'raw', `${book.book_id}.xml`), result.text);
-  console.log(`  → ${result.status} / ${result.items.length}件`);
+  console.log(`  → ${result.status} / ${result.items.length}件（${((Date.now() - started) / 1000).toFixed(1)}秒）`);
   records.push({ book_id: book.book_id, isbn: book.isbn, searchedBy, url: result.url, status: result.status, items: result.items });
   await sleep(INTERVAL_MS);
 }
