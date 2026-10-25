@@ -23,6 +23,8 @@ const OUTPUT_PATH = 'src/data/books.auto.json';
 const norm = (s) =>
   (s ?? '')
     .normalize('NFKC')
+    // 「心淋(うらさび)し川」のような読みがなを外す
+    .replace(/[(（][ぁ-ゖー]+[)）]/g, '')
     .toLowerCase()
     .replace(/[\s・、。,.:：;；!?！？「」『』()（）〈〉\-―ー=＝"'“”~〜]/g, '');
 /** 「タイトル : 副題」の副題を外した部分 */
@@ -51,8 +53,21 @@ const pagesFromExtent = (extent) => {
   const m = (extent ?? '').normalize('NFKC').match(/(\d+)\s*p/);
   return m ? Number(m[1]) : null;
 };
-/** 巻の表示が「1」「上」「第1巻」などの最初の巻か（巻の表示がなければ1冊もの） */
-const isFirstVolume = (volume) => !volume || /^(第?0*1巻?|上巻?|前編|part\s?1|vol\.?\s?1)$/i.test(volume.normalize('NFKC').trim());
+/**
+ * 巻の表示が「1」「上」「第1巻」「第1部 (イチニツイテ)」などの最初の巻か（巻の表示がなければ1冊もの）。
+ * 後ろに付いた「(真昼の月)」のような巻の副題は外して比べる。
+ */
+const isFirstVolume = (volume) =>
+  !volume ||
+  /^(第?0*1[巻部]?|上巻?|前編|part\s?1|vol\.?\s?1)$/i.test(
+    volume.normalize('NFKC').replace(/\s*\(.*\)\s*$/, '').trim(),
+  );
+/**
+ * 漫画の第1巻が、シリーズ名の中にだけタイトルがある場合（例：「蝉時雨のやむ頃」叢書「海街diary ; 1」）。
+ * そうなら第1巻として扱う。
+ */
+const isFirstInSeries = (candidateTitle, item) =>
+  (item.seriesTitle ?? '').split(/\.\s/).some((part) => norm(part) === `${norm(candidateTitle)}1`);
 
 /** 版の選び方：好ましい叢書（文庫など）→ 置いている図書館が多い → 発行が早い */
 function preferredSeries(candidate, genres) {
@@ -60,8 +75,20 @@ function preferredSeries(candidate, genres) {
   if (candidate.source === '新書大賞') return /新書/;
   return /文庫/;
 }
+/** 大きな文字の本・対訳版など、ふつうの読者向けの版ではないもの */
+/** 子ども向けに書き直した版（児童書の文庫）も、元の本とは別の本として除く */
+const SPECIAL_EDITION = /誰でも文庫|大活字|点字|バイリンガル|bilingual|ジュニア文庫|つばさ文庫|青い鳥文庫|みらい文庫|ポプラポケット文庫|フォア文庫/i;
+const isMangaNdc = (ndc) => /^726/.test(ndc ?? '');
+
 function chooseEdition(candidate, items) {
-  const firsts = items.filter((it) => isFirstVolume(it.volume));
+  const wantManga = (candidate.hints.genres ?? SOURCE_RULES[candidate.source]?.genres ?? []).includes('manga');
+  const firsts = items.filter(
+    (it) =>
+      isFirstVolume(it.volume) &&
+      !SPECIAL_EDITION.test(`${it.seriesTitle ?? ''} ${it.publisher.join(' ')} ${it.title}`) &&
+      // 漫画の候補なら漫画の版だけ、そうでなければ漫画版（コミカライズ）を除く
+      (it.ndc === null || isMangaNdc(it.ndc) === wantManga),
+  );
   if (firsts.length === 0) return null;
   const genresGuess = candidate.hints.genres ?? SOURCE_RULES[candidate.source]?.genres ?? genresFromNdc(firsts[0].ndc) ?? [];
   const pref = preferredSeries(candidate, genresGuess);
@@ -84,12 +111,17 @@ const chosenLog = [];
 const usedIsbns = new Set();
 for (const c of candidates) {
   const skip = (reason) => skipped.push(`${c.title}／${c.author}（${c.source}）：${reason}`);
+  if (curatedTitles.has(norm(c.title))) {
+    skip('手で書いた本のデータにすでにある');
+    continue;
+  }
   const rec = byKey.get(candidateKey(c));
   if (!rec || rec.status !== 200) {
     skip('まだ国立国会図書館で検索できていない');
     continue;
   }
   const items = rec.items
+    .map((it) => (!titleMatches(c.title, it) && isFirstInSeries(c.title, it) ? { ...it, volume: '1', title: c.title } : it))
     .filter((it) => titleMatches(c.title, it))
     .map((it) => ({ ...it, isbn13: it.isbns.map(toIsbn13).find(Boolean) ?? null }))
     .filter((it) => it.isbn13);
@@ -99,10 +131,10 @@ for (const c of candidates) {
   }
   const edition = chooseEdition(c, items);
   if (!edition) {
-    skip('第1巻の記録が見つからない');
+    skip('ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）');
     continue;
   }
-  if (curatedIsbns.has(edition.isbn13) || curatedTitles.has(norm(c.title))) {
+  if (curatedIsbns.has(edition.isbn13)) {
     skip('手で書いた本のデータにすでにある');
     continue;
   }
@@ -110,8 +142,8 @@ for (const c of candidates) {
     skip('候補リストの別の行と同じ本');
     continue;
   }
-  // 巻の表示がある記録があれば、上下巻やシリーズもの
-  const multiVolume = items.some((it) => it.volume);
+  // 選んだ版に巻の表示（「1」「上」など）があれば、上下巻やシリーズもの
+  const multiVolume = Boolean(edition.volume);
   const pages = pagesFromExtent(edition.extent);
   const tags = decideTags(c, { ndc: edition.ndc, pages, multiVolume });
   if (!tags) {
