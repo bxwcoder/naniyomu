@@ -2,8 +2,10 @@
 #
 # 手動で実行：GitHub のリポジトリ画面 →「Actions」→「候補リストの本を国立国会図書館で探す」→「Run workflow」
 # 自動の実行を止めたいとき：同じ画面の右上「…」→「Disable workflow」
-# 結果は「catalog-data」ブランチに保存されます（main ブランチやアプリの公開には影響しません）。
-# 前回までに取れた本は取り直さないので、全部そろうまで何回か実行できます。
+# 検索結果は「catalog-data」ブランチに保存されます。
+# 続けて、検索結果からアプリ用の本のデータ（src/data/books.auto.json）を作り、
+# テストと型チェックに通ったときだけ main ブランチに保存します（報告は data/catalog/report.md）。
+# 前回までに取れた本は取り直さないので、全部そろうまで何回でも実行できます。
 
 name: 候補リストの本を国立国会図書館で探す
 
@@ -26,10 +28,13 @@ jobs:
     timeout-minutes: 55
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-node@v4
         with:
           node-version-file: .node-version
+          cache: npm
 
       - name: 前回までの結果を読み込む
         run: |
@@ -47,6 +52,31 @@ jobs:
         env:
           MAX_RUN_MINUTES: '40'
         run: node scripts/catalog/fetch.mjs catalog-output
+
+      - name: 本のデータを作って main に保存
+        # 検索結果が変わったときだけ。テストか型チェックに失敗したら保存しない
+        run: |
+          if [ -f /tmp/catalog/records.json ] && cmp -s /tmp/catalog/records.json catalog-output/records.json; then
+            echo "検索結果に変化がないので、本のデータは作り直しません"
+            exit 0
+          fi
+          npm ci
+          node scripts/catalog/build.mjs catalog-output/records.json data/catalog
+          npx tsc -b
+          npx vitest run
+          if git diff --quiet -- src/data/books.auto.json data/catalog/report.md; then
+            echo "本のデータに変化はありません"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/books.auto.json data/catalog/report.md
+          COUNT=$(node -e 'console.log(require("./src/data/books.auto.json").length)')
+          git commit --quiet -m "自動で集めた本のデータを更新（${COUNT}冊）"
+          # 途中で main が更新されていたら、その上に載せ直してから保存する
+          git fetch --quiet origin main
+          git rebase --quiet origin/main
+          git push origin HEAD:main
 
       - name: 結果を catalog-data ブランチに保存
         # 途中で止まっても、取れた分は保存する

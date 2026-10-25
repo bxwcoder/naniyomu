@@ -1,6 +1,7 @@
 // 候補リストと国立国会図書館の検索結果から、アプリで使う本のデータ（src/data/books.auto.json）を作る
 //
 // 使い方：  node scripts/catalog/build.mjs <records.json の場所> [報告の出力先フォルダ]
+//   ※ふだんは GitHub の自動実行（.github/workflows/catalog-fetch.yml）が、検索のあとに動かします。
 //   - タイトルと著者が国立国会図書館の記録と一致し、ISBN がある本だけを入れます（実在の確認）。
 //   - 版がいくつもあるときは、文庫（新書大賞は新書）・第1巻・置いている図書館が多い版を選びます。
 //   - 札は scripts/catalog/rules.mjs の規則で決めます。紹介文は入れません（空欄）。
