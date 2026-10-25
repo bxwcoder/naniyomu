@@ -8190,6 +8190,32 @@
     "pages": 158
   },
   {
+    "book_id": "isbn-9784091242754",
+    "title": "名探偵コナン",
+    "author": "青山剛昌",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091242754",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024390168",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 404
+  },
+  {
     "book_id": "isbn-9784088736211",
     "title": "DEATH NOTE",
     "author": "大場つぐみ、小畑健",
@@ -8296,5 +8322,730 @@
     "tier": "basic",
     "publisher": "集英社",
     "pages": 187
+  },
+  {
+    "book_id": "isbn-9784063259681",
+    "title": "のだめカンタービレ",
+    "author": "二ノ宮知子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing",
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063259681",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003049894",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 180
+  },
+  {
+    "book_id": "isbn-9784088562094",
+    "title": "NANA",
+    "author": "矢沢あい",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088562094",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002890352",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 179
+  },
+  {
+    "book_id": "isbn-9784088650791",
+    "title": "ハチミツとクローバー",
+    "author": "羽海野チカ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088650791",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003672154",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 184
+  },
+  {
+    "book_id": "isbn-9784088460611",
+    "title": "君に届け",
+    "author": "椎名軽穂",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088460611",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008202955",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 195
+  },
+  {
+    "book_id": "isbn-9784592171584",
+    "title": "夏目友人帳",
+    "author": "緑川ゆき",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "imagination",
+      "life"
+    ],
+    "moods": [
+      "moving",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784592171584",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007957278",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白泉社",
+    "pages": 165
+  },
+  {
+    "book_id": "isbn-9784063635591",
+    "title": "ヴィンランド・サガ",
+    "author": "幸村誠",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "world",
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063635591",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007833709",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 192
+  },
+  {
+    "book_id": "isbn-9784063770483",
+    "title": "寄生獣",
+    "author": "岩明均",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063770483",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025617867",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 213
+  },
+  {
+    "book_id": "isbn-9784323024929",
+    "title": "火の鳥",
+    "author": "手塚治虫",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "imagination",
+      "life"
+    ],
+    "moods": [
+      "wonder",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784323024929",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033435516",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "金の星社",
+    "pages": 32
+  },
+  {
+    "book_id": "isbn-9784253132565",
+    "title": "ブラック・ジャック",
+    "author": "手塚治虫",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving",
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784253132565",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024050783",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "秋田書店",
+    "pages": 276
+  },
+  {
+    "book_id": "isbn-9784091855312",
+    "title": "20世紀少年",
+    "author": "浦沢直樹",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "mystery",
+      "imagination"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091855312",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002863103",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 208
+  },
+  {
+    "book_id": "isbn-9784091836519",
+    "title": "MONSTER",
+    "author": "浦沢直樹",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091836519",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002418467",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 212
+  },
+  {
+    "book_id": "isbn-9784088820118",
+    "title": "SPY×FAMILY",
+    "author": "遠藤達哉",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "imagination",
+      "life"
+    ],
+    "moods": [
+      "relaxing",
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088820118",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029763265",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784088817804",
+    "title": "チェンソーマン",
+    "author": "藤本タツキ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088817804",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029534501",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 187
+  },
+  {
+    "book_id": "isbn-9784396767174",
+    "title": "違国日記",
+    "author": "ヤマシタトモコ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784396767174",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028608351",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "祥伝社",
+    "pages": 156
+  },
+  {
+    "book_id": "isbn-9784063409116",
+    "title": "逃げるは恥だが役に立つ",
+    "author": "海野つなみ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063409116",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024529855",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 161
+  },
+  {
+    "book_id": "isbn-9784592110828",
+    "title": "動物のお医者さん",
+    "author": "佐々木倫子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784592110828",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003643893",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白泉社",
+    "pages": 196
+  },
+  {
+    "book_id": "isbn-9784594028565",
+    "title": "孤独のグルメ",
+    "author": "久住昌之、谷口ジロー",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784594028565",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002865077",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "扶桑社",
+    "pages": 217
+  },
+  {
+    "book_id": "isbn-9784088560236",
+    "title": "ちびまる子ちゃん",
+    "author": "さくらももこ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088560236",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002620025",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 177
+  },
+  {
+    "book_id": "isbn-9784124104240",
+    "title": "ベルサイユのばら",
+    "author": "池田理代子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "world",
+      "life"
+    ],
+    "moods": [
+      "moving",
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784124104240",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002250692",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 140
+  },
+  {
+    "book_id": "isbn-9784592880011",
+    "title": "ガラスの仮面",
+    "author": "美内すずえ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784592880011",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002307740",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白泉社",
+    "pages": 310
+  },
+  {
+    "book_id": "isbn-9784091240460",
+    "title": "タッチ",
+    "author": "あだち充",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091240460",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023996597",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 181
+  },
+  {
+    "book_id": "isbn-9784063115321",
+    "title": "はじめの一歩",
+    "author": "森川ジョージ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063115321",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029263841",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 184
+  },
+  {
+    "book_id": "isbn-9784088736235",
+    "title": "銀魂",
+    "author": "空知英秋",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "relaxing",
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088736235",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007330354",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 200
+  },
+  {
+    "book_id": "isbn-9784088705965",
+    "title": "暗殺教室",
+    "author": "松井優征",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life",
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088705965",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024046067",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784088811840",
+    "title": "Dr.STONE",
+    "author": "稲垣理一郎、Boichi",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "imagination",
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088811840",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028309496",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 178
+  },
+  {
+    "book_id": "isbn-9784063879063",
+    "title": "宝石の国",
+    "author": "市川春子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "wonder"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063879063",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024693982",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 192
+  },
+  {
+    "book_id": "isbn-9784091892966",
+    "title": "映像研には手を出すな!",
+    "author": "大童澄瞳",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life",
+      "imagination"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091892966",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027821356",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 154
   }
 ]
