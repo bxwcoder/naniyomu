@@ -109,6 +109,33 @@
     "pages": 690
   },
   {
+    "book_id": "isbn-9784575513448",
+    "title": "告白",
+    "author": "湊かなえ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575513448",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010836272",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 317
+  },
+  {
     "book_id": "isbn-9784094087574",
     "title": "謎解きはディナーのあとで",
     "author": "東川篤哉",
@@ -517,6 +544,33 @@
     "pages": 269
   },
   {
+    "book_id": "isbn-9784101269313",
+    "title": "何者",
+    "author": "朝井リョウ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101269313",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026436585",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 346
+  },
+  {
     "book_id": "isbn-9784167904425",
     "title": "等伯",
     "author": "安部龍太郎",
@@ -571,6 +625,33 @@
     "pages": 217
   },
   {
+    "book_id": "isbn-9784062931915",
+    "title": "恋歌",
+    "author": "朝井まかて",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062931915",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026762889",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 378
+  },
+  {
     "book_id": "isbn-9784041041178",
     "title": "破門",
     "author": "黒川博行",
@@ -596,6 +677,61 @@
     "tier": "basic",
     "publisher": "KADOKAWA",
     "pages": 566
+  },
+  {
+    "book_id": "isbn-9784094064421",
+    "title": "サラバ!",
+    "author": "西加奈子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094064421",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028514618",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 331
+  },
+  {
+    "book_id": "isbn-9784062937214",
+    "title": "流",
+    "author": "東山彰良",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life",
+      "world"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062937214",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028317488",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 497
   },
   {
     "book_id": "isbn-9784087458725",
@@ -706,6 +842,34 @@
     "tier": "basic",
     "publisher": "文藝春秋",
     "pages": 367
+  },
+  {
+    "book_id": "isbn-9784065243732",
+    "title": "宝島",
+    "author": "真藤順丈",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "world",
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065243732",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031536942",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 448
   },
   {
     "book_id": "isbn-9784167919023",
@@ -1141,6 +1305,32 @@
     "pages": 170
   },
   {
+    "book_id": "isbn-9784167907822",
+    "title": "火花",
+    "author": "又吉直樹",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167907822",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027864450",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 180
+  },
+  {
     "book_id": "isbn-9784167910662",
     "title": "スクラップ・アンド・ビルド",
     "author": "羽田圭介",
@@ -1322,6 +1512,34 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 214
+  },
+  {
+    "book_id": "isbn-9784091875716",
+    "title": "岳",
+    "author": "石塚真一",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "world",
+      "life"
+    ],
+    "moods": [
+      "moving",
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091875716",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007723842",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 210
   },
   {
     "book_id": "isbn-9784063192391",
@@ -2153,5 +2371,539 @@
     "tier": "basic",
     "publisher": "文藝春秋",
     "pages": 271
+  },
+  {
+    "book_id": "isbn-9784488464011",
+    "title": "アヒルと鴨のコインロッカー",
+    "author": "伊坂幸太郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488464011",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008402982",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 375
+  },
+  {
+    "book_id": "isbn-9784062638876",
+    "title": "姑獲鳥の夏",
+    "author": "京極夏彦",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "challenging",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062638876",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002715273",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 630
+  },
+  {
+    "book_id": "isbn-9784062639248",
+    "title": "すべてがFになる",
+    "author": "森博嗣",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062639248",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002742283",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 522
+  },
+  {
+    "book_id": "isbn-9784062735223",
+    "title": "ハサミ男",
+    "author": "殊能将之",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062735223",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003670740",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 511
+  },
+  {
+    "book_id": "isbn-9784488425012",
+    "title": "慟哭",
+    "author": "貫井徳郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488425012",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002771284",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 418
+  },
+  {
+    "book_id": "isbn-9784101355511",
+    "title": "向日葵の咲かない夏",
+    "author": "道尾秀介",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101355511",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009428297",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 470
+  },
+  {
+    "book_id": "isbn-9784065358542",
+    "title": "方舟",
+    "author": "夕木春央",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065358542",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033586240",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 402
+  },
+  {
+    "book_id": "isbn-9784151310805",
+    "title": "そして誰もいなくなった",
+    "author": "アガサ・クリスティー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151310805",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011030217",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 387
+  },
+  {
+    "book_id": "isbn-9784151310089",
+    "title": "オリエント急行の殺人",
+    "author": "アガサ・クリスティー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151310089",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011173597",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 413
+  },
+  {
+    "book_id": "isbn-9784150123093",
+    "title": "夏への扉",
+    "author": "ロバート・A・ハインライン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150123093",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030773758",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 413
+  },
+  {
+    "book_id": "isbn-9784151200533",
+    "title": "一九八四年",
+    "author": "ジョージ・オーウェル",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "challenging",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151200533",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010437810",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 511
+  },
+  {
+    "book_id": "isbn-9784150119553",
+    "title": "華氏451度",
+    "author": "レイ・ブラッドベリ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150119553",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025515939",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 299
+  },
+  {
+    "book_id": "isbn-9784151101014",
+    "title": "アルジャーノンに花束を",
+    "author": "ダニエル・キイス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination",
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151101014",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002831207",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 485
+  },
+  {
+    "book_id": "isbn-9784152098702",
+    "title": "三体",
+    "author": "劉慈欣",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784152098702",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029756494",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 447
+  },
+  {
+    "book_id": "isbn-9784150309848",
+    "title": "虐殺器官",
+    "author": "伊藤計劃",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "challenging",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150309848",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010702918",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 414
+  },
+  {
+    "book_id": "isbn-9784150311667",
+    "title": "ハーモニー",
+    "author": "伊藤計劃",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150311667",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025608386",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 398
+  },
+  {
+    "book_id": "isbn-9784062768535",
+    "title": "新世界より",
+    "author": "貴志祐介",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062768535",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011083223",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 482
+  },
+  {
+    "book_id": "isbn-9784062550710",
+    "title": "月の影影の海",
+    "author": "小野不由美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination",
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062550710",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002189758",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 272
+  },
+  {
+    "book_id": "isbn-9784101302720",
+    "title": "精霊の守り人",
+    "author": "上橋菜穂子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination",
+      "world"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101302720",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008494147",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 360
+  },
+  {
+    "book_id": "isbn-9784043898053",
+    "title": "図書館戦争",
+    "author": "有川浩",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination",
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043898053",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011186112",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 398
   }
 ]
