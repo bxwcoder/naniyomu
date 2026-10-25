@@ -59,7 +59,8 @@ export const isFirstVolume = (volume) =>
 /** 子ども向けに書き直した版（児童書の文庫）も、元の本とは別の本として除く */
 // 外国語で書かれた版（英語版の Ruby books など）も除く
 // 漫画では、何巻分かをまとめ直した本（コンビニ向けの総集編など）や、子ども向けに抜き出した本も除く
-export const MANGA_COMPILATION = /remix|リミックス|セレクション|総集編|my first big|best/i;
+// アニメの画面から作った本（アニメ版・フィルムコミック）も、元の漫画とは別の本として除く
+export const MANGA_COMPILATION = /remix|リミックス|セレクション|総集編|my first big|best|アニメ版|アニメコミック|フィルムコミック/i;
 export const SPECIAL_EDITION =
   /誰でも文庫|大活字|デカ文字|点字|バイリンガル|bilingual|ジュニア文庫|つばさ文庫|青い鳥文庫|みらい文庫|ポプラポケット文庫|ポプラ社文庫|フォア文庫|コバルト文庫|Ruby books|Kodansha International/i;
 

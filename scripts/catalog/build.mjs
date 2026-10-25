@@ -38,7 +38,7 @@ const pagesFromExtent = (extent) => {
  * 総集編・完全版・特別編集版・子ども向けの文庫など、ふつうの版がほかにあれば後回しにする版。
  * （除きはしない。ほかに版がなければ使う）
  */
-const SECONDARY_EDITION = /remix|リミックス|セレクション|総集編|愛蔵版|完全版|デラックス|ワイド版|少年文庫|新装/i;
+const SECONDARY_EDITION = /remix|リミックス|セレクション|総集編|愛蔵版|完全版|デラックス|ワイド版|スペシャル|少年文庫|新装/i;
 
 /** 版の選び方：後回しにする版でない → 好ましい叢書（文庫など）→ 置いている図書館が多い → 発行が早い */
 function preferredSeries(candidate, genres) {
@@ -46,7 +46,8 @@ function preferredSeries(candidate, genres) {
   if (candidate.source === '新書大賞') return /新書/;
   return /文庫/;
 }
-const isMangaNdc = (ndc) => /^726/.test(ndc ?? '');
+/** 漫画の分類番号（726.1）。726.6 は絵本、726.101 は漫画について書いた本なので含めない */
+const isMangaNdc = (ndc) => /^726(\.1)?$/.test(ndc ?? '');
 
 function chooseEdition(candidate, items) {
   const wantManga = (candidate.hints.genres ?? SOURCE_RULES[candidate.source]?.genres ?? []).includes('manga');

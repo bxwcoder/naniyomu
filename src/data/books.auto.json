@@ -8163,7 +8163,7 @@
     "pages": null
   },
   {
-    "book_id": "isbn-9784088748429",
+    "book_id": "isbn-9784088734446",
     "title": "ドラゴンボール",
     "author": "鳥山明",
     "genres": [
@@ -8182,12 +8182,12 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784088748429",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010983550",
+    "isbn": "9784088734446",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003994323",
     "metadata_verified": true,
     "tier": "basic",
     "publisher": "集英社",
-    "pages": 158
+    "pages": 214
   },
   {
     "book_id": "isbn-9784091242754",
@@ -8513,7 +8513,7 @@
     "pages": 213
   },
   {
-    "book_id": "isbn-9784323024929",
+    "book_id": "isbn-9784062076180",
     "title": "火の鳥",
     "author": "手塚治虫",
     "genres": [
@@ -8533,12 +8533,12 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784323024929",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033435516",
+    "isbn": "9784062076180",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002409947",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "金の星社",
-    "pages": 32
+    "publisher": "講談社",
+    "pages": 226
   },
   {
     "book_id": "isbn-9784253132565",
@@ -8805,7 +8805,7 @@
     "pages": 177
   },
   {
-    "book_id": "isbn-9784124104240",
+    "book_id": "isbn-9784122026339",
     "title": "ベルサイユのばら",
     "author": "池田理代子",
     "genres": [
@@ -8825,8 +8825,8 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784124104240",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002250692",
+    "isbn": "9784122026339",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002512626",
     "metadata_verified": true,
     "tier": "basic",
     "publisher": "中央公論社",

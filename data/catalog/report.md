@@ -358,7 +358,7 @@
 - 進撃の巨人：講談社コミックス ; 4276. Shonen magazine comics／講談社／2010.3／1冊／NDC 726.1／manga・easy・long
 - SLAM DUNK：ジャンプ・コミックスデラックス／集英社／2001.3／235p／NDC 726.1／manga・easy・long
 - バガボンド：モーニングKC ; 619／講談社／1999.3／1冊／NDC 726.1／manga・easy・long
-- ドラゴンボール：ジャンプ・コミックス／集英社／2010.9／158p／NDC 726.1／manga・easy・long
+- ドラゴンボール：ジャンプ・コミックス／集英社／2002.12／214p／NDC 726.1／manga・easy・long
 - 名探偵コナン：少年サンデーコミックススペシャル／小学館／2013.4／404p／NDC 726.1／manga・easy・long
 - DEATH NOTE：ジャンプ・コミックス／集英社／2004.4／191p／NDC 726.1／manga・easy・long
 - ヒカルの碁：ジャンプ・コミックス／集英社／1999.5／183p／NDC 726.1／manga・easy・long
@@ -371,7 +371,7 @@
 - 夏目友人帳：花とゆめcomics／白泉社／2005.10／165p／NDC 726.1／manga・easy・long
 - ヴィンランド・サガ：講談社コミックス ; 3559巻. Shonen magazine comics／講談社／2005.7／192p／NDC 726.1／manga・easy・long
 - 寄生獣：KCDX ; 3648／講談社／2014.8／213p／NDC 726.1／manga・easy・long
-- 火の鳥：叢書なし／金の星社／2024.4／32p／NDC 726.6／manga・easy・long
+- 火の鳥：叢書なし／講談社／1995.4／226p／NDC 726.1／manga・easy・long
 - ブラック・ジャック：Shōnen champion comics extra／秋田書店／2012.11／276p／NDC 726.1／manga・easy・long
 - 20世紀少年：ビッグコミックス／小学館／2000.3／208p／NDC 726.1／manga・easy・long
 - MONSTER：ビッグコミックス／小学館／1995.8／212p／NDC 726.1／manga・easy・long
@@ -382,7 +382,7 @@
 - 動物のお医者さん：花とゆめcomics／白泉社／1989.4／196p／NDC 726.1／manga・easy・long
 - 孤独のグルメ：扶桑社文庫／扶桑社／2000.2／217p／NDC 726.1／manga・easy・long
 - ちびまる子ちゃん：りぼんマスコットコミックス ; 1023／集英社／1997.6／177p／NDC 726.1／manga・easy・long
-- ベルサイユのばら：中公コミック・スーリ. アニメ版／中央公論社／1993.4／140p／NDC 726.1／manga・easy・long
+- ベルサイユのばら：中公文庫コミック版／中央公論社／1996.6／140p／NDC 726.1／manga・easy・long
 - ガラスの仮面：白泉社文庫／白泉社／1994.3／310p／NDC 726.1／manga・easy・long
 - タッチ：少年サンデーコミックス／小学館／2012.10／181p／NDC 726.1／manga・easy・long
 - はじめの一歩：講談社コミックスマガジン ; 1532／講談社／1990.2／184p／NDC 726.1／manga・easy・long

@@ -26,7 +26,7 @@ export const SOURCE_RULES = {
 /** 分類番号からジャンルを決める（例：913.6 → 日本の小説） */
 export function genresFromNdc(ndc) {
   if (!ndc) return null;
-  if (/^726/.test(ndc)) return ['manga'];
+  if (/^726(\.1)?$/.test(ndc)) return ['manga'];
   if (/^9\d3/.test(ndc)) return ['novel']; // 各国の小説・物語
   if (/^916/.test(ndc) || /^9\d[4-9]/.test(ndc)) return ['nonfiction']; // 記録・ルポ・随筆など
   if (/^2[89]/.test(ndc)) return ['nonfiction', 'liberal_arts']; // 伝記・地理・紀行
