@@ -75,6 +75,7 @@ const candidates = await loadCandidates();
 const records = [];
 let stoppedEarly = false;
 let fetchedCount = 0;
+let fetchedOk = 0;
 for (const [i, c] of candidates.entries()) {
   const key = candidateKey(c);
   const prev = previous.get(key);
@@ -116,6 +117,7 @@ for (const [i, c] of candidates.entries()) {
   console.log(`  → ${result.status} / 著者が合う記録 ${result.items.length}件（${((Date.now() - started) / 1000).toFixed(1)}秒）`);
   records.push({ key, method: METHOD_VERSION, ...result });
   fetchedCount++;
+  if (result.status === 200) fetchedOk++;
   await saveRecords(records);
   await sleep(INTERVAL_MS);
 }
@@ -124,6 +126,13 @@ for (const [i, c] of candidates.entries()) {
 if (fetchedCount > 0) await saveRecords(records);
 const done = records.filter((r) => r.status === 200).length;
 console.log(`取得済み：${done}/${candidates.length}冊。出力先：${outDir}`);
+// 自動実行が「続きがあるか」を判断するための情報（環境変数 CATALOG_STATUS_FILE で場所を指定したときだけ書く）
+if (process.env.CATALOG_STATUS_FILE) {
+  await writeFile(
+    process.env.CATALOG_STATUS_FILE,
+    JSON.stringify({ remaining: candidates.length - done, fetchedOk }),
+  );
+}
 if (stoppedEarly || done < candidates.length) {
   console.log('まだ取れていない本があります。もう一度実行すると、続きから取り込みます。');
 }

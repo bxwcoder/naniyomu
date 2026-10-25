@@ -1,4 +1,10 @@
-# 候補リストの本を国立国会図書館サーチで探す（1時間ごとに自動で実行。手動でも実行できる）
+# 候補リストの本を国立国会図書館サーチで探す
+#
+# 動くとき：
+#   - 候補リストを書き換えて main に保存したとき
+#   - 1回で探しきれなかったとき（終わったあとに、自分でもう一度動く。残りがなくなれば止まる）
+#   - 1時間ごと（GitHub の都合で遅れたり動かなかったりするので、予備）
+#   - 手動
 #
 # 手動で実行：GitHub のリポジトリ画面 →「Actions」→「候補リストの本を国立国会図書館で探す」→「Run workflow」
 # 自動の実行を止めたいとき：同じ画面の右上「…」→「Disable workflow」
@@ -11,12 +17,20 @@ name: 候補リストの本を国立国会図書館で探す
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - data/catalog/candidates.tsv
+      - scripts/catalog/**
+      - scripts/ndl/**
   # 1時間ごと（毎時17分）。探す本が残っていなければ、すぐに終わって何も保存しない
   schedule:
     - cron: '17 * * * *'
 
 permissions:
   contents: write
+  # 探しきれなかったときに、もう一度自分を動かすため
+  actions: write
 
 concurrency:
   group: catalog-fetch
@@ -51,6 +65,7 @@ jobs:
         # 40分を過ぎたら区切りのよいところで終わり、取れた分を保存する
         env:
           MAX_RUN_MINUTES: '40'
+          CATALOG_STATUS_FILE: /tmp/catalog-status.json
         run: node scripts/catalog/fetch.mjs catalog-output
 
       - name: 本のデータを作って main に保存
@@ -100,3 +115,21 @@ jobs:
           git add catalog
           git commit --quiet -m "候補リストの検索結果（${GITHUB_SHA::7} 時点の候補リスト）"
           git push --force origin catalog-data-new:catalog-data
+
+      - name: 探す本が残っていれば、もう一度動かす
+        # 今回1冊以上取れたときだけ（国立国会図書館につながらないときに、空回りしないように）
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ ! -f /tmp/catalog-status.json ]; then
+            echo "状態が分からないので、もう一度は動かしません"
+            exit 0
+          fi
+          REMAINING=$(node -e 'console.log(require("/tmp/catalog-status.json").remaining)')
+          FETCHED_OK=$(node -e 'console.log(require("/tmp/catalog-status.json").fetchedOk)')
+          echo "残り：${REMAINING}冊／今回取れた本：${FETCHED_OK}冊"
+          if [ "$REMAINING" -gt 0 ] && [ "$FETCHED_OK" -gt 0 ]; then
+            gh workflow run catalog-fetch.yml --ref main --repo "$GITHUB_REPOSITORY"
+            echo "続きを動かしました"
+          fi
