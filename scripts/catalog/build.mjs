@@ -11,7 +11,16 @@
 import { readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { candidateKey, loadCandidates } from './candidates.mjs';
-import { isFirstInSeries, mainTitle, norm, titleMatches, toIsbn13 } from './match.mjs';
+import {
+  MANGA_COMPILATION,
+  SPECIAL_EDITION,
+  isFirstInSeries,
+  isFirstVolume,
+  mainTitle,
+  norm,
+  titleMatches,
+  toIsbn13,
+} from './match.mjs';
 import { SOURCE_RULES, decideTags, genresFromNdc } from './rules.mjs';
 
 const [recordsPath, reportDir = '.'] = process.argv.slice(2);
@@ -26,25 +35,17 @@ const pagesFromExtent = (extent) => {
   return m ? Number(m[1]) : null;
 };
 /**
- * 巻の表示が「1」「上」「第1巻」「第1部 (イチニツイテ)」などの最初の巻か（巻の表示がなければ1冊もの）。
- * 後ろに付いた「(真昼の月)」のような巻の副題は外して比べる。
+ * 総集編・完全版・特別編集版・子ども向けの文庫など、ふつうの版がほかにあれば後回しにする版。
+ * （除きはしない。ほかに版がなければ使う）
  */
-const isFirstVolume = (volume) =>
-  !volume ||
-  /^(第?0*1[巻部]?|上巻?|前編|part\s?1|vol\.?\s?1)$/i.test(
-    volume.normalize('NFKC').replace(/\s*\(.*\)\s*$/, '').trim(),
-  );
-/** 版の選び方：好ましい叢書（文庫など）→ 置いている図書館が多い → 発行が早い */
+const SECONDARY_EDITION = /remix|リミックス|セレクション|総集編|愛蔵版|完全版|デラックス|ワイド版|少年文庫|新装/i;
+
+/** 版の選び方：後回しにする版でない → 好ましい叢書（文庫など）→ 置いている図書館が多い → 発行が早い */
 function preferredSeries(candidate, genres) {
   if (genres.includes('manga')) return /コミック|comics/i;
   if (candidate.source === '新書大賞') return /新書/;
   return /文庫/;
 }
-/** 大きな文字の本・対訳版など、ふつうの読者向けの版ではないもの */
-/** 子ども向けに書き直した版（児童書の文庫）も、元の本とは別の本として除く */
-// 外国語で書かれた版（英語版の Ruby books など）も除く
-const SPECIAL_EDITION =
-  /誰でも文庫|大活字|デカ文字|点字|バイリンガル|bilingual|ジュニア文庫|つばさ文庫|青い鳥文庫|みらい文庫|ポプラポケット文庫|ポプラ社文庫|フォア文庫|コバルト文庫|Ruby books|Kodansha International/i;
 const isMangaNdc = (ndc) => /^726/.test(ndc ?? '');
 
 function chooseEdition(candidate, items) {
@@ -54,7 +55,8 @@ function chooseEdition(candidate, items) {
       isFirstVolume(it.volume) &&
       !SPECIAL_EDITION.test(`${it.seriesTitle ?? ''} ${it.publisher.join(' ')} ${it.title}`) &&
       // 漫画の候補なら漫画の版だけ、そうでなければ漫画版（コミカライズ）を除く
-      (it.ndc === null || isMangaNdc(it.ndc) === wantManga),
+      (it.ndc === null || isMangaNdc(it.ndc) === wantManga) &&
+      !(wantManga && MANGA_COMPILATION.test(`${it.seriesTitle ?? ''} ${it.title}`)),
   );
   if (firsts.length === 0) return null;
   // 分類番号のない記録は、外国語の教科書などのことが多いので使わない
@@ -66,7 +68,8 @@ function chooseEdition(candidate, items) {
   firsts.splice(0, firsts.length, ...usable);
   const genresGuess = candidate.hints.genres ?? SOURCE_RULES[candidate.source]?.genres ?? genresFromNdc(firsts[0].ndc) ?? [];
   const pref = preferredSeries(candidate, genresGuess);
-  const score = (it) => (pref.test(it.seriesTitle ?? '') ? 1 : 0);
+  const score = (it) =>
+    (pref.test(it.seriesTitle ?? '') ? 1 : 0) - (SECONDARY_EDITION.test(`${it.seriesTitle ?? ''} ${it.title}`) ? 2 : 0);
   return [...firsts].sort(
     (a, b) => score(b) - score(a) || b.holdings - a.holdings || String(a.issued).localeCompare(String(b.issued)),
   )[0];

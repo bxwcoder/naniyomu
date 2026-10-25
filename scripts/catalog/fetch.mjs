@@ -14,11 +14,11 @@ import { join } from 'node:path';
 import { INTERVAL_MS, creatorMatches, mainAuthor, query, sleep } from '../ndl/client.mjs';
 import { parseOpenSearch } from '../ndl/parse.mjs';
 import { candidateKey, loadCandidates } from './candidates.mjs';
-import { isUsableItem } from './match.mjs';
+import { hasFirstVolume, isUsableItem } from './match.mjs';
 
 const MAX_RUN_MS = Number(process.env.MAX_RUN_MINUTES ?? 40) * 60000;
 /** 検索方法の版。検索方法を変えたら数字を上げると、見つからなかった本を取り直す */
-const METHOD_VERSION = 3;
+const METHOD_VERSION = 4;
 const startedAt = Date.now();
 
 const outDir = process.argv[2] ?? 'catalog-output';
@@ -30,7 +30,7 @@ try {
   const prev = JSON.parse(await readFile(recordsPath, 'utf8'));
   for (const r of prev.records ?? []) {
     // 使える記録（タイトルが同じで ISBN がある）が見つかった本と、今の探し方で探した本は取り直さない
-    const found = r.items.some((it) => isUsableItem(r.key.split('|')[0], it));
+    const found = hasFirstVolume(r.key.split('|')[0], r.items);
     if (r.status === 200 && (found || r.method === METHOD_VERSION)) previous.set(r.key, r);
   }
   console.log(`前回までに取れた本：${previous.size}冊`);
@@ -97,6 +97,20 @@ for (const [i, c] of candidates.entries()) {
     if (result.status !== 200) break;
     for (const it of result.items) items.set(it.link ?? JSON.stringify(it), it);
     if ([...items.values()].some((it) => isUsableItem(c.title, it))) break;
+  }
+  // 巻の多い漫画などで、2巻以降しか見つからないことがある（検索結果は200件まで）。
+  // 見つかった巻のうち一番古い年までに絞って、さかのぼって探す（3回まで）
+  for (let i = 0; i < 3 && result.status === 200 && !hasFirstVolume(c.title, [...items.values()]); i++) {
+    const years = [...items.values()]
+      .filter((it) => isUsableItem(c.title, it))
+      .map((it) => Number(String(it.issued ?? '').normalize('NFKC').match(/\d{4}/)?.[0]))
+      .filter((y) => y > 0);
+    if (years.length === 0) break;
+    await sleep(INTERVAL_MS);
+    const before = items.size;
+    result = await search(c, { dpid: 'iss-ndl-opac', until: String(Math.min(...years)) });
+    for (const it of result.items) items.set(it.link ?? JSON.stringify(it), it);
+    if (items.size === before) break;
   }
   result = { ...result, items: [...items.values()] };
   console.log(`  → ${result.status} / 著者が合う記録 ${result.items.length}件（${((Date.now() - started) / 1000).toFixed(1)}秒）`);

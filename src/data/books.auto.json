@@ -2933,7 +2933,7 @@
     "pages": 300
   },
   {
-    "book_id": "isbn-9784001145540",
+    "book_id": "isbn-9784003101032",
     "title": "坊っちゃん",
     "author": "夏目漱石",
     "genres": [
@@ -2952,12 +2952,12 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784001145540",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003641826",
+    "isbn": "9784003101032",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001992679",
     "metadata_verified": true,
     "tier": "basic",
     "publisher": "岩波書店",
-    "pages": 205
+    "pages": 173
   },
   {
     "book_id": "isbn-9784003101018",
@@ -3012,7 +3012,7 @@
     "pages": 185
   },
   {
-    "book_id": "isbn-9784001145533",
+    "book_id": "isbn-9784036516100",
     "title": "走れメロス",
     "author": "太宰治",
     "genres": [
@@ -3030,12 +3030,12 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784001145533",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003626425",
+    "isbn": "9784036516100",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003639231",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "岩波書店",
-    "pages": 293
+    "publisher": "偕成社",
+    "pages": 287
   },
   {
     "book_id": "isbn-9784101006024",
@@ -6142,7 +6142,7 @@
     "pages": 443
   },
   {
-    "book_id": "isbn-9784001140019",
+    "book_id": "isbn-9784003751312",
     "title": "星の王子さま",
     "author": "サン＝テグジュペリ",
     "genres": [
@@ -6162,12 +6162,12 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784001140019",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002905297",
+    "isbn": "9784003751312",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028314562",
     "metadata_verified": true,
     "tier": "basic",
     "publisher": "岩波書店",
-    "pages": 175
+    "pages": 220
   },
   {
     "book_id": "isbn-9784102100042",
@@ -6356,7 +6356,7 @@
     "pages": 222
   },
   {
-    "book_id": "isbn-9784001141276",
+    "book_id": "isbn-9784000920438",
     "title": "モモ",
     "author": "ミヒャエル・エンデ",
     "genres": [
@@ -6376,12 +6376,12 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784001141276",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007815781",
+    "isbn": "9784000920438",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002548846",
     "metadata_verified": true,
     "tier": "basic",
     "publisher": "岩波書店",
-    "pages": 409
+    "pages": 418
   },
   {
     "book_id": "isbn-9784001145014",
@@ -7787,7 +7787,7 @@
     "pages": 498
   },
   {
-    "book_id": "isbn-9784062649803",
+    "book_id": "isbn-9784062091541",
     "title": "五体不満足",
     "author": "乙武洋匡",
     "genres": [
@@ -7805,12 +7805,12 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784062649803",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003017682",
+    "isbn": "9784062091541",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002713961",
     "metadata_verified": true,
     "tier": "basic",
     "publisher": "講談社",
-    "pages": 293
+    "pages": 270
   },
   {
     "book_id": "isbn-9784101352817",
@@ -8027,34 +8027,6 @@
     "pages": 262
   },
   {
-    "book_id": "isbn-9784081136353",
-    "title": "NARUTO",
-    "author": "岸本斉史",
-    "genres": [
-      "manga"
-    ],
-    "themes": [
-      "imagination",
-      "life"
-    ],
-    "moods": [
-      "absorbing",
-      "moving"
-    ],
-    "difficulty": "easy",
-    "length_category": "long",
-    "description": "",
-    "recommendation_reasons": [],
-    "cover_image_url": null,
-    "purchase_url": null,
-    "isbn": "9784081136353",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028096079",
-    "metadata_verified": true,
-    "tier": "basic",
-    "publisher": "集英社",
-    "pages": 500
-  },
-  {
     "book_id": "isbn-9784088807232",
     "title": "鬼滅の刃",
     "author": "吾峠呼世晴",
@@ -8191,7 +8163,7 @@
     "pages": null
   },
   {
-    "book_id": "isbn-9784088734446",
+    "book_id": "isbn-9784088748429",
     "title": "ドラゴンボール",
     "author": "鳥山明",
     "genres": [
@@ -8210,38 +8182,12 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784088734446",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003994323",
+    "isbn": "9784088748429",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010983550",
     "metadata_verified": true,
     "tier": "basic",
     "publisher": "集英社",
-    "pages": 214
-  },
-  {
-    "book_id": "isbn-9784091255495",
-    "title": "名探偵コナン",
-    "author": "青山剛昌",
-    "genres": [
-      "manga"
-    ],
-    "themes": [
-      "mystery"
-    ],
-    "moods": [
-      "absorbing"
-    ],
-    "difficulty": "easy",
-    "length_category": "long",
-    "description": "",
-    "recommendation_reasons": [],
-    "cover_image_url": null,
-    "purchase_url": null,
-    "isbn": "9784091255495",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025901593",
-    "metadata_verified": true,
-    "tier": "basic",
-    "publisher": "小学館",
-    "pages": 204
+    "pages": 158
   },
   {
     "book_id": "isbn-9784088736211",
@@ -8296,33 +8242,6 @@
     "tier": "basic",
     "publisher": "集英社",
     "pages": 183
-  },
-  {
-    "book_id": "isbn-9784081135516",
-    "title": "HUNTER×HUNTER",
-    "author": "冨樫義博",
-    "genres": [
-      "manga"
-    ],
-    "themes": [
-      "imagination",
-      "world"
-    ],
-    "moods": [
-      "absorbing"
-    ],
-    "difficulty": "easy",
-    "length_category": "long",
-    "description": "",
-    "recommendation_reasons": [],
-    "cover_image_url": null,
-    "purchase_url": null,
-    "isbn": "9784081135516",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029458700",
-    "metadata_verified": true,
-    "tier": "basic",
-    "publisher": "集英社",
-    "pages": 461
   },
   {
     "book_id": "isbn-9784088802640",

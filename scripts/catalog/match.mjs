@@ -44,3 +44,31 @@ export function toIsbn13(raw) {
 /** この記録が、候補の本として使えるか（タイトルが同じで、ISBN がある） */
 export const isUsableItem = (candidateTitle, item) =>
   (titleMatches(candidateTitle, item) || isFirstInSeries(candidateTitle, item)) && item.isbns.some((i) => toIsbn13(i));
+
+/**
+ * 巻の表示が「1」「上」「第1巻」「第1部 (イチニツイテ)」などの最初の巻か（巻の表示がなければ1冊もの）。
+ * 後ろに付いた「(真昼の月)」のような巻の副題は外して比べる。
+ */
+export const isFirstVolume = (volume) =>
+  !volume ||
+  /^(第?0*1[巻部]?|巻ノ0*1|上巻?|前編|part\s?1|vol\.?\s?1)$/i.test(
+    volume.normalize('NFKC').replace(/\s*\(.*\)\s*$/, '').trim(),
+  );
+
+/** 大きな文字の本・対訳版など、ふつうの読者向けの版ではないもの */
+/** 子ども向けに書き直した版（児童書の文庫）も、元の本とは別の本として除く */
+// 外国語で書かれた版（英語版の Ruby books など）も除く
+// 漫画では、何巻分かをまとめ直した本（コンビニ向けの総集編など）や、子ども向けに抜き出した本も除く
+export const MANGA_COMPILATION = /remix|リミックス|セレクション|総集編|my first big|best/i;
+export const SPECIAL_EDITION =
+  /誰でも文庫|大活字|デカ文字|点字|バイリンガル|bilingual|ジュニア文庫|つばさ文庫|青い鳥文庫|みらい文庫|ポプラポケット文庫|ポプラ社文庫|フォア文庫|コバルト文庫|Ruby books|Kodansha International/i;
+
+/** 使える記録の中に、ふつうの版の第1巻（または1冊もの）があるか */
+export const hasFirstVolume = (candidateTitle, items) =>
+  items.some(
+    (it) =>
+      isUsableItem(candidateTitle, it) &&
+      (isFirstVolume(it.volume) || isFirstInSeries(candidateTitle, it)) &&
+      !SPECIAL_EDITION.test(`${it.seriesTitle ?? ''} ${it.publisher.join(' ')} ${it.title}`) &&
+      !MANGA_COMPILATION.test(`${it.seriesTitle ?? ''} ${it.title}`),
+  );
