@@ -15,6 +15,12 @@ export const SOURCE_RULES = {
   新書大賞: { difficulty: 'normal' },
   ミステリー定番: { genres: ['mystery_sf'], themes: ['mystery'], moods: ['absorbing'], difficulty: 'normal' },
   'SF・ファンタジー定番': { genres: ['mystery_sf'], themes: ['imagination'], moods: ['absorbing', 'wonder'], difficulty: 'normal' },
+  日本の名作: { genres: ['novel'], themes: ['life'], moods: ['moving'], difficulty: 'normal' },
+  人気の小説: { genres: ['novel'], themes: ['life'], moods: ['absorbing', 'moving'], difficulty: 'easy' },
+  海外の名作: { genres: ['novel'], themes: ['life'], moods: ['moving'], difficulty: 'normal' },
+  教養の定番: { difficulty: 'normal' },
+  ノンフィクション定番: { genres: ['nonfiction'], themes: ['world'], moods: ['wonder', 'learning'], difficulty: 'normal' },
+  漫画の定番: { genres: ['manga'], difficulty: 'easy' },
 };
 
 /** 分類番号からジャンルを決める（例：913.6 → 日本の小説） */

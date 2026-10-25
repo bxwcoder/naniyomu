@@ -68,6 +68,7 @@ function searchPlans(c) {
 const candidates = await loadCandidates();
 const records = [];
 let stoppedEarly = false;
+let fetchedCount = 0;
 for (const [i, c] of candidates.entries()) {
   const key = candidateKey(c);
   const prev = previous.get(key);
@@ -90,11 +91,13 @@ for (const [i, c] of candidates.entries()) {
   }
   console.log(`  → ${result.status} / 著者が合う記録 ${result.items.length}件（${((Date.now() - started) / 1000).toFixed(1)}秒）`);
   records.push({ key, method: METHOD_VERSION, ...result });
+  fetchedCount++;
   await saveRecords(records);
   await sleep(INTERVAL_MS);
 }
 
-await saveRecords(records);
+// 新しく問い合わせた本がなければ、ファイルを書き換えない（自動実行のたびに保存が増えないように）
+if (fetchedCount > 0) await saveRecords(records);
 const done = records.filter((r) => r.status === 200).length;
 console.log(`取得済み：${done}/${candidates.length}冊。出力先：${outDir}`);
 if (stoppedEarly || done < candidates.length) {

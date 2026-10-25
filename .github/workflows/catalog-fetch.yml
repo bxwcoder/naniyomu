@@ -1,6 +1,7 @@
-# 候補リストの本を国立国会図書館サーチで探す（手動で実行）
+# 候補リストの本を国立国会図書館サーチで探す（1時間ごとに自動で実行。手動でも実行できる）
 #
-# 実行方法：GitHub のリポジトリ画面 →「Actions」→「候補リストの本を国立国会図書館で探す」→「Run workflow」
+# 手動で実行：GitHub のリポジトリ画面 →「Actions」→「候補リストの本を国立国会図書館で探す」→「Run workflow」
+# 自動の実行を止めたいとき：同じ画面の右上「…」→「Disable workflow」
 # 結果は「catalog-data」ブランチに保存されます（main ブランチやアプリの公開には影響しません）。
 # 前回までに取れた本は取り直さないので、全部そろうまで何回か実行できます。
 
@@ -8,6 +9,9 @@ name: 候補リストの本を国立国会図書館で探す
 
 on:
   workflow_dispatch:
+  # 1時間ごと（毎時17分）。探す本が残っていなければ、すぐに終わって何も保存しない
+  schedule:
+    - cron: '17 * * * *'
 
 permissions:
   contents: write
@@ -50,6 +54,10 @@ jobs:
         run: |
           if [ ! -f catalog-output/records.json ]; then
             echo "保存する結果がありません"
+            exit 0
+          fi
+          if [ -f /tmp/catalog/records.json ] && cmp -s /tmp/catalog/records.json catalog-output/records.json; then
+            echo "新しく見つかった本はありません（保存しません）"
             exit 0
           fi
           git config user.name "github-actions[bot]"
