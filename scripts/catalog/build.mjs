@@ -10,6 +10,7 @@
 import { readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { candidateKey, loadCandidates } from './candidates.mjs';
+import { isFirstInSeries, mainTitle, norm, titleMatches, toIsbn13 } from './match.mjs';
 import { SOURCE_RULES, decideTags, genresFromNdc } from './rules.mjs';
 
 const [recordsPath, reportDir = '.'] = process.argv.slice(2);
@@ -19,36 +20,6 @@ if (!recordsPath) {
 }
 const OUTPUT_PATH = 'src/data/books.auto.json';
 
-// ---- 文字の比べ方をそろえる ----
-const norm = (s) =>
-  (s ?? '')
-    .normalize('NFKC')
-    // 「心淋(うらさび)し川」のような読みがなを外す
-    .replace(/[(（][ぁ-ゖー]+[)）]/g, '')
-    .toLowerCase()
-    .replace(/[\s・、。,.:：;；!?！？「」『』()（）〈〉\-―ー=＝"'“”~〜]/g, '');
-/** 「タイトル : 副題」の副題を外した部分 */
-const mainTitle = (s) => (s ?? '').split(/\s[:：]\s|\s=\s/)[0];
-const titleMatches = (candidateTitle, item) => {
-  const c = norm(candidateTitle);
-  return c !== '' && (norm(mainTitle(item.title)) === c || norm(item.title) === c);
-};
-
-function isbn13CheckDigit(first12) {
-  let sum = 0;
-  for (let i = 0; i < 12; i++) sum += Number(first12[i]) * (i % 2 === 0 ? 1 : 3);
-  return (10 - (sum % 10)) % 10;
-}
-/** 10けた・13けたの ISBN を、13けたにそろえる（チェック数字が合わないものは捨てる） */
-function toIsbn13(raw) {
-  const s = raw.replace(/[-\s]/g, '').toUpperCase();
-  if (/^97[89]\d{10}$/.test(s)) return isbn13CheckDigit(s.slice(0, 12)) === Number(s[12]) ? s : null;
-  if (/^\d{9}[\dX]$/.test(s)) {
-    const first12 = '978' + s.slice(0, 9);
-    return first12 + isbn13CheckDigit(first12);
-  }
-  return null;
-}
 const pagesFromExtent = (extent) => {
   const m = (extent ?? '').normalize('NFKC').match(/(\d+)\s*p/);
   return m ? Number(m[1]) : null;
@@ -62,13 +33,6 @@ const isFirstVolume = (volume) =>
   /^(第?0*1[巻部]?|上巻?|前編|part\s?1|vol\.?\s?1)$/i.test(
     volume.normalize('NFKC').replace(/\s*\(.*\)\s*$/, '').trim(),
   );
-/**
- * 漫画の第1巻が、シリーズ名の中にだけタイトルがある場合（例：「蝉時雨のやむ頃」叢書「海街diary ; 1」）。
- * そうなら第1巻として扱う。
- */
-const isFirstInSeries = (candidateTitle, item) =>
-  (item.seriesTitle ?? '').split(/\.\s/).some((part) => norm(part) === `${norm(candidateTitle)}1`);
-
 /** 版の選び方：好ましい叢書（文庫など）→ 置いている図書館が多い → 発行が早い */
 function preferredSeries(candidate, genres) {
   if (genres.includes('manga')) return /コミック|comics/i;
@@ -77,7 +41,9 @@ function preferredSeries(candidate, genres) {
 }
 /** 大きな文字の本・対訳版など、ふつうの読者向けの版ではないもの */
 /** 子ども向けに書き直した版（児童書の文庫）も、元の本とは別の本として除く */
-const SPECIAL_EDITION = /誰でも文庫|大活字|点字|バイリンガル|bilingual|ジュニア文庫|つばさ文庫|青い鳥文庫|みらい文庫|ポプラポケット文庫|フォア文庫/i;
+// 外国語で書かれた版（英語版の Ruby books など）も除く
+const SPECIAL_EDITION =
+  /誰でも文庫|大活字|デカ文字|点字|バイリンガル|bilingual|ジュニア文庫|つばさ文庫|青い鳥文庫|みらい文庫|ポプラポケット文庫|ポプラ社文庫|フォア文庫|コバルト文庫|Ruby books|Kodansha International/i;
 const isMangaNdc = (ndc) => /^726/.test(ndc ?? '');
 
 function chooseEdition(candidate, items) {
@@ -90,6 +56,13 @@ function chooseEdition(candidate, items) {
       (it.ndc === null || isMangaNdc(it.ndc) === wantManga),
   );
   if (firsts.length === 0) return null;
+  // 分類番号のない記録は、外国語の教科書などのことが多いので使わない
+  // 分類番号がひとつもなければ、使わない
+  let usable = firsts.filter((it) => it.ndc);
+  // 海外の小説なのに「日本の小説」（913）に分類された版は、アニメなどを元に書き直した本なので除く
+  if (candidate.source === '海外の名作') usable = usable.filter((it) => !/^913/.test(it.ndc));
+  if (usable.length === 0) return null;
+  firsts.splice(0, firsts.length, ...usable);
   const genresGuess = candidate.hints.genres ?? SOURCE_RULES[candidate.source]?.genres ?? genresFromNdc(firsts[0].ndc) ?? [];
   const pref = preferredSeries(candidate, genresGuess);
   const score = (it) => (pref.test(it.seriesTitle ?? '') ? 1 : 0);
