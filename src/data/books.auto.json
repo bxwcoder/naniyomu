@@ -19393,5 +19393,113 @@
     "tier": "basic",
     "publisher": "主婦の友社",
     "pages": 318
+  },
+  {
+    "book_id": "isbn-9784896374599",
+    "title": "転生したらスライムだった件",
+    "author": "伏瀬",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784896374599",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025449064",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "マイクロマガジン社",
+    "pages": 306
+  },
+  {
+    "book_id": "isbn-9784800217479",
+    "title": "響け!ユーフォニアム",
+    "author": "武田綾乃",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving",
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784800217479",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025007955",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "宝島社",
+    "pages": 319
+  },
+  {
+    "book_id": "isbn-9784062648806",
+    "title": "三月は深き紅の淵を",
+    "author": "恩田陸",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery",
+      "imagination"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062648806",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003006604",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 436
+  },
+  {
+    "book_id": "isbn-9784334774660",
+    "title": "虚ろな十字架",
+    "author": "東野圭吾",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery",
+      "life"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334774660",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028093037",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 367
   }
 ]
