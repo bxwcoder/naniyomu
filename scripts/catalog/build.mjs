@@ -38,7 +38,9 @@ const pagesFromExtent = (extent) => {
  * 総集編・完全版・特別編集版・子ども向けの文庫など、ふつうの版がほかにあれば後回しにする版。
  * （除きはしない。ほかに版がなければ使う）
  */
-const SECONDARY_EDITION = /remix|リミックス|セレクション|総集編|愛蔵版|完全版|デラックス|ワイド版|スペシャル|少年文庫|新装/i;
+const SECONDARY_EDITION = /remix|リミックス|セレクション|総集編|愛蔵版|完全版|デラックス|ワイド版|スペシャル|少年文庫|新装|乙女の本棚/i;
+/** 小説などで、これより少ないページ数の版は挿絵中心の本のことが多いので後回しにする */
+const PICTURE_BOOK_PAGES = 100;
 
 /** 版の選び方：後回しにする版でない → 好ましい叢書（文庫など）→ 置いている図書館が多い → 発行が早い */
 function preferredSeries(candidate, genres) {
@@ -69,8 +71,11 @@ function chooseEdition(candidate, items) {
   firsts.splice(0, firsts.length, ...usable);
   const genresGuess = candidate.hints.genres ?? SOURCE_RULES[candidate.source]?.genres ?? genresFromNdc(firsts[0].ndc) ?? [];
   const pref = preferredSeries(candidate, genresGuess);
+  const fewPages = (it) => !wantManga && (pagesFromExtent(it.extent) ?? Infinity) < PICTURE_BOOK_PAGES;
   const score = (it) =>
-    (pref.test(it.seriesTitle ?? '') ? 1 : 0) - (SECONDARY_EDITION.test(`${it.seriesTitle ?? ''} ${it.title}`) ? 2 : 0);
+    (pref.test(it.seriesTitle ?? '') ? 1 : 0) -
+    (SECONDARY_EDITION.test(`${it.seriesTitle ?? ''} ${it.title}`) ? 2 : 0) -
+    (fewPages(it) ? 2 : 0);
   return [...firsts].sort(
     (a, b) => score(b) - score(a) || b.holdings - a.holdings || String(a.issued).localeCompare(String(b.issued)),
   )[0];
