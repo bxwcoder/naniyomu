@@ -12763,33 +12763,6 @@
     "pages": 268
   },
   {
-    "book_id": "isbn-9784041096567",
-    "title": "天気の子",
-    "author": "新海誠",
-    "genres": [
-      "novel"
-    ],
-    "themes": [
-      "imagination",
-      "life"
-    ],
-    "moods": [
-      "moving"
-    ],
-    "difficulty": "easy",
-    "length_category": "long",
-    "description": "",
-    "recommendation_reasons": [],
-    "cover_image_url": null,
-    "purchase_url": null,
-    "isbn": "9784041096567",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030404287",
-    "metadata_verified": true,
-    "tier": "basic",
-    "publisher": "KADOKAWA",
-    "pages": 783
-  },
-  {
     "book_id": "isbn-9784047273078",
     "title": "秒速5センチメートル",
     "author": "新海誠",
@@ -14038,33 +14011,6 @@
     "tier": "basic",
     "publisher": "光文社",
     "pages": 489
-  },
-  {
-    "book_id": "isbn-9784907108540",
-    "title": "ハイジ",
-    "author": "ヨハンナ・スピリ",
-    "genres": [
-      "novel"
-    ],
-    "themes": [
-      "life"
-    ],
-    "moods": [
-      "relaxing",
-      "moving"
-    ],
-    "difficulty": "easy",
-    "length_category": "long",
-    "description": "",
-    "recommendation_reasons": [],
-    "cover_image_url": null,
-    "purchase_url": null,
-    "isbn": "9784907108540",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030691322",
-    "metadata_verified": true,
-    "tier": "basic",
-    "publisher": "出版ワークス",
-    "pages": 40
   },
   {
     "book_id": "isbn-9784041110829",
@@ -15892,7 +15838,7 @@
     "pages": 284
   },
   {
-    "book_id": "isbn-9784063246513",
+    "book_id": "isbn-9784063645569",
     "title": "カードキャプターさくら",
     "author": "CLAMP",
     "genres": [
@@ -15910,12 +15856,12 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784063246513",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002678473",
+    "isbn": "9784063645569",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007286248",
     "metadata_verified": true,
     "tier": "basic",
     "publisher": "講談社",
-    "pages": 145
+    "pages": 168
   },
   {
     "book_id": "isbn-9784063649338",
@@ -17040,33 +16986,6 @@
     "tier": "basic",
     "publisher": "扶桑社",
     "pages": 94
-  },
-  {
-    "book_id": "isbn-9781785040191",
-    "title": "GRIT",
-    "author": "アンジェラ・ダックワース",
-    "genres": [
-      "practical"
-    ],
-    "themes": [
-      "practical",
-      "life"
-    ],
-    "moods": [
-      "learning"
-    ],
-    "difficulty": "normal",
-    "length_category": "medium",
-    "description": "",
-    "recommendation_reasons": [],
-    "cover_image_url": null,
-    "purchase_url": null,
-    "isbn": "9781785040191",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I01211008001089005",
-    "metadata_verified": true,
-    "tier": "basic",
-    "publisher": "Vermilion",
-    "pages": 333
   },
   {
     "book_id": "isbn-9784761270438",

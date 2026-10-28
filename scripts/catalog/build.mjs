@@ -14,6 +14,7 @@ import { candidateKey, loadCandidates } from './candidates.mjs';
 import {
   MANGA_COMPILATION,
   SPECIAL_EDITION,
+  isForeignPublisher,
   isFirstInSeries,
   isFirstVolume,
   mainTitle,
@@ -52,14 +53,19 @@ function preferredSeries(candidate, genres) {
 const isMangaNdc = (ndc) => /^726(\.1)?$/.test(ndc ?? '');
 
 function chooseEdition(candidate, items) {
-  const wantManga = (candidate.hints.genres ?? SOURCE_RULES[candidate.source]?.genres ?? []).includes('manga');
+  const wantGenres = candidate.hints.genres ?? SOURCE_RULES[candidate.source]?.genres ?? [];
+  const wantManga = wantGenres.includes('manga');
+  // 小説の候補なら、文学（分類番号 9xx）の版だけ。絵コンテ集（778）や絵本（726.6）などを除く
+  const wantStory = !wantManga && wantGenres.length > 0 && wantGenres.every((g) => g === 'novel' || g === 'mystery_sf');
   const firsts = items.filter(
     (it) =>
       isFirstVolume(it.volume) &&
       !SPECIAL_EDITION.test(`${it.seriesTitle ?? ''} ${it.publisher.join(' ')} ${it.title}`) &&
       // 漫画の候補なら漫画の版だけ、そうでなければ漫画版（コミカライズ）を除く
       (it.ndc === null || isMangaNdc(it.ndc) === wantManga) &&
-      !(wantManga && MANGA_COMPILATION.test(`${it.seriesTitle ?? ''} ${it.title}`)),
+      !(wantManga && MANGA_COMPILATION.test(`${it.seriesTitle ?? ''} ${it.title}`)) &&
+      !isForeignPublisher(it) &&
+      !(wantStory && it.ndc && !/^9/.test(it.ndc)),
   );
   if (firsts.length === 0) return null;
   // 分類番号のない記録は、外国語の教科書などのことが多いので使わない
