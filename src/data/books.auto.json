@@ -11130,5 +11130,3866 @@
     "tier": "basic",
     "publisher": "角川書店",
     "pages": 317
+  },
+  {
+    "book_id": "isbn-9784041061763",
+    "title": "杜子春",
+    "author": "芥川龍之介",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination",
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041061763",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028565781",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 322
+  },
+  {
+    "book_id": "isbn-9784041040065",
+    "title": "風の又三郎",
+    "author": "宮沢賢治",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041040065",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001652795",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 309
+  },
+  {
+    "book_id": "isbn-9784041040027",
+    "title": "セロ弾きのゴーシュ",
+    "author": "宮沢賢治",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041040027",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002504467",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 323
+  },
+  {
+    "book_id": "isbn-9784101002491",
+    "title": "千羽鶴",
+    "author": "川端康成",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "challenging",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101002491",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033116483",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 334
+  },
+  {
+    "book_id": "isbn-9784003108147",
+    "title": "山の音",
+    "author": "川端康成",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "challenging",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003108147",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001950962",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 339
+  },
+  {
+    "book_id": "isbn-9784101050010",
+    "title": "仮面の告白",
+    "author": "三島由紀夫",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "challenging",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101050010",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003661405",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 226
+  },
+  {
+    "book_id": "isbn-9784103210184",
+    "title": "豊饒の海",
+    "author": "三島由紀夫",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "challenging",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784103210184",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002063650",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 338
+  },
+  {
+    "book_id": "isbn-9784101005010",
+    "title": "痴人の愛",
+    "author": "谷崎潤一郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101005010",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007305666",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 449
+  },
+  {
+    "book_id": "isbn-9784122024137",
+    "title": "陰翳礼讃",
+    "author": "谷崎潤一郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "life",
+      "world"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "challenging",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122024137",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002456038",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 213
+  },
+  {
+    "book_id": "isbn-9784101077017",
+    "title": "李陵",
+    "author": "中島敦",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "challenging",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101077017",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007420248",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 218
+  },
+  {
+    "book_id": "isbn-9784101065038",
+    "title": "野火",
+    "author": "大岡昇平",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life",
+      "world"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "challenging",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101065038",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025608508",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 216
+  },
+  {
+    "book_id": "isbn-9784101136011",
+    "title": "楢山節考",
+    "author": "深沢七郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101136011",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001633286",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 188
+  },
+  {
+    "book_id": "isbn-9784103011170",
+    "title": "華岡青洲の妻",
+    "author": "有吉佐和子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784103011170",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007468821",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 220
+  },
+  {
+    "book_id": "isbn-9784101132181",
+    "title": "恍惚の人",
+    "author": "有吉佐和子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101132181",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001561429",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 356
+  },
+  {
+    "book_id": "isbn-9784072292860",
+    "title": "氷点",
+    "author": "三浦綾子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving",
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784072292860",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002935674",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "主婦の友社",
+    "pages": 417
+  },
+  {
+    "book_id": "isbn-9784101162010",
+    "title": "塩狩峠",
+    "author": "三浦綾子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101162010",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007890774",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 459
+  },
+  {
+    "book_id": "isbn-9784036511501",
+    "title": "路傍の石",
+    "author": "山本有三",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784036511501",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003639228",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "偕成社",
+    "pages": 417
+  },
+  {
+    "book_id": "isbn-9784003122518",
+    "title": "次郎物語",
+    "author": "下村湖人",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003122518",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030319059",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 360
+  },
+  {
+    "book_id": "isbn-9784101063119",
+    "title": "天平の甍",
+    "author": "井上靖",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "world",
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101063119",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008073943",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 230
+  },
+  {
+    "book_id": "isbn-9784191235397",
+    "title": "敦煌",
+    "author": "井上靖",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "world",
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784191235397",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001884782",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 278
+  },
+  {
+    "book_id": "isbn-9784036524600",
+    "title": "しろばんば",
+    "author": "井上靖",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784036524600",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003632613",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "偕成社",
+    "pages": 414
+  },
+  {
+    "book_id": "isbn-9784101134642",
+    "title": "樅ノ木は残った",
+    "author": "山本周五郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101134642",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004298619",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 448
+  },
+  {
+    "book_id": "isbn-9784101134062",
+    "title": "赤ひげ診療譚",
+    "author": "山本周五郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101134062",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004298587",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 381
+  },
+  {
+    "book_id": "isbn-9784103097334",
+    "title": "国盗り物語",
+    "author": "司馬遼太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "world",
+      "life"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784103097334",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002156716",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 446
+  },
+  {
+    "book_id": "isbn-9784101152318",
+    "title": "項羽と劉邦",
+    "author": "司馬遼太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "world",
+      "life"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101152318",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008009317",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 486
+  },
+  {
+    "book_id": "isbn-9784167663155",
+    "title": "功名が辻",
+    "author": "司馬遼太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "world",
+      "life"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167663155",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007645854",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 313
+  },
+  {
+    "book_id": "isbn-9784101156231",
+    "title": "剣客商売",
+    "author": "池波正太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101156231",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001736707",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 332
+  },
+  {
+    "book_id": "isbn-9784101156347",
+    "title": "真田太平記",
+    "author": "池波正太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "world",
+      "life"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101156347",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001878739",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 474
+  },
+  {
+    "book_id": "isbn-9784061965331",
+    "title": "三国志",
+    "author": "吉川英治",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061965331",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001976157",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 511
+  },
+  {
+    "book_id": "isbn-9784062749121",
+    "title": "羊をめぐる冒険",
+    "author": "村上春樹",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination",
+      "mystery"
+    ],
+    "moods": [
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062749121",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007554466",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 268
+  },
+  {
+    "book_id": "isbn-9784101001340",
+    "title": "世界の終りとハードボイルド・ワンダーランド",
+    "author": "村上春樹",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101001340",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001949624",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784101001418",
+    "title": "ねじまき鳥クロニクル",
+    "author": "村上春樹",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "challenging",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101001418",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002629570",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 312
+  },
+  {
+    "book_id": "isbn-9784167905033",
+    "title": "色彩を持たない多崎つくると、彼の巡礼の年",
+    "author": "村上春樹",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167905033",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026914713",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 421
+  },
+  {
+    "book_id": "isbn-9784122018839",
+    "title": "TUGUMI",
+    "author": "吉本ばなな",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122018839",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002179816",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 245
+  },
+  {
+    "book_id": "isbn-9784041800041",
+    "title": "アムリタ",
+    "author": "吉本ばなな",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041800041",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002556468",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 286
+  },
+  {
+    "book_id": "isbn-9784167631031",
+    "title": "センセイの鞄",
+    "author": "川上弘美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167631031",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007475095",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 278
+  },
+  {
+    "book_id": "isbn-9784167631017",
+    "title": "蛇を踏む",
+    "author": "川上弘美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination",
+      "life"
+    ],
+    "moods": [
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167631017",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002811020",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 183
+  },
+  {
+    "book_id": "isbn-9784101036151",
+    "title": "放課後の音符",
+    "author": "山田詠美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101036151",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002400359",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 193
+  },
+  {
+    "book_id": "isbn-9784101036168",
+    "title": "ぼくは勉強ができない",
+    "author": "山田詠美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101036168",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002481122",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 249
+  },
+  {
+    "book_id": "isbn-9784062763479",
+    "title": "限りなく透明に近いブルー",
+    "author": "村上龍",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "challenging",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062763479",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010081524",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 164
+  },
+  {
+    "book_id": "isbn-9784167190071",
+    "title": "69",
+    "author": "村上龍",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing",
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167190071",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008833964",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 246
+  },
+  {
+    "book_id": "isbn-9784344004290",
+    "title": "13歳のハローワーク",
+    "author": "村上龍",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical",
+      "life"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344004290",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004327141",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 455
+  },
+  {
+    "book_id": "isbn-9784062753524",
+    "title": "ハゲタカ",
+    "author": "真山仁",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "practical",
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062753524",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008129096",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 488
+  },
+  {
+    "book_id": "isbn-9784167659035",
+    "title": "クライマーズ・ハイ",
+    "author": "横山秀夫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "life",
+      "world"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167659035",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008202473",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 471
+  },
+  {
+    "book_id": "isbn-9784167659011",
+    "title": "陰の季節",
+    "author": "横山秀夫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167659011",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003035151",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 247
+  },
+  {
+    "book_id": "isbn-9784043852017",
+    "title": "GO",
+    "author": "金城一紀",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043852017",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008604450",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 238
+  },
+  {
+    "book_id": "isbn-9784043852024",
+    "title": "レヴォリューションNo.3",
+    "author": "金城一紀",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing",
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043852024",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009684104",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 281
+  },
+  {
+    "book_id": "isbn-9784043721016",
+    "title": "バッテリー",
+    "author": "あさのあつこ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043721016",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004323341",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 262
+  },
+  {
+    "book_id": "isbn-9784043791033",
+    "title": "DIVE!!",
+    "author": "森絵都",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043791033",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008233370",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 367
+  },
+  {
+    "book_id": "isbn-9784167741013",
+    "title": "カラフル",
+    "author": "森絵都",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life",
+      "imagination"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167741013",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009081448",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 259
+  },
+  {
+    "book_id": "isbn-9784167741037",
+    "title": "風に舞いあがるビニールシート",
+    "author": "森絵都",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167741037",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010084758",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 342
+  },
+  {
+    "book_id": "isbn-9784041001653",
+    "title": "ラン",
+    "author": "森絵都",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination",
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041001653",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023402114",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 374
+  },
+  {
+    "book_id": "isbn-9784101237312",
+    "title": "しゃべれども しゃべれども",
+    "author": "佐藤多佳子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101237312",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002899311",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 421
+  },
+  {
+    "book_id": "isbn-9784062773263",
+    "title": "都会のトム&ソーヤ",
+    "author": "はやみねかおる",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "relaxing",
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062773263",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023905436",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 341
+  },
+  {
+    "book_id": "isbn-9784044292010",
+    "title": "涼宮ハルヒの憂鬱",
+    "author": "谷川流",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "relaxing",
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784044292010",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004166200",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 307
+  },
+  {
+    "book_id": "isbn-9784840215855",
+    "title": "キノの旅",
+    "author": "時雨沢恵一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination",
+      "world"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784840215855",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002902505",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "メディアワークス",
+    "pages": 238
+  },
+  {
+    "book_id": "isbn-9784048677608",
+    "title": "ソードアート・オンライン",
+    "author": "川原礫",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784048677608",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010078222",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "アスキー・メディアワークス",
+    "pages": 352
+  },
+  {
+    "book_id": "isbn-9784840233026",
+    "title": "狼と香辛料",
+    "author": "支倉凍砂",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination",
+      "practical"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784840233026",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008072476",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "メディアワークス",
+    "pages": 329
+  },
+  {
+    "book_id": "isbn-9784840226585",
+    "title": "とある魔術の禁書目録",
+    "author": "鎌池和馬",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784840226585",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007320498",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "メディアワークス",
+    "pages": 297
+  },
+  {
+    "book_id": "isbn-9784265061518",
+    "title": "デルトラ・クエスト",
+    "author": "エミリー・ロッダ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination",
+      "world"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784265061518",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003669601",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩崎書店",
+    "pages": 188
+  },
+  {
+    "book_id": "isbn-9784041046593",
+    "title": "君の名は。",
+    "author": "新海誠",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination",
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041046593",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027486251",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 268
+  },
+  {
+    "book_id": "isbn-9784041096567",
+    "title": "天気の子",
+    "author": "新海誠",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination",
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041096567",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030404287",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 783
+  },
+  {
+    "book_id": "isbn-9784047273078",
+    "title": "秒速5センチメートル",
+    "author": "新海誠",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784047273078",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011195494",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "エンターブレイン",
+    "pages": 371
+  },
+  {
+    "book_id": "isbn-9784834018127",
+    "title": "魔女の宅急便",
+    "author": "角野栄子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination",
+      "life"
+    ],
+    "moods": [
+      "relaxing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784834018127",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003646624",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "福音館書店",
+    "pages": 265
+  },
+  {
+    "book_id": "isbn-9784043892013",
+    "title": "夜市",
+    "author": "恒川光太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043892013",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009396266",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 218
+  },
+  {
+    "book_id": "isbn-9784041979051",
+    "title": "天使の囀り",
+    "author": "貴志祐介",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041979051",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002948517",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 526
+  },
+  {
+    "book_id": "isbn-9784041880012",
+    "title": "リング",
+    "author": "鈴木光司",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041880012",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002256752",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 331
+  },
+  {
+    "book_id": "isbn-9784043405015",
+    "title": "パラサイト・イヴ",
+    "author": "瀬名秀明",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043405015",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002548737",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 490
+  },
+  {
+    "book_id": "isbn-9784041602010",
+    "title": "ぼくらの七日間戦争",
+    "author": "宗田理",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing",
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041602010",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001736743",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 383
+  },
+  {
+    "book_id": "isbn-9784101373218",
+    "title": "スキップ",
+    "author": "北村薫",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination",
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101373218",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002810046",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 571
+  },
+  {
+    "book_id": "isbn-9784152104533",
+    "title": "アンドロイドは電気羊の夢を見るか?",
+    "author": "フィリップ・K・ディック",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784152104533",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034230383",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784150117009",
+    "title": "タイタンの妖女",
+    "author": "カート・ヴォネガット・ジュニア",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150117009",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010048915",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 477
+  },
+  {
+    "book_id": "isbn-9784150113339",
+    "title": "ハイペリオン",
+    "author": "ダン・シモンズ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "challenging",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150113339",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002942408",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 442
+  },
+  {
+    "book_id": "isbn-9784150120337",
+    "title": "宇宙の戦士",
+    "author": "ロバート・A・ハインライン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150120337",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026793532",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 409
+  },
+  {
+    "book_id": "isbn-9784309462554",
+    "title": "銀河ヒッチハイク・ガイド",
+    "author": "ダグラス・アダムス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "relaxing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309462554",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007904714",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 302
+  },
+  {
+    "book_id": "isbn-9784566023628",
+    "title": "指輪物語",
+    "author": "J・R・R・トールキン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination",
+      "world"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784566023628",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002195298",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "評論社",
+    "pages": 252
+  },
+  {
+    "book_id": "isbn-9784001157062",
+    "title": "ホビットの冒険",
+    "author": "J・R・R・トールキン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination",
+      "world"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001157062",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002253722",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 525
+  },
+  {
+    "book_id": "isbn-9784000264617",
+    "title": "ゲド戦記",
+    "author": "アーシュラ・K・ル＝グウィン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination",
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784000264617",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002838255",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 305
+  },
+  {
+    "book_id": "isbn-9784001163711",
+    "title": "ライオンと魔女",
+    "author": "C・S・ルイス",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001163711",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007771409",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 235
+  },
+  {
+    "book_id": "isbn-9784334751159",
+    "title": "クリスマス・キャロル",
+    "author": "ディケンズ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life",
+      "imagination"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334751159",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008370751",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 192
+  },
+  {
+    "book_id": "isbn-9784334753269",
+    "title": "二都物語",
+    "author": "ディケンズ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "challenging",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334753269",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027129185",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 346
+  },
+  {
+    "book_id": "isbn-9784003223314",
+    "title": "嵐が丘",
+    "author": "エミリー・ブロンテ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "challenging",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003223314",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004384165",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 313
+  },
+  {
+    "book_id": "isbn-9784003570029",
+    "title": "ジェイン・エア",
+    "author": "シャーロット・ブロンテ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003570029",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024810235",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 440
+  },
+  {
+    "book_id": "isbn-9784122065062",
+    "title": "高慢と偏見",
+    "author": "ジェイン・オースティン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122065062",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028697821",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 669
+  },
+  {
+    "book_id": "isbn-9784003230817",
+    "title": "白鯨",
+    "author": "メルヴィル",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "challenging",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003230817",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007478705",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 493
+  },
+  {
+    "book_id": "isbn-9784834020076",
+    "title": "トム・ソーヤーの冒険",
+    "author": "マーク・トウェイン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "world",
+      "life"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784834020076",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007509676",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "福音館書店",
+    "pages": 413
+  },
+  {
+    "book_id": "isbn-9784036502707",
+    "title": "ハックルベリー・フィンの冒険",
+    "author": "マーク・トウェイン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "world",
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784036502707",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002922768",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "偕成社",
+    "pages": 326
+  },
+  {
+    "book_id": "isbn-9784102101094",
+    "title": "怒りの葡萄",
+    "author": "スタインベック",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "challenging",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102101094",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026732355",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 497
+  },
+  {
+    "book_id": "isbn-9784105014070",
+    "title": "ティファニーで朝食を",
+    "author": "トルーマン・カポーティ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784105014070",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009287125",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 223
+  },
+  {
+    "book_id": "isbn-9784334751593",
+    "title": "アンナ・カレーニナ",
+    "author": "トルストイ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "challenging",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334751593",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009421553",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 602
+  },
+  {
+    "book_id": "isbn-9784003261811",
+    "title": "戦争と平和",
+    "author": "トルストイ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "world",
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "challenging",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003261811",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008079164",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 5
+  },
+  {
+    "book_id": "isbn-9784003262252",
+    "title": "桜の園",
+    "author": "チェーホフ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003262252",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002680909",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 173
+  },
+  {
+    "book_id": "isbn-9784061983205",
+    "title": "ファウスト",
+    "author": "ゲーテ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "challenging",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061983205",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004015308",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 377
+  },
+  {
+    "book_id": "isbn-9784334102197",
+    "title": "若きウェルテルの悩み",
+    "author": "ゲーテ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334102197",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033282173",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 270
+  },
+  {
+    "book_id": "isbn-9784003243558",
+    "title": "デミアン",
+    "author": "ヘルマン・ヘッセ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003243558",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I18111103337683",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 227
+  },
+  {
+    "book_id": "isbn-9784794220820",
+    "title": "シッダールタ",
+    "author": "ヘルマン・ヘッセ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784794220820",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025789258",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "草思社",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784480025081",
+    "title": "審判",
+    "author": "フランツ・カフカ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "challenging",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480025081",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002101308",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 301
+  },
+  {
+    "book_id": "isbn-9784062034036",
+    "title": "レ・ミゼラブル",
+    "author": "ヴィクトル・ユゴー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "challenging",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062034036",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001861059",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 605
+  },
+  {
+    "book_id": "isbn-9784334106904",
+    "title": "モンテ・クリスト伯",
+    "author": "アレクサンドル・デュマ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334106904",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034102955",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 519
+  },
+  {
+    "book_id": "isbn-9784488606053",
+    "title": "十五少年漂流記",
+    "author": "ジュール・ヴェルヌ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488606053",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002274975",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 465
+  },
+  {
+    "book_id": "isbn-9784003256947",
+    "title": "海底二万里",
+    "author": "ジュール・ヴェルヌ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "world",
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003256947",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009086557",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 397
+  },
+  {
+    "book_id": "isbn-9784834006230",
+    "title": "ロビンソン・クルーソー",
+    "author": "デフォー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784834006230",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004155386",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "福音館書店",
+    "pages": 445
+  },
+  {
+    "book_id": "isbn-9784834021745",
+    "title": "ガリヴァー旅行記",
+    "author": "スウィフト",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination",
+      "world"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784834021745",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008052205",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "福音館書店",
+    "pages": 288
+  },
+  {
+    "book_id": "isbn-9784334751494",
+    "title": "宝島",
+    "author": "スティーヴンスン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334751494",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009257267",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 413
+  },
+  {
+    "book_id": "isbn-9784042710011",
+    "title": "フランケンシュタイン",
+    "author": "メアリー・シェリー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination",
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784042710011",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002372197",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 301
+  },
+  {
+    "book_id": "isbn-9784334752743",
+    "title": "オペラ座の怪人",
+    "author": "ガストン・ルルー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "mystery",
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334752743",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024622149",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 570
+  },
+  {
+    "book_id": "isbn-9784102082034",
+    "title": "あしながおじさん",
+    "author": "ジーン・ウェブスター",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102082034",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028164430",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 261
+  },
+  {
+    "book_id": "isbn-9784334751289",
+    "title": "秘密の花園",
+    "author": "バーネット",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334751289",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008536477",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 507
+  },
+  {
+    "book_id": "isbn-9784334754426",
+    "title": "小公女",
+    "author": "バーネット",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334754426",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031345238",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 489
+  },
+  {
+    "book_id": "isbn-9784907108540",
+    "title": "ハイジ",
+    "author": "ヨハンナ・スピリ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784907108540",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030691322",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "出版ワークス",
+    "pages": 40
+  },
+  {
+    "book_id": "isbn-9784041110829",
+    "title": "ノートル＝ダム・ド・パリ",
+    "author": "ヴィクトル・ユゴー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "challenging",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041110829",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031969404",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 236
+  },
+  {
+    "book_id": "isbn-9784042750017",
+    "title": "アルケミスト",
+    "author": "パウロ・コエーリョ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life",
+      "imagination"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784042750017",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002562896",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 199
+  },
+  {
+    "book_id": "isbn-9784102007112",
+    "title": "朗読者",
+    "author": "ベルンハルト・シュリンク",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102007112",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004135099",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 258
+  },
+  {
+    "book_id": "isbn-9784102142110",
+    "title": "停電の夜に",
+    "author": "ジュンパ・ラヒリ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102142110",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004054883",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 327
+  },
+  {
+    "book_id": "isbn-9784150415198",
+    "title": "ザリガニの鳴くところ",
+    "author": "ディーリア・オーエンズ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life",
+      "mystery"
+    ],
+    "moods": [
+      "moving",
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150415198",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033182108",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 614
+  },
+  {
+    "book_id": "isbn-9784167901967",
+    "title": "その女アレックス",
+    "author": "ピエール・ルメートル",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167901967",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025647865",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 457
+  },
+  {
+    "book_id": "isbn-9784042955030",
+    "title": "ダ・ヴィンチ・コード",
+    "author": "ダン・ブラウン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery",
+      "world"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784042955030",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008140228",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 296
+  },
+  {
+    "book_id": "isbn-9784150415075",
+    "title": "深海のYrr",
+    "author": "フランク・シェッツィング",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150415075",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032666353",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 510
+  },
+  {
+    "book_id": "isbn-9784488265076",
+    "title": "カササギ殺人事件",
+    "author": "アンソニー・ホロヴィッツ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488265076",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029214011",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 360
+  },
+  {
+    "book_id": "isbn-9784334761714",
+    "title": "緋色の研究",
+    "author": "アーサー・コナン・ドイル",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334761714",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008239209",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 237
+  },
+  {
+    "book_id": "isbn-9784488101213",
+    "title": "バスカヴィル家の犬",
+    "author": "アーサー・コナン・ドイル",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488101213",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024262396",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 348
+  },
+  {
+    "book_id": "isbn-9784151310157",
+    "title": "ナイルに死す",
+    "author": "アガサ・クリスティー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151310157",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030610064",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 548
+  },
+  {
+    "book_id": "isbn-9784041092446",
+    "title": "モルグ街の殺人",
+    "author": "エドガー・アラン・ポー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041092446",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032022658",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 349
+  },
+  {
+    "book_id": "isbn-9784488106331",
+    "title": "樽",
+    "author": "F・W・クロフツ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488106331",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024992170",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 445
+  },
+  {
+    "book_id": "isbn-9784150730543",
+    "title": "黄色い部屋の秘密",
+    "author": "ガストン・ルルー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150730543",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026793536",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 515
+  },
+  {
+    "book_id": "isbn-9784036513901",
+    "title": "怪盗紳士ルパン",
+    "author": "モーリス・ルブラン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784036513901",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001879897",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "偕成社",
+    "pages": 374
+  },
+  {
+    "book_id": "isbn-9784167705688",
+    "title": "魔術師",
+    "author": "ジェフリー・ディーヴァー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167705688",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009684383",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 445
+  },
+  {
+    "book_id": "isbn-9784087472998",
+    "title": "もものかんづめ",
+    "author": "さくらももこ",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087472998",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002986491",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 287
+  },
+  {
+    "book_id": "isbn-9784087474206",
+    "title": "さるのこしかけ",
+    "author": "さくらももこ",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087474206",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003643439",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 285
+  },
+  {
+    "book_id": "isbn-9784167277215",
+    "title": "父の詫び状",
+    "author": "向田邦子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167277215",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008087982",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 300
+  },
+  {
+    "book_id": "isbn-9784043574018",
+    "title": "枕草子",
+    "author": "清少納言",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "challenging",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043574018",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003013867",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 242
+  },
+  {
+    "book_id": "isbn-9784003010013",
+    "title": "方丈記",
+    "author": "鴨長明",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "challenging",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003010013",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001986597",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 151
+  },
+  {
+    "book_id": "isbn-9784044001186",
+    "title": "徒然草",
+    "author": "兼好法師",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "challenging",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784044001186",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026245907",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 475
+  },
+  {
+    "book_id": "isbn-9784480425713",
+    "title": "ないもの、あります",
+    "author": "クラフト・エヴィング商會",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "relaxing",
+      "wonder"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480425713",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010061033",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 125
+  },
+  {
+    "book_id": "isbn-9784043726066",
+    "title": "いつも旅のなか",
+    "author": "角田光代",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world",
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043726066",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009396197",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 285
+  },
+  {
+    "book_id": "isbn-9784167838386",
+    "title": "そして生活はつづく",
+    "author": "星野源",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167838386",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024143996",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 204
+  },
+  {
+    "book_id": "isbn-9784167904524",
+    "title": "働く男",
+    "author": "星野源",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167904524",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026680352",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 246
+  },
+  {
+    "book_id": "isbn-9784041110676",
+    "title": "ののはな通信",
+    "author": "三浦しをん",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041110676",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031409353",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 525
+  },
+  {
+    "book_id": "isbn-9784094060867",
+    "title": "世界から猫が消えたなら",
+    "author": "川村元気",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination",
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094060867",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025741387",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 229
+  },
+  {
+    "book_id": "isbn-9784167913076",
+    "title": "四月になれば彼女は",
+    "author": "川村元気",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167913076",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029751212",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 281
+  },
+  {
+    "book_id": "isbn-9784167910266",
+    "title": "億男",
+    "author": "川村元気",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "practical",
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167910266",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028837385",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 243
+  },
+  {
+    "book_id": "isbn-9784101353616",
+    "title": "陽だまりの彼女",
+    "author": "越谷オサム",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101353616",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011197033",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 342
+  },
+  {
+    "book_id": "isbn-9784094082173",
+    "title": "いま、会いにゆきます",
+    "author": "市川拓司",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination",
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094082173",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009164618",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 429
+  },
+  {
+    "book_id": "isbn-9784094080971",
+    "title": "世界の中心で、愛をさけぶ",
+    "author": "片山恭一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094080971",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008235107",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 236
+  },
+  {
+    "book_id": "isbn-9784049141733",
+    "title": "恋空",
+    "author": "美嘉",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784049141733",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031851121",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 346
   }
 ]
