@@ -21,6 +21,7 @@ export const SOURCE_RULES = {
   教養の定番: { difficulty: 'normal' },
   ノンフィクション定番: { genres: ['nonfiction'], themes: ['world'], moods: ['wonder', 'learning'], difficulty: 'normal' },
   漫画の定番: { genres: ['manga'], difficulty: 'easy' },
+  エッセイ定番: { genres: ['nonfiction'], themes: ['life'], moods: ['relaxing'], difficulty: 'easy' },
 };
 
 /** 分類番号からジャンルを決める（例：913.6 → 日本の小説） */
