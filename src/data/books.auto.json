@@ -22068,5 +22068,1812 @@
     "tier": "basic",
     "publisher": "小学館",
     "pages": 211
+  },
+  {
+    "book_id": "isbn-9784091850409",
+    "title": "重版出来!",
+    "author": "松田奈緒子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life",
+      "practical"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091850409",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024354095",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 206
+  },
+  {
+    "book_id": "isbn-9784063409352",
+    "title": "東京タラレバ娘",
+    "author": "東村アキコ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063409352",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025755585",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 158
+  },
+  {
+    "book_id": "isbn-9784063407440",
+    "title": "海月姫",
+    "author": "東村アキコ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063407440",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010055893",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 170
+  },
+  {
+    "book_id": "isbn-9784087821888",
+    "title": "ママはテンパリスト",
+    "author": "東村アキコ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087821888",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009745232",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 124
+  },
+  {
+    "book_id": "isbn-9784403615887",
+    "title": "西洋骨董洋菓子店",
+    "author": "よしながふみ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784403615887",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002972126",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新書館",
+    "pages": 191
+  },
+  {
+    "book_id": "isbn-9784063879179",
+    "title": "甘々と稲妻",
+    "author": "雨隠ギド",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063879179",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024797051",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 184
+  },
+  {
+    "book_id": "isbn-9784063545173",
+    "title": "いぬやしき",
+    "author": "奥浩哉",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063545173",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025450592",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784088761053",
+    "title": "GANTZ",
+    "author": "奥浩哉",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088761053",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002953139",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784091825803",
+    "title": "アイアムアヒーロー",
+    "author": "花沢健吾",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091825803",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010580775",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 158
+  },
+  {
+    "book_id": "isbn-9784063958423",
+    "title": "不滅のあなたへ",
+    "author": "大今良時",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "imagination",
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063958423",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027831915",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784063949735",
+    "title": "聲の形",
+    "author": "大今良時",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063949735",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025008301",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 186
+  },
+  {
+    "book_id": "isbn-9784063713015",
+    "title": "四月は君の嘘",
+    "author": "新川直司",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063713015",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011280380",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 199
+  },
+  {
+    "book_id": "isbn-9784091262318",
+    "title": "金色のガッシュ!!",
+    "author": "雷句誠",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091262318",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002994809",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 180
+  },
+  {
+    "book_id": "isbn-9784088726441",
+    "title": "シャーマンキング",
+    "author": "武井宏之",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088726441",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002750801",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 205
+  },
+  {
+    "book_id": "isbn-9784088733708",
+    "title": "アイシールド21",
+    "author": "稲垣理一郎、村田雄介",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088733708",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004050151",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 179
+  },
+  {
+    "book_id": "isbn-9784088708096",
+    "title": "ワールドトリガー",
+    "author": "葦原大介",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088708096",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024637491",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 188
+  },
+  {
+    "book_id": "isbn-9784088707211",
+    "title": "食戟のソーマ",
+    "author": "附田祐斗、佐伯俊",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088707211",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024358835",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 204
+  },
+  {
+    "book_id": "isbn-9784088807157",
+    "title": "ゆらぎ荘の幽奈さん",
+    "author": "ミウラタダヒロ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088807157",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027321237",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 190
+  },
+  {
+    "book_id": "isbn-9784832270725",
+    "title": "ぼっち・ざ・ろっく!",
+    "author": "はまじあき",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing",
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784832270725",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029525766",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "芳文社",
+    "pages": 118
+  },
+  {
+    "book_id": "isbn-9784107718853",
+    "title": "山と食欲と私",
+    "author": "信濃川日出雄",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life",
+      "world"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784107718853",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027234176",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 125
+  },
+  {
+    "book_id": "isbn-9784803003437",
+    "title": "ヤマノススメ",
+    "author": "しろ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784803003437",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023663408",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "アース・スターエンターテイメント",
+    "pages": 142
+  },
+  {
+    "book_id": "isbn-9784088746227",
+    "title": "バクマン。",
+    "author": "大場つぐみ、小畑健",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088746227",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009994613",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 194
+  },
+  {
+    "book_id": "isbn-9784120050084",
+    "title": "新しい分かり方",
+    "author": "佐藤雅彦",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "wonder",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784120050084",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028495986",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 265
+  },
+  {
+    "book_id": "isbn-9784480688934",
+    "title": "ことばの発達の謎を解く",
+    "author": "今井むつみ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480688934",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024149767",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 239
+  },
+  {
+    "book_id": "isbn-9784004315964",
+    "title": "学びとは何か",
+    "author": "今井むつみ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004315964",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027132354",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 7
+  },
+  {
+    "book_id": "isbn-9784004318606",
+    "title": "英語独習法",
+    "author": "今井むつみ",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004318606",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030765284",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 271
+  },
+  {
+    "book_id": "isbn-9784101213668",
+    "title": "数学する身体",
+    "author": "森田真生",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world",
+      "life"
+    ],
+    "moods": [
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101213668",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028938884",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 227
+  },
+  {
+    "book_id": "isbn-9784788911963",
+    "title": "子どもを本好きにする10の秘訣",
+    "author": "高濱正伸",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical",
+      "life"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784788911963",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027669625",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "実務教育出版",
+    "pages": 261
+  },
+  {
+    "book_id": "isbn-9784492046258",
+    "title": "東大読書",
+    "author": "西岡壱誠",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784492046258",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434881274404",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東洋経済新報社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784763134509",
+    "title": "読んだら忘れない読書術",
+    "author": "樺沢紫苑",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784763134509",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026290930",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "サンマーク出版",
+    "pages": 251
+  },
+  {
+    "book_id": "isbn-9784569768991",
+    "title": "本の読み方",
+    "author": "平野啓一郎",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical",
+      "life"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784569768991",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029689477",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "PHP研究所",
+    "pages": 245
+  },
+  {
+    "book_id": "isbn-9784140885475",
+    "title": "読書の価値",
+    "author": "森博嗣",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784140885475",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028901882",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "NHK出版",
+    "pages": 222
+  },
+  {
+    "book_id": "isbn-9784484221571",
+    "title": "三行で撃つ",
+    "author": "近藤康太郎",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784484221571",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034714736",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "CEメディアハウス",
+    "pages": 373
+  },
+  {
+    "book_id": "isbn-9784844338727",
+    "title": "新しい文章力の教室",
+    "author": "唐木元",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784844338727",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026609719",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "インプレス",
+    "pages": 206
+  },
+  {
+    "book_id": "isbn-9784295405931",
+    "title": "書く習慣",
+    "author": "いしかわゆき",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical",
+      "life"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784295405931",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031622816",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "クロスメディア・パブリッシング",
+    "pages": 287
+  },
+  {
+    "book_id": "isbn-9784061385108",
+    "title": "20歳の自分に受けさせたい文章講義",
+    "author": "古賀史健",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061385108",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023341007",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "星海社",
+    "pages": 276
+  },
+  {
+    "book_id": "isbn-9784478107225",
+    "title": "読みたいことを、書けばいい。",
+    "author": "田中泰延",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical",
+      "life"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784478107225",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029708223",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ダイヤモンド社",
+    "pages": 271
+  },
+  {
+    "book_id": "isbn-9784484032054",
+    "title": "考具",
+    "author": "加藤昌治",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784484032054",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004214373",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ティビーエス・ブリタニカ",
+    "pages": 239
+  },
+  {
+    "book_id": "isbn-9784122011427",
+    "title": "発想法",
+    "author": "川喜田二郎",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "challenging",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122011427",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008586852",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 237
+  },
+  {
+    "book_id": "isbn-9784004150930",
+    "title": "知的生産の技術",
+    "author": "梅棹忠夫",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004150930",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809725893890",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784122030374",
+    "title": "文明の生態史観",
+    "author": "梅棹忠夫",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "challenging",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122030374",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002671561",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 349
+  },
+  {
+    "book_id": "isbn-9784167306038",
+    "title": "「空気」の研究",
+    "author": "山本七平",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world",
+      "life"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "challenging",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167306038",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001646588",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 237
+  },
+  {
+    "book_id": "isbn-9784004300182",
+    "title": "日本人の英語",
+    "author": "マーク・ピーターセン",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004300182",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001921498",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 196
+  },
+  {
+    "book_id": "isbn-9784004305965",
+    "title": "日本語練習帳",
+    "author": "大野晋",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004305965",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002757190",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 215
+  },
+  {
+    "book_id": "isbn-9784166601981",
+    "title": "漢字と日本人",
+    "author": "高島俊男",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784166601981",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003034273",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 250
+  },
+  {
+    "book_id": "isbn-9784061497016",
+    "title": "はじめての言語学",
+    "author": "黒田龍之助",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061497016",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004335618",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 250
+  },
+  {
+    "book_id": "isbn-9784478000496",
+    "title": "世界一やさしい問題解決の授業",
+    "author": "渡辺健介",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784478000496",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008599359",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ダイヤモンド社",
+    "pages": 117
+  },
+  {
+    "book_id": "isbn-9784478109182",
+    "title": "13歳からのアート思考",
+    "author": "末永幸歩",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "imagination",
+      "life"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784478109182",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971149384825227530",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ダイヤモンド社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784902593556",
+    "title": "美術の物語",
+    "author": "E・H・ゴンブリッチ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "challenging",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784902593556",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008423232",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ファイドン",
+    "pages": 688
+  },
+  {
+    "book_id": "isbn-9784004319764",
+    "title": "名画を見る眼",
+    "author": "高階秀爾",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004319764",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032774351",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 231
+  },
+  {
+    "book_id": "isbn-9784041009123",
+    "title": "怖い絵",
+    "author": "中野京子",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world",
+      "mystery"
+    ],
+    "moods": [
+      "wonder",
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041009123",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024664873",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 264
+  },
+  {
+    "book_id": "isbn-9784046066008",
+    "title": "武器になる哲学",
+    "author": "山口周",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical",
+      "life"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784046066008",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033155725",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 389
+  },
+  {
+    "book_id": "isbn-9784334039967",
+    "title": "世界のエリートはなぜ「美意識」を鍛えるのか?",
+    "author": "山口周",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334039967",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028322831",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 257
+  },
+  {
+    "book_id": "isbn-9784478108345",
+    "title": "ニュータイプの時代",
+    "author": "山口周",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784478108345",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029756488",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ダイヤモンド社",
+    "pages": 351
+  },
+  {
+    "book_id": "isbn-9784344429758",
+    "title": "いま君に伝えたいお金の話",
+    "author": "村上世彰",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344429758",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030327920",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 203
+  },
+  {
+    "book_id": "isbn-9784532197100",
+    "title": "池上彰のやさしい経済学",
+    "author": "池上彰",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical",
+      "world"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784532197100",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024945497",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日本経済新聞出版社",
+    "pages": 306
+  },
+  {
+    "book_id": "isbn-9784087461411",
+    "title": "そうだったのか!現代史",
+    "author": "池上彰",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087461411",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008490709",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 412
+  },
+  {
+    "book_id": "isbn-9784569690810",
+    "title": "伝える力",
+    "author": "池上彰",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784569690810",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008519321",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "PHP研究所",
+    "pages": 205
+  },
+  {
+    "book_id": "isbn-9784797393446",
+    "title": "大人の語彙力ノート",
+    "author": "齋藤孝",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784797393446",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028474875",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "SBクリエイティブ",
+    "pages": 239
+  },
+  {
+    "book_id": "isbn-9784004308010",
+    "title": "読書力",
+    "author": "齋藤孝",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004308010",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003682215",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 210
+  },
+  {
+    "book_id": "isbn-9784480421951",
+    "title": "質問力",
+    "author": "齋藤孝",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480421951",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008155450",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 233
+  },
+  {
+    "book_id": "isbn-9784478011317",
+    "title": "雑談力が上がる話し方",
+    "author": "齋藤孝",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784478011317",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010836055",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ダイヤモンド社",
+    "pages": 182
+  },
+  {
+    "book_id": "isbn-9784887597860",
+    "title": "超訳 ニーチェの言葉",
+    "author": "白取春彦",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784887597860",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010697297",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ディスカヴァー・トゥエンティワン",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784000070409",
+    "title": "ブッダの真理のことば・感興のことば",
+    "author": "中村元",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "challenging",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784000070409",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002123116",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 394
+  },
+  {
+    "book_id": "isbn-9784396313159",
+    "title": "般若心経入門",
+    "author": "松原泰道",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784396313159",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004025532",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "祥伝社",
+    "pages": 312
+  },
+  {
+    "book_id": "isbn-9784043004010",
+    "title": "禅とは何か",
+    "author": "鈴木大拙",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "challenging",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043004010",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002770228",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 257
+  },
+  {
+    "book_id": "isbn-9784061591387",
+    "title": "茶の本",
+    "author": "岡倉天心",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world",
+      "life"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "challenging",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061591387",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002348982",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 224
+  },
+  {
+    "book_id": "isbn-9784003311936",
+    "title": "代表的日本人",
+    "author": "内村鑑三",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "life",
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "challenging",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003311936",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002432139",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 208
   }
 ]
