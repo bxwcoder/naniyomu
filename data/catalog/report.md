@@ -409,14 +409,14 @@
 - センス・オブ・ワンダー：新潮文庫 ; カ-4-2／新潮社／2021.9／140p／NDC 402.9／liberal_arts・easy・short
 - 失敗の本質：中公文庫／中央公論社／1991.8／413p／NDC 391.2／liberal_arts・challenging・medium
 - 菊と刀：講談社学術文庫／講談社／2005.5／423p／NDC 389.1／liberal_arts・challenging・medium
-- 自省録：TIMELESS・WISDOM人生をひらく古典の知恵／ディスカヴァー・トゥエンティワン／2026.6／249p／NDC 131.5／liberal_arts・challenging・short
+- 自省録：西洋古典叢書 ; 第1期／京都大学学術出版会／1998.4／312, 3p／NDC 131.5／liberal_arts・challenging・medium
 - 幸福論：岩波文庫／岩波書店／1998.1／325p／NDC 135.5／liberal_arts・normal・medium
 - 論語と算盤：角川文庫／角川学芸出版、角川グループパブリッシング (発売)／2008.10／318p／NDC 335.15／practical・normal・medium
-- 生きがいについて：神谷美恵子コレクション／みすず書房／2004.10／353, 16p／NDC 113／liberal_arts・challenging・short
+- 生きがいについて：神谷美恵子コレクション／みすず書房／2004.10／353, 16p／NDC 113／liberal_arts・challenging・medium
 - バカの壁：新潮新書／新潮社／2003.4／204p／NDC 304／liberal_arts・normal・short
 - 国家の品格：新潮新書／新潮社／2005.11／191p／NDC 304／liberal_arts・normal・short
 - スマホ脳：新潮新書 ; 882／新潮社／2020.11／255p／NDC 491.371／liberal_arts・easy・medium
-- LIFE SHIFT：叢書なし／東洋経済新報社／2016.11／399,15p／NDC 159／practical・normal・short
+- LIFE SHIFT：叢書なし／東洋経済新報社／2016.11／399,15p／NDC 159／practical・normal・medium
 - DIE WITH ZERO：叢書なし／ダイヤモンド社／2020.9／278p／NDC 159／practical・normal・medium
 - 応仁の乱：中公新書 ; 2401／中央公論新社／2016.10／302p／NDC 210.47／liberal_arts・challenging・medium
 - 具体と抽象：叢書なし／dZERO、インプレス (発売)／2014.12／133p／NDC 141.5／practical・normal・short
@@ -637,7 +637,7 @@
 - 怒りの葡萄：新潮文庫 ; ス-4-4／新潮社／2015.10／497p／NDC 933.7／novel・challenging・long
 - ティファニーで朝食を：叢書なし／新潮社／2008.2／223p／NDC 933.7／novel・normal・short
 - アンナ・カレーニナ：光文社古典新訳文庫／光文社／2008.7／602p／NDC 983／novel・challenging・long
-- 戦争と平和：光文社古典新訳文庫 ; KAト3-7／光文社／2020.1／525p／NDC 983／novel・challenging・long
+- 戦争と平和：岩波文庫／岩波書店／2006.1／503, 5p／NDC 983／novel・challenging・long
 - 桜の園：岩波文庫／岩波書店／1998.3／173p／NDC 982／novel・normal・short
 - ファウスト：講談社文芸文庫／講談社／2003.1／377p／NDC 942.6／novel・challenging・long
 - 若きウェルテルの悩み：光文社古典新訳文庫 ; KAケ3-3／光文社／2024.2／270p／NDC 943.6／novel・normal・medium
@@ -762,19 +762,19 @@
 - 21 Lessons：河出文庫 ; ハ15-1／河出書房新社／2021.11／573p／NDC 302／liberal_arts・normal・long
 - ファスト&スロー：ハヤカワ文庫 NF ; 410／早川書房／2014.6／446p／NDC 141.5／liberal_arts・challenging・long
 - 影響力の武器：叢書なし／誠信書房／2014.7／476p／NDC 361.3／practical・normal・long
-- 7つの習慣：叢書なし／キングベアー出版／2005.3／492p／NDC 367.3／practical・normal・long
+- 7つの習慣：叢書なし／キング・ベアー出版／1996.12／481, 11p／NDC 159／practical・normal・long
 - ザ・ゴール：叢書なし／ダイヤモンド社／2001.5／552p／NDC 933.7／practical・normal・long
 - イノベーションのジレンマ：叢書なし／翔泳社／2001.7／327p／NDC 336.1／practical・challenging・medium
 - マネジメント：叢書なし／ダイヤモンド社／2001.12／302p／NDC 336／practical・challenging・medium
 - もし高校野球の女子マネージャーがドラッカーの『マネジメント』を読んだら：新潮文庫 ; い-125-1／新潮社／2015.12／309p／NDC 913.6／novel・easy・medium
 - チーズはどこへ消えた?：叢書なし／扶桑社／2000.11／94p／NDC 159／practical・easy・short
-- エッセンシャル思考：叢書なし／かんき出版／2014.11／307,10p／NDC 336／practical・normal・short
+- エッセンシャル思考：叢書なし／かんき出版／2014.11／307,10p／NDC 336／practical・normal・medium
 - ゼロ：叢書なし／ダイヤモンド社／2013.10／235p／NDC 289.1／practical・normal・short
 - 多動力：幻冬舎文庫 ; ほ-13-2／幻冬舎／2019.4／238p／NDC 159.4／practical・normal・short
 - 敗者のゲーム：叢書なし／日経BP日本経済新聞出版本部、日経BPマーケティング／2022.1／293p／NDC 338.15／practical・normal・medium
 - ウォール街のランダム・ウォーカー：叢書なし／日経BP日本経済新聞出版、日経BPマーケティング／2023.5／511p／NDC 338.155／practical・challenging・long
 - 国富論：岩波文庫／岩波書店／2000.5／446p／NDC 331.42／practical・challenging・long
-- 21世紀の資本：叢書なし／みすず書房／2014.12／608,98p／NDC 331.82／practical・challenging・short
+- 21世紀の資本：叢書なし／みすず書房／2014.12／608,98p／NDC 331.82／practical・challenging・long
 - 資本論：講談社まんが学術文庫 ; 0004／講談社／2018.4／221p／NDC 331.6／practical・challenging・short
 - ソフィーの世界：叢書なし／日本放送出版協会／1996.3／667p／NDC 949.63／novel,liberal_arts・normal・long
 - 哲学用語図鑑：叢書なし／プレジデント社／2015.3／351p／NDC 100／liberal_arts・easy・medium
@@ -785,7 +785,7 @@
 - 方法序説：岩波文庫／岩波書店／1997.7／137p／NDC 135.23／liberal_arts・challenging・short
 - 善悪の彼岸：光文社古典新訳文庫 ; K-Bニ-1-1／光文社／2009.4／529p／NDC 134.94／liberal_arts・challenging・long
 - 論語：講談社学術文庫／講談社／2004.3／510p／NDC 123.83／liberal_arts・challenging・long
-- 君主論：講談社学術文庫／講談社／2004.12／211p／NDC 311.237／liberal_arts・challenging・short
+- 君主論：岩波文庫／岩波書店／1998.6／387, 3p／NDC 311.237／liberal_arts・challenging・medium
 - 種の起源：光文社古典新訳文庫 ; K-Dタ-1-1／光文社／2009.9／423p／NDC 467.5／liberal_arts・challenging・long
 - ホーキング、宇宙を語る：ハヤカワ文庫. NF／早川書房／1995.4／268p／NDC 443.9／liberal_arts・normal・medium
 - エレガントな宇宙：叢書なし／草思社／2001.12／574p／NDC 429.6／liberal_arts・challenging・long
@@ -812,7 +812,7 @@
 - 戦争論：叢書なし／日経BP日本経済新聞出版本部、日経BPマーケティング (発売)／2020.11／411p／NDC 391／liberal_arts・challenging・medium
 - タテ社会の人間関係：講談社現代新書 ; 105／講談社／1980／189p ; 18cm／NDC 361.3／liberal_arts・normal・short
 - 「甘え」の構造：叢書なし／弘文堂／2007.5／318p／NDC 146.1／liberal_arts・normal・medium
-- 逝きし世の面影：平凡社ライブラリー ; 552／平凡社／2005.9／604p／NDC 210.6／liberal_arts・challenging・long
+- 逝きし世の面影：日本近代素描 ; 1／葦書房／1998.9／487, 6p／NDC 210.6／liberal_arts・challenging・long
 - 昭和史：叢書なし／平凡社／2004.2／509p／NDC 210.7／liberal_arts・normal・long
 - 日本のいちばん長い日：文春文庫／文藝春秋／2006.7／371p／NDC 210.75／nonfiction・normal・medium
 - 東京裁判：叢書なし／時事通信社／1991.8／566p／NDC 329.67／liberal_arts・normal・long
@@ -871,8 +871,8 @@
 - メモの魔力：NEWSPICKS BOOK／幻冬舎／2018.12／254p／NDC 002.7／practical・easy・medium
 - 自分のアタマで考えよう：叢書なし／ダイヤモンド社／2011.10／247p／NDC 141.5／practical・easy・short
 - マーケット感覚を身につけよう：叢書なし／ダイヤモンド社／2015.2／263p／NDC 675／practical・normal・medium
-- ストーリーとしての競争戦略：Hitotsubashi business review books／東洋経済新報社／2010.5／500, 18p／NDC 336.1／practical・challenging・short
-- ブルー・オーシャン戦略：叢書なし／ダイヤモンド社／2015.9／371p／NDC 336.1／practical・challenging・medium
+- ストーリーとしての競争戦略：Hitotsubashi business review books／東洋経済新報社／2010.5／500, 18p／NDC 336.1／practical・challenging・long
+- ブルー・オーシャン戦略：叢書なし／ランダムハウス講談社／2005.6／294, 8p／NDC 336.1／practical・challenging・medium
 - プロフェッショナルの条件：はじめて読むドラッカー ; 自己実現編／ダイヤモンド社／2000.6／266p／NDC 159.4／practical・normal・medium
 - HARD THINGS：叢書なし／日経BP社、日経BPマーケティング (発売)／2015.4／389p／NDC 336／practical・normal・medium
 - ゼロ・トゥ・ワン：叢書なし／NHK出版／2014.9／253p／NDC 335／practical・normal・medium
@@ -1034,7 +1034,7 @@
 - 古事記：日本古典文学全集 ; 1／小学館／1973.11(第23版:1992.10)／513p 図版12p／NDC 913.2／liberal_arts・challenging・long
 - 源氏物語：講談社学術文庫／講談社／2000.11／565p／NDC 913.369／novel・challenging・long
 - おくのほそ道：角川文庫. ビギナーズ・クラシックス／角川書店／2001.7／254p／NDC 915.5／liberal_arts・normal・medium
-- 東海道中膝栗毛：少年少女古典文学館 ; 第21巻／講談社／1992.8／309p／NDC 918／novel・normal・medium
+- 東海道中膝栗毛：これだけは読みたいわたしの古典／童心社／2009.2／212p／NDC 913.55／novel・normal・short
 - 雨月物語：岩波文庫 ; 30-220-3／岩波書店／2018.2／258p／NDC 913.56／novel・normal・medium
 - 遠野物語：叢書なし／河出書房新社／1992.7／226p／NDC 382.122／liberal_arts・normal・short
 - 怪談：偕成社文庫／偕成社／1991.7／254p／NDC 933／novel・easy・medium
@@ -1043,7 +1043,7 @@
 - 智恵子抄：新潮文庫／新潮社／2003.11／179p／NDC 911.56／novel・normal・short
 - 月に吠える：角川文庫／角川書店／1999.1／276p／NDC 911.56／novel・challenging・medium
 - 山羊の歌：角川文庫／角川書店／1997.6／252p／NDC 911.52／novel・normal・medium
-- 二十億光年の孤独：叢書なし／サンリオ／1992.10／181p／NDC 911.56／novel・normal・short
+- 二十億光年の孤独：集英社文庫／集英社／2008.2／171, 80p／NDC 911.56／novel・normal・short
 - サラダ記念日：河出文庫／河出書房新社／1989.10／201p／NDC 911.168／novel・easy・short
 - 自分の感受性くらい：岩波現代文庫. 文芸 ; 368／岩波書店／2025.4／116p／NDC 911.56／novel・normal・short
 - 飛ぶ教室：講談社文庫／講談社／2003.12／258p／NDC 943.7／novel・easy・medium
@@ -1098,9 +1098,9 @@
 - ハムレット：岩波文庫／岩波書店／2002.1／414p／NDC 932.5／novel・challenging・medium
 - マクベス：岩波文庫／岩波書店／1988.7／223p／NDC 932／novel・normal・short
 - ヴェニスの商人：光文社古典新訳文庫／光文社／2007.6／241p／NDC 932.5／novel・normal・short
-- ドン・キホーテ：少年少女世界文学館 ; 第21巻／講談社／1988.5／272p／NDC 908／novel・challenging・medium
+- ドン・キホーテ：叢書なし／彩流社／2012.11／493p／NDC 963／novel・challenging・long
 - 神曲：河出文庫／河出書房新社／2008.11／509p／NDC 971／novel・challenging・long
 - デカメロン：講談社文芸文庫／講談社／1999.5／377p／NDC 973／novel・challenging・long
-- イソップ寓話集：岩波文庫／岩波書店／1999.3／372, 39p／NDC 991.3／novel・easy・short
+- イソップ寓話集：岩波文庫／岩波書店／1999.3／372, 39p／NDC 991.3／novel・easy・medium
 - グリム童話集：叢書なし／岩波書店／1995.10／256p／NDC 943／novel・easy・long
 - アンデルセン童話集：文春文庫 ; ア11-1／文藝春秋／2012.7／334p／NDC 949.73／novel・easy・long

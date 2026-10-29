@@ -7407,7 +7407,7 @@
     "pages": 423
   },
   {
-    "book_id": "isbn-9784799332924",
+    "book_id": "isbn-9784876981090",
     "title": "自省録",
     "author": "マルクス・アウレリウス",
     "genres": [
@@ -7421,17 +7421,17 @@
       "wonder"
     ],
     "difficulty": "challenging",
-    "length_category": "short",
+    "length_category": "medium",
     "description": "",
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784799332924",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034767890",
+    "isbn": "9784876981090",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002682260",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "ディスカヴァー・トゥエンティワン",
-    "pages": 249
+    "publisher": "京都大学学術出版会",
+    "pages": 312
   },
   {
     "book_id": "isbn-9784003365625",
@@ -7502,7 +7502,7 @@
       "learning"
     ],
     "difficulty": "challenging",
-    "length_category": "short",
+    "length_category": "medium",
     "description": "",
     "recommendation_reasons": [],
     "cover_image_url": null,
@@ -7512,7 +7512,7 @@
     "metadata_verified": true,
     "tier": "basic",
     "publisher": "みすず書房",
-    "pages": 16
+    "pages": 353
   },
   {
     "book_id": "isbn-9784106100031",
@@ -7613,7 +7613,7 @@
       "learning"
     ],
     "difficulty": "normal",
-    "length_category": "short",
+    "length_category": "medium",
     "description": "",
     "recommendation_reasons": [],
     "cover_image_url": null,
@@ -7623,7 +7623,7 @@
     "metadata_verified": true,
     "tier": "basic",
     "publisher": "東洋経済新報社",
-    "pages": 15
+    "pages": 399
   },
   {
     "book_id": "isbn-9784478109687",
@@ -13512,7 +13512,7 @@
     "pages": 602
   },
   {
-    "book_id": "isbn-9784334754174",
+    "book_id": "isbn-9784003261811",
     "title": "戦争と平和",
     "author": "トルストイ",
     "genres": [
@@ -13531,12 +13531,12 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784334754174",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030140833",
+    "isbn": "9784003261811",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008079164",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "光文社",
-    "pages": 525
+    "publisher": "岩波書店",
+    "pages": 503
   },
   {
     "book_id": "isbn-9784003262252",
@@ -16827,7 +16827,7 @@
     "pages": 476
   },
   {
-    "book_id": "isbn-9784906638314",
+    "book_id": "isbn-9784906638017",
     "title": "7つの習慣",
     "author": "スティーブン・R・コヴィー",
     "genres": [
@@ -16846,12 +16846,12 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784906638314",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007687810",
+    "isbn": "9784906638017",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002645976",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "キングベアー出版",
-    "pages": 492
+    "publisher": "キング・ベアー出版",
+    "pages": 481
   },
   {
     "book_id": "isbn-9784478420409",
@@ -17001,7 +17001,7 @@
       "learning"
     ],
     "difficulty": "normal",
-    "length_category": "short",
+    "length_category": "medium",
     "description": "",
     "recommendation_reasons": [],
     "cover_image_url": null,
@@ -17011,7 +17011,7 @@
     "metadata_verified": true,
     "tier": "basic",
     "publisher": "かんき出版",
-    "pages": 10
+    "pages": 307
   },
   {
     "book_id": "isbn-9784478025802",
@@ -17160,7 +17160,7 @@
       "learning"
     ],
     "difficulty": "challenging",
-    "length_category": "short",
+    "length_category": "long",
     "description": "",
     "recommendation_reasons": [],
     "cover_image_url": null,
@@ -17170,7 +17170,7 @@
     "metadata_verified": true,
     "tier": "basic",
     "publisher": "みすず書房",
-    "pages": 98
+    "pages": 608
   },
   {
     "book_id": "isbn-9784065106679",
@@ -17445,7 +17445,7 @@
     "pages": 510
   },
   {
-    "book_id": "isbn-9784061596894",
+    "book_id": "isbn-9784003400319",
     "title": "君主論",
     "author": "マキアヴェッリ",
     "genres": [
@@ -17460,17 +17460,17 @@
       "wonder"
     ],
     "difficulty": "challenging",
-    "length_category": "short",
+    "length_category": "medium",
     "description": "",
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784061596894",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007587068",
+    "isbn": "9784003400319",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002695283",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "講談社",
-    "pages": 211
+    "publisher": "岩波書店",
+    "pages": 387
   },
   {
     "book_id": "isbn-9784334751906",
@@ -18175,7 +18175,7 @@
     "pages": 318
   },
   {
-    "book_id": "isbn-9784582765526",
+    "book_id": "isbn-9784751207185",
     "title": "逝きし世の面影",
     "author": "渡辺京二",
     "genres": [
@@ -18194,12 +18194,12 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784582765526",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007974758",
+    "isbn": "9784751207185",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002706958",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "平凡社",
-    "pages": 604
+    "publisher": "葦書房",
+    "pages": 487
   },
   {
     "book_id": "isbn-9784582454307",
@@ -19775,7 +19775,7 @@
       "learning"
     ],
     "difficulty": "challenging",
-    "length_category": "short",
+    "length_category": "long",
     "description": "",
     "recommendation_reasons": [],
     "cover_image_url": null,
@@ -19785,10 +19785,10 @@
     "metadata_verified": true,
     "tier": "basic",
     "publisher": "東洋経済新報社",
-    "pages": 18
+    "pages": 500
   },
   {
-    "book_id": "isbn-9784478065136",
+    "book_id": "isbn-9784270000700",
     "title": "ブルー・オーシャン戦略",
     "author": "W・チャン・キム",
     "genres": [
@@ -19806,12 +19806,12 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784478065136",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026694799",
+    "isbn": "9784270000700",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007870449",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "ダイヤモンド社",
-    "pages": 371
+    "publisher": "ランダムハウス講談社",
+    "pages": 294
   },
   {
     "book_id": "isbn-9784478300596",
@@ -19971,7 +19971,7 @@
     "metadata_verified": true,
     "tier": "basic",
     "publisher": "文藝春秋",
-    "pages": 13
+    "pages": 462
   },
   {
     "book_id": "isbn-9784569832777",
@@ -22726,7 +22726,7 @@
     "metadata_verified": true,
     "tier": "basic",
     "publisher": "岩波書店",
-    "pages": 7
+    "pages": 230
   },
   {
     "book_id": "isbn-9784004318606",
@@ -24093,7 +24093,7 @@
     "pages": 254
   },
   {
-    "book_id": "isbn-9784062508216",
+    "book_id": "isbn-9784494019847",
     "title": "東海道中膝栗毛",
     "author": "十返舎一九",
     "genres": [
@@ -24106,17 +24106,17 @@
       "relaxing"
     ],
     "difficulty": "normal",
-    "length_category": "medium",
+    "length_category": "short",
     "description": "",
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784062508216",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002195330",
+    "isbn": "9784494019847",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010390310",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "講談社",
-    "pages": 309
+    "publisher": "童心社",
+    "pages": 212
   },
   {
     "book_id": "isbn-9784003022030",
@@ -24328,7 +24328,7 @@
     "pages": 252
   },
   {
-    "book_id": "isbn-9784387922070",
+    "book_id": "isbn-9784087462685",
     "title": "二十億光年の孤独",
     "author": "谷川俊太郎",
     "genres": [
@@ -24347,12 +24347,12 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784387922070",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002212904",
+    "isbn": "9784087462685",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009273837",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "サンリオ",
-    "pages": 181
+    "publisher": "集英社",
+    "pages": 171
   },
   {
     "book_id": "isbn-9784309402499",
@@ -25778,7 +25778,7 @@
     "pages": 241
   },
   {
-    "book_id": "isbn-9784061943216",
+    "book_id": "isbn-9784779118456",
     "title": "ドン・キホーテ",
     "author": "セルバンテス",
     "genres": [
@@ -25791,17 +25791,17 @@
       "relaxing"
     ],
     "difficulty": "challenging",
-    "length_category": "medium",
+    "length_category": "long",
     "description": "",
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784061943216",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001917791",
+    "isbn": "9784779118456",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024063813",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "講談社",
-    "pages": 272
+    "publisher": "彩流社",
+    "pages": 493
   },
   {
     "book_id": "isbn-9784309463117",
@@ -25869,7 +25869,7 @@
       "moving"
     ],
     "difficulty": "easy",
-    "length_category": "short",
+    "length_category": "medium",
     "description": "",
     "recommendation_reasons": [],
     "cover_image_url": null,
@@ -25879,7 +25879,7 @@
     "metadata_verified": true,
     "tier": "basic",
     "publisher": "岩波書店",
-    "pages": 39
+    "pages": 372
   },
   {
     "book_id": "isbn-9784001109900",

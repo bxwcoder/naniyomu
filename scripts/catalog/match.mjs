@@ -70,7 +70,7 @@ const isAscii = (text) => /^[\x20-\x7E]+$/.test(text.normalize('NFKC'));
 export const isForeignPublisher = (item) =>
   isAscii(item.title ?? '') && item.publisher.length > 0 && item.publisher.every(isAscii);
 export const SPECIAL_EDITION =
-  /誰でも文庫|大活字|デカ文字|点字|バイリンガル|bilingual|ジュニア文庫|つばさ文庫|青い鳥文庫|みらい文庫|ポプラポケット文庫|ポプラ社文庫|フォア文庫|コバルト文庫|Ruby books|Kodansha International/i;
+  /誰でも文庫|大活字|デカ文字|点字|バイリンガル|bilingual|ジュニア文庫|少年少女|つばさ文庫|青い鳥文庫|みらい文庫|ポプラポケット文庫|ポプラ社文庫|フォア文庫|コバルト文庫|Ruby books|Kodansha International/i;
 
 /** 使える記録の中に、ふつうの版の第1巻（または1冊もの）があるか */
 export const hasFirstVolume = (candidateTitle, items) =>

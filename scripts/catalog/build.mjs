@@ -31,9 +31,12 @@ if (!recordsPath) {
 }
 const OUTPUT_PATH = 'src/data/books.auto.json';
 
+/** ページ数を読む。「372, 39p」（本文と付録）のように並んでいるときは、いちばん大きい数を使う */
 const pagesFromExtent = (extent) => {
-  const m = (extent ?? '').normalize('NFKC').match(/(\d+)\s*p/);
-  return m ? Number(m[1]) : null;
+  const m = (extent ?? '').normalize('NFKC').match(/([\d,\s]+)p/);
+  if (!m) return null;
+  const numbers = m[1].split(/[,\s]+/).filter(Boolean).map(Number);
+  return numbers.length ? Math.max(...numbers) : null;
 };
 /**
  * 総集編・完全版・特別編集版・子ども向けの文庫など、ふつうの版がほかにあれば後回しにする版。
