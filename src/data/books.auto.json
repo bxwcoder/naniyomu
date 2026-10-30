@@ -32523,5 +32523,1352 @@
     "tier": "basic",
     "publisher": "早川書房",
     "pages": 446
+  },
+  {
+    "book_id": "isbn-9784102273012",
+    "title": "ガープの世界",
+    "author": "ジョン・アーヴィング",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102273012",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001949661",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784102273036",
+    "title": "ホテル・ニューハンプシャー",
+    "author": "ジョン・アーヴィング",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102273036",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002012623",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784151201097",
+    "title": "クララとお日さま",
+    "author": "カズオ・イシグロ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination",
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151201097",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032922455",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 490
+  },
+  {
+    "book_id": "isbn-9784151200410",
+    "title": "充たされざる者",
+    "author": "カズオ・イシグロ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "challenging",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151200410",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008564528",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 948
+  },
+  {
+    "book_id": "isbn-9784167910129",
+    "title": "ナイルパーチの女子会",
+    "author": "柚木麻子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167910129",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028779944",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 403
+  },
+  {
+    "book_id": "isbn-9784101202433",
+    "title": "BUTTER",
+    "author": "柚木麻子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101202433",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030185126",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 591
+  },
+  {
+    "book_id": "isbn-9784575517569",
+    "title": "ランチのアッコちゃん",
+    "author": "柚木麻子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575517569",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026068797",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 199
+  },
+  {
+    "book_id": "isbn-9784101202426",
+    "title": "本屋さんのダイアナ",
+    "author": "柚木麻子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101202426",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027313099",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 386
+  },
+  {
+    "book_id": "isbn-9784796661614",
+    "title": "チーム・バチスタの栄光",
+    "author": "海堂尊",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784796661614",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009152703",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "宝島社",
+    "pages": 237
+  },
+  {
+    "book_id": "isbn-9784796667678",
+    "title": "ジェネラル・ルージュの凱旋",
+    "author": "海堂尊",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784796667678",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009976169",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "宝島社",
+    "pages": 251
+  },
+  {
+    "book_id": "isbn-9784043909018",
+    "title": "螺鈿迷宮",
+    "author": "海堂尊",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043909018",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009920291",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 222
+  },
+  {
+    "book_id": "isbn-9784101302713",
+    "title": "狐笛のかなた",
+    "author": "上橋菜穂子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination",
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101302713",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008382381",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 392
+  },
+  {
+    "book_id": "isbn-9784036524303",
+    "title": "月の森に、カミよ眠れ",
+    "author": "上橋菜穂子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784036524303",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002931548",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "偕成社",
+    "pages": 243
+  },
+  {
+    "book_id": "isbn-9784198931667",
+    "title": "空色勾玉",
+    "author": "荻原規子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination",
+      "world"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198931667",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010884056",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 541
+  },
+  {
+    "book_id": "isbn-9784043944408",
+    "title": "RDG レッドデータガール",
+    "author": "荻原規子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043944408",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011222288",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 298
+  },
+  {
+    "book_id": "isbn-9784122044326",
+    "title": "西の善き魔女",
+    "author": "荻原規子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122044326",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007554372",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 319
+  },
+  {
+    "book_id": "isbn-9784102168714",
+    "title": "エンデュミオンと叡智の書",
+    "author": "マシュー・スケルトン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102168714",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009494221",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 485
+  },
+  {
+    "book_id": "isbn-9784863894709",
+    "title": "バーティミアス",
+    "author": "ジョナサン・ストラウド",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784863894709",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029250098",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "静山社",
+    "pages": 233
+  },
+  {
+    "book_id": "isbn-9784062763301",
+    "title": "ぼくのメジャースプーン",
+    "author": "辻村深月",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life",
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062763301",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010087489",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 514
+  },
+  {
+    "book_id": "isbn-9784894567078",
+    "title": "戦国自衛隊",
+    "author": "半村良",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784894567078",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002975727",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 187
+  },
+  {
+    "book_id": "isbn-9784894563698",
+    "title": "果しなき流れの果に",
+    "author": "小松左京",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "challenging",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784894563698",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002697032",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 437
+  },
+  {
+    "book_id": "isbn-9784101171272",
+    "title": "虚航船団",
+    "author": "筒井康隆",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "challenging",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101171272",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002206312",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 577
+  },
+  {
+    "book_id": "isbn-9784101171012",
+    "title": "家族八景",
+    "author": "筒井康隆",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101171012",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004298494",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 282
+  },
+  {
+    "book_id": "isbn-9784101171074",
+    "title": "七瀬ふたたび",
+    "author": "筒井康隆",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101171074",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004298463",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 325
+  },
+  {
+    "book_id": "isbn-9784101171401",
+    "title": "パプリカ",
+    "author": "筒井康隆",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101171401",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003690357",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 483
+  },
+  {
+    "book_id": "isbn-9784006020019",
+    "title": "文学部唯野教授",
+    "author": "筒井康隆",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "challenging",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784006020019",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002860825",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 373
+  },
+  {
+    "book_id": "isbn-9784122022874",
+    "title": "残像に口紅を",
+    "author": "筒井康隆",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122022874",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002420489",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 337
+  },
+  {
+    "book_id": "isbn-9784041303191",
+    "title": "声の網",
+    "author": "星新一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041303191",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008079498",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 270
+  },
+  {
+    "book_id": "isbn-9784101098166",
+    "title": "人民は弱し官吏は強し",
+    "author": "星新一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101098166",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008255577",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 309
+  },
+  {
+    "book_id": "isbn-9784101098265",
+    "title": "未来いそっぷ",
+    "author": "星新一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "wonder",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101098265",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001575805",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 272
+  },
+  {
+    "book_id": "isbn-9784101098142",
+    "title": "妄想銀行",
+    "author": "星新一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "wonder",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101098142",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004298614",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 341
+  },
+  {
+    "book_id": "isbn-9784101098333",
+    "title": "ノックの音が",
+    "author": "星新一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "wonder",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101098333",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001766096",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 182
+  },
+  {
+    "book_id": "isbn-9784150307271",
+    "title": "第六大陸",
+    "author": "小川一水",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150307271",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004167698",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 349
+  },
+  {
+    "book_id": "isbn-9784150307301",
+    "title": "マルドゥック・スクランブル",
+    "author": "冲方丁",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150307301",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004191085",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 379
+  },
+  {
+    "book_id": "isbn-9784041020487",
+    "title": "光圀伝",
+    "author": "冲方丁",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "world",
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041020487",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026420279",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 520
+  },
+  {
+    "book_id": "isbn-9784150311216",
+    "title": "know",
+    "author": "野﨑まど",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150311216",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024684698",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 354
+  },
+  {
+    "book_id": "isbn-9784062940023",
+    "title": "バビロン",
+    "author": "野﨑まど",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062940023",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026773775",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 318
+  },
+  {
+    "book_id": "isbn-9784065177150",
+    "title": "タイタン",
+    "author": "野﨑まど",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065177150",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030364401",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 377
+  },
+  {
+    "book_id": "isbn-9784040721576",
+    "title": "横浜駅SF",
+    "author": "柞刈湯葉",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "wonder",
+      "relaxing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784040721576",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027781238",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 282
+  },
+  {
+    "book_id": "isbn-9784150314057",
+    "title": "ゲームの王国",
+    "author": "小川哲",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "world",
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150314057",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030093447",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 446
+  },
+  {
+    "book_id": "isbn-9784022651938",
+    "title": "君のクイズ",
+    "author": "小川哲",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022651938",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034044839",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 245
+  },
+  {
+    "book_id": "isbn-9784041027097",
+    "title": "百年法",
+    "author": "山田宗樹",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041027097",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026245870",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 467
+  },
+  {
+    "book_id": "isbn-9784150107086",
+    "title": "ブラッド・ミュージック",
+    "author": "グレッグ・ベア",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150107086",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001847801",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 419
+  },
+  {
+    "book_id": "isbn-9784150119270",
+    "title": "エンダーのゲーム",
+    "author": "オースン・スコット・カード",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150119270",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024959526",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 301
+  },
+  {
+    "book_id": "isbn-9784150117245",
+    "title": "都市と星",
+    "author": "アーサー・C・クラーク",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150117245",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010558466",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 478
+  },
+  {
+    "book_id": "isbn-9784150106294",
+    "title": "宇宙のランデヴー",
+    "author": "アーサー・C・クラーク",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150106294",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001764805",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 327
+  },
+  {
+    "book_id": "isbn-9784151200113",
+    "title": "侍女の物語",
+    "author": "マーガレット・アトウッド",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151200113",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003039155",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 573
+  },
+  {
+    "book_id": "isbn-9784309467443",
+    "title": "キンドレッド",
+    "author": "オクテイヴィア・E・バトラー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309467443",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031758890",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 542
+  },
+  {
+    "book_id": "isbn-9784488780012",
+    "title": "マーダーボット・ダイアリー",
+    "author": "マーサ・ウェルズ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "relaxing",
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488780012",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030100804",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 305
+  },
+  {
+    "book_id": "isbn-9784150124755",
+    "title": "三体0 球状閃電",
+    "author": "劉慈欣",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150124755",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033980932",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 605
   }
 ]
