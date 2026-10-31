@@ -249,14 +249,14 @@
 - これ描いて死ね：ゲッサン少年サンデーコミックススペシャル／小学館／2022.5／201p／NDC 726.1／manga・easy・long
 - 君と宇宙を歩くために：アフタヌーンKC／講談社／2023.11／206p／NDC 726.1／manga・easy・long
 - 日本辺境論：新潮新書 ; 336／新潮社／2009.11／255p／NDC 361.42／liberal_arts・challenging・medium
-- デフレの正体：角川oneテーマ21 ; C-188／角川書店、角川グループパブリッシング (発売)／2010.6／270p／NDC 332.107／practical・normal・medium
+- デフレの正体：角川oneテーマ21 ; C-188／角川書店、角川グループパブリッシング (発売)／2010.6／270p／NDC 332.107／liberal_arts・normal・medium
 - ふしぎなキリスト教：講談社現代新書 ; 2100／講談社／2011.5／349p／NDC 190／liberal_arts・normal・medium
 - 社会を変えるには：講談社現代新書 ; 2168／講談社／2012.8／517p／NDC 309／liberal_arts・challenging・long
-- 里山資本主義：角川oneテーマ21 ; C-249／角川書店、KADOKAWA (発売)／2013.7／308p／NDC 332.107／practical・normal・medium
+- 里山資本主義：角川oneテーマ21 ; C-249／角川書店、KADOKAWA (発売)／2013.7／308p／NDC 332.107／liberal_arts・normal・medium
 - 京都ぎらい：朝日新書 ; 531／朝日新聞出版／2015.9／221p／NDC 291.62／nonfiction,liberal_arts・normal・short
 - 言ってはいけない：新潮新書 ; 663／新潮社／2016.4／254p／NDC 467.5／liberal_arts・normal・medium
 - 日本軍兵士：中公新書 ; 2465／中央公論新社／2017.12／228p／NDC 392.1075／liberal_arts・normal・short
-- 人新世の「資本論」：集英社新書 ; 1035／集英社／2020.9／375p／NDC 331.6／practical・challenging・medium
+- 人新世の「資本論」：集英社新書 ; 1035／集英社／2020.9／375p／NDC 331.6／liberal_arts・challenging・medium
 - 現代思想入門：講談社現代新書 ; 2653／講談社／2022.3／245p／NDC 130／liberal_arts・challenging・short
 - 言語の本質：中公新書 ; 2756／中央公論新社／2023.5／277p／NDC 801／liberal_arts・normal・medium
 - なぜ働いていると本が読めなくなるのか：集英社新書 ; 1212／集英社／2024.4／285p／NDC 019.021／liberal_arts・normal・medium
@@ -820,9 +820,9 @@
 - 多動力：幻冬舎文庫 ; ほ-13-2／幻冬舎／2019.4／238p／NDC 159.4／practical・normal・short
 - 敗者のゲーム：叢書なし／日経BP日本経済新聞出版本部、日経BPマーケティング／2022.1／293p／NDC 338.15／practical・normal・medium
 - ウォール街のランダム・ウォーカー：叢書なし／日経BP日本経済新聞出版、日経BPマーケティング／2023.5／511p／NDC 338.155／practical・challenging・long
-- 国富論：岩波文庫／岩波書店／2000.5／446p／NDC 331.42／practical・challenging・long
-- 21世紀の資本：叢書なし／みすず書房／2014.12／608,98p／NDC 331.82／practical・challenging・long
-- 資本論：講談社まんが学術文庫 ; 0004／講談社／2018.4／221p／NDC 331.6／practical・challenging・short
+- 国富論：岩波文庫／岩波書店／2000.5／446p／NDC 331.42／liberal_arts・challenging・long
+- 21世紀の資本：叢書なし／みすず書房／2014.12／608,98p／NDC 331.82／liberal_arts・challenging・long
+- 資本論：講談社まんが学術文庫 ; 0004／講談社／2018.4／221p／NDC 331.6／liberal_arts・challenging・short
 - ソフィーの世界：叢書なし／日本放送出版協会／1996.3／667p／NDC 949.63／novel,liberal_arts・normal・long
 - 哲学用語図鑑：叢書なし／プレジデント社／2015.3／351p／NDC 100／liberal_arts・easy・medium
 - 史上最強の哲学入門：河出文庫 ; や33-1／河出書房新社／2015.11／344p／NDC 130.2／liberal_arts・easy・medium
@@ -1060,7 +1060,7 @@
 - 世界のエリートはなぜ「美意識」を鍛えるのか?：光文社新書 ; 891／光文社／2017.7／257p／NDC 336／practical・normal・medium
 - ニュータイプの時代：叢書なし／ダイヤモンド社／2019.7／351p／NDC 336／practical・normal・medium
 - いま君に伝えたいお金の話：幻冬舎文庫 ; む-11-1／幻冬舎／2020.4／203p／NDC 337／practical・easy・short
-- 池上彰のやさしい経済学：日経ビジネス人文庫 ; い21-1／日本経済新聞出版社／2013.11／306p／NDC 331／practical・easy・long
+- 池上彰のやさしい経済学：日経ビジネス人文庫 ; い21-1／日本経済新聞出版社／2013.11／306p／NDC 331／liberal_arts・easy・long
 - そうだったのか!現代史：集英社文庫／集英社／2007.3／412p／NDC 209.75／liberal_arts・easy・medium
 - 伝える力：PHPビジネス新書 ; 28／PHP研究所／2007.5／205p／NDC 336.4／practical・easy・short
 - 大人の語彙力ノート：叢書なし／SBクリエイティブ／2017.9／239p／NDC 814／practical・easy・short
@@ -1450,15 +1450,15 @@
 - キンドレッド：河出文庫 ; ハ14-1／河出書房新社／2021.11／542p／NDC 933.7／mystery_sf・normal・long
 - マーダーボット・ダイアリー：創元SF文庫 ; SFウ15-1／東京創元社／2019.12／305p／NDC 933.7／mystery_sf・normal・long
 - 三体0 球状閃電：ハヤカワ文庫 SF ; 2475／早川書房／2025.3／605p／NDC 923.7／mystery_sf・normal・long
-- ゼロからの『資本論』：NHK出版新書 ; 690／NHK出版／2023.1／237p／NDC 331.6／practical・normal・short
-- 資本主義の終焉と歴史の危機：集英社新書 ; 0732／集英社／2014.3／218p／NDC 332.06／practical・normal・short
+- ゼロからの『資本論』：NHK出版新書 ; 690／NHK出版／2023.1／237p／NDC 331.6／liberal_arts・normal・short
+- 資本主義の終焉と歴史の危機：集英社新書 ; 0732／集英社／2014.3／218p／NDC 332.06／liberal_arts・normal・short
 - シン・ニホン：叢書なし／ニューズピックス／2020.2／437p／NDC 007.3／liberal_arts・normal・medium
 - 2040年の未来予測：日経ビジネス人文庫 ; な1-2／日経BP日本経済新聞出版、日経BPマーケティング／2025.4／271p／NDC 304／liberal_arts・easy・medium
-- 未来の年表：講談社現代新書 ; 2431／講談社／2017.6／206p／NDC 334.31／practical・easy・short
+- 未来の年表：講談社現代新書 ; 2431／講談社／2017.6／206p／NDC 334.31／liberal_arts・easy・short
 - 日本の論点：小学館文庫プレジデントセレクト ; Pお1-1／小学館／2016.5／221p／NDC 304／liberal_arts・normal・short
 - 世界の経営学者はいま何を考えているのか：叢書なし／英治出版／2012.11／349p／NDC 335.1／practical・normal・medium
 - 世界標準の経営理論：叢書なし／ダイヤモンド社／2019.12／820p／NDC 335.1／practical・challenging・long
-- 経済は世界史から学べ!：叢書なし／ダイヤモンド社／2013.11／239p／NDC 332／practical・easy・short
+- 経済は世界史から学べ!：叢書なし／ダイヤモンド社／2013.11／239p／NDC 332／liberal_arts・easy・short
 - 武器としての決断思考：星海社新書 ; 1／星海社、講談社 (発売)／2011.9／244p／NDC 141.8／practical・normal・short
 - 僕は君たちに武器を配りたい：講談社文庫 ; た124-1／講談社／2013.11／257p／NDC 159.7／practical・normal・medium
 - ミライの授業：叢書なし／講談社／2016.6／261p／NDC 159.7／practical・easy・medium
@@ -1482,7 +1482,7 @@
 - 悲しき熱帯：中公クラシックス／中央公論新社／2001.4／339p／NDC 382.62／liberal_arts・challenging・long
 - 野生の思考：叢書なし／みすず書房／1980／7,366,30p ; 22cm／NDC 389／liberal_arts・challenging・medium
 - 監獄の誕生：叢書なし／新潮社／2020.4／367,26p 図版24p／NDC 326.4／liberal_arts・challenging・medium
-- プロテスタンティズムの倫理と資本主義の精神：岩波文庫／岩波書店／1989.1／412, 24p／NDC 331.5／practical・challenging・medium
+- プロテスタンティズムの倫理と資本主義の精神：岩波文庫／岩波書店／1989.1／412, 24p／NDC 331.5／liberal_arts・challenging・medium
 - 職業としての学問：叢書なし／晃洋書房／2016.2／185,19p／NDC 002／liberal_arts・normal・short
 - 職業としての政治：岩波文庫 ; 34-209-7／岩波書店／2020.9／163,5p／NDC 310.4／liberal_arts・normal・short
 - 大衆の反逆：岩波文庫 ; 34-231-1／岩波書店／2020.4／424,3p／NDC 230／liberal_arts・challenging・medium
@@ -1576,8 +1576,8 @@
 - フラッシュ・ボーイズ：文春文庫 ; ル5-3／文藝春秋／2019.8／408p／NDC 338.15／nonfiction・normal・medium
 - ブラック・スワン：叢書なし／ダイヤモンド社／2009.6／298p／NDC 417.1／liberal_arts・challenging・long
 - 反脆弱性：叢書なし／ダイヤモンド社／2017.6／410p／NDC 509.6／liberal_arts・challenging・long
-- ヤバい経済学：叢書なし／東洋経済新報社／2006.5／296, 39p／NDC 330.4／practical・easy・medium
-- 予想どおりに不合理：ハヤカワ文庫 NF ; 391／早川書房／2013.8／486p／NDC 331／practical・normal・long
+- ヤバい経済学：叢書なし／東洋経済新報社／2006.5／296, 39p／NDC 330.4／liberal_arts・easy・medium
+- 予想どおりに不合理：ハヤカワ文庫 NF ; 391／早川書房／2013.8／486p／NDC 331／liberal_arts・normal・long
 - 選択の科学：文春文庫 ; S13-1／文藝春秋／2014.7／460p／NDC 361.4／liberal_arts・normal・long
 - スタンフォードの自分を変える教室：だいわ文庫 ; 304-1G／大和書房／2015.10／366p／NDC 141.8／practical・normal・medium
 - スタンフォード式最高の睡眠：叢書なし／サンマーク出版／2017.3／251p／NDC 491.371／practical・easy・medium

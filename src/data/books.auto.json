@@ -1869,13 +1869,14 @@
     "title": "デフレの正体",
     "author": "藻谷浩介",
     "genres": [
-      "practical"
+      "liberal_arts"
     ],
     "themes": [
-      "practical"
+      "world"
     ],
     "moods": [
-      "learning"
+      "learning",
+      "wonder"
     ],
     "difficulty": "normal",
     "length_category": "medium",
@@ -1949,13 +1950,14 @@
     "title": "里山資本主義",
     "author": "藻谷浩介",
     "genres": [
-      "practical"
+      "liberal_arts"
     ],
     "themes": [
-      "practical"
+      "world"
     ],
     "moods": [
-      "learning"
+      "learning",
+      "wonder"
     ],
     "difficulty": "normal",
     "length_category": "medium",
@@ -2057,13 +2059,14 @@
     "title": "人新世の「資本論」",
     "author": "斎藤幸平",
     "genres": [
-      "practical"
+      "liberal_arts"
     ],
     "themes": [
-      "practical"
+      "world"
     ],
     "moods": [
-      "learning"
+      "learning",
+      "wonder"
     ],
     "difficulty": "challenging",
     "length_category": "medium",
@@ -17123,14 +17126,15 @@
     "title": "国富論",
     "author": "アダム・スミス",
     "genres": [
-      "practical"
+      "liberal_arts"
     ],
     "themes": [
       "world",
       "practical"
     ],
     "moods": [
-      "learning"
+      "learning",
+      "wonder"
     ],
     "difficulty": "challenging",
     "length_category": "long",
@@ -17150,14 +17154,15 @@
     "title": "21世紀の資本",
     "author": "トマ・ピケティ",
     "genres": [
-      "practical"
+      "liberal_arts"
     ],
     "themes": [
       "world",
       "practical"
     ],
     "moods": [
-      "learning"
+      "learning",
+      "wonder"
     ],
     "difficulty": "challenging",
     "length_category": "long",
@@ -17177,13 +17182,14 @@
     "title": "資本論",
     "author": "マルクス",
     "genres": [
-      "practical"
+      "liberal_arts"
     ],
     "themes": [
       "world"
     ],
     "moods": [
-      "learning"
+      "learning",
+      "wonder"
     ],
     "difficulty": "challenging",
     "length_category": "short",
@@ -23531,14 +23537,15 @@
     "title": "池上彰のやさしい経済学",
     "author": "池上彰",
     "genres": [
-      "practical"
+      "liberal_arts"
     ],
     "themes": [
       "practical",
       "world"
     ],
     "moods": [
-      "learning"
+      "learning",
+      "wonder"
     ],
     "difficulty": "easy",
     "length_category": "long",
@@ -33876,14 +33883,15 @@
     "title": "ゼロからの『資本論』",
     "author": "斎藤幸平",
     "genres": [
-      "practical"
+      "liberal_arts"
     ],
     "themes": [
       "world",
       "practical"
     ],
     "moods": [
-      "learning"
+      "learning",
+      "wonder"
     ],
     "difficulty": "normal",
     "length_category": "short",
@@ -33903,14 +33911,15 @@
     "title": "資本主義の終焉と歴史の危機",
     "author": "水野和夫",
     "genres": [
-      "practical"
+      "liberal_arts"
     ],
     "themes": [
       "world",
       "practical"
     ],
     "moods": [
-      "learning"
+      "learning",
+      "wonder"
     ],
     "difficulty": "normal",
     "length_category": "short",
@@ -33986,14 +33995,15 @@
     "title": "未来の年表",
     "author": "河合雅司",
     "genres": [
-      "practical"
+      "liberal_arts"
     ],
     "themes": [
       "world",
       "practical"
     ],
     "moods": [
-      "learning"
+      "learning",
+      "wonder"
     ],
     "difficulty": "easy",
     "length_category": "short",
@@ -34093,14 +34103,15 @@
     "title": "経済は世界史から学べ!",
     "author": "茂木誠",
     "genres": [
-      "practical"
+      "liberal_arts"
     ],
     "themes": [
       "world",
       "practical"
     ],
     "moods": [
-      "learning"
+      "learning",
+      "wonder"
     ],
     "difficulty": "easy",
     "length_category": "short",
@@ -34741,13 +34752,14 @@
     "title": "プロテスタンティズムの倫理と資本主義の精神",
     "author": "マックス・ヴェーバー",
     "genres": [
-      "practical"
+      "liberal_arts"
     ],
     "themes": [
       "world"
     ],
     "moods": [
-      "learning"
+      "learning",
+      "wonder"
     ],
     "difficulty": "challenging",
     "length_category": "medium",
@@ -37291,7 +37303,7 @@
     "title": "ヤバい経済学",
     "author": "スティーヴン・D・レヴィット",
     "genres": [
-      "practical"
+      "liberal_arts"
     ],
     "themes": [
       "practical",
@@ -37319,7 +37331,7 @@
     "title": "予想どおりに不合理",
     "author": "ダン・アリエリー",
     "genres": [
-      "practical"
+      "liberal_arts"
     ],
     "themes": [
       "practical",
