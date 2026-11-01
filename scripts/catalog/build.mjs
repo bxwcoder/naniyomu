@@ -84,7 +84,8 @@ function chooseEdition(candidate, items) {
   const score = (it) =>
     (pref.test(it.seriesTitle ?? '') ? 1 : 0) -
     (SECONDARY_EDITION.test(`${it.seriesTitle ?? ''} ${it.title}`) ? 2 : 0) -
-    (fewPages(it) ? 2 : 0);
+    (fewPages(it) ? 2 : 0) -
+    (/ページ付なし/.test(it.extent ?? '') ? 1 : 0); // 写真集・絵本のような作りが多い
   return [...firsts].sort(
     (a, b) => score(b) - score(a) || b.holdings - a.holdings || String(a.issued).localeCompare(String(b.issued)),
   )[0];
