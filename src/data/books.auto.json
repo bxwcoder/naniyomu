@@ -48899,11 +48899,11 @@
     "pages": 370
   },
   {
-    "book_id": "isbn-9784591121641",
+    "book_id": "isbn-9784101121024",
     "title": "壁",
     "author": "安部公房",
     "genres": [
-      "nonfiction"
+      "novel"
     ],
     "themes": [
       "life"
@@ -48912,17 +48912,17 @@
       "moving"
     ],
     "difficulty": "normal",
-    "length_category": "short",
+    "length_category": "medium",
     "description": "",
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784591121641",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011186429",
+    "isbn": "9784101121024",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027530708",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "ポプラ社",
-    "pages": 149
+    "publisher": "新潮社",
+    "pages": 301
   },
   {
     "book_id": "isbn-9784101121055",
@@ -51173,32 +51173,6 @@
     "pages": 145
   },
   {
-    "book_id": "isbn-9784652203347",
-    "title": "みずうみ",
-    "author": "シュトルム",
-    "genres": [
-      "novel"
-    ],
-    "themes": [
-      "life"
-    ],
-    "moods": [
-      "moving"
-    ],
-    "difficulty": "normal",
-    "length_category": "short",
-    "description": "",
-    "recommendation_reasons": [],
-    "cover_image_url": null,
-    "purchase_url": null,
-    "isbn": "9784652203347",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030059996",
-    "metadata_verified": true,
-    "tier": "basic",
-    "publisher": "理論社",
-    "pages": 222
-  },
-  {
     "book_id": "isbn-9784875745570",
     "title": "ガラスの動物園",
     "author": "テネシー・ウィリアムズ",
@@ -51355,7 +51329,7 @@
     "pages": 291
   },
   {
-    "book_id": "isbn-9784861811395",
+    "book_id": "isbn-9784876981267",
     "title": "アエネーイス",
     "author": "ウェルギリウス",
     "genres": [
@@ -51368,17 +51342,17 @@
       "moving"
     ],
     "difficulty": "normal",
-    "length_category": "medium",
+    "length_category": "long",
     "description": "",
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784861811395",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008106936",
+    "isbn": "9784876981267",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002980288",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "一穂社",
-    "pages": 302
+    "publisher": "京都大学学術出版会",
+    "pages": 659
   },
   {
     "book_id": "isbn-9784003210246",
