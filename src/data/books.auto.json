@@ -55109,7 +55109,7 @@
     "pages": 252
   },
   {
-    "book_id": "isbn-9784939103469",
+    "book_id": "isbn-9784939103292",
     "title": "賢明なる投資家",
     "author": "ベンジャミン・グレアム",
     "genres": [
@@ -55122,17 +55122,17 @@
       "learning"
     ],
     "difficulty": "normal",
-    "length_category": "short",
+    "length_category": "long",
     "description": "",
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784939103469",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003618448",
+    "isbn": "9784939103292",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002920075",
     "metadata_verified": true,
     "tier": "basic",
     "publisher": "パンローリング",
-    "pages": 194
+    "pages": 511
   },
   {
     "book_id": "isbn-9784023318786",

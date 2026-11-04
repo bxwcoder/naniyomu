@@ -2307,7 +2307,7 @@
 - 響：Big superior comics special／小学館／2018.9／503p／NDC 726.1／manga・easy・long
 - 思考は現実化する：叢書なし／騎虎書房／1990.1／284p／NDC 159／practical・normal・long
 - バビロンの大富豪：叢書なし／キングベアー出版／2000.3／252p／NDC 159／practical・normal・medium
-- 賢明なる投資家：ウィザードブックシリーズ ; 24／パンローリング／2001.11／194p／NDC 336.83／practical・normal・short
+- 賢明なる投資家：Wizard books ; v.10／パンローリング／2000.9／511p／NDC 338.155／practical・normal・long
 - 本当の自由を手に入れるお金の大学：叢書なし／朝日新聞出版／2020.6／269p／NDC 591／practical・normal・medium
 - やり抜く力：叢書なし／ダイヤモンド社／2016.9／374p／NDC 159／practical・normal・medium
 - マインドセット：叢書なし／草思社／2016.1／351p／NDC 141.5／practical・normal・medium
