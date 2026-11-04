@@ -60602,5 +60602,911 @@
     "tier": "basic",
     "publisher": "早川書房",
     "pages": 341
+  },
+  {
+    "book_id": "isbn-9784594013561",
+    "title": "シンプル・プラン",
+    "author": "スコット・スミス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784594013561",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002327931",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "扶桑社",
+    "pages": 581
+  },
+  {
+    "book_id": "isbn-9784167705886",
+    "title": "ウォッチメイカー",
+    "author": "ジェフリー・ディーヴァー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167705886",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011030212",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 430
+  },
+  {
+    "book_id": "isbn-9784151744013",
+    "title": "ミスティック・リバー",
+    "author": "デニス・ルヘイン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151744013",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004320188",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 667
+  },
+  {
+    "book_id": "isbn-9784594023638",
+    "title": "ザ・ポエット",
+    "author": "マイクル・コナリー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784594023638",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002635498",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "扶桑社",
+    "pages": 415
+  },
+  {
+    "book_id": "isbn-9784152089830",
+    "title": "ドラゴン・タトゥーの女",
+    "author": "スティーグ・ラーソン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784152089830",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909841713922",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784151794520",
+    "title": "特捜部Q",
+    "author": "ユッシ・エーズラ・オールスン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151794520",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024362471",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 613
+  },
+  {
+    "book_id": "isbn-9784167904807",
+    "title": "悲しみのイレーヌ",
+    "author": "ピエール・ルメートル",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167904807",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026751572",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 472
+  },
+  {
+    "book_id": "isbn-9784488265090",
+    "title": "メインテーマは殺人",
+    "author": "アンソニー・ホロヴィッツ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488265090",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029957573",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 487
+  },
+  {
+    "book_id": "isbn-9784042823049",
+    "title": "犬の力",
+    "author": "ドン・ウィンズロウ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784042823049",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010548143",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 574
+  },
+  {
+    "book_id": "isbn-9784488288013",
+    "title": "ストリート・キッズ",
+    "author": "ドン・ウィンズロウ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488288013",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002292065",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 512
+  },
+  {
+    "book_id": "isbn-9784488187019",
+    "title": "氷の家",
+    "author": "ミネット・ウォルターズ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488187019",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002787315",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 464
+  },
+  {
+    "book_id": "isbn-9784488187026",
+    "title": "女彫刻家",
+    "author": "ミネット・ウォルターズ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488187026",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002916051",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 489
+  },
+  {
+    "book_id": "isbn-9784041145579",
+    "title": "流浪地球",
+    "author": "劉慈欣",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041145579",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033235801",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 305
+  },
+  {
+    "book_id": "isbn-9784036523405",
+    "title": "タイム・マシン",
+    "author": "H・G・ウェルズ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784036523405",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002676284",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "偕成社",
+    "pages": 204
+  },
+  {
+    "book_id": "isbn-9784036525409",
+    "title": "宇宙戦争",
+    "author": "H・G・ウェルズ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784036525409",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007828908",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "偕成社",
+    "pages": 350
+  },
+  {
+    "book_id": "isbn-9784036524808",
+    "title": "透明人間",
+    "author": "H・G・ウェルズ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784036524808",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004165799",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "偕成社",
+    "pages": 291
+  },
+  {
+    "book_id": "isbn-9784036519903",
+    "title": "地底旅行",
+    "author": "ジュール・ヴェルヌ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784036519903",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002268868",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "偕成社",
+    "pages": 434
+  },
+  {
+    "book_id": "isbn-9784488663322",
+    "title": "ガニメデの優しい巨人",
+    "author": "ジェイムズ・P・ホーガン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488663322",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032967330",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 340
+  },
+  {
+    "book_id": "isbn-9784150116798",
+    "title": "天の光はすべて星",
+    "author": "フレドリック・ブラウン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150116798",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009520279",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 316
+  },
+  {
+    "book_id": "isbn-9784150102227",
+    "title": "発狂した宇宙",
+    "author": "フレドリック・ブラウン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150102227",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I31111100653941",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 300
+  },
+  {
+    "book_id": "isbn-9784480439130",
+    "title": "夢みる宝石",
+    "author": "シオドア・スタージョン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480439130",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033075760",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 287
+  },
+  {
+    "book_id": "isbn-9784150102241",
+    "title": "地球の長い午後",
+    "author": "ブライアン・W・オールディス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150102241",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971712334699611190",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784488629021",
+    "title": "結晶世界",
+    "author": "J・G・バラード",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488629021",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I18111104533131",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 245
+  },
+  {
+    "book_id": "isbn-9784150116347",
+    "title": "虎よ、虎よ!",
+    "author": "アルフレッド・ベスター",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150116347",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009277151",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 446
+  },
+  {
+    "book_id": "isbn-9784150112899",
+    "title": "順列都市",
+    "author": "グレッグ・イーガン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150112899",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002834215",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 282
+  },
+  {
+    "book_id": "isbn-9784150114510",
+    "title": "しあわせの理由",
+    "author": "グレッグ・イーガン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150114510",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004188833",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 447
+  },
+  {
+    "book_id": "isbn-9784150115319",
+    "title": "ディアスポラ",
+    "author": "グレッグ・イーガン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150115319",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007922545",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 520
+  },
+  {
+    "book_id": "isbn-9784152090034",
+    "title": "アッチェレランド",
+    "author": "チャールズ・ストロス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784152090034",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010048767",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 514
+  },
+  {
+    "book_id": "isbn-9784488746018",
+    "title": "ブラインドサイト",
+    "author": "ピーター・ワッツ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488746018",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024935426",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 275
+  },
+  {
+    "book_id": "isbn-9784150123543",
+    "title": "スノウ・クラッシュ",
+    "author": "ニール・スティーヴンスン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150123543",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031889175",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 438
+  },
+  {
+    "book_id": "isbn-9784488707026",
+    "title": "レッド・マーズ",
+    "author": "キム・スタンリー・ロビンスン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488707026",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002808067",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 505
+  },
+  {
+    "book_id": "isbn-9784150116002",
+    "title": "老人と宇宙",
+    "author": "ジョン・スコルジー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150116002",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008458164",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 431
+  },
+  {
+    "book_id": "isbn-9784488758011",
+    "title": "叛逆航路",
+    "author": "アン・レッキー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488758011",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026854265",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 487
+  },
+  {
+    "book_id": "isbn-9784150123956",
+    "title": "ミッキー7",
+    "author": "エドワード・アシュトン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150123956",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032595690",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 469
   }
 ]
