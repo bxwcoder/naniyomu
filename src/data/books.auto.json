@@ -68205,32 +68205,6 @@
     "pages": 151
   },
   {
-    "book_id": "isbn-9784000091466",
-    "title": "或阿呆の一生",
-    "author": "芥川龍之介",
-    "genres": [
-      "novel"
-    ],
-    "themes": [
-      "life"
-    ],
-    "moods": [
-      "moving"
-    ],
-    "difficulty": "normal",
-    "length_category": "medium",
-    "description": "",
-    "recommendation_reasons": [],
-    "cover_image_url": null,
-    "purchase_url": null,
-    "isbn": "9784000091466",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003670914",
-    "metadata_verified": true,
-    "tier": "basic",
-    "publisher": "岩波書店",
-    "pages": 432
-  },
-  {
     "book_id": "isbn-9784003109069",
     "title": "お伽草紙",
     "author": "太宰治",
@@ -68543,7 +68517,7 @@
     "pages": 241
   },
   {
-    "book_id": "isbn-9784062617093",
+    "book_id": "isbn-9784120013706",
     "title": "ビルマの竪琴",
     "author": "竹山道雄",
     "genres": [
@@ -68561,12 +68535,12 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784062617093",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002415286",
+    "isbn": "9784120013706",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001719776",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "講談社",
-    "pages": 259
+    "publisher": "中央公論社",
+    "pages": 276
   },
   {
     "book_id": "isbn-9784122065765",
