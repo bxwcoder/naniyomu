@@ -43,6 +43,8 @@ const pagesFromExtent = (extent) => {
  * （除きはしない。ほかに版がなければ使う）
  */
 const SECONDARY_EDITION = /remix|リミックス|セレクション|総集編|愛蔵版|完全版|デラックス|ワイド版|スペシャル|少年文庫|新装|乙女の本棚|財務諸表編|実践編|ワークブック|問題集/i; // 「財務諸表編」などは本編に付く別の本
+/** 子ども向けの叢書。ふつうの文庫があればそちらを選ぶ（ほかになければ使う） */
+const JUVENILE_SERIES = /偕成社文庫|怪盗ルパン|SFロマン文庫|歳から読む|パール文庫|痛快世界の冒険文学/;
 /** 小説などで、これより少ないページ数の版は挿絵中心の本のことが多いので後回しにする */
 const PICTURE_BOOK_PAGES = 100;
 
@@ -84,6 +86,7 @@ function chooseEdition(candidate, items) {
   const score = (it) =>
     (pref.test(it.seriesTitle ?? '') ? 1 : 0) -
     (SECONDARY_EDITION.test(`${it.seriesTitle ?? ''} ${it.title}`) ? 2 : 0) -
+    (JUVENILE_SERIES.test(it.seriesTitle ?? '') ? 1 : 0) -
     (fewPages(it) ? 2 : 0) -
     (/ページ付なし/.test(it.extent ?? '') ? 1 : 0); // 写真集・絵本のような作りが多い
   return [...firsts].sort(

@@ -3015,7 +3015,7 @@
     "pages": 185
   },
   {
-    "book_id": "isbn-9784036516100",
+    "book_id": "isbn-9784087520521",
     "title": "走れメロス",
     "author": "太宰治",
     "genres": [
@@ -3033,12 +3033,12 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784036516100",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003639231",
+    "isbn": "9784087520521",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002787444",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "偕成社",
-    "pages": 287
+    "publisher": "集英社",
+    "pages": 286
   },
   {
     "book_id": "isbn-9784101006024",
@@ -11555,7 +11555,7 @@
     "pages": 459
   },
   {
-    "book_id": "isbn-9784036511501",
+    "book_id": "isbn-9784101060095",
     "title": "路傍の石",
     "author": "山本有三",
     "genres": [
@@ -11568,17 +11568,17 @@
       "moving"
     ],
     "difficulty": "normal",
-    "length_category": "medium",
+    "length_category": "long",
     "description": "",
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784036511501",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003639228",
+    "isbn": "9784101060095",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004134948",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "偕成社",
-    "pages": 417
+    "publisher": "新潮社",
+    "pages": 601
   },
   {
     "book_id": "isbn-9784003122518",
@@ -11661,7 +11661,7 @@
     "pages": 278
   },
   {
-    "book_id": "isbn-9784036524600",
+    "book_id": "isbn-9784101063126",
     "title": "しろばんば",
     "author": "井上靖",
     "genres": [
@@ -11674,17 +11674,17 @@
       "moving"
     ],
     "difficulty": "normal",
-    "length_category": "medium",
+    "length_category": "long",
     "description": "",
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784036524600",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003632613",
+    "isbn": "9784101063126",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007577949",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "偕成社",
-    "pages": 414
+    "publisher": "新潮社",
+    "pages": 583
   },
   {
     "book_id": "isbn-9784101134642",
@@ -13410,7 +13410,7 @@
     "pages": 413
   },
   {
-    "book_id": "isbn-9784036502707",
+    "book_id": "isbn-9784042142065",
     "title": "ハックルベリー・フィンの冒険",
     "author": "マーク・トウェイン",
     "genres": [
@@ -13429,12 +13429,12 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784036502707",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002922768",
+    "isbn": "9784042142065",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007474820",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "偕成社",
-    "pages": 326
+    "publisher": "角川書店",
+    "pages": 652
   },
   {
     "book_id": "isbn-9784102101094",
@@ -14411,7 +14411,7 @@
     "pages": 515
   },
   {
-    "book_id": "isbn-9784036513901",
+    "book_id": "isbn-9784151757518",
     "title": "怪盗紳士ルパン",
     "author": "モーリス・ルブラン",
     "genres": [
@@ -14430,12 +14430,12 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784036513901",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001879897",
+    "isbn": "9784151757518",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007913937",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "偕成社",
-    "pages": 374
+    "publisher": "早川書房",
+    "pages": 336
   },
   {
     "book_id": "isbn-9784167705688",
@@ -32850,7 +32850,7 @@
     "pages": 392
   },
   {
-    "book_id": "isbn-9784036524303",
+    "book_id": "isbn-9784037208103",
     "title": "月の森に、カミよ眠れ",
     "author": "上橋菜穂子",
     "genres": [
@@ -32869,12 +32869,12 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784036524303",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002931548",
+    "isbn": "9784037208103",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002148511",
     "metadata_verified": true,
     "tier": "basic",
     "publisher": "偕成社",
-    "pages": 243
+    "pages": 236
   },
   {
     "book_id": "isbn-9784198931667",
@@ -60188,7 +60188,7 @@
     "pages": 348
   },
   {
-    "book_id": "isbn-9784036514007",
+    "book_id": "isbn-9784102140055",
     "title": "ルパン対ホームズ",
     "author": "モーリス・ルブラン",
     "genres": [
@@ -60206,12 +60206,12 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784036514007",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001879921",
+    "isbn": "9784102140055",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004067691",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "偕成社",
-    "pages": 394
+    "publisher": "新潮社",
+    "pages": 395
   },
   {
     "book_id": "isbn-9784591085295",
@@ -60240,7 +60240,7 @@
     "pages": 249
   },
   {
-    "book_id": "isbn-9784036525805",
+    "book_id": "isbn-9784102140017",
     "title": "813",
     "author": "モーリス・ルブラン",
     "genres": [
@@ -60258,12 +60258,12 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784036525805",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007904584",
+    "isbn": "9784102140017",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003064434",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "偕成社",
-    "pages": 376
+    "publisher": "新潮社",
+    "pages": 351
   },
   {
     "book_id": "isbn-9784488114022",
@@ -60943,7 +60943,7 @@
     "pages": 305
   },
   {
-    "book_id": "isbn-9784036523405",
+    "book_id": "isbn-9784042703068",
     "title": "タイム・マシン",
     "author": "H・G・ウェルズ",
     "genres": [
@@ -60957,20 +60957,20 @@
       "wonder"
     ],
     "difficulty": "normal",
-    "length_category": "short",
+    "length_category": "medium",
     "description": "",
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784036523405",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002676284",
+    "isbn": "9784042703068",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003656120",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "偕成社",
-    "pages": 204
+    "publisher": "角川書店",
+    "pages": 270
   },
   {
-    "book_id": "isbn-9784036525409",
+    "book_id": "isbn-9784488607081",
     "title": "宇宙戦争",
     "author": "H・G・ウェルズ",
     "genres": [
@@ -60989,12 +60989,12 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784036525409",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007828908",
+    "isbn": "9784488607081",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007762484",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "偕成社",
-    "pages": 350
+    "publisher": "東京創元社",
+    "pages": 318
   },
   {
     "book_id": "isbn-9784036524808",
@@ -61024,7 +61024,7 @@
     "pages": 291
   },
   {
-    "book_id": "isbn-9784036519903",
+    "book_id": "isbn-9784003256923",
     "title": "地底旅行",
     "author": "ジュール・ヴェルヌ",
     "genres": [
@@ -61038,17 +61038,17 @@
       "wonder"
     ],
     "difficulty": "normal",
-    "length_category": "medium",
+    "length_category": "long",
     "description": "",
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784036519903",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002268868",
+    "isbn": "9784003256923",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002562892",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "偕成社",
-    "pages": 434
+    "publisher": "岩波書店",
+    "pages": 477
   },
   {
     "book_id": "isbn-9784488663322",

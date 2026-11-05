@@ -367,7 +367,7 @@
 - 坊っちゃん：岩波文庫／岩波書店／1989.5／173p／NDC 913.6／novel・easy・short
 - 吾輩は猫である：岩波文庫／岩波書店／1990.4／563p／NDC 913.6／novel・challenging・long
 - 人間失格：新潮文庫／新潮社／2006.1／185p／NDC 913.6／novel・normal・short
-- 走れメロス：偕成社文庫／偕成社／2002.5／287p／NDC 913／novel・easy・medium
+- 走れメロス：集英社文庫／集英社／1999.5／286p／NDC 913.6／novel・easy・medium
 - 斜陽：新潮文庫／新潮社／2003.5／244p／NDC 913.6／novel・normal・short
 - 羅生門：新潮文庫／新潮社／2005.10／301p／NDC 913.6／novel・normal・medium
 - 銀河鉄道の夜：角川文庫／角川書店／1996.5／264p／NDC 913.8／novel・normal・medium
@@ -686,11 +686,11 @@
 - 恍惚の人：新潮文庫／新潮社／1982.5／356p／NDC 913.6／novel・normal・medium
 - 氷点：三浦綾子小説選集 ; 1／主婦の友社、角川書店 (発売)／2000.12／417p／NDC 913.6／novel・normal・medium
 - 塩狩峠：新潮文庫／新潮社／2005.2／459p／NDC 913.6／novel・normal・long
-- 路傍の石：偕成社文庫／偕成社／2002.5／417p／NDC 913／novel・normal・medium
+- 路傍の石：新潮文庫／新潮社／2003.1／601p／NDC 913.6／novel・normal・long
 - 次郎物語：岩波文庫 ; 31-225-1／岩波書店／2020.4／360p／NDC 913.6／novel・normal・long
 - 天平の甍：新潮文庫／新潮社／2005.8／230p／NDC 913.6／novel・normal・short
 - 敦煌：叢書なし／徳間書店／1987.10／278p／NDC 913.6／novel・normal・medium
-- しろばんば：偕成社文庫／偕成社／2002.4／414p／NDC 913／novel・normal・medium
+- しろばんば：新潮文庫／新潮社／2004.5／583p／NDC 913.6／novel・normal・long
 - 樅ノ木は残った：新潮文庫／新潮社／2003.2／448p／NDC 913.6／novel・normal・long
 - 赤ひげ診療譚：新潮文庫／新潮社／2002.8／381p／NDC 913.6／novel・normal・medium
 - 国盗り物語：叢書なし／新潮社／1991.12／446p／NDC 913.6／novel・normal・long
@@ -755,7 +755,7 @@
 - 高慢と偏見：中公文庫 ; オ1-5／中央公論新社／2017.12／669p／NDC 933.6／novel・normal・long
 - 白鯨：岩波文庫／岩波書店／2004.8／493p／NDC 933.6／novel・challenging・long
 - トム・ソーヤーの冒険：福音館文庫／福音館書店／2004.10／413p／NDC 933.6／novel・easy・medium
-- ハックルベリー・フィンの冒険：偕成社文庫／偕成社／1985.12／326p／NDC 933／novel・normal・long
+- ハックルベリー・フィンの冒険：角川文庫. トウェイン完訳コレクション／角川書店／2004.8／652p／NDC 933.6／novel・normal・long
 - 怒りの葡萄：新潮文庫 ; ス-4-4／新潮社／2015.10／497p／NDC 933.7／novel・challenging・long
 - ティファニーで朝食を：叢書なし／新潮社／2008.2／223p／NDC 933.7／novel・normal・short
 - アンナ・カレーニナ：光文社古典新訳文庫／光文社／2008.7／602p／NDC 983／novel・challenging・long
@@ -793,7 +793,7 @@
 - モルグ街の殺人：角川文庫 ; ホ22-2. ポー傑作選 ; 2 怪奇ミステリー編／KADOKAWA／2022.3／349p／NDC 933.6／mystery_sf・normal・medium
 - 樽：創元推理文庫 ; Mク3-1／東京創元社／2013.11／445p／NDC 933.7／mystery_sf・normal・medium
 - 黄色い部屋の秘密：ハヤカワ・ミステリ文庫 ; HM 58-4／早川書房／2015.10／515p／NDC 953.7／mystery_sf・normal・long
-- 怪盗紳士ルパン：偕成社文庫／偕成社／1987.10／374p／NDC 953／mystery_sf・easy・medium
+- 怪盗紳士ルパン：ハヤカワ・ミステリ文庫／早川書房／2005.9／336p／NDC 953.7／mystery_sf・easy・medium
 - 魔術師：文春文庫／文藝春秋／2008.10／445p／NDC 933.7／mystery_sf・normal・long
 - もものかんづめ：集英社文庫／集英社／2001.3／287p／NDC 914.6／nonfiction・easy・medium
 - さるのこしかけ：集英社文庫／集英社／2002.3／285p／NDC 914.6／nonfiction・easy・medium
@@ -1487,7 +1487,7 @@
 - ジェネラル・ルージュの凱旋：宝島社文庫／宝島社／2009.1／251p／NDC 913.6／mystery_sf・normal・long
 - 螺鈿迷宮：角川文庫／角川書店、角川グループパブリッシング (発売)／2008.11／222p／NDC 913.6／mystery_sf・normal・long
 - 狐笛のかなた：新潮文庫／新潮社／2006.12／392p／NDC 913.6／novel・normal・medium
-- 月の森に、カミよ眠れ：偕成社文庫／偕成社／2000.10／243p／NDC 913／novel・normal・short
+- 月の森に、カミよ眠れ：偕成社の創作文学／偕成社／1991.12／236p／NDC 913／novel・normal・short
 - 空色勾玉：徳間文庫 ; お-35-1／徳間書店／2010.6／541p／NDC 913.6／novel・normal・long
 - RDG レッドデータガール：角川文庫 ; 16873／角川書店、角川グループパブリッシング (発売)／2011.6／298p／NDC 913.6／novel・easy・medium
 - 西の善き魔女：中公文庫／中央公論新社／2004.10／319p／NDC 913.6／novel・normal・long
@@ -2512,9 +2512,9 @@
 - 科学革命の構造：叢書なし／みすず書房／1980／9,277p ; 19cm／NDC 402／liberal_arts・normal・medium
 - シャーロック・ホームズの事件簿：光文社文庫. 新訳シャーロック・ホームズ全集／光文社／2007.10／487p／NDC 933.7／mystery_sf・normal・long
 - シャーロック・ホームズ最後の挨拶：光文社文庫. 新訳シャーロック・ホームズ全集／光文社／2007.4／348p／NDC 933.7／mystery_sf・normal・medium
-- ルパン対ホームズ：偕成社文庫／偕成社／1987.10／394p／NDC 953／mystery_sf・normal・medium
+- ルパン対ホームズ：新潮文庫. ルパン傑作集 ; 5／新潮社／2002.3／395p／NDC 953.7／mystery_sf・normal・medium
 - 奇巌城：怪盗ルパン = Arsene Lupin : 文庫版 ; 第4巻／ポプラ社／2005.2／249p／NDC 953.7／mystery_sf・normal・short
-- 813：偕成社文庫／偕成社／2005.9／376p／NDC 953.7／mystery_sf・normal・medium
+- 813：新潮文庫. ルパン傑作集 ; 1／新潮社／2001.4／351p／NDC 953.7／mystery_sf・normal・medium
 - トレント最後の事件：創元推理文庫 ; Mヘ2-1／東京創元社／2017.2／324p／NDC 933.7／mystery_sf・normal・medium
 - 毒入りチョコレート事件：創元推理文庫 ; 123-05／東京創元社／2009.11／350p／NDC 933.7／mystery_sf・normal・medium
 - 帽子収集狂事件：創元推理文庫 ; 118-30. [フェル博士シリーズ]／東京創元社／2011.3／401p／NDC 933.7／mystery_sf・normal・medium
@@ -2541,10 +2541,10 @@
 - 氷の家：創元推理文庫／東京創元社／1999.5／464p／NDC 933.7／mystery_sf・normal・long
 - 女彫刻家：創元推理文庫／東京創元社／2000.8／489p／NDC 933.7／mystery_sf・normal・long
 - 流浪地球：角川文庫 ; リ2-1／KADOKAWA／2024.1／305p／NDC 923.7／mystery_sf・normal・medium
-- タイム・マシン：偕成社文庫／偕成社／1998.7／204p／NDC 933／mystery_sf・normal・short
-- 宇宙戦争：偕成社文庫／偕成社／2005.8／350p／NDC 933.7／mystery_sf・normal・medium
+- タイム・マシン：角川文庫／角川書店／2002.6／270p／NDC 933.7／mystery_sf・normal・medium
+- 宇宙戦争：創元SF文庫／東京創元社／2005.5／318p／NDC 933.7／mystery_sf・normal・medium
 - 透明人間：偕成社文庫／偕成社／2003.6／291p／NDC 933.7／mystery_sf・normal・medium
-- 地底旅行：偕成社文庫／偕成社／1993.8／434p／NDC 953／mystery_sf・normal・medium
+- 地底旅行：岩波文庫／岩波書店／1997.2／477p／NDC 953.6／mystery_sf・normal・long
 - ガニメデの優しい巨人：創元SF文庫 ; SFホ1-2／東京創元社／2023.8／340p／NDC 933.7／mystery_sf・normal・medium
 - 天の光はすべて星：ハヤカワ文庫 ; SF／早川書房／2008.9／316p／NDC 933.7／mystery_sf・normal・medium
 - 発狂した宇宙：ハヤカワ文庫　ＳＦ２２２／早川書房／198707／３００ｐ ; １６㎝／NDC 933／mystery_sf・normal・medium
