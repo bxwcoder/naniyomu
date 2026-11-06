@@ -72574,6 +72574,33 @@
     "pages": 184
   },
   {
+    "book_id": "isbn-9784091873057",
+    "title": "ボーイズ・オン・ザ・ラン",
+    "author": "花沢健吾",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091873057",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008022621",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 204
+  },
+  {
     "book_id": "isbn-9784063842777",
     "title": "惡の華",
     "author": "押見修造",
@@ -72653,5 +72680,302 @@
     "tier": "basic",
     "publisher": "集英社",
     "pages": 212
+  },
+  {
+    "book_id": "isbn-9784757535664",
+    "title": "月刊少女野崎くん",
+    "author": "椿いづみ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784757535664",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023587667",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "スクウェア・エニックス",
+    "pages": 146
+  },
+  {
+    "book_id": "isbn-9784047286337",
+    "title": "坂本ですが?",
+    "author": "佐野菜見",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784047286337",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024165778",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "エンターブレイン",
+    "pages": 176
+  },
+  {
+    "book_id": "isbn-9784840129961",
+    "title": "のんのんびより",
+    "author": "あっと",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784840129961",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010802301",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "メディアファクトリー",
+    "pages": 160
+  },
+  {
+    "book_id": "isbn-9784063886900",
+    "title": "とんがり帽子のアトリエ",
+    "author": "白浜鴎",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063886900",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027846778",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 203
+  },
+  {
+    "book_id": "isbn-9784091343512",
+    "title": "ふしぎ遊戯",
+    "author": "渡瀬悠宇",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091343512",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002182543",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 186
+  },
+  {
+    "book_id": "isbn-9784592175315",
+    "title": "しゃにむにGO",
+    "author": "羅川真里茂",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784592175315",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002778792",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白泉社",
+    "pages": 205
+  },
+  {
+    "book_id": "isbn-9784063712612",
+    "title": "ましろのおと",
+    "author": "羅川真里茂",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063712612",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011006397",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 201
+  },
+  {
+    "book_id": "isbn-9784091878090",
+    "title": "G戦場ヘヴンズドア",
+    "author": "日本橋ヨヲコ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091878090",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027522320",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784065122488",
+    "title": "ゆりあ先生の赤い糸",
+    "author": "入江喜和",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065122488",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029079755",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784041068304",
+    "title": "メタモルフォーゼの縁側",
+    "author": "鶴谷香央理",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041068304",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028948080",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 139
+  },
+  {
+    "book_id": "isbn-9784088795744",
+    "title": "かげきしょうじょ!!",
+    "author": "斉木久美子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088795744",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024416643",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 179
   }
 ]
