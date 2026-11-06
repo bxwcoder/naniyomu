@@ -72574,6 +72574,33 @@
     "pages": 183
   },
   {
+    "book_id": "isbn-9784091227317",
+    "title": "究極超人あ〜る",
+    "author": "ゆうきまさみ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091227317",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002139565",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 405
+  },
+  {
     "book_id": "isbn-9784091235213",
     "title": "じゃじゃ馬グルーミン★UP!",
     "author": "ゆうきまさみ",
@@ -73168,6 +73195,33 @@
     "pages": 190
   },
   {
+    "book_id": "isbn-9784575848106",
+    "title": "私の少年",
+    "author": "高野ひと深",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575848106",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027340267",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 148
+  },
+  {
     "book_id": "isbn-9784063829730",
     "title": "1日外出録ハンチョウ",
     "author": "萩原天晴",
@@ -73273,6 +73327,58 @@
     "pages": 509
   },
   {
+    "book_id": "isbn-9784041027158",
+    "title": "高層の死角",
+    "author": "森村誠一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041027158",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026095477",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 334
+  },
+  {
+    "book_id": "isbn-9784309016924",
+    "title": "飢餓海峡",
+    "author": "水上勉",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309016924",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007629153",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 332
+  },
+  {
     "book_id": "isbn-9784488428013",
     "title": "天狗の面",
     "author": "土屋隆夫",
@@ -73349,5 +73455,1140 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 410
+  },
+  {
+    "book_id": "isbn-9784488402143",
+    "title": "亜愛一郎の狼狽",
+    "author": "泡坂妻夫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488402143",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002347375",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 381
+  },
+  {
+    "book_id": "isbn-9784167838461",
+    "title": "隻眼の少女",
+    "author": "麻耶雄嵩",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167838461",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024270658",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 506
+  },
+  {
+    "book_id": "isbn-9784062638609",
+    "title": "七回死んだ男",
+    "author": "西澤保彦",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062638609",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002733862",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 358
+  },
+  {
+    "book_id": "isbn-9784488416010",
+    "title": "生ける屍の死",
+    "author": "山口雅也",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488416010",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002481067",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 667
+  },
+  {
+    "book_id": "isbn-9784334716622",
+    "title": "奇想、天を動かす",
+    "author": "島田荘司",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334716622",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002246323",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 451
+  },
+  {
+    "book_id": "isbn-9784101171333",
+    "title": "ロートレック荘事件",
+    "author": "筒井康隆",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101171333",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002397171",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 222
+  },
+  {
+    "book_id": "isbn-9784488276058",
+    "title": "深い疵",
+    "author": "ネレ・ノイハウス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488276058",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023728511",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 521
+  },
+  {
+    "book_id": "isbn-9784167527396",
+    "title": "L.A.コンフィデンシャル",
+    "author": "ジェイムズ・エルロイ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167527396",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002637288",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 410
+  },
+  {
+    "book_id": "isbn-9784151300462",
+    "title": "スリーピング・マーダー",
+    "author": "アガサ・クリスティー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151300462",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007560078",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 383
+  },
+  {
+    "book_id": "isbn-9784488118389",
+    "title": "ユダの窓",
+    "author": "カーター・ディクスン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488118389",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026589835",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 414
+  },
+  {
+    "book_id": "isbn-9784042518020",
+    "title": "見知らぬ乗客",
+    "author": "パトリシア・ハイスミス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784042518020",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002715411",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 428
+  },
+  {
+    "book_id": "isbn-9784309464275",
+    "title": "太陽がいっぱい",
+    "author": "パトリシア・ハイスミス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309464275",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027255741",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 421
+  },
+  {
+    "book_id": "isbn-9784150711511",
+    "title": "死の接吻",
+    "author": "アイラ・レヴィン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150711511",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970023484865711240",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784043892020",
+    "title": "雷の季節の終わりに",
+    "author": "恒川光太郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043892020",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010548133",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 375
+  },
+  {
+    "book_id": "isbn-9784150309459",
+    "title": "天涯の砦",
+    "author": "小川一水",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150309459",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009989717",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 426
+  },
+  {
+    "book_id": "isbn-9784488757014",
+    "title": "皆勤の徒",
+    "author": "酉島伝法",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488757014",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026572864",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 402
+  },
+  {
+    "book_id": "isbn-9784150312992",
+    "title": "ユートロニカのこちら側",
+    "author": "小川哲",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150312992",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028664613",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 331
+  },
+  {
+    "book_id": "isbn-9784150315207",
+    "title": "法治の獣",
+    "author": "春暮康一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150315207",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032086779",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 349
+  },
+  {
+    "book_id": "isbn-9784150314965",
+    "title": "零號琴",
+    "author": "飛浩隆",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150314965",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031597438",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 445
+  },
+  {
+    "book_id": "isbn-9784150308612",
+    "title": "グラン・ヴァカンス",
+    "author": "飛浩隆",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150308612",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008308007",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 494
+  },
+  {
+    "book_id": "isbn-9784150307684",
+    "title": "象られた力",
+    "author": "飛浩隆",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150307684",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007486270",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 423
+  },
+  {
+    "book_id": "isbn-9784041357071",
+    "title": "ねらわれた学園",
+    "author": "眉村卓",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041357071",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002694087",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 215
+  },
+  {
+    "book_id": "isbn-9784101171135",
+    "title": "エディプスの恋人",
+    "author": "筒井康隆",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101171135",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001522449",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 225
+  },
+  {
+    "book_id": "isbn-9784150118358",
+    "title": "都市と都市",
+    "author": "チャイナ・ミエヴィル",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150118358",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023229412",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 526
+  },
+  {
+    "book_id": "isbn-9784863320932",
+    "title": "ジョナサン・ストレンジとミスター・ノレル",
+    "author": "スザンナ・クラーク",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784863320932",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010183389",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ヴィレッジブックス",
+    "pages": 345
+  },
+  {
+    "book_id": "isbn-9784488011116",
+    "title": "ピラネージ",
+    "author": "スザンナ・クラーク",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488011116",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032061843",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 286
+  },
+  {
+    "book_id": "isbn-9784761271763",
+    "title": "自分を操る超集中力",
+    "author": "メンタリストDaiGo",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784761271763",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027304313",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "かんき出版",
+    "pages": 253
+  },
+  {
+    "book_id": "isbn-9784295403746",
+    "title": "科学的な適職",
+    "author": "鈴木祐",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784295403746",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030107495",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "クロスメディア・パブリッシング",
+    "pages": 287
+  },
+  {
+    "book_id": "isbn-9784866630922",
+    "title": "ストレスゼロの生き方",
+    "author": "Testosterone",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784866630922",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030029798",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "きずな出版",
+    "pages": 231
+  },
+  {
+    "book_id": "isbn-9784478068557",
+    "title": "大事なことに集中する",
+    "author": "カル・ニューポート",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784478068557",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027757025",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ダイヤモンド社",
+    "pages": 231
+  },
+  {
+    "book_id": "isbn-9784775942154",
+    "title": "ジェームズ・クリアー式複利で伸びる1つの習慣",
+    "author": "ジェームズ・クリアー",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784775942154",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029989075",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "パンローリング",
+    "pages": 323
+  },
+  {
+    "book_id": "isbn-9784799321133",
+    "title": "やり抜く人の9つの習慣",
+    "author": "ハイディ・グラント・ハルバーソン",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784799321133",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028292716",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ディスカヴァー・トゥエンティワン",
+    "pages": 119
+  },
+  {
+    "book_id": "isbn-9784478066997",
+    "title": "SPRINT最速仕事術",
+    "author": "ジェイク・ナップ",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784478066997",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028087000",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ダイヤモンド社",
+    "pages": 358
+  },
+  {
+    "book_id": "isbn-9784822255015",
+    "title": "HIGH OUTPUT MANAGEMENT",
+    "author": "アンドリュー・S・グローブ",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784822255015",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027791940",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日経BP社",
+    "pages": 333
+  },
+  {
+    "book_id": "isbn-9784894716445",
+    "title": "コトラーのマーケティング・マネジメント",
+    "author": "フィリップ・コトラー",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784894716445",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003043960",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ピアソン・エデュケーション",
+    "pages": 947
+  },
+  {
+    "book_id": "isbn-9784041041413",
+    "title": "USJを劇的に変えた、たった1つの考え方",
+    "author": "森岡毅",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041041413",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434794819397",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784478115282",
+    "title": "確率思考の戦略論",
+    "author": "森岡毅",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784478115282",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033894852",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ダイヤモンド社",
+    "pages": 372
+  },
+  {
+    "book_id": "isbn-9784166609390",
+    "title": "売る力",
+    "author": "鈴木敏文",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784166609390",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024903446",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 246
+  },
+  {
+    "book_id": "isbn-9784296001866",
+    "title": "ユニクロ",
+    "author": "杉本貴司",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784296001866",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033396587",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日経BP",
+    "pages": 493
+  },
+  {
+    "book_id": "isbn-9784270006498",
+    "title": "アインシュタイン",
+    "author": "ウォルター・アイザックソン",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784270006498",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011238129",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "武田ランダムハウスジャパン",
+    "pages": 428
+  },
+  {
+    "book_id": "isbn-9784087861266",
+    "title": "BAD BLOOD",
+    "author": "ジョン・キャリールー",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087861266",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031278382",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 415
+  },
+  {
+    "book_id": "isbn-9784478001226",
+    "title": "まぐれ",
+    "author": "ナシーム・ニコラス・タレブ",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784478001226",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009250651",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ダイヤモンド社",
+    "pages": 387
+  },
+  {
+    "book_id": "isbn-9784062153928",
+    "title": "天才!",
+    "author": "マルコム・グラッドウェル",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062153928",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010151210",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 339
   }
 ]
