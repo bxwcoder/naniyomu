@@ -608,7 +608,7 @@
 - ハチミツとクローバー：クイーンズコミックス／集英社／2002.8／184p／NDC 726.1／manga・easy・long
 - 君に届け：マーガレットコミックス／集英社／2006.5／195p／NDC 726.1／manga・easy・long
 - 夏目友人帳：花とゆめcomics／白泉社／2005.10／165p／NDC 726.1／manga・easy・long
-- ヴィンランド・サガ：講談社コミックス ; 3559巻. Shonen magazine comics／講談社／2005.7／192p／NDC 726.1／manga・easy・long
+- ヴィンランド・サガ：アフタヌーンKC ; 423／講談社／2006.8／213p／NDC 726.1／manga・easy・long
 - 寄生獣：KCDX ; 3648／講談社／2014.8／213p／NDC 726.1／manga・easy・long
 - 火の鳥：叢書なし／講談社／1995.4／226p／NDC 726.1／manga・easy・long
 - ブラック・ジャック：Shōnen champion comics extra／秋田書店／2012.11／276p／NDC 726.1／manga・easy・long
@@ -898,7 +898,7 @@
 - Dr.コトー診療所：ヤングサンデーコミックス／小学館／2000.12／204p／NDC 726.1／manga・easy・long
 - ブラックジャックによろしく：モーニングKC／講談社／2002.6／1冊／NDC 726.1／manga・easy・long
 - 働かないふたり：Bunch comics／新潮社／2014.5／127p／NDC 726.1／manga・easy・long
-- ヒストリエ：講談社プラチナコミックス／講談社／2017.10／316p／NDC 726.1／manga・easy・long
+- ヒストリエ：アフタヌーンKC／講談社／2004.10／210p／NDC 726.1／manga・easy・long
 - へうげもの：モーニングKC ; 1487／講談社／2005.12／1冊 (ページ付なし)／NDC 726.1／manga・easy・long
 - 僕だけがいない街：角川コミックス・エース ; KCA112-11／角川書店、角川グループパブリッシング (発売)／2013.1／1冊／NDC 726.1／manga・easy・long
 - かぐや様は告らせたい：ヤングジャンプコミックス／集英社／2016.3／198p／NDC 726.1／manga・easy・long
@@ -2250,7 +2250,7 @@
 - 王家の紋章：秋田文庫／秋田書店／1996.12／327p／NDC 726.1／manga・easy・long
 - 有閑倶楽部：集英社文庫 : コミック版／集英社／2000.5／321p／NDC 726.1／manga・easy・long
 - はいからさんが通る：講談社コミックスデザート／講談社／2002.7／211p／NDC 726.1／manga・easy・long
-- あさきゆめみし：講談社漫画文庫／講談社／2001.8／1冊／NDC 726.1／manga・easy・long
+- あさきゆめみし：KC Kiss／講談社／2021.12／401p／NDC 726.1／manga・easy・long
 - ときめきトゥナイト：りぼんマスコットコミックス／集英社／2000.4／156p／NDC 726.1／manga・easy・long
 - リボンの騎士：講談社コミックスグランドコレクション／講談社／1995.4／347p／NDC 726.1／manga・easy・long
 - 鉄腕アトム：Sunday comics／秋田書店／1999.7／218p／NDC 726.1／manga・easy・long
@@ -2330,7 +2330,7 @@
 - 赤髪の白雪姫：花とゆめcomics／白泉社／2007.12／183p／NDC 726.1／manga・easy・long
 - 暁のヨナ：花とゆめcomics／白泉社／2010.1／189p／NDC 726.1／manga・easy・long
 - 夏子の酒：講談社漫画文庫／講談社／2004.6／451p／NDC 726.1／manga・easy・long
-- 神の雫：講談社プラチナコミックス ; 2692／講談社／2015.5／443p／NDC 726.1／manga・easy・long
+- 神の雫：モーニングKC ; 1422／講談社／2005.3／212p／NDC 726.1／manga・easy・long
 - ザ・シェフ：ゴラク・コミックス／日本文芸社／1985.5／204p／NDC 726.1／manga・easy・long
 - 将太の寿司：講談社コミックス ; 2457巻／講談社／1997.9／201p／NDC 726.1／manga・easy・long
 - ミスター味っ子：講談社漫画文庫／講談社／2001.11／344p／NDC 726.1／manga・easy・long
@@ -2346,7 +2346,7 @@
 - カバチタレ!：モーニングKC／講談社／1999.11／238p／NDC 726.1／manga・easy・long
 - ナニワ金融道：モーニングKC ; 254／講談社／1991.6／203p／NDC 726.1／manga・easy・long
 - エンゼルバンク：モーニングKC ; 1661／講談社／2008.1／1冊 (ページ付なし)／NDC 726.1／manga・easy・long
-- 課長島耕作：講談社プラチナコミックス／講談社／2018.2／152p／NDC 726.1／manga・easy・long
+- 課長島耕作：モーニングKC／講談社／1994.1／225p／NDC 726.1／manga・easy・long
 - 黄昏流星群：ビッグコミックス／小学館／1996.8／229p／NDC 726.1／manga・easy・long
 - サラリーマン金太郎：ヤングジャンプ・コミックス／集英社／1994.12／211p／NDC 726.1／manga・easy・long
 - 俺の空：集英社文庫 コミック版. 本宮ひろ志傑作選／集英社／1996.11／303p／NDC 726.1／manga・easy・long
@@ -2697,9 +2697,9 @@
 - 魔法騎士レイアース：KCデラックス／講談社／2002.12／196p／NDC 726.1／manga・easy・long
 - 魔人探偵脳噛ネウロ：ジャンプ・コミックス／集英社／2005.7／181p／NDC 726.1／manga・easy・long
 - 沈黙の艦隊：モーニングKC／講談社／1990.11／225p／NDC 726.1／manga・easy・long
-- ジパング：講談社プラチナコミックス ; 2874／講談社／2016.4／442p／NDC 726.1／manga・easy・long
+- ジパング：モーニングKC／講談社／2001.1／223p／NDC 726.1／manga・easy・long
 - ザ・ファブル：ヤンマガKC ; 2563／講談社／2015.3／205p／NDC 726.1／manga・easy・long
-- 柔道部物語：講談社漫画文庫／講談社／1999.2／387p／NDC 726.1／manga・easy・long
+- 柔道部物語：ヤンマガKC ; 2382／講談社／2013.11／349p／NDC 726.1／manga・easy・long
 - 花男：Big spirits comics special／小学館／1998.12／240p／NDC 726.1／manga・easy・long
 - ファイブスター物語：ニュータイプ100%コミックス／角川書店／1987.5／197p／NDC 726.1／manga・easy・long
 - 封神演義：ジャンプ・コミックス／集英社／1996.11／199p／NDC 726.1／manga・easy・long
@@ -2969,7 +2969,7 @@
 - 彼女、お借りします：講談社コミックスマガジン ; KCM6028. SHONEN MAGAZINE COMICS／講談社／2017.10／1冊／NDC 726.1／manga・easy・long
 - ヘルタースケルター：叢書なし／祥伝社／2003.4／315p／NDC 726.1／manga・easy・long
 - リバーズ・エッジ：Wonderland comics／宝島社／2000.1／232p／NDC 726.1／manga・easy・long
-- シュガシュガルーン：安野モヨコ選集／小学館クリエイティブ、小学館／2025.10／1冊(ページ付なし)／NDC 726.1／manga・easy・long
+- シュガシュガルーン：KCデラックス／講談社／2004.3／1冊／NDC 726.1／manga・easy・long
 - さくらん：イブニングKCDX／講談社／2003.11／296p／NDC 726.1／manga・easy・long
 - にがくてあまい：Blade comics EDEN／マッグガーデン／2010.8／182p／NDC 726.1／manga・easy・long
 - ワカコ酒：ゼノンコミックス／ノース・スターズ・ピクチャーズ、徳間書店 (発売)／2013.6／156p／NDC 726.1／manga・easy・long
@@ -3010,9 +3010,9 @@
 - YAIBA：少年サンデーコミックス／小学館／1989.5／182p／NDC 726.1／manga・easy・long
 - モンキーターン：少年サンデーコミックス／小学館／1997.3／185p／NDC 726.1／manga・easy・long
 - 天使な小生意気：少年サンデーコミックス／小学館／1999.10／185p／NDC 726.1／manga・easy・long
-- ゴリラーマン：講談社漫画文庫／講談社／1999.10／374p／NDC 726.1／manga・easy・long
+- ゴリラーマン：ヤンマガKC ; 1936／講談社／2010.8／235p／NDC 726.1／manga・easy・long
 - 電影少女：集英社文庫 : コミック版／集英社／2003.1／316p／NDC 726.1／manga・easy・long
-- ああっ女神さまっ：叢書なし／講談社／1996.10／109p／NDC 726.1／manga・easy・long
+- ああっ女神さまっ：アフタヌーンKC ; 1009／講談社／1989.8／179p／NDC 726.1／manga・easy・long
 - 逮捕しちゃうぞ：アフタヌーンKCDX／講談社／2001.4／185p／NDC 726.1／manga・easy・long
 - 機動警察パトレイバー：少年サンデーコミックス／小学館／1988.7／183p／NDC 726.1／manga・easy・long
 - 究極超人あ〜る：少年サンデーコミックスワイド版／小学館／1991.9／405p／NDC 726.1／manga・easy・long
