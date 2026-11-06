@@ -75650,5 +75650,1391 @@
     "tier": "basic",
     "publisher": "岩波書店",
     "pages": 349
+  },
+  {
+    "book_id": "isbn-9784101025056",
+    "title": "戯作三昧・一塊の土",
+    "author": "芥川龍之介",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101025056",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434893351045",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784101006086",
+    "title": "グッド・バイ",
+    "author": "太宰治",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101006086",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010066223",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 397
+  },
+  {
+    "book_id": "isbn-9784101006116",
+    "title": "パンドラの匣",
+    "author": "太宰治",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101006116",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010619770",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 416
+  },
+  {
+    "book_id": "isbn-9784101006161",
+    "title": "新樹の言葉",
+    "author": "太宰治",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101006161",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001571447",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 338
+  },
+  {
+    "book_id": "isbn-9784758435475",
+    "title": "桜桃",
+    "author": "太宰治",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784758435475",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011294554",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 124
+  },
+  {
+    "book_id": "isbn-9784334737337",
+    "title": "パノラマ島綺譚",
+    "author": "江戸川乱歩",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334737337",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007456368",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 763
+  },
+  {
+    "book_id": "isbn-9784101109190",
+    "title": "黒い画集",
+    "author": "松本清張",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101109190",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007305766",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 737
+  },
+  {
+    "book_id": "isbn-9784860573195",
+    "title": "天城越え",
+    "author": "松本清張",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784860573195",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009146706",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "リブリオ出版",
+    "pages": 226
+  },
+  {
+    "book_id": "isbn-9784334732295",
+    "title": "半七捕物帳",
+    "author": "岡本綺堂",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334732295",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003040610",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 453
+  },
+  {
+    "book_id": "isbn-9784861563003",
+    "title": "銭形平次捕物控",
+    "author": "野村胡堂",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784861563003",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007568228",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "嶋中書店",
+    "pages": 413
+  },
+  {
+    "book_id": "isbn-9784022641472",
+    "title": "顎十郎捕物帳",
+    "author": "久生十蘭",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022641472",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002679446",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞社",
+    "pages": 676
+  },
+  {
+    "book_id": "isbn-9784062638760",
+    "title": "猫は知っていた",
+    "author": "仁木悦子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062638760",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002715363",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 580
+  },
+  {
+    "book_id": "isbn-9784575658156",
+    "title": "影の告発",
+    "author": "土屋隆夫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575658156",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002485932",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 370
+  },
+  {
+    "book_id": "isbn-9784488408091",
+    "title": "大誘拐",
+    "author": "天藤真",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488408091",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002908412",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 456
+  },
+  {
+    "book_id": "isbn-9784062733274",
+    "title": "花の下にて春死なむ",
+    "author": "北森鴻",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062733274",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003055504",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 280
+  },
+  {
+    "book_id": "isbn-9784062738378",
+    "title": "脳男",
+    "author": "首藤瓜於",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062738378",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004230481",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 366
+  },
+  {
+    "book_id": "isbn-9784167110130",
+    "title": "ガリレオの苦悩",
+    "author": "東野圭吾",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167110130",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011288891",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 376
+  },
+  {
+    "book_id": "isbn-9784061156937",
+    "title": "日本人の意識構造",
+    "author": "会田雄次",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061156937",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I30111100126171",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 237
+  },
+  {
+    "book_id": "isbn-9784121800039",
+    "title": "アーロン収容所",
+    "author": "会田雄次",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121800039",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028747627",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 250
+  },
+  {
+    "book_id": "isbn-9784122014695",
+    "title": "日本語の論理",
+    "author": "外山滋比古",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122014695",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001894244",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 287
+  },
+  {
+    "book_id": "isbn-9784480082107",
+    "title": "日本語はいかにつくられたか",
+    "author": "小池清治",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480082107",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002425543",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 251
+  },
+  {
+    "book_id": "isbn-9784004000136",
+    "title": "零の発見",
+    "author": "吉田洋一",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004000136",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I10111101545236",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 181
+  },
+  {
+    "book_id": "isbn-9784003391242",
+    "title": "種の起原",
+    "author": "ダーウィン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003391242",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002034426",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 446
+  },
+  {
+    "book_id": "isbn-9784062923705",
+    "title": "人間の由来",
+    "author": "ダーウィン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062923705",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027572402",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 528
+  },
+  {
+    "book_id": "isbn-9784105393038",
+    "title": "ビッグバン宇宙論",
+    "author": "サイモン・シン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784105393038",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008220682",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 298
+  },
+  {
+    "book_id": "isbn-9784393621516",
+    "title": "隷属への道",
+    "author": "ハイエク",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784393621516",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002213540",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "春秋社",
+    "pages": 382
+  },
+  {
+    "book_id": "isbn-9784003400517",
+    "title": "法の精神",
+    "author": "モンテスキュー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003400517",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002000114",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 463
+  },
+  {
+    "book_id": "isbn-9784003360712",
+    "title": "生の短さについて",
+    "author": "セネカ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003360712",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010828944",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 316
+  },
+  {
+    "book_id": "isbn-9784062199445",
+    "title": "哲学探究",
+    "author": "ウィトゲンシュタイン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062199445",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030721394",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 539
+  },
+  {
+    "book_id": "isbn-9784837979029",
+    "title": "学問のすすめ",
+    "author": "福沢諭吉",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784837979029",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011016104",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "三笠書房",
+    "pages": 253
+  },
+  {
+    "book_id": "isbn-9784062033176",
+    "title": "言志四録",
+    "author": "佐藤一斎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062033176",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001846970",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 434
+  },
+  {
+    "book_id": "isbn-9784041800034",
+    "title": "N・P",
+    "author": "吉本ばなな",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041800034",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002215428",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 231
+  },
+  {
+    "book_id": "isbn-9784167631062",
+    "title": "真鶴",
+    "author": "川上弘美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167631062",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010585034",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 271
+  },
+  {
+    "book_id": "isbn-9784062645690",
+    "title": "密やかな結晶",
+    "author": "小川洋子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062645690",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002814946",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 401
+  },
+  {
+    "book_id": "isbn-9784022648037",
+    "title": "ことり",
+    "author": "小川洋子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022648037",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026996125",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 311
+  },
+  {
+    "book_id": "isbn-9784122059122",
+    "title": "人質の朗読会",
+    "author": "小川洋子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122059122",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025194452",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 246
+  },
+  {
+    "book_id": "isbn-9784344402621",
+    "title": "月の裏側",
+    "author": "恩田陸",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344402621",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004323412",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 461
+  },
+  {
+    "book_id": "isbn-9784122071438",
+    "title": "愛なき世界",
+    "author": "三浦しをん",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122071438",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031785126",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 338
+  },
+  {
+    "book_id": "isbn-9784094067033",
+    "title": "夜行",
+    "author": "森見登美彦",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094067033",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029957528",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 299
+  },
+  {
+    "book_id": "isbn-9784167909536",
+    "title": "キャプテンサンダーボルト",
+    "author": "伊坂幸太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167909536",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028592083",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 334
+  },
+  {
+    "book_id": "isbn-9784101234151",
+    "title": "ライオンハート",
+    "author": "恩田陸",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101234151",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004339551",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 397
+  },
+  {
+    "book_id": "isbn-9784101240282",
+    "title": "黒祠の島",
+    "author": "小野不由美",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101240282",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008595709",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 479
+  },
+  {
+    "book_id": "isbn-9784038505904",
+    "title": "クラバート",
+    "author": "プロイスラー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784038505904",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001740842",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "偕成社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784001157253",
+    "title": "トムは真夜中の庭で",
+    "author": "フィリパ・ピアス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001157253",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002293822",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 357
+  },
+  {
+    "book_id": "isbn-9784101098067",
+    "title": "悪魔のいる天国",
+    "author": "星新一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101098067",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025608510",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 294
+  },
+  {
+    "book_id": "isbn-9784061852143",
+    "title": "創竜伝",
+    "author": "田中芳樹",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061852143",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002238821",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 284
+  },
+  {
+    "book_id": "isbn-9784150308094",
+    "title": "老ヴォールの惑星",
+    "author": "小川一水",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150308094",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007874896",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 379
+  },
+  {
+    "book_id": "isbn-9784150307875",
+    "title": "太陽の簒奪者",
+    "author": "野尻抱介",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150307875",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007680790",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 324
+  },
+  {
+    "book_id": "isbn-9784309417257",
+    "title": "自生の夢",
+    "author": "飛浩隆",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309417257",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030093478",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 316
+  },
+  {
+    "book_id": "isbn-9784041102909",
+    "title": "BEATLESS",
+    "author": "長谷敏司",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041102909",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023972785",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 649
+  },
+  {
+    "book_id": "isbn-9784150311407",
+    "title": "My Humanity",
+    "author": "長谷敏司",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150311407",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025250145",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 335
+  },
+  {
+    "book_id": "isbn-9784150314644",
+    "title": "大日本帝国の銀河",
+    "author": "林譲治",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150314644",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031186087",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 323
   }
 ]
