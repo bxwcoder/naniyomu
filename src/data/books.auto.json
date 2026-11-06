@@ -72142,6 +72142,33 @@
     "pages": 350
   },
   {
+    "book_id": "isbn-9784122022164",
+    "title": "マジンガーZ",
+    "author": "永井豪",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122022164",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002379284",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 246
+  },
+  {
     "book_id": "isbn-9784120021282",
     "title": "キューティーハニー",
     "author": "永井豪",
@@ -72790,6 +72817,33 @@
     "pages": 203
   },
   {
+    "book_id": "isbn-9784800002846",
+    "title": "魔法使いの嫁",
+    "author": "ヤマザキコレ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784800002846",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025455147",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "マッグガーデン",
+    "pages": 175
+  },
+  {
     "book_id": "isbn-9784091343512",
     "title": "ふしぎ遊戯",
     "author": "渡瀬悠宇",
@@ -72815,6 +72869,33 @@
     "tier": "basic",
     "publisher": "小学館",
     "pages": 186
+  },
+  {
+    "book_id": "isbn-9784592884187",
+    "title": "赤ちゃんと僕",
+    "author": "羅川真里茂",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784592884187",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003049933",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白泉社",
+    "pages": 370
   },
   {
     "book_id": "isbn-9784592175315",
@@ -72898,6 +72979,33 @@
     "pages": null
   },
   {
+    "book_id": "isbn-9784063721713",
+    "title": "少女ファイト",
+    "author": "日本橋ヨヲコ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063721713",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008248776",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 232
+  },
+  {
     "book_id": "isbn-9784065122488",
     "title": "ゆりあ先生の赤い糸",
     "author": "入江喜和",
@@ -72977,5 +73085,269 @@
     "tier": "basic",
     "publisher": "集英社",
     "pages": 179
+  },
+  {
+    "book_id": "isbn-9784091394279",
+    "title": "マロニエ王国の七人の騎士",
+    "author": "岩本ナオ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091394279",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028399372",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 193
+  },
+  {
+    "book_id": "isbn-9784091386687",
+    "title": "金の国 水の国",
+    "author": "岩本ナオ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091386687",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027457333",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 285
+  },
+  {
+    "book_id": "isbn-9784091313935",
+    "title": "町でうわさの天狗の子",
+    "author": "岩本ナオ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091313935",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009214165",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 190
+  },
+  {
+    "book_id": "isbn-9784063829730",
+    "title": "1日外出録ハンチョウ",
+    "author": "萩原天晴",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063829730",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028194989",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784062932790",
+    "title": "匣の中の失楽",
+    "author": "竹本健治",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062932790",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026952269",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 829
+  },
+  {
+    "book_id": "isbn-9784061830639",
+    "title": "戻り川心中",
+    "author": "連城三紀彦",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061830639",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001620812",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 280
+  },
+  {
+    "book_id": "isbn-9784041753606",
+    "title": "人間の証明",
+    "author": "森村誠一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041753606",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007608855",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 509
+  },
+  {
+    "book_id": "isbn-9784488428013",
+    "title": "天狗の面",
+    "author": "土屋隆夫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488428013",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002970902",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 553
+  },
+  {
+    "book_id": "isbn-9784334766443",
+    "title": "刺青殺人事件",
+    "author": "高木彬光",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334766443",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024850330",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 418
+  },
+  {
+    "book_id": "isbn-9784101024035",
+    "title": "不連続殺人事件",
+    "author": "坂口安吾",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101024035",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029153315",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 410
   }
 ]
