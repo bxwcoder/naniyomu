@@ -70684,6 +70684,33 @@
     "pages": 279
   },
   {
+    "book_id": "isbn-9784091940919",
+    "title": "あさりちゃん",
+    "author": "室山まゆみ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091940919",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002505812",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 239
+  },
+  {
     "book_id": "isbn-9784086181822",
     "title": "ついでにとんちんかん",
     "author": "えんどコイチ",
@@ -71870,5 +71897,761 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 226
+  },
+  {
+    "book_id": "isbn-9784091863577",
+    "title": "健康で文化的な最低限度の生活",
+    "author": "柏木ハルコ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091863577",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025702700",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 170
+  },
+  {
+    "book_id": "isbn-9784063211443",
+    "title": "げんしけん",
+    "author": "木尾士目",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063211443",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004012738",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 170
+  },
+  {
+    "book_id": "isbn-9784063134162",
+    "title": "三つ目がとおる",
+    "author": "手塚治虫",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063134162",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002501198",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 352
+  },
+  {
+    "book_id": "isbn-9784253240253",
+    "title": "どろろ",
+    "author": "手塚治虫",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784253240253",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007687822",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "秋田書店",
+    "pages": 416
+  },
+  {
+    "book_id": "isbn-9784091806017",
+    "title": "陽だまりの樹",
+    "author": "手塚治虫",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091806017",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001633154",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 249
+  },
+  {
+    "book_id": "isbn-9784048537209",
+    "title": "奇子",
+    "author": "手塚治虫",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784048537209",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004327192",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 347
+  },
+  {
+    "book_id": "isbn-9784091920041",
+    "title": "MW",
+    "author": "手塚治虫",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091920041",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002379291",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 299
+  },
+  {
+    "book_id": "isbn-9784091423153",
+    "title": "エスパー魔美",
+    "author": "藤子・F・不二雄",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091423153",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027996740",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 190
+  },
+  {
+    "book_id": "isbn-9784122025318",
+    "title": "忍者ハットリくん",
+    "author": "藤子不二雄A",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122025318",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002470546",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 350
+  },
+  {
+    "book_id": "isbn-9784120021282",
+    "title": "キューティーハニー",
+    "author": "永井豪",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784120021282",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002202416",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 459
+  },
+  {
+    "book_id": "isbn-9784253237215",
+    "title": "キャプテンハーロック",
+    "author": "松本零士",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784253237215",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026025678",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "秋田書店",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784840109673",
+    "title": "スケバン刑事",
+    "author": "和田慎二",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784840109673",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007828947",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "メディアファクトリー",
+    "pages": 338
+  },
+  {
+    "book_id": "isbn-9784091218544",
+    "title": "人魚の森",
+    "author": "高橋留美子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091218544",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001925397",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 260
+  },
+  {
+    "book_id": "isbn-9784091217738",
+    "title": "境界のRINNE",
+    "author": "高橋留美子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091217738",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010609426",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 179
+  },
+  {
+    "book_id": "isbn-9784091293107",
+    "title": "MAO",
+    "author": "高橋留美子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091293107",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029943808",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 187
+  },
+  {
+    "book_id": "isbn-9784091220813",
+    "title": "まじっく快斗",
+    "author": "青山剛昌",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091220813",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001925410",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 188
+  },
+  {
+    "book_id": "isbn-9784091222718",
+    "title": "YAIBA",
+    "author": "青山剛昌",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091222718",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001987533",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 182
+  },
+  {
+    "book_id": "isbn-9784091251619",
+    "title": "モンキーターン",
+    "author": "河合克敏",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091251619",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002565724",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 185
+  },
+  {
+    "book_id": "isbn-9784091256317",
+    "title": "天使な小生意気",
+    "author": "西森博之",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091256317",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027127707",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 185
+  },
+  {
+    "book_id": "isbn-9784062606479",
+    "title": "ゴリラーマン",
+    "author": "ハロルド作石",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062606479",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002831778",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 374
+  },
+  {
+    "book_id": "isbn-9784086180122",
+    "title": "電影少女",
+    "author": "桂正和",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784086180122",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004015096",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 316
+  },
+  {
+    "book_id": "isbn-9784063300253",
+    "title": "ああっ女神さまっ",
+    "author": "藤島康介",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063300253",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002534128",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 109
+  },
+  {
+    "book_id": "isbn-9784063344011",
+    "title": "逮捕しちゃうぞ",
+    "author": "藤島康介",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063344011",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002983398",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 185
+  },
+  {
+    "book_id": "isbn-9784091221216",
+    "title": "機動警察パトレイバー",
+    "author": "ゆうきまさみ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091221216",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001930743",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 183
+  },
+  {
+    "book_id": "isbn-9784091235213",
+    "title": "じゃじゃ馬グルーミン★UP!",
+    "author": "ゆうきまさみ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091235213",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002390174",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 184
+  },
+  {
+    "book_id": "isbn-9784063842777",
+    "title": "惡の華",
+    "author": "押見修造",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063842777",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010779202",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 202
+  },
+  {
+    "book_id": "isbn-9784063141863",
+    "title": "なるたる",
+    "author": "鬼頭莫宏",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063141863",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002682638",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 216
+  },
+  {
+    "book_id": "isbn-9784088771854",
+    "title": "ハチワンダイバー",
+    "author": "柴田ヨクサル",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088771854",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008412965",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 212
   }
 ]
