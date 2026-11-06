@@ -74590,5 +74590,301 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 339
+  },
+  {
+    "book_id": "isbn-9784870313941",
+    "title": "ティッピング・ポイント",
+    "author": "マルコム・グラッドウェル",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784870313941",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002936097",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "飛鳥新社",
+    "pages": 310
+  },
+  {
+    "book_id": "isbn-9784334961886",
+    "title": "第1感",
+    "author": "マルコム・グラッドウェル",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334961886",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008107319",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 263
+  },
+  {
+    "book_id": "isbn-9784062924795",
+    "title": "ホモ・ルーデンス",
+    "author": "ホイジンガ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062924795",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028850662",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 393
+  },
+  {
+    "book_id": "isbn-9784480510297",
+    "title": "大衆の国民化",
+    "author": "ジョージ・L・モッセ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480510297",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031186401",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 455
+  },
+  {
+    "book_id": "isbn-9784120015335",
+    "title": "第三の波",
+    "author": "アルビン・トフラー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784120015335",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001823985",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 198
+  },
+  {
+    "book_id": "isbn-9784622040965",
+    "title": "皇帝の新しい心",
+    "author": "ロジャー・ペンローズ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784622040965",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002389402",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "みすず書房",
+    "pages": 536
+  },
+  {
+    "book_id": "isbn-9784102159743",
+    "title": "宇宙創成",
+    "author": "サイモン・シン",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102159743",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010013753",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 387
+  },
+  {
+    "book_id": "isbn-9784150502836",
+    "title": "数学をつくった人びと",
+    "author": "E・T・ベル",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150502836",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004239193",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 421
+  },
+  {
+    "book_id": "isbn-9784044094300",
+    "title": "旅人",
+    "author": "湯川秀樹",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784044094300",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011102393",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川学芸出版",
+    "pages": 293
+  },
+  {
+    "book_id": "isbn-9784582769289",
+    "title": "寺田寅彦随筆集",
+    "author": "寺田寅彦",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784582769289",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032007111",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "平凡社",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784003112427",
+    "title": "雪",
+    "author": "中谷宇吉郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003112427",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002368636",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 181
   }
 ]
