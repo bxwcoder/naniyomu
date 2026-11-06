@@ -75678,6 +75678,32 @@
     "pages": null
   },
   {
+    "book_id": "isbn-9784167901424",
+    "title": "侏儒の言葉",
+    "author": "芥川龍之介",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167901424",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025527215",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 251
+  },
+  {
     "book_id": "isbn-9784101006086",
     "title": "グッド・バイ",
     "author": "太宰治",
@@ -75806,6 +75832,32 @@
     "tier": "basic",
     "publisher": "光文社",
     "pages": 763
+  },
+  {
+    "book_id": "isbn-9784334738204",
+    "title": "押絵と旅する男",
+    "author": "江戸川乱歩",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334738204",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007617567",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 672
   },
   {
     "book_id": "isbn-9784101109190",
@@ -77036,5 +77088,329 @@
     "tier": "basic",
     "publisher": "早川書房",
     "pages": 323
+  },
+  {
+    "book_id": "isbn-9784150313401",
+    "title": "星系出雲の兵站",
+    "author": "林譲治",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150313401",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029137168",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 378
+  },
+  {
+    "book_id": "isbn-9784091910066",
+    "title": "吉祥天女",
+    "author": "吉田秋生",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091910066",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002379243",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 343
+  },
+  {
+    "book_id": "isbn-9784091367341",
+    "title": "YASHA",
+    "author": "吉田秋生",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091367341",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002537149",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 185
+  },
+  {
+    "book_id": "isbn-9784840133111",
+    "title": "アラベスク",
+    "author": "山岸凉子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784840133111",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023645721",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "メディアファクトリー",
+    "pages": 340
+  },
+  {
+    "book_id": "isbn-9784167911492",
+    "title": "天人唐草",
+    "author": "山岸凉子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167911492",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029161170",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 264
+  },
+  {
+    "book_id": "isbn-9784048532587",
+    "title": "グーグーだって猫である",
+    "author": "大島弓子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784048532587",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002924870",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 127
+  },
+  {
+    "book_id": "isbn-9784091847911",
+    "title": "おたんこナース",
+    "author": "佐々木倫子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091847911",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002449200",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 217
+  },
+  {
+    "book_id": "isbn-9784088641973",
+    "title": "天然コケッコー",
+    "author": "くらもちふさこ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088641973",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002413129",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 191
+  },
+  {
+    "book_id": "isbn-9784086172035",
+    "title": "いつもポケットにショパン",
+    "author": "くらもちふさこ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784086172035",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002428983",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 306
+  },
+  {
+    "book_id": "isbn-9784088651422",
+    "title": "プライド",
+    "author": "一条ゆかり",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088651422",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004214598",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 192
+  },
+  {
+    "book_id": "isbn-9784403500268",
+    "title": "東京BABYLON",
+    "author": "CLAMP",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784403500268",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003026749",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新書館",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784063347524",
+    "title": "xxxHOLiC",
+    "author": "CLAMP",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063347524",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004185821",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 176
   }
 ]
