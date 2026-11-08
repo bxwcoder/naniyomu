@@ -75470,32 +75470,6 @@
     "pages": 297
   },
   {
-    "book_id": "isbn-9784886831934",
-    "title": "狂人日記",
-    "author": "魯迅",
-    "genres": [
-      "novel"
-    ],
-    "themes": [
-      "life"
-    ],
-    "moods": [
-      "moving"
-    ],
-    "difficulty": "normal",
-    "length_category": "long",
-    "description": "",
-    "recommendation_reasons": [],
-    "cover_image_url": null,
-    "purchase_url": null,
-    "isbn": "9784886831934",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970023484914061592",
-    "metadata_verified": true,
-    "tier": "basic",
-    "publisher": "同時代社",
-    "pages": null
-  },
-  {
     "book_id": "isbn-9784560092224",
     "title": "ゴドーを待ちながら",
     "author": "ベケット",
@@ -75884,32 +75858,6 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 737
-  },
-  {
-    "book_id": "isbn-9784860573195",
-    "title": "天城越え",
-    "author": "松本清張",
-    "genres": [
-      "mystery_sf"
-    ],
-    "themes": [
-      "mystery"
-    ],
-    "moods": [
-      "absorbing"
-    ],
-    "difficulty": "normal",
-    "length_category": "short",
-    "description": "",
-    "recommendation_reasons": [],
-    "cover_image_url": null,
-    "purchase_url": null,
-    "isbn": "9784860573195",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009146706",
-    "metadata_verified": true,
-    "tier": "basic",
-    "publisher": "リブリオ出版",
-    "pages": 226
   },
   {
     "book_id": "isbn-9784334732295",
