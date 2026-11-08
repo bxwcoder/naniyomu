@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-06T13:46:17.840Z
-- 候補：3199冊
-- 入れた本：2902冊
-- 入れなかった本：297冊
+- 検索日時：2026-11-08T03:23:12.266Z
+- 候補：3265冊
+- 入れた本：2962冊
+- 入れなかった本：303冊
 
 ## 入れなかった本
 
@@ -304,6 +304,12 @@
 - 戦闘妖精・雪風／神林長平（SF・ファンタジー定番）：タイトルが同じで ISBN のある記録がない
 - 敵は海賊／神林長平（SF・ファンタジー定番）：タイトルが同じで ISBN のある記録がない
 - パラダイス・キス／矢沢あい（漫画の定番）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
+- リングにかけろ／車田正美（漫画の定番）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
+- きまぐれオレンジ☆ロード／まつもと泉（漫画の定番）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
+- 斉木楠雄のΨ難／麻生周一（漫画の定番）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
+- カメレオン／加瀬あつし（漫画の定番）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
+- 冥途・旅順入城式／内田百閒（日本の名作）：タイトルが同じで ISBN のある記録がない
+- フロー体験／M・チクセントミハイ（教養の定番）：タイトルが同じで ISBN のある記録がない
 
 ## 入れた本と選んだ版
 
@@ -3209,3 +3215,63 @@
 - プライド：クイーンズコミックス／集英社／2003.8／192p／NDC 726.1／manga・easy・long
 - 東京BABYLON：新書館ウィングス文庫. Wings comics bunko／新書館／2000.12／254p／NDC 726.1／manga・easy・long
 - xxxHOLiC：KCDX／講談社／2003.7／176p／NDC 726.1／manga・easy・long
+- SAND LAND：ジャンプ・コミックス／集英社／2000.11／216p／NDC 726.1／manga・easy・long
+- ハイスクール!奇面組：集英社文庫 : コミック版／集英社／2001.12／280p／NDC 726.1／manga・easy・long
+- レベルE：集英社文庫 ; と21-3／集英社／2010.9／307p／NDC 726.1／manga・easy・long
+- 地獄先生ぬ〜べ〜：集英社文庫 : コミック版／集英社／2006.1／251p／NDC 726.1／manga・easy・long
+- みゆき：小学館文庫／小学館／1997.12／323p／NDC 726.1／manga・easy・long
+- 疾風伝説 特攻の拓：REKC／講談社／2002.5／189p／NDC 726.1／manga・easy・long
+- バリバリ伝説：講談社漫画文庫／講談社／2003.5／353p／NDC 726.1／manga・easy・long
+- ヘウレーカ：Jets comics／白泉社／2002.12／257p／NDC 726.1／manga・easy・long
+- 七夕の国：ビッグコミックス／小学館／1997.8／205p／NDC 726.1／manga・easy・long
+- 亜人：アフタヌーンKC ; 868／講談社／2013.3／225p／NDC 726.1／manga・easy・long
+- 光が死んだ夏：角川コミックス・エース／KADOKAWA／2022.3／1冊(ページ付なし)／NDC 726.1／manga・easy・long
+- 平和の国の島崎へ：モーニングKC／講談社／2022.12／198p／NDC 726.1／manga・easy・long
+- 異世界おじさん：MFC／KADOKAWA／2018.11／148p／NDC 726.1／manga・easy・long
+- 大ダーク：ゲッサン少年サンデーコミックススペシャル／小学館／2019.11／202p／NDC 726.1／manga・easy・long
+- ドロヘドロ：Big comics ikki／小学館／2002.3／152p／NDC 726.1／manga・easy・long
+- ナニワトモアレ：ヤンマガKC／講談社／2000.12／193p／NDC 726.1／manga・easy・long
+- 銀と金：ACTION COMICS／双葉社／2014.7／1冊／NDC 726.1／manga・easy・long
+- ケンガンアシュラ：裏少年サンデーコミックス／小学館／2012.12／207p／NDC 726.1／manga・easy・long
+- ホーリーランド：Jets comics／白泉社／2001.7／206p／NDC 726.1／manga・easy・long
+- ひとりずもう：集英社文庫 ; さ24-18／集英社／2019.4／229p／NDC 914.6／nonfiction・easy・short
+- 小さいことにくよくよするな!：サンマーク文庫／サンマーク出版、サンマーク (発売)／2000.7／251p／NDC 159／practical・normal・medium
+- わたしの台所：朝日文庫／朝日新聞社／1990.9／301p／NDC 778.21／nonfiction・easy・medium
+- 老いの楽しみ：岩波現代文庫 : 文芸／岩波書店／2000.1／229p／NDC 778.21／nonfiction・easy・short
+- 私の個人主義：中公クラシックス／中央公論新社／2001.12／377p／NDC 914.6／nonfiction・easy・medium
+- 寺内貫太郎一家：岩波現代文庫 ; B148. 向田邦子シナリオ集 ; 5／岩波書店／2009.8／623p／NDC 912.7／novel・easy・long
+- 食味風々録：新潮文庫／新潮社／2004.4／317p／NDC 914.6／nonfiction・easy・medium
+- すしの本：岩波現代文庫 : 社会／岩波書店／2002.11／303, 6p／NDC 596.21／practical・normal・medium
+- 敗れざる者たち：文春文庫 ; さ2-21／文藝春秋／2021.2／346p／NDC 913.6／nonfiction・normal・medium
+- 檀：新潮文庫／新潮社／2000.8／284p／NDC 913.6／nonfiction・normal・medium
+- 南極越冬記：岩波新書 青版／岩波書店／1979／269p ; 18cm／NDC 402.979／nonfiction・normal・medium
+- 垂直の記憶：ヤマケイ文庫／山と溪谷社／2010.11／286p／NDC 292.58／nonfiction・normal・medium
+- 荒野へ：集英社文庫／集英社／2007.3／334p／NDC 295.394／nonfiction・normal・medium
+- コン・ティキ号探検記：筑摩叢書 ; １４４／筑摩書房／１９８５．５／２３１ｐ ; １９ｃｍ／NDC 290.91／nonfiction・normal・short
+- マオ：叢書なし／講談社／2005.11／562p／NDC 289.2／nonfiction・normal・long
+- ルポ 川崎：新潮文庫 ; い-139-1／新潮社／2021.5／334p／NDC 368.02137／nonfiction・normal・medium
+- コンスタンティノープルの陥落：新潮文庫／新潮社／1991.4／260p／NDC 913.6／novel・normal・medium
+- わが友マキアヴェッリ：中公文庫／中央公論社／1992.10／629p／NDC 913.6／novel・normal・long
+- ローマ帝国衰亡史：ちくま学芸文庫／筑摩書房／1995.12／496, 5p／NDC 232.8／liberal_arts・normal・long
+- 世界史の誕生：ちくま文庫／筑摩書房／1999.8／286p／NDC 209／liberal_arts・normal・medium
+- 13歳からの地政学：叢書なし／東洋経済新報社／2022.3／246p／NDC 312.9／liberal_arts・normal・short
+- 中国の論理：中公新書 ; 2392／中央公論新社／2016.8／232p／NDC 222／liberal_arts・normal・short
+- 理不尽な進化：ちくま文庫 ; よ31-1／筑摩書房／2021.4／448,36p／NDC 467.5／liberal_arts・normal・medium
+- 街場の現代思想：文春文庫／文藝春秋／2008.4／259p／NDC 304／liberal_arts・normal・medium
+- イノベーションと企業家精神：ドラッカー名著集 = P.F.Drucker eternal collection ; 5／ダイヤモンド社／2007.3／324p／NDC 335／practical・normal・medium
+- 問題解決プロフェッショナル：叢書なし／ダイヤモンド社／1997／ページ数不明／NDC 336／practical・normal・medium
+- 企業参謀：講談社文庫／講談社／1985.10／218p／NDC 336.1／practical・normal・short
+- 習慣の力：ハヤカワ文庫 NF ; 542／早川書房／2019.7／422p／NDC 141.75／liberal_arts・normal・medium
+- 十二人の死にたい子どもたち：文春文庫 ; う36-1／文藝春秋／2018.10／495p／NDC 913.6／mystery_sf・normal・long
+- 犬はどこだ：創元推理文庫／東京創元社／2008.2／365p／NDC 913.6／mystery_sf・normal・medium
+- スワン：角川文庫 ; こ52-2／KADOKAWA／2022.7／434p／NDC 913.6／mystery_sf・normal・medium
+- 騙し絵の牙：角川文庫 ; し72-1／KADOKAWA／2019.11／429p／NDC 913.6／mystery_sf・normal・medium
+- 動機：文春文庫／文藝春秋／2002.11／312p／NDC 913.6／mystery_sf・normal・medium
+- 第三の時効：集英社文庫／集英社／2006.3／419p／NDC 913.6／mystery_sf・normal・medium
+- 震度0：朝日文庫／朝日新聞出版／2008.4／483p／NDC 913.6／mystery_sf・normal・long
+- 慈雨：集英社文庫 ; ゆ13-1／集英社／2019.4／406p／NDC 913.6／mystery_sf・normal・medium
+- ドミノ倒し：創元推理文庫 ; Mぬ1-6／東京創元社／2016.6／347p／NDC 913.6／mystery_sf・normal・medium
+- プリズム：創元推理文庫／東京創元社／2003.1／295p／NDC 913.6／mystery_sf・normal・medium
+- ラットマン：光文社文庫／光文社／2010.7／333p／NDC 913.6／mystery_sf・normal・medium
+- 龍神の雨：新潮文庫 ; み-40-3／新潮社／2012.2／410p／NDC 913.6／mystery_sf・normal・medium
+- ブロードキャスト：角川文庫 ; み42-2／KADOKAWA／2021.1／391p／NDC 913.6／novel・easy・medium
