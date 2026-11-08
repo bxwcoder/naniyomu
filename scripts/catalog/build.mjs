@@ -88,6 +88,7 @@ function chooseEdition(candidate, items) {
     (SECONDARY_EDITION.test(`${it.seriesTitle ?? ''} ${it.title}`) ? 2 : 0) -
     (JUVENILE_SERIES.test(it.seriesTitle ?? '') ? 1 : 0) -
     (fewPages(it) ? 2 : 0) -
+    (wantStory && candidate.source !== '日本の名作' && /^912/.test(it.ndc ?? '') ? 2 : 0) - // いまの小説の候補で、ドラマの脚本（912）の版は後回し（近松などの戯曲は除く）
     (/ページ付なし/.test(it.extent ?? '') ? 1 : 0); // 写真集・絵本のような作りが多い
   return [...firsts].sort(
     (a, b) => score(b) - score(a) || b.holdings - a.holdings || String(a.issued).localeCompare(String(b.issued)),

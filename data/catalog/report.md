@@ -1816,7 +1816,7 @@
 - 女たちよ!：新潮文庫／新潮社／2005.3／322p／NDC 049.1／nonfiction・easy・medium
 - 夜中の薔薇：講談社文庫／講談社／1984.1／260p／NDC 914.6／nonfiction・easy・medium
 - 眠る盃：講談社文庫／講談社／1982.6／254p／NDC 914.6／nonfiction・easy・medium
-- あ・うん：岩波現代文庫 ; B144. 向田邦子シナリオ集 ; 1／岩波書店／2009.4／430p／NDC 912.7／novel・easy・medium
+- あ・うん：文春文庫／文藝春秋／2003.8／233p／NDC 913.6／novel・easy・short
 - 思い出トランプ：新潮文庫／新潮社／1983.5／225p／NDC 913.6／novel・normal・short
 - わたしの美しい庭：ポプラ文庫 ; な16-1／ポプラ社／2021.12／308p／NDC 913.6／novel・easy・medium
 - すみれ荘ファミリア：富士見L文庫 ; な-6-1-1／KADOKAWA／2018.7／313p／NDC 913.6／novel・easy・medium
@@ -3239,7 +3239,7 @@
 - わたしの台所：朝日文庫／朝日新聞社／1990.9／301p／NDC 778.21／nonfiction・easy・medium
 - 老いの楽しみ：岩波現代文庫 : 文芸／岩波書店／2000.1／229p／NDC 778.21／nonfiction・easy・short
 - 私の個人主義：中公クラシックス／中央公論新社／2001.12／377p／NDC 914.6／nonfiction・easy・medium
-- 寺内貫太郎一家：岩波現代文庫 ; B148. 向田邦子シナリオ集 ; 5／岩波書店／2009.8／623p／NDC 912.7／novel・easy・long
+- 寺内貫太郎一家：新潮文庫／新潮社／1983.3／295p／NDC 913.6／novel・easy・medium
 - 食味風々録：新潮文庫／新潮社／2004.4／317p／NDC 914.6／nonfiction・easy・medium
 - すしの本：岩波現代文庫 : 社会／岩波書店／2002.11／303, 6p／NDC 596.21／practical・normal・medium
 - 敗れざる者たち：文春文庫 ; さ2-21／文藝春秋／2021.2／346p／NDC 913.6／nonfiction・normal・medium

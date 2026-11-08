@@ -40161,7 +40161,7 @@
     "pages": 254
   },
   {
-    "book_id": "isbn-9784006021443",
+    "book_id": "isbn-9784167277208",
     "title": "あ・うん",
     "author": "向田邦子",
     "genres": [
@@ -40175,17 +40175,17 @@
       "moving"
     ],
     "difficulty": "easy",
-    "length_category": "medium",
+    "length_category": "short",
     "description": "",
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784006021443",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010123688",
+    "isbn": "9784167277208",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004196344",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "岩波書店",
-    "pages": 430
+    "publisher": "文藝春秋",
+    "pages": 233
   },
   {
     "book_id": "isbn-9784101294025",
@@ -78005,7 +78005,7 @@
     "pages": 377
   },
   {
-    "book_id": "isbn-9784006021481",
+    "book_id": "isbn-9784101294018",
     "title": "寺内貫太郎一家",
     "author": "向田邦子",
     "genres": [
@@ -78019,17 +78019,17 @@
       "moving"
     ],
     "difficulty": "easy",
-    "length_category": "long",
+    "length_category": "medium",
     "description": "",
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784006021481",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010551391",
+    "isbn": "9784101294018",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001614391",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "岩波書店",
-    "pages": 623
+    "publisher": "新潮社",
+    "pages": 295
   },
   {
     "book_id": "isbn-9784101110172",
