@@ -84378,5 +84378,599 @@
     "tier": "basic",
     "publisher": "小学館",
     "pages": 334
+  },
+  {
+    "book_id": "isbn-9784253099851",
+    "title": "がきデカ",
+    "author": "山上たつひこ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784253099851",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001907486",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "秋田書店",
+    "pages": 290
+  },
+  {
+    "book_id": "isbn-9784253170109",
+    "title": "マカロニほうれん荘",
+    "author": "鴨川つばめ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784253170109",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002309254",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "秋田書店",
+    "pages": 295
+  },
+  {
+    "book_id": "isbn-9784778011802",
+    "title": "すすめ!!パイレーツ",
+    "author": "江口寿史",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784778011802",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009994658",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館クリエイティブ",
+    "pages": 509
+  },
+  {
+    "book_id": "isbn-9784575720181",
+    "title": "ストップ!!ひばりくん!",
+    "author": "江口寿史",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575720181",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002374803",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 318
+  },
+  {
+    "book_id": "isbn-9784091214201",
+    "title": "月光条例",
+    "author": "藤田和日郎",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091214201",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009433199",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 182
+  },
+  {
+    "book_id": "isbn-9784091273710",
+    "title": "絶対可憐チルドレン",
+    "author": "椎名高志",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091273710",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007975325",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 198
+  },
+  {
+    "book_id": "isbn-9784098501526",
+    "title": "結界師",
+    "author": "田辺イエロウ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784098501526",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030449174",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 366
+  },
+  {
+    "book_id": "isbn-9784091272713",
+    "title": "ハヤテのごとく!",
+    "author": "畑健二郎",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091272713",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007671618",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 182
+  },
+  {
+    "book_id": "isbn-9784757519633",
+    "title": "黒執事",
+    "author": "枢やな",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784757519633",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008492140",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "スクウェア・エニックス",
+    "pages": 184
+  },
+  {
+    "book_id": "isbn-9784065229460",
+    "title": "しゅごキャラ!",
+    "author": "PEACH-PIT",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065229460",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031292133",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784063363258",
+    "title": "ちょびっツ",
+    "author": "CLAMP",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063363258",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002961020",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 179
+  },
+  {
+    "book_id": "isbn-9784086184175",
+    "title": "赤ずきんチャチャ",
+    "author": "彩花みん",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784086184175",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008066719",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 279
+  },
+  {
+    "book_id": "isbn-9784088535616",
+    "title": "姫ちゃんのリボン",
+    "author": "水沢めぐみ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088535616",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011250980",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 195
+  },
+  {
+    "book_id": "isbn-9784086185677",
+    "title": "こどものおもちゃ",
+    "author": "小花美穂",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784086185677",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008423612",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 263
+  },
+  {
+    "book_id": "isbn-9784088561004",
+    "title": "神風怪盗ジャンヌ",
+    "author": "種村有菜",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088561004",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002698633",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 172
+  },
+  {
+    "book_id": "isbn-9784088563800",
+    "title": "満月をさがして",
+    "author": "種村有菜",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088563800",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003649226",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 196
+  },
+  {
+    "book_id": "isbn-9784061786448",
+    "title": "きんぎょ注意報!",
+    "author": "猫部ねこ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061786448",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002176706",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 201
+  },
+  {
+    "book_id": "isbn-9784592178903",
+    "title": "蛍火の杜へ",
+    "author": "緑川ゆき",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784592178903",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004181817",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白泉社",
+    "pages": 163
+  },
+  {
+    "book_id": "isbn-9784592178217",
+    "title": "スキップ・ビート!",
+    "author": "仲村佳樹",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784592178217",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003665576",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白泉社",
+    "pages": 133
+  },
+  {
+    "book_id": "isbn-9784592184317",
+    "title": "会長はメイド様!",
+    "author": "藤原ヒロ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784592184317",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008297258",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白泉社",
+    "pages": 187
+  },
+  {
+    "book_id": "isbn-9784592183013",
+    "title": "ヴァンパイア騎士",
+    "author": "樋野まつり",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784592183013",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007829006",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白泉社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784063419269",
+    "title": "黒崎くんの言いなりになんてならない",
+    "author": "マキノ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063419269",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025495452",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 184
   }
 ]
