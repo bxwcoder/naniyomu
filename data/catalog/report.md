@@ -3475,7 +3475,7 @@
 - ザ・クレーター：手塚治虫傑作選集 ; 1／秋田書店／1990.7／310p／NDC 726.1／manga・easy・long
 - バンパイヤ：サンデー・コミックス／秋田書店／1988.3／192p／NDC 726.1／manga・easy・long
 - ドン・ドラキュラ：Akita top comics wide／秋田書店／2007.8／514p／NDC 726.1／manga・easy・long
-- ユニコ：ぴっかぴかコミックス : カラー版. 手塚治虫こどもまんが名作集／小学館／2004.12／94p／NDC 726.1／manga・easy・long
+- ユニコ：手塚治虫文庫全集 ; BT-020／講談社／2009.11／399p／NDC 726.1／manga・easy・long
 - 21エモン：てんとう虫コミックス／小学館／2018.8／189p／NDC 726.1／manga・easy・long
 - オバケのQ太郎：てんとう虫コミックス／小学館／2015.7／228p／NDC 726.1／manga・easy・long
 - 佐武と市捕物控：このマンガがすごい!comics／宝島社／2017.6／318p／NDC 726.1／manga・easy・long
