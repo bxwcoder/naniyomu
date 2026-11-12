@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-12T22:02:54.944Z
-- 候補：4853冊
-- 入れた本：4433冊
-- 入れなかった本：420冊
+- 検索日時：2026-11-12T22:22:30.924Z
+- 候補：4944冊
+- 入れた本：4520冊
+- 入れなかった本：424冊
 
 ## 入れなかった本
 
@@ -427,6 +427,10 @@
 - 美しい村／堀辰雄（日本の名作）：タイトルが同じで ISBN のある記録がない
 - 食事のせいで、死なないために／マイケル・グレガー（教養の定番）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
 - syunkonカフェごはん／山本ゆり（教養の定番）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
+- 死国／坂東眞砂子（人気の小説）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
+- 狗神／坂東眞砂子（人気の小説）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
+- 瞳の中の大河／沢村凜（人気の小説）：著者が合う記録がない
+- 黄金の王 白銀の王／沢村凜（人気の小説）：著者が合う記録がない
 
 ## 入れた本と選んだ版
 
@@ -4863,3 +4867,90 @@
 - 老人力：ちくま文庫／筑摩書房／2001.9／395p／NDC 914.6／nonfiction・easy・medium
 - ネガティブ・ケイパビリティ：朝日選書 ; 958／朝日新聞出版／2017.4／254p／NDC 146.2／liberal_arts・normal・medium
 - 長いお別れ：文春文庫 ; な68-3／文藝春秋／2018.3／286p／NDC 913.6／novel・easy・medium
+- 四日間の奇蹟：宝島社文庫／宝島社／2004.1／508p／NDC 913.6／novel・easy・long
+- そのときは彼によろしく：小学館文庫／小学館／2007.4／509p／NDC 913.6／novel・easy・long
+- 雲を紡ぐ：文春文庫 ; い102-2／文藝春秋／2022.9／430p／NDC 913.6／novel・easy・medium
+- 彼方の友へ：実業之日本社文庫 ; い16-1／実業之日本社／2020.10／541p／NDC 913.6／novel・easy・long
+- 風待ちのひと：ポプラ文庫 ; い4-1／ポプラ社／2011.4／391p／NDC 913.6／novel・easy・medium
+- スワロウテイル：角川文庫／角川書店／1999.3／251p／NDC 913.6／novel・easy・medium
+- ラストレター：文春文庫 ; い103-2／文藝春秋／2019.9／246p／NDC 913.6／novel・easy・short
+- リップヴァンウィンクルの花嫁：文春文庫 ; い103-1／文藝春秋／2018.10／318p／NDC 913.6／novel・easy・medium
+- パイロットフィッシュ：角川文庫／角川書店／2004.3／247p／NDC 913.6／novel・easy・short
+- 九月の四分の一：新潮文庫／新潮社／2006.3／240p／NDC 913.6／novel・easy・short
+- ピエタ：ポプラ文庫 ; お4-3／ポプラ社／2014.2／385p／NDC 913.6／novel・easy・medium
+- まち：祥伝社文庫 ; お25-4／祥伝社／2022.11／323p／NDC 913.6／novel・easy・medium
+- ライフ：ポプラ文庫 ; お12-10／ポプラ社／2021.7／323p／NDC 913.6／novel・easy・medium
+- ラブレス：新潮文庫 ; さ-82-1／新潮社／2013.12／413p／NDC 913.6／novel・easy・medium
+- 起終点駅：講談社文庫 ; さ128-3／講談社／2024.7／282p／NDC 913.6／novel・easy・medium
+- 硝子の葦：新潮文庫 ; さ-82-2／新潮社／2014.6／303p／NDC 913.6／novel・easy・medium
+- 家族じまい：集英社文庫 ; さ59-3／集英社／2023.6／308p／NDC 913.6／novel・easy・medium
+- 砂上：角川文庫 ; さ59-3／KADOKAWA／2020.7／254p／NDC 913.6／novel・easy・medium
+- 十二歳：講談社文庫／講談社／2007.12／237p／NDC 913.6／novel・easy・short
+- 明日の食卓：角川文庫 ; や50-3／KADOKAWA／2019.2／351p／NDC 913.6／novel・easy・medium
+- 天使は奇跡を希う：文春文庫 ; な75-1／文藝春秋／2016.11／284p／NDC 913.6／novel・easy・medium
+- 夏美のホタル：角川文庫 ; も21-2／KADOKAWA／2014.8／349p／NDC 913.6／novel・easy・medium
+- 津軽百年食堂：小学館文庫 ; も19-2／小学館／2011.1／349p／NDC 913.6／novel・easy・medium
+- 損料屋喜八郎始末控え：文春文庫／文藝春秋／2003.6／368p／NDC 913.6／novel・easy・medium
+- 銀しゃり：小学館文庫 ; や11-1／小学館／2009.7／509p／NDC 913.6／novel・easy・long
+- 月とコーヒー：叢書なし／徳間書店／2019.2／333p／NDC 913.6／novel・easy・medium
+- それからはスープのことばかり考えて暮らした：中公文庫 ; よ39-1／中央公論新社／2009.9／287p／NDC 913.6／novel・easy・medium
+- かたみ歌：新潮文庫／新潮社／2008.2／302p／NDC 913.6／novel・easy・medium
+- 晴れたらいいね：光文社文庫 ; ふ23-4／光文社／2017.8／345p／NDC 913.6／novel・easy・medium
+- おしょりん：ポプラ文庫 ; ふ8-2／ポプラ社／2023.6／325p／NDC 913.6／novel・easy・medium
+- リラの花咲くけものみち：光文社文庫 ; ふ23-7／光文社／2026.6／485p／NDC 913.6／novel・easy・long
+- 桜風堂ものがたり：PHP文芸文庫 ; む1-2／PHP研究所／2019.3／290p／NDC 913.6／novel・easy・long
+- コンビニたそがれ堂：ポプラ文庫ピュアフル ; む-1-1／ポプラ社／2010.1／180p／NDC 913.6／novel・easy・short
+- 凸凹デイズ：文春文庫 ; や42-1／文藝春秋／2009.2／379p／NDC 913.6／novel・easy・medium
+- 笑う招き猫：集英社文庫／集英社／2006.1／288p／NDC 913.6／novel・easy・medium
+- 白い薔薇の淵まで：集英社文庫／集英社／2003.10／237p／NDC 913.6／novel・easy・short
+- 猫背の王子：集英社文庫／集英社／2000.11／222p／NDC 913.6／novel・easy・short
+- ケッヘル：文春文庫 ; な53-2／文藝春秋／2009.5／456p／NDC 913.6／novel・easy・long
+- 花宵道中：新潮文庫 ; み-43-1／新潮社／2009.9／374p／NDC 913.6／novel・easy・medium
+- 校閲ガール：角川文庫 ; み44-1／KADOKAWA／2016.8／233p／NDC 913.6／novel・easy・short
+- 十九、二十：新潮文庫／新潮社／1992.11／254p／NDC 913.6／novel・easy・medium
+- 午後からはワニ日和：文春文庫 ; に19-1／文藝春秋／2012.3／302p／NDC 913.6／mystery_sf・normal・medium
+- 解体諸因：講談社文庫／講談社／1997.12／466p／NDC 913.6／mystery_sf・normal・long
+- 彼女が死んだ夜：角川文庫／角川書店／2000.5／331p／NDC 913.6／mystery_sf・normal・medium
+- 深紅：講談社文庫／講談社／2003.12／454p／NDC 913.6／mystery_sf・normal・long
+- 魔笛：講談社文庫／講談社／2004.9／428p／NDC 913.6／mystery_sf・normal・medium
+- そして夜は甦る：ハヤカワ文庫. JA／早川書房／1995.4／417p／NDC 913.6／mystery_sf・normal・medium
+- さらば長き眠り：ハヤカワ文庫 : JA／早川書房／2000.12／588p／NDC 913.6／mystery_sf・normal・long
+- それまでの明日：ハヤカワ文庫 JA ; 1446／早川書房／2020.9／525p／NDC 913.6／mystery_sf・normal・long
+- 連鎖：講談社文庫／講談社／1994.7／407p／NDC 913.6／mystery_sf・normal・medium
+- 灰色の北壁：講談社文庫／講談社／2008.1／296p／NDC 913.6／mystery_sf・normal・medium
+- 震源：講談社文庫／講談社／1996.10／642p／NDC 913.6／mystery_sf・normal・long
+- ひまわりの祝祭：講談社文庫／講談社／2000.6／530p／NDC 913.6／mystery_sf・normal・long
+- てのひらの闇：文春文庫／文藝春秋／2002.11／459p／NDC 913.6／mystery_sf・normal・long
+- ダックスフントのワープ：文春文庫／文藝春秋／2000.11／302p／NDC 913.6／mystery_sf・normal・medium
+- 狐罠：講談社文庫／講談社／2000.5／511p／NDC 913.6／mystery_sf・normal・long
+- 凶笑面：新潮文庫. 蓮丈那智フィールドファイル ; 1／新潮社／2003.2／334p／NDC 913.6／mystery_sf・normal・medium
+- メビウス・レター：講談社文庫／講談社／2001.2／347p／NDC 913.6／mystery_sf・normal・medium
+- 過ぎ行く風はみどり色：創元推理文庫／東京創元社／2003.7／587p／NDC 913.6／mystery_sf・normal・long
+- 人間の顔は食べづらい：角川文庫 ; し61-1／KADOKAWA／2017.8／346p／NDC 913.6／mystery_sf・normal・medium
+- 東京結合人間：角川文庫 ; し61-2／KADOKAWA／2018.7／397p／NDC 913.6／mystery_sf・normal・medium
+- ロスト・ケア：光文社文庫 ; は36-1／光文社／2015.2／387p／NDC 913.6／mystery_sf・normal・medium
+- 絶叫：叢書なし／光文社／2014.10／522p／NDC 913.6／mystery_sf・normal・long
+- 凍てつく太陽：幻冬舎文庫 ; は-37-1／幻冬舎／2020.8／669p／NDC 913.6／mystery_sf・normal・long
+- 独白するユニバーサル横メルカトル：光文社文庫 ; ひ14-1／光文社／2009.1／318p／NDC 913.6／mystery_sf・normal・medium
+- ダイナー：ポプラ文庫 ; ひ2-1／ポプラ社／2012.10／533p／NDC 913.6／mystery_sf・normal・long
+- 償い：幻冬舎文庫／幻冬舎／2003.6／450p／NDC 913.6／mystery_sf・normal・long
+- 飢えて狼：講談社文庫／講談社／1983.8／353p／NDC 913.6／mystery_sf・normal・medium
+- 裂けて海峡：新潮文庫／新潮社／2004.9／446p／NDC 913.6／mystery_sf・normal・medium
+- 背いて故郷：講談社文庫／講談社／1988.8／433p／NDC 913.6／mystery_sf・normal・medium
+- 行きずりの街：新潮文庫／新潮社／1994.1／356p／NDC 913.6／mystery_sf・normal・medium
+- 地の底のヤマ：講談社文庫 ; に28-12／講談社／2014.11／708p／NDC 913.6／mystery_sf・normal・long
+- 教場：小学館文庫 ; な17-2／小学館／2015.12／324p／NDC 913.6／mystery_sf・normal・medium
+- 傍聞き：双葉文庫 ; な-30-02／双葉社／2011.9／217p／NDC 913.6／mystery_sf・normal・short
+- 陽だまりの偽り：双葉文庫／双葉社／2008.8／293p／NDC 913.6／mystery_sf・normal・medium
+- 最後のトリック：河出文庫 ; ふ10-1／河出書房新社／2014.10／362p／NDC 913.6／mystery_sf・normal・medium
+- 首無の如き祟るもの：講談社文庫 ; み58-3／講談社／2010.5／613p／NDC 913.6／mystery_sf・normal・long
+- 厭魅の如き憑くもの：講談社文庫 ; み58-2／講談社／2009.3／618p／NDC 913.6／mystery_sf・normal・long
+- 山魔の如き嗤うもの：講談社文庫 ; み58-6／講談社／2011.5／566p／NDC 913.6／mystery_sf・normal・long
+- 愚者の毒：祥文社文庫 ; う6-2／祥伝社／2016.11／400p／NDC 913.6／mystery_sf・normal・medium
+- 展望塔のラプンツェル：光文社文庫 ; う23-2／光文社／2022.11／406p／NDC 913.6／mystery_sf・normal・medium
+- 女王はかえらない：宝島社文庫 ; Cふ-6-1／宝島社／2016.1／355p／NDC 913.6／mystery_sf・normal・medium
+- その可能性はすでに考えた：講談社文庫 ; い144-1／講談社／2018.2／391p／NDC 913.6／mystery_sf・normal・medium
+- 探偵が早すぎる：講談社タイガ ; イB-01／講談社／2017.5／278p／NDC 913.6／mystery_sf・normal・long
+- 楽園とは探偵の不在なり：ハヤカワ文庫 JA ; 1538／早川書房／2022.11／392p／NDC 913.6／mystery_sf・normal・medium
+- 恋に至る病：メディアワークス文庫 ; し7-6／KADOKAWA／2020.3／295p／NDC 913.6／mystery_sf・normal・medium
+- 幻の女：角川文庫／角川書店／2003.12／718p／NDC 913.6／mystery_sf・normal・long
