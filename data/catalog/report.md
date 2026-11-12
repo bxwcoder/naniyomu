@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-12T13:25:36.976Z
-- 候補：3570冊
-- 入れた本：3257冊
-- 入れなかった本：313冊
+- 検索日時：2026-11-12T14:00:17.958Z
+- 候補：3611冊
+- 入れた本：3295冊
+- 入れなかった本：316冊
 
 ## 入れなかった本
 
@@ -320,6 +320,9 @@
 - 東京日記／川上弘美（エッセイ定番）：タイトルが同じで ISBN のある記録がない
 - 大工よ、屋根の梁を高く上げよ／J・D・サリンジャー（海外の名作）：タイトルが同じで ISBN のある記録がない
 - 郵便配達夫はいつも二度ベルを鳴らす／ジェームズ・M・ケイン（ミステリー定番）：著者が合う記録がない
+- 黒衣の花嫁／コーネル・ウールリッチ（ミステリー定番）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
+- ペスト大流行／村上陽一郎（教養の定番）：タイトルが同じで ISBN のある記録がない
+- 漢字／白川静（教養の定番）：タイトルが同じで ISBN のある記録がない
 
 ## 入れた本と選んだ版
 
@@ -3580,3 +3583,41 @@
 - さよなら、愛しい人：ハヤカワ・ミステリ文庫 ; HM7-12／早川書房／2011.6／477p／NDC 933.7／mystery_sf・normal・long
 - 高い窓：ハヤカワ・ミステリ文庫／早川書房／1988.9／343p／NDC 933／mystery_sf・normal・medium
 - プレイバック：叢書なし／早川書房／2016.12／319p／NDC 933.7／mystery_sf・normal・medium
+- ポケットにライ麦を：ハヤカワ文庫. クリスティー文庫 ; 40／早川書房／2020.8／371p／NDC 933.7／mystery_sf・normal・medium
+- 予告殺人：ハヤカワ文庫. クリスティー文庫 ; 38／早川書房／2020.5／467p／NDC 933.7／mystery_sf・normal・long
+- 五匹の子豚：ハヤカワ文庫. クリスティー文庫 ; 21(ポアロ)／早川書房／2010.11／414p／NDC 933.7／mystery_sf・normal・medium
+- 葬儀を終えて：ハヤカワ文庫. クリスティー文庫 ; 25／早川書房／2020.10／432p／NDC 933.7／mystery_sf・normal・medium
+- 終りなき夜に生れつく：ハヤカワ文庫. クリスティー文庫 ; 95／早川書房／2011.10／347p／NDC 933.7／mystery_sf・normal・medium
+- カーテン：ハヤカワ文庫. クリスティー文庫 ; 33(ポアロ)／早川書房／2011.10／376p／NDC 933.7／mystery_sf・normal・medium
+- 鏡は横にひび割れて：叢書なし／早川書房／2004.7／ページ数不明／NDC 933.7／mystery_sf・normal・medium
+- パディントン発4時50分：ハヤカワ文庫. クリスティー文庫 ; 41／早川書房／2003.10／421p／NDC 933.7／mystery_sf・normal・medium
+- メソポタミヤの殺人：ハヤカワ文庫. クリスティー文庫 ; 12／早川書房／2003.12／426p／NDC 933.7／mystery_sf・normal・medium
+- ねじれた家：ハヤカワ文庫. クリスティー文庫 ; 87／早川書房／2004.6／383p／NDC 933.7／mystery_sf・normal・medium
+- 失われた世界：光文社古典新訳文庫 ; KAコ8-1／光文社／2016.3／439p／NDC 933.7／mystery_sf・normal・medium
+- ローマ帽子の謎：創元推理文庫／東京創元社／2011.8／453p／NDC 933.7／mystery_sf・normal・long
+- 皇帝のかぎ煙草入れ：創元推理文庫 ; Mカ1-14／東京創元社／2012.5／318p／NDC 933.7／mystery_sf・normal・medium
+- レッド・ドラゴン：ハヤカワ文庫 : NV／早川書房／2002.9／363p／NDC 933.7／mystery_sf・normal・long
+- 天国でまた会おう：ハヤカワ・ミステリ文庫 ; HM 425-1／早川書房／2015.10／334p／NDC 953.7／novel・normal・long
+- 卵をめぐる祖父の戦争：ハヤカワ文庫 ; NV1248／早川書房／2011.12／469p／NDC 933.7／novel・normal・long
+- 11/22/63：文春文庫 ; キ2-49／文藝春秋／2016.10／478p／NDC 933.7／mystery_sf・normal・long
+- アンドロメダ病原体：ハヤカワ文庫 NV ; 1254／早川書房／2012.4／460p／NDC 933.7／mystery_sf・normal・long
+- 量子力学の多世界解釈：ブルーバックス ; B-2219／講談社／2022.12／266p／NDC 421.3／liberal_arts・normal・medium
+- ポアンカレ予想：新潮文庫 ; シ-38-16／新潮社／2014.10／402,98p／NDC 415.7／liberal_arts・normal・medium
+- ガロア：[角川ソフィア文庫] ; [K134-1]／KADOKAWA／2020.1／309p／NDC 289.3／nonfiction,liberal_arts・normal・medium
+- ロウソクの科学：岩波文庫 ; 33-909-1／岩波書店／2010.9／250p／NDC 430.4／liberal_arts・normal・medium
+- 科学と方法：岩波文庫／岩波書店／1979／304,17p ; 15cm／NDC 401／liberal_arts・normal・medium
+- 偶然と必然：叢書なし／みすず書房／1980／236p ; 19cm／NDC 460／liberal_arts・normal・short
+- 神は妄想である：叢書なし／早川書房／2007.5／578p／NDC 160.4／liberal_arts・normal・long
+- 赤の女王：ハヤカワ文庫 NF ; 418／早川書房／2014.10／622p／NDC 469／liberal_arts・normal・long
+- 系統樹思考の世界：講談社現代新書／講談社／2006.7／294p／NDC 116.5／liberal_arts・normal・medium
+- 生物はなぜ死ぬのか：講談社現代新書 ; 2615／講談社／2021.4／217p／NDC 461.1／liberal_arts・normal・short
+- 妻のトリセツ：講談社+α新書 ; 800-1A／講談社／2018.10／148p／NDC 367.3／liberal_arts・normal・short
+- 世界史：中公文庫／中央公論新社／2008.1／457p／NDC 209／liberal_arts・normal・long
+- 人類と感染症の歴史：叢書なし／丸善出版／2013.3／185p／NDC 493.8／liberal_arts・normal・short
+- すばらしい人体：叢書なし／ダイヤモンド社／2021.8／374p／NDC 491.3／liberal_arts・normal・medium
+- からだの錯覚：ブルーバックス ; B-2228／講談社／2023.4／253p／NDC 145.5／liberal_arts・normal・medium
+- アフォーダンス入門：講談社学術文庫／講談社／2008.3／237p／NDC 007.1／liberal_arts・normal・short
+- ことばと思考：岩波新書 ; 新赤版1278／岩波書店／2010.10／227, 5p／NDC 801.04／liberal_arts・normal・short
+- 英語の歴史：中公新書／中央公論新社／2008.10／241p／NDC 830.2／liberal_arts・normal・short
+- 日本語の歴史：岩波新書／岩波書店／2006.5／230p／NDC 810.2／liberal_arts・normal・short
+- 日本語が亡びるとき：ちくま文庫 ; み25-4／筑摩書房／2015.4／460p／NDC 810／liberal_arts・normal・long
