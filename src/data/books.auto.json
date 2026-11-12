@@ -115282,5 +115282,484 @@
     "tier": "basic",
     "publisher": "岩波書店",
     "pages": 354
+  },
+  {
+    "book_id": "isbn-9784761268220",
+    "title": "一流の人に学ぶ自分の磨き方",
+    "author": "スティーブ・シーボルド",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784761268220",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023468350",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "かんき出版",
+    "pages": 237
+  },
+  {
+    "book_id": "isbn-9784763161123",
+    "title": "こうして、思考は現実になる",
+    "author": "パム・グラウト",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784763161123",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029779551",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "サンマーク出版",
+    "pages": 357
+  },
+  {
+    "book_id": "isbn-9784797399967",
+    "title": "ヤバい集中力",
+    "author": "鈴木祐",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784797399967",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029939906",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "SBクリエイティブ",
+    "pages": 263
+  },
+  {
+    "book_id": "isbn-9784106109591",
+    "title": "ストレス脳",
+    "author": "アンデシュ・ハンセン",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784106109591",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032245865",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 255
+  },
+  {
+    "book_id": "isbn-9784122052833",
+    "title": "料理の四面体",
+    "author": "玉村豊男",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122052833",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010825870",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 259
+  },
+  {
+    "book_id": "isbn-9784909044235",
+    "title": "リュウジ式悪魔のレシピ",
+    "author": "リュウジ",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784909044235",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030068114",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ライツ社",
+    "pages": 127
+  },
+  {
+    "book_id": "isbn-9784167915339",
+    "title": "うつ病九段",
+    "author": "先崎学",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167915339",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030465623",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 179
+  },
+  {
+    "book_id": "isbn-9784575524970",
+    "title": "むかしむかしあるところに、死体がありました。",
+    "author": "青柳碧人",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575524970",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031637668",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 293
+  },
+  {
+    "book_id": "isbn-9784065319468",
+    "title": "レーエンデ国物語",
+    "author": "多崎礼",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065319468",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032849049",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 492
+  },
+  {
+    "book_id": "isbn-9784575528053",
+    "title": "残月記",
+    "author": "小田雅久仁",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575528053",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033773189",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 492
+  },
+  {
+    "book_id": "isbn-9784575527179",
+    "title": "犬がいた季節",
+    "author": "伊吹有喜",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575527179",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033229289",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 388
+  },
+  {
+    "book_id": "isbn-9784101207636",
+    "title": "八月の銀の雪",
+    "author": "伊与原新",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101207636",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032818546",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 347
+  },
+  {
+    "book_id": "isbn-9784041134115",
+    "title": "この本を盗む者は",
+    "author": "深緑野分",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041134115",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032821514",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 426
+  },
+  {
+    "book_id": "isbn-9784596541086",
+    "title": "戦場のアリス",
+    "author": "ケイト・クイン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784596541086",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029550740",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ハーパーコリンズ・ジャパン",
+    "pages": 655
+  },
+  {
+    "book_id": "isbn-9784480437983",
+    "title": "ベルリンは晴れているか",
+    "author": "深緑野分",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480437983",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032007160",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 537
+  },
+  {
+    "book_id": "isbn-9784396347185",
+    "title": "ひと",
+    "author": "小野寺史宜",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784396347185",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031365495",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "祥伝社",
+    "pages": 330
+  },
+  {
+    "book_id": "isbn-9784101207629",
+    "title": "月まで三キロ",
+    "author": "伊与原新",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101207629",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031472632",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 361
+  },
+  {
+    "book_id": "isbn-9784101032610",
+    "title": "名もなき星の哀歌",
+    "author": "結城真一郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101032610",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031676798",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 537
   }
 ]
