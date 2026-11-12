@@ -97519,5 +97519,923 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 213
+  },
+  {
+    "book_id": "isbn-9784091814982",
+    "title": "漂流教室",
+    "author": "楳図かずお",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091814982",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009178830",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 741
+  },
+  {
+    "book_id": "isbn-9784091806710",
+    "title": "わたしは真悟",
+    "author": "楳図かずお",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091806710",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001675121",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 213
+  },
+  {
+    "book_id": "isbn-9784091823311",
+    "title": "14歳",
+    "author": "楳図かずお",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091823311",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002052892",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 215
+  },
+  {
+    "book_id": "isbn-9784091227416",
+    "title": "まことちゃん",
+    "author": "楳図かずお",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091227416",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002395130",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 179
+  },
+  {
+    "book_id": "isbn-9784834283112",
+    "title": "おれは鉄兵",
+    "author": "ちばてつや",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784834283112",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002627373",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ホーム社",
+    "pages": 309
+  },
+  {
+    "book_id": "isbn-9784063133080",
+    "title": "紫電改のタカ",
+    "author": "ちばてつや",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063133080",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002054327",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "コミックス",
+    "pages": 305
+  },
+  {
+    "book_id": "isbn-9784063133127",
+    "title": "ハリスの旋風",
+    "author": "ちばてつや",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063133127",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002083464",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "コミックス",
+    "pages": 320
+  },
+  {
+    "book_id": "isbn-9784091312235",
+    "title": "スター・レッド",
+    "author": "萩尾望都",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091312235",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009251126",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 535
+  },
+  {
+    "book_id": "isbn-9784091721716",
+    "title": "残酷な神が支配する",
+    "author": "萩尾望都",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091721716",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002237206",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 202
+  },
+  {
+    "book_id": "isbn-9784091670410",
+    "title": "バルバラ異界",
+    "author": "萩尾望都",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091670410",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004185497",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 189
+  },
+  {
+    "book_id": "isbn-9784091312242",
+    "title": "半神",
+    "author": "萩尾望都",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091312242",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009288008",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 444
+  },
+  {
+    "book_id": "isbn-9784592883012",
+    "title": "銀の三角",
+    "author": "萩尾望都",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784592883012",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002347172",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白泉社",
+    "pages": 316
+  },
+  {
+    "book_id": "isbn-9784592142416",
+    "title": "私を月まで連れてって!",
+    "author": "竹宮惠子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784592142416",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007860540",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白泉社",
+    "pages": 212
+  },
+  {
+    "book_id": "isbn-9784091971579",
+    "title": "ファラオの墓",
+    "author": "竹宮惠子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091971579",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002627371",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 400
+  },
+  {
+    "book_id": "isbn-9784889917871",
+    "title": "舞姫 テレプシコーラ",
+    "author": "山岸凉子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784889917871",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026386161",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "メディアファクトリー",
+    "pages": 222
+  },
+  {
+    "book_id": "isbn-9784091816917",
+    "title": "MASTERキートン",
+    "author": "浦沢直樹",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091816917",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001966447",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 215
+  },
+  {
+    "book_id": "isbn-9784091834010",
+    "title": "Happy!",
+    "author": "浦沢直樹",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091834010",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002309275",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 193
+  },
+  {
+    "book_id": "isbn-9784063728125",
+    "title": "BILLY BAT",
+    "author": "浦沢直樹",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063728125",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010299311",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 189
+  },
+  {
+    "book_id": "isbn-9784098600427",
+    "title": "夢印",
+    "author": "浦沢直樹",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784098600427",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029103979",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 259
+  },
+  {
+    "book_id": "isbn-9784091511010",
+    "title": "1ポンドの福音",
+    "author": "高橋留美子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091511010",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002007878",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 233
+  },
+  {
+    "book_id": "isbn-9784091426284",
+    "title": "チンプイ",
+    "author": "藤子・F・不二雄",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091426284",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028653597",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 222
+  },
+  {
+    "book_id": "isbn-9784091434821",
+    "title": "モジャ公",
+    "author": "藤子・F・不二雄",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091434821",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023352538",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 685
+  },
+  {
+    "book_id": "isbn-9784091923110",
+    "title": "HOTEL",
+    "author": "石ノ森章太郎",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091923110",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002798355",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 306
+  },
+  {
+    "book_id": "isbn-9784063258639",
+    "title": "GREEN",
+    "author": "二ノ宮知子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063258639",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002852468",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 171
+  },
+  {
+    "book_id": "isbn-9784789780063",
+    "title": "天才ファミリー・カンパニー",
+    "author": "二ノ宮知子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784789780063",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002442465",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ソニー・マガジンズ",
+    "pages": 204
+  },
+  {
+    "book_id": "isbn-9784757579620",
+    "title": "黄泉のツガイ",
+    "author": "荒川弘",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784757579620",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032181220",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "スクウェア・エニックス",
+    "pages": 186
+  },
+  {
+    "book_id": "isbn-9784086178730",
+    "title": "てんで性悪キューピッド",
+    "author": "冨樫義博",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784086178730",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003612653",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 338
+  },
+  {
+    "book_id": "isbn-9784091367310",
+    "title": "ラヴァーズ・キス",
+    "author": "吉田秋生",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091367310",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002457291",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 186
+  },
+  {
+    "book_id": "isbn-9784091784810",
+    "title": "河よりも長くゆるやかに",
+    "author": "吉田秋生",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091784810",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001693487",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 206
+  },
+  {
+    "book_id": "isbn-9784592197485",
+    "title": "櫻の園",
+    "author": "吉田秋生",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784592197485",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024793580",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白泉社",
+    "pages": 169
+  },
+  {
+    "book_id": "isbn-9784088655970",
+    "title": "花に染む",
+    "author": "くらもちふさこ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088655970",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010974643",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 204
+  },
+  {
+    "book_id": "isbn-9784086172189",
+    "title": "おしゃべり階段",
+    "author": "くらもちふさこ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784086172189",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002517575",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 389
+  },
+  {
+    "book_id": "isbn-9784086172165",
+    "title": "東京のカサノバ",
+    "author": "くらもちふさこ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784086172165",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002488413",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 295
+  },
+  {
+    "book_id": "isbn-9784088561141",
+    "title": "下弦の月",
+    "author": "矢沢あい",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088561141",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002750800",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 179
   }
 ]

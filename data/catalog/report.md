@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-12T18:23:39.666Z
-- 候補：4006冊
-- 入れた本：3661冊
-- 入れなかった本：345冊
+- 検索日時：2026-11-12T18:32:57.693Z
+- 候補：4041冊
+- 入れた本：3695冊
+- 入れなかった本：346冊
 
 ## 入れなかった本
 
@@ -352,6 +352,7 @@
 - 異星の客／ロバート・A・ハインライン（SF・ファンタジー定番）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
 - 永遠の終り／アイザック・アシモフ（SF・ファンタジー定番）：タイトルが同じで ISBN のある記録がない
 - 茶色の服を着た男／アガサ・クリスティー（ミステリー定番）：タイトルが同じで ISBN のある記録がない
+- 妖精王／山岸凉子（漫画の定番）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
 
 ## 入れた本と選んだ版
 
@@ -4016,3 +4017,37 @@
 - ファミリーポートレイト：講談社文庫 ; さ105-1／講談社／2011.11／703p／NDC 913.6／novel・easy・long
 - 荒野：文春文庫 ; さ50-8／文藝春秋／2017.5／538p／NDC 913.6／novel・easy・long
 - 恋文：叢書なし／新潮社／1984.5／213p／NDC 913.6／novel・easy・short
+- 漂流教室：Big comics special. 楳図パーフェクション! ; 8／小学館／2007.11／741p／NDC 726.1／manga・easy・long
+- わたしは真悟：ビッグコミックス／小学館／1983.12／213p／NDC 726.1／manga・easy・long
+- 14歳：ビッグコミックス／小学館／1990.9／215p／NDC 726.1／manga・easy・long
+- まことちゃん：少年サンデーコミックス・セレクト／小学館／1995.5／179p／NDC 726.1／manga・easy・long
+- おれは鉄兵：ちばてつや全集／ホーム社、集英社 (発売)／1997.11／309p／NDC 726.1／manga・easy・long
+- 紫電改のタカ：講談社コミックス／コミックス／1990.8／305p／NDC 726.1／manga・easy・long
+- ハリスの旋風：講談社コミックス／コミックス／1991.1／320p／NDC 726.1／manga・easy・long
+- スター・レッド：Flower comics special. 萩尾望都perfect selection ; 8／小学館／2008.1／535p／NDC 726.1／manga・easy・long
+- 残酷な神が支配する：PFコミックス／小学館／1993.4／202p／NDC 726.1／manga・easy・long
+- バルバラ異界：Flowers comics／小学館／2003.7／189p／NDC 726.1／manga・easy・long
+- 半神：Flower comics special. 萩尾望都perfect selection ; 9／小学館／2008.3／444p／NDC 726.1／manga・easy・long
+- 銀の三角：白泉社文庫／白泉社／1994.9／316p／NDC 726.1／manga・easy・long
+- 私を月まで連れてって!：Jets comics／白泉社／2005.8／212p／NDC 726.1／manga・easy・long
+- ファラオの墓：小学館叢書／小学館／1997.5／400p／NDC 726.1／manga・easy・long
+- 舞姫 テレプシコーラ：MFコミックス. ダ・ヴィンチシリーズ／メディアファクトリー／2001.7／222p／NDC 726.1／manga・easy・long
+- MASTERキートン：ビッグコミックス／小学館／1989.1／215p／NDC 726.1／manga・easy・long
+- Happy!：ビッグコミックス／小学館／1994.4／193p／NDC 726.1／manga・easy・long
+- BILLY BAT：モーニングKC ; 1812／講談社／2009.6／189p／NDC 726.1／manga・easy・long
+- 夢印：BIG COMICS SPECIAL／小学館／2018.8／259p／NDC 726.1／manga・easy・long
+- 1ポンドの福音：ヤングサンデーコミックス／小学館／1989.8／233p／NDC 726.1／manga・easy・long
+- チンプイ：てんとう虫コミックス／小学館／2017.12／222p／NDC 726.1／manga・easy・long
+- モジャ公：藤子・F・不二雄大全集 = The Complete Works of Fujiko・F・Fujio／小学館／2012.1／685p／NDC 726.1／manga・easy・long
+- HOTEL：小学館文庫／小学館／1998.11／306p／NDC 726.1／manga・easy・long
+- GREEN：講談社コミックスキス／講談社／2000.1／171p／NDC 726.1／manga・easy・long
+- 天才ファミリー・カンパニー：ソニー・マガジンズコミックス. きみとぼくcollection／ソニー・マガジンズ／1995.11／204p／NDC 726.1／manga・easy・long
+- 黄泉のツガイ：ガンガンコミックス／スクウェア・エニックス／2022.6／186 p／NDC 726.1／manga・easy・long
+- てんで性悪キューピッド：集英社文庫 : コミック版／集英社／2002.11／338p／NDC 726.1／manga・easy・long
+- ラヴァーズ・キス：フラワーコミックス／小学館／1995.12／186p／NDC 726.1／manga・easy・long
+- 河よりも長くゆるやかに：PFビッグコミックス／小学館／1984.5／206p／NDC 726.1／manga・easy・long
+- 櫻の園：HC SPECIAL／白泉社／2013.9／169p／NDC 726.1／manga・easy・long
+- 花に染む：Queen's comics／集英社／2010.8／204p／NDC 726.1／manga・easy・long
+- おしゃべり階段：集英社文庫 コミック版／集英社／1996.8／389p／NDC 726.1／manga・easy・long
+- 東京のカサノバ：集英社文庫 コミック版／集英社／1996.6／295p／NDC 726.1／manga・easy・long
+- 下弦の月：りぼんマスコットコミックス／集英社／1998.12／179p／NDC 726.1／manga・easy・long
