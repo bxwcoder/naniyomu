@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-12T18:32:57.693Z
-- 候補：4041冊
-- 入れた本：3695冊
-- 入れなかった本：346冊
+- 検索日時：2026-11-12T18:50:03.327Z
+- 候補：4086冊
+- 入れた本：3739冊
+- 入れなかった本：347冊
 
 ## 入れなかった本
 
@@ -353,6 +353,7 @@
 - 永遠の終り／アイザック・アシモフ（SF・ファンタジー定番）：タイトルが同じで ISBN のある記録がない
 - 茶色の服を着た男／アガサ・クリスティー（ミステリー定番）：タイトルが同じで ISBN のある記録がない
 - 妖精王／山岸凉子（漫画の定番）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
+- 漂流／吉村昭（日本の名作）：タイトルが同じで ISBN のある記録がない
 
 ## 入れた本と選んだ版
 
@@ -4051,3 +4052,47 @@
 - おしゃべり階段：集英社文庫 コミック版／集英社／1996.8／389p／NDC 726.1／manga・easy・long
 - 東京のカサノバ：集英社文庫 コミック版／集英社／1996.6／295p／NDC 726.1／manga・easy・long
 - 下弦の月：りぼんマスコットコミックス／集英社／1998.12／179p／NDC 726.1／manga・easy・long
+- 戦艦武蔵：新潮文庫 ; よ-5-1／新潮社／Mon, 4 Nov 2002 09:00:00 +0900／280p ; 16cm／NDC 913.6／novel・normal・medium
+- 破獄：新潮文庫／新潮社／1986.12／371p／NDC 913.6／novel・normal・medium
+- 羆嵐：新潮文庫／新潮社／1982.11／226p／NDC 913.6／novel・normal・short
+- 高熱隧道：叢書なし／新潮社／2010.7／ページ数不明／NDC 913.6／novel・normal・medium
+- 冷い夏、熱い夏：新潮文庫／新潮社／1990.6／267p／NDC 913.6／novel・normal・medium
+- 長英逃亡：新潮文庫／新潮社／1989.9／2冊／NDC 913.6／novel・normal・medium
+- 桜田門外ノ変：新潮文庫／新潮社／1995.4／322p／NDC 913.6／novel・normal・long
+- ふぉん・しいほるとの娘：新潮文庫／新潮社／1993.3／632p／NDC 913.6／novel・normal・long
+- 零式戦闘機：叢書なし／新潮社／1988.7／ページ数不明／NDC 913.6／novel・normal・medium
+- 天狗争乱：新潮文庫／新潮社／1997.6／555p／NDC 913.6／novel・normal・long
+- 生麦事件：新潮文庫／新潮社／2002.6／312p／NDC 913.6／novel・normal・long
+- 冬の鷹：新潮文庫／新潮社／2012.9／429p／NDC 913.6／novel・normal・medium
+- 間宮林蔵：講談社文庫／講談社／1987.1／461p／NDC 913.6／novel・normal・long
+- 大黒屋光太夫：新潮文庫／新潮社／2005.6／308p／NDC 913.6／novel・normal・long
+- 星への旅：新潮文庫 ; よ-5-2／新潮社／2013.10／384p／NDC 913.6／novel・normal・medium
+- 破船：新潮文庫／新潮社／1985.3／227p／NDC 913.6／novel・normal・short
+- 陸奥爆沈：叢書なし／新潮社／1995.6／ページ数不明／NDC 913.6／novel・normal・medium
+- 深海の使者：文春文庫 ; よ1-49／文藝春秋／2011.3／427p／NDC 913.6／novel・normal・medium
+- 関東大震災：文春文庫／文藝春秋／2004.8／347p／NDC 210.69／nonfiction・normal・medium
+- 三陸海岸大津波：文春文庫／文藝春秋／2004.3／191p／NDC 212／nonfiction・normal・short
+- 海の史劇：新潮文庫／新潮社／1981.5／557p／NDC 913.6／nonfiction・normal・long
+- マッハの恐怖：新潮文庫／新潮社／1986.5／495p／NDC 687.7／nonfiction・normal・long
+- 犠牲：文春文庫／文藝春秋／1999.6／294p／NDC 916／nonfiction・normal・medium
+- 空白の天気図：新潮文庫／新潮社／1981.7／443p／NDC 916／nonfiction・normal・medium
+- 撃墜：講談社文庫／講談社／1991.8／404p／NDC 916／nonfiction・normal・long
+- 不当逮捕：岩波現代文庫 : 社会／岩波書店／2000.3／433p／NDC 913.6／nonfiction・normal・medium
+- 誘拐：ちくま文庫／筑摩書房／2005.10／361p／NDC 368.62／nonfiction・normal・medium
+- オーパ!：叢書なし／集英社／2010.4／301p／NDC 915.6／nonfiction・normal・medium
+- ベトナム戦記：朝日文庫／朝日新聞社／1990.10／300p／NDC 302.231／nonfiction・normal・medium
+- 旅する巨人：文春文庫 ; さ11-8／文藝春秋／2009.4／516, 9p／NDC 289.1／nonfiction・normal・long
+- 日本共産党の研究：講談社文庫／講談社／1983.5／448p／NDC 315.1／nonfiction・normal・long
+- 脳死：叢書なし／中央公論社／1986.10／489p／NDC 490.15／nonfiction・normal・long
+- 天皇と東大：文春文庫 ; た5-19／文藝春秋／2012.12／538p／NDC 210.6／nonfiction・normal・long
+- 青春漂流：講談社文庫／講談社／1988.6／278p／NDC 159.7／nonfiction・normal・medium
+- 放送禁止歌：知恵の森文庫／光文社／2003.6／256p／NDC 767.8／nonfiction・normal・medium
+- 死刑：角川文庫 ; も13-6／角川書店、角川グループホールディングス (発売)／2013.5／361p／NDC 326.41／nonfiction・normal・medium
+- 原民喜：岩波新書 新赤版 ; 1727／岩波書店／2018.7／275p／NDC 910.268／nonfiction・normal・medium
+- 南京事件を調査せよ：文春文庫 ; し64-1／文藝春秋／2017.12／319p／NDC 210.74／nonfiction・normal・medium
+- 雪男は向こうからやって来た：集英社文庫 ; か60-2／集英社／2013.11／358p／NDC 292.58／nonfiction・normal・medium
+- 西南シルクロードは密林に消える：講談社文庫 ; た116-1／講談社／2009.11／533p／NDC 292.234／nonfiction・normal・long
+- イスラム飲酒紀行：講談社文庫 ; た116-4／講談社／2014.7／331p 図版16p／NDC 292.709／nonfiction・normal・medium
+- 移民の宴：講談社文庫 ; た116-5／講談社／2015.9／397p 図版8枚／NDC 383.81／nonfiction・normal・medium
+- 日本三文オペラ：新潮文庫 ; か-5-2／新潮社／2011.3／346p ; 16cm／NDC 913.6／novel・normal・medium
+- 珠玉：文春文庫／文芸春秋／1993.1／205p／NDC 913.6／novel・normal・short

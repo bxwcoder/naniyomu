@@ -98437,5 +98437,1173 @@
     "tier": "basic",
     "publisher": "集英社",
     "pages": 179
+  },
+  {
+    "book_id": "isbn-9784101117010",
+    "title": "戦艦武蔵",
+    "author": "吉村昭",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101117010",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I18111103331044",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 280
+  },
+  {
+    "book_id": "isbn-9784101117218",
+    "title": "破獄",
+    "author": "吉村昭",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101117218",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001839174",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 371
+  },
+  {
+    "book_id": "isbn-9784101117133",
+    "title": "羆嵐",
+    "author": "吉村昭",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101117133",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001596220",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 226
+  },
+  {
+    "book_id": "isbn-9784101117034",
+    "title": "高熱隧道",
+    "author": "吉村昭",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101117034",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909801159971",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784101117270",
+    "title": "冷い夏、熱い夏",
+    "author": "吉村昭",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101117270",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002053073",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 267
+  },
+  {
+    "book_id": "isbn-9784101117256",
+    "title": "長英逃亡",
+    "author": "吉村昭",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101117256",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002009030",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784101117331",
+    "title": "桜田門外ノ変",
+    "author": "吉村昭",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101117331",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002406892",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 322
+  },
+  {
+    "book_id": "isbn-9784101117317",
+    "title": "ふぉん・しいほるとの娘",
+    "author": "吉村昭",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101117317",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002249445",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 632
+  },
+  {
+    "book_id": "isbn-9784101117065",
+    "title": "零式戦闘機",
+    "author": "吉村昭",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101117065",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971712334753023897",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784101117386",
+    "title": "天狗争乱",
+    "author": "吉村昭",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101117386",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002615500",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 555
+  },
+  {
+    "book_id": "isbn-9784101117423",
+    "title": "生麦事件",
+    "author": "吉村昭",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101117423",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003650231",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 312
+  },
+  {
+    "book_id": "isbn-9784101117058",
+    "title": "冬の鷹",
+    "author": "吉村昭",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101117058",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023970630",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 429
+  },
+  {
+    "book_id": "isbn-9784061839120",
+    "title": "間宮林蔵",
+    "author": "吉村昭",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061839120",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001841725",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 461
+  },
+  {
+    "book_id": "isbn-9784101117478",
+    "title": "大黒屋光太夫",
+    "author": "吉村昭",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101117478",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007767918",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 308
+  },
+  {
+    "book_id": "isbn-9784101117027",
+    "title": "星への旅",
+    "author": "吉村昭",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101117027",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024963794",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 384
+  },
+  {
+    "book_id": "isbn-9784101117188",
+    "title": "破船",
+    "author": "吉村昭",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101117188",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001736735",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 227
+  },
+  {
+    "book_id": "isbn-9784101117072",
+    "title": "陸奥爆沈",
+    "author": "吉村昭",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101117072",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971149384851820835",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784167169497",
+    "title": "深海の使者",
+    "author": "吉村昭",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167169497",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011135575",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 427
+  },
+  {
+    "book_id": "isbn-9784167169411",
+    "title": "関東大震災",
+    "author": "吉村昭",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167169411",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007436884",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 347
+  },
+  {
+    "book_id": "isbn-9784167169404",
+    "title": "三陸海岸大津波",
+    "author": "吉村昭",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167169404",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004388068",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 191
+  },
+  {
+    "book_id": "isbn-9784101117102",
+    "title": "海の史劇",
+    "author": "吉村昭",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101117102",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001506256",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 557
+  },
+  {
+    "book_id": "isbn-9784101249056",
+    "title": "マッハの恐怖",
+    "author": "柳田邦男",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101249056",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001802741",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 495
+  },
+  {
+    "book_id": "isbn-9784167240158",
+    "title": "犠牲",
+    "author": "柳田邦男",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167240158",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002796047",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 294
+  },
+  {
+    "book_id": "isbn-9784101249018",
+    "title": "空白の天気図",
+    "author": "柳田邦男",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101249018",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001515197",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 443
+  },
+  {
+    "book_id": "isbn-9784061849761",
+    "title": "撃墜",
+    "author": "柳田邦男",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061849761",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002439343",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 404
+  },
+  {
+    "book_id": "isbn-9784006030100",
+    "title": "不当逮捕",
+    "author": "本田靖春",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784006030100",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002883721",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 433
+  },
+  {
+    "book_id": "isbn-9784480421548",
+    "title": "誘拐",
+    "author": "本田靖春",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480421548",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007963733",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 361
+  },
+  {
+    "book_id": "isbn-9784087814392",
+    "title": "オーパ!",
+    "author": "開高健",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087814392",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010860409",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 301
+  },
+  {
+    "book_id": "isbn-9784022606075",
+    "title": "ベトナム戦記",
+    "author": "開高健",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022606075",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002069340",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞社",
+    "pages": 300
+  },
+  {
+    "book_id": "isbn-9784167340087",
+    "title": "旅する巨人",
+    "author": "佐野眞一",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167340087",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010084756",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 516
+  },
+  {
+    "book_id": "isbn-9784061830417",
+    "title": "日本共産党の研究",
+    "author": "立花隆",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061830417",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001620262",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 448
+  },
+  {
+    "book_id": "isbn-9784120015281",
+    "title": "脳死",
+    "author": "立花隆",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784120015281",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001826347",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 489
+  },
+  {
+    "book_id": "isbn-9784167330194",
+    "title": "天皇と東大",
+    "author": "立花隆",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167330194",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024082629",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 538
+  },
+  {
+    "book_id": "isbn-9784061842236",
+    "title": "青春漂流",
+    "author": "立花隆",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061842236",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001922061",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 278
+  },
+  {
+    "book_id": "isbn-9784334782252",
+    "title": "放送禁止歌",
+    "author": "森達也",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334782252",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004162242",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 256
+  },
+  {
+    "book_id": "isbn-9784041008812",
+    "title": "死刑",
+    "author": "森達也",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041008812",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024430021",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 361
+  },
+  {
+    "book_id": "isbn-9784004317272",
+    "title": "原民喜",
+    "author": "梯久美子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004317272",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029060577",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 275
+  },
+  {
+    "book_id": "isbn-9784167909864",
+    "title": "南京事件を調査せよ",
+    "author": "清水潔",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167909864",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028649952",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 319
+  },
+  {
+    "book_id": "isbn-9784087451405",
+    "title": "雪男は向こうからやって来た",
+    "author": "角幡唯介",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087451405",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024970653",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 358
+  },
+  {
+    "book_id": "isbn-9784062765015",
+    "title": "西南シルクロードは密林に消える",
+    "author": "高野秀行",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062765015",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010614823",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 533
+  },
+  {
+    "book_id": "isbn-9784062778763",
+    "title": "イスラム飲酒紀行",
+    "author": "高野秀行",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062778763",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025543965",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 331
+  },
+  {
+    "book_id": "isbn-9784062931830",
+    "title": "移民の宴",
+    "author": "高野秀行",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062931830",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026706878",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 397
+  },
+  {
+    "book_id": "isbn-9784101128023",
+    "title": "日本三文オペラ",
+    "author": "開高健",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101128023",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I47111100785030",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 346
+  },
+  {
+    "book_id": "isbn-9784167127114",
+    "title": "珠玉",
+    "author": "開高健",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167127114",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002231768",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 205
   }
 ]
