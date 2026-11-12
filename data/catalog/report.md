@@ -1,8 +1,8 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-12T14:00:17.958Z
-- 候補：3611冊
-- 入れた本：3295冊
+- 検索日時：2026-11-12T14:19:12.930Z
+- 候補：3650冊
+- 入れた本：3334冊
 - 入れなかった本：316冊
 
 ## 入れなかった本
@@ -3621,3 +3621,42 @@
 - 英語の歴史：中公新書／中央公論新社／2008.10／241p／NDC 830.2／liberal_arts・normal・short
 - 日本語の歴史：岩波新書／岩波書店／2006.5／230p／NDC 810.2／liberal_arts・normal・short
 - 日本語が亡びるとき：ちくま文庫 ; み25-4／筑摩書房／2015.4／460p／NDC 810／liberal_arts・normal・long
+- 秋の牢獄：角川ホラー文庫 ; Hつ1-3／角川書店、角川グループパブリッシング (発売)／2010.9／217p／NDC 913.6／mystery_sf・normal・short
+- 草祭：新潮文庫 ; つ-27-1／新潮社／2011.5／358p／NDC 913.6／mystery_sf・normal・medium
+- 金色の獣、彼方に向かう：双葉文庫 ; つ-10-01／双葉社／2014.11／298p／NDC 913.6／mystery_sf・normal・medium
+- ぼっけえ、きょうてえ：角川ホラー文庫／角川書店／2002.7／211p／NDC 913.6／mystery_sf・normal・short
+- ループ：角川ホラー文庫／角川書店／2000.9／431p／NDC 913.6／mystery_sf・normal・medium
+- 仄暗い水の底から：角川ホラー文庫／角川書店／1997.9／275p／NDC 913.6／mystery_sf・normal・medium
+- BRAIN VALLEY：角川文庫／角川書店／2000.12／486p／NDC 913.6／mystery_sf・normal・long
+- ずうのめ人形：角川ホラー文庫 ; Hさ4-2／KADOKAWA／2018.7／455p／NDC 913.6／mystery_sf・normal・long
+- ししりばの家：角川ホラー文庫 ; さ4-4／KADOKAWA／2020.1／340p／NDC 913.6／mystery_sf・normal・medium
+- 罪の余白：角川文庫 ; あ66-1／KADOKAWA／2015.4／309p／NDC 913.6／mystery_sf・normal・medium
+- 神の悪手：新潮文庫 ; あ-97-3／新潮社／2024.6／260p／NDC 913.6／mystery_sf・normal・medium
+- 悪いものが、来ませんように：角川文庫 ; あ66-2／KADOKAWA／2016.8／299p／NDC 913.6／mystery_sf・normal・medium
+- 奇面館の殺人：講談社文庫 ; あ52-26／講談社／2015.4／359p／NDC 913.6／mystery_sf・normal・long
+- どんどん橋、落ちた：講談社文庫 ; あ52-28／講談社／2017.2／483p／NDC 913.6／mystery_sf・normal・long
+- 眩暈：講談社文庫／講談社／1995.10／707p／NDC 913.6／mystery_sf・normal・long
+- 水晶のピラミッド：講談社文庫／講談社／1994.12／741p／NDC 913.6／mystery_sf・normal・long
+- 龍臥亭事件：光文社文庫／光文社／1999.10／577p／NDC 913.6／mystery_sf・normal・long
+- ロシア紅茶の謎：講談社文庫／講談社／1997.7／337p／NDC 913.6／mystery_sf・normal・medium
+- スウェーデン館の謎：講談社文庫／講談社／1998.5／386p／NDC 913.6／mystery_sf・normal・medium
+- ブラジル蝶の謎：講談社文庫／講談社／1999.5／333p／NDC 913.6／mystery_sf・normal・medium
+- 乱鴉の島：新潮文庫 ; あ-46-5／新潮社／2010.2／511p／NDC 913.6／mystery_sf・normal・long
+- 黒猫の三角：講談社文庫／講談社／2002.7／456p／NDC 913.6／mystery_sf・normal・long
+- 少女不十分：講談社文庫 ; に32-20. [西尾維新文庫]／講談社／2015.11／327p／NDC 913.6／novel・easy・medium
+- 煙か土か食い物：講談社文庫／講談社／2004.12／342p／NDC 913.6／mystery_sf・normal・medium
+- 阿修羅ガール：新潮文庫／新潮社／2005.5／367p／NDC 913.6／novel・easy・medium
+- 好き好き大好き超愛してる。：講談社文庫／講談社／2008.6／187p／NDC 913.6／novel・easy・short
+- 九十九十九：講談社文庫／講談社／2007.1／611p／NDC 913.6／mystery_sf・normal・long
+- コズミック：講談社ノベルス／講談社／1996.9／709p／NDC 913.6／mystery_sf・normal・long
+- 六枚のとんかつ：講談社文庫／講談社／2002.1／442p／NDC 913.6／mystery_sf・normal・medium
+- 美濃牛：講談社文庫／講談社／2003.4／770p／NDC 913.6／mystery_sf・normal・long
+- 黒い仏：講談社文庫／講談社／2004.1／317p／NDC 913.6／mystery_sf・normal・medium
+- 星降り山荘の殺人：講談社文庫／講談社／1999.8／493p／NDC 913.6／mystery_sf・normal・long
+- 日曜の夜は出たくない：創元推理文庫／東京創元社／1998.1／411p／NDC 913.6／mystery_sf・normal・medium
+- 密閉教室：講談社文庫／講談社／1991.9／362p／NDC 913.6／mystery_sf・normal・medium
+- ガラスの麒麟：講談社文庫／講談社／2000.6／365p／NDC 913.6／mystery_sf・normal・medium
+- 月曜日の水玉模様：集英社文庫／集英社／2001.10／268p／NDC 913.6／mystery_sf・normal・medium
+- カーテンコール!：新潮文庫 ; か-90-1／新潮社／2020.9／338p／NDC 913.6／novel・easy・medium
+- 幸福な朝食：新潮文庫／新潮社／1996.10／307p／NDC 913.6／mystery_sf・normal・medium
+- 花散る頃の殺人：新潮文庫／新潮社／2001.8／313p／NDC 913.6／mystery_sf・normal・medium
