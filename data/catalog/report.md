@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-12T20:46:51.596Z
-- 候補：4584冊
-- 入れた本：4182冊
-- 入れなかった本：402冊
+- 検索日時：2026-11-12T20:59:59.615Z
+- 候補：4626冊
+- 入れた本：4223冊
+- 入れなかった本：403冊
 
 ## 入れなかった本
 
@@ -409,6 +409,7 @@
 - 赤い影法師／柴田錬三郎（日本の名作）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
 - 図々しい奴／柴田錬三郎（日本の名作）：タイトルが同じで ISBN のある記録がない
 - 留学／遠藤周作（日本の名作）：タイトルが同じで ISBN のある記録がない
+- 超整理法／野口悠紀雄（教養の定番）：候補リストの別の行と同じ本
 
 ## 入れた本と選んだ版
 
@@ -4594,3 +4595,44 @@
 - 日本の黒い霧：文春文庫／文藝春秋／2004.12／413p／NDC 210.76／nonfiction・normal・long
 - 昭和史発掘：文春文庫／文藝春秋／2005.3／417p／NDC 913.6／nonfiction・normal・long
 - 女の一生：新潮文庫／新潮社／1986.3／2冊／NDC 913.6／novel・normal・medium
+- 女性の品格：PHP新書／PHP研究所／2006.10／225p／NDC 159.6／practical・normal・short
+- 社会認識の歩み：岩波新書 青版 ; 798／岩波書店／1979／209p ; 18cm／NDC 301.6／liberal_arts・normal・short
+- 大往生：岩波新書／岩波書店／1994.3／199p／NDC 159／practical・normal・short
+- 頭のよい子が育つ家：文春文庫 ; し49-1／文藝春秋／2010.3／259p／NDC 527.04／liberal_arts・normal・medium
+- ウェブ進化論：ちくま新書／筑摩書房／2006.2／249p／NDC 007.3／liberal_arts・normal・short
+- 若者はなぜ3年で辞めるのか?：光文社新書／光文社／2006.9／231p／NDC 366.021／liberal_arts・normal・short
+- 反貧困：岩波新書／岩波書店／2008.4／224, 2p／NDC 368.2／liberal_arts・normal・short
+- 日本の難点：幻冬舎新書 ; 122／幻冬舎／2009.4／286p／NDC 304／liberal_arts・normal・medium
+- 新・戦争論：文春新書 ; 1000／文藝春秋／2014.11／255p／NDC 304／liberal_arts・normal・medium
+- サラ金の歴史：中公新書 ; 2634／中央公論新社／2021.2／344p／NDC 338.77／practical・normal・medium
+- 物価とは何か：講談社選書メチエ ; 758／講談社／2022.1／333p／NDC 337.81／practical・normal・medium
+- 現代日本の転機：NHKブックス ; 1140／日本放送出版協会／2009.8／281p／NDC 302.1／liberal_arts・normal・medium
+- ゲンロン戦記：中公新書ラクレ ; 709／中央公論新社／2020.12／277p／NDC 023.067／liberal_arts・normal・medium
+- コンビニ外国人：新潮新書 ; 767／新潮社／2018.5／223p／NDC 366.89／liberal_arts・normal・short
+- 人口減少時代の土地問題：中公新書 ; 2446／中央公論新社／2017.7／191p／NDC 334.6／liberal_arts・normal・short
+- 中国化する日本：文春文庫 ; よ35-1／文藝春秋／2014.4／395p／NDC 210.1822／liberal_arts・normal・medium
+- 日本型雇用の真実：ちくま新書 ; 1015／筑摩書房／2013.6／222p／NDC 366.021／liberal_arts・normal・short
+- サピエンス異変：叢書なし／飛鳥新社／2018.12／334p／NDC 469／liberal_arts・normal・medium
+- ヤンキー経済：幻冬舎新書 ; は-10-1／幻冬舎／2014.1／220p／NDC 367.68／liberal_arts・normal・short
+- 戦争の日本近現代史：講談社現代新書／講談社／2002.3／293p／NDC 210.6／liberal_arts・normal・medium
+- 陰謀の日本中世史：角川新書 ; K-196／KADOKAWA／2018.3／343p／NDC 210.38／liberal_arts・normal・medium
+- ヒトラー：岩波新書 新赤版 ; 1895／岩波書店／2021.9／362,8p／NDC 289.3／nonfiction,liberal_arts・normal・medium
+- ミカドの肖像：新潮文庫／新潮社／1992.2／417p／NDC 312.1／nonfiction・normal・long
+- 自動車絶望工場：講談社文庫／講談社／1983.9／308p／NDC 366.8／nonfiction・normal・medium
+- おひとりさまの老後：文春文庫 ; う28-1／文藝春秋／2011.12／285p／NDC 367.75／nonfiction・normal・medium
+- 妻たちの二・二六事件：中公文庫 ; さ27-3／中央公論新社／2017.12／283p／NDC 210.7／nonfiction・normal・medium
+- 墜落の夏：中公文庫 ; よ20-2／中央公論新社／2025.6／373p／NDC 687.7／nonfiction・normal・medium
+- コリアン世界の旅：講談社+α文庫／講談社／1999.1／486p／NDC 316.81／nonfiction・normal・long
+- カウントダウン・メルトダウン：文春文庫 ; ふ42-1／文藝春秋／2016.1／578p／NDC 543.5／nonfiction・normal・long
+- 死の淵を見た男：角川文庫 ; か63-7／KADOKAWA／2016.10／496p／NDC 543.5／nonfiction・normal・long
+- 1976年のアントニオ猪木：叢書なし／文藝春秋／2007.3／406p／NDC 788.2／nonfiction・normal・medium
+- 絶対音感：新潮文庫／新潮社／2006.5／430p／NDC 141.22／nonfiction・normal・medium
+- 星新一：新潮文庫 ; さ-53-5／新潮社／2010.4／404p／NDC 910.268／nonfiction・normal・long
+- 目の見えない白鳥さんとアートを見にいく：叢書なし／集英社インターナショナル、集英社／2021.9／335p／NDC 707.9／nonfiction・normal・medium
+- ナツコ：文春文庫／文藝春秋／2007.10／459p／NDC 289.1／nonfiction・normal・long
+- ヤノマミ：新潮文庫 ; こ-59-1／新潮社／2013.11／375p／NDC 382.62／nonfiction・normal・medium
+- 原爆供養塔：文春文庫 ; ほ24-1／文藝春秋／2018.7／430p／NDC 210.75／nonfiction・normal・medium
+- ネットと愛国：講談社+α文庫 ; G264-1／講談社／2015.11／501p／NDC 361.65／nonfiction・normal・long
+- ユニクロ潜入一年：文春文庫 ; よ32-2／文藝春秋／2020.8／388p／NDC 589.2／nonfiction・normal・medium
+- 日本を捨てた男たち：集英社文庫 ; み49-1／集英社／2013.11／303p／NDC 334.51／nonfiction・normal・medium
+- 弱くても勝てます：新潮文庫 ; た-86-5／新潮社／2014.3／241p／NDC 783.7／nonfiction・normal・short
