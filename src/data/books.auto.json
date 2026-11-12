@@ -89737,5 +89737,815 @@
     "tier": "basic",
     "publisher": "小学館",
     "pages": 215
+  },
+  {
+    "book_id": "isbn-9784102142127",
+    "title": "その名にちなんで",
+    "author": "ジュンパ・ラヒリ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102142127",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009157538",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 468
+  },
+  {
+    "book_id": "isbn-9784105901103",
+    "title": "低地",
+    "author": "ジュンパ・ラヒリ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784105901103",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025632342",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 477
+  },
+  {
+    "book_id": "isbn-9784105901202",
+    "title": "べつの言葉で",
+    "author": "ジュンパ・ラヒリ",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784105901202",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026737678",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 136
+  },
+  {
+    "book_id": "isbn-9784151200793",
+    "title": "千の輝く太陽",
+    "author": "カーレド・ホッセイニ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151200793",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025608389",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 514
+  },
+  {
+    "book_id": "isbn-9784151200434",
+    "title": "君のためなら千回でも",
+    "author": "カーレド・ホッセイニ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151200434",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009226379",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 305
+  },
+  {
+    "book_id": "isbn-9784151200342",
+    "title": "わたしたちが孤児だったころ",
+    "author": "カズオ・イシグロ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151200342",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008142480",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 537
+  },
+  {
+    "book_id": "isbn-9784151200106",
+    "title": "遠い山なみの光",
+    "author": "カズオ・イシグロ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151200106",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003019956",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 275
+  },
+  {
+    "book_id": "isbn-9784151200397",
+    "title": "浮世の画家",
+    "author": "カズオ・イシグロ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151200397",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008374349",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 319
+  },
+  {
+    "book_id": "isbn-9784151200632",
+    "title": "夜想曲集",
+    "author": "カズオ・イシグロ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151200632",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011106212",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 319
+  },
+  {
+    "book_id": "isbn-9784151200915",
+    "title": "忘れられた巨人",
+    "author": "カズオ・イシグロ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151200915",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028549796",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 490
+  },
+  {
+    "book_id": "isbn-9784105900793",
+    "title": "初夜",
+    "author": "イアン・マキューアン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784105900793",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010631313",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 172
+  },
+  {
+    "book_id": "isbn-9784087733792",
+    "title": "めぐりあう時間たち",
+    "author": "マイケル・カニンガム",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087733792",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004088106",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 285
+  },
+  {
+    "book_id": "isbn-9784151200649",
+    "title": "コレクションズ",
+    "author": "ジョナサン・フランゼン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151200649",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011249827",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 483
+  },
+  {
+    "book_id": "isbn-9784150118099",
+    "title": "ねじまき少女",
+    "author": "パオロ・バチガルピ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150118099",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011190846",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 391
+  },
+  {
+    "book_id": "isbn-9784047914469",
+    "title": "王子と乞食",
+    "author": "マーク・トウェイン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784047914469",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004125901",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 526
+  },
+  {
+    "book_id": "isbn-9784167913595",
+    "title": "アンの青春",
+    "author": "L・M・モンゴメリ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167913595",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029868620",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 521
+  },
+  {
+    "book_id": "isbn-9784334754402",
+    "title": "小公子",
+    "author": "バーネット",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334754402",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031288818",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 427
+  },
+  {
+    "book_id": "isbn-9784480034977",
+    "title": "月世界旅行",
+    "author": "ジュール・ヴェルヌ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480034977",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002822100",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 575
+  },
+  {
+    "book_id": "isbn-9784041007532",
+    "title": "ベラミ",
+    "author": "モーパッサン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041007532",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024244448",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 493
+  },
+  {
+    "book_id": "isbn-9784003254295",
+    "title": "風車小屋だより",
+    "author": "ドーデ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003254295",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031518572",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 295
+  },
+  {
+    "book_id": "isbn-9784334751715",
+    "title": "シラノ・ド・ベルジュラック",
+    "author": "ロスタン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334751715",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009785645",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 532
+  },
+  {
+    "book_id": "isbn-9784334752194",
+    "title": "青い麦",
+    "author": "コレット",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334752194",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011030248",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 244
+  },
+  {
+    "book_id": "isbn-9784003260814",
+    "title": "猟人日記",
+    "author": "ツルゲーネフ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003260814",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I30111100128096",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 305
+  },
+  {
+    "book_id": "isbn-9784334752651",
+    "title": "死の家の記録",
+    "author": "ドストエフスキー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334752651",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024204392",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 741
+  },
+  {
+    "book_id": "isbn-9784334754150",
+    "title": "賭博者",
+    "author": "ドストエフスキー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334754150",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030087868",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 375
+  },
+  {
+    "book_id": "isbn-9784102060117",
+    "title": "クロイツェル・ソナタ",
+    "author": "トルストイ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102060117",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008052330",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 270
+  },
+  {
+    "book_id": "isbn-9784003261910",
+    "title": "人はなんで生きるか",
+    "author": "トルストイ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003261910",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I11141197408963",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 189
+  },
+  {
+    "book_id": "isbn-9784001145298",
+    "title": "イワンのばか",
+    "author": "トルストイ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001145298",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002936647",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 322
+  },
+  {
+    "book_id": "isbn-9784102065037",
+    "title": "かわいい女・犬を連れた奥さん",
+    "author": "チェーホフ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102065037",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007890789",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 285
+  },
+  {
+    "book_id": "isbn-9784003264515",
+    "title": "われら",
+    "author": "ザミャーチン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003264515",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002162610",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 371
+  },
+  {
+    "book_id": "isbn-9784003226230",
+    "title": "カタロニア讃歌",
+    "author": "ジョージ・オーウェル",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003226230",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002187471",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 358
   }
 ]
