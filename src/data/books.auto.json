@@ -105982,5 +105982,1247 @@
     "tier": "basic",
     "publisher": "幻冬舎",
     "pages": 524
+  },
+  {
+    "book_id": "isbn-9784894564411",
+    "title": "神狩り",
+    "author": "山田正紀",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784894564411",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002784620",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 263
+  },
+  {
+    "book_id": "isbn-9784150302207",
+    "title": "宝石泥棒",
+    "author": "山田正紀",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150302207",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001804477",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 486
+  },
+  {
+    "book_id": "isbn-9784199050510",
+    "title": "チョウたちの時間",
+    "author": "山田正紀",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784199050510",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002982273",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 284
+  },
+  {
+    "book_id": "isbn-9784894564497",
+    "title": "弥勒戦争",
+    "author": "山田正紀",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784894564497",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002784615",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 229
+  },
+  {
+    "book_id": "isbn-9784894564022",
+    "title": "首都消失",
+    "author": "小松左京",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784894564022",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002758060",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 372
+  },
+  {
+    "book_id": "isbn-9784894565227",
+    "title": "さよならジュピター",
+    "author": "小松左京",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784894565227",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002857748",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 489
+  },
+  {
+    "book_id": "isbn-9784894563872",
+    "title": "エスパイ",
+    "author": "小松左京",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784894563872",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002743120",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 405
+  },
+  {
+    "book_id": "isbn-9784894563810",
+    "title": "継ぐのは誰か?",
+    "author": "小松左京",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784894563810",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002704666",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 363
+  },
+  {
+    "book_id": "isbn-9784488729028",
+    "title": "消滅の光輪",
+    "author": "眉村卓",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488729028",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023010194",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 505
+  },
+  {
+    "book_id": "isbn-9784041357040",
+    "title": "なぞの転校生",
+    "author": "眉村卓",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041357040",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002694088",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 247
+  },
+  {
+    "book_id": "isbn-9784894564398",
+    "title": "たそがれに還る",
+    "author": "光瀬龍",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784894564398",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002784619",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 387
+  },
+  {
+    "book_id": "isbn-9784087461619",
+    "title": "石の血脈",
+    "author": "半村良",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087461619",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008549120",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 660
+  },
+  {
+    "book_id": "isbn-9784087478877",
+    "title": "産霊山秘録",
+    "author": "半村良",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087478877",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008005787",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 518
+  },
+  {
+    "book_id": "isbn-9784087495638",
+    "title": "岬一郎の抵抗",
+    "author": "半村良",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087495638",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002036046",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 419
+  },
+  {
+    "book_id": "isbn-9784150310370",
+    "title": "言壺",
+    "author": "神林長平",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150310370",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011205757",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 337
+  },
+  {
+    "book_id": "isbn-9784150302153",
+    "title": "あなたの魂に安らぎあれ",
+    "author": "神林長平",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150302153",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001792517",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 399
+  },
+  {
+    "book_id": "isbn-9784150308810",
+    "title": "膚の下",
+    "author": "神林長平",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150308810",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008490833",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 592
+  },
+  {
+    "book_id": "isbn-9784199050084",
+    "title": "おもいでエマノン",
+    "author": "梶尾真治",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784199050084",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002923887",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 350
+  },
+  {
+    "book_id": "isbn-9784198939373",
+    "title": "クロノス・ジョウンターの伝説",
+    "author": "梶尾真治",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198939373",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026055027",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 653
+  },
+  {
+    "book_id": "isbn-9784829126189",
+    "title": "ロケットガール",
+    "author": "野尻抱介",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784829126189",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002400399",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "富士見書房",
+    "pages": 360
+  },
+  {
+    "book_id": "isbn-9784150310585",
+    "title": "南極点のピアピア動画",
+    "author": "野尻抱介",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150310585",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023405394",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 311
+  },
+  {
+    "book_id": "isbn-9784150309855",
+    "title": "Self-Reference ENGINE",
+    "author": "円城塔",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150309855",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010702818",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 388
+  },
+  {
+    "book_id": "isbn-9784101257716",
+    "title": "これはペンです",
+    "author": "円城塔",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101257716",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025257832",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 222
+  },
+  {
+    "book_id": "isbn-9784309413259",
+    "title": "屍者の帝国",
+    "author": "伊藤計劃、円城塔",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309413259",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025865489",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 525
+  },
+  {
+    "book_id": "isbn-9784488747022",
+    "title": "エクソダス症候群",
+    "author": "宮内悠介",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488747022",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028334601",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784041097861",
+    "title": "あとは野となれ大和撫子",
+    "author": "宮内悠介",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041097861",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030726944",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 502
+  },
+  {
+    "book_id": "isbn-9784150311070",
+    "title": "Gene Mapper",
+    "author": "藤井太洋",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150311070",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024387581",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 360
+  },
+  {
+    "book_id": "isbn-9784150312282",
+    "title": "オービタル・クラウド",
+    "author": "藤井太洋",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150312282",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027260720",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 332
+  },
+  {
+    "book_id": "isbn-9784065228227",
+    "title": "ハロー・ワールド",
+    "author": "藤井太洋",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065228227",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031299950",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 368
+  },
+  {
+    "book_id": "isbn-9784334745301",
+    "title": "魚舟・獣舟",
+    "author": "上田早夕里",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334745301",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009989854",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 331
+  },
+  {
+    "book_id": "isbn-9784150312176",
+    "title": "深紅の碑文",
+    "author": "上田早夕里",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150312176",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027104711",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 519
+  },
+  {
+    "book_id": "isbn-9784150303938",
+    "title": "ハイブリッド・チャイルド",
+    "author": "大原まり子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150303938",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002273320",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 502
+  },
+  {
+    "book_id": "isbn-9784150113483",
+    "title": "ハイペリオンの没落",
+    "author": "ダン・シモンズ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150113483",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002975860",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 476
+  },
+  {
+    "book_id": "isbn-9784150113896",
+    "title": "エンディミオン",
+    "author": "ダン・シモンズ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150113896",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003066674",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 511
+  },
+  {
+    "book_id": "isbn-9784488711016",
+    "title": "宇宙消失",
+    "author": "グレッグ・イーガン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488711016",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002816777",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 409
+  },
+  {
+    "book_id": "isbn-9784488711023",
+    "title": "万物理論",
+    "author": "グレッグ・イーガン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488711023",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007541776",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 616
+  },
+  {
+    "book_id": "isbn-9784150113377",
+    "title": "祈りの海",
+    "author": "グレッグ・イーガン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150113377",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002950333",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 464
+  },
+  {
+    "book_id": "isbn-9784150107352",
+    "title": "カウント・ゼロ",
+    "author": "ウィリアム・ギブスン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150107352",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001882536",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 465
+  },
+  {
+    "book_id": "isbn-9784150108083",
+    "title": "モナリザ・オーヴァドライヴ",
+    "author": "ウィリアム・ギブスン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150108083",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001965450",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 490
+  },
+  {
+    "book_id": "isbn-9784488663339",
+    "title": "巨人たちの星",
+    "author": "ジェイムズ・P・ホーガン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488663339",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033017798",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 494
+  },
+  {
+    "book_id": "isbn-9784150115661",
+    "title": "砂漠の惑星",
+    "author": "スタニスワフ・レム",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150115661",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008205703",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 319
+  },
+  {
+    "book_id": "isbn-9784150107307",
+    "title": "愛はさだめ、さだめは死",
+    "author": "ジェイムズ・ティプトリー・ジュニア",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150107307",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001876602",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 389
+  },
+  {
+    "book_id": "isbn-9784488623012",
+    "title": "分解された男",
+    "author": "アルフレッド・ベスター",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488623012",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I34211100769510",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 380
+  },
+  {
+    "book_id": "isbn-9784150108847",
+    "title": "死者の代弁者",
+    "author": "オースン・スコット・カード",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150108847",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002061507",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 333
+  },
+  {
+    "book_id": "isbn-9784150120498",
+    "title": "デューン砂の惑星",
+    "author": "フランク・ハーバート",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150120498",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027034520",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 478
+  },
+  {
+    "book_id": "isbn-9784488612078",
+    "title": "何かが道をやってくる",
+    "author": "レイ・ブラッドベリ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488612078",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032940485",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 412
   }
 ]

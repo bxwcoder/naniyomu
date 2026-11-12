@@ -1,8 +1,8 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-12T19:55:21.220Z
-- 候補：4358冊
-- 入れた本：3982冊
+- 検索日時：2026-11-12T20:02:40.300Z
+- 候補：4404冊
+- 入れた本：4028冊
 - 入れなかった本：376冊
 
 ## 入れなかった本
@@ -4368,3 +4368,49 @@
 - 任侠学園：中公文庫 ; こ40-19／中央公論新社／2012.1／357p／NDC 913.6／novel・easy・medium
 - 機械仕掛けの太陽：文春文庫 ; ち11-4／文藝春秋／2025.1／525p／NDC 913.6／novel・easy・long
 - 血の轍：幻冬舎文庫 ; あ-38-2／幻冬舎／2013.11／524p／NDC 913.6／mystery_sf・normal・long
+- 神狩り：ハルキ文庫／角川春樹事務所／1998.8／263p／NDC 913.6／mystery_sf・normal・medium
+- 宝石泥棒：ハヤカワ文庫. JA／早川書房／1986.6／486p／NDC 913.6／mystery_sf・normal・long
+- チョウたちの時間：徳間デュアル文庫／徳間書店／2001.4／284p／NDC 913.6／mystery_sf・normal・medium
+- 弥勒戦争：ハルキ文庫／角川春樹事務所／1998.9／229p／NDC 913.6／mystery_sf・normal・short
+- 首都消失：ハルキ文庫／角川春樹事務所／1998.5／372p／NDC 913.6／mystery_sf・normal・long
+- さよならジュピター：ハルキ文庫／角川春樹事務所／1999.5／489p／NDC 913.6／mystery_sf・normal・long
+- エスパイ：ハルキ文庫／角川春樹事務所／1998.3／405p／NDC 913.6／mystery_sf・normal・medium
+- 継ぐのは誰か?：ハルキ文庫／角川春樹事務所／1998.2／363p／NDC 913.6／mystery_sf・normal・medium
+- 消滅の光輪：創元SF文庫／東京創元社／2008.7／505p／NDC 913.6／mystery_sf・normal・long
+- なぞの転校生：角川文庫／角川書店／1998.7／247p／NDC 913.6／mystery_sf・normal・short
+- たそがれに還る：ハルキ文庫／角川春樹事務所／1998.8／387p／NDC 913.6／mystery_sf・normal・medium
+- 石の血脈：集英社文庫／集英社／2007.5／660p／NDC 913.6／mystery_sf・normal・long
+- 産霊山秘録：集英社文庫／集英社／2005.11／518p／NDC 913.6／mystery_sf・normal・long
+- 岬一郎の抵抗：集英社文庫／集英社／1990.3／419p／NDC 913.6／mystery_sf・normal・long
+- 言壺：ハヤカワ文庫 ; JA1037／早川書房／2011.6／337p／NDC 913.6／mystery_sf・normal・medium
+- あなたの魂に安らぎあれ：ハヤカワ文庫. JA／早川書房／1986.3／399p／NDC 913.6／mystery_sf・normal・medium
+- 膚の下：ハヤカワ文庫 ; JA／早川書房／2007.3／592p／NDC 913.6／mystery_sf・normal・long
+- おもいでエマノン：徳間デュアル文庫／徳間書店／2000.9／350p／NDC 913.6／mystery_sf・normal・medium
+- クロノス・ジョウンターの伝説：徳間文庫 ; か7-8／徳間書店／2015.2／653p／NDC 913.6／mystery_sf・normal・long
+- ロケットガール：富士見ファンタジア文庫／富士見書房／1995.3／360p／NDC 913.6／mystery_sf・normal・medium
+- 南極点のピアピア動画：ハヤカワ文庫 ; JA1058／早川書房／2012.2／311p／NDC 913.6／mystery_sf・normal・medium
+- Self-Reference ENGINE：ハヤカワ文庫 ; JA985／早川書房／2010.2／388p／NDC 913.6／mystery_sf・normal・medium
+- これはペンです：新潮文庫 ; え-24-1／新潮社／2014.3／222p／NDC 913.6／mystery_sf・normal・short
+- 屍者の帝国：河出文庫 ; え7-1／河出書房新社／2014.11／525p／NDC 913.6／mystery_sf・normal・long
+- エクソダス症候群：創元SF文庫 ; SFみ2-2／東京創元社／2017.7／317p／NDC 913.6／mystery_sf・normal・medium
+- あとは野となれ大和撫子：角川文庫 ; み54-1／KADOKAWA／2020.11／502p／NDC 913.6／mystery_sf・normal・long
+- Gene Mapper：ハヤカワ文庫 JA ; 1107／早川書房／2013.4／360p／NDC 913.6／mystery_sf・normal・medium
+- オービタル・クラウド：ハヤカワ文庫 JA ; 1228／早川書房／2016.5／332p／NDC 913.6／mystery_sf・normal・long
+- ハロー・ワールド：講談社文庫 ; ふ89-1／講談社／2021.3／368p／NDC 913.6／mystery_sf・normal・medium
+- 魚舟・獣舟：光文社文庫 ; う18-2／光文社／2009.1／331p／NDC 913.6／mystery_sf・normal・medium
+- 深紅の碑文：ハヤカワ文庫 JA ; 1217／早川書房／2016.2／519p／NDC 913.6／mystery_sf・normal・long
+- ハイブリッド・チャイルド：ハヤカワ文庫. JA／早川書房／1993.8／502p／NDC 913.6／mystery_sf・normal・long
+- ハイペリオンの没落：ハヤカワ文庫 : SF／早川書房／2001.3／476p／NDC 933.7／mystery_sf・normal・long
+- エンディミオン：ハヤカワ文庫 : SF／早川書房／2002.2／511p／NDC 933.7／mystery_sf・normal・long
+- 宇宙消失：創元SF文庫／東京創元社／1999.8／409p／NDC 933.7／mystery_sf・normal・medium
+- 万物理論：創元SF文庫／東京創元社／2004.10／616p／NDC 933.7／mystery_sf・normal・long
+- 祈りの海：ハヤカワ文庫 : SF／早川書房／2000.12／464p／NDC 933.7／mystery_sf・normal・long
+- カウント・ゼロ：ハヤカワ文庫. SF／早川書房／1987.9／465p／NDC 933／mystery_sf・normal・long
+- モナリザ・オーヴァドライヴ：ハヤカワ文庫. SF／早川書房／1989.2／490p／NDC 933／mystery_sf・normal・long
+- 巨人たちの星：創元SF文庫 ; SFホ1-3／東京創元社／2023.9／494p／NDC 933.7／mystery_sf・normal・long
+- 砂漠の惑星：ハヤカワ文庫 ; SF／早川書房／2006.6／319p／NDC 989.83／mystery_sf・normal・medium
+- 愛はさだめ、さだめは死：ハヤカワ文庫. SF／早川書房／1987.8／389p／NDC 933／mystery_sf・normal・medium
+- 分解された男：創元推理文庫　６２３－１／東京創元社／１９８５／３８０ｐ ; １５ｃｍ／NDC 933／mystery_sf・normal・medium
+- 死者の代弁者：ハヤカワ文庫. SF／早川書房／1990.8／333p／NDC 933／mystery_sf・normal・long
+- デューン砂の惑星：ハヤカワ文庫 SF ; 2049／早川書房／2016.1／478p／NDC 933.7／mystery_sf・normal・long
+- 何かが道をやってくる：創元SF文庫／東京創元社／2023.7／412 p／NDC 933.7／mystery_sf・normal・medium
