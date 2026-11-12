@@ -124768,5 +124768,598 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 462
+  },
+  {
+    "book_id": "isbn-9784061984813",
+    "title": "糞尿譚",
+    "author": "火野葦平",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061984813",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008579793",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 265
+  },
+  {
+    "book_id": "isbn-9784334774882",
+    "title": "鶴八鶴次郎",
+    "author": "川口松太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334774882",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028183649",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 291
+  },
+  {
+    "book_id": "isbn-9784488402013",
+    "title": "人生の阿呆",
+    "author": "木々高太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488402013",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001934724",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784195987520",
+    "title": "真説石川五右衛門",
+    "author": "檀一雄",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784195987520",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002008049",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 574
+  },
+  {
+    "book_id": "isbn-9784059002758",
+    "title": "叛乱",
+    "author": "立野信之",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784059002758",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004352065",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "学習研究社",
+    "pages": 685
+  },
+  {
+    "book_id": "isbn-9784337300071",
+    "title": "高安犬物語",
+    "author": "戸川幸夫",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784337300071",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001944562",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "国土社",
+    "pages": 139
+  },
+  {
+    "book_id": "isbn-9784062620291",
+    "title": "お吟さま",
+    "author": "今東光",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062620291",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002477269",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 330
+  },
+  {
+    "book_id": "isbn-9784769820116",
+    "title": "ルソンの谷間",
+    "author": "江崎誠致",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784769820116",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002262492",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光人社",
+    "pages": 322
+  },
+  {
+    "book_id": "isbn-9784910621753",
+    "title": "赤い雪",
+    "author": "榛葉英治",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784910621753",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032609408",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "大陸書館",
+    "pages": 299
+  },
+  {
+    "book_id": "isbn-9784488429058",
+    "title": "落ちる",
+    "author": "多岐川恭",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488429058",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003000343",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 384
+  },
+  {
+    "book_id": "isbn-9784167710095",
+    "title": "鏨師",
+    "author": "平岩弓枝",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167710095",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009901866",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 311
+  },
+  {
+    "book_id": "isbn-9784488458010",
+    "title": "團十郎切腹事件",
+    "author": "戸板康二",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488458010",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008463086",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 663
+  },
+  {
+    "book_id": "isbn-9784059003236",
+    "title": "はぐれ念仏",
+    "author": "寺内大吉",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784059003236",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007549366",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "学習研究社",
+    "pages": 308
+  },
+  {
+    "book_id": "isbn-9784061982185",
+    "title": "螢の河",
+    "author": "伊藤桂一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061982185",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002904784",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 281
+  },
+  {
+    "book_id": "isbn-9784309404097",
+    "title": "天才と狂人の間",
+    "author": "杉森久英",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309404097",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002308092",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 232
+  },
+  {
+    "book_id": "isbn-9784093524858",
+    "title": "塵の中",
+    "author": "和田芳恵",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784093524858",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033398819",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 281
+  },
+  {
+    "book_id": "isbn-9784480026088",
+    "title": "巷談本牧亭",
+    "author": "安藤鶴夫",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480026088",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002175531",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 366
+  },
+  {
+    "book_id": "isbn-9784167200503",
+    "title": "炎環",
+    "author": "永井路子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167200503",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023639371",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 348
+  },
+  {
+    "book_id": "isbn-9784575500974",
+    "title": "八百長",
+    "author": "新橋遊吉",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575500974",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001837863",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 324
+  },
+  {
+    "book_id": "isbn-9784041940020",
+    "title": "追いつめる",
+    "author": "生島治郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041940020",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002363153",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 391
+  },
+  {
+    "book_id": "isbn-9784909692108",
+    "title": "大浪花諸人往来",
+    "author": "有明夏夫",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784909692108",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029337903",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "捕物出版",
+    "pages": 251
+  },
+  {
+    "book_id": "isbn-9784122076211",
+    "title": "ミミのこと",
+    "author": "田中小実昌",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122076211",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033935098",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 356
   }
 ]
