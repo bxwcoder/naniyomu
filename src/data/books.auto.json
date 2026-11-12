@@ -88846,5 +88846,896 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 313
+  },
+  {
+    "book_id": "isbn-9784592132950",
+    "title": "愛すべき娘たち",
+    "author": "よしながふみ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784592132950",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004329996",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白泉社",
+    "pages": 203
+  },
+  {
+    "book_id": "isbn-9784063375510",
+    "title": "リトル・フォレスト",
+    "author": "五十嵐大介",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063375510",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007466884",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 166
+  },
+  {
+    "book_id": "isbn-9784091810342",
+    "title": "竹光侍",
+    "author": "松本大洋",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091810342",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008413139",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 222
+  },
+  {
+    "book_id": "isbn-9784063145472",
+    "title": "茄子",
+    "author": "黒田硫黄",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063145472",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009996121",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 294
+  },
+  {
+    "book_id": "isbn-9784063145366",
+    "title": "大日本天狗党絵詞",
+    "author": "黒田硫黄",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063145366",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009722844",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 305
+  },
+  {
+    "book_id": "isbn-9784778320201",
+    "title": "虹ヶ原ホログラフ",
+    "author": "浅野いにお",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784778320201",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008473124",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "太田出版",
+    "pages": 292
+  },
+  {
+    "book_id": "isbn-9784575841701",
+    "title": "ぼくは麻理のなか",
+    "author": "押見修造",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575841701",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024144315",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 194
+  },
+  {
+    "book_id": "isbn-9784778321802",
+    "title": "志乃ちゃんは自分の名前が言えない",
+    "author": "押見修造",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784778321802",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024097545",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "太田出版",
+    "pages": 213
+  },
+  {
+    "book_id": "isbn-9784091873019",
+    "title": "ルサンチマン",
+    "author": "花沢健吾",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091873019",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007376453",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 214
+  },
+  {
+    "book_id": "isbn-9784063611939",
+    "title": "シガテラ",
+    "author": "古谷実",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063611939",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004311314",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 233
+  },
+  {
+    "book_id": "isbn-9784063617320",
+    "title": "ヒメアノ〜ル",
+    "author": "古谷実",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063617320",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009763137",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 202
+  },
+  {
+    "book_id": "isbn-9784778320751",
+    "title": "宮本から君へ",
+    "author": "新井英樹",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784778320751",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010270277",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "太田出版",
+    "pages": 750
+  },
+  {
+    "book_id": "isbn-9784091856814",
+    "title": "最終兵器彼女",
+    "author": "高橋しん",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091856814",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002905500",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 211
+  },
+  {
+    "book_id": "isbn-9784091832917",
+    "title": "いいひと。",
+    "author": "高橋しん",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091832917",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002272986",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 218
+  },
+  {
+    "book_id": "isbn-9784063145342",
+    "title": "カブのイサキ",
+    "author": "芦奈野ひとし",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063145342",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009722848",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 143
+  },
+  {
+    "book_id": "isbn-9784757505049",
+    "title": "AQUA",
+    "author": "天野こずえ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784757505049",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003015827",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "エニックス",
+    "pages": 177
+  },
+  {
+    "book_id": "isbn-9784757713130",
+    "title": "シャーリー",
+    "author": "森薫",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784757713130",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004046283",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "エンターブレイン",
+    "pages": 195
+  },
+  {
+    "book_id": "isbn-9784781609485",
+    "title": "ひきだしにテラリウム",
+    "author": "九井諒子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784781609485",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024299731",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "イースト・プレス",
+    "pages": 213
+  },
+  {
+    "book_id": "isbn-9784872577686",
+    "title": "預言者ピッピ",
+    "author": "地下沢中也",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784872577686",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009146508",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "イースト・プレス",
+    "pages": 192
+  },
+  {
+    "book_id": "isbn-9784575940237",
+    "title": "鈴木先生",
+    "author": "武富健治",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575940237",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008455048",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 152
+  },
+  {
+    "book_id": "isbn-9784785939830",
+    "title": "スピリットサークル",
+    "author": "水上悟志",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784785939830",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024158182",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "少年画報社",
+    "pages": 185
+  },
+  {
+    "book_id": "isbn-9784757715226",
+    "title": "放浪息子",
+    "author": "志村貴子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784757715226",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004214481",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "エンターブレイン",
+    "pages": 186
+  },
+  {
+    "book_id": "isbn-9784778320058",
+    "title": "青い花",
+    "author": "志村貴子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784778320058",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011250794",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "太田出版",
+    "pages": 193
+  },
+  {
+    "book_id": "isbn-9784091876096",
+    "title": "淋しいのはアンタだけじゃない",
+    "author": "吉本浩二",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091876096",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027313438",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784091512680",
+    "title": "アオイホノオ",
+    "author": "島本和彦",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091512680",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009287918",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 205
+  },
+  {
+    "book_id": "isbn-9784091570215",
+    "title": "吼えろペン",
+    "author": "島本和彦",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091570215",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003012874",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 202
+  },
+  {
+    "book_id": "isbn-9784091601919",
+    "title": "炎の転校生",
+    "author": "島本和彦",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091601919",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002172692",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ビズコミュニケーションズジャパン",
+    "pages": 353
+  },
+  {
+    "book_id": "isbn-9784088568805",
+    "title": "コジコジ",
+    "author": "さくらももこ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088568805",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010111515",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 167
+  },
+  {
+    "book_id": "isbn-9784795298187",
+    "title": "フイチンさん",
+    "author": "上田としこ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784795298187",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002173913",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "アース出版局",
+    "pages": 303
+  },
+  {
+    "book_id": "isbn-9784022564641",
+    "title": "となりのやまだ君",
+    "author": "いしいひさいち",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022564641",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002197740",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞社",
+    "pages": 144
+  },
+  {
+    "book_id": "isbn-9784091961914",
+    "title": "ぷりぷり県",
+    "author": "吉田戦車",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091961914",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023440223",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784575997132",
+    "title": "かってにシロクマ",
+    "author": "相原コージ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575997132",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026077134",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 412
+  },
+  {
+    "book_id": "isbn-9784091790514",
+    "title": "サルでも描けるまんが教室",
+    "author": "相原コージ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091790514",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002067342",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 215
   }
 ]
