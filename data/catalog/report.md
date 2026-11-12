@@ -5053,7 +5053,7 @@
 - アリエスの乙女たち：中公文庫コミック版／中央公論新社／2005.7／325p／NDC 726.1／manga・easy・long
 - 笑う大天使：花とゆめcomics／白泉社／1987.11／170p／NDC 726.1／manga・easy・long
 - 甲子園の空に笑え!：花とゆめcomics／白泉社／1985.1／189p／NDC 726.1／manga・easy・long
-- 輝夜姫：叢書なし／白泉社／2002.10／104p／NDC 726.1／manga・easy・long
+- 輝夜姫：白泉社文庫／白泉社／2007.5／401p／NDC 726.1／manga・easy・long
 - 月の子：白泉社文庫／白泉社／1998.6／322p／NDC 726.1／manga・easy・long
 - CIPHER：白泉社文庫／白泉社／1997.3／296p／NDC 726.1／manga・easy・long
 - エイリアン通り：白泉社文庫／白泉社／1995.12／372p／NDC 726.1／manga・easy・long
