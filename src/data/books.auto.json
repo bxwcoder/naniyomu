@@ -93918,5 +93918,563 @@
     "tier": "basic",
     "publisher": "KADOKAWA",
     "pages": 255
+  },
+  {
+    "book_id": "isbn-9784048675178",
+    "title": "アクセル・ワールド",
+    "author": "川原礫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784048675178",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010005952",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "アスキー・メディアワークス",
+    "pages": 296
+  },
+  {
+    "book_id": "isbn-9784044281045",
+    "title": "砂糖菓子の弾丸は撃ちぬけない",
+    "author": "桜庭一樹",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784044281045",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010057023",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 201
+  },
+  {
+    "book_id": "isbn-9784044281069",
+    "title": "GOSICK",
+    "author": "桜庭一樹",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784044281069",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010573594",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 301
+  },
+  {
+    "book_id": "isbn-9784488472016",
+    "title": "少女には向かない職業",
+    "author": "桜庭一樹",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488472016",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009225577",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 270
+  },
+  {
+    "book_id": "isbn-9784044281038",
+    "title": "推定少女",
+    "author": "桜庭一樹",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784044281038",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009762764",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 315
+  },
+  {
+    "book_id": "isbn-9784048688789",
+    "title": "ゴールデンタイム",
+    "author": "竹宮ゆゆこ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784048688789",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010977139",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "アスキー・メディアワークス",
+    "pages": 263
+  },
+  {
+    "book_id": "isbn-9784840145466",
+    "title": "ノーゲーム・ノーライフ",
+    "author": "榎宮祐",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784840145466",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023562322",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "メディアファクトリー",
+    "pages": 275
+  },
+  {
+    "book_id": "isbn-9784040676579",
+    "title": "ようこそ実力至上主義の教室へ",
+    "author": "衣笠彰梧",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784040676579",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026373036",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 327
+  },
+  {
+    "book_id": "isbn-9784049130195",
+    "title": "今夜、世界からこの恋が消えても",
+    "author": "一条岬",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784049130195",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030237459",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 311
+  },
+  {
+    "book_id": "isbn-9784048926751",
+    "title": "君は月夜に光り輝く",
+    "author": "佐野徹夜",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784048926751",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027976170",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 315
+  },
+  {
+    "book_id": "isbn-9784048661690",
+    "title": "三日間の幸福",
+    "author": "三秋縋",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784048661690",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025076845",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 290
+  },
+  {
+    "book_id": "isbn-9784048924115",
+    "title": "恋する寄生虫",
+    "author": "三秋縋",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784048924115",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027586652",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 309
+  },
+  {
+    "book_id": "isbn-9784047347892",
+    "title": "言の葉の庭",
+    "author": "新海誠",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784047347892",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028367044",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 235
+  },
+  {
+    "book_id": "isbn-9784044271022",
+    "title": "愚者のエンドロール",
+    "author": "米澤穂信",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784044271022",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003668779",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784044271039",
+    "title": "クドリャフカの順番",
+    "author": "米澤穂信",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784044271039",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009396218",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 393
+  },
+  {
+    "book_id": "isbn-9784044271046",
+    "title": "遠まわりする雛",
+    "author": "米澤穂信",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784044271046",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010944826",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 410
+  },
+  {
+    "book_id": "isbn-9784041003251",
+    "title": "ふたりの距離の概算",
+    "author": "米澤穂信",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041003251",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023687275",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 287
+  },
+  {
+    "book_id": "isbn-9784041081648",
+    "title": "いまさら翼といわれても",
+    "author": "米澤穂信",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041081648",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029674141",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 372
+  },
+  {
+    "book_id": "isbn-9784488451028",
+    "title": "夏期限定トロピカルパフェ事件",
+    "author": "米澤穂信",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488451028",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008153334",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 246
+  },
+  {
+    "book_id": "isbn-9784488451097",
+    "title": "真実の10メートル手前",
+    "author": "米澤穂信",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488451097",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028869727",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 328
+  },
+  {
+    "book_id": "isbn-9784087442564",
+    "title": "本と鍵の季節",
+    "author": "米澤穂信",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087442564",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031472527",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 359
   }
 ]
