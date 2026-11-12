@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-12T19:31:41.436Z
-- 候補：4237冊
-- 入れた本：3863冊
-- 入れなかった本：374冊
+- 検索日時：2026-11-12T19:42:52.705Z
+- 候補：4287冊
+- 入れた本：3912冊
+- 入れなかった本：375冊
 
 ## 入れなかった本
 
@@ -381,6 +381,7 @@
 - サロメ／オスカー・ワイルド（海外の名作）：タイトルが同じで ISBN のある記録がない
 - ウィンダミア卿夫人の扇／オスカー・ワイルド（海外の名作）：タイトルが同じで ISBN のある記録がない
 - 分身／ドストエフスキー（海外の名作）：著者が合う記録がない
+- おとうと／幸田文（日本の名作）：タイトルが同じで ISBN のある記録がない
 
 ## 入れた本と選んだ版
 
@@ -4247,3 +4248,52 @@
 - 自分ひとりの部屋：平凡社ライブラリー ; 831／平凡社／2015.8／269p／NDC 934.7／nonfiction・normal・medium
 - 恋愛論：岩波文庫 ; 32-526-1／岩波書店／2015.12／445p／NDC 954.6／nonfiction・normal・long
 - エマ：ちくま文庫／筑摩書房／2005.10／381p／NDC 933.6／novel・normal・long
+- 父・こんなこと：叢書なし／新潮社／2002.3／ページ数不明／NDC 914.6／nonfiction・easy・medium
+- 木：新潮文庫／新潮社／1995.12／172p／NDC 914.6／nonfiction・easy・short
+- 台所のおと：講談社文庫／講談社／1995.8／297p／NDC 913.6／nonfiction・easy・medium
+- 崩れ：講談社文庫／講談社／1994.10／206p／NDC 914.6／nonfiction・easy・short
+- ミラノ霧の風景：叢書なし／白水社／1990.12／216p／NDC 293.709／nonfiction・easy・short
+- コルシア書店の仲間たち：文春文庫／文芸春秋／1995.11／237p／NDC 914.6／nonfiction・easy・short
+- ヴェネツィアの宿：文春文庫／文藝春秋／1998.8／295p／NDC 914.6／nonfiction・easy・medium
+- トリエステの坂道：新潮文庫／新潮社／1998.9／272p／NDC 914.6／nonfiction・easy・medium
+- ユルスナールの靴：河出文庫／河出書房新社／1998.10／267p／NDC 914.6／nonfiction・easy・medium
+- 不実な美女か貞淑な醜女か：新潮文庫／新潮社／1998.1／326p／NDC 801.7／nonfiction・easy・medium
+- 魔女の1ダース：新潮文庫／新潮社／2000.1／294p／NDC 804.9／nonfiction・easy・medium
+- 旅行者の朝食：文春文庫／文藝春秋／2004.10／262p／NDC 596.04／nonfiction・easy・medium
+- 役にたたない日々：朝日文庫 ; さ31-2／朝日新聞出版／2010.12／254p／NDC 914.6／nonfiction・easy・medium
+- 神も仏もありませぬ：ちくま文庫／筑摩書房／2008.11／234p／NDC 914.6／nonfiction・easy・short
+- シズコさん：新潮文庫 ; さ-30-5／新潮社／2010.10／248p／NDC 913.6／nonfiction・easy・short
+- 負け犬の遠吠え：講談社文庫／講談社／2006.10／349p／NDC 367.21／nonfiction・easy・medium
+- 気になる部分：叢書なし／白水社／2000.9／199p／NDC 049.1／nonfiction・easy・short
+- ねにもつタイプ：ちくま文庫 ; き30-1／筑摩書房／2010.1／227p／NDC 914.6／nonfiction・easy・short
+- なんらかの事情：ちくま文庫 ; き30-2／筑摩書房／2016.3／237p／NDC 914.6／nonfiction・easy・short
+- 生きて行く私：角川文庫／角川書店／1996.2／375p／NDC 913.6／nonfiction・easy・medium
+- ルンルンを買っておうちに帰ろう：角川文庫／角川書店／1985.11／238p／NDC 914.6／nonfiction・easy・short
+- 表参道のセレブ犬とカバーニャ要塞の野良犬：文春文庫 ; わ25-1／文藝春秋／2020.10／341p／NDC 779.14／nonfiction・easy・medium
+- 社会人大学人見知り学部卒業見込：角川文庫 ; わ13-1／KADOKAWA／2015.12／356p／NDC 779.14／nonfiction・easy・medium
+- 野蛮な読書：集英社文庫 ; ひ39-1／集英社／2014.10／301p／NDC 019.9／nonfiction・easy・medium
+- 夜中にジャムを煮る：新潮文庫 ; ひ-24-5／新潮社／2011.12／276p／NDC 596.04／nonfiction・easy・medium
+- 居酒屋百名山：新潮文庫 ; お-52-7／新潮社／2013.5／427p／NDC 673.98／nonfiction・easy・medium
+- 父の帽子：講談社文芸文庫. 現代日本のエッセイ／講談社／1991.11／225p／NDC 914.6／nonfiction・easy・short
+- 私の美の世界：新潮文庫／新潮社／1984.12／293p／NDC 914.6／nonfiction・easy・medium
+- 僕に踏まれた町と僕が踏まれた町：朝日文芸文庫／朝日新聞社／1994.7／237p／NDC 914.6／nonfiction・easy・short
+- 心が雨漏りする日には：青春文庫／青春出版社／2005.6／220p／NDC 914.6／nonfiction・easy・short
+- 西行：叢書なし／新潮社／1988.10／254p／NDC 911.142／nonfiction・easy・medium
+- かくれ里：講談社文芸文庫. 現代日本のエッセイ／講談社／1991.4／341p／NDC 291.6／nonfiction・easy・medium
+- 白洲正子自伝：新潮文庫／新潮社／1999.10／302p／NDC 289.1／nonfiction・easy・medium
+- 強父論：文春文庫 ; あ23-25／文藝春秋／2018.12／281p／NDC 910.268／nonfiction・easy・medium
+- 礼儀作法入門：新潮文庫／新潮社／2000.4／242p／NDC 385.9／nonfiction・easy・short
+- 流れる：叢書なし／新潮社／1993.6／260p／NDC 913.6／novel・normal・medium
+- きもの：新潮文庫／新潮社／1996.12／368p／NDC 913.6／novel・normal・medium
+- おはん：新潮文庫／新潮社／2003.11／127p／NDC 913.6／novel・normal・short
+- 色ざんげ：岩波文庫 ; 31-222-1／岩波書店／2019.2／287p／NDC 913.6／novel・normal・medium
+- エロ事師たち：新潮文庫／新潮社／2001.8／258p／NDC 913.6／novel・normal・medium
+- アメリカひじき：新潮文庫／新潮社／2003.7／272p／NDC 913.6／novel・normal・medium
+- 江分利満氏の優雅な生活：ちくま文庫 ; や38-1／筑摩書房／2009.11／252p／NDC 913.6／novel・normal・medium
+- 嘘つきアーニャの真っ赤な真実：角川文庫／角川書店／2004.6／301p／NDC 913.6／nonfiction・normal・medium
+- オリガ・モリソヴナの反語法：集英社文庫／集英社／2005.10／531p／NDC 913.6／novel・easy・long
+- 葡萄が目にしみる：角川文庫／角川書店／1986.3／234p／NDC 913.6／novel・easy・short
+- 不機嫌な果実：文春文庫／文藝春秋／2001.1／342p／NDC 913.6／novel・easy・medium
+- 下流の宴：文春文庫 ; は3-39／文藝春秋／2013.1／510p／NDC 913.6／novel・easy・long
+- 白蓮れんれん：中公文庫／中央公論社／1998.10／431p／NDC 913.6／novel・easy・medium
+- バンド・オブ・ザ・ナイト：講談社文庫／講談社／2004.2／366p／NDC 913.6／novel・easy・medium
