@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-12T22:22:30.924Z
-- 候補：4944冊
-- 入れた本：4520冊
-- 入れなかった本：424冊
+- 検索日時：2026-11-12T22:40:57.648Z
+- 候補：5004冊
+- 入れた本：4576冊
+- 入れなかった本：428冊
 
 ## 入れなかった本
 
@@ -431,6 +431,10 @@
 - 狗神／坂東眞砂子（人気の小説）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
 - 瞳の中の大河／沢村凜（人気の小説）：著者が合う記録がない
 - 黄金の王 白銀の王／沢村凜（人気の小説）：著者が合う記録がない
+- さようならコロンバス／フィリップ・ロス（海外の名作）：タイトルが同じで ISBN のある記録がない
+- ポートノイの不満／フィリップ・ロス（海外の名作）：タイトルが同じで ISBN のある記録がない
+- 西瓜糖の日々／リチャード・ブローティガン（海外の名作）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
+- 暗い河／V・S・ナイポール（海外の名作）：タイトルが同じで ISBN のある記録がない
 
 ## 入れた本と選んだ版
 
@@ -4954,3 +4958,59 @@
 - 楽園とは探偵の不在なり：ハヤカワ文庫 JA ; 1538／早川書房／2022.11／392p／NDC 913.6／mystery_sf・normal・medium
 - 恋に至る病：メディアワークス文庫 ; し7-6／KADOKAWA／2020.3／295p／NDC 913.6／mystery_sf・normal・medium
 - 幻の女：角川文庫／角川書店／2003.12／718p／NDC 913.6／mystery_sf・normal・long
+- 悪童日記：ハヤカワepi文庫 ; 2／早川書房／2001.5／301p／NDC 953.7／novel・normal・medium
+- ふたりの証拠：ハヤカワepi文庫／早川書房／2001.11／302p／NDC 953／novel・normal・medium
+- 第三の嘘：ハヤカワepi文庫／早川書房／2002.3／266p／NDC 953／novel・normal・medium
+- 暗いブティック通り：叢書なし／白水社／2005.6／269p／NDC 953.7／novel・normal・medium
+- 失われた時のカフェで：叢書なし／作品社／2011.4／200p／NDC 953.7／novel・normal・short
+- 素粒子：ちくま文庫／筑摩書房／2006.1／443p／NDC 953.7／novel・normal・medium
+- 服従：河出文庫 ; ウ6-3／河出書房新社／2017.4／324p／NDC 953.7／novel・normal・medium
+- 地図と領土：ちくま文庫 ; う26-2／筑摩書房／2015.10／462p／NDC 953.7／novel・normal・long
+- 恥辱：ハヤカワepi文庫／早川書房／2007.7／348p／NDC 933.7／novel・normal・medium
+- 夷狄を待ちながら：集英社文庫／集英社／2003.12／359p／NDC 933.7／novel・normal・medium
+- 青い眼がほしい：ハヤカワepi文庫／早川書房／2001.6／323p／NDC 933.7／novel・normal・medium
+- ブラッド・メリディアン：ハヤカワepi文庫 ; 94／早川書房／2018.8／507p／NDC 933.7／novel・normal・long
+- ホワイト・ノイズ：叢書なし／集英社／1993.3／355p／NDC 933／novel・normal・medium
+- アンダーワールド：叢書なし／新潮社／2002.6／621p／NDC 933.7／novel・normal・long
+- 競売ナンバー49の叫び：サンリオ文庫／サンリオ／1985.10／292p／NDC 933／novel・normal・medium
+- V.：Thomas Pynchon Complete Collection ; 1963／新潮社／2011.3／382p／NDC 933.7／novel・normal・long
+- 重力の虹：Contemporary writers. 文学の冒険／国書刊行会／1993.3／491p／NDC 933／novel・normal・long
+- アメリカの鱒釣り：新潮文庫／新潮社／2005.8／268p／NDC 933.7／novel・normal・medium
+- 走れウサギ：白水Uブックス ; 64,65／白水社／1984.8／2冊／NDC 933／novel・normal・medium
+- 雨の王ヘンダソン：中公文庫／中央公論社／1988.2／495p／NDC 933／novel・normal・long
+- この日をつかめ：新潮文庫 ; ヘ－３－１／新潮社／１９８５．１０／１９９ｐ ; １６ｃｍ／NDC 933.7／novel・normal・short
+- アメリカーナ：河出文庫 ; ア10-2／河出書房新社／2019.12／404p／NDC 933.7／novel・normal・long
+- 半分のぼった黄色い太陽：河出文庫 ; ア10-5／河出書房新社／2026.6／376p／NDC 933.7／novel・normal・long
+- わたしの名は赤：ハヤカワepi文庫 ; epi 66／早川書房／2012.1／431p／NDC 929.573／novel・normal・long
+- 無垢の博物館：ハヤカワepi文庫 ; 103／早川書房／2022.8／503p／NDC 929.57／novel・normal・long
+- ミゲル・ストリート：岩波文庫 ; 32-820-1／岩波書店／2019.4／361p／NDC 933.7／novel・normal・medium
+- 真夜中の子供たち：岩波文庫 ; 37-206-1／岩波書店／2020.5／537p／NDC 933.7／novel・normal・long
+- ディア・ライフ：CREST BOOKS／新潮社／2013.12／391p／NDC 933.7／novel・normal・medium
+- イラクサ：Crest books／新潮社／2006.3／445p／NDC 933.7／novel・normal・medium
+- 誓願：ハヤカワepi文庫 ; 110／早川書房／2023.9／701p／NDC 933.7／novel・normal・long
+- 昏き目の暗殺者：ハヤカワepi文庫 ; 96／早川書房／2019.9／461p／NDC 933.7／novel・normal・long
+- 逃亡派：エクス・リブリス／白水社／2014.3／413,3p／NDC 989.83／novel・normal・medium
+- 昼の家、夜の家：Ex libris／白水社／2010.10／380p／NDC 989.83／novel・normal・medium
+- 町でいちばんの美女：新潮文庫／新潮社／1998.6／434p／NDC 933.7／novel・normal・medium
+- パルプ：ちくま文庫 ; ふ50-1／筑摩書房／2016.6／325p／NDC 933.7／novel・normal・medium
+- ペンギンの憂鬱：Crest books／新潮社／2004.9／315p／NDC 983／novel・normal・medium
+- エドウィン・マルハウス：河出文庫 ; ミ2-1／河出書房新社／2016.6／532p／NDC 933.7／novel・normal・long
+- マーティン・ドレスラーの夢：叢書なし／白水社／2002.7／281p／NDC 933.7／novel・normal・medium
+- パラダイス・モーテル：創元ライブラリ = SOGEN LIBRARY ; Lマ-1-1／東京創元社／2011.11／273p／NDC 933.7／novel・normal・medium
+- ミステリウム：叢書なし／国書刊行会／2011.1／315p／NDC 933.7／novel・normal・medium
+- リンカーンとさまよえる霊魂たち：叢書なし／河出書房新社／2018.7／445p／NDC 933.7／novel・normal・medium
+- 十二月の十日：河出文庫 ; ソ3-2／河出書房新社／2023.7／349p／NDC 933.7／novel・normal・medium
+- クラウド・アトラス：叢書なし／河出書房新社／2013.1／372p／NDC 933.7／novel・normal・long
+- ナンバー9ドリーム：Crest books／新潮社／2007.2／558p／NDC 933.7／novel・normal・long
+- 青白い炎：岩波文庫 ; 32-341-1／岩波書店／2014.6／584p／NDC 933.7／novel・normal・long
+- 賜物：福武文庫／福武書店／1992.2／334p／NDC 983／novel・normal・long
+- 北回帰線：ヘンリー・ミラー・コレクション ; 1／水声社／2004.1／334p／NDC 933.7／novel・normal・medium
+- 南回帰線：講談社文芸文庫／講談社／2001.1／551p／NDC 933.7／novel・normal・long
+- 冗談：岩波文庫 ; 37-770-1／岩波書店／2014.12／529p／NDC 989.53／novel・normal・long
+- 笑いと忘却の書：集英社文庫 ; ク11-4／集英社／2013.11／383p／NDC 989.53／novel・normal・medium
+- 不滅：集英社文庫／集英社／1999.10／591p／NDC 953.7／novel・normal・long
+- フーコーの振り子：文春文庫／文藝春秋／1999.6／566p／NDC 973／novel・normal・long
+- 前日島：文春文庫／文藝春秋／2003.11／373p／NDC 973／novel・normal・long
+- 木のぼり男爵：叢書なし／白水社／1990.12／310p／NDC 973／novel・normal・medium
+- まっぷたつの子爵：叢書なし／晶文社／1997.8／189p／NDC 973／novel・normal・short
+- 雪：ハヤカワepi文庫 ; 71／早川書房／2012.12／413p／NDC 929.573／novel・normal・long
