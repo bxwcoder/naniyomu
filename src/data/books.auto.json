@@ -107224,5 +107224,605 @@
     "tier": "basic",
     "publisher": "東京創元社",
     "pages": 412
+  },
+  {
+    "book_id": "isbn-9784845860593",
+    "title": "姉の友人",
+    "author": "ばったん",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784845860593",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030426829",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "リイド社",
+    "pages": 189
+  },
+  {
+    "book_id": "isbn-9784088840192",
+    "title": "ふつうの軽音部",
+    "author": "クワハリ、出内テツオ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088840192",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033403192",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 203
+  },
+  {
+    "book_id": "isbn-9784062737067",
+    "title": "霧のむこうのふしぎな町",
+    "author": "柏葉幸子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062737067",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004069759",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 185
+  },
+  {
+    "book_id": "isbn-9784001140446",
+    "title": "冒険者たち",
+    "author": "斎藤惇夫",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001140446",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002905321",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 394
+  },
+  {
+    "book_id": "isbn-9784036352500",
+    "title": "二分間の冒険",
+    "author": "岡田淳",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784036352500",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001728999",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "偕成社",
+    "pages": 237
+  },
+  {
+    "book_id": "isbn-9784062767989",
+    "title": "だれも知らない小さな国",
+    "author": "佐藤さとる",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062767989",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011033026",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 292
+  },
+  {
+    "book_id": "isbn-9784062135344",
+    "title": "龍の子太郎",
+    "author": "松谷みよ子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062135344",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008238814",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 209
+  },
+  {
+    "book_id": "isbn-9784062770880",
+    "title": "ちいさいモモちゃん",
+    "author": "松谷みよ子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062770880",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023152971",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 276
+  },
+  {
+    "book_id": "isbn-9784101315119",
+    "title": "夏の庭",
+    "author": "湯本香樹実",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101315119",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002310996",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784001140507",
+    "title": "クローディアの秘密",
+    "author": "E・L・カニグズバーグ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001140507",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002905324",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 242
+  },
+  {
+    "book_id": "isbn-9784001157086",
+    "title": "床下の小人たち",
+    "author": "メアリー・ノートン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001157086",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002271873",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 296
+  },
+  {
+    "book_id": "isbn-9784001157291",
+    "title": "ツバメ号とアマゾン号",
+    "author": "アーサー・ランサム",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001157291",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002283021",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 592
+  },
+  {
+    "book_id": "isbn-9784102185513",
+    "title": "思い出のマーニー",
+    "author": "ジョーン・G・ロビンソン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102185513",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025494927",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 362
+  },
+  {
+    "book_id": "isbn-9784566022539",
+    "title": "グリーン・ノウの子どもたち",
+    "author": "ルーシー・M・ボストン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784566022539",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001924419",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "評論社",
+    "pages": 287
+  },
+  {
+    "book_id": "isbn-9784001131482",
+    "title": "時の旅人",
+    "author": "アリソン・アトリー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001131482",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002654140",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 452
+  },
+  {
+    "book_id": "isbn-9784051032531",
+    "title": "フランダースの犬",
+    "author": "ウィーダ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784051032531",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002026792",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "学習研究社",
+    "pages": 123
+  },
+  {
+    "book_id": "isbn-9784834021424",
+    "title": "鏡の国のアリス",
+    "author": "ルイス・キャロル",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784834021424",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007943204",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "福音館書店",
+    "pages": 245
+  },
+  {
+    "book_id": "isbn-9784591147078",
+    "title": "メアリー・ポピンズ",
+    "author": "P・L・トラヴァース",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784591147078",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026808405",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ポプラ社",
+    "pages": 141
+  },
+  {
+    "book_id": "isbn-9784167905606",
+    "title": "ジャングル・ブック",
+    "author": "ラドヤード・キプリング",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167905606",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027323302",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 372
+  },
+  {
+    "book_id": "isbn-9784566022546",
+    "title": "チョコレート工場の秘密",
+    "author": "ロアルド・ダール",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784566022546",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001924423",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "評論社",
+    "pages": 282
+  },
+  {
+    "book_id": "isbn-9784566014220",
+    "title": "魔女がいっぱい",
+    "author": "ロアルド・ダール",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784566014220",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008079593",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "評論社",
+    "pages": 288
+  },
+  {
+    "book_id": "isbn-9784036082506",
+    "title": "大どろぼうホッツェンプロッツ",
+    "author": "オトフリート・プロイスラー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784036082506",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011212381",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "偕成社",
+    "pages": 184
+  },
+  {
+    "book_id": "isbn-9784062755870",
+    "title": "穴",
+    "author": "ルイス・サッカー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062755870",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008399136",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 339
   }
 ]
