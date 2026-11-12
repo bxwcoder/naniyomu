@@ -125361,5 +125361,1357 @@
     "tier": "basic",
     "publisher": "中央公論新社",
     "pages": 356
+  },
+  {
+    "book_id": "isbn-9784334106911",
+    "title": "日陰者ジュード",
+    "author": "トマス・ハーディ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334106911",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034102956",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 855
+  },
+  {
+    "book_id": "isbn-9784334753924",
+    "title": "ミドルマーチ",
+    "author": "ジョージ・エリオット",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334753924",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029394962",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 534
+  },
+  {
+    "book_id": "isbn-9784003223611",
+    "title": "サイラス・マーナー",
+    "author": "ジョージ・エリオット",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003223611",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001942748",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 355
+  },
+  {
+    "book_id": "isbn-9784102402412",
+    "title": "闇の奥",
+    "author": "ジョゼフ・コンラッド",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102402412",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032434706",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 248
+  },
+  {
+    "book_id": "isbn-9784309467283",
+    "title": "ロード・ジム",
+    "author": "ジョゼフ・コンラッド",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309467283",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031297160",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 584
+  },
+  {
+    "book_id": "isbn-9784087731477",
+    "title": "ハワーズ・エンド",
+    "author": "E・M・フォースター",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087731477",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002181347",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 379
+  },
+  {
+    "book_id": "isbn-9784480028525",
+    "title": "インドへの道",
+    "author": "E・M・フォースター",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480028525",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002330838",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 549
+  },
+  {
+    "book_id": "isbn-9784480036766",
+    "title": "眺めのいい部屋",
+    "author": "E・M・フォースター",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480036766",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003031904",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 380
+  },
+  {
+    "book_id": "isbn-9784334752972",
+    "title": "チャタレー夫人の恋人",
+    "author": "D・H・ロレンス",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334752972",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025726354",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 674
+  },
+  {
+    "book_id": "isbn-9784480427663",
+    "title": "息子と恋人",
+    "author": "D・H・ロレンス",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480427663",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027071228",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 798
+  },
+  {
+    "book_id": "isbn-9784003227725",
+    "title": "回想のブライズヘッド",
+    "author": "イーヴリン・ウォー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003227725",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010030839",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 303
+  },
+  {
+    "book_id": "isbn-9784003227718",
+    "title": "大転落",
+    "author": "イーヴリン・ウォー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003227718",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002116803",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 325
+  },
+  {
+    "book_id": "isbn-9784560070604",
+    "title": "コレクター",
+    "author": "ジョン・ファウルズ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784560070604",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001688825",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白水社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784003260531",
+    "title": "外套",
+    "author": "ゴーゴリ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003260531",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008118723",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 140
+  },
+  {
+    "book_id": "isbn-9784309207155",
+    "title": "死せる魂",
+    "author": "ゴーゴリ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309207155",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027597117",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 494
+  },
+  {
+    "book_id": "isbn-9784334751166",
+    "title": "鼻",
+    "author": "ゴーゴリ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334751166",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008370733",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 372
+  },
+  {
+    "book_id": "isbn-9784309205878",
+    "title": "犬の心臓",
+    "author": "ブルガーコフ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309205878",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023338156",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 223
+  },
+  {
+    "book_id": "isbn-9784003241011",
+    "title": "群盗",
+    "author": "シラー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003241011",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002252413",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784864882347",
+    "title": "ヴィルヘルム・テル",
+    "author": "シラー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784864882347",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031733947",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻戯書房",
+    "pages": 347
+  },
+  {
+    "book_id": "isbn-9784309461373",
+    "title": "砂男",
+    "author": "ホフマン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309461373",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002395521",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 196
+  },
+  {
+    "book_id": "isbn-9784334751777",
+    "title": "黄金の壺",
+    "author": "ホフマン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334751777",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010061529",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 414
+  },
+  {
+    "book_id": "isbn-9784488016906",
+    "title": "牡猫ムルの人生観",
+    "author": "ホフマン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488016906",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033807151",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 459
+  },
+  {
+    "book_id": "isbn-9784846004620",
+    "title": "白馬の騎手",
+    "author": "シュトルム",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784846004620",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009153788",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "論創社",
+    "pages": 214
+  },
+  {
+    "book_id": "isbn-9784334752620",
+    "title": "マルテの手記",
+    "author": "リルケ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334752620",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025470422",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 394
+  },
+  {
+    "book_id": "isbn-9784896426649",
+    "title": "若き詩人への手紙",
+    "author": "リルケ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784896426649",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032206973",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "未知谷",
+    "pages": 202
+  },
+  {
+    "book_id": "isbn-9784042082071",
+    "title": "マリー・アントワネット",
+    "author": "ツヴァイク",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784042082071",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008444669",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 362
+  },
+  {
+    "book_id": "isbn-9784622050063",
+    "title": "人類の星の時間",
+    "author": "ツヴァイク",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784622050063",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002544040",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "みすず書房",
+    "pages": 387
+  },
+  {
+    "book_id": "isbn-9784622080916",
+    "title": "チェスの話",
+    "author": "ツヴァイク",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784622080916",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011253933",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "みすず書房",
+    "pages": 242
+  },
+  {
+    "book_id": "isbn-9784835440712",
+    "title": "凱旋門",
+    "author": "レマルク",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784835440712",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909838967360",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ブッキング",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784003251225",
+    "title": "タルチュフ",
+    "author": "モリエール",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003251225",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I23111100284622",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 115
+  },
+  {
+    "book_id": "isbn-9784434122866",
+    "title": "フェードル",
+    "author": "ラシーヌ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784434122866",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009696335",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "メジャーリーグ",
+    "pages": 114
+  },
+  {
+    "book_id": "isbn-9784042939016",
+    "title": "危険な関係",
+    "author": "ラクロ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784042939016",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007361556",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 594
+  },
+  {
+    "book_id": "isbn-9784434347290",
+    "title": "コロンバ",
+    "author": "メリメ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784434347290",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033894929",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "風詠社",
+    "pages": 249
+  },
+  {
+    "book_id": "isbn-9784309460130",
+    "title": "モデラート・カンタービレ",
+    "author": "デュラス",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309460130",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001753814",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 153
+  },
+  {
+    "book_id": "isbn-9784102118290",
+    "title": "ブラームスはお好き",
+    "author": "サガン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102118290",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033425364",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 207
+  },
+  {
+    "book_id": "isbn-9784003275030",
+    "title": "野鴨",
+    "author": "イプセン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003275030",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002510365",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 234
+  },
+  {
+    "book_id": "isbn-9784003275054",
+    "title": "ヘッダ・ガーブレル",
+    "author": "イプセン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003275054",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002519356",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 203
+  },
+  {
+    "book_id": "isbn-9784846021689",
+    "title": "令嬢ジュリー",
+    "author": "ストリンドベリ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784846021689",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032077728",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "論創社",
+    "pages": 142
+  },
+  {
+    "book_id": "isbn-9784905392156",
+    "title": "赤い部屋",
+    "author": "ストリンドベリ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784905392156",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032903458",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "プレスポート",
+    "pages": 371
+  },
+  {
+    "book_id": "isbn-9784122077539",
+    "title": "即興詩人",
+    "author": "アンデルセン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122077539",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034554576",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 338
+  },
+  {
+    "book_id": "isbn-9784036510306",
+    "title": "ニルスのふしぎな旅",
+    "author": "ラーゲルレーヴ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784036510306",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001595141",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "偕成社",
+    "pages": 299
+  },
+  {
+    "book_id": "isbn-9784102111017",
+    "title": "白い牙",
+    "author": "ジャック・ロンドン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102111017",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008365874",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 376
+  },
+  {
+    "book_id": "isbn-9784061860964",
+    "title": "O・ヘンリー短編集",
+    "author": "O・ヘンリー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061860964",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970304959835118111",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784003232019",
+    "title": "大地",
+    "author": "パール・バック",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003232019",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002559671",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 466
+  },
+  {
+    "book_id": "isbn-9784087602418",
+    "title": "石蹴り遊び",
+    "author": "コルタサル",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087602418",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002385792",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 429
+  },
+  {
+    "book_id": "isbn-9784003279618",
+    "title": "緑の家",
+    "author": "バルガス＝リョサ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003279618",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010976280",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 351
+  },
+  {
+    "book_id": "isbn-9784105145033",
+    "title": "都会と犬ども",
+    "author": "バルガス＝リョサ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784105145033",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001881095",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 421
+  },
+  {
+    "book_id": "isbn-9784309464411",
+    "title": "楽園への道",
+    "author": "バルガス＝リョサ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309464411",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028127474",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 632
+  },
+  {
+    "book_id": "isbn-9784497212061",
+    "title": "駱駝祥子",
+    "author": "老舎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784497212061",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026232195",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東方書店",
+    "pages": 477
+  },
+  {
+    "book_id": "isbn-9784122066861",
+    "title": "活きる",
+    "author": "余華",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122066861",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029426399",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 331
+  },
+  {
+    "book_id": "isbn-9784167705909",
+    "title": "兄弟",
+    "author": "余華",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167705909",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011052544",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 521
+  },
+  {
+    "book_id": "isbn-9784006020798",
+    "title": "赤い高粱",
+    "author": "莫言",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784006020798",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004333492",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 328
   }
 ]
