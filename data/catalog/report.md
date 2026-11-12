@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-11T12:48:49.170Z
-- 候補：3498冊
-- 入れた本：3188冊
-- 入れなかった本：310冊
+- 検索日時：2026-11-12T13:25:36.976Z
+- 候補：3570冊
+- 入れた本：3257冊
+- 入れなかった本：313冊
 
 ## 入れなかった本
 
@@ -317,6 +317,9 @@
 - むかしも今も／山本周五郎（日本の名作）：タイトルが同じで ISBN のある記録がない
 - ローゼンメイデン／PEACH-PIT（漫画の定番）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
 - ツバサ／CLAMP（漫画の定番）：著者が合う記録がない
+- 東京日記／川上弘美（エッセイ定番）：タイトルが同じで ISBN のある記録がない
+- 大工よ、屋根の梁を高く上げよ／J・D・サリンジャー（海外の名作）：タイトルが同じで ISBN のある記録がない
+- 郵便配達夫はいつも二度ベルを鳴らす／ジェームズ・M・ケイン（ミステリー定番）：著者が合う記録がない
 
 ## 入れた本と選んだ版
 
@@ -3508,3 +3511,72 @@
 - 会長はメイド様!：花とゆめcomics／白泉社／2006.9／187p／NDC 726.1／manga・easy・long
 - ヴァンパイア騎士：花とゆめcomics／白泉社／2005.7／1冊 (ページ付なし)／NDC 726.1／manga・easy・long
 - 黒崎くんの言いなりになんてならない：講談社コミックス別冊フレンド ; 1926／講談社／2014.6／184p／NDC 726.1／manga・easy・long
+- 半沢直樹 アルルカンと道化師：講談社文庫／講談社／2023.9／425 p／NDC 913.6／novel・easy・medium
+- ようこそ、わが家へ：小学館文庫 ; い39-2／小学館／2013.7／445p／NDC 913.6／novel・easy・medium
+- かばん屋の相続：文春文庫 ; い64-5／文藝春秋／2011.4／290p／NDC 913.6／novel・easy・medium
+- 架空通貨：講談社文庫／講談社／2003.3／464p／NDC 913.6／mystery_sf・normal・long
+- 株価暴落：文春文庫／文藝春秋／2007.3／302p／NDC 913.6／mystery_sf・normal・medium
+- BT'63：講談社文庫／講談社／2006.6／395p／NDC 913.6／mystery_sf・normal・long
+- 夜の国のクーパー：創元推理文庫 ; Mい4-2／東京創元社／2015.3／461p／NDC 913.6／novel・easy・long
+- PK：講談社文庫 ; い111-5／講談社／2014.11／259p／NDC 913.6／novel・easy・medium
+- 透明カメレオン：角川文庫 ; み39-3／KADOKAWA／2018.1／453p／NDC 913.6／novel・easy・long
+- 貘の檻：新潮文庫 ; み-40-6／新潮社／2017.1／570p／NDC 913.6／mystery_sf・normal・long
+- 笑うハーレキン：中公文庫 ; み48-1／中央公論新社／2016.1／412p／NDC 913.6／novel・easy・medium
+- いけない：叢書なし／文藝春秋／2019.7／251p／NDC 913.6／mystery_sf・normal・medium
+- ガラスの殺意：双葉文庫 ; あ-55-05／双葉社／2024.10／351p／NDC 913.6／mystery_sf・normal・medium
+- 暗黒女子：双葉文庫 ; あ-55-01／双葉社／2016.6／294p／NDC 913.6／mystery_sf・normal・medium
+- ユリゴコロ：双葉文庫 ; ぬ-03-02／双葉社／2014.1／330p／NDC 913.6／mystery_sf・normal・medium
+- 彼女がその名を知らない鳥たち：幻冬舎文庫 ; ぬ-2-1／幻冬舎／2009.10／389p／NDC 913.6／mystery_sf・normal・medium
+- 九月が永遠に続けば：新潮文庫／新潮社／2008.2／495p／NDC 913.6／mystery_sf・normal・long
+- 猫を棄てる：文春文庫 ; む5-16／文藝春秋／2022.11／122p／NDC 914.6／nonfiction・easy・short
+- 神さまたちの遊ぶ庭：光文社文庫 ; み30-2／光文社／2017.7／325p／NDC 914.6／nonfiction・easy・medium
+- たった、それだけ：双葉文庫 ; み-26-02／双葉社／2017.1／212p／NDC 913.6／novel・easy・short
+- 夫婦茶碗：新潮文庫／新潮社／2001.5／221p／NDC 913.6／novel・easy・short
+- パンク侍、斬られて候：角川文庫／角川書店／2006.10／360p／NDC 913.6／novel・easy・medium
+- ギケイキ：河出文庫 ; ま17-3／河出書房新社／2018.6／395p／NDC 913.6／novel・easy・medium
+- ホサナ：講談社文庫 ; ま46-17／講談社／2020.11／922p／NDC 913.6／novel・easy・long
+- ニッポニアニッポン：新潮文庫／新潮社／2004.8／193p／NDC 913.6／novel・easy・short
+- シンセミア：講談社文庫 ; あ86-6／講談社／2013.5／487p／NDC 913.6／novel・easy・long
+- ピストルズ：講談社文庫 ; あ86-8／講談社／2013.6／361p／NDC 913.6／novel・easy・long
+- 決壊：新潮文庫 ; ひ-18-11／新潮社／2011.6／480p／NDC 913.6／novel・easy・long
+- 本心：文春文庫 ; ひ19-4／文藝春秋／2023.12／475p／NDC 913.6／novel・easy・long
+- ドーン：講談社文庫 ; ひ39-2／講談社／2012.5／653p／NDC 913.6／novel・easy・long
+- 妖精が舞い下りる夜：角川文庫／角川書店／1997.9／246p／NDC 914.6／nonfiction・easy・short
+- ブラフマンの埋葬：講談社文庫／講談社／2007.4／180p／NDC 913.6／novel・easy・short
+- ホテル・アイリス：幻冬舎文庫／幻冬舎／1998.8／249p／NDC 913.6／novel・easy・short
+- 薬指の標本：新潮文庫／新潮社／1998.1／185p／NDC 913.6／novel・easy・short
+- 琥珀のまたたき：講談社文庫 ; お80-4／講談社／2018.12／330p／NDC 913.6／novel・easy・medium
+- 不時着する流星たち：角川文庫 ; お31-7／KADOKAWA／2019.6／271p／NDC 913.6／novel・easy・medium
+- いつも彼らはどこかに：新潮文庫 ; お-45-7／新潮社／2016.1／253p／NDC 913.6／novel・easy・medium
+- 偶然の祝福：角川文庫／角川書店／2004.1／201p／NDC 913.6／novel・easy・short
+- 沈黙博物館：ちくま文庫／筑摩書房／2004.6／376p／NDC 913.6／novel・easy・medium
+- 貴婦人Aの蘇生：朝日文庫／朝日新聞社／2005.12／243p／NDC 913.6／novel・easy・short
+- ぼくの死体をよろしくたのむ：新潮文庫 ; か-35-15／新潮社／2022.9／294p／NDC 913.6／novel・easy・medium
+- 溺レる：文春文庫／文藝春秋／2002.9／204p／NDC 913.6／novel・easy・short
+- 龍宮：文春文庫／文藝春秋／2005.9／231p／NDC 913.6／novel・easy・short
+- 神様：中公文庫／中央公論新社／2001.10／203p／NDC 913.6／novel・easy・short
+- 光ってみえるもの、あれは：中公文庫／中央公論新社／2006.10／362p／NDC 913.6／novel・easy・medium
+- 大きな鳥にさらわれないよう：講談社文庫 ; か113-3／講談社／2019.10／413p／NDC 913.6／novel・easy・medium
+- 某：幻冬舎文庫 ; か-8-2／幻冬舎／2021.8／430p／NDC 913.6／novel・easy・medium
+- おめでとう：叢書なし／新潮社／2000.11／191p／NDC 913.6／novel・easy・short
+- これでよろしくて?：中公文庫 ; か57-6／中央公論新社／2012.10／357p／NDC 913.6／novel・easy・medium
+- なんとなくな日々：新潮文庫 ; か-35-8／新潮社／2009.3／181p／NDC 914.6／nonfiction・easy・short
+- ベッドタイムアイズ：河出文庫／河出書房新社／1987.8／158p／NDC 913.6／novel・easy・short
+- 風味絶佳：文春文庫／文藝春秋／2008.5／259p／NDC 913.6／novel・easy・medium
+- トラッシュ：文春文庫／文芸春秋／1994.2／574p／NDC 913.6／novel・easy・long
+- ジェントルマン：講談社文庫 ; や30-17／講談社／2014.7／238p／NDC 913.6／novel・easy・short
+- 蝶々の纏足・風葬の教室：新潮文庫／新潮社／1997.3／215p／NDC 913.6／novel・easy・short
+- ひざまずいて足をお舐め：新潮文庫／新潮社／1991.11／318p／NDC 913.6／novel・easy・medium
+- いつか王子駅で：新潮文庫／新潮社／2006.9／185p／NDC 913.6／novel・easy・short
+- 河岸忘日抄：新潮文庫／新潮社／2008.5／407p／NDC 913.6／novel・easy・medium
+- おぱらばん：新潮文庫 ; ほ-16-4／新潮社／2009.3／282p／NDC 914.6／novel・easy・medium
+- 回送電車：中公文庫／中央公論新社／2008.6／285p／NDC 914.6／nonfiction・easy・medium
+- 未亡人の一年：新潮文庫／新潮社／2005.9／549p／NDC 933.7／novel・normal・long
+- サイダーハウス・ルール：文春文庫／文芸春秋／1996.7／532p／NDC 933.7／novel・normal・long
+- オウエンのために祈りを：新潮文庫／新潮社／2006.10／573p／NDC 933.7／novel・normal・long
+- 冬の夢：叢書なし／中央公論新社／2009.11／321p／NDC 933.7／novel・normal・medium
+- 愛について語るときに我々の語ること：The complete works of Raymond Carver ; 2／中央公論社／1990.8／329p／NDC 933／novel・normal・medium
+- 頼むから静かにしてくれ：The complete works of Raymond Carver ; 1／中央公論社／1991.2／540p／NDC 933／novel・normal・long
+- さよなら、愛しい人：ハヤカワ・ミステリ文庫 ; HM7-12／早川書房／2011.6／477p／NDC 933.7／mystery_sf・normal・long
+- 高い窓：ハヤカワ・ミステリ文庫／早川書房／1988.9／343p／NDC 933／mystery_sf・normal・medium
+- プレイバック：叢書なし／早川書房／2016.12／319p／NDC 933.7／mystery_sf・normal・medium
