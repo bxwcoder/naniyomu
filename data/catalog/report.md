@@ -1,8 +1,8 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-12T17:41:01.576Z
-- 候補：3888冊
-- 入れた本：3546冊
+- 検索日時：2026-11-12T17:59:17.593Z
+- 候補：3941冊
+- 入れた本：3599冊
 - 入れなかった本：342冊
 
 ## 入れなかった本
@@ -3898,3 +3898,56 @@
 - 夏期限定トロピカルパフェ事件：創元推理文庫／東京創元社／2006.4／246p／NDC 913.6／mystery_sf・normal・short
 - 真実の10メートル手前：創元推理文庫 ; Mよ1-9／東京創元社／2018.3／328p／NDC 913.6／mystery_sf・normal・medium
 - 本と鍵の季節：集英社文庫 ; よ26-2／集英社／2021.6／359p／NDC 913.6／mystery_sf・normal・medium
+- 旅屋おかえり：集英社文庫 ; は44-1／集英社／2014.9／349p／NDC 913.6／novel・easy・medium
+- 生きるぼくら：徳間文庫 ; は36-2／徳間書店／2015.9／423p／NDC 913.6／novel・easy・medium
+- 総理の夫：実業之日本社文庫 ; は4-3／実業之日本社／2020.11／455p／NDC 913.6／novel・easy・long
+- 常設展示室：新潮文庫 ; は-63-4／新潮社／2021.11／237p／NDC 913.6／novel・easy・short
+- リーチ先生：集英社文庫 ; は44-4／集英社／2019.6／597p／NDC 913.6／novel・easy・long
+- 美しき愚かものたちのタブロー：文春文庫 ; は40-6／文藝春秋／2022.6／483p／NDC 913.6／novel・easy・long
+- ジヴェルニーの食卓：集英社文庫 ; は44-2／集英社／2015.6／276p／NDC 913.6／novel・easy・medium
+- 板上に咲く：叢書なし／幻冬舎／2024.3／257p／NDC 913.6／novel・easy・medium
+- 仏果を得ず：双葉文庫 ; み-22-01／双葉社／2011.7／325p／NDC 913.6／novel・easy・medium
+- 格闘する者に○：新潮文庫／新潮社／2005.3／279p／NDC 913.6／novel・easy・medium
+- 月魚：角川文庫／角川書店／2004.5／232p／NDC 913.6／novel・easy・short
+- 天国旅行：新潮文庫 ; み-34-12／新潮社／2013.8／312p／NDC 913.6／novel・easy・medium
+- 星間商事株式会社社史編纂室：ちくま文庫 ; み33-1／筑摩書房／2014.3／351p／NDC 913.6／novel・easy・medium
+- 政と源：集英社オレンジ文庫 ; み3-1／集英社／2017.6／291p／NDC 913.6／novel・easy・medium
+- 墨のゆらめき：叢書なし／新潮社／2023.5／225p／NDC 913.6／novel・easy・short
+- 私が語りはじめた彼は：新潮文庫／新潮社／2007.8／297p／NDC 913.6／novel・easy・medium
+- 終わらざる夏：集英社文庫 ; あ36-18／集英社／2013.6／354p／NDC 913.6／novel・easy・long
+- 輪違屋糸里：文春文庫／文藝春秋／2007.3／366p／NDC 913.6／novel・easy・long
+- 黒書院の六兵衛：文春文庫 ; あ39-16／文藝春秋／2017.1／324p／NDC 913.6／novel・easy・long
+- 中原の虹：講談社文庫 ; あ70-18／講談社／2010.9／371p／NDC 913.6／novel・easy・long
+- 珍妃の井戸：講談社文庫／講談社／2005.4／402p／NDC 913.6／novel・easy・medium
+- 憑神：新潮文庫／新潮社／2007.5／357p／NDC 913.6／novel・easy・medium
+- おもかげ：叢書なし／毎日新聞出版／2017.12／377p／NDC 913.6／novel・easy・medium
+- 母の待つ里：新潮文庫 ; あ-47-8／新潮社／2024.8／388p／NDC 913.6／novel・easy・medium
+- もういちど生まれる：幻冬舎文庫 ; あ-49-1／幻冬舎／2014.4／286p／NDC 913.6／novel・easy・medium
+- スペードの3：講談社文庫 ; あ135-1／講談社／2017.4／344p／NDC 913.6／novel・easy・medium
+- どうしても生きてる：幻冬舎文庫 ; あ-49-2／幻冬舎／2021.12／379p／NDC 913.6／novel・easy・medium
+- スター：朝日文庫 ; あ75-1／朝日新聞出版／2023.3／390p／NDC 913.6／novel・easy・medium
+- チア男子!!：集英社文庫 ; あ69-2／集英社／2013.2／486p／NDC 913.6／novel・easy・long
+- 舞台：講談社文庫 ; に38-1／講談社／2017.1／213p／NDC 913.6／novel・easy・short
+- 炎上する君：角川文庫 ; に19-2／角川書店、角川グループパブリッシング (発売)／2012.11／213p／NDC 913.6／novel・easy・short
+- ふる：河出文庫 ; に9-1／河出書房新社／2015.11／268p／NDC 913.6／novel・easy・medium
+- アーモンド入りチョコレートのワルツ：角川文庫／角川書店／2005.6／209p／NDC 913.6／novel・easy・short
+- 宇宙のみなしご：角川文庫 ; 16324／角川書店、角川グループパブリッシング (発売)／2010.6／176p／NDC 913.6／novel・easy・short
+- 卵の緒：新潮文庫／新潮社／2007.7／216p／NDC 913.6／novel・easy・short
+- あと少し、もう少し：新潮文庫 ; せ-12-3／新潮社／2015.4／361p／NDC 913.6／novel・easy・medium
+- 君が夏を走らせる：新潮文庫 ; せ-12-4／新潮社／2020.7／363p／NDC 913.6／novel・easy・medium
+- その扉をたたく音：集英社文庫 ; せ6-4／集英社／2023.11／213p／NDC 913.6／novel・easy・short
+- 塗仏の宴：講談社文庫／講談社／2006.5／345p／NDC 913.6／mystery_sf・normal・long
+- 陰摩羅鬼の瑕：講談社文庫／講談社／2006.9／421p／NDC 913.6／mystery_sf・normal・long
+- 邪魅の雫：講談社文庫 ; き39-13／講談社／2009.6／1318p／NDC 913.6／mystery_sf・normal・long
+- 前巷説百物語：角川文庫 ; 16036. [怪books]／角川書店、角川グループパブリッシング (発売)／2009.12／737p／NDC 913.6／mystery_sf・normal・long
+- 西巷説百物語：角川文庫 ; き26-6／角川書店、角川グループパブリッシング (発売)／2013.3／616p／NDC 913.6／mystery_sf・normal・long
+- 死ねばいいのに：講談社文庫 ; き39-14／講談社／2012.11／456p／NDC 913.6／mystery_sf・normal・long
+- 書楼弔堂：集英社文庫 ; き15-4／集英社／2016.12／536p／NDC 913.6／mystery_sf・normal・long
+- 厭な小説：角川文庫 ; き26-56／KADOKAWA／2020.5／482p／NDC 913.6／mystery_sf・normal・long
+- 殺人鬼：新潮文庫／新潮社／1996.2／314p／NDC 913.6／mystery_sf・normal・medium
+- 深泥丘奇談：角川文庫 ; あ45-12／KADOKAWA／2014.6／311p／NDC 913.6／mystery_sf・normal・medium
+- 朱色の研究：角川文庫／角川書店／2000.8／421p／NDC 913.6／mystery_sf・normal・medium
+- 幽霊刑事：講談社文庫／講談社／2003.7／514p／NDC 913.6／mystery_sf・normal・long
+- 鍵の掛かった男：幻冬舎文庫 ; あ-23-2／幻冬舎／2017.10／731p／NDC 913.6／mystery_sf・normal・long
+- 狩人の悪夢：角川文庫 ; あ26-14／KADOKAWA／2019.6／469p／NDC 913.6／mystery_sf・normal・long
+- インド倶楽部の謎：講談社文庫 ; あ58-22／講談社／2020.9／542p／NDC 913.6／mystery_sf・normal・long
