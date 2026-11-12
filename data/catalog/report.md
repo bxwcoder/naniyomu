@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-12T18:50:03.327Z
-- 候補：4086冊
-- 入れた本：3739冊
-- 入れなかった本：347冊
+- 検索日時：2026-11-12T19:10:04.205Z
+- 候補：4171冊
+- 入れた本：3820冊
+- 入れなかった本：351冊
 
 ## 入れなかった本
 
@@ -354,6 +354,10 @@
 - 茶色の服を着た男／アガサ・クリスティー（ミステリー定番）：タイトルが同じで ISBN のある記録がない
 - 妖精王／山岸凉子（漫画の定番）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
 - 漂流／吉村昭（日本の名作）：タイトルが同じで ISBN のある記録がない
+- はなれ瞽女おりん／水上勉（日本の名作）：タイトルが同じで ISBN のある記録がない
+- 猟銃／井上靖（日本の名作）：タイトルが同じで ISBN のある記録がない
+- 悪霊島／横溝正史（ミステリー定番）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
+- 悪魔の飽食／森村誠一（ノンフィクション定番）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
 
 ## 入れた本と選んだ版
 
@@ -4096,3 +4100,84 @@
 - 移民の宴：講談社文庫 ; た116-5／講談社／2015.9／397p 図版8枚／NDC 383.81／nonfiction・normal・medium
 - 日本三文オペラ：新潮文庫 ; か-5-2／新潮社／2011.3／346p ; 16cm／NDC 913.6／novel・normal・medium
 - 珠玉：文春文庫／文芸春秋／1993.1／205p／NDC 913.6／novel・normal・short
+- 櫂：新潮文庫／新潮社／1996.11／544p／NDC 913.6／novel・normal・long
+- 天璋院篤姫：講談社文庫／講談社／2007.3／419p／NDC 913.6／novel・normal・long
+- 鬼龍院花子の生涯：文春文庫 ; み2-13／文藝春秋／2011.3／327p／NDC 913.6／novel・normal・medium
+- 一絃の琴：講談社文庫／講談社／1982.7／402p／NDC 913.6／novel・normal・medium
+- 序の舞：中公文庫／中央公論社／1985.1／738p／NDC 913.6／novel・normal・long
+- 陽暉楼：文春文庫／文藝春秋／1998.3／473p／NDC 913.6／novel・normal・long
+- 蔵：中公文庫／中央公論社／1995.7／482p／NDC 913.6／novel・normal・long
+- 春燈：叢書なし／新潮社／1988／ページ数不明／NDC 913.6／novel・normal・medium
+- 落日燃ゆ：新潮文庫／新潮社／1986.11／392p／NDC 913.6／novel・normal・medium
+- 官僚たちの夏：新潮文庫／新潮社／2002.3／352p／NDC 913.6／novel・normal・medium
+- 男子の本懐：新潮文庫／新潮社／1983.11／401p／NDC 913.6／novel・normal・medium
+- 毎日が日曜日：新潮文庫／新潮社／2002.5／652p／NDC 913.6／novel・normal・long
+- 黄金の日日：新潮文庫／新潮社／1982.11／331p／NDC 913.6／novel・normal・medium
+- 硫黄島に死す：新潮文庫／新潮社／1984.7／322p／NDC 913.6／novel・normal・medium
+- 雄気堂々：新潮文庫／新潮社／2003.8／445p／NDC 913.6／novel・normal・long
+- 五番町夕霧楼：P+D BOOKS／小学館／2016.11／227p／NDC 913.6／novel・normal・short
+- 越前竹人形：カラーブックス ; 632／保育社／1984.2／150p／NDC 913.6／novel・normal・short
+- 海の牙：双葉文庫. 日本推理作家協会賞受賞作全集 ; 13／双葉社／1995.11／334p／NDC 913.6／novel・normal・medium
+- 一休：中公文庫／中央公論社／1997.5／474p／NDC 913.6／novel・normal・long
+- 和宮様御留：講談社文庫 ; あ2-4／講談社／2014.4／507p／NDC 913.6／novel・normal・long
+- 出雲の阿国：中公文庫／中央公論新社／2002.8／501p／NDC 913.6／novel・normal・long
+- 非色：河出文庫 ; あ35-1／河出書房新社／2020.11／420p／NDC 913.6／novel・normal・medium
+- 香華：新潮文庫／新潮社／2006.8／680p／NDC 913.6／novel・normal・long
+- 悪女について：新潮文庫／新潮社／1983.3／477p／NDC 913.6／novel・normal・long
+- 青い壺：文春文庫／文藝春秋／2011.7／345p／NDC 913.6／novel・normal・medium
+- 一の糸：新潮文庫／新潮社／2007.11／551p／NDC 913.6／novel・normal・long
+- 芙蓉の人：文春文庫 ; に1-43／文藝春秋／2014.6／283p／NDC 913.6／novel・normal・medium
+- 栄光の岩壁：新潮文庫／新潮社／1990／416p ; 16cm／NDC 913.6／novel・normal・long
+- 銀嶺の人：叢書なし／新潮社／1979.5／ページ数不明／NDC 913.6／novel・normal・long
+- 聖職の碑：講談社文庫 ; に4-13／講談社／2011.6／456p／NDC 913.6／novel・normal・long
+- 蒼き狼：新潮文庫／新潮社／2006.9／449p／NDC 913.6／novel・normal・medium
+- 額田女王：新潮文庫／新潮社／1990／522p ; 16cm／NDC 913.6／novel・normal・long
+- 夏草冬濤：新潮文庫 ; い-7-52／新潮社／2013.1／495p／NDC 913.6／novel・normal・long
+- 北の海：新潮文庫／新潮社／2003.8／440p／NDC 913.6／novel・normal・long
+- 本覚坊遺文：講談社文庫／講談社／1984.11／231p／NDC 913.6／novel・normal・short
+- 孔子：叢書なし／新潮社／1989.9／413p／NDC 913.6／novel・normal・medium
+- おろしや国酔夢譚：徳間文庫／徳間書店／1991.12／396p／NDC 913.6／novel・normal・medium
+- 淀どの日記：角川文庫／角川書店、角川グループパブリッシング (発売)／2007.11／494p／NDC 913.6／novel・normal・long
+- 山猫の夏：講談社文庫／講談社／1995.11／726p／NDC 913.6／novel・easy・long
+- 猛き箱舟：集英社文庫／集英社／1997.5／616p／NDC 913.6／novel・easy・long
+- 砂のクロニクル：新潮文庫／新潮社／1994.12／585p／NDC 913.6／novel・easy・long
+- 虹の谷の五月：集英社文庫／集英社／2003.5／462p／NDC 913.6／novel・easy・long
+- 満州国演義：新潮文庫 ; ふ-25-10. 満州国演義 ; 1／新潮社／2015.8／551p／NDC 913.6／novel・easy・long
+- 若冲：文春文庫 ; さ70-1／文藝春秋／2017.4／393p／NDC 913.6／novel・easy・medium
+- 火定：PHP文芸文庫 ; さ5-1／PHP研究所／2020.11／442p／NDC 913.6／novel・easy・medium
+- 孤鷹の天：徳間文庫 ; さ31-5／徳間書店／2013.9／470p／NDC 913.6／novel・easy・long
+- 満つる月の如し：徳間文庫 ; さ31-7／徳間書店／2014.10／476p／NDC 913.6／novel・easy・long
+- 夏姫春秋：講談社文庫／講談社／1995.9／285p／NDC 913.6／novel・easy・long
+- 天空の舟：文春文庫／文芸春秋／1993.9／422p／NDC 913.6／novel・easy・long
+- 孟嘗君：講談社文庫／講談社／1998.9／333p／NDC 913.6／novel・easy・long
+- 介子推：講談社文庫／講談社／1998.5／482p／NDC 913.6／novel・easy・long
+- 太公望：文春文庫／文藝春秋／2001.4／490p／NDC 913.6／novel・easy・long
+- 小太郎の左腕：小学館文庫 ; わ10-3／小学館／2011.9／381p／NDC 913.6／novel・easy・medium
+- うそうそ：新潮文庫／新潮社／2008.12／348p／NDC 913.6／novel・easy・medium
+- ねこのばば：新潮文庫／新潮社／2006.12／321p／NDC 913.6／novel・easy・medium
+- おまけのこ：新潮文庫／新潮社／2007.12／322p／NDC 913.6／novel・easy・medium
+- 銀漢の賦：文春文庫 ; は36-1／文藝春秋／2010.2／283p／NDC 913.6／novel・easy・medium
+- 霖雨：PHP文芸文庫 ; は4-1／PHP研究所／2014.11／397p／NDC 913.6／novel・easy・medium
+- 潮鳴り：祥伝社文庫 ; は12-2／祥伝社／2016.5／400p／NDC 913.6／novel・easy・medium
+- 武王の門：新潮文庫／新潮社／1993.8／510p／NDC 913.6／novel・easy・long
+- 弔鐘はるかなり：集英社文庫／集英社／1985.2／345p／NDC 913.6／novel・easy・medium
+- 百舌の叫ぶ夜：集英社文庫 ; お16-15／集英社／2014.3／449p／NDC 913.6／mystery_sf・normal・medium
+- 平家伝説殺人事件：角川文庫／角川書店／1985.6／291p／NDC 913.6／mystery_sf・normal・medium
+- 遠野殺人事件：光文社文庫／光文社／1987.4／369p／NDC 913.6／mystery_sf・normal・medium
+- 戸隠伝説殺人事件：角川文庫／角川書店／1985.9／400p／NDC 913.6／mystery_sf・normal・medium
+- 野性の証明：角川文庫 ; も3-93／KADOKAWA／2015.2／510p／NDC 913.6／mystery_sf・normal・long
+- 青春の証明：角川文庫／角川書店／2004.7／454p／NDC 913.6／mystery_sf・normal・long
+- 腐蝕の構造：双葉文庫. 日本推理作家協会賞受賞作全集 ; 26／双葉社／1996.11／598p／NDC 913.6／mystery_sf・normal・long
+- 殺しの双曲線：講談社文庫 ; に1-107／講談社／2012.8／485p／NDC 913.6／mystery_sf・normal・long
+- 名探偵なんか怖くない：講談社文庫／講談社／2006.7／356p／NDC 913.6／mystery_sf・normal・medium
+- 華麗なる誘拐：河出文庫 ; に13-1／河出書房新社／2020.7／424p／NDC 913.6／mystery_sf・normal・medium
+- 消えたタンカー：光文社文庫／光文社／1985.5／394p／NDC 913.6／mystery_sf・normal・medium
+- マリオネットの罠：文春文庫／文藝春秋／2006.11／379p／NDC 913.6／mystery_sf・normal・medium
+- 幽霊列車：文春文庫 ; あ1-39／文藝春秋／2016.1／381p／NDC 913.6／mystery_sf・normal・medium
+- 探偵物語：角川文庫／角川書店／1984.8／266p／NDC 913.6／mystery_sf・normal・medium
+- 夜歩く：叢書なし／角川書店／198605／３２０ｐ ; １５ｃｍ／NDC 913.6／mystery_sf・normal・medium
+- 仮面舞踏会：横溝正史自選集 ; 7／出版芸術社／2007.6／414p／NDC 913.6／mystery_sf・normal・medium
+- 病院坂の首縊りの家：角川文庫. 金田一耕助ファイル ; 20／角川書店／2003.5／367p／NDC 913.6／mystery_sf・normal・long
+- 三つ首塔：叢書なし／角川書店／198603／３４８ｐ ; １５ｃｍ／NDC 913.6／mystery_sf・normal・medium
+- 蝶々殺人事件：角川文庫 ; よ5-44／KADOKAWA／2020.3／431p／NDC 913.6／mystery_sf・normal・medium
+- 土を喰う日々：新潮文庫／新潮社／1982.8／235p／NDC 596.1／nonfiction・normal・short
