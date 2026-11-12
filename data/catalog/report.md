@@ -1,8 +1,8 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-12T21:46:56.011Z
-- 候補：4771冊
-- 入れた本：4351冊
+- 検索日時：2026-11-12T22:02:54.944Z
+- 候補：4853冊
+- 入れた本：4433冊
 - 入れなかった本：420冊
 
 ## 入れなかった本
@@ -4781,3 +4781,85 @@
 - ひと：祥伝社文庫 ; お25-3／祥伝社／2021.4／330p／NDC 913.6／novel・easy・medium
 - 月まで三キロ：新潮文庫／新潮社／2021.7／361 p／NDC 913.6／novel・easy・medium
 - 名もなき星の哀歌：新潮文庫 ; ゆ-16-1／新潮社／2021.10／537p／NDC 913.6／novel・easy・long
+- 一九三四年冬―乱歩：新潮文庫／新潮社／1997.2／336p／NDC 913.6／novel・easy・medium
+- 蝶とヒットラー：ハルキ文庫／角川春樹事務所／1997.12／204p／NDC 914.6／novel・easy・short
+- 欲望：新潮文庫／新潮社／2000.4／493p／NDC 913.6／novel・easy・long
+- 無伴奏：集英社文庫／集英社／1994.9／290p／NDC 913.6／novel・easy・medium
+- 望みは何と訊かれたら：新潮文庫 ; こ-25-14／新潮社／2010.6／621p／NDC 913.6／novel・easy・long
+- 鳩の撃退法：小学館文庫 ; さ4-11／小学館／2018.1／548p／NDC 913.6／novel・easy・long
+- Y：ハルキ文庫／角川春樹事務所／2001.5／321p／NDC 913.6／novel・easy・medium
+- ジャンプ：光文社文庫／光文社／2002.10／360p／NDC 913.6／novel・easy・medium
+- 僕のなかの壊れていない部分：光文社文庫／光文社／2005.3／376p／NDC 913.6／novel・easy・medium
+- 夏の終り：新潮文庫／新潮社／2005.8／232p／NDC 913.6／novel・easy・short
+- 美は乱調にあり：岩波現代文庫. 文芸 ; 284／岩波書店／2017.1／344p／NDC 913.6／novel・easy・medium
+- 花芯：講談社文庫／講談社／2005.2／258p／NDC 913.6／novel・easy・medium
+- 場所：新潮文庫／新潮社／2004.8／341p／NDC 913.6／novel・easy・medium
+- 秘花：新潮文庫 ; せ-2-41／新潮社／2010.1／263p／NDC 913.6／novel・easy・medium
+- 透光の樹：文春文庫／文藝春秋／2002.5／251p／NDC 913.6／novel・easy・medium
+- さようなら、ギャングたち：講談社文芸文庫／講談社／1997.4／381p／NDC 913.6／novel・easy・medium
+- 優雅で感傷的な日本野球：河出文庫／河出書房新社／1991.4／258p／NDC 913.6／novel・easy・medium
+- 日本文学盛衰史：講談社文庫／講談社／2004.6／660p／NDC 913.6／novel・easy・long
+- 海猫：新潮文庫／新潮社／2004.9／351p／NDC 913.6／novel・easy・long
+- 11 eleven：河出文庫 ; つ7-2／河出書房新社／2014.4／287p／NDC 913.6／novel・easy・medium
+- ブラバン：新潮文庫 ; つ-24-1／新潮社／2009.11／427p／NDC 913.6／novel・easy・medium
+- 家族狩り：叢書なし／新潮社／1995.11／562p／NDC 913.6／novel・easy・long
+- FUTON：講談社文庫／講談社／2007.4／382p／NDC 913.6／novel・easy・medium
+- かたづの!：集英社文庫 ; な41-7／集英社／2017.6／489p／NDC 913.6／novel・easy・long
+- 閉鎖病棟：新潮文庫／新潮社／1997.5／361p／NDC 913.6／novel・easy・medium
+- 三たびの海峡：新潮文庫／新潮社／1995.8／465p／NDC 913.6／novel・easy・long
+- 逃亡：新潮文庫／新潮社／2000.8／623p／NDC 913.6／novel・easy・long
+- 蠅の帝国：新潮文庫 ; は-7-24／新潮社／2014.1／602p／NDC 913.6／novel・easy・long
+- 愛の領分：文春文庫／文藝春秋／2004.6／464p／NDC 913.6／novel・easy・long
+- 鋼鉄の騎士：新潮文庫／新潮社／1998.2／757p／NDC 913.6／novel・easy・long
+- アラビアの夜の種族：角川文庫／角川書店／2006.7／277p／NDC 913.6／novel・easy・long
+- LOVE：新潮文庫 ; ふ-42-1／新潮社／2010.4／387p／NDC 913.6／novel・easy・medium
+- ベルカ、吠えないのか?：文春文庫／文藝春秋／2008.5／394p／NDC 913.6／novel・easy・medium
+- 季節の記憶：中公文庫／中央公論新社／1999.9／376p／NDC 913.6／novel・easy・medium
+- プレーンソング：中公文庫／中央公論新社／2000.5／245p／NDC 913.6／novel・easy・short
+- 親指Pの修業時代：河出文庫／河出書房新社／1995.9／359p／NDC 913.6／novel・easy・long
+- ナチュラル・ウーマン：河出文庫／河出書房新社／1991.10／220p／NDC 913.6／novel・easy・short
+- 最愛の子ども：文春文庫 ; ま20-2／文藝春秋／2020.5／239p／NDC 913.6／novel・easy・short
+- 腑抜けども、悲しみの愛を見せろ：講談社文庫／講談社／2007.5／215p／NDC 913.6／novel・easy・short
+- JR上野駅公園口：河出文庫 ; ゆ3-3／河出書房新社／2017.2／181p／NDC 913.6／novel・easy・short
+- ゴールドラッシュ：新潮文庫／新潮社／2001.5／398p／NDC 913.6／novel・easy・medium
+- 命：新潮文庫. 命四部作 ; 第1幕／新潮社／2004.1／284p／NDC 914.6／novel・easy・medium
+- 絃の聖域：角川文庫／角川書店／1997.4／305p／NDC 913.6／mystery_sf・normal・long
+- 玩具修理者：角川ホラー文庫／角川書店／1999.4／221p／NDC 913.6／mystery_sf・normal・short
+- アリス殺し：創元推理文庫 ; Mこ5-4／東京創元社／2019.4／376p／NDC 913.6／mystery_sf・normal・medium
+- 激流：徳間文庫 ; し-22-6／徳間書店／2009.3／422p／NDC 913.6／mystery_sf・normal・long
+- Wの悲劇：角川文庫／角川書店／1984.6／321p／NDC 913.6／mystery_sf・normal・medium
+- 蒸発：光文社文庫／光文社／2007.3／513p／NDC 913.6／mystery_sf・normal・long
+- 天使が消えていく：光文社文庫／光文社／1999.4／322p／NDC 913.6／mystery_sf・normal・medium
+- 探偵はバーにいる：ハヤカワ文庫. JA／早川書房／1995.8／394p／NDC 913.6／mystery_sf・normal・medium
+- 残光：ハルキ文庫／角川春樹事務所／2003.8／461p／NDC 913.6／mystery_sf・normal・long
+- 依頼人は死んだ：文春文庫／文藝春秋／2003.6／338p／NDC 913.6／mystery_sf・normal・medium
+- 悪いうさぎ：文春文庫／文藝春秋／2004.7／462p／NDC 913.6／mystery_sf・normal・long
+- さよならの手口：文春文庫 ; わ10-3／文藝春秋／2014.11／431p／NDC 913.6／mystery_sf・normal・medium
+- ぼくのミステリな日常：創元推理文庫／東京創元社／1996.12／363p／NDC 913.6／mystery_sf・normal・medium
+- 弥勒の掌：文春文庫／文藝春秋／2008.3／300p／NDC 913.6／mystery_sf・normal・medium
+- 地獄の奇術師：講談社文庫／講談社／1995.7／550p／NDC 913.6／mystery_sf・normal・long
+- 人狼城の恐怖：講談社文庫／講談社／2001.6／669p／NDC 913.6／mystery_sf・normal・long
+- ウロボロスの偽書：講談社文庫／講談社／2002.6／467p／NDC 913.6／mystery_sf・normal・long
+- 11枚のとらんぷ：創元推理文庫／東京創元社／1993.5／396p／NDC 913.6／mystery_sf・normal・medium
+- 七十五羽の烏：光文社文庫／光文社／1999.3／316p／NDC 913.6／mystery_sf・normal・medium
+- 危険な童話：創元推理文庫. 土屋隆夫推理小説集成 ; 2／東京創元社／2000.9／654p／NDC 913.6／mystery_sf・normal・long
+- 黒いトランク：創元推理文庫／東京創元社／2002.1／382p／NDC 913.6／mystery_sf・normal・medium
+- りら荘事件：講談社文庫／講談社／1992.3／412p／NDC 913.6／mystery_sf・normal・medium
+- 憎悪の化石：創元推理文庫／東京創元社／2002.3／316p／NDC 913.6／mystery_sf・normal・medium
+- 人形はなぜ殺される：光文社文庫. 神津恭介シリーズ／光文社／1995.2／372p／NDC 913.6／mystery_sf・normal・medium
+- 白昼の死角：光文社文庫. 高木彬光コレクション／光文社／2005.8／848p／NDC 913.6／mystery_sf・normal・long
+- 成吉思汗の秘密：光文社文庫. 高木彬光コレクション／光文社／2005.4／498p／NDC 913.6／mystery_sf・normal・long
+- 林の中の家：ポプラ文庫ピュアフル ; に-2-3／ポプラ社／2011.1／319p／NDC 913.6／mystery_sf・normal・medium
+- 大いなる幻影：講談社文庫. 江戸川乱歩賞全集 ; 4／講談社／1998.9／557p／NDC 913.6／mystery_sf・normal・long
+- 枯草の根：大衆文学館／講談社／1997.7／618p／NDC 913.6／mystery_sf・normal・long
+- 招かれざる客：徳間文庫 ; さ1-124. トクマの特選!／徳間書店／2021.10／361p／NDC 913.6／mystery_sf・normal・medium
+- 人喰い：双葉文庫. 日本推理作家協会賞受賞作全集 ; 14／双葉社／1995.5／329p／NDC 913.6／mystery_sf・normal・medium
+- 少女地獄：創元推理文庫 ; Mゆ2-1／東京創元社／2016.8／385p／NDC 913.6／mystery_sf・normal・medium
+- 瓶詰の地獄：角川文庫 ; 15629／角川書店、角川グループパブリッシング (発売)／2009.3／283p／NDC 913.6／mystery_sf・normal・medium
+- 魔都：朝日文芸文庫／朝日新聞社／1995.3／494p／NDC 913.6／mystery_sf・normal・long
+- とむらい機関車：創元推理文庫／東京創元社／2001.10／340p／NDC 913.6／mystery_sf・normal・medium
+- 阿片戦争：講談社文庫 ; ち1-67／講談社／2015.9／602p／NDC 913.6／novel・normal・long
+- 小説十八史略：講談社文庫／講談社／1992.1／533p／NDC 913.6／novel・normal・long
+- 老人力：ちくま文庫／筑摩書房／2001.9／395p／NDC 914.6／nonfiction・easy・medium
+- ネガティブ・ケイパビリティ：朝日選書 ; 958／朝日新聞出版／2017.4／254p／NDC 146.2／liberal_arts・normal・medium
+- 長いお別れ：文春文庫 ; な68-3／文藝春秋／2018.3／286p／NDC 913.6／novel・easy・medium
