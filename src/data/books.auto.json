@@ -112418,5 +112418,1227 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 241
+  },
+  {
+    "book_id": "isbn-9784150705046",
+    "title": "さむけ",
+    "author": "ロス・マクドナルド",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150705046",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I11141123490708",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 418
+  },
+  {
+    "book_id": "isbn-9784150705015",
+    "title": "ウィチャリー家の女",
+    "author": "ロス・マクドナルド",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150705015",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909905227557",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784488132088",
+    "title": "動く標的",
+    "author": "ロス・マクドナルド",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488132088",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028869719",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 356
+  },
+  {
+    "book_id": "isbn-9784042541059",
+    "title": "ロウフィールド館の惨劇",
+    "author": "ルース・レンデル",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784042541059",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001685387",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 290
+  },
+  {
+    "book_id": "isbn-9784042541035",
+    "title": "わが目の悪魔",
+    "author": "ルース・レンデル",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784042541035",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I25110228695",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 301
+  },
+  {
+    "book_id": "isbn-9784150766016",
+    "title": "女には向かない職業",
+    "author": "P・D・ジェイムズ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150766016",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001879879",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 322
+  },
+  {
+    "book_id": "isbn-9784150766023",
+    "title": "皮膚の下の頭蓋骨",
+    "author": "P・D・ジェイムズ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150766023",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001884848",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 589
+  },
+  {
+    "book_id": "isbn-9784150766054",
+    "title": "ナイチンゲールの屍衣",
+    "author": "P・D・ジェイムズ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150766054",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002099876",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 511
+  },
+  {
+    "book_id": "isbn-9784150775513",
+    "title": "ウッドストック行最終バス",
+    "author": "コリン・デクスター",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150775513",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001950997",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 359
+  },
+  {
+    "book_id": "isbn-9784150775520",
+    "title": "キドリントンから消えた娘",
+    "author": "コリン・デクスター",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150775520",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002022142",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 397
+  },
+  {
+    "book_id": "isbn-9784150775551",
+    "title": "ジェリコ街の女",
+    "author": "コリン・デクスター",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150775551",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002238920",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 345
+  },
+  {
+    "book_id": "isbn-9784102409039",
+    "title": "法律事務所",
+    "author": "ジョン・グリシャム",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102409039",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002344564",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 394
+  },
+  {
+    "book_id": "isbn-9784094054033",
+    "title": "ペリカン文書",
+    "author": "ジョン・グリシャム",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094054033",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004063488",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 736
+  },
+  {
+    "book_id": "isbn-9784102409015",
+    "title": "評決のとき",
+    "author": "ジョン・グリシャム",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102409015",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002268840",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 491
+  },
+  {
+    "book_id": "isbn-9784102409077",
+    "title": "依頼人",
+    "author": "ジョン・グリシャム",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102409077",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002457608",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 402
+  },
+  {
+    "book_id": "isbn-9784900430105",
+    "title": "真夜中は別の顔",
+    "author": "シドニィ・シェルダン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784900430105",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002161109",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "アカデミー出版",
+    "pages": 381
+  },
+  {
+    "book_id": "isbn-9784900430037",
+    "title": "ゲームの達人",
+    "author": "シドニィ・シェルダン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784900430037",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002161089",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "アカデミー出版",
+    "pages": 356
+  },
+  {
+    "book_id": "isbn-9784900430082",
+    "title": "明日があるなら",
+    "author": "シドニィ・シェルダン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784900430082",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002161072",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "アカデミー出版サービス",
+    "pages": 343
+  },
+  {
+    "book_id": "isbn-9784167661779",
+    "title": "コフィン・ダンサー",
+    "author": "ジェフリー・ディーヴァー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167661779",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007514685",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 315
+  },
+  {
+    "book_id": "isbn-9784150795559",
+    "title": "静寂の叫び",
+    "author": "ジェフリー・ディーヴァー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150795559",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002862659",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 383
+  },
+  {
+    "book_id": "isbn-9784594010416",
+    "title": "ナイトホークス",
+    "author": "マイクル・コナリー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784594010416",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002226398",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "扶桑社",
+    "pages": 330
+  },
+  {
+    "book_id": "isbn-9784062763929",
+    "title": "リンカーン弁護士",
+    "author": "マイクル・コナリー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062763929",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010248084",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 389
+  },
+  {
+    "book_id": "isbn-9784594029029",
+    "title": "わが心臓の痛み",
+    "author": "マイクル・コナリー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784594029029",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002883444",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "扶桑社",
+    "pages": 490
+  },
+  {
+    "book_id": "isbn-9784102167038",
+    "title": "ハンニバル",
+    "author": "トマス・ハリス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102167038",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809812866818",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784150404314",
+    "title": "スクールボーイ閣下",
+    "author": "ジョン・ル・カレ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150404314",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001844198",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784150404390",
+    "title": "スマイリーと仲間たち",
+    "author": "ジョン・ル・カレ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150404390",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001855028",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 524
+  },
+  {
+    "book_id": "isbn-9784150406417",
+    "title": "リトル・ドラマー・ガール",
+    "author": "ジョン・ル・カレ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150406417",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002153845",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 422
+  },
+  {
+    "book_id": "isbn-9784087604504",
+    "title": "ナイロビの蜂",
+    "author": "ジョン・ル・カレ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087604504",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004319863",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 390
+  },
+  {
+    "book_id": "isbn-9784042537021",
+    "title": "オデッサ・ファイル",
+    "author": "フレデリック・フォーサイス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784042537021",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I11141101818109",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 467
+  },
+  {
+    "book_id": "isbn-9784042537038",
+    "title": "戦争の犬たち",
+    "author": "フレデリック・フォーサイス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784042537038",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I11211740801",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 324
+  },
+  {
+    "book_id": "isbn-9784167916367",
+    "title": "監禁面接",
+    "author": "ピエール・ルメートル",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167916367",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031184052",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 489
+  },
+  {
+    "book_id": "isbn-9784488265106",
+    "title": "その裁きは死",
+    "author": "アンソニー・ホロヴィッツ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488265106",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030604211",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 457
+  },
+  {
+    "book_id": "isbn-9784488265113",
+    "title": "ヨルガオ殺人事件",
+    "author": "アンソニー・ホロヴィッツ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488265113",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031644963",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 434
+  },
+  {
+    "book_id": "isbn-9784041025109",
+    "title": "絹の家",
+    "author": "アンソニー・ホロヴィッツ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041025109",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026793472",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 417
+  },
+  {
+    "book_id": "isbn-9784151744037",
+    "title": "運命の日",
+    "author": "デニス・ルヘイン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151744037",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023446761",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 518
+  },
+  {
+    "book_id": "isbn-9784151744020",
+    "title": "シャッター・アイランド",
+    "author": "デニス・ルヘイン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151744020",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008297593",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 460
+  },
+  {
+    "book_id": "isbn-9784167254391",
+    "title": "ホワイト・ジャズ",
+    "author": "ジェイムズ・エルロイ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167254391",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002768596",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 683
+  },
+  {
+    "book_id": "isbn-9784167218508",
+    "title": "ビッグ・ノーウェア",
+    "author": "ジェイムズ・エルロイ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167218508",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002734046",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 387
+  },
+  {
+    "book_id": "isbn-9784488116026",
+    "title": "赤い館の秘密",
+    "author": "A・A・ミルン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488116026",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029562944",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 334
+  },
+  {
+    "book_id": "isbn-9784488109011",
+    "title": "月長石",
+    "author": "ウィルキー・コリンズ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488109011",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I10111100420292",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 779
+  },
+  {
+    "book_id": "isbn-9784488142063",
+    "title": "シンデレラの罠",
+    "author": "セバスチアン・ジャプリゾ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488142063",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023418576",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 283
+  },
+  {
+    "book_id": "isbn-9784167527075",
+    "title": "推定無罪",
+    "author": "スコット・トゥロー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167527075",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002091018",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 357
+  },
+  {
+    "book_id": "isbn-9784167218409",
+    "title": "緋色の記憶",
+    "author": "トマス・H・クック",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167218409",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002667408",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 398
+  },
+  {
+    "book_id": "isbn-9784488202057",
+    "title": "忘れられた花園",
+    "author": "ケイト・モートン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488202057",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028156179",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 403
+  },
+  {
+    "book_id": "isbn-9784488121044",
+    "title": "ハリー・クバート事件",
+    "author": "ジョエル・ディケール",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488121044",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027683230",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 499
+  },
+  {
+    "book_id": "isbn-9784596766557",
+    "title": "頰に哀しみを刻め",
+    "author": "S・A・コスビー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784596766557",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032635212",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ハーパーコリンズ・ジャパン",
+    "pages": 493
+  },
+  {
+    "book_id": "isbn-9784488291020",
+    "title": "フロスト日和",
+    "author": "R・D・ウィングフィールド",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488291020",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002633928",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 714
   }
 ]

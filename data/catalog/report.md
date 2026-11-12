@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-12T20:59:59.615Z
-- 候補：4626冊
-- 入れた本：4223冊
-- 入れなかった本：403冊
+- 検索日時：2026-11-12T21:17:36.886Z
+- 候補：4677冊
+- 入れた本：4270冊
+- 入れなかった本：407冊
 
 ## 入れなかった本
 
@@ -409,7 +409,11 @@
 - 赤い影法師／柴田錬三郎（日本の名作）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
 - 図々しい奴／柴田錬三郎（日本の名作）：タイトルが同じで ISBN のある記録がない
 - 留学／遠藤周作（日本の名作）：タイトルが同じで ISBN のある記録がない
-- 超整理法／野口悠紀雄（教養の定番）：候補リストの別の行と同じ本
+- 縞模様の霊柩車／ロス・マクドナルド（ミステリー定番）：タイトルが同じで ISBN のある記録がない
+- キャロル／パトリシア・ハイスミス（ミステリー定番）：著者が合う記録がない
+- カルテル／ドン・ウィンズロウ（ミステリー定番）：タイトルが同じで ISBN のある記録がない
+- スコッチに涙を託して／デニス・ルヘイン（ミステリー定番）：著者が合う記録がない
+- 暁の死線／ウイリアム・アイリッシュ（ミステリー定番）：タイトルが同じで ISBN のある記録がない
 
 ## 入れた本と選んだ版
 
@@ -4636,3 +4640,50 @@
 - ユニクロ潜入一年：文春文庫 ; よ32-2／文藝春秋／2020.8／388p／NDC 589.2／nonfiction・normal・medium
 - 日本を捨てた男たち：集英社文庫 ; み49-1／集英社／2013.11／303p／NDC 334.51／nonfiction・normal・medium
 - 弱くても勝てます：新潮文庫 ; た-86-5／新潮社／2014.3／241p／NDC 783.7／nonfiction・normal・short
+- さむけ：ハヤカワ・ミステリ文庫 ; ８－４／早川書房／１９８６．６／４１８ｐ ; １６ｃｍ／NDC 933.7／mystery_sf・normal・medium
+- ウィチャリー家の女：叢書なし／早川書房／1976.4／ページ数不明／NDC 933／mystery_sf・normal・medium
+- 動く標的：創元推理文庫 ; Mマ1-4／東京創元社／2018.3／356p／NDC 933.7／mystery_sf・normal・medium
+- ロウフィールド館の惨劇：角川文庫／角川書店／1984.6／290p／NDC 933／mystery_sf・normal・medium
+- わが目の悪魔：角川文庫 5108／角川書店／Fri, 15 May 2015 09:00:00 +0900／301p ; 15cm／NDC 933／mystery_sf・normal・medium
+- 女には向かない職業：ハヤカワ・ミステリ文庫／早川書房／1987.9／322p／NDC 933／mystery_sf・normal・medium
+- 皮膚の下の頭蓋骨：ハヤカワ・ミステリ文庫／早川書房／1987.10／589p／NDC 933／mystery_sf・normal・long
+- ナイチンゲールの屍衣：ハヤカワ・ミステリ文庫／早川書房／1991.3／511p／NDC 933／mystery_sf・normal・long
+- ウッドストック行最終バス：ハヤカワ・ミステリ文庫／早川書房／1988.11／359p／NDC 933／mystery_sf・normal・medium
+- キドリントンから消えた娘：ハヤカワ・ミステリ文庫／早川書房／1989.12／397p／NDC 933／mystery_sf・normal・medium
+- ジェリコ街の女：ハヤカワ・ミステリ文庫／早川書房／1993.3／345p／NDC 933／mystery_sf・normal・medium
+- 法律事務所：新潮文庫／新潮社／1994.8／394p／NDC 933／mystery_sf・normal・long
+- ペリカン文書：小学館文庫／小学館／2003.4／736p／NDC 933.7／mystery_sf・normal・long
+- 評決のとき：新潮文庫／新潮社／1993.7／491p／NDC 933／mystery_sf・normal・long
+- 依頼人：新潮文庫／新潮社／1995.12／402p／NDC 933／mystery_sf・normal・long
+- 真夜中は別の顔：叢書なし／アカデミー出版／1991.9／381p／NDC 933／mystery_sf・normal・long
+- ゲームの達人：叢書なし／アカデミー出版／1991.11／356p／NDC 933／mystery_sf・normal・long
+- 明日があるなら：叢書なし／アカデミー出版サービス／1991.11／343p／NDC 933／mystery_sf・normal・long
+- コフィン・ダンサー：文春文庫／文藝春秋／2004.10／315p／NDC 933.7／mystery_sf・normal・long
+- 静寂の叫び：ハヤカワ・ミステリ文庫／早川書房／2000.2／383p／NDC 933.7／mystery_sf・normal・long
+- ナイトホークス：扶桑社ミステリー／扶桑社／1992.10／330p／NDC 933／mystery_sf・normal・long
+- リンカーン弁護士：講談社文庫 ; こ59-11／講談社／2009.6／389p／NDC 933.7／mystery_sf・normal・long
+- わが心臓の痛み：叢書なし／扶桑社／2000.4／490p／NDC 933.7／mystery_sf・normal・long
+- ハンニバル：叢書なし／新潮社／2000.4／ページ数不明／NDC 933.7／mystery_sf・normal・long
+- スクールボーイ閣下：ハヤカワ文庫. NV／早川書房／1987.1／2冊／NDC 933／mystery_sf・normal・medium
+- スマイリーと仲間たち：ハヤカワ文庫. NV／早川書房／1987.4／524p／NDC 933／mystery_sf・normal・long
+- リトル・ドラマー・ガール：ハヤカワ文庫. NV／早川書房／1991.12／422p／NDC 933／mystery_sf・normal・long
+- ナイロビの蜂：集英社文庫／集英社／2003.12／390p／NDC 933.7／mystery_sf・normal・long
+- オデッサ・ファイル：角川文庫／角川書店／１９８７／４６７ｐ ; １５ｃｍ／NDC 933.7／mystery_sf・normal・long
+- 戦争の犬たち：角川文庫／角川書店／1995／324p ; 15cm／NDC 933.7／mystery_sf・normal・long
+- 監禁面接：文春文庫 ; ル6-6／文藝春秋／2021.1／489p／NDC 953.7／mystery_sf・normal・long
+- その裁きは死：創元推理文庫 ; Mホ15-4／東京創元社／2020.9／457p／NDC 933.7／mystery_sf・normal・long
+- ヨルガオ殺人事件：創元推理文庫 ; Mホ15-5／東京創元社／2021.9／434p／NDC 933.7／mystery_sf・normal・long
+- 絹の家：角川文庫 ; ホ20-1／KADOKAWA／2015.10／417p／NDC 933.7／mystery_sf・normal・medium
+- 運命の日：ハヤカワ・ミステリ文庫 ; HM285-3／早川書房／2012.3／518p／NDC 933.7／mystery_sf・normal・long
+- シャッター・アイランド：ハヤカワ・ミステリ文庫／早川書房／2006.9／460p／NDC 933.7／mystery_sf・normal・long
+- ホワイト・ジャズ：文春文庫／文藝春秋／1999.3／683p／NDC 933.7／mystery_sf・normal・long
+- ビッグ・ノーウェア：文春文庫／文藝春秋／1998.11／387p／NDC 933.7／mystery_sf・normal・long
+- 赤い館の秘密：創元推理文庫 ; Mミ2-1／東京創元社／2019.3／334p／NDC 933.7／mystery_sf・normal・medium
+- 月長石：創元推理文庫 ; 109‐1／東京創元社／1981／779p ; 15cm／NDC 933.6／mystery_sf・normal・long
+- シンデレラの罠：創元推理文庫 ; 142-06／東京創元社／2012.2／283p／NDC 953.7／mystery_sf・normal・medium
+- 推定無罪：文春文庫／文芸春秋／1991.2／357p／NDC 933／mystery_sf・normal・long
+- 緋色の記憶：文春文庫／文藝春秋／1998.3／398p／NDC 933.7／mystery_sf・normal・medium
+- 忘れられた花園：創元推理文庫 ; Mモ8-1／東京創元社／2017.5／403p／NDC 933.7／mystery_sf・normal・long
+- ハリー・クバート事件：創元推理文庫 ; Mテ15-1／東京創元社／2016.11／499p／NDC 953.7／mystery_sf・normal・long
+- 頰に哀しみを刻め：ハーパーBOOKS ; M・コ3・2／ハーパーコリンズ・ジャパン／2023.2／493p／NDC 933.7／mystery_sf・normal・long
+- フロスト日和：創元推理文庫／東京創元社／1997.10／714p／NDC 933.7／mystery_sf・normal・long
