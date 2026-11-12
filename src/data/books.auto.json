@@ -95892,5 +95892,1632 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 542
+  },
+  {
+    "book_id": "isbn-9784151200014",
+    "title": "第三の男",
+    "author": "グレアム・グリーン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151200014",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002993852",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 205
+  },
+  {
+    "book_id": "isbn-9784102110041",
+    "title": "情事の終り",
+    "author": "グレアム・グリーン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102110041",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025396853",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 382
+  },
+  {
+    "book_id": "isbn-9784151200298",
+    "title": "権力と栄光",
+    "author": "グレアム・グリーン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151200298",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007486287",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 461
+  },
+  {
+    "book_id": "isbn-9784151200328",
+    "title": "ブライトン・ロック",
+    "author": "グレアム・グリーン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151200328",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008221249",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 495
+  },
+  {
+    "book_id": "isbn-9784151200281",
+    "title": "おとなしいアメリカ人",
+    "author": "グレアム・グリーン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151200281",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007465209",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 367
+  },
+  {
+    "book_id": "isbn-9784151200335",
+    "title": "事件の核心",
+    "author": "グレアム・グリーン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151200335",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008043328",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 537
+  },
+  {
+    "book_id": "isbn-9784105900632",
+    "title": "土曜日",
+    "author": "イアン・マキューアン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784105900632",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009226401",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 351
+  },
+  {
+    "book_id": "isbn-9784105901110",
+    "title": "甘美なる作戦",
+    "author": "イアン・マキューアン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784105901110",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025785832",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 410
+  },
+  {
+    "book_id": "isbn-9784102451014",
+    "title": "幽霊たち",
+    "author": "ポール・オースター",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102451014",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002400480",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 144
+  },
+  {
+    "book_id": "isbn-9784560044568",
+    "title": "鍵のかかった部屋",
+    "author": "ポール・オースター",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784560044568",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002006978",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白水社",
+    "pages": 230
+  },
+  {
+    "book_id": "isbn-9784560045749",
+    "title": "最後の物たちの国で",
+    "author": "ポール・オースター",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784560045749",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002376647",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白水社",
+    "pages": 226
+  },
+  {
+    "book_id": "isbn-9784102451038",
+    "title": "孤独の発明",
+    "author": "ポール・オースター",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102451038",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002488747",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 307
+  },
+  {
+    "book_id": "isbn-9784102451168",
+    "title": "オラクル・ナイト",
+    "author": "ポール・オースター",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102451168",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026976118",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 338
+  },
+  {
+    "book_id": "isbn-9784102451144",
+    "title": "幻影の書",
+    "author": "ポール・オースター",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102451144",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011279819",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 429
+  },
+  {
+    "book_id": "isbn-9784167915186",
+    "title": "呪われた町",
+    "author": "スティーヴン・キング",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167915186",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030414654",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 357
+  },
+  {
+    "book_id": "isbn-9784102193068",
+    "title": "デッド・ゾーン",
+    "author": "スティーヴン・キング",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102193068",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001863270",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784309467634",
+    "title": "ファイアスターター",
+    "author": "スティーヴン・キング",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309467634",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034946133",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 465
+  },
+  {
+    "book_id": "isbn-9784102193037",
+    "title": "クージョ",
+    "author": "スティーヴン・キング",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102193037",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001643836",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 476
+  },
+  {
+    "book_id": "isbn-9784167812263",
+    "title": "アンダー・ザ・ドーム",
+    "author": "スティーヴン・キング",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167812263",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024847094",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 478
+  },
+  {
+    "book_id": "isbn-9784167910075",
+    "title": "ドクター・スリープ",
+    "author": "スティーヴン・キング",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167910075",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028712672",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 459
+  },
+  {
+    "book_id": "isbn-9784150115418",
+    "title": "人形つかい",
+    "author": "ロバート・A・ハインライン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150115418",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008043386",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 445
+  },
+  {
+    "book_id": "isbn-9784150120078",
+    "title": "はだかの太陽",
+    "author": "アイザック・アシモフ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150120078",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026339624",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 413
+  },
+  {
+    "book_id": "isbn-9784150108076",
+    "title": "流れよわが涙、と警官は言った",
+    "author": "フィリップ・K・ディック",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150108076",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909803227941",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784150103965",
+    "title": "火星のタイムスリップ",
+    "author": "フィリップ・K・ディック",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150103965",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970304959892162595",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784150105907",
+    "title": "パーマー・エルドリッチの三つの聖痕",
+    "author": "フィリップ・K・ディック",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150105907",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001722313",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 351
+  },
+  {
+    "book_id": "isbn-9784488696054",
+    "title": "ヴァリス",
+    "author": "フィリップ・K・ディック",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488696054",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002050755",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 482
+  },
+  {
+    "book_id": "isbn-9784150115463",
+    "title": "楽園の泉",
+    "author": "アーサー・C・クラーク",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150115463",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008070844",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 415
+  },
+  {
+    "book_id": "isbn-9784150115241",
+    "title": "渇きの海",
+    "author": "アーサー・C・クラーク",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150115241",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007840193",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 431
+  },
+  {
+    "book_id": "isbn-9784151300202",
+    "title": "白昼の悪魔",
+    "author": "アガサ・クリスティー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151300202",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004252887",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 394
+  },
+  {
+    "book_id": "isbn-9784151300189",
+    "title": "杉の柩",
+    "author": "アガサ・クリスティー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151300189",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007355275",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 409
+  },
+  {
+    "book_id": "isbn-9784151310478",
+    "title": "秘密機関",
+    "author": "アガサ・クリスティー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151310478",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011082572",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 462
+  },
+  {
+    "book_id": "isbn-9784151300226",
+    "title": "ホロー荘の殺人",
+    "author": "アガサ・クリスティー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151300226",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004315169",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 488
+  },
+  {
+    "book_id": "isbn-9784151300097",
+    "title": "三幕の殺人",
+    "author": "アガサ・クリスティー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151300097",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004252895",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 381
+  },
+  {
+    "book_id": "isbn-9784151300134",
+    "title": "ひらいたトランプ",
+    "author": "アガサ・クリスティー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151300134",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004252853",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 396
+  },
+  {
+    "book_id": "isbn-9784151300325",
+    "title": "象は忘れない",
+    "author": "アガサ・クリスティー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151300325",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004315206",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 358
+  },
+  {
+    "book_id": "isbn-9784151300363",
+    "title": "書斎の死体",
+    "author": "アガサ・クリスティー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151300363",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004361471",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 349
+  },
+  {
+    "book_id": "isbn-9784151300370",
+    "title": "動く指",
+    "author": "アガサ・クリスティー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151300370",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007335840",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 399
+  },
+  {
+    "book_id": "isbn-9784151300455",
+    "title": "復讐の女神",
+    "author": "アガサ・クリスティー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151300455",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004329478",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 463
+  },
+  {
+    "book_id": "isbn-9784151300318",
+    "title": "ハロウィーン・パーティ",
+    "author": "アガサ・クリスティー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151300318",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004276261",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 431
+  },
+  {
+    "book_id": "isbn-9784151310065",
+    "title": "邪悪の家",
+    "author": "アガサ・クリスティー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151310065",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011083471",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 361
+  },
+  {
+    "book_id": "isbn-9784151300073",
+    "title": "エッジウェア卿の死",
+    "author": "アガサ・クリスティー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151300073",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007427633",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 460
+  },
+  {
+    "book_id": "isbn-9784151300103",
+    "title": "雲をつかむ死",
+    "author": "アガサ・クリスティー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151300103",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007335846",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 403
+  },
+  {
+    "book_id": "isbn-9784488413040",
+    "title": "六の宮の姫君",
+    "author": "北村薫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488413040",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002801935",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 283
+  },
+  {
+    "book_id": "isbn-9784488413057",
+    "title": "朝霧",
+    "author": "北村薫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488413057",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007330048",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 260
+  },
+  {
+    "book_id": "isbn-9784062735636",
+    "title": "盤上の敵",
+    "author": "北村薫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062735636",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003686586",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 356
+  },
+  {
+    "book_id": "isbn-9784167586041",
+    "title": "街の灯",
+    "author": "北村薫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167586041",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008174411",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 278
+  },
+  {
+    "book_id": "isbn-9784167586058",
+    "title": "玻璃の天",
+    "author": "北村薫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167586058",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010547991",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 246
+  },
+  {
+    "book_id": "isbn-9784122035928",
+    "title": "冬のオペラ",
+    "author": "北村薫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122035928",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002877695",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 315
+  },
+  {
+    "book_id": "isbn-9784101405025",
+    "title": "夜よ鼠たちのために",
+    "author": "連城三紀彦",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101405025",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001797719",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 290
+  },
+  {
+    "book_id": "isbn-9784575510447",
+    "title": "人間動物園",
+    "author": "連城三紀彦",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575510447",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007989859",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784101405032",
+    "title": "宵待草夜情",
+    "author": "連城三紀彦",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101405032",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001848957",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 306
+  },
+  {
+    "book_id": "isbn-9784150311292",
+    "title": "開かせていただき光栄です",
+    "author": "皆川博子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150311292",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024778497",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 523
+  },
+  {
+    "book_id": "isbn-9784150306625",
+    "title": "死の泉",
+    "author": "皆川博子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150306625",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002983072",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 659
+  },
+  {
+    "book_id": "isbn-9784150310646",
+    "title": "薔薇密室",
+    "author": "皆川博子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150310646",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023523768",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 638
+  },
+  {
+    "book_id": "isbn-9784087461077",
+    "title": "総統の子ら",
+    "author": "皆川博子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087461077",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008399014",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 356
+  },
+  {
+    "book_id": "isbn-9784044253066",
+    "title": "失はれる物語",
+    "author": "乙一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784044253066",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008233409",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 381
+  },
+  {
+    "book_id": "isbn-9784087475906",
+    "title": "平面いぬ。",
+    "author": "乙一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087475906",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004165906",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 345
+  },
+  {
+    "book_id": "isbn-9784344401631",
+    "title": "死にぞこないの青",
+    "author": "乙一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344401631",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007321657",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 212
+  },
+  {
+    "book_id": "isbn-9784087451313",
+    "title": "箱庭図書館",
+    "author": "乙一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087451313",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024970644",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 343
+  },
+  {
+    "book_id": "isbn-9784062770620",
+    "title": "ファミリーポートレイト",
+    "author": "桜庭一樹",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062770620",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023152962",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 703
+  },
+  {
+    "book_id": "isbn-9784167908454",
+    "title": "荒野",
+    "author": "桜庭一樹",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167908454",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028119711",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 538
+  },
+  {
+    "book_id": "isbn-9784103475026",
+    "title": "恋文",
+    "author": "連城三紀彦",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784103475026",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001680282",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 213
   }
 ]

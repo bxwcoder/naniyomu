@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-12T17:59:17.593Z
-- 候補：3941冊
-- 入れた本：3599冊
-- 入れなかった本：342冊
+- 検索日時：2026-11-12T18:23:39.666Z
+- 候補：4006冊
+- 入れた本：3661冊
+- 入れなかった本：345冊
 
 ## 入れなかった本
 
@@ -349,6 +349,9 @@
 - 君たちはどう生きるか／吉野源三郎（教養の定番）：手で書いた本のデータにすでにある
 - イリヤの空、UFOの夏／秋山瑞人（SF・ファンタジー定番）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
 - 栞と嘘の季節／米澤穂信（ミステリー定番）：タイトルが同じで ISBN のある記録がない
+- 異星の客／ロバート・A・ハインライン（SF・ファンタジー定番）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
+- 永遠の終り／アイザック・アシモフ（SF・ファンタジー定番）：タイトルが同じで ISBN のある記録がない
+- 茶色の服を着た男／アガサ・クリスティー（ミステリー定番）：タイトルが同じで ISBN のある記録がない
 
 ## 入れた本と選んだ版
 
@@ -3951,3 +3954,65 @@
 - 鍵の掛かった男：幻冬舎文庫 ; あ-23-2／幻冬舎／2017.10／731p／NDC 913.6／mystery_sf・normal・long
 - 狩人の悪夢：角川文庫 ; あ26-14／KADOKAWA／2019.6／469p／NDC 913.6／mystery_sf・normal・long
 - インド倶楽部の謎：講談社文庫 ; あ58-22／講談社／2020.9／542p／NDC 913.6／mystery_sf・normal・long
+- 第三の男：ハヤカワepi文庫 ; 1／早川書房／2001.5／205p／NDC 933.7／novel・normal・short
+- 情事の終り：新潮文庫 ; ク-6-1／新潮社／2014.5／382p／NDC 933.7／novel・normal・medium
+- 権力と栄光：ハヤカワepi文庫. グレアム・グリーン・セレクション／早川書房／2004.9／461p／NDC 933.7／novel・normal・long
+- ブライトン・ロック：ハヤカワepi文庫. グレアム・グリーン・セレクション／早川書房／2006.6／495p／NDC 933.7／novel・normal・long
+- おとなしいアメリカ人：ハヤカワepi文庫. グレアム・グリーン・セレクション／早川書房／2004.8／367p／NDC 933.7／novel・normal・medium
+- 事件の核心：ハヤカワepi文庫. グレアム・グリーン・セレクション／早川書房／2005.12／537p／NDC 933.7／novel・normal・long
+- 土曜日：Crest books／新潮社／2007.12／351p／NDC 933.7／novel・normal・medium
+- 甘美なる作戦：CREST BOOKS／新潮社／2014.9／410p／NDC 933.7／novel・normal・medium
+- 幽霊たち：新潮文庫／新潮社／1995.3／144p／NDC 933／novel・normal・short
+- 鍵のかかった部屋：新しいアメリカの小説／白水社／1989.9／230p／NDC 933／novel・normal・short
+- 最後の物たちの国で：叢書なし／白水社／1994.11／226p／NDC 933／novel・normal・short
+- 孤独の発明：新潮文庫／新潮社／1996.4／307p／NDC 933／novel・normal・medium
+- オラクル・ナイト：新潮文庫 ; オ-9-15／新潮社／2016.1／338p／NDC 933.7／novel・normal・medium
+- 幻影の書：新潮文庫 ; オ-9-14／新潮社／2011.10／429p／NDC 933.7／novel・normal・medium
+- 呪われた町：文春文庫 ; キ2-59／文藝春秋／2020.6／357p／NDC 933.7／novel・normal・long
+- デッド・ゾーン：新潮文庫／新潮社／1987.5／2冊／NDC 933／novel・normal・medium
+- ファイアスターター：河出文庫 ; キ6-2／河出書房新社／2026.10／465p／NDC 933.7／novel・normal・long
+- クージョ：新潮文庫／新潮社／1983.9／476p／NDC 933／novel・normal・long
+- アンダー・ザ・ドーム：文春文庫 ; キ2-40／文藝春秋／2013.10／478p／NDC 933.7／novel・normal・long
+- ドクター・スリープ：文春文庫 ; キ2-52／文藝春秋／2018.1／459p／NDC 933.7／novel・normal・long
+- 人形つかい：ハヤカワ文庫 ; SF／早川書房／2005.12／445p／NDC 933.7／mystery_sf・normal・medium
+- はだかの太陽：ハヤカワ文庫 SF ; 2007／早川書房／2015.5／413p／NDC 933.7／mystery_sf・normal・medium
+- 流れよわが涙、と警官は言った：叢書なし／早川書房／1989／ページ数不明／NDC 933／mystery_sf・normal・medium
+- 火星のタイムスリップ：叢書なし／早川書房／2014.9／ページ数不明／NDC 933／mystery_sf・normal・medium
+- パーマー・エルドリッチの三つの聖痕：ハヤカワ文庫. SF／早川書房／1984.12／351p／NDC 933／mystery_sf・normal・medium
+- ヴァリス：創元推理文庫／東京創元社／1990.6／482p／NDC 933／mystery_sf・normal・long
+- 楽園の泉：ハヤカワ文庫 ; SF／早川書房／2006.1／415p／NDC 933.7／mystery_sf・normal・medium
+- 渇きの海：ハヤカワ文庫 ; SF／早川書房／2005.7／431p／NDC 933.7／mystery_sf・normal・medium
+- 白昼の悪魔：ハヤカワ文庫. クリスティー文庫 ; 20／早川書房／2003.10／394p／NDC 933.7／mystery_sf・normal・medium
+- 杉の柩：ハヤカワ文庫. クリスティー文庫 ; 18／早川書房／2004.5／409p／NDC 933.7／mystery_sf・normal・medium
+- 秘密機関：ハヤカワ文庫. クリスティー文庫 ; 47(トミー&タペンス)／早川書房／2011.1／462p／NDC 933.7／mystery_sf・normal・long
+- ホロー荘の殺人：ハヤカワ文庫. クリスティー文庫 ; 22／早川書房／2003.12／488p／NDC 933.7／mystery_sf・normal・long
+- 三幕の殺人：ハヤカワ文庫. クリスティー文庫 ; 9／早川書房／2003.10／381p／NDC 933.7／mystery_sf・normal・medium
+- ひらいたトランプ：ハヤカワ文庫. クリスティー文庫 ; 13／早川書房／2003.10／396p／NDC 933.7／mystery_sf・normal・medium
+- 象は忘れない：ハヤカワ文庫. クリスティー文庫 ; 32／早川書房／2003.12／358p／NDC 933.7／mystery_sf・normal・medium
+- 書斎の死体：ハヤカワ文庫. クリスティー文庫 ; 36／早川書房／2004.2／349p／NDC 933.7／mystery_sf・normal・medium
+- 動く指：ハヤカワ文庫. クリスティー文庫 ; 37／早川書房／2004.4／399p／NDC 933.7／mystery_sf・normal・medium
+- 復讐の女神：ハヤカワ文庫. クリスティー文庫 ; 45／早川書房／2004.1／463p／NDC 933.7／mystery_sf・normal・long
+- ハロウィーン・パーティ：ハヤカワ文庫. クリスティー文庫 ; 31／早川書房／2003.11／431p／NDC 933.7／mystery_sf・normal・medium
+- 邪悪の家：ハヤカワ文庫. クリスティー文庫 ; 6(ポアロ)／早川書房／2011.1／361p／NDC 933.7／mystery_sf・normal・medium
+- エッジウェア卿の死：ハヤカワ文庫. クリスティー文庫 ; 7／早川書房／2004.7／460p／NDC 933.7／mystery_sf・normal・long
+- 雲をつかむ死：ハヤカワ文庫. クリスティー文庫 ; 10／早川書房／2004.4／403p／NDC 933.7／mystery_sf・normal・medium
+- 六の宮の姫君：創元推理文庫／東京創元社／1999.6／283p／NDC 913.6／mystery_sf・normal・medium
+- 朝霧：創元推理文庫／東京創元社／2004.4／260p／NDC 913.6／mystery_sf・normal・medium
+- 盤上の敵：講談社文庫／講談社／2002.10／356p／NDC 913.6／mystery_sf・normal・medium
+- 街の灯：文春文庫／文藝春秋／2006.5／278p／NDC 913.6／mystery_sf・normal・medium
+- 玻璃の天：文春文庫 ; き17-5／文藝春秋／2009.9／246p／NDC 913.6／mystery_sf・normal・short
+- 冬のオペラ：中公文庫／中央公論新社／2000.2／315p／NDC 913.6／mystery_sf・normal・medium
+- 夜よ鼠たちのために：新潮文庫／新潮社／1986.4／290p／NDC 913.6／mystery_sf・normal・medium
+- 人間動物園：双葉文庫／双葉社／2005.11／317p／NDC 913.6／mystery_sf・normal・medium
+- 宵待草夜情：新潮文庫／新潮社／1987.2／306p／NDC 913.6／mystery_sf・normal・medium
+- 開かせていただき光栄です：ハヤカワ文庫 JA ; 1129／早川書房／2013.9／523p／NDC 913.6／mystery_sf・normal・long
+- 死の泉：ハヤカワ文庫 : JA／早川書房／2001.4／659p／NDC 913.6／mystery_sf・normal・long
+- 薔薇密室：ハヤカワ文庫 JA ; 1064／早川書房／2012.4／638p／NDC 913.6／mystery_sf・normal・long
+- 総統の子ら：集英社文庫／集英社／2006.12／356p／NDC 913.6／mystery_sf・normal・long
+- 失はれる物語：角川文庫／角川書店／2006.6／381p／NDC 913.6／novel・easy・medium
+- 平面いぬ。：集英社文庫／集英社／2003.6／345p／NDC 913.6／novel・easy・medium
+- 死にぞこないの青：幻冬舎文庫／幻冬舎／2001.10／212p／NDC 913.6／novel・easy・short
+- 箱庭図書館：集英社文庫 ; お46-9／集英社／2013.11／343p／NDC 913.6／novel・easy・medium
+- ファミリーポートレイト：講談社文庫 ; さ105-1／講談社／2011.11／703p／NDC 913.6／novel・easy・long
+- 荒野：文春文庫 ; さ50-8／文藝春秋／2017.5／538p／NDC 913.6／novel・easy・long
+- 恋文：叢書なし／新潮社／1984.5／213p／NDC 913.6／novel・easy・short
