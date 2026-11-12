@@ -93055,5 +93055,868 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 223
+  },
+  {
+    "book_id": "isbn-9784087607376",
+    "title": "文明の衝突",
+    "author": "サミュエル・ハンチントン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087607376",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028390267",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 318
+  },
+  {
+    "book_id": "isbn-9784837905509",
+    "title": "歴史の終わり",
+    "author": "フランシス・フクヤマ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784837905509",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002218501",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "三笠書房",
+    "pages": 260
+  },
+  {
+    "book_id": "isbn-9784150504649",
+    "title": "国家はなぜ衰退するのか",
+    "author": "ダロン・アセモグル",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150504649",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027287525",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 414
+  },
+  {
+    "book_id": "isbn-9784480512819",
+    "title": "人間の本性を考える",
+    "author": "スティーブン・ピンカー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480512819",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033914396",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 507
+  },
+  {
+    "book_id": "isbn-9784163914077",
+    "title": "Humankind 希望の歴史",
+    "author": "ルトガー・ブレグマン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784163914077",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031557831",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 269
+  },
+  {
+    "book_id": "isbn-9784163906577",
+    "title": "隷属なき道",
+    "author": "ルトガー・ブレグマン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784163906577",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028161810",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 308
+  },
+  {
+    "book_id": "isbn-9784150506025",
+    "title": "実力も運のうち",
+    "author": "マイケル・サンデル",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150506025",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033009350",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 478
+  },
+  {
+    "book_id": "isbn-9784150504199",
+    "title": "それをお金で買いますか",
+    "author": "マイケル・サンデル",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150504199",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025871823",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 334
+  },
+  {
+    "book_id": "isbn-9784753103348",
+    "title": "負債論",
+    "author": "デヴィッド・グレーバー",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784753103348",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027715833",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "以文社",
+    "pages": 770
+  },
+  {
+    "book_id": "isbn-9784314011716",
+    "title": "LIFE3.0",
+    "author": "マックス・テグマーク",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784314011716",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030128297",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "紀伊國屋書店",
+    "pages": 509
+  },
+  {
+    "book_id": "isbn-9784140816974",
+    "title": "シンギュラリティは近い",
+    "author": "レイ・カーツワイル",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784140816974",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027239426",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "NHK出版",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784484111025",
+    "title": "ヤバい統計学",
+    "author": "カイザー・ファング",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784484111025",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011129181",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "阪急コミュニケーションズ",
+    "pages": 295
+  },
+  {
+    "book_id": "isbn-9784822249809",
+    "title": "シグナル&ノイズ",
+    "author": "ネイト・シルバー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784822249809",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025011049",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日経BP社",
+    "pages": 591
+  },
+  {
+    "book_id": "isbn-9784794223647",
+    "title": "異端の統計学ベイズ",
+    "author": "シャロン・バーチュ・マグレイン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784794223647",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029346741",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "草思社",
+    "pages": 650
+  },
+  {
+    "book_id": "isbn-9784163915968",
+    "title": "因果推論の科学",
+    "author": "ジューディア・パール",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784163915968",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032352969",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 605
+  },
+  {
+    "book_id": "isbn-9784478039472",
+    "title": "原因と結果の経済学",
+    "author": "中室牧子",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784478039472",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027967794",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ダイヤモンド社",
+    "pages": 204
+  },
+  {
+    "book_id": "isbn-9784799316856",
+    "title": "「学力」の経済学",
+    "author": "中室牧子",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784799316856",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026442499",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ディスカヴァー・トゥエンティワン",
+    "pages": 199
+  },
+  {
+    "book_id": "isbn-9784314010474",
+    "title": "経済は感情で動く",
+    "author": "マッテオ・モッテルリーニ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784314010474",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009341107",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "紀伊國屋書店",
+    "pages": 316
+  },
+  {
+    "book_id": "isbn-9784150505479",
+    "title": "行動経済学の逆襲",
+    "author": "リチャード・セイラー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150505479",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029994379",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 318
+  },
+  {
+    "book_id": "isbn-9784296000982",
+    "title": "実践 行動経済学",
+    "author": "リチャード・セイラー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784296000982",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032476946",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日経BP",
+    "pages": 462
+  },
+  {
+    "book_id": "isbn-9784492314579",
+    "title": "善と悪の経済学",
+    "author": "トーマス・セドラチェク",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784492314579",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026391458",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東洋経済新報社",
+    "pages": 485
+  },
+  {
+    "book_id": "isbn-9784163906836",
+    "title": "かくて行動経済学は生まれり",
+    "author": "マイケル・ルイス",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784163906836",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028327480",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 429
+  },
+  {
+    "book_id": "isbn-9784150504229",
+    "title": "ブラインド・サイド",
+    "author": "マイケル・ルイス",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150504229",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026025290",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 476
+  },
+  {
+    "book_id": "isbn-9784799320235",
+    "title": "失敗の科学",
+    "author": "マシュー・サイド",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784799320235",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027806800",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ディスカヴァー・トゥエンティワン",
+    "pages": 343
+  },
+  {
+    "book_id": "isbn-9784799327524",
+    "title": "多様性の科学",
+    "author": "マシュー・サイド",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784799327524",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031506178",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ディスカヴァー・トゥエンティワン",
+    "pages": 366
+  },
+  {
+    "book_id": "isbn-9784344428706",
+    "title": "人生の勝算",
+    "author": "前田裕二",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344428706",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029695159",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 222
+  },
+  {
+    "book_id": "isbn-9784344031555",
+    "title": "革命のファンファーレ",
+    "author": "西野亮廣",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344031555",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028514579",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 310
+  },
+  {
+    "book_id": "isbn-9784344986053",
+    "title": "自分の頭で考える日本の論点",
+    "author": "出口治明",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344986053",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030757600",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 419
+  },
+  {
+    "book_id": "isbn-9784480069917",
+    "title": "人類5000年史",
+    "author": "出口治明",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480069917",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028597443",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 245
+  },
+  {
+    "book_id": "isbn-9784101207728",
+    "title": "全世界史",
+    "author": "出口治明",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101207728",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029037924",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 444
+  },
+  {
+    "book_id": "isbn-9784065149874",
+    "title": "還暦からの底力",
+    "author": "出口治明",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065149874",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030395033",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 247
+  },
+  {
+    "book_id": "isbn-9784041032190",
+    "title": "お金の流れでわかる世界の歴史",
+    "author": "大村大次郎",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041032190",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026955682",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 255
   }
 ]

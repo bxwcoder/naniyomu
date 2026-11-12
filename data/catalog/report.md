@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-12T15:34:54.367Z
-- 候補：3831冊
-- 入れた本：3493冊
-- 入れなかった本：338冊
+- 検索日時：2026-11-12T15:44:14.766Z
+- 候補：3866冊
+- 入れた本：3525冊
+- 入れなかった本：341冊
 
 ## 入れなかった本
 
@@ -345,6 +345,9 @@
 - 日輪・春は馬車に乗って／横光利一（日本の名作）：タイトルが同じで ISBN のある記録がない
 - 浅草紅団／川端康成（日本の名作）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
 - 美しさと哀しみと／川端康成（日本の名作）：タイトルが同じで ISBN のある記録がない
+- 貧乏人の経済学／アビジット・V・バナジー（教養の定番）：著者が合う記録がない
+- マネーボール／マイケル・ルイス（ノンフィクション定番）：候補リストの別の行と同じ本
+- 君たちはどう生きるか／吉野源三郎（教養の定番）：手で書いた本のデータにすでにある
 
 ## 入れた本と選んだ版
 
@@ -3841,3 +3844,35 @@
 - 密会：新潮文庫／新潮社／1983.5／254p／NDC 913.6／novel・normal・medium
 - 方舟さくら丸：新潮文庫／新潮社／1990.10／379p／NDC 913.6／novel・normal・medium
 - カンガルー・ノート：新潮文庫／新潮社／1995.2／223p／NDC 913.6／novel・normal・short
+- 文明の衝突：集英社文庫 ; ハ20-2／集英社／2017.8／318p／NDC 319／liberal_arts・normal・long
+- 歴史の終わり：知的生きかた文庫／三笠書房／1992.12／260p／NDC 201.1／liberal_arts・normal・long
+- 国家はなぜ衰退するのか：ハヤカワ文庫 NF ; 464／早川書房／2016.5／414p／NDC 332／liberal_arts・normal・long
+- 人間の本性を考える：ちくま学芸文庫 ; ヒ15-3／筑摩書房／2025.2／507p／NDC 141.92／liberal_arts・normal・long
+- Humankind 希望の歴史：叢書なし／文藝春秋／2021.7／269p／NDC 200／liberal_arts・normal・long
+- 隷属なき道：叢書なし／文藝春秋／2017.5／308p／NDC 364／liberal_arts・normal・medium
+- 実力も運のうち：ハヤカワ文庫 NF ; 602／早川書房／2023.9／478p／NDC 361.8／liberal_arts・normal・long
+- それをお金で買いますか：ハヤカワ文庫 NF ; 419／早川書房／2014.11／334p／NDC 331.15／liberal_arts・normal・medium
+- 負債論：叢書なし／以文社／2016.11／770,66p／NDC 337.2／practical・normal・long
+- LIFE3.0：叢書なし／紀伊國屋書店／2020.1／509p／NDC 007.13／liberal_arts・normal・long
+- シンギュラリティは近い：叢書なし／NHK出版／2016.4／254p／NDC 007.13／liberal_arts・normal・medium
+- ヤバい統計学：叢書なし／阪急コミュニケーションズ／2011.3／295, 22p／NDC 417／liberal_arts・normal・medium
+- シグナル&ノイズ：叢書なし／日経BP社、日経BPマーケティング (発売)／2013.12／591p／NDC 350.1／liberal_arts・normal・long
+- 異端の統計学ベイズ：草思社文庫 ; マ3-1／草思社／2018.12／650p／NDC 417／liberal_arts・normal・long
+- 因果推論の科学：叢書なし／文藝春秋／2022.9／605p／NDC 417／liberal_arts・normal・long
+- 原因と結果の経済学：叢書なし／ダイヤモンド社／2017.2／204p／NDC 331.19／liberal_arts・normal・short
+- 「学力」の経済学：叢書なし／ディスカヴァー・トゥエンティワン／2015.6／199p／NDC 371.3／liberal_arts・normal・short
+- 経済は感情で動く：叢書なし／紀伊國屋書店／2008.4／316p／NDC 331／liberal_arts・normal・medium
+- 行動経済学の逆襲：ハヤカワ文庫 NF ; 547／早川書房／2019.10／318p／NDC 331／liberal_arts・normal・long
+- 実践 行動経済学：叢書なし／日経BP、日経BPマーケティング／2022.11／462p／NDC 331／liberal_arts・normal・long
+- 善と悪の経済学：叢書なし／東洋経済新報社／2015.6／485,91p／NDC 331.2／liberal_arts・normal・long
+- かくて行動経済学は生まれり：叢書なし／文藝春秋／2017.7／429p／NDC 331／nonfiction・normal・medium
+- ブラインド・サイド：ハヤカワ文庫 NF ; 422／早川書房／2015.1／476p／NDC 783.46／nonfiction・normal・long
+- 失敗の科学：叢書なし／ディスカヴァー・トゥエンティワン／2016.12／343p／NDC 501.84／liberal_arts・normal・medium
+- 多様性の科学：叢書なし／ディスカヴァー・トゥエンティワン／2021.6／366p／NDC 141.5／liberal_arts・normal・medium
+- 人生の勝算：幻冬舎文庫 ; ま-37-1／幻冬舎／2019.6／222p／NDC 289.1／nonfiction,liberal_arts・normal・short
+- 革命のファンファーレ：叢書なし／幻冬舎／2017.10／310p／NDC 779.14／liberal_arts・normal・medium
+- 自分の頭で考える日本の論点：幻冬舎新書 ; て-3-2／幻冬舎／2020.11／419p／NDC 304／liberal_arts・normal・medium
+- 人類5000年史：ちくま新書 ; 1287-1／筑摩書房／2017.11／245,6p／NDC 209／liberal_arts・normal・long
+- 全世界史：新潮文庫 ; て-11-2／新潮社／2018.7／444p／NDC 209／liberal_arts・normal・long
+- 還暦からの底力：講談社現代新書 ; 2568／講談社／2020.5／247p／NDC 367.7／liberal_arts・normal・short
+- お金の流れでわかる世界の歴史：叢書なし／KADOKAWA／2015.12／255p／NDC 338.2／practical・normal・medium
