@@ -113640,5 +113640,1647 @@
     "tier": "basic",
     "publisher": "東京創元社",
     "pages": 714
+  },
+  {
+    "book_id": "isbn-9784101290218",
+    "title": "中原中也詩集",
+    "author": "中原中也",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101290218",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002873658",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 341
+  },
+  {
+    "book_id": "isbn-9784820518617",
+    "title": "道程",
+    "author": "高村光太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784820518617",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002853569",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日本図書センター",
+    "pages": 335
+  },
+  {
+    "book_id": "isbn-9784887470101",
+    "title": "見えない配達夫",
+    "author": "茨木のり子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784887470101",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002962485",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "童話屋",
+    "pages": 133
+  },
+  {
+    "book_id": "isbn-9784894566804",
+    "title": "田園に死す",
+    "author": "寺山修司",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784894566804",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002958283",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 131
+  },
+  {
+    "book_id": "isbn-9784806010371",
+    "title": "シンジケート",
+    "author": "穂村弘",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784806010371",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002113887",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "沖積舎",
+    "pages": 117
+  },
+  {
+    "book_id": "isbn-9784758442046",
+    "title": "深呼吸の必要",
+    "author": "長田弘",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784758442046",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029250200",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 148
+  },
+  {
+    "book_id": "isbn-9784820518600",
+    "title": "萱草に寄す",
+    "author": "立原道造",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784820518600",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002842301",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日本図書センター",
+    "pages": 200
+  },
+  {
+    "book_id": "isbn-9784756253729",
+    "title": "邪宗門",
+    "author": "北原白秋",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784756253729",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030622106",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "パイインターナショナル",
+    "pages": 250
+  },
+  {
+    "book_id": "isbn-9784003104415",
+    "title": "赤光",
+    "author": "斎藤茂吉",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003104415",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002766337",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 253
+  },
+  {
+    "book_id": "isbn-9784003600399",
+    "title": "病牀六尺",
+    "author": "正岡子規",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003600399",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031932720",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 237
+  },
+  {
+    "book_id": "isbn-9784898154397",
+    "title": "夜空はいつでも最高密度の青色だ",
+    "author": "最果タヒ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784898154397",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027236309",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "リトルモア",
+    "pages": 95
+  },
+  {
+    "book_id": "isbn-9784003001417",
+    "title": "蜻蛉日記",
+    "author": "藤原道綱母",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003001417",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002536062",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 335
+  },
+  {
+    "book_id": "isbn-9784061595538",
+    "title": "紫式部日記",
+    "author": "紫式部",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061595538",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003668124",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 242
+  },
+  {
+    "book_id": "isbn-9784048574174",
+    "title": "和泉式部日記",
+    "author": "和泉式部",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784048574174",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009086782",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川学芸出版",
+    "pages": 201
+  },
+  {
+    "book_id": "isbn-9784062924757",
+    "title": "日本永代蔵",
+    "author": "井原西鶴",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062924757",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029183810",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 446
+  },
+  {
+    "book_id": "isbn-9784334105310",
+    "title": "世間胸算用",
+    "author": "井原西鶴",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334105310",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033811555",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 229
+  },
+  {
+    "book_id": "isbn-9784061975996",
+    "title": "何処へ",
+    "author": "正宗白鳥",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061975996",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002657266",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 328
+  },
+  {
+    "book_id": "isbn-9784003103920",
+    "title": "入江のほとり",
+    "author": "正宗白鳥",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003103920",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003064492",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 139
+  },
+  {
+    "book_id": "isbn-9784101054018",
+    "title": "土",
+    "author": "長塚節",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101054018",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024892941",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 447
+  },
+  {
+    "book_id": "isbn-9784003105610",
+    "title": "子をつれて",
+    "author": "葛西善蔵",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003105610",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I10111101445540",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784062901048",
+    "title": "聖ヨハネ病院にて",
+    "author": "上林暁",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062901048",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011032979",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 285
+  },
+  {
+    "book_id": "isbn-9784101049014",
+    "title": "暢気眼鏡",
+    "author": "尾崎一雄",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101049014",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I21111102417465",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 216
+  },
+  {
+    "book_id": "isbn-9784101040028",
+    "title": "老妓抄",
+    "author": "岡本かの子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101040028",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007780301",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 262
+  },
+  {
+    "book_id": "isbn-9784061962224",
+    "title": "生々流転",
+    "author": "岡本かの子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061962224",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002241834",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 557
+  },
+  {
+    "book_id": "isbn-9784480440495",
+    "title": "伸子",
+    "author": "宮本百合子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480440495",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034224019",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 526
+  },
+  {
+    "book_id": "isbn-9784122025110",
+    "title": "秀吉と利休",
+    "author": "野上弥生子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122025110",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002485990",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 608
+  },
+  {
+    "book_id": "isbn-9784000072762",
+    "title": "迷路",
+    "author": "野上弥生子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784000072762",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008386466",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 649
+  },
+  {
+    "book_id": "isbn-9784003104910",
+    "title": "海神丸",
+    "author": "野上弥生子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003104910",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971149384815926292",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784101127026",
+    "title": "女坂",
+    "author": "円地文子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101127026",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I11141109444114",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 216
+  },
+  {
+    "book_id": "isbn-9784062900645",
+    "title": "朱を奪うもの",
+    "author": "円地文子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062900645",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010587213",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784061960442",
+    "title": "紫苑物語",
+    "author": "石川淳",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061960442",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001984177",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 293
+  },
+  {
+    "book_id": "isbn-9784061984585",
+    "title": "焼跡のイエス",
+    "author": "石川淳",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061984585",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008366006",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 308
+  },
+  {
+    "book_id": "isbn-9784087508369",
+    "title": "狂風記",
+    "author": "石川淳",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087508369",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001724840",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784101091037",
+    "title": "ひかりごけ",
+    "author": "武田泰淳",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101091037",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024155365",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 276
+  },
+  {
+    "book_id": "isbn-9784122066250",
+    "title": "富士",
+    "author": "武田泰淳",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122066250",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029128867",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 696
+  },
+  {
+    "book_id": "isbn-9784061963184",
+    "title": "森と湖のまつり",
+    "author": "武田泰淳",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061963184",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002406948",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 740
+  },
+  {
+    "book_id": "isbn-9784062900928",
+    "title": "深夜の酒宴",
+    "author": "椎名麟三",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062900928",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010926891",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 360
+  },
+  {
+    "book_id": "isbn-9784101051024",
+    "title": "永遠なる序章",
+    "author": "椎名麟三",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101051024",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I23111110285193",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 218
+  },
+  {
+    "book_id": "isbn-9784396333515",
+    "title": "花の生涯",
+    "author": "舟橋聖一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784396333515",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008515102",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "祥伝社",
+    "pages": 441
+  },
+  {
+    "book_id": "isbn-9784093523431",
+    "title": "青い山脈",
+    "author": "石坂洋次郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784093523431",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029060611",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 334
+  },
+  {
+    "book_id": "isbn-9784101003221",
+    "title": "若い人",
+    "author": "石坂洋次郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101003221",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002908386",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 740
+  },
+  {
+    "book_id": "isbn-9784041095249",
+    "title": "陽のあたる坂道",
+    "author": "石坂洋次郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041095249",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008122964",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 574
+  },
+  {
+    "book_id": "isbn-9784309420011",
+    "title": "悲の器",
+    "author": "高橋和巳",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309420011",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002501455",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 549
+  },
+  {
+    "book_id": "isbn-9784309414669",
+    "title": "憂鬱なる党派",
+    "author": "高橋和巳",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309414669",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027439410",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 409
+  },
+  {
+    "book_id": "isbn-9784309415567",
+    "title": "我が心は石にあらず",
+    "author": "高橋和巳",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309415567",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028384511",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 427
+  },
+  {
+    "book_id": "isbn-9784061983137",
+    "title": "パルタイ",
+    "author": "倉橋由美子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061983137",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003692288",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 247
+  },
+  {
+    "book_id": "isbn-9784101113166",
+    "title": "大人のための残酷童話",
+    "author": "倉橋由美子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101113166",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002704541",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 239
+  },
+  {
+    "book_id": "isbn-9784061960060",
+    "title": "スミヤキストQの冒険",
+    "author": "倉橋由美子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061960060",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001904111",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 476
+  },
+  {
+    "book_id": "isbn-9784061976986",
+    "title": "寵児",
+    "author": "津島佑子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061976986",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002862624",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 288
+  },
+  {
+    "book_id": "isbn-9784061962415",
+    "title": "光の領分",
+    "author": "津島佑子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061962415",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002282916",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 269
+  },
+  {
+    "book_id": "isbn-9784062752961",
+    "title": "火の山",
+    "author": "津島佑子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062752961",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008051894",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 653
+  },
+  {
+    "book_id": "isbn-9784101070049",
+    "title": "都会の憂鬱",
+    "author": "佐藤春夫",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101070049",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002372110",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 177
+  },
+  {
+    "book_id": "isbn-9784003108925",
+    "title": "菜穂子",
+    "author": "堀辰雄",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003108925",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004152606",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 304
+  },
+  {
+    "book_id": "isbn-9784903620374",
+    "title": "聖家族",
+    "author": "堀辰雄",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784903620374",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010183271",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "SDP",
+    "pages": 140
+  },
+  {
+    "book_id": "isbn-9784061983830",
+    "title": "寂兮寥兮",
+    "author": "大庭みな子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061983830",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007514612",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 189
+  },
+  {
+    "book_id": "isbn-9784061982222",
+    "title": "浦島草",
+    "author": "大庭みな子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061982222",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002912560",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 568
+  },
+  {
+    "book_id": "isbn-9784167107123",
+    "title": "考えるヒント",
+    "author": "小林秀雄",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "challenging",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167107123",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007436899",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 270
+  },
+  {
+    "book_id": "isbn-9784101007069",
+    "title": "本居宣長",
+    "author": "小林秀雄",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "challenging",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101007069",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009182477",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 475
+  },
+  {
+    "book_id": "isbn-9784804730073",
+    "title": "私の人生観",
+    "author": "小林秀雄",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "challenging",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784804730073",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001644904",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "大和出版",
+    "pages": 242
+  },
+  {
+    "book_id": "isbn-9784101007045",
+    "title": "モオツァルト・無常という事",
+    "author": "小林秀雄",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "challenging",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101007045",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809807442707",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784309413099",
+    "title": "邪宗門",
+    "author": "高橋和巳",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309413099",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025599866",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 601
+  },
+  {
+    "book_id": "isbn-9784101113098",
+    "title": "聖少女",
+    "author": "倉橋由美子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101113098",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001522478",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 240
+  },
+  {
+    "book_id": "isbn-9784003100714",
+    "title": "浮雲",
+    "author": "二葉亭四迷",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003100714",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007541740",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 354
   }
 ]
