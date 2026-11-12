@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-12T20:12:47.473Z
-- 候補：4430冊
-- 入れた本：4050冊
-- 入れなかった本：380冊
+- 検索日時：2026-11-12T20:33:20.243Z
+- 候補：4512冊
+- 入れた本：4115冊
+- 入れなかった本：397冊
 
 ## 入れなかった本
 
@@ -387,6 +387,23 @@
 - 点子ちゃんとアントン／エーリッヒ・ケストナー（海外の名作）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
 - メアリー・ポピンズ／P・L・トラヴァース（海外の名作）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
 - たのしい川べ／ケネス・グレアム（海外の名作）：タイトルが同じで ISBN のある記録がない
+- アトラス伝説／井出孫六（直木賞）：タイトルが同じで ISBN のある記録がない
+- オキナワの少年／東峰夫（芥川賞）：タイトルが同じで ISBN のある記録がない
+- 榧の木祭り／高城修三（芥川賞）：タイトルが同じで ISBN のある記録がない
+- 愚者の夜／青野聰（芥川賞）：タイトルが同じで ISBN のある記録がない
+- モッキングバードのいる町／森禮子（芥川賞）：タイトルが同じで ISBN のある記録がない
+- 誰かが触った／宮原昭夫（芥川賞）：タイトルが同じで ISBN のある記録がない
+- ベティさんの庭／山本道子（芥川賞）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
+- 鶸／三木卓（芥川賞）：タイトルが同じで ISBN のある記録がない
+- 喪神／五味康祐（芥川賞）：タイトルが同じで ISBN のある記録がない
+- 本の話／由起しげ子（芥川賞）：タイトルが同じで ISBN のある記録がない
+- 海人舟／近藤啓太郎（芥川賞）：タイトルが同じで ISBN のある記録がない
+- 山塔／斯波四郎（芥川賞）：タイトルが同じで ISBN のある記録がない
+- 鯨神／宇能鴻一郎（芥川賞）：タイトルが同じで ISBN のある記録がない
+- 美談の出発／川村晃（芥川賞）：タイトルが同じで ISBN のある記録がない
+- 少年の橋／後藤紀一（芥川賞）：タイトルが同じで ISBN のある記録がない
+- 蟹／河野多惠子（芥川賞）：タイトルが同じで ISBN のある記録がない
+- 玩具／津村節子（芥川賞）：タイトルが同じで ISBN のある記録がない
 
 ## 入れた本と選んだ版
 
@@ -4440,3 +4457,68 @@
 - 魔女がいっぱい：ロアルド・ダールコレクション ; 13／評論社／2006.1／288p／NDC 933.7／novel・easy・medium
 - 大どろぼうホッツェンプロッツ：ドイツのゆかいな童話／偕成社／2010.9／184p／NDC 943.7／novel・easy・short
 - 穴：講談社文庫／講談社／2006.12／339p／NDC 933.7／novel・easy・medium
+- 人間不平等起源論：光文社古典新訳文庫／光文社／2008.8／414p／NDC 311／liberal_arts・challenging・medium
+- 人生談義：岩波文庫 ; 33-608-1／岩波書店／2020.12／441p／NDC 131.5／liberal_arts・challenging・long
+- 後世への最大遺物：岩波文庫 ; 33-119-4／岩波書店／2011.9／142p／NDC 194／liberal_arts・challenging・short
+- 禅と日本文化：角川ソフィア文庫 ; H101-7／KADOKAWA／2022.9／690,4p／NDC 188.8／liberal_arts・challenging・long
+- 笑い：光文社古典新訳文庫 ; KBヘ1-1／光文社／2016.6／322p／NDC 135.4／liberal_arts・challenging・medium
+- 群衆心理：講談社学術文庫／講談社／1993.9／301p／NDC 361.4／liberal_arts・challenging・medium
+- 背徳のメス：角川文庫／角川書店／1997.1／281p／NDC 913.6／novel・normal・medium
+- 孤愁の岸：講談社文庫／講談社／1982.2／2冊／NDC 913.6／novel・normal・medium
+- 白い罌粟：角川文庫 ; ２７２３／角川書店／１９８７．３／３１２ｐ ; １５ｃｍ／NDC 913.6／novel・normal・medium
+- 聖少女：文春文庫／文芸春秋／1983／253p ; 16cm／NDC 913.6／novel・normal・medium
+- 青玉獅子香炉：P+D BOOKS／小学館／2023.4／241p／NDC 913.6／novel・normal・short
+- 軍旗はためく下に：中公文庫／中央公論新社／2006.7／278p／NDC 913.6／novel・normal・medium
+- 長良川：光人社NF文庫／光人社／1994.4／687p／NDC 913.6／novel・normal・long
+- 雨やどり：集英社文庫／集英社／1990.3／295p／NDC 913.6／novel・normal・medium
+- 復讐するは我にあり：文春文庫 ; さ4-17／文藝春秋／2009.11／494p／NDC 913.6／novel・normal・long
+- 子育てごっこ：P+D BOOKS／小学館／2020.6／274p／NDC 913.6／novel・normal・medium
+- 離婚：文春文庫／文芸春秋／1983.5／210p／NDC 913.6／novel・normal・short
+- 深重の海：新潮文庫／新潮社／1982.12／387p／NDC 913.6／novel・normal・medium
+- ナポレオン狂：講談社文庫／講談社／1982.7／279p／NDC 913.6／novel・normal・medium
+- 黄色い牙：講談社文庫／講談社／1982.10／388p／NDC 913.6／novel・normal・medium
+- 元首の謀叛：文春文庫／文芸春秋／1983.7／2冊／NDC 913.6／novel・normal・medium
+- 黒パン俘虜記：文春文庫／文芸春秋／1986.1／307p／NDC 913.6／novel・normal・medium
+- 私生活：文春文庫／文芸春秋／1986.12／282p／NDC 913.6／novel・normal・medium
+- 秘伝：講談社文庫／講談社／1987.2／240p／NDC 913.6／novel・normal・short
+- 演歌の虫：文春文庫／文芸春秋／1988.2／264p／NDC 913.6／novel・normal・medium
+- 魚河岸ものがたり：新潮文庫／新潮社／1988.7／317p／NDC 913.6／novel・normal・medium
+- ソウル・ミュージック・ラバーズ・オンリー：角川文庫／角川書店／1987.11／222p／NDC 913.6／novel・normal・short
+- それぞれの終楽章：講談社文庫／講談社／1991.1／220p／NDC 913.6／novel・normal・short
+- 凍れる瞳：文春文庫／文芸春秋／1991.5／327p／NDC 913.6／novel・normal・medium
+- 遠い海から来たCOO：角川文庫／角川書店／1992.3／339p／NDC 913.6／novel・normal・medium
+- 東京新大橋雨中図：文春文庫 ; す6-18／文藝春秋／2025.1／370p／NDC 913.6／novel・normal・medium
+- 熟れてゆく夏：文春文庫／文芸春秋／1991.10／206p／NDC 913.6／novel・normal・short
+- 高円寺純情商店街：新潮文庫／新潮社／1992.4／239p／NDC 913.6／novel・normal・short
+- 小伝抄：文春文庫／文芸春秋／1993.2／257p／NDC 913.6／novel・normal・medium
+- 私が殺した少女：ハヤカワ文庫. JA／早川書房／1996.4／439p／NDC 913.6／novel・normal・medium
+- 漂泊者のアリア：文春文庫／文芸春秋／1993.5／318p／NDC 913.6／novel・normal・medium
+- 恵比寿屋喜兵衛手控え：講談社文庫／講談社／1996.9／407p／NDC 913.6／novel・normal・medium
+- 二つの山河：文春文庫／文芸春秋／1997.9／238p／NDC 913.6／novel・normal・short
+- 帰郷：叢書なし／文芸春秋／1994.3／253p／NDC 913.6／novel・normal・medium
+- 山妣：新潮文庫／新潮社／2000.1／503p／NDC 913.6／novel・normal・long
+- 渦：文春文庫 ; お73-2／文藝春秋／2021.8／407p／NDC 913.6／novel・normal・medium
+- 砧をうつ女：文春文庫／文芸春秋／1986／251p ; 16cm／NDC 913.6／novel・normal・medium
+- 伸予：文春文庫／文芸春秋／1983.6／234p／NDC 913.6／novel・normal・short
+- やまあいの煙：文春文庫／文芸春秋／1982.11／279p／NDC 913.6／novel・normal・medium
+- 小さな貴婦人：新潮文庫／新潮社／1986.3／211p／NDC 913.6／novel・normal・short
+- 夢の壁：新潮文庫／新潮社／1991.7／359p／NDC 913.6／novel・normal・medium
+- 青桐：文春文庫／文芸春秋／1988.2／235p／NDC 913.6／novel・normal・short
+- 過越しの祭：岩波現代文庫 : 文芸／岩波書店／2002.8／190p／NDC 913.6／novel・normal・short
+- 鍋の中：文春文庫／文芸春秋／1990.8／246p／NDC 913.6／novel・normal・short
+- 長男の出家：福武文庫／福武書店／1991.4／234p／NDC 913.6／novel・normal・short
+- 尋ね人の時間：文春文庫／文芸春秋／1991.8／183p／NDC 913.6／novel・normal・short
+- 由煕：叢書なし／講談社／1989.2／305p／NDC 913.6／novel・normal・medium
+- いつか汽笛を鳴らして：文春文庫／文芸春秋／1986.2／253p／NDC 913.6／novel・normal・medium
+- あの夕陽：講談社文芸文庫／講談社／2002.10／235p／NDC 913.6／novel・normal・short
+- 土の器：文春文庫／文芸春秋／1984.1／238p／NDC 913.6／novel・normal・short
+- 祭りの場：林京子全集 ; 第1巻／日本図書センター／2005.6／485p／NDC 913.6／novel・normal・long
+- 志賀島：文春文庫／文芸春秋／1986.7／254p／NDC 913.6／novel・normal・medium
+- 杢二の世界：福武文庫／福武書店／1987.3／252p／NDC 913.6／novel・normal・medium
+- 光抱く友よ：新潮文庫／新潮社／1987.5／205p／NDC 913.6／novel・normal・short
+- 硫黄島：角川文庫／角川書店／2005.9／316p／NDC 913.6／novel・normal・medium
+- カクテル・パーティー：岩波現代文庫 ; B189／岩波書店／2011.9／317p／NDC 913.6／novel・normal・medium
+- 徳山道助の帰郷：講談社文芸文庫／講談社／2003.10／252p／NDC 913.6／novel・normal・medium
+- アカシヤの大連：講談社文芸文庫／講談社／1988.2／388p／NDC 913.6／novel・normal・medium
+- プレオー8の夜明け：講談社文芸文庫／講談社／2001.7／329p／NDC 913.6／novel・normal・medium
+- 深い河：講談社文芸文庫／講談社／2004.8／287p／NDC 913.6／novel・normal・medium
