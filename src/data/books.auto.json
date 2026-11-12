@@ -51173,6 +51173,32 @@
     "pages": 145
   },
   {
+    "book_id": "isbn-9784875745570",
+    "title": "ガラスの動物園",
+    "author": "テネシー・ウィリアムズ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784875745570",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002273418",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "劇書房",
+    "pages": 122
+  },
+  {
     "book_id": "isbn-9784905849308",
     "title": "欲望という名の電車",
     "author": "テネシー・ウィリアムズ",
