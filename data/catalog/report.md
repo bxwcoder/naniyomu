@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-13T14:10:33.201Z
-- 候補：6032冊
-- 入れた本：5504冊
-- 入れなかった本：528冊
+- 検索日時：2026-11-13T14:22:00.768Z
+- 候補：6062冊
+- 入れた本：5533冊
+- 入れなかった本：529冊
 
 ## 入れなかった本
 
@@ -535,6 +535,7 @@
 - ジョヴァンニの部屋／ジェイムズ・ボールドウィン（海外の名作）：タイトルが同じで ISBN のある記録がない
 - 万葉集／大伴家持（日本の名作）：著者が合う記録がない
 - 小倉百人一首／藤原定家（日本の名作）：タイトルが同じで ISBN のある記録がない
+- 物語 北欧の歴史／武田龍夫（教養の定番）：著者が合う記録がない
 
 ## 入れた本と選んだ版
 
@@ -6042,3 +6043,32 @@
 - 正法眼蔵：河出文庫／河出書房新社／2004.7／385p／NDC 188.81／liberal_arts・normal・long
 - 蘭学事始：講談社学術文庫／講談社／2000.1／250p／NDC 402.105／liberal_arts・normal・medium
 - 三酔人経綸問答：光文社古典新訳文庫 ; KBナ1-1／光文社／2014.3／312p／NDC 311.21／liberal_arts・normal・medium
+- 女性のいない民主主義：岩波新書 新赤版 ; 1794／岩波書店／2019.9／215,9p／NDC 312.1／liberal_arts・normal・short
+- ルポ 生活保護：中公新書 ; 2070／中央公論新社／2010.8／244p／NDC 369.2／liberal_arts・normal・short
+- コロナ後の世界：文春新書 ; 1271／文藝春秋／2020.7／202p／NDC 304／liberal_arts・normal・short
+- 問題は英国ではない、EUなのだ：文春新書 ; 1093／文藝春秋／2016.9／254p／NDC 304／liberal_arts・normal・medium
+- シリアの秘密図書館：叢書なし／東京創元社／2018.2／195p／NDC 016.29／nonfiction・normal・short
+- ブッダとそのダンマ：光文社新書／光文社／2004.8／430p／NDC 182.8／liberal_arts・normal・medium
+- はじめての動物倫理学：集英社新書 ; 1060／集英社／2021.3／261p／NDC 158／liberal_arts・normal・medium
+- 人類の起源：中公新書 ; 2683／中央公論新社／2022.2／294p／NDC 469.2／liberal_arts・normal・medium
+- 土偶を読む：叢書なし／晶文社／2021.4／347p 図版9枚／NDC 210.25／liberal_arts・normal・medium
+- 古代史講義：ちくま新書 ; 1300／筑摩書房／2018.1／286p／NDC 210.3／liberal_arts・normal・medium
+- 日本史の論点：中公新書 ; 2500／中央公論新社／2018.8／269p／NDC 210.1／liberal_arts・normal・medium
+- 江戸の思想史：中公新書 ; 2097／中央公論新社／2011.2／239p／NDC 121.5／liberal_arts・normal・short
+- 中世を旅する人びと：ちくま学芸文庫／筑摩書房／2008.7／339p／NDC 230.4／liberal_arts・normal・medium
+- 物語 ウクライナの歴史：中公新書／中央公論新社／2002.8／268p／NDC 238.6／liberal_arts・normal・medium
+- 物語 スペインの歴史：中公新書／中央公論新社／2002.4／304p／NDC 236／liberal_arts・normal・medium
+- 物語 ポーランドの歴史：中公新書 ; 2445／中央公論新社／2017.7／224p／NDC 234.9／liberal_arts・normal・short
+- 物語 オーストラリアの歴史：中公新書／中央公論新社／2000.8／296p／NDC 271／liberal_arts・normal・medium
+- 物語 カタルーニャの歴史：中公新書／中央公論新社／2000.12／254p／NDC 236／liberal_arts・normal・medium
+- 物語 ヴェトナムの歴史：中公新書／中央公論社／1997.7／388p／NDC 223.1／liberal_arts・normal・medium
+- 物語 メキシコの歴史：中公新書／中央公論新社／2008.2／270p／NDC 256／liberal_arts・normal・medium
+- 物語 タイの歴史：中公新書／中央公論新社／2007.9／310p／NDC 223.7／liberal_arts・normal・medium
+- 物語 エルサレムの歴史：中公新書 ; 2067／中央公論新社／2010.7／306p／NDC 227.9／liberal_arts・normal・medium
+- 物語 アイルランドの歴史：中公新書／中央公論社／1994.11／282p／NDC 233.9／liberal_arts・normal・medium
+- ムハンマド：Historia ; 1／山川出版社／2002.5／206p／NDC 167.28／liberal_arts・normal・short
+- イスラームの歴史：中公新書 ; 2453／中央公論新社／2017.9／318p／NDC 227／liberal_arts・normal・medium
+- キリスト教の歴史：講談社学術文庫／講談社／1995.5／258p／NDC 192／liberal_arts・normal・medium
+- 仏教入門：岩波新書／岩波書店／1990.1／236, 15p／NDC 182.25／liberal_arts・normal・short
+- 神道とは何か：中公新書 ; 2158／中央公論新社／2012.4／306p／NDC 172／liberal_arts・normal・medium
+- 宗教改革の真実：講談社現代新書／講談社／2004.3／226p／NDC 234.05／liberal_arts・normal・short

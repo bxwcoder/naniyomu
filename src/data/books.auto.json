@@ -146327,5 +146327,788 @@
     "tier": "basic",
     "publisher": "光文社",
     "pages": 312
+  },
+  {
+    "book_id": "isbn-9784004317944",
+    "title": "女性のいない民主主義",
+    "author": "前田健太郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004317944",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029878211",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 215
+  },
+  {
+    "book_id": "isbn-9784121020703",
+    "title": "ルポ 生活保護",
+    "author": "本田良一",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121020703",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010979885",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 244
+  },
+  {
+    "book_id": "isbn-9784166612710",
+    "title": "コロナ後の世界",
+    "author": "ジャレド・ダイアモンド",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784166612710",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030501881",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 202
+  },
+  {
+    "book_id": "isbn-9784166610938",
+    "title": "問題は英国ではない、EUなのだ",
+    "author": "エマニュエル・トッド",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784166610938",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027583121",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784488003876",
+    "title": "シリアの秘密図書館",
+    "author": "デルフィーヌ・ミヌーイ",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488003876",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028824330",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 195
+  },
+  {
+    "book_id": "isbn-9784334032654",
+    "title": "ブッダとそのダンマ",
+    "author": "アンベードカル",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334032654",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007460041",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 430
+  },
+  {
+    "book_id": "isbn-9784087211603",
+    "title": "はじめての動物倫理学",
+    "author": "田上孝一",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087211603",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031311123",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 261
+  },
+  {
+    "book_id": "isbn-9784121026835",
+    "title": "人類の起源",
+    "author": "篠田謙一",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121026835",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031978932",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 294
+  },
+  {
+    "book_id": "isbn-9784794972613",
+    "title": "土偶を読む",
+    "author": "竹倉史人",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784794972613",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031399222",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "晶文社",
+    "pages": 347
+  },
+  {
+    "book_id": "isbn-9784480071170",
+    "title": "古代史講義",
+    "author": "佐藤信",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480071170",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028725598",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 286
+  },
+  {
+    "book_id": "isbn-9784121025005",
+    "title": "日本史の論点",
+    "author": "中公新書編集部",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121025005",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029128832",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 269
+  },
+  {
+    "book_id": "isbn-9784121020970",
+    "title": "江戸の思想史",
+    "author": "田尻祐一郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121020970",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011135322",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 239
+  },
+  {
+    "book_id": "isbn-9784480091574",
+    "title": "中世を旅する人びと",
+    "author": "阿部謹也",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480091574",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009427064",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 339
+  },
+  {
+    "book_id": "isbn-9784121016553",
+    "title": "物語 ウクライナの歴史",
+    "author": "黒川祐次",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121016553",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003673751",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 268
+  },
+  {
+    "book_id": "isbn-9784121016355",
+    "title": "物語 スペインの歴史",
+    "author": "岩根圀和",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121016355",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003648390",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 304
+  },
+  {
+    "book_id": "isbn-9784121024459",
+    "title": "物語 ポーランドの歴史",
+    "author": "渡辺克義",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121024459",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028334442",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 224
+  },
+  {
+    "book_id": "isbn-9784121015471",
+    "title": "物語 オーストラリアの歴史",
+    "author": "竹田いさみ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121015471",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002926995",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 296
+  },
+  {
+    "book_id": "isbn-9784121015648",
+    "title": "物語 カタルーニャの歴史",
+    "author": "田澤耕",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121015648",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002959451",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784121013729",
+    "title": "物語 ヴェトナムの歴史",
+    "author": "小倉貞男",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121013729",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002614557",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 388
+  },
+  {
+    "book_id": "isbn-9784121019356",
+    "title": "物語 メキシコの歴史",
+    "author": "大垣貴志郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121019356",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009317014",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 270
+  },
+  {
+    "book_id": "isbn-9784121019134",
+    "title": "物語 タイの歴史",
+    "author": "柿崎一郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121019134",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009107723",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 310
+  },
+  {
+    "book_id": "isbn-9784121020673",
+    "title": "物語 エルサレムの歴史",
+    "author": "笈川博一",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121020673",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010954290",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 306
+  },
+  {
+    "book_id": "isbn-9784121012159",
+    "title": "物語 アイルランドの歴史",
+    "author": "波多野裕造",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121012159",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002383106",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 282
+  },
+  {
+    "book_id": "isbn-9784634490109",
+    "title": "ムハンマド",
+    "author": "小杉泰",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784634490109",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003638697",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "山川出版社",
+    "pages": 206
+  },
+  {
+    "book_id": "isbn-9784121024534",
+    "title": "イスラームの歴史",
+    "author": "カレン・アームストロング",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121024534",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028498638",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 318
+  },
+  {
+    "book_id": "isbn-9784061591783",
+    "title": "キリスト教の歴史",
+    "author": "小田垣雅也",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061591783",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002410892",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 258
+  },
+  {
+    "book_id": "isbn-9784004301035",
+    "title": "仏教入門",
+    "author": "三枝充悳",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004301035",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002028151",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 236
+  },
+  {
+    "book_id": "isbn-9784121021588",
+    "title": "神道とは何か",
+    "author": "伊藤聡",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121021588",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023557867",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 306
+  },
+  {
+    "book_id": "isbn-9784061497122",
+    "title": "宗教改革の真実",
+    "author": "永田諒一",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061497122",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007302755",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 226
   }
 ]
