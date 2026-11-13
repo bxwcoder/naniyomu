@@ -130914,6 +130914,32 @@
     "pages": 316
   },
   {
+    "book_id": "isbn-9784309464985",
+    "title": "なにかが首のまわりに",
+    "author": "チママンダ・ンゴズィ・アディーチェ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309464985",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029758829",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 318
+  },
+  {
     "book_id": "isbn-9784309468259",
     "title": "男も女もみんなフェミニストでなきゃ",
     "author": "チママンダ・ンゴズィ・アディーチェ",
@@ -131148,6 +131174,32 @@
     "pages": 623
   },
   {
+    "book_id": "isbn-9784003277416",
+    "title": "山椒魚戦争",
+    "author": "カレル・チャペック",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003277416",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002226437",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 488
+  },
+  {
     "book_id": "isbn-9784122070110",
     "title": "ロボット",
     "author": "カレル・チャペック",
@@ -131224,5 +131276,579 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 282
+  },
+  {
+    "book_id": "isbn-9784334751654",
+    "title": "寄宿生テルレスの混乱",
+    "author": "ムージル",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334751654",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009520206",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 347
+  },
+  {
+    "book_id": "isbn-9784151200212",
+    "title": "愛のゆくえ",
+    "author": "リチャード・ブローティガン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151200212",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003670695",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 263
+  },
+  {
+    "book_id": "isbn-9784102147030",
+    "title": "芝生の復讐",
+    "author": "リチャード・ブローティガン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102147030",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009313540",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 265
+  },
+  {
+    "book_id": "isbn-9784336048165",
+    "title": "聖母の贈り物",
+    "author": "ウィリアム・トレヴァー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784336048165",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008473881",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "国書刊行会",
+    "pages": 408
+  },
+  {
+    "book_id": "isbn-9784861823053",
+    "title": "話の終わり",
+    "author": "リディア・デイヴィス",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784861823053",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011047545",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "作品社",
+    "pages": 273
+  },
+  {
+    "book_id": "isbn-9784102168028",
+    "title": "スノーグース",
+    "author": "ポール・ギャリコ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102168028",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002551966",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 171
+  },
+  {
+    "book_id": "isbn-9784102168011",
+    "title": "ジェニィ",
+    "author": "ポール・ギャリコ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102168011",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003653027",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 463
+  },
+  {
+    "book_id": "isbn-9784488583026",
+    "title": "ずっとお城で暮らしてる",
+    "author": "シャーリイ・ジャクスン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488583026",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009020116",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784151823015",
+    "title": "くじ",
+    "author": "シャーリイ・ジャクスン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151823015",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027651084",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 423
+  },
+  {
+    "book_id": "isbn-9784102042021",
+    "title": "結婚式のメンバー",
+    "author": "カーソン・マッカラーズ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102042021",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027186833",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 332
+  },
+  {
+    "book_id": "isbn-9784102042038",
+    "title": "心は孤独な狩人",
+    "author": "カーソン・マッカラーズ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102042038",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033056872",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 606
+  },
+  {
+    "book_id": "isbn-9784062066914",
+    "title": "少女ソフィアの夏",
+    "author": "トーベ・ヤンソン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062066914",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002287133",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 301
+  },
+  {
+    "book_id": "isbn-9784102157251",
+    "title": "贖罪",
+    "author": "イアン・マキューアン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102157251",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029384872",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 637
+  },
+  {
+    "book_id": "isbn-9784480831767",
+    "title": "善人はなかなかいない",
+    "author": "フラナリー・オコナー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480831767",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002690736",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784150108519",
+    "title": "チャンピオンたちの朝食",
+    "author": "カート・ヴォネガット・ジュニア",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150108519",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002022157",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 383
+  },
+  {
+    "book_id": "isbn-9784622050346",
+    "title": "昨日の世界",
+    "author": "ツヴァイク",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784622050346",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002764736",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "みすず書房",
+    "pages": 350
+  },
+  {
+    "book_id": "isbn-9784105900298",
+    "title": "ウォーターランド",
+    "author": "グレアム・スウィフト",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784105900298",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003066689",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 525
+  },
+  {
+    "book_id": "isbn-9784336046376",
+    "title": "白い果実",
+    "author": "ジェフリー・フォード",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784336046376",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007541784",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "国書刊行会",
+    "pages": 349
+  },
+  {
+    "book_id": "isbn-9784560096291",
+    "title": "奥のほそ道",
+    "author": "リチャード・フラナガン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784560096291",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028984462",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白水社",
+    "pages": 453
+  },
+  {
+    "book_id": "isbn-9784152101259",
+    "title": "シャギー・ベイン",
+    "author": "ダグラス・スチュアート",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784152101259",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032086748",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 609
+  },
+  {
+    "book_id": "isbn-9784750515649",
+    "title": "フィフティ・ピープル",
+    "author": "チョン・セラン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784750515649",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029216804",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "亜紀書房",
+    "pages": 485
+  },
+  {
+    "book_id": "isbn-9784750516363",
+    "title": "保健室のアン・ウニョン先生",
+    "author": "チョン・セラン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784750516363",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030301463",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "亜紀書房",
+    "pages": 299
   }
 ]
