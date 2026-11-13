@@ -160950,5 +160950,707 @@
     "tier": "basic",
     "publisher": "福音館書店",
     "pages": 221
+  },
+  {
+    "book_id": "isbn-9784003107614",
+    "title": "宮沢賢治詩集",
+    "author": "宮沢賢治",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003107614",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009153443",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 363
+  },
+  {
+    "book_id": "isbn-9784101197012",
+    "title": "萩原朔太郎詩集",
+    "author": "萩原朔太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101197012",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007719520",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 258
+  },
+  {
+    "book_id": "isbn-9784101196015",
+    "title": "高村光太郎詩集",
+    "author": "高村光太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101196015",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007914154",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 261
+  },
+  {
+    "book_id": "isbn-9784783708483",
+    "title": "八木重吉詩集",
+    "author": "八木重吉",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784783708483",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001930924",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "思潮社",
+    "pages": 157
+  },
+  {
+    "book_id": "isbn-9784003120514",
+    "title": "山之口貘詩集",
+    "author": "山之口貘",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003120514",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027329390",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 260
+  },
+  {
+    "book_id": "isbn-9784768161036",
+    "title": "黒田三郎詩集",
+    "author": "黒田三郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784768161036",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003631567",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "芸林書房",
+    "pages": 128
+  },
+  {
+    "book_id": "isbn-9784894565708",
+    "title": "吉増剛造詩集",
+    "author": "吉増剛造",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784894565708",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002904778",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 253
+  },
+  {
+    "book_id": "isbn-9784768161159",
+    "title": "大岡信詩集",
+    "author": "大岡信",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784768161159",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004342094",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "芸林書房",
+    "pages": 128
+  },
+  {
+    "book_id": "isbn-9784003119518",
+    "title": "茨木のり子詩集",
+    "author": "茨木のり子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003119518",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025294982",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 397
+  },
+  {
+    "book_id": "isbn-9784894564169",
+    "title": "谷川俊太郎詩集",
+    "author": "谷川俊太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784894564169",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002762554",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 250
+  },
+  {
+    "book_id": "isbn-9784758430937",
+    "title": "新川和江詩集",
+    "author": "新川和江",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784758430937",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007541615",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784894569942",
+    "title": "工藤直子詩集",
+    "author": "工藤直子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784894569942",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004155360",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 233
+  },
+  {
+    "book_id": "isbn-9784924684690",
+    "title": "のはらうた",
+    "author": "工藤直子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784924684690",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002210644",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "童話屋",
+    "pages": 109
+  },
+  {
+    "book_id": "isbn-9784898153895",
+    "title": "死んでしまう系のぼくらに",
+    "author": "最果タヒ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784898153895",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025642085",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "リトルモア",
+    "pages": 95
+  },
+  {
+    "book_id": "isbn-9784758430777",
+    "title": "寺山修司詩集",
+    "author": "寺山修司",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784758430777",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007405017",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 253
+  },
+  {
+    "book_id": "isbn-9784885612060",
+    "title": "寺山修司歌集",
+    "author": "寺山修司",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784885612060",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026731374",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東奥日報社",
+    "pages": 132
+  },
+  {
+    "book_id": "isbn-9784783709633",
+    "title": "塚本邦雄歌集",
+    "author": "塚本邦雄",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784783709633",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009127419",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "思潮社",
+    "pages": 158
+  },
+  {
+    "book_id": "isbn-9784783709787",
+    "title": "岡井隆歌集",
+    "author": "岡井隆",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784783709787",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024282592",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "思潮社",
+    "pages": 158
+  },
+  {
+    "book_id": "isbn-9784790404293",
+    "title": "河野裕子歌集",
+    "author": "河野裕子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784790404293",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002651449",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "砂子屋書房",
+    "pages": 165
+  },
+  {
+    "book_id": "isbn-9784865281330",
+    "title": "桜前線開架宣言",
+    "author": "山田航",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784865281330",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026981898",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "左右社",
+    "pages": 270
+  },
+  {
+    "book_id": "isbn-9784480435750",
+    "title": "えーえんとくちから",
+    "author": "笹井宏之",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480435750",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029413179",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 197
+  },
+  {
+    "book_id": "isbn-9784867320105",
+    "title": "水上バス浅草行き",
+    "author": "岡本真帆",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784867320105",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032035711",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ナナロク社",
+    "pages": 162
+  },
+  {
+    "book_id": "isbn-9784865281804",
+    "title": "天の川銀河発電所",
+    "author": "佐藤文香",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784865281804",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028437390",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "左右社",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784106208713",
+    "title": "芭蕉句集",
+    "author": "松尾芭蕉",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784106208713",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029741306",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 446
+  },
+  {
+    "book_id": "isbn-9784044010065",
+    "title": "蕪村句集",
+    "author": "与謝蕪村",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784044010065",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011140453",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川学芸出版",
+    "pages": 585
+  },
+  {
+    "book_id": "isbn-9784044010072",
+    "title": "一茶句集",
+    "author": "小林一茶",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784044010072",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024739364",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川学芸出版",
+    "pages": 618
+  },
+  {
+    "book_id": "isbn-9784003101315",
+    "title": "子規句集",
+    "author": "正岡子規",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003101315",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002258083",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 345
   }
 ]
