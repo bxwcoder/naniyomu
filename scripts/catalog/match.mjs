@@ -67,8 +67,12 @@ export const MANGA_COMPILATION =
  * （「KADOKAWA」のように出版社名だけがアルファベットの日本の本は含めない）
  */
 const isAscii = (text) => /^[\x20-\x7E]+$/.test(text.normalize('NFKC'));
-export const isForeignPublisher = (item) =>
-  isAscii(item.title ?? '') && item.publisher.length > 0 && item.publisher.every(isAscii);
+export const isForeignPublisher = (item) => {
+  if (isAscii(item.title ?? '') && item.publisher.length > 0 && item.publisher.every(isAscii)) return true;
+  // 日本で出た本の ISBN は 978-4 で始まる。外国の ISBN しかない版（中国で出た原書など）も除く
+  const isbns = item.isbns.map((i) => toIsbn13(i)).filter(Boolean);
+  return isbns.length > 0 && isbns.every((i) => !i.startsWith('9784'));
+};
 export const SPECIAL_EDITION =
   /誰でも文庫|大活字|大きな活字|対訳|デカ文字|点字|バイリンガル|bilingual|ジュニア文庫|少年少女|つばさ文庫|青い鳥文庫|みらい文庫|ポプラポケット文庫|ポプラ社文庫|フォア文庫|コバルト文庫|Ruby books|Kodansha International|デザインエッグ|フロンティアニセン|風呂で読める|ゆまに書房|金の星社|文芸まんが|まんがで読破|百年文庫|世界ショートセレクション|一穂社|初版本復刻|カラーブックス|アニメ世界名作|世界名作童話|子どものための世界文学の森|歳までに読みたい|世界の幼年文学|名作読み物|(?<!黒い)画集|イラスト集|原画集|ファンブック|公式ガイドブック|テレビ文庫|テレビえほん/i;
 
