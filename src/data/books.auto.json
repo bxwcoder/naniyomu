@@ -133070,5 +133070,86 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 239
+  },
+  {
+    "book_id": "isbn-9784334033415",
+    "title": "99.9%は仮説",
+    "author": "竹内薫",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334033415",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008097376",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784065154298",
+    "title": "日本社会のしくみ",
+    "author": "小熊英二",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065154298",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029776924",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 601
+  },
+  {
+    "book_id": "isbn-9784101244013",
+    "title": "隠された十字架",
+    "author": "梅原猛",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101244013",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001502897",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 528
   }
 ]
