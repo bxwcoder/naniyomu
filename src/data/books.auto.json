@@ -164438,5 +164438,369 @@
     "tier": "basic",
     "publisher": "岩波書店",
     "pages": 479
+  },
+  {
+    "book_id": "isbn-9784003263310",
+    "title": "静かなドン",
+    "author": "ショーロホフ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003263310",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003627347",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 337
+  },
+  {
+    "book_id": "isbn-9784861829192",
+    "title": "チェヴェングール",
+    "author": "プラトーノフ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784861829192",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032210549",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "作品社",
+    "pages": 624
+  },
+  {
+    "book_id": "isbn-9784102132029",
+    "title": "ガン病棟",
+    "author": "ソルジェニーツィン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102132029",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I25110484371",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 427
+  },
+  {
+    "book_id": "isbn-9784152097101",
+    "title": "アーダ",
+    "author": "ナボコフ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784152097101",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028498858",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 414
+  },
+  {
+    "book_id": "isbn-9784003260517",
+    "title": "狂人日記",
+    "author": "ゴーゴリ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003260517",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971149384780227093",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784003240526",
+    "title": "ヴィルヘルム・マイスターの修業時代",
+    "author": "ゲーテ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003240526",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002861372",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 327
+  },
+  {
+    "book_id": "isbn-9784061975934",
+    "title": "親和力",
+    "author": "ゲーテ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061975934",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002638844",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 474
+  },
+  {
+    "book_id": "isbn-9784622085058",
+    "title": "こわれがめ",
+    "author": "クライスト",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784622085058",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024379907",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "みすず書房",
+    "pages": 193
+  },
+  {
+    "book_id": "isbn-9784003242513",
+    "title": "緑のハインリヒ",
+    "author": "ケラー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003242513",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I25110590114",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 230
+  },
+  {
+    "book_id": "isbn-9784003242551",
+    "title": "村のロメオとユリア",
+    "author": "ケラー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003242551",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I10111100066606",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 126
+  },
+  {
+    "book_id": "isbn-9784003246238",
+    "title": "ラデツキー行進曲",
+    "author": "ヨーゼフ・ロート",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003246238",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025529713",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 329
+  },
+  {
+    "book_id": "isbn-9784003246221",
+    "title": "聖なる酔っぱらいの伝説",
+    "author": "ヨーゼフ・ロート",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003246221",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024369561",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 408
+  },
+  {
+    "book_id": "isbn-9784003271612",
+    "title": "山猫",
+    "author": "ランペドゥーサ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003271612",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009321508",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 423
+  },
+  {
+    "book_id": "isbn-9784865980066",
+    "title": "ラ・セレスティーナ",
+    "author": "フェルナンド・デ・ロハス",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784865980066",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026912083",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "アルファベータブックス",
+    "pages": 304
   }
 ]
