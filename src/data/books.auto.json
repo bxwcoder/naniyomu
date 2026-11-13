@@ -129543,6 +129543,33 @@
     "pages": 141
   },
   {
+    "book_id": "isbn-9784065126769",
+    "title": "愛と人生",
+    "author": "滝口悠生",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065126769",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029366406",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 215
+  },
+  {
     "book_id": "isbn-9784103353140",
     "title": "水平線",
     "author": "滝口悠生",
@@ -129703,6 +129730,33 @@
     "tier": "basic",
     "publisher": "光文社",
     "pages": 210
+  },
+  {
+    "book_id": "isbn-9784480438249",
+    "title": "ポラリスが降り注ぐ夜",
+    "author": "李琴峰",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480438249",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032178521",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 296
   },
   {
     "book_id": "isbn-9784065338438",
@@ -130135,5 +130189,518 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 523
+  },
+  {
+    "book_id": "isbn-9784101345529",
+    "title": "1000の小説とバックベアード",
+    "author": "佐藤友哉",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101345529",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010649036",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 299
+  },
+  {
+    "book_id": "isbn-9784062753197",
+    "title": "フリッカー式",
+    "author": "佐藤友哉",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062753197",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008479297",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 459
+  },
+  {
+    "book_id": "isbn-9784101184418",
+    "title": "あらゆる場所に花束が",
+    "author": "中原昌也",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101184418",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007719256",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 185
+  },
+  {
+    "book_id": "isbn-9784101164526",
+    "title": "俺俺",
+    "author": "星野智幸",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101164526",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024334125",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 342
+  },
+  {
+    "book_id": "isbn-9784101164519",
+    "title": "目覚めよと人魚は歌う",
+    "author": "星野智幸",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101164519",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007535595",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 152
+  },
+  {
+    "book_id": "isbn-9784167907891",
+    "title": "ボラード病",
+    "author": "吉村萬壱",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167907891",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027864459",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 189
+  },
+  {
+    "book_id": "isbn-9784065266786",
+    "title": "半島",
+    "author": "松浦寿輝",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065266786",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031886949",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 377
+  },
+  {
+    "book_id": "isbn-9784122065826",
+    "title": "川の光",
+    "author": "松浦寿輝",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122065826",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028970145",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 459
+  },
+  {
+    "book_id": "isbn-9784087711226",
+    "title": "真ん中の子どもたち",
+    "author": "温又柔",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087711226",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028355664",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 163
+  },
+  {
+    "book_id": "isbn-9784101055718",
+    "title": "火山のふもとで",
+    "author": "松家仁之",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101055718",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033892345",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 508
+  },
+  {
+    "book_id": "isbn-9784101284217",
+    "title": "「吾輩は猫である」殺人事件",
+    "author": "奥泉光",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101284217",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002766206",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 623
+  },
+  {
+    "book_id": "isbn-9784101284224",
+    "title": "神器",
+    "author": "奥泉光",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101284224",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011240141",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 526
+  },
+  {
+    "book_id": "isbn-9784122069992",
+    "title": "雪の階",
+    "author": "奥泉光",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122069992",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030805066",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 383
+  },
+  {
+    "book_id": "isbn-9784061960053",
+    "title": "群棲",
+    "author": "黒井千次",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061960053",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001899184",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 380
+  },
+  {
+    "book_id": "isbn-9784061960640",
+    "title": "時間",
+    "author": "黒井千次",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061960640",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002026615",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 373
+  },
+  {
+    "book_id": "isbn-9784061976122",
+    "title": "挾み撃ち",
+    "author": "後藤明生",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061976122",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002677651",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 295
+  },
+  {
+    "book_id": "isbn-9784061960169",
+    "title": "夢の島",
+    "author": "日野啓三",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061960169",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001916409",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784061976153",
+    "title": "砂丘が動くように",
+    "author": "日野啓三",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061976153",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002681782",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 295
+  },
+  {
+    "book_id": "isbn-9784062900867",
+    "title": "刻",
+    "author": "李良枝",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062900867",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010857745",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 245
   }
 ]
