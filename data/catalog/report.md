@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-13T08:34:53.426Z
-- 候補：5676冊
-- 入れた本：5168冊
-- 入れなかった本：508冊
+- 検索日時：2026-11-13T09:11:36.901Z
+- 候補：5717冊
+- 入れた本：5207冊
+- 入れなかった本：510冊
 
 ## 入れなかった本
 
@@ -515,6 +515,8 @@
 - マシアス・ギリの失脚／池澤夏樹（日本の名作）：著者が合う記録がない
 - 金沢／吉田健一（日本の名作）：タイトルが同じで ISBN のある記録がない
 - SPQR／メアリー・ビアード（教養の定番）：タイトルが同じで ISBN のある記録がない
+- 燈台鬼／南條範夫（直木賞）：まだ国立国会図書館で検索できていない
+- 塩壺の匙／車谷長吉（日本の名作）：タイトルが同じで ISBN のある記録がない
 
 ## 入れた本と選んだ版
 
@@ -5686,3 +5688,42 @@
 - 人体大全：新潮文庫 ; シ-38-19. Science & History Collection／新潮社／2024.9／715p／NDC 491.3／liberal_arts・normal・long
 - 攻撃：叢書なし／みすず書房／1985.4／385p／NDC 481.78／liberal_arts・normal・medium
 - 異文化理解力：叢書なし／英治出版／2015.8／317p／NDC 336.4／practical・normal・medium
+- 信長の棺：文春文庫／文藝春秋／2008.9／280p／NDC 913.6／novel・easy・long
+- 団塊の世代：文春文庫／文藝春秋／2005.4／301p／NDC 913.6／novel・easy・medium
+- 高瀬庄左衛門御留書：講談社文庫 ; す49-2／講談社／2023.6／399p／NDC 913.6／novel・easy・medium
+- 化け者心中：角川文庫 ; 時-せ12-1／KADOKAWA／2023.8／345p／NDC 913.6／novel・easy・medium
+- 始祖鳥記：小学館文庫／小学館／2002.12／509p／NDC 913.6／novel・easy・long
+- 出星前夜：小学館文庫 ; い25-6／小学館／2013.2／714p／NDC 913.6／novel・easy・long
+- 黄金旅風：小学館文庫／小学館／2008.2／604p／NDC 913.6／novel・easy・long
+- 孤闘：中公文庫 ; う28-7／中央公論新社／2012.11／405p／NDC 913.6／novel・easy・medium
+- 幻の声：文春文庫／文藝春秋／2000.4／276p／NDC 913.6／novel・easy・medium
+- 深川恋物語：集英社文庫／集英社／2002.7／306p／NDC 913.6／novel・easy・medium
+- 北条政子：文春文庫 ; な2-55／文藝春秋／2021.1／595p／NDC 913.6／novel・easy・long
+- 皆月：講談社文庫／講談社／2000.2／396p／NDC 913.6／novel・easy・medium
+- アミターバ：新潮文庫／新潮社／2007.5／175p／NDC 913.6／novel・easy・short
+- 虎口からの脱出：新潮文庫／新潮社／1990.1／388p／NDC 913.6／mystery_sf・normal・medium
+- 熱海殺人事件：角川文庫／角川書店／1985.1／281p／NDC 912.6／novel・normal・medium
+- 仲蔵狂乱：講談社文庫／講談社／2001.2／362p／NDC 913.6／novel・easy・medium
+- 庵堂三兄弟の聖職：角川ホラー文庫 ; Hし2-1／角川書店、角川グループパブリッシング (発売)／2010.8／318p／NDC 913.6／novel・easy・medium
+- ゴメスの名はゴメス：中公文庫／中央公論社／1996.6／336p／NDC 913.6／mystery_sf・normal・medium
+- 白仏：文春文庫／文藝春秋／2000.8／299p／NDC 913.6／novel・easy・medium
+- 白鳥の歌なんか聞えない：新潮文庫 ; し-73-2／新潮社／2012.4／312p／NDC 913.6／novel・normal・medium
+- 赤い月：新潮文庫／新潮社／2003.12／381p／NDC 913.6／novel・easy・long
+- 私、プロレスの味方です：新風舎文庫／新風舎／2003.11／229p／NDC 788.2／nonfiction・easy・short
+- 家康、江戸を建てる：祥伝社文庫 ; か29-2／祥伝社／2018.11／488p／NDC 913.6／novel・easy・long
+- メタモルフォシス：新潮文庫 ; は-65-1／新潮社／2015.11／257p／NDC 913.6／novel・easy・medium
+- 相剋の森：集英社文庫／集英社／2006.11／544p／NDC 913.6／novel・easy・long
+- 方丈記私記：ちくま文庫／筑摩書房／1988.9／265p／NDC 914.42／nonfiction・normal・medium
+- ギリシア神話を知っていますか：新潮文庫／新潮社／1984.6／241p／NDC 164.31／liberal_arts・normal・short
+- 阿弥陀堂だより：文春文庫／文藝春秋／2002.8／237p／NDC 913.6／novel・easy・short
+- 弟：幻冬舎文庫／幻冬舎／1999.6／430p／NDC 913.6／novel・easy・medium
+- 僕が殺した人と僕を殺した人：文春文庫 ; ひ27-2／文藝春秋／2020.5／362p／NDC 913.6／novel・easy・medium
+- 諫早菖蒲日記：文春文庫／文芸春秋／1985.8／298p／NDC 913.6／novel・normal・medium
+- 笹まくら：新潮文庫／新潮社／2001.7／427p／NDC 913.6／novel・normal・medium
+- たった一人の反乱：講談社文芸文庫／講談社／1997.3／650p／NDC 913.6／novel・normal・long
+- ユタとふしぎな仲間たち：新潮文庫／新潮社／1984.9／195p／NDC 913.6／novel・easy・short
+- 魂込め：朝日文庫／朝日新聞社／2002.11／218p／NDC 913.6／novel・normal・short
+- 颶風の王：角川文庫 ; か82-1／KADOKAWA／2018.8／247p／NDC 913.6／novel・easy・short
+- 肉弾：角川文庫 ; か82-2／KADOKAWA／2020.6／274p／NDC 913.6／novel・easy・medium
+- 許されざる者：集英社文庫 ; つ18-1／集英社／2012.8／549p／NDC 913.6／novel・easy・long
+- オブジェクタム：叢書なし／朝日新聞出版／2018.8／165p／NDC 913.6／novel・easy・short
