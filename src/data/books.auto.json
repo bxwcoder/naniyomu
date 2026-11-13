@@ -147110,5 +147110,875 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 226
+  },
+  {
+    "book_id": "isbn-9784121018380",
+    "title": "物語 チェコの歴史",
+    "author": "薩摩秀登",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121018380",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008158585",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 267
+  },
+  {
+    "book_id": "isbn-9784121024343",
+    "title": "物語 オランダの歴史",
+    "author": "桜田美津夫",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121024343",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028156050",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 322
+  },
+  {
+    "book_id": "isbn-9784121022790",
+    "title": "物語 ベルギーの歴史",
+    "author": "松尾秀哉",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121022790",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025629661",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 244
+  },
+  {
+    "book_id": "isbn-9784121015464",
+    "title": "物語 スイスの歴史",
+    "author": "森田安一",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121015464",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002919641",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 268
+  },
+  {
+    "book_id": "isbn-9784121014375",
+    "title": "物語 ラテン・アメリカの歴史",
+    "author": "増田義郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121014375",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002720329",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 265
+  },
+  {
+    "book_id": "isbn-9784121015945",
+    "title": "物語 中東の歴史",
+    "author": "牟田口義郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121015945",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003010372",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 294
+  },
+  {
+    "book_id": "isbn-9784121016607",
+    "title": "物語 イランの歴史",
+    "author": "宮田律",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121016607",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003690663",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 276
+  },
+  {
+    "book_id": "isbn-9784121013675",
+    "title": "物語 フィリピンの歴史",
+    "author": "鈴木静夫",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121013675",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002598040",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 318
+  },
+  {
+    "book_id": "isbn-9784121022080",
+    "title": "物語 シンガポールの歴史",
+    "author": "岩崎育夫",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121022080",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024311325",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 262
+  },
+  {
+    "book_id": "isbn-9784121017581",
+    "title": "物語 バルト三国の歴史",
+    "author": "志摩園子",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121017581",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007442246",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 270
+  },
+  {
+    "book_id": "isbn-9784121025456",
+    "title": "物語 ナイジェリアの歴史",
+    "author": "島田周平",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121025456",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029666615",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 274
+  },
+  {
+    "book_id": "isbn-9784121026156",
+    "title": "物語 東ドイツの歴史",
+    "author": "河合信晴",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121026156",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030678076",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 292
+  },
+  {
+    "book_id": "isbn-9784121020277",
+    "title": "物語 ストラスブールの歴史",
+    "author": "内田日出海",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121020277",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010642139",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 313
+  },
+  {
+    "book_id": "isbn-9784065187531",
+    "title": "物語 パリの歴史",
+    "author": "高遠弘美",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065187531",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030158896",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 282
+  },
+  {
+    "book_id": "isbn-9784121021526",
+    "title": "物語 近現代ギリシャの歴史",
+    "author": "村田奈々子",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121021526",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023405111",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 292
+  },
+  {
+    "book_id": "isbn-9784121024961",
+    "title": "物語 アラビアの歴史",
+    "author": "蔀勇造",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121024961",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029082226",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 386
+  },
+  {
+    "book_id": "isbn-9784121022493",
+    "title": "物語 ビルマの歴史",
+    "author": "根本敬",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121022493",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025130569",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 458
+  },
+  {
+    "book_id": "isbn-9784121025463",
+    "title": "物語 オーストリアの歴史",
+    "author": "山之内克子",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121025463",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029715518",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 452
+  },
+  {
+    "book_id": "isbn-9784121018014",
+    "title": "物語 大英博物館",
+    "author": "出口保夫",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121018014",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007828510",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 262
+  },
+  {
+    "book_id": "isbn-9784121020079",
+    "title": "物語 数学の歴史",
+    "author": "加藤文元",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121020079",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010412170",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 327
+  },
+  {
+    "book_id": "isbn-9784121019288",
+    "title": "物語 京都の歴史",
+    "author": "脇田修",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121019288",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009276990",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784022591210",
+    "title": "アメリカ・インディアン悲史",
+    "author": "藤永茂",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022591210",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I10111100315379",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞社",
+    "pages": 268
+  },
+  {
+    "book_id": "isbn-9784005004416",
+    "title": "ヨーロッパ思想入門",
+    "author": "岩田靖夫",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784005004416",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004205775",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 244
+  },
+  {
+    "book_id": "isbn-9784582763065",
+    "title": "日本の近代化と民衆思想",
+    "author": "安丸良夫",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784582763065",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002910348",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "平凡社",
+    "pages": 488
+  },
+  {
+    "book_id": "isbn-9784065117293",
+    "title": "近代日本の構造",
+    "author": "坂野潤治",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065117293",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028965556",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 228
+  },
+  {
+    "book_id": "isbn-9784065165522",
+    "title": "戦国時代",
+    "author": "永原慶二",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065165522",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029768267",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 500
+  },
+  {
+    "book_id": "isbn-9784642052658",
+    "title": "織田信長",
+    "author": "池上裕子",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784642052658",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024103925",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "吉川弘文館",
+    "pages": 302
+  },
+  {
+    "book_id": "isbn-9784121007841",
+    "title": "豊臣秀吉",
+    "author": "小和田哲男",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121007841",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001780381",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 200
+  },
+  {
+    "book_id": "isbn-9784642052122",
+    "title": "平清盛",
+    "author": "五味文彦",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784642052122",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002772523",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "吉川弘文館",
+    "pages": 332
+  },
+  {
+    "book_id": "isbn-9784121025265",
+    "title": "源頼朝",
+    "author": "元木泰雄",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121025265",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029426404",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 296
+  },
+  {
+    "book_id": "isbn-9784004307693",
+    "title": "聖徳太子",
+    "author": "吉村武彦",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004307693",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003064857",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 190
+  },
+  {
+    "book_id": "isbn-9784634548466",
+    "title": "徳川家康",
+    "author": "藤井讓治",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784634548466",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031409113",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "山川出版社",
+    "pages": 106
   }
 ]

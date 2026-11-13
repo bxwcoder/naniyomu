@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-13T14:22:00.768Z
-- 候補：6062冊
-- 入れた本：5533冊
-- 入れなかった本：529冊
+- 検索日時：2026-11-13T14:57:12.355Z
+- 候補：6098冊
+- 入れた本：5565冊
+- 入れなかった本：533冊
 
 ## 入れなかった本
 
@@ -536,6 +536,10 @@
 - 万葉集／大伴家持（日本の名作）：著者が合う記録がない
 - 小倉百人一首／藤原定家（日本の名作）：タイトルが同じで ISBN のある記録がない
 - 物語 北欧の歴史／武田龍夫（教養の定番）：著者が合う記録がない
+- 物語 台湾の歴史／伊藤潔（教養の定番）：著者が合う記録がない
+- 物語 アメリカ黒人の歴史／上杉忍（教養の定番）：著者が合う記録がない
+- 物語 ハワイの歴史／矢口祐人（教養の定番）：著者が合う記録がない
+- はじめての宗教論／佐藤優（教養の定番）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
 
 ## 入れた本と選んだ版
 
@@ -6072,3 +6076,35 @@
 - 仏教入門：岩波新書／岩波書店／1990.1／236, 15p／NDC 182.25／liberal_arts・normal・short
 - 神道とは何か：中公新書 ; 2158／中央公論新社／2012.4／306p／NDC 172／liberal_arts・normal・medium
 - 宗教改革の真実：講談社現代新書／講談社／2004.3／226p／NDC 234.05／liberal_arts・normal・short
+- 物語 チェコの歴史：中公新書／中央公論新社／2006.3／267p／NDC 234.8／liberal_arts・normal・medium
+- 物語 オランダの歴史：中公新書 ; 2434／中央公論新社／2017.5／322p／NDC 235.9／liberal_arts・normal・medium
+- 物語 ベルギーの歴史：中公新書 ; 2279／中央公論新社／2014.8／244p／NDC 235.8／liberal_arts・normal・short
+- 物語 スイスの歴史：中公新書／中央公論新社／2000.7／268p／NDC 234.5／liberal_arts・normal・medium
+- 物語 ラテン・アメリカの歴史：中公新書／中央公論社／1998.9／265p／NDC 255／liberal_arts・normal・medium
+- 物語 中東の歴史：中公新書／中央公論新社／2001.6／294p／NDC 227／liberal_arts・normal・medium
+- 物語 イランの歴史：中公新書／中央公論新社／2002.9／276p／NDC 227.2／liberal_arts・normal・medium
+- 物語 フィリピンの歴史：中公新書／中央公論社／1997.6／318p／NDC 224.8／liberal_arts・normal・medium
+- 物語 シンガポールの歴史：中公新書 ; 2208／中央公論新社／2013.3／262p／NDC 223.99／liberal_arts・normal・medium
+- 物語 バルト三国の歴史：中公新書／中央公論新社／2004.7／270p／NDC 238.8／liberal_arts・normal・medium
+- 物語 ナイジェリアの歴史：中公新書 ; 2545／中央公論新社／2019.5／274p／NDC 244.5／liberal_arts・normal・medium
+- 物語 東ドイツの歴史：中公新書 ; 2615／中央公論新社／2020.10／292p／NDC 234.075／liberal_arts・normal・medium
+- 物語 ストラスブールの歴史：中公新書 ; 2027／中央公論新社／2009.10／313p／NDC 235／liberal_arts・normal・medium
+- 物語 パリの歴史：講談社現代新書 ; 2560／講談社／2020.1／282p／NDC 235.3／liberal_arts・normal・medium
+- 物語 近現代ギリシャの歴史：中公新書 ; 2152／中央公論新社／2012.2／292p／NDC 239.5／liberal_arts・normal・medium
+- 物語 アラビアの歴史：中公新書 ; 2496／中央公論新社／2018.7／386p／NDC 227.8／liberal_arts・normal・medium
+- 物語 ビルマの歴史：中公新書 ; 2249／中央公論新社／2014.1／458p／NDC 223.8／liberal_arts・normal・long
+- 物語 オーストリアの歴史：中公新書 ; 2546／中央公論新社／2019.6／452p／NDC 234.6／liberal_arts・normal・long
+- 物語 大英博物館：中公新書／中央公論新社／2005.6／262p／NDC 069.633／liberal_arts・normal・medium
+- 物語 数学の歴史：中公新書 ; 2007／中央公論新社／2009.6／327p／NDC 410.2／liberal_arts・normal・medium
+- 物語 京都の歴史：中公新書／中央公論新社／2008.1／317p／NDC 216.2／liberal_arts・normal・medium
+- アメリカ・インディアン悲史：朝日選書 ; 21／朝日新聞社／1983／268,2p ; 19cm／NDC 316.853／liberal_arts・normal・medium
+- ヨーロッパ思想入門：岩波ジュニア新書／岩波書店／2003.7／244, 2p／NDC 130.2／liberal_arts・normal・short
+- 日本の近代化と民衆思想：平凡社ライブラリー／平凡社／1999.10／488p／NDC 210.1／liberal_arts・normal・long
+- 近代日本の構造：講談社現代新書 ; 2479／講談社／2018.5／228p／NDC 312.1／liberal_arts・normal・short
+- 戦国時代：講談社学術文庫 ; 2573／講談社／2019.7／500p／NDC 210.47／liberal_arts・normal・long
+- 織田信長：人物叢書 新装版 ; 通巻272／吉川弘文館／2012.12／302p／NDC 289.1／nonfiction,liberal_arts・normal・medium
+- 豊臣秀吉：中公新書／中央公論社／1985.11／200p／NDC 289.1／nonfiction,liberal_arts・normal・short
+- 平清盛：人物叢書 : 新装版／吉川弘文館／1999.1／332p／NDC 289.1／nonfiction,liberal_arts・normal・medium
+- 源頼朝：中公新書 ; 2526／中央公論新社／2019.1／296p／NDC 289.1／nonfiction,liberal_arts・normal・medium
+- 聖徳太子：岩波新書／岩波書店／2002.1／190, 4p／NDC 288.44／nonfiction,liberal_arts・normal・short
+- 徳川家康：日本史リブレット人 ; 046／山川出版社／2021.4／106p／NDC 289.1／nonfiction,liberal_arts・normal・short
