@@ -136286,5 +136286,892 @@
     "tier": "basic",
     "publisher": "中央公論新社",
     "pages": 239
+  },
+  {
+    "book_id": "isbn-9784087456677",
+    "title": "五色の虹",
+    "author": "三浦英之",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087456677",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028613954",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 345
+  },
+  {
+    "book_id": "isbn-9784087458442",
+    "title": "南三陸日記",
+    "author": "三浦英之",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087458442",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029481091",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 285
+  },
+  {
+    "book_id": "isbn-9784560027783",
+    "title": "中村屋のボース",
+    "author": "中島岳志",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784560027783",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007711668",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白水社",
+    "pages": 340
+  },
+  {
+    "book_id": "isbn-9784166610945",
+    "title": "サイコパス",
+    "author": "中野信子",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784166610945",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027710314",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 232
+  },
+  {
+    "book_id": "isbn-9784794969729",
+    "title": "こわいもの知らずの病理学講義",
+    "author": "仲野徹",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784794969729",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028486623",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "晶文社",
+    "pages": 373
+  },
+  {
+    "book_id": "isbn-9784062881555",
+    "title": "独立国家のつくりかた",
+    "author": "坂口恭平",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062881555",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023606269",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784101207513",
+    "title": "徘徊タクシー",
+    "author": "坂口恭平",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101207513",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027984546",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 206
+  },
+  {
+    "book_id": "isbn-9784140885413",
+    "title": "絶滅の人類史",
+    "author": "更科功",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784140885413",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028720548",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "NHK出版",
+    "pages": 249
+  },
+  {
+    "book_id": "isbn-9784478108307",
+    "title": "若い読者に贈る美しい生物学講義",
+    "author": "更科功",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784478108307",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030080662",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ダイヤモンド社",
+    "pages": 323
+  },
+  {
+    "book_id": "isbn-9784260038850",
+    "title": "居るのはつらいよ",
+    "author": "東畑開人",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784260038850",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029500003",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "医学書院",
+    "pages": 347
+  },
+  {
+    "book_id": "isbn-9784903908984",
+    "title": "うしろめたさの人類学",
+    "author": "松村圭一郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784903908984",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028499689",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ミシマ社",
+    "pages": 189
+  },
+  {
+    "book_id": "isbn-9784101216614",
+    "title": "紋切型社会",
+    "author": "武田砂鉄",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101216614",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029516080",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 349
+  },
+  {
+    "book_id": "isbn-9784167916831",
+    "title": "選べなかった命",
+    "author": "河合香織",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167916831",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031342592",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 267
+  },
+  {
+    "book_id": "isbn-9784062816519",
+    "title": "永続敗戦論",
+    "author": "白井聡",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062816519",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027700434",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 295
+  },
+  {
+    "book_id": "isbn-9784480683618",
+    "title": "ダイエット幻想",
+    "author": "磯野真穂",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480683618",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029976683",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 223
+  },
+  {
+    "book_id": "isbn-9784334046002",
+    "title": "映画を早送りで観る人たち",
+    "author": "稲田豊史",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334046002",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032061815",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 302
+  },
+  {
+    "book_id": "isbn-9784101299525",
+    "title": "脳と仮想",
+    "author": "茂木健一郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101299525",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008494140",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 264
+  },
+  {
+    "book_id": "isbn-9784061385207",
+    "title": "投資家が「お金」よりも大切にしていること",
+    "author": "藤野英人",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061385207",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024259624",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "星海社",
+    "pages": 244
+  },
+  {
+    "book_id": "isbn-9784480684387",
+    "title": "君は君の人生の主役になれ",
+    "author": "鳥羽和久",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480684387",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032403354",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 249
+  },
+  {
+    "book_id": "isbn-9784062882385",
+    "title": "幸せのメカニズム",
+    "author": "前野隆司",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062882385",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025065820",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 257
+  },
+  {
+    "book_id": "isbn-9784167922092",
+    "title": "他者の靴を履く",
+    "author": "ブレイディみかこ",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167922092",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033433198",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 319
+  },
+  {
+    "book_id": "isbn-9784622086031",
+    "title": "子どもたちの階級闘争",
+    "author": "ブレイディみかこ",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784622086031",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028095879",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "みすず書房",
+    "pages": 285
+  },
+  {
+    "book_id": "isbn-9784909044068",
+    "title": "人生を狂わす名著50",
+    "author": "三宅香帆",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784909044068",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028509829",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ライツ社",
+    "pages": 392
+  },
+  {
+    "book_id": "isbn-9784486018483",
+    "title": "孤独なバッタが群れるとき",
+    "author": "前野ウルド浩太郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784486018483",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024053218",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東海大学出版会",
+    "pages": 318
+  },
+  {
+    "book_id": "isbn-9784106109034",
+    "title": "どうしても頑張れない人たち",
+    "author": "宮口幸治",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784106109034",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031339979",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 186
+  },
+  {
+    "book_id": "isbn-9784065326404",
+    "title": "なぜヒトだけが老いるのか",
+    "author": "小林武彦",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065326404",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032864673",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 222
+  },
+  {
+    "book_id": "isbn-9784006033378",
+    "title": "鳥肉以上、鳥学未満。",
+    "author": "川上和人",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784006033378",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032723625",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 216
+  },
+  {
+    "book_id": "isbn-9784837976912",
+    "title": "本は10冊同時に読め!",
+    "author": "成毛眞",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784837976912",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009241698",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "三笠書房",
+    "pages": 171
+  },
+  {
+    "book_id": "isbn-9784101213675",
+    "title": "計算する生命",
+    "author": "森田真生",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101213675",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033168120",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 268
+  },
+  {
+    "book_id": "isbn-9784344423305",
+    "title": "残酷な世界で生き延びるたったひとつの方法",
+    "author": "橘玲",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344423305",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026279610",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 284
+  },
+  {
+    "book_id": "isbn-9784098253548",
+    "title": "上級国民/下級国民",
+    "author": "橘玲",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784098253548",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029804959",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 238
+  },
+  {
+    "book_id": "isbn-9784902970692",
+    "title": "チンパンジーの政治学",
+    "author": "フランス・ドゥ・ヴァール",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784902970692",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008300175",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "産経新聞出版",
+    "pages": 337
+  },
+  {
+    "book_id": "isbn-9784314011495",
+    "title": "動物の賢さがわかるほど人間は賢いのか",
+    "author": "フランス・ドゥ・ヴァール",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784314011495",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028404808",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "紀伊國屋書店",
+    "pages": 412
   }
 ]
