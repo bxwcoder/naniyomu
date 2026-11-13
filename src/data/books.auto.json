@@ -157308,5 +157308,275 @@
     "tier": "basic",
     "publisher": "河出書房新社",
     "pages": 292
+  },
+  {
+    "book_id": "isbn-9784088831503",
+    "title": "あかね噺",
+    "author": "末永裕樹",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088831503",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032172739",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784088826202",
+    "title": "ハイパーインフレーション",
+    "author": "住吉九",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088826202",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031357449",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784091294920",
+    "title": "よふかしのうた",
+    "author": "コトヤマ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091294920",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030065785",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 189
+  },
+  {
+    "book_id": "isbn-9784063805147",
+    "title": "昭和元禄落語心中",
+    "author": "雲田はるこ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063805147",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011226082",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 153
+  },
+  {
+    "book_id": "isbn-9784091971111",
+    "title": "カリフォルニア物語",
+    "author": "吉田秋生",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091971111",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001953258",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 347
+  },
+  {
+    "book_id": "isbn-9784253173599",
+    "title": "エロイカより愛をこめて",
+    "author": "青池保子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784253173599",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002606824",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "秋田書店",
+    "pages": 287
+  },
+  {
+    "book_id": "isbn-9784091221117",
+    "title": "拳児",
+    "author": "松田隆智",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091221117",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001930747",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 185
+  },
+  {
+    "book_id": "isbn-9784061027428",
+    "title": "ああ播磨灘",
+    "author": "さだやす圭",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061027428",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008466905",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 177
+  },
+  {
+    "book_id": "isbn-9784091927613",
+    "title": "月下の棋士",
+    "author": "能條純一",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091927613",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004253084",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 332
+  },
+  {
+    "book_id": "isbn-9784091960504",
+    "title": "哭きの竜",
+    "author": "能條純一",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091960504",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027511309",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 362
   }
 ]
