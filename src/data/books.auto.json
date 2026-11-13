@@ -45163,32 +45163,6 @@
     "pages": 511
   },
   {
-    "book_id": "isbn-9784103097372",
-    "title": "関ケ原",
-    "author": "司馬遼太郎",
-    "genres": [
-      "novel"
-    ],
-    "themes": [
-      "life"
-    ],
-    "moods": [
-      "moving"
-    ],
-    "difficulty": "normal",
-    "length_category": "long",
-    "description": "",
-    "recommendation_reasons": [],
-    "cover_image_url": null,
-    "purchase_url": null,
-    "isbn": "9784103097372",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002220834",
-    "metadata_verified": true,
-    "tier": "basic",
-    "publisher": "新潮社",
-    "pages": 754
-  },
-  {
     "book_id": "isbn-9784101152172",
     "title": "花神",
     "author": "司馬遼太郎",
@@ -65618,32 +65592,6 @@
     "tier": "basic",
     "publisher": "作品社",
     "pages": 333
-  },
-  {
-    "book_id": "isbn-9784102146019",
-    "title": "蝿の王",
-    "author": "ウィリアム・ゴールディング",
-    "genres": [
-      "novel"
-    ],
-    "themes": [
-      "life"
-    ],
-    "moods": [
-      "moving"
-    ],
-    "difficulty": "normal",
-    "length_category": "medium",
-    "description": "",
-    "recommendation_reasons": [],
-    "cover_image_url": null,
-    "purchase_url": null,
-    "isbn": "9784102146019",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I11141113829290",
-    "metadata_verified": true,
-    "tier": "basic",
-    "publisher": "新潮社",
-    "pages": 361
   },
   {
     "book_id": "isbn-9784151200526",
