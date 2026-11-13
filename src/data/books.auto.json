@@ -135893,6 +135893,33 @@
     "pages": 382
   },
   {
+    "book_id": "isbn-9784022607744",
+    "title": "印度放浪",
+    "author": "藤原新也",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022607744",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002261623",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞社",
+    "pages": 417
+  },
+  {
     "book_id": "isbn-9784622072201",
     "title": "サバイバル登山家",
     "author": "服部文祥",
@@ -135918,6 +135945,32 @@
     "tier": "basic",
     "publisher": "みすず書房",
     "pages": 257
+  },
+  {
+    "book_id": "isbn-9784167658014",
+    "title": "ショッピングの女王",
+    "author": "中村うさぎ",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167658014",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003030372",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 229
   },
   {
     "book_id": "isbn-9784087484908",
@@ -135971,5 +136024,187 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 240
+  },
+  {
+    "book_id": "isbn-9784048967709",
+    "title": "東京百景",
+    "author": "又吉直樹",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784048967709",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030339345",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 301
+  },
+  {
+    "book_id": "isbn-9784344410602",
+    "title": "ときどき意味もなくずんずん歩く",
+    "author": "宮田珠己",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344410602",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009369695",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 247
+  },
+  {
+    "book_id": "isbn-9784022644008",
+    "title": "静かな大地",
+    "author": "池澤夏樹",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022644008",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008575211",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞社",
+    "pages": 670
+  },
+  {
+    "book_id": "isbn-9784480021892",
+    "title": "超芸術トマソン",
+    "author": "赤瀬川原平",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480021892",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001895231",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 495
+  },
+  {
+    "book_id": "isbn-9784041026496",
+    "title": "いのちの車窓から",
+    "author": "星野源",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041026496",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031889038",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 205
+  },
+  {
+    "book_id": "isbn-9784101291024",
+    "title": "私の浅草",
+    "author": "沢村貞子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101291024",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001888224",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 292
+  },
+  {
+    "book_id": "isbn-9784122056909",
+    "title": "わたしの献立日記",
+    "author": "沢村貞子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122056909",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023916915",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 239
   }
 ]
