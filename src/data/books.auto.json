@@ -162276,5 +162276,491 @@
     "tier": "basic",
     "publisher": "東京創元社",
     "pages": 472
+  },
+  {
+    "book_id": "isbn-9784022649492",
+    "title": "私をくいとめて",
+    "author": "綿矢りさ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022649492",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030212805",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 249
+  },
+  {
+    "book_id": "isbn-9784087443950",
+    "title": "生のみ生のままで",
+    "author": "綿矢りさ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087443950",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032175563",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784167920227",
+    "title": "木になった亜沙",
+    "author": "今村夏子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167920227",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032703763",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 190
+  },
+  {
+    "book_id": "isbn-9784101257112",
+    "title": "ギンイロノウタ",
+    "author": "村田沙耶香",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101257112",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025082210",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 284
+  },
+  {
+    "book_id": "isbn-9784065147641",
+    "title": "ジニのパズル",
+    "author": "崔実",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065147641",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029547465",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 202
+  },
+  {
+    "book_id": "isbn-9784087444667",
+    "title": "私の家",
+    "author": "青山七恵",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087444667",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032523205",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 399
+  },
+  {
+    "book_id": "isbn-9784087444278",
+    "title": "犬のかたちをしているもの",
+    "author": "高瀬隼子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087444278",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032292085",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 152
+  },
+  {
+    "book_id": "isbn-9784163915722",
+    "title": "ギフテッド",
+    "author": "鈴木涼美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784163915722",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032235408",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 118
+  },
+  {
+    "book_id": "isbn-9784163916545",
+    "title": "グレイスレス",
+    "author": "鈴木涼美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784163916545",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032568894",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 122
+  },
+  {
+    "book_id": "isbn-9784167925000",
+    "title": "それは誠",
+    "author": "乗代雄介",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167925000",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034626761",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 222
+  },
+  {
+    "book_id": "isbn-9784101044521",
+    "title": "母影",
+    "author": "尾崎世界観",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101044521",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032940583",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 126
+  },
+  {
+    "book_id": "isbn-9784163904788",
+    "title": "祐介",
+    "author": "尾崎世界観",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784163904788",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027428943",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 141
+  },
+  {
+    "book_id": "isbn-9784309031125",
+    "title": "あなたの燃える左手で",
+    "author": "朝比奈秋",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309031125",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032855568",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 205
+  },
+  {
+    "book_id": "isbn-9784022652041",
+    "title": "植物少女",
+    "author": "朝比奈秋",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022652041",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034221415",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 194
+  },
+  {
+    "book_id": "isbn-9784163918167",
+    "title": "しをかくうま",
+    "author": "九段理江",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784163918167",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033352619",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 172
+  },
+  {
+    "book_id": "isbn-9784309422626",
+    "title": "教育",
+    "author": "遠野遥",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309422626",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034629160",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 220
+  },
+  {
+    "book_id": "isbn-9784087445596",
+    "title": "カム・ギャザー・ラウンド・ピープル",
+    "author": "高山羽根子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087445596",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032972402",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 195
+  },
+  {
+    "book_id": "isbn-9784022645647",
+    "title": "犬身",
+    "author": "松浦理英子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022645647",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010976301",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 337
   }
 ]
