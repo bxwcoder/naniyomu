@@ -159489,5 +159489,499 @@
     "tier": "basic",
     "publisher": "岩波書店",
     "pages": 319
+  },
+  {
+    "book_id": "isbn-9784001141368",
+    "title": "とぶ船",
+    "author": "ヒルダ・ルイス",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001141368",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008079078",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 232
+  },
+  {
+    "book_id": "isbn-9784001141597",
+    "title": "ふくろ小路一番地",
+    "author": "イーヴ・ガーネット",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001141597",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010215291",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 333
+  },
+  {
+    "book_id": "isbn-9784001106725",
+    "title": "愛について",
+    "author": "ワジム・フロロフ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001106725",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I30111100353495",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 350
+  },
+  {
+    "book_id": "isbn-9784001157307",
+    "title": "あのころはフリードリヒがいた",
+    "author": "ハンス・ペーター・リヒター",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001157307",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002271862",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 271
+  },
+  {
+    "book_id": "isbn-9784001131352",
+    "title": "ぼくたちもそこにいた",
+    "author": "ハンス・ペーター・リヒター",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001131352",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002411976",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 347
+  },
+  {
+    "book_id": "isbn-9784001105049",
+    "title": "片手いっぱいの星",
+    "author": "ラフィク・シャミ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001105049",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001928471",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 329
+  },
+  {
+    "book_id": "isbn-9784198617448",
+    "title": "二つの旅の終わりに",
+    "author": "エイダン・チェンバーズ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198617448",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004230770",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 523
+  },
+  {
+    "book_id": "isbn-9784899980506",
+    "title": "ホエール・トーク",
+    "author": "クリス・クラッチャー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784899980506",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007535515",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "青山出版社",
+    "pages": 285
+  },
+  {
+    "book_id": "isbn-9784488543020",
+    "title": "肩胛骨は翼のなごり",
+    "author": "デイヴィッド・アーモンド",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488543020",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010001721",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 241
+  },
+  {
+    "book_id": "isbn-9784001140095",
+    "title": "プー横丁にたった家",
+    "author": "A・A・ミルン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001140095",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002943390",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 272
+  },
+  {
+    "book_id": "isbn-9784001157079",
+    "title": "風にのってきたメアリー・ポピンズ",
+    "author": "P・L・トラヴァース",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001157079",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002253711",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 297
+  },
+  {
+    "book_id": "isbn-9784652020197",
+    "title": "ちびっこカムのぼうけん",
+    "author": "神沢利子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784652020197",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002298185",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "理論社",
+    "pages": 126
+  },
+  {
+    "book_id": "isbn-9784652005095",
+    "title": "ベロ出しチョンマ",
+    "author": "斎藤隆介",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784652005095",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002941319",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "理論社",
+    "pages": 197
+  },
+  {
+    "book_id": "isbn-9784061855205",
+    "title": "ガンバとカワウソの冒険",
+    "author": "斎藤惇夫",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061855205",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002288365",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 524
+  },
+  {
+    "book_id": "isbn-9784062770200",
+    "title": "ふしぎな目をした男の子",
+    "author": "佐藤さとる",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062770200",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011251174",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 269
+  },
+  {
+    "book_id": "isbn-9784062770873",
+    "title": "小さな国のつづきの話",
+    "author": "佐藤さとる",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062770873",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023152982",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 261
+  },
+  {
+    "book_id": "isbn-9784566010505",
+    "title": "おばけ桃の冒険",
+    "author": "ロアルド・ダール",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784566010505",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I10111100043877",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "評論社",
+    "pages": 196
+  },
+  {
+    "book_id": "isbn-9784566022553",
+    "title": "父さんギツネバンザイ",
+    "author": "ロアルド・ダール",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784566022553",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001934859",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "評論社",
+    "pages": 155
+  },
+  {
+    "book_id": "isbn-9784566014206",
+    "title": "オ・ヤサシ巨人BFG",
+    "author": "ロアルド・ダール",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784566014206",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008227952",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "評論社",
+    "pages": 317
   }
 ]
