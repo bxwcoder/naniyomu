@@ -151700,5 +151700,517 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 270
+  },
+  {
+    "book_id": "isbn-9784044091026",
+    "title": "無限を読みとく数学入門",
+    "author": "小島寛之",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784044091026",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010547997",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川学芸出版",
+    "pages": 299
+  },
+  {
+    "book_id": "isbn-9784140019917",
+    "title": "確率的発想法",
+    "author": "小島寛之",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784140019917",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004380731",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日本放送出版協会",
+    "pages": 237
+  },
+  {
+    "book_id": "isbn-9784150504427",
+    "title": "「無限」に魅入られた天才数学者たち",
+    "author": "アミール・D・アクゼル",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150504427",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026642264",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 335
+  },
+  {
+    "book_id": "isbn-9784061494664",
+    "title": "ゲーデルの哲学",
+    "author": "高橋昌一郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061494664",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002816974",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784062879484",
+    "title": "理性の限界",
+    "author": "高橋昌一郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062879484",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009403650",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 274
+  },
+  {
+    "book_id": "isbn-9784062880480",
+    "title": "知性の限界",
+    "author": "高橋昌一郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062880480",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010838789",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 279
+  },
+  {
+    "book_id": "isbn-9784062881531",
+    "title": "感性の限界",
+    "author": "高橋昌一郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062881531",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023549110",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 264
+  },
+  {
+    "book_id": "isbn-9784334039868",
+    "title": "データ分析の力",
+    "author": "伊藤公一朗",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334039868",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028081131",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 284
+  },
+  {
+    "book_id": "isbn-9784061596146",
+    "title": "医学の歴史",
+    "author": "梶田昭",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061596146",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004231090",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 360
+  },
+  {
+    "book_id": "isbn-9784152093950",
+    "title": "病の皇帝「がん」に挑む",
+    "author": "シッダールタ・ムカジー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784152093950",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024747526",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 418
+  },
+  {
+    "book_id": "isbn-9784150505714",
+    "title": "遺伝子 親密なる人類史",
+    "author": "シッダールタ・ムカジー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150505714",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031294240",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 572
+  },
+  {
+    "book_id": "isbn-9784622087175",
+    "title": "人体の冒険者たち",
+    "author": "ギャヴィン・フランシス",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784622087175",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029076088",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "みすず書房",
+    "pages": 253
+  },
+  {
+    "book_id": "isbn-9784622079828",
+    "title": "死すべき定め",
+    "author": "アトゥール・ガワンデ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784622079828",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027424053",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "みすず書房",
+    "pages": 278
+  },
+  {
+    "book_id": "isbn-9784622077688",
+    "title": "医師は最善を尽くしているか",
+    "author": "アトゥール・ガワンデ",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784622077688",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024665020",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "みすず書房",
+    "pages": 255
+  },
+  {
+    "book_id": "isbn-9784478020944",
+    "title": "しらずしらず",
+    "author": "レナード・ムロディナウ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784478020944",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025056514",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ダイヤモンド社",
+    "pages": 368
+  },
+  {
+    "book_id": "isbn-9784150505455",
+    "title": "あなたの脳のはなし",
+    "author": "デイヴィッド・イーグルマン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150505455",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029913530",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 330
+  },
+  {
+    "book_id": "isbn-9784314011310",
+    "title": "意識と脳",
+    "author": "スタニスラス・ドゥアンヌ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784314011310",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026625379",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "紀伊國屋書店",
+    "pages": 469
+  },
+  {
+    "book_id": "isbn-9784062573153",
+    "title": "記憶力を強くする",
+    "author": "池谷裕二",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062573153",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002954625",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 269
+  },
+  {
+    "book_id": "isbn-9784101329246",
+    "title": "脳には妙なクセがある",
+    "author": "池谷裕二",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101329246",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028757581",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 397
   }
 ]
