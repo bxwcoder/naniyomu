@@ -139331,5 +139331,291 @@
     "tier": "basic",
     "publisher": "集英社",
     "pages": 360
+  },
+  {
+    "book_id": "isbn-9784488172015",
+    "title": "陸橋殺人事件",
+    "author": "ロナルド・A・ノックス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488172015",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001588139",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 277
+  },
+  {
+    "book_id": "isbn-9784150004101",
+    "title": "緑は危険",
+    "author": "クリスチアナ・ブランド",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150004101",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I04111104247402",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 255
+  },
+  {
+    "book_id": "isbn-9784488168056",
+    "title": "幽霊の2/3",
+    "author": "ヘレン・マクロイ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488168056",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010543995",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 315
+  },
+  {
+    "book_id": "isbn-9784488209025",
+    "title": "殺人者の顔",
+    "author": "ヘニング・マンケル",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488209025",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002956151",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 430
+  },
+  {
+    "book_id": "isbn-9784488247065",
+    "title": "狙った獣",
+    "author": "マーガレット・ミラー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488247065",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002382573",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 295
+  },
+  {
+    "book_id": "isbn-9784488013431",
+    "title": "湿地",
+    "author": "アーナルデュル・インドリダソン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488013431",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023663348",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 343
+  },
+  {
+    "book_id": "isbn-9784488206024",
+    "title": "鳥",
+    "author": "ダフネ・デュ・モーリア",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488206024",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002940291",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 552
+  },
+  {
+    "book_id": "isbn-9784488123048",
+    "title": "試行錯誤",
+    "author": "アントニイ・バークリー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488123048",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002384118",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 522
+  },
+  {
+    "book_id": "isbn-9784488106348",
+    "title": "クロイドン発12時30分",
+    "author": "F・W・クロフツ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488106348",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029500018",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 392
+  },
+  {
+    "book_id": "isbn-9784488183028",
+    "title": "誰の死体?",
+    "author": "ドロシー・L・セイヤーズ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488183028",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002279796",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 287
+  },
+  {
+    "book_id": "isbn-9784270005422",
+    "title": "リヴァトン館",
+    "author": "ケイト・モートン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784270005422",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010657108",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ランダムハウス講談社",
+    "pages": 610
   }
 ]
