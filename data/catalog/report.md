@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-13T15:16:42.541Z
-- 候補：6123冊
-- 入れた本：5586冊
-- 入れなかった本：537冊
+- 検索日時：2026-11-13T15:25:59.239Z
+- 候補：6152冊
+- 入れた本：5613冊
+- 入れなかった本：539冊
 
 ## 入れなかった本
 
@@ -544,6 +544,8 @@
 - 社会科学の方法／大塚久雄（教養の定番）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
 - 進化とはなにか／今西錦司（教養の定番）：タイトルが同じで ISBN のある記録がない
 - 人間の測りまちがい／スティーヴン・ジェイ・グールド（教養の定番）：著者が合う記録がない
+- 日本中世の民衆像／網野善彦（教養の定番）：タイトルが同じで ISBN のある記録がない
+- 大久保利通／毛利敏彦（教養の定番）：タイトルが同じで ISBN のある記録がない
 
 ## 入れた本と選んだ版
 
@@ -6133,3 +6135,30 @@
 - 脳のなかの幽霊：角川文庫 ; 16610／角川書店、角川グループパブリッシング (発売)／2011.3／416, 47, 22p／NDC 491.371／liberal_arts・normal・medium
 - 延長された表現型：叢書なし／紀伊国屋書店／1987.7／555p／NDC 467／liberal_arts・normal・long
 - 人間はどこまでチンパンジーか?：叢書なし／新曜社／1993.10／541, 49p／NDC 469／liberal_arts・normal・long
+- 百姓から見た戦国大名：ちくま新書／筑摩書房／2006.9／222p／NDC 210.47／liberal_arts・normal・short
+- 検証 本能寺の変：歴史文化ライブラリー ; 232／吉川弘文館／2007.5／263p／NDC 210.48／liberal_arts・normal・medium
+- 無私の日本人：文春文庫 ; い87-3／文藝春秋／2015.6／375p／NDC 281／nonfiction,liberal_arts・normal・medium
+- 壬申の乱：中公新書／中央公論社／1996.3／308p／NDC 210.34／liberal_arts・normal・medium
+- 蘇我氏：中公新書 ; 2353／中央公論新社／2015.12／272p／NDC 210.3／liberal_arts・normal・medium
+- 藤原氏：中公新書 ; 2464／中央公論新社／2017.12／297p／NDC 288.3／nonfiction,liberal_arts・normal・medium
+- 平安京：中公文庫. 日本の歴史 ; 4／中央公論新社／2004.8／567p／NDC 210.36／liberal_arts・normal・long
+- 院政：中公新書／中央公論新社／2006.10／270p／NDC 210.38／liberal_arts・normal・medium
+- 奥州藤原氏：中公新書／中央公論新社／2002.1／264p／NDC 288.3／nonfiction,liberal_arts・normal・medium
+- 鎌倉幕府：中公文庫. 日本の歴史 ; 7／中央公論新社／2004.11／565p／NDC 210.42／liberal_arts・normal・long
+- 室町の王権：中公新書／中央公論社／1990.7／222p／NDC 210.46／liberal_arts・normal・short
+- 足利義満：中公新書 ; 2179／中央公論新社／2012.8／298p／NDC 289.1／nonfiction,liberal_arts・normal・medium
+- 南朝研究の最前線：朝日文庫 ; に16-2／朝日新聞出版／2020.11／349p／NDC 210.45／liberal_arts・normal・medium
+- 一揆の原理：ちくま学芸文庫 ; コ44-1／筑摩書房／2015.12／250p／NDC 210.4／liberal_arts・normal・medium
+- 戦争の日本中世史：新潮選書／新潮社／2014.1／335p／NDC 210.4／liberal_arts・normal・medium
+- 徳川慶喜：幕末維新の個性 ; 1／吉川弘文館／2004.10／242p／NDC 289.1／nonfiction,liberal_arts・normal・short
+- 西郷隆盛：ミネルヴァ日本評伝選／ミネルヴァ書房／2017.8／567,12p／NDC 289.1／nonfiction,liberal_arts・normal・long
+- 伊藤博文：中公新書 ; 2051／中央公論新社／2010.4／376p／NDC 289.1／nonfiction,liberal_arts・normal・medium
+- 山県有朋：岩波文庫 ; 38-126-4／岩波書店／2019.9／282p／NDC 289.1／nonfiction,liberal_arts・normal・medium
+- 原敬：中公新書 ; 2660／中央公論新社／2021.9／324p／NDC 289.1／nonfiction,liberal_arts・normal・medium
+- 近衛文麿：岩波新書／岩波書店／1972.6(第8刷:2003.3)／249p／NDC 289.1／nonfiction,liberal_arts・normal・short
+- 昭和天皇：岩波新書／岩波書店／2008.1／228p／NDC 288.41／nonfiction,liberal_arts・normal・short
+- 大正天皇：朝日文庫 ; は41-1／朝日新聞出版／2015.4／368,5p／NDC 288.41／nonfiction,liberal_arts・normal・medium
+- 皇后考：講談社学術文庫 ; 2473／講談社／2017.12／653p／NDC 288.44／nonfiction,liberal_arts・normal・long
+- 滝山コミューン一九七四：講談社文庫 ; は91-1／講談社／2010.6／343p／NDC 361.785／nonfiction・normal・medium
+- レッドアローとスターハウス：新潮文庫 ; は-50-2／新潮社／2015.4／531p／NDC 311.21／liberal_arts・normal・long
+- 蒙古襲来：講談社学術文庫 ; 2912／講談社／2026.3／595p／NDC 210.42／liberal_arts・normal・long

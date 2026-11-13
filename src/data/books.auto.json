@@ -148547,5 +148547,747 @@
     "tier": "basic",
     "publisher": "新曜社",
     "pages": 541
+  },
+  {
+    "book_id": "isbn-9784480063137",
+    "title": "百姓から見た戦国大名",
+    "author": "黒田基樹",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480063137",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008313890",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 222
+  },
+  {
+    "book_id": "isbn-9784642056328",
+    "title": "検証 本能寺の変",
+    "author": "谷口克広",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784642056328",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008522746",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "吉川弘文館",
+    "pages": 263
+  },
+  {
+    "book_id": "isbn-9784167903886",
+    "title": "無私の日本人",
+    "author": "磯田道史",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167903886",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026399770",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 375
+  },
+  {
+    "book_id": "isbn-9784121012937",
+    "title": "壬申の乱",
+    "author": "遠山美都男",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121012937",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002502114",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 308
+  },
+  {
+    "book_id": "isbn-9784121023537",
+    "title": "蘇我氏",
+    "author": "倉本一宏",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121023537",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026972343",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 272
+  },
+  {
+    "book_id": "isbn-9784121024640",
+    "title": "藤原氏",
+    "author": "倉本一宏",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121024640",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028700691",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 297
+  },
+  {
+    "book_id": "isbn-9784122044111",
+    "title": "平安京",
+    "author": "北山茂夫",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122044111",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007495466",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 567
+  },
+  {
+    "book_id": "isbn-9784121018670",
+    "title": "院政",
+    "author": "美川圭",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121018670",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008378939",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 270
+  },
+  {
+    "book_id": "isbn-9784121016225",
+    "title": "奥州藤原氏",
+    "author": "高橋崇",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121016225",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003067895",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 264
+  },
+  {
+    "book_id": "isbn-9784122044555",
+    "title": "鎌倉幕府",
+    "author": "石井進",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122044555",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007587009",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 565
+  },
+  {
+    "book_id": "isbn-9784121009784",
+    "title": "室町の王権",
+    "author": "今谷明",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121009784",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002084357",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 222
+  },
+  {
+    "book_id": "isbn-9784121021793",
+    "title": "足利義満",
+    "author": "小川剛生",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121021793",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023863004",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 298
+  },
+  {
+    "book_id": "isbn-9784022620347",
+    "title": "南朝研究の最前線",
+    "author": "呉座勇一",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022620347",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030709690",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 349
+  },
+  {
+    "book_id": "isbn-9784480096975",
+    "title": "一揆の原理",
+    "author": "呉座勇一",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480096975",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026952068",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 250
+  },
+  {
+    "book_id": "isbn-9784106037399",
+    "title": "戦争の日本中世史",
+    "author": "呉座勇一",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784106037399",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025130203",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 335
+  },
+  {
+    "book_id": "isbn-9784642062817",
+    "title": "徳川慶喜",
+    "author": "家近良樹",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784642062817",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007492008",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "吉川弘文館",
+    "pages": 242
+  },
+  {
+    "book_id": "isbn-9784623080977",
+    "title": "西郷隆盛",
+    "author": "家近良樹",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784623080977",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028364410",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ミネルヴァ書房",
+    "pages": 567
+  },
+  {
+    "book_id": "isbn-9784121020512",
+    "title": "伊藤博文",
+    "author": "瀧井一博",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121020512",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010857047",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 376
+  },
+  {
+    "book_id": "isbn-9784003812648",
+    "title": "山県有朋",
+    "author": "岡義武",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003812648",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029878205",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 282
+  },
+  {
+    "book_id": "isbn-9784121026606",
+    "title": "原敬",
+    "author": "清水唯一朗",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121026606",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031659043",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 324
+  },
+  {
+    "book_id": "isbn-9784004131335",
+    "title": "近衛文麿",
+    "author": "岡義武",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004131335",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004175710",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 249
+  },
+  {
+    "book_id": "isbn-9784004311119",
+    "title": "昭和天皇",
+    "author": "原武史",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004311119",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009241560",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 228
+  },
+  {
+    "book_id": "isbn-9784022618276",
+    "title": "大正天皇",
+    "author": "原武史",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022618276",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026274254",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 368
+  },
+  {
+    "book_id": "isbn-9784062924733",
+    "title": "皇后考",
+    "author": "原武史",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062924733",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028682062",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 653
+  },
+  {
+    "book_id": "isbn-9784062766548",
+    "title": "滝山コミューン一九七四",
+    "author": "原武史",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062766548",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010891325",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 343
+  },
+  {
+    "book_id": "isbn-9784101345819",
+    "title": "レッドアローとスターハウス",
+    "author": "原武史",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101345819",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026251062",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 531
+  },
+  {
+    "book_id": "isbn-9784065431160",
+    "title": "蒙古襲来",
+    "author": "網野善彦",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065431160",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034586584",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 595
   }
 ]
