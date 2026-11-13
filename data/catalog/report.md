@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-13T15:25:59.239Z
-- 候補：6152冊
-- 入れた本：5613冊
-- 入れなかった本：539冊
+- 検索日時：2026-11-13T15:53:51.933Z
+- 候補：6189冊
+- 入れた本：5645冊
+- 入れなかった本：544冊
 
 ## 入れなかった本
 
@@ -546,6 +546,11 @@
 - 人間の測りまちがい／スティーヴン・ジェイ・グールド（教養の定番）：著者が合う記録がない
 - 日本中世の民衆像／網野善彦（教養の定番）：タイトルが同じで ISBN のある記録がない
 - 大久保利通／毛利敏彦（教養の定番）：タイトルが同じで ISBN のある記録がない
+- 十字軍／橋口倫介（教養の定番）：タイトルが同じで ISBN のある記録がない
+- ナチスの戦争／リチャード・ベッセル（教養の定番）：タイトルが同じで ISBN のある記録がない
+- 第二次世界大戦／アントニー・ビーヴァー（教養の定番）：タイトルが同じで ISBN のある記録がない
+- 冷戦／ジョン・L・ギャディス（教養の定番）：タイトルが同じで ISBN のある記録がない
+- アヘン戦争／陳舜臣（教養の定番）：タイトルが同じで ISBN のある記録がない
 
 ## 入れた本と選んだ版
 
@@ -6162,3 +6167,35 @@
 - 滝山コミューン一九七四：講談社文庫 ; は91-1／講談社／2010.6／343p／NDC 361.785／nonfiction・normal・medium
 - レッドアローとスターハウス：新潮文庫 ; は-50-2／新潮社／2015.4／531p／NDC 311.21／liberal_arts・normal・long
 - 蒙古襲来：講談社学術文庫 ; 2912／講談社／2026.3／595p／NDC 210.42／liberal_arts・normal・long
+- アレクサンドロス大王：講談社選書メチエ ; 197／講談社／2000.10／270p／NDC 289.3／nonfiction,liberal_arts・normal・medium
+- 多神教と一神教：岩波新書／岩波書店／2005.9／221, 9p／NDC 162／liberal_arts・normal・short
+- ローマ帝国人物列伝：祥伝社新書 ; 463／祥伝社／2016.5／303p／NDC 283.2／nonfiction,liberal_arts・normal・medium
+- カエサル：講談社学術文庫／講談社／1994.2／324p／NDC 289.3／nonfiction,liberal_arts・normal・medium
+- ローマ五賢帝：講談社学術文庫 ; 2215／講談社／2014.1／253p／NDC 232.8／liberal_arts・normal・medium
+- 新・ローマ帝国衰亡史：岩波新書 新赤版 ; 1426／岩波書店／2013.5／212,7p／NDC 232.8／liberal_arts・normal・short
+- 魔女狩り：岩波新書 青版／岩波書店／1979／207p ; 18cm／NDC 230.5／liberal_arts・normal・short
+- ジャンヌ・ダルク：岩波新書／岩波書店／2005.9／232p／NDC 289.3／nonfiction,liberal_arts・normal・short
+- 百年戦争：中公新書 ; 2582／中央公論新社／2020.3／286p／NDC 230.46／liberal_arts・normal・medium
+- ハプスブルク帝国：講談社現代新書 ; 2442／講談社／2017.8／442p／NDC 234／liberal_arts・normal・medium
+- 神聖ローマ帝国：講談社現代新書／講談社／2003.7／262p／NDC 234.04／liberal_arts・normal・medium
+- 傭兵の二千年史：講談社現代新書／講談社／2002.1／229p／NDC 230／liberal_arts・normal・short
+- ナポレオン：岩波新書 新赤版 ; 1706／岩波書店／2018.2／225,7p／NDC 289.3／nonfiction,liberal_arts・normal・short
+- フランス革命：岩波ジュニア新書 ; 295／岩波書店／1997.12／204p／NDC 235／liberal_arts・normal・short
+- ヴィクトリア女王：中公新書／中央公論新社／2007.10／288p／NDC 289.3／nonfiction,liberal_arts・normal・medium
+- エリザベス女王：中公新書 ; 2578／中央公論新社／2020.2／288p／NDC 289.3／nonfiction,liberal_arts・normal・medium
+- 大英帝国という経験：講談社学術文庫 ; 2469. 興亡の世界史／講談社／2017.12／427p／NDC 233.06／liberal_arts・normal・medium
+- ビスマルク：中公新書 ; 2304／中央公論新社／2015.1／254p／NDC 289.3／nonfiction,liberal_arts・normal・medium
+- ホロコースト：中公新書／中央公論新社／2008.4／282p／NDC 234.074／liberal_arts・normal・medium
+- 第一次世界大戦：ちくま新書 ; 1082／筑摩書房／2014.7／227p／NDC 209.71／liberal_arts・normal・short
+- ロシア革命：岩波新書 新赤版 ; 1637／岩波書店／2017.1／232,4p／NDC 238.07／liberal_arts・normal・short
+- スターリン：中公新書 ; 2274／中央公論新社／2014.7／318p／NDC 289.3／nonfiction,liberal_arts・normal・medium
+- 毛沢東：新潮新書 ; 642／新潮社／2015.11／285p／NDC 222.075／liberal_arts・normal・medium
+- 中華人民共和国史：岩波新書／岩波書店／1999.12／207, 15p／NDC 222.077／liberal_arts・normal・short
+- リンカン：岩波新書 新赤版 ; 2054／岩波書店／2025.2／224,5p／NDC 289.3／nonfiction,liberal_arts・normal・short
+- アメリカの歴史を知るための63章：エリア・スタディーズ ; 10／明石書店／2015.3／296p／NDC 253.01／liberal_arts・normal・medium
+- 太平天国：岩波新書 新赤版 ; 1862／岩波書店／2020.12／256,5p／NDC 222.066／liberal_arts・normal・medium
+- 科挙：中公文庫／中央公論社／1984.2／252p／NDC 322.22／liberal_arts・normal・medium
+- 雍正帝：中公文庫／中央公論社／1996.5／264p／NDC 289.2／nonfiction,liberal_arts・normal・medium
+- 隋の煬帝：中公文庫／中央公論社／1987.9／270p／NDC 222.047／liberal_arts・normal・medium
+- 大唐帝国：中公文庫／中央公論社／1988.9／444p／NDC 222.048／liberal_arts・normal・medium
+- 中国史：岩波文庫 ; 33-133-3／岩波書店／2015.5／353p／NDC 222.01／liberal_arts・normal・long

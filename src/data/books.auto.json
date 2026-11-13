@@ -149289,5 +149289,880 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 595
+  },
+  {
+    "book_id": "isbn-9784062581974",
+    "title": "アレクサンドロス大王",
+    "author": "森谷公俊",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062581974",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002930160",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 270
+  },
+  {
+    "book_id": "isbn-9784004309673",
+    "title": "多神教と一神教",
+    "author": "本村凌二",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004309673",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007931789",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784396114633",
+    "title": "ローマ帝国人物列伝",
+    "author": "本村凌二",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784396114633",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027241873",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "祥伝社",
+    "pages": 303
+  },
+  {
+    "book_id": "isbn-9784061591110",
+    "title": "カエサル",
+    "author": "長谷川博隆",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061591110",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002308732",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 324
+  },
+  {
+    "book_id": "isbn-9784062922159",
+    "title": "ローマ五賢帝",
+    "author": "南川高志",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062922159",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025102979",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 253
+  },
+  {
+    "book_id": "isbn-9784004314264",
+    "title": "新・ローマ帝国衰亡史",
+    "author": "南川高志",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004314264",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024428266",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 212
+  },
+  {
+    "book_id": "isbn-9784004130208",
+    "title": "魔女狩り",
+    "author": "森島恒雄",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004130208",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I10111100050422",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 207
+  },
+  {
+    "book_id": "isbn-9784004309680",
+    "title": "ジャンヌ・ダルク",
+    "author": "高山一彦",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004309680",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007931769",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 232
+  },
+  {
+    "book_id": "isbn-9784121025821",
+    "title": "百年戦争",
+    "author": "佐藤猛",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121025821",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030294889",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 286
+  },
+  {
+    "book_id": "isbn-9784062884426",
+    "title": "ハプスブルク帝国",
+    "author": "岩崎周一",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062884426",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028396173",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 442
+  },
+  {
+    "book_id": "isbn-9784061496736",
+    "title": "神聖ローマ帝国",
+    "author": "菊池良生",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061496736",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004193272",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 262
+  },
+  {
+    "book_id": "isbn-9784061495876",
+    "title": "傭兵の二千年史",
+    "author": "菊池良生",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061495876",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003056760",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 229
+  },
+  {
+    "book_id": "isbn-9784004317067",
+    "title": "ナポレオン",
+    "author": "杉本淑彦",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004317067",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028791569",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 225
+  },
+  {
+    "book_id": "isbn-9784005002955",
+    "title": "フランス革命",
+    "author": "遅塚忠躬",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784005002955",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002639330",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 204
+  },
+  {
+    "book_id": "isbn-9784121019165",
+    "title": "ヴィクトリア女王",
+    "author": "君塚直隆",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121019165",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009174132",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 288
+  },
+  {
+    "book_id": "isbn-9784121025784",
+    "title": "エリザベス女王",
+    "author": "君塚直隆",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121025784",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030237405",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 288
+  },
+  {
+    "book_id": "isbn-9784062924696",
+    "title": "大英帝国という経験",
+    "author": "井野瀬久美惠",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062924696",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028682060",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 427
+  },
+  {
+    "book_id": "isbn-9784121023049",
+    "title": "ビスマルク",
+    "author": "飯田洋介",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121023049",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026025303",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784121019431",
+    "title": "ホロコースト",
+    "author": "芝健介",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121019431",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009341118",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 282
+  },
+  {
+    "book_id": "isbn-9784480067869",
+    "title": "第一次世界大戦",
+    "author": "木村靖二",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480067869",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025541163",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 227
+  },
+  {
+    "book_id": "isbn-9784004316374",
+    "title": "ロシア革命",
+    "author": "池田嘉郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004316374",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027823931",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 232
+  },
+  {
+    "book_id": "isbn-9784121022745",
+    "title": "スターリン",
+    "author": "横手慎二",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121022745",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025570579",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 318
+  },
+  {
+    "book_id": "isbn-9784106106422",
+    "title": "毛沢東",
+    "author": "遠藤誉",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784106106422",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026835281",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 285
+  },
+  {
+    "book_id": "isbn-9784004306467",
+    "title": "中華人民共和国史",
+    "author": "天児慧",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004306467",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002855870",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 207
+  },
+  {
+    "book_id": "isbn-9784004320548",
+    "title": "リンカン",
+    "author": "紀平英作",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004320548",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033897319",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 224
+  },
+  {
+    "book_id": "isbn-9784750341620",
+    "title": "アメリカの歴史を知るための63章",
+    "author": "富田虎男",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784750341620",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026256905",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "明石書店",
+    "pages": 296
+  },
+  {
+    "book_id": "isbn-9784004318620",
+    "title": "太平天国",
+    "author": "菊池秀明",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004318620",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030765286",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 256
+  },
+  {
+    "book_id": "isbn-9784122011007",
+    "title": "科挙",
+    "author": "宮崎市定",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122011007",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001663758",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 252
+  },
+  {
+    "book_id": "isbn-9784122026025",
+    "title": "雍正帝",
+    "author": "宮崎市定",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122026025",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002518450",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 264
+  },
+  {
+    "book_id": "isbn-9784122014558",
+    "title": "隋の煬帝",
+    "author": "宮崎市定",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122014558",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001881721",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 270
+  },
+  {
+    "book_id": "isbn-9784122015463",
+    "title": "大唐帝国",
+    "author": "宮崎市定",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122015463",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001946324",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 444
+  },
+  {
+    "book_id": "isbn-9784003313336",
+    "title": "中国史",
+    "author": "宮崎市定",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003313336",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026343266",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 353
   }
 ]
