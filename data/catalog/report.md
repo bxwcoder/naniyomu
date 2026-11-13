@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-13T16:46:40.557Z
-- 候補：6294冊
-- 入れた本：5744冊
-- 入れなかった本：550冊
+- 検索日時：2026-11-13T16:59:59.236Z
+- 候補：6324冊
+- 入れた本：5772冊
+- 入れなかった本：552冊
 
 ## 入れなかった本
 
@@ -557,6 +557,8 @@
 - 統計でウソをつく法／ダレル・ハフ（教養の定番）：タイトルが同じで ISBN のある記録がない
 - ノイズ／ダニエル・カーネマン（教養の定番）：タイトルが同じで ISBN のある記録がない
 - ボクの音楽武者修行／小澤征爾（エッセイ定番）：タイトルが同じで ISBN のある記録がない
+- 自由民主党／中北浩爾（教養の定番）：著者が合う記録がない
+- 世論／ウォルター・リップマン（教養の定番）：著者が合う記録がない
 
 ## 入れた本と選んだ版
 
@@ -6304,3 +6306,31 @@
 - 日本人とすまい：岩波新書 青版／岩波書店／1979／216p ; 18cm／NDC 527／liberal_arts・normal・short
 - 美味礼讃：中公文庫 ; た33-24／中央公論新社／2021.1／379p／NDC 596／practical・normal・long
 - 旅する力：新潮文庫 ; さ-7-18／新潮社／2011.5／382p／NDC 915.6／nonfiction・easy・medium
+- 民主主義とは何か：講談社現代新書 ; 2590／講談社／2020.10／277p／NDC 311.7／liberal_arts・normal・medium
+- 保守主義とは何か：中公新書 ; 2378／中央公論新社／2016.6／218p／NDC 311.4／liberal_arts・normal・short
+- トクヴィル：講談社学術文庫 ; 2551／講談社／2019.5／223p／NDC 311.235／liberal_arts・normal・short
+- ポピュリズムとは何か：中公新書 ; 2410／中央公論新社／2016.12／244p／NDC 311.7／liberal_arts・normal・short
+- 日本の統治構造：中公新書／中央公論新社／2007.7／248p／NDC 312.1／liberal_arts・normal・short
+- 戦後政治史：岩波新書／岩波書店／1995.1／263p／NDC 312.1／liberal_arts・normal・medium
+- 憲法とは何か：岩波新書／岩波書店／2006.4／193p／NDC 323.01／liberal_arts・normal・short
+- 憲法と平和を問いなおす：ちくま新書／筑摩書房／2004.4／206p／NDC 323.01／liberal_arts・normal・short
+- 法とは何か：河出ブックス ; 033／河出書房新社／2011.8／231, 3p／NDC 321.2／liberal_arts・normal・short
+- 裁判の非情と人情：岩波新書 新赤版 ; 1646／岩波書店／2017.2／187p／NDC 327.124／nonfiction・easy・short
+- 絶望の裁判所：講談社現代新書 ; 2250／講談社／2014.2／238p／NDC 327.124／liberal_arts・normal・short
+- メディア論：叢書なし／みすず書房／1987.6／381, 3p／NDC 361.45／liberal_arts・normal・medium
+- グーテンベルクの銀河系：叢書なし／みすず書房／1986.2／486, 24p／NDC 361.45／liberal_arts・normal・long
+- 消費社会の神話と構造：叢書なし／紀伊国屋書店／1995.2／325p／NDC 331.7／liberal_arts・normal・medium
+- ディスタンクシオン：Bourdieu library／藤原書店／1990.5／501p／NDC 361.5／liberal_arts・normal・long
+- 脱学校の社会：現代社会科学叢書／東京創元社／1980／232p ; 19cm／NDC 371.5／liberal_arts・normal・short
+- 被抑圧者の教育学：叢書なし／亜紀書房／2018.5／406p／NDC 371.1／liberal_arts・normal・medium
+- 学校と社会：世界新教育運動選書 ; 10／明治図書出版／1985.8／219p／NDC 371.253／liberal_arts・normal・short
+- 民主主義と教育：岩波文庫／岩波書店／1979／304p ; 15cm／NDC 371.253／liberal_arts・normal・long
+- 教育改革のゆくえ：岩波ブックレット ; no.688／岩波書店／2006.11／71p／NDC 373.1／liberal_arts・normal・short
+- 大衆教育社会のゆくえ：中公新書／中央公論社／1995.6／226p／NDC 372.1／liberal_arts・normal・short
+- 教育と平等：中公新書 ; 2006／中央公論新社／2009.6／290p／NDC 372.107／liberal_arts・normal・medium
+- 学校って何だろう：ちくま文庫／筑摩書房／2005.12／248p／NDC 370.4／liberal_arts・normal・short
+- いじめの構造：講談社現代新書 ; 1984／講談社／2009.3／265p／NDC 371.42／liberal_arts・normal・medium
+- 友だち地獄：ちくま新書／筑摩書房／2008.3／235p／NDC 367.68／liberal_arts・normal・short
+- ルポ 教育困難校：朝日新書 ; 724／朝日新聞出版／2019.7／219p／NDC 376.41／nonfiction・normal・short
+- 日本の不平等：叢書なし／日本経済新聞社／2005.5／306p／NDC 331.86／liberal_arts・normal・medium
+- 格差社会：岩波新書／岩波書店／2006.9／212p／NDC 361.8／liberal_arts・normal・short

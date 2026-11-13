@@ -152829,5 +152829,760 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 382
+  },
+  {
+    "book_id": "isbn-9784065212950",
+    "title": "民主主義とは何か",
+    "author": "宇野重規",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065212950",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030678059",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 277
+  },
+  {
+    "book_id": "isbn-9784121023780",
+    "title": "保守主義とは何か",
+    "author": "宇野重規",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121023780",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027348437",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 218
+  },
+  {
+    "book_id": "isbn-9784065157114",
+    "title": "トクヴィル",
+    "author": "宇野重規",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065157114",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029644990",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 223
+  },
+  {
+    "book_id": "isbn-9784121024107",
+    "title": "ポピュリズムとは何か",
+    "author": "水島治郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121024107",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027775102",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 244
+  },
+  {
+    "book_id": "isbn-9784121019059",
+    "title": "日本の統治構造",
+    "author": "飯尾潤",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121019059",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008833986",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 248
+  },
+  {
+    "book_id": "isbn-9784004303671",
+    "title": "戦後政治史",
+    "author": "石川真澄",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004303671",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002389631",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 263
+  },
+  {
+    "book_id": "isbn-9784004310020",
+    "title": "憲法とは何か",
+    "author": "長谷部恭男",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004310020",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008168900",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 193
+  },
+  {
+    "book_id": "isbn-9784480061652",
+    "title": "憲法と平和を問いなおす",
+    "author": "長谷部恭男",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480061652",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007344149",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 206
+  },
+  {
+    "book_id": "isbn-9784309624334",
+    "title": "法とは何か",
+    "author": "長谷部恭男",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309624334",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011244418",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 231
+  },
+  {
+    "book_id": "isbn-9784004316466",
+    "title": "裁判の非情と人情",
+    "author": "原田國男",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004316466",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027957262",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 187
+  },
+  {
+    "book_id": "isbn-9784062882507",
+    "title": "絶望の裁判所",
+    "author": "瀬木比呂志",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062882507",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025194437",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 238
+  },
+  {
+    "book_id": "isbn-9784622021964",
+    "title": "メディア論",
+    "author": "マーシャル・マクルーハン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784622021964",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001869446",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "みすず書房",
+    "pages": 381
+  },
+  {
+    "book_id": "isbn-9784622018964",
+    "title": "グーテンベルクの銀河系",
+    "author": "マーシャル・マクルーハン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784622018964",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001788221",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "みすず書房",
+    "pages": 486
+  },
+  {
+    "book_id": "isbn-9784314007009",
+    "title": "消費社会の神話と構造",
+    "author": "ジャン・ボードリヤール",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784314007009",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002399535",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "紀伊国屋書店",
+    "pages": 325
+  },
+  {
+    "book_id": "isbn-9784938661052",
+    "title": "ディスタンクシオン",
+    "author": "ピエール・ブルデュー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784938661052",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002052574",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "藤原書店",
+    "pages": 501
+  },
+  {
+    "book_id": "isbn-9784488006884",
+    "title": "脱学校の社会",
+    "author": "イヴァン・イリッチ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488006884",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I10111102035819",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 232
+  },
+  {
+    "book_id": "isbn-9784750515458",
+    "title": "被抑圧者の教育学",
+    "author": "パウロ・フレイレ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784750515458",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028908398",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "亜紀書房",
+    "pages": 406
+  },
+  {
+    "book_id": "isbn-9784180420049",
+    "title": "学校と社会",
+    "author": "ジョン・デューイ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784180420049",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001758487",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "明治図書出版",
+    "pages": 219
+  },
+  {
+    "book_id": "isbn-9784003365236",
+    "title": "民主主義と教育",
+    "author": "ジョン・デューイ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003365236",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I10111100066601",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 304
+  },
+  {
+    "book_id": "isbn-9784000093880",
+    "title": "教育改革のゆくえ",
+    "author": "藤田英典",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784000093880",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008347665",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 71
+  },
+  {
+    "book_id": "isbn-9784121012494",
+    "title": "大衆教育社会のゆくえ",
+    "author": "苅谷剛彦",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121012494",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002423259",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 226
+  },
+  {
+    "book_id": "isbn-9784121020062",
+    "title": "教育と平等",
+    "author": "苅谷剛彦",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121020062",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010367268",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 290
+  },
+  {
+    "book_id": "isbn-9784480421579",
+    "title": "学校って何だろう",
+    "author": "苅谷剛彦",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480421579",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008055947",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 248
+  },
+  {
+    "book_id": "isbn-9784062879842",
+    "title": "いじめの構造",
+    "author": "内藤朝雄",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062879842",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010070727",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 265
+  },
+  {
+    "book_id": "isbn-9784480064165",
+    "title": "友だち地獄",
+    "author": "土井隆義",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480064165",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009297374",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 235
+  },
+  {
+    "book_id": "isbn-9784022950314",
+    "title": "ルポ 教育困難校",
+    "author": "朝比奈なを",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022950314",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029771091",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 219
+  },
+  {
+    "book_id": "isbn-9784532132958",
+    "title": "日本の不平等",
+    "author": "大竹文雄",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784532132958",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007739317",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日本経済新聞社",
+    "pages": 306
+  },
+  {
+    "book_id": "isbn-9784004310334",
+    "title": "格差社会",
+    "author": "橘木俊詔",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004310334",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008311342",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 212
   }
 ]
