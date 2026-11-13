@@ -130407,6 +130407,33 @@
     "pages": 459
   },
   {
+    "book_id": "isbn-9784061983809",
+    "title": "星条旗の聞こえない部屋",
+    "author": "リービ英雄",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061983809",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007492235",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 189
+  },
+  {
     "book_id": "isbn-9784087711226",
     "title": "真ん中の子どもたち",
     "author": "温又柔",
@@ -130677,6 +130704,33 @@
     "pages": 295
   },
   {
+    "book_id": "isbn-9784167786014",
+    "title": "ワンちゃん",
+    "author": "楊逸",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167786014",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010913501",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 156
+  },
+  {
     "book_id": "isbn-9784062900867",
     "title": "刻",
     "author": "李良枝",
@@ -130702,5 +130756,31 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 245
+  },
+  {
+    "book_id": "isbn-9784560084793",
+    "title": "台湾生まれ日本語育ち",
+    "author": "温又柔",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784560084793",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026976120",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白水社",
+    "pages": 250
   }
 ]
