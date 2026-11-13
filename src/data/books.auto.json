@@ -155755,5 +155755,298 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 226
+  },
+  {
+    "book_id": "isbn-9784103956013",
+    "title": "イニュニック",
+    "author": "星野道夫",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784103956013",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002295774",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 229
+  },
+  {
+    "book_id": "isbn-9784087496871",
+    "title": "シベリア追跡",
+    "author": "椎名誠",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087496871",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002099844",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 282
+  },
+  {
+    "book_id": "isbn-9784087492934",
+    "title": "インドでわしも考えた",
+    "author": "椎名誠",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087492934",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001897250",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 231
+  },
+  {
+    "book_id": "isbn-9784087430370",
+    "title": "語学の天才まで1億光年",
+    "author": "高野秀行",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087430370",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034915962",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 454
+  },
+  {
+    "book_id": "isbn-9784087454543",
+    "title": "未来国家ブータン",
+    "author": "高野秀行",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087454543",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027320853",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 324
+  },
+  {
+    "book_id": "isbn-9784122074217",
+    "title": "サバイバル家族",
+    "author": "服部文祥",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122074217",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033042581",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 282
+  },
+  {
+    "book_id": "isbn-9784130633321",
+    "title": "家族進化論",
+    "author": "山極寿一",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784130633321",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023692186",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京大学出版会",
+    "pages": 358
+  },
+  {
+    "book_id": "isbn-9784774321363",
+    "title": "野生のゴリラと再会する",
+    "author": "山極寿一",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784774321363",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024132781",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "くもん出版",
+    "pages": 111
+  },
+  {
+    "book_id": "isbn-9784309420653",
+    "title": "森の思想",
+    "author": "南方熊楠",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309420653",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026303176",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 535
+  },
+  {
+    "book_id": "isbn-9784082300012",
+    "title": "シートン動物記",
+    "author": "シートン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784082300012",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001877843",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 238
+  },
+  {
+    "book_id": "isbn-9784751520710",
+    "title": "野生の呼び声",
+    "author": "ジャック・ロンドン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784751520710",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002827180",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "あすなろ書房",
+    "pages": 127
   }
 ]
