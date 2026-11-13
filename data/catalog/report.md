@@ -1,8 +1,8 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-13T10:43:47.637Z
-- 候補：5780冊
-- 入れた本：5267冊
+- 検索日時：2026-11-13T10:59:29.196Z
+- 候補：5801冊
+- 入れた本：5288冊
 - 入れなかった本：513冊
 
 ## 入れなかった本
@@ -5790,3 +5790,24 @@
 - 隅田川暮色：文春文庫／文芸春秋／1987.5／260p／NDC 913.6／novel・normal・medium
 - 悲劇の誕生：中公クラシックス／中央公論新社／2004.1／273p／NDC 134.94／liberal_arts・normal・medium
 - 中世の秋：中公文庫 ; ホ1-5／中央公論新社／2018.11／460p／NDC 235.04／liberal_arts・normal・long
+- ポプラの秋：新潮文庫／新潮社／1997.7／218p／NDC 913.6／novel・easy・short
+- ズッコケ三人組の推理教室：新・こども文学館 ; 10／ポプラ社／1989.7／220p／NDC 913／novel・easy・short
+- ぼくらの天使ゲーム：角川文庫／角川書店／1987.4／343p／NDC 913.6／novel・easy・medium
+- 小さなバイキングビッケ：評論社の児童図書館・文学の部屋／評論社／2011.9／230p／NDC 949.83／novel・easy・short
+- ちいさなちいさな王様：叢書なし／講談社／1996.10／108p／NDC 943.7／novel・easy・short
+- ジム・ボタンの機関車大旅行：岩波世界児童文学集 ; 23／岩波書店／1994.6／417p／NDC 908／mystery_sf・easy・medium
+- 小さい魔女：てのり文庫 ; 106／学習研究社／1994.12／190p／NDC 943／novel・easy・short
+- ローワンと魔法の地図：叢書なし／あすなろ書房／2000.8／216p／NDC 933／mystery_sf・easy・short
+- ウォーターシップ・ダウンのウサギたち：ファンタジー・クラシックス／評論社／2006.9／442p／NDC 933.7／novel・easy・long
+- 人口減少社会のデザイン：叢書なし／東洋経済新報社／2019.10／315p／NDC 334.31／liberal_arts・normal・medium
+- 定年後：中公新書 ; 2431／中央公論新社／2017.4／221p／NDC 365／liberal_arts・normal・short
+- 日本人のための憲法原論：叢書なし／集英社インターナショナル、集英社 (発売)／2006.3／492p／NDC 323.01／liberal_arts・normal・long
+- 下流老人：朝日新書 ; 520／朝日新聞出版／2015.6／221p／NDC 367.7／liberal_arts・normal・short
+- 保育園義務教育化：叢書なし／小学館／2015.7／192p／NDC 369.42／liberal_arts・normal・short
+- 客観性の落とし穴：ちくまプリマー新書 ; 427／筑摩書房／2023.6／191p／NDC 116.7／liberal_arts・normal・short
+- 物語 アメリカの歴史：中公新書／中央公論社／1991.10／292p／NDC 253／liberal_arts・normal・medium
+- 物語 韓国史：中公新書／中央公論社／1989.5／293p／NDC 221／liberal_arts・normal・medium
+- 感染症と文明：岩波新書 ; 新赤版1314／岩波書店／2011.6／205, 5p／NDC 493.8／liberal_arts・normal・short
+- 宇宙の始まりと終わりはなぜ同じなのか：叢書なし／新潮社／2014.1／334p／NDC 443.9／liberal_arts・normal・medium
+- メトロポリス：角川文庫／角川書店／1995.2／307p／NDC 726.1／manga・easy・long
+- ハレンチ学園：BIG COMICS SPECIAL／小学館／2018.7／374p／NDC 726.1／manga・easy・long

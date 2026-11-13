@@ -140036,5 +140036,567 @@
     "tier": "basic",
     "publisher": "中央公論新社",
     "pages": 460
+  },
+  {
+    "book_id": "isbn-9784101315126",
+    "title": "ポプラの秋",
+    "author": "湯本香樹実",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101315126",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002612236",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 218
+  },
+  {
+    "book_id": "isbn-9784591032107",
+    "title": "ズッコケ三人組の推理教室",
+    "author": "那須正幹",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784591032107",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001990178",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ポプラ社",
+    "pages": 220
+  },
+  {
+    "book_id": "isbn-9784041602041",
+    "title": "ぼくらの天使ゲーム",
+    "author": "宗田理",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041602041",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001853887",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 343
+  },
+  {
+    "book_id": "isbn-9784566013797",
+    "title": "小さなバイキングビッケ",
+    "author": "ルーネル・ヨンソン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784566013797",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011280748",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "評論社",
+    "pages": 230
+  },
+  {
+    "book_id": "isbn-9784062083737",
+    "title": "ちいさなちいさな王様",
+    "author": "アクセル・ハッケ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062083737",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002531532",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 108
+  },
+  {
+    "book_id": "isbn-9784001157239",
+    "title": "ジム・ボタンの機関車大旅行",
+    "author": "ミヒャエル・エンデ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001157239",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002339919",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 417
+  },
+  {
+    "book_id": "isbn-9784052004995",
+    "title": "小さい魔女",
+    "author": "プロイスラー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784052004995",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002366410",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "学習研究社",
+    "pages": 190
+  },
+  {
+    "book_id": "isbn-9784751521113",
+    "title": "ローワンと魔法の地図",
+    "author": "エミリー・ロッダ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784751521113",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002919232",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "あすなろ書房",
+    "pages": 216
+  },
+  {
+    "book_id": "isbn-9784566015005",
+    "title": "ウォーターシップ・ダウンのウサギたち",
+    "author": "リチャード・アダムズ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784566015005",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008305770",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "評論社",
+    "pages": 442
+  },
+  {
+    "book_id": "isbn-9784492396476",
+    "title": "人口減少社会のデザイン",
+    "author": "広井良典",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784492396476",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029945704",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東洋経済新報社",
+    "pages": 315
+  },
+  {
+    "book_id": "isbn-9784121024312",
+    "title": "定年後",
+    "author": "楠木新",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121024312",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028095659",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784797671452",
+    "title": "日本人のための憲法原論",
+    "author": "小室直樹",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784797671452",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008142060",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社インターナショナル",
+    "pages": 492
+  },
+  {
+    "book_id": "isbn-9784022736208",
+    "title": "下流老人",
+    "author": "藤田孝典",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022736208",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026413805",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784093884303",
+    "title": "保育園義務教育化",
+    "author": "古市憲寿",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784093884303",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026505007",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 192
+  },
+  {
+    "book_id": "isbn-9784480684523",
+    "title": "客観性の落とし穴",
+    "author": "村上靖彦",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480684523",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032839140",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 191
+  },
+  {
+    "book_id": "isbn-9784121010421",
+    "title": "物語 アメリカの歴史",
+    "author": "猿谷要",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121010421",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002151570",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 292
+  },
+  {
+    "book_id": "isbn-9784121009258",
+    "title": "物語 韓国史",
+    "author": "金両基",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121009258",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001987108",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 293
+  },
+  {
+    "book_id": "isbn-9784004313144",
+    "title": "感染症と文明",
+    "author": "山本太郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004313144",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011221185",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 205
+  },
+  {
+    "book_id": "isbn-9784105065911",
+    "title": "宇宙の始まりと終わりはなぜ同じなのか",
+    "author": "ロジャー・ペンローズ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784105065911",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025130202",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 334
+  },
+  {
+    "book_id": "isbn-9784041851203",
+    "title": "メトロポリス",
+    "author": "手塚治虫",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041851203",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002380896",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 307
+  },
+  {
+    "book_id": "isbn-9784098600243",
+    "title": "ハレンチ学園",
+    "author": "永井豪",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784098600243",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029052922",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 374
   }
 ]
