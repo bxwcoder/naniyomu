@@ -156839,5 +156839,474 @@
     "tier": "basic",
     "publisher": "岩波書店",
     "pages": 238
+  },
+  {
+    "book_id": "isbn-9784101001487",
+    "title": "辺境・近境",
+    "author": "村上春樹",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101001487",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002899951",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 301
+  },
+  {
+    "book_id": "isbn-9784101050300",
+    "title": "小説家の休暇",
+    "author": "三島由紀夫",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101050300",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001542725",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 303
+  },
+  {
+    "book_id": "isbn-9784167124038",
+    "title": "若きサムライのために",
+    "author": "三島由紀夫",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167124038",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002522133",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 276
+  },
+  {
+    "book_id": "isbn-9784480030283",
+    "title": "私の遍歴時代",
+    "author": "三島由紀夫",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480030283",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002411874",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 282
+  },
+  {
+    "book_id": "isbn-9784044094812",
+    "title": "美しい日本の私",
+    "author": "川端康成",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784044094812",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026316117",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 222
+  },
+  {
+    "book_id": "isbn-9784167901417",
+    "title": "霊長類ヒト科動物図鑑",
+    "author": "向田邦子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167901417",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025527214",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 334
+  },
+  {
+    "book_id": "isbn-9784061961845",
+    "title": "贅沢貧乏",
+    "author": "森茉莉",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061961845",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002193951",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 315
+  },
+  {
+    "book_id": "isbn-9784101379081",
+    "title": "両性具有の美",
+    "author": "白洲正子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101379081",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004054127",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 203
+  },
+  {
+    "book_id": "isbn-9784167801663",
+    "title": "にょにょっ記",
+    "author": "穂村弘",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167801663",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023251294",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 213
+  },
+  {
+    "book_id": "isbn-9784480430663",
+    "title": "絶叫委員会",
+    "author": "穂村弘",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480430663",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024474571",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 214
+  },
+  {
+    "book_id": "isbn-9784167908577",
+    "title": "きみは赤ちゃん",
+    "author": "川上未映子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167908577",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028119723",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 351
+  },
+  {
+    "book_id": "isbn-9784022619846",
+    "title": "おめかしの引力",
+    "author": "川上未映子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022619846",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029913445",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 310
+  },
+  {
+    "book_id": "isbn-9784087452488",
+    "title": "なずな",
+    "author": "堀江敏幸",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087452488",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025874829",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 462
+  },
+  {
+    "book_id": "isbn-9784757433946",
+    "title": "ぼくは翻訳についてこう考えています",
+    "author": "柴田元幸",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784757433946",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030187801",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "アルク",
+    "pages": 238
+  },
+  {
+    "book_id": "isbn-9784022646958",
+    "title": "生半可版 英米小説演習",
+    "author": "柴田元幸",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022646958",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024276879",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 219
+  },
+  {
+    "book_id": "isbn-9784166601295",
+    "title": "翻訳夜話",
+    "author": "村上春樹",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784166601295",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002932829",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 245
+  },
+  {
+    "book_id": "isbn-9784480438768",
+    "title": "すべての雑貨",
+    "author": "三品輝起",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480438768",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032738944",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 247
+  },
+  {
+    "book_id": "isbn-9784309464220",
+    "title": "帰ってきたヒトラー",
+    "author": "ティムール・ヴェルメシュ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309464220",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027236190",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 292
   }
 ]
