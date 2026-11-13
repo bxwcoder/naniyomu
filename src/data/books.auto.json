@@ -158522,5 +158522,582 @@
     "tier": "basic",
     "publisher": "集英社",
     "pages": 220
+  },
+  {
+    "book_id": "isbn-9784101171241",
+    "title": "夢の木坂分岐点",
+    "author": "筒井康隆",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101171241",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002044181",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 309
+  },
+  {
+    "book_id": "isbn-9784041308011",
+    "title": "日本アパッチ族",
+    "author": "小松左京",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041308011",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002556544",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 368
+  },
+  {
+    "book_id": "isbn-9784334734374",
+    "title": "人形佐七捕物帳",
+    "author": "横溝正史",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334734374",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004015139",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 442
+  },
+  {
+    "book_id": "isbn-9784334763541",
+    "title": "木枯し紋次郎",
+    "author": "笹沢左保",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334763541",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023251395",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 571
+  },
+  {
+    "book_id": "isbn-9784122040854",
+    "title": "鞍馬天狗",
+    "author": "大佛次郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122040854",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003690399",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 261
+  },
+  {
+    "book_id": "isbn-9784488104085",
+    "title": "ギリシア棺の謎",
+    "author": "エラリー・クイーン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488104085",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I11141112163320",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 538
+  },
+  {
+    "book_id": "isbn-9784403031045",
+    "title": "テンペスト",
+    "author": "シェイクスピア",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784403031045",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002360333",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新書館",
+    "pages": 163
+  },
+  {
+    "book_id": "isbn-9784334751432",
+    "title": "十二夜",
+    "author": "シェイクスピア",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334751432",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009164412",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 245
+  },
+  {
+    "book_id": "isbn-9784102020128",
+    "title": "お気に召すまま",
+    "author": "シェイクスピア",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102020128",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001515208",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 168
+  },
+  {
+    "book_id": "isbn-9784334751203",
+    "title": "ジュリアス・シーザー",
+    "author": "シェイクスピア",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334751203",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008412923",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 228
+  },
+  {
+    "book_id": "isbn-9784003220573",
+    "title": "リチャード三世",
+    "author": "シェイクスピア",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003220573",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003072236",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784102020098",
+    "title": "じゃじゃ馬ならし",
+    "author": "シェイクスピア",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102020098",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007767956",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 383
+  },
+  {
+    "book_id": "isbn-9784875745495",
+    "title": "わが町",
+    "author": "ソーントン・ワイルダー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784875745495",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002472641",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "劇書房",
+    "pages": 121
+  },
+  {
+    "book_id": "isbn-9784905821212",
+    "title": "検察官",
+    "author": "ゴーゴリ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784905821212",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003064394",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "群像社",
+    "pages": 181
+  },
+  {
+    "book_id": "isbn-9784846004484",
+    "title": "ペール・ギュント",
+    "author": "イプセン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784846004484",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008373915",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "論創社",
+    "pages": 131
+  },
+  {
+    "book_id": "isbn-9784102174036",
+    "title": "悪の華",
+    "author": "ボードレール",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102174036",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003680552",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 484
+  },
+  {
+    "book_id": "isbn-9784434293894",
+    "title": "パリの憂鬱",
+    "author": "ボードレール",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784434293894",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031622933",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "牧歌舎東京本部",
+    "pages": 309
+  },
+  {
+    "book_id": "isbn-9784783725114",
+    "title": "ランボー詩集",
+    "author": "ランボー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784783725114",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002736713",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "思潮社",
+    "pages": 160
+  },
+  {
+    "book_id": "isbn-9784102171011",
+    "title": "ヴェルレーヌ詩集",
+    "author": "ヴェルレーヌ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102171011",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I11141123584960",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 272
+  },
+  {
+    "book_id": "isbn-9784003230916",
+    "title": "草の葉",
+    "author": "ホイットマン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003230916",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002663217",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 411
+  },
+  {
+    "book_id": "isbn-9784003225820",
+    "title": "荒地",
+    "author": "T・S・エリオット",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003225820",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010976287",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 323
+  },
+  {
+    "book_id": "isbn-9784087753332",
+    "title": "ルバイヤート",
+    "author": "オマル・ハイヤーム",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087753332",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004355547",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 182
   }
 ]
