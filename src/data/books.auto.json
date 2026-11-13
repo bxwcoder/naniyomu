@@ -156152,5 +156152,401 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 192
+  },
+  {
+    "book_id": "isbn-9784575658088",
+    "title": "顔",
+    "author": "松本清張",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575658088",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002411765",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 283
+  },
+  {
+    "book_id": "isbn-9784101109220",
+    "title": "影の地帯",
+    "author": "松本清張",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101109220",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003668560",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 718
+  },
+  {
+    "book_id": "isbn-9784061831353",
+    "title": "死者の木霊",
+    "author": "内田康夫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061831353",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001655010",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 378
+  },
+  {
+    "book_id": "isbn-9784101145228",
+    "title": "猿の証言",
+    "author": "北川歩実",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101145228",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002881081",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 643
+  },
+  {
+    "book_id": "isbn-9784061830790",
+    "title": "猿丸幻視行",
+    "author": "井沢元彦",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061830790",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001637240",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 389
+  },
+  {
+    "book_id": "isbn-9784167686017",
+    "title": "ヒートアイランド",
+    "author": "垣根涼介",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167686017",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007372696",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 466
+  },
+  {
+    "book_id": "isbn-9784062646208",
+    "title": "左手に告げるなかれ",
+    "author": "渡辺容子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062646208",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002805768",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 432
+  },
+  {
+    "book_id": "isbn-9784062751957",
+    "title": "剣の道殺人事件",
+    "author": "鳥羽亮",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062751957",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007913891",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 823
+  },
+  {
+    "book_id": "isbn-9784344419339",
+    "title": "後悔と真実の色",
+    "author": "貫井徳郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344419339",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023961140",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 689
+  },
+  {
+    "book_id": "isbn-9784101281117",
+    "title": "後宮小説",
+    "author": "酒見賢一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101281117",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002258148",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 303
+  },
+  {
+    "book_id": "isbn-9784101281124",
+    "title": "墨攻",
+    "author": "酒見賢一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101281124",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002338269",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 170
+  },
+  {
+    "book_id": "isbn-9784101317113",
+    "title": "バルタザールの遍歴",
+    "author": "佐藤亜紀",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101317113",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002387342",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784101317120",
+    "title": "戦争の法",
+    "author": "佐藤亜紀",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101317120",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002517875",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 398
+  },
+  {
+    "book_id": "isbn-9784120028410",
+    "title": "ヴァスラフ",
+    "author": "高野史緒",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784120028410",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002741967",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 197
+  },
+  {
+    "book_id": "isbn-9784103197218",
+    "title": "増大派に告ぐ",
+    "author": "小田雅久仁",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784103197218",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010622940",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 268
   }
 ]

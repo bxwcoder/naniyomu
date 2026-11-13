@@ -1,8 +1,8 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-13T18:08:37.542Z
-- 候補：6442冊
-- 入れた本：5869冊
+- 検索日時：2026-11-13T18:17:17.352Z
+- 候補：6457冊
+- 入れた本：5884冊
 - 入れなかった本：573冊
 
 ## 入れなかった本
@@ -6452,3 +6452,18 @@
 - 上海：岩波文庫／岩波書店／2008.2／352p／NDC 913.6／novel・normal・medium
 - 運命：講談社文庫／講談社／2005.9／259p／NDC 913.6／novel・normal・medium
 - みずうみ：新潮文庫 ; か-1-13／新潮社／2023.1／192p／NDC 913.6／novel・normal・short
+- 顔：双葉文庫. 日本推理作家協会賞受賞作全集 ; 9／双葉社／1995.5／283p／NDC 913.6／mystery_sf・normal・medium
+- 影の地帯：新潮文庫／新潮社／2001.12／718p／NDC 913.6／mystery_sf・normal・long
+- 死者の木霊：講談社文庫／講談社／1983.12／378p／NDC 913.6／mystery_sf・normal・medium
+- 猿の証言：新潮文庫／新潮社／2000.5／643p／NDC 913.6／mystery_sf・normal・long
+- 猿丸幻視行：講談社文庫／講談社／1983.8／389p／NDC 913.6／mystery_sf・normal・medium
+- ヒートアイランド：文春文庫／文藝春秋／2004.6／466p／NDC 913.6／mystery_sf・normal・long
+- 左手に告げるなかれ：講談社文庫／講談社／1999.7／432p／NDC 913.6／mystery_sf・normal・medium
+- 剣の道殺人事件：講談社文庫. 江戸川乱歩賞全集 ; 18／講談社／2005.9／823p／NDC 913.6／mystery_sf・normal・long
+- 後悔と真実の色：幻冬舎文庫 ; ぬ-1-4／幻冬舎／2012.10／689p／NDC 913.6／mystery_sf・normal・long
+- 後宮小説：新潮文庫／新潮社／1993.4／303p／NDC 913.6／mystery_sf・normal・medium
+- 墨攻：新潮文庫／新潮社／1994.7／170p／NDC 913.6／mystery_sf・normal・short
+- バルタザールの遍歴：新潮文庫／新潮社／1994.12／317p／NDC 913.6／mystery_sf・normal・medium
+- 戦争の法：新潮文庫／新潮社／1996.7／398p／NDC 913.6／mystery_sf・normal・medium
+- ヴァスラフ：叢書なし／中央公論社／1998.10／197p／NDC 912.6／mystery_sf・normal・short
+- 増大派に告ぐ：叢書なし／新潮社／2009.11／268p／NDC 913.6／mystery_sf・normal・medium
