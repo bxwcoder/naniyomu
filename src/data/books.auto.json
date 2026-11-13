@@ -136718,6 +136718,32 @@
     "pages": 302
   },
   {
+    "book_id": "isbn-9784167914141",
+    "title": "悲しみの秘義",
+    "author": "若松英輔",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167914141",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030064925",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 235
+  },
+  {
     "book_id": "isbn-9784101299525",
     "title": "脳と仮想",
     "author": "茂木健一郎",
@@ -136796,6 +136822,33 @@
     "tier": "basic",
     "publisher": "筑摩書房",
     "pages": 249
+  },
+  {
+    "book_id": "isbn-9784062816120",
+    "title": "絶望の国の幸福な若者たち",
+    "author": "古市憲寿",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062816120",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026793409",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 428
   },
   {
     "book_id": "isbn-9784062882385",
@@ -137173,5 +137226,193 @@
     "tier": "basic",
     "publisher": "紀伊國屋書店",
     "pages": 412
+  },
+  {
+    "book_id": "isbn-9784622070474",
+    "title": "他者の苦痛へのまなざし",
+    "author": "スーザン・ソンタグ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784622070474",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004178526",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "みすず書房",
+    "pages": 155
+  },
+  {
+    "book_id": "isbn-9784794980243",
+    "title": "写真論",
+    "author": "スーザン・ソンタグ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784794980243",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034797223",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "晶文社",
+    "pages": 261
+  },
+  {
+    "book_id": "isbn-9784766418705",
+    "title": "悲しみにある者",
+    "author": "ジョーン・ディディオン",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784766418705",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023114020",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "慶応義塾大学出版会",
+    "pages": 246
+  },
+  {
+    "book_id": "isbn-9784150502065",
+    "title": "パンダの親指",
+    "author": "スティーヴン・ジェイ・グールド",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150502065",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002530927",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 287
+  },
+  {
+    "book_id": "isbn-9784102186237",
+    "title": "人体大全",
+    "author": "ビル・ブライソン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102186237",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033644416",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 715
+  },
+  {
+    "book_id": "isbn-9784622015994",
+    "title": "攻撃",
+    "author": "コンラート・ローレンツ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784622015994",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001745586",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "みすず書房",
+    "pages": 385
+  },
+  {
+    "book_id": "isbn-9784862762085",
+    "title": "異文化理解力",
+    "author": "エリン・メイヤー",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784862762085",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026647705",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "英治出版",
+    "pages": 317
   }
 ]
