@@ -159099,5 +159099,421 @@
     "tier": "basic",
     "publisher": "集英社",
     "pages": 182
+  },
+  {
+    "book_id": "isbn-9784003232514",
+    "title": "楡の木陰の欲望",
+    "author": "ユージン・オニール",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003232514",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I10111102081811",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 157
+  },
+  {
+    "book_id": "isbn-9784108202191",
+    "title": "アマデウス",
+    "author": "ピーター・シェーファー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784108202191",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I25111095121",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784875745648",
+    "title": "ローゼンクランツとギルデンスターンは死んだ",
+    "author": "トム・ストッパード",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784875745648",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002357274",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "劇書房",
+    "pages": 152
+  },
+  {
+    "book_id": "isbn-9784334752811",
+    "title": "ピグマリオン",
+    "author": "バーナード・ショー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334752811",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024941709",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 297
+  },
+  {
+    "book_id": "isbn-9784003246917",
+    "title": "ヴォイツェク",
+    "author": "ビューヒナー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003246917",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008348280",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 362
+  },
+  {
+    "book_id": "isbn-9784003243930",
+    "title": "肝っ玉おっ母とその子どもたち",
+    "author": "ブレヒト",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003243930",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007348155",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 229
+  },
+  {
+    "book_id": "isbn-9784905028956",
+    "title": "カリギュラ",
+    "author": "カミュ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784905028956",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032192411",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "デジタルエステイト",
+    "pages": 158
+  },
+  {
+    "book_id": "isbn-9784846202989",
+    "title": "メディア",
+    "author": "エウリピデス",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784846202989",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007850057",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "れんが書房新社",
+    "pages": 109
+  },
+  {
+    "book_id": "isbn-9784000072496",
+    "title": "イーリアス",
+    "author": "ホメロス",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784000072496",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007615038",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 454
+  },
+  {
+    "book_id": "isbn-9784065332856",
+    "title": "変身物語",
+    "author": "オウィディウス",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065332856",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033009399",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 497
+  },
+  {
+    "book_id": "isbn-9784865820423",
+    "title": "カンタベリー物語",
+    "author": "チョーサー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784865820423",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031528841",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "悠書館",
+    "pages": 1033
+  },
+  {
+    "book_id": "isbn-9784873956626",
+    "title": "天路歴程",
+    "author": "バニヤン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784873956626",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025987994",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "キリスト新聞社",
+    "pages": 115
+  },
+  {
+    "book_id": "isbn-9784572008503",
+    "title": "ドン・ジュアン",
+    "author": "バイロン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784572008503",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002245005",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "富山房",
+    "pages": 546
+  },
+  {
+    "book_id": "isbn-9784003226544",
+    "title": "キーツ詩集",
+    "author": "キーツ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003226544",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027513843",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 507
+  },
+  {
+    "book_id": "isbn-9784881988671",
+    "title": "イェイツ詩集",
+    "author": "イェイツ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784881988671",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003643099",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "松柏社",
+    "pages": 550
+  },
+  {
+    "book_id": "isbn-9784003221730",
+    "title": "ブレイク詩集",
+    "author": "ブレイク",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003221730",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024973876",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 319
   }
 ]
