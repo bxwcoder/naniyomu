@@ -165611,6 +165611,33 @@
     "pages": 238
   },
   {
+    "book_id": "isbn-9784106036804",
+    "title": "利他学",
+    "author": "小田亮",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784106036804",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011192721",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 255
+  },
+  {
     "book_id": "isbn-9784469211931",
     "title": "アリはなぜ一列に歩くか",
     "author": "山岡亮平",
