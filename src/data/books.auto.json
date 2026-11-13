@@ -134106,7 +134106,7 @@
     "pages": 298
   },
   {
-    "book_id": "isbn-9784652006191",
+    "book_id": "isbn-9784101003313",
     "title": "ひげよ、さらば",
     "author": "上野瞭",
     "genres": [
@@ -134119,17 +134119,17 @@
       "moving"
     ],
     "difficulty": "easy",
-    "length_category": "long",
+    "length_category": "medium",
     "description": "",
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784652006191",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001681643",
+    "isbn": "9784101003313",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001844136",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "理論社",
-    "pages": 110
+    "publisher": "新潮社",
+    "pages": null
   },
   {
     "book_id": "isbn-9784062753913",

@@ -5554,7 +5554,7 @@
 - いやいやえん：創作童話シリーズ／福音館書店／1980／177p ; 22cm／NDC 913.6／novel・easy・short
 - ぼくは王さま：叢書なし／理論社／1985.11／733p／NDC 913／novel・easy・long
 - 木かげの家の小人たち：福音館文庫／福音館書店／2002.6／298p／NDC 913／novel・easy・medium
-- ひげよ、さらば：テレビ文庫／理論社／1984.7／110p／NDC 913／novel・easy・long
+- ひげよ、さらば：新潮文庫／新潮社／1987.1／2冊／NDC 913.6／novel・easy・medium
 - 非・バランス：講談社文庫／講談社／2006.5／194p／NDC 913.6／novel・easy・short
 - お引越し：講談社文庫／講談社／1995.3／249p／NDC 913.6／novel・easy・short
 - ムギと王さま：岩波世界児童文学集 ; 10／岩波書店／1993.9／547p／NDC 908／novel・easy・long
