@@ -164229,5 +164229,240 @@
     "tier": "basic",
     "publisher": "白水社",
     "pages": 369
+  },
+  {
+    "book_id": "isbn-9784003221310",
+    "title": "ウェイクフィールドの牧師",
+    "author": "ゴールドスミス",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003221310",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023332925",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 352
+  },
+  {
+    "book_id": "isbn-9784003227633",
+    "title": "モロー博士の島",
+    "author": "H・G・ウェルズ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003227633",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002295221",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 339
+  },
+  {
+    "book_id": "isbn-9784334754365",
+    "title": "キム",
+    "author": "キプリング",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334754365",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030765335",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 644
+  },
+  {
+    "book_id": "isbn-9784255790145",
+    "title": "恋する女たち",
+    "author": "D・H・ロレンス",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784255790145",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809784879757",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日出版社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784003229125",
+    "title": "船出",
+    "author": "ヴァージニア・ウルフ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003229125",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027823922",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 338
+  },
+  {
+    "book_id": "isbn-9784794967206",
+    "title": "草は歌っている",
+    "author": "ドリス・レッシング",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784794967206",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009188402",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "晶文社",
+    "pages": 227
+  },
+  {
+    "book_id": "isbn-9784334753290",
+    "title": "クレーヴの奥方",
+    "author": "ラファイエット夫人",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334753290",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027205494",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 339
+  },
+  {
+    "book_id": "isbn-9784334752941",
+    "title": "ポールとヴィルジニー",
+    "author": "ベルナルダン・ド・サン＝ピエール",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334752941",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025531914",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 267
+  },
+  {
+    "book_id": "isbn-9784003255414",
+    "title": "魅せられたる魂",
+    "author": "ロマン・ロラン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003255414",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002020979",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 479
   }
 ]
