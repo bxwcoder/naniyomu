@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-12T23:53:03.733Z
-- 候補：5245冊
-- 入れた本：4765冊
-- 入れなかった本：480冊
+- 検索日時：2026-11-13T00:10:51.264Z
+- 候補：5292冊
+- 入れた本：4809冊
+- 入れなかった本：483冊
 
 ## 入れなかった本
 
@@ -487,6 +487,9 @@
 - 野性の呼び声／ジャック・ロンドン（海外の名作）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
 - 家／巴金（海外の名作）：タイトルが同じで ISBN のある記録がない
 - 朝花夕拾／魯迅（海外の名作）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
+- 夢を力に／本田宗一郎（教養の定番）：タイトルが同じで ISBN のある記録がない
+- 一揆／勝俣鎮夫（教養の定番）：タイトルが同じで ISBN のある記録がない
+- 中国の歴史／陳舜臣（教養の定番）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
 
 ## 入れた本と選んだ版
 
@@ -5255,3 +5258,47 @@
 - 活きる：中公文庫 ; ヨ1-1／中央公論新社／2019.1／331p／NDC 923.7／novel・normal・medium
 - 兄弟：文春文庫 ; ユ3-1／文藝春秋／2010.12／521p／NDC 923.7／novel・normal・long
 - 赤い高粱：岩波現代文庫 : 文芸／岩波書店／2003.12／328p／NDC 923.7／novel・normal・medium
+- MADE IN JAPAN：朝日文庫／朝日新聞社／1990.1／534p／NDC 549.09／liberal_arts・normal・long
+- 一勝九敗：新潮文庫／新潮社／2006.4／274p／NDC 335.13／practical・normal・medium
+- 考える技術：講談社文庫 ; お43-10／講談社／2009.3／311p／NDC 336／practical・normal・medium
+- 知識創造企業：叢書なし／東洋経済新報社／1996.3／401p／NDC 336／practical・normal・medium
+- V字回復の経営：日経ビジネス人文庫／日本経済新聞社／2006.4／458p／NDC 336.3／practical・normal・long
+- 現場力を鍛える：叢書なし／東洋経済新報社／2004.2／199p／NDC 336／practical・normal・short
+- 佐藤可士和の超整理術：日経ビジネス人文庫 ; 587／日本経済新聞出版社／2011.4／224p／NDC 002.7／liberal_arts・normal・short
+- あなたの会社が90日で儲かる!：叢書なし／フォレスト出版／1999.12／246p／NDC 675／practical・normal・short
+- 1%の努力：叢書なし／ダイヤモンド社／2020.3／277p／NDC 159／practical・normal・medium
+- 死ぬこと以外かすり傷：叢書なし／マガジンハウス／2018.8／173p／NDC 021.43／liberal_arts・normal・short
+- 日本再興戦略：NewsPicks Book／幻冬舎／2018.1／254p／NDC 304／liberal_arts・normal・medium
+- 起きていることはすべて正しい：叢書なし／ダイヤモンド社／2008.11／351, 8p／NDC 336／practical・normal・medium
+- レバレッジ・リーディング：叢書なし／東洋経済新報社／2006.12／171p／NDC 019.12／liberal_arts・normal・short
+- ほぼ日刊イトイ新聞の本：講談社文庫／講談社／2004.10／362p／NDC 694.5／liberal_arts・normal・medium
+- 経営者になるためのノート：叢書なし／PHP研究所／2015.9／ページ数不明／NDC 335.13／practical・normal・medium
+- 社長失格：叢書なし／日経BP社、日経BP出版センター (発売)／1998.11／371p／NDC 007.35／liberal_arts・normal・medium
+- 采配：叢書なし／ダイヤモンド社／2011.11／300p／NDC 783.7／liberal_arts・normal・medium
+- 野村ノート：小学館文庫 ; の3-1／小学館／2009.11／241p／NDC 783.7／liberal_arts・normal・short
+- 心を整える。：幻冬舎文庫 ; は-24-1／幻冬舎／2014.1／335p 図版12p／NDC 783.47／liberal_arts・normal・medium
+- 勝ち続ける意志力：小学館101新書 ; 132／小学館／2012.4／254p／NDC 798.5／liberal_arts・normal・medium
+- 殿様の通信簿：新潮文庫／新潮社／2008.10／280p／NDC 281／nonfiction,liberal_arts・normal・medium
+- 戦国大名：平凡社ライブラリー ; 943／平凡社／2023.4／301p／NDC 210.47／liberal_arts・normal・medium
+- 信長の政略：叢書なし／学研パブリッシング、学研マーケティング (発売)／2013.7／299p／NDC 210.47／liberal_arts・normal・medium
+- 刀狩り：岩波新書／岩波書店／2005.8／243p／NDC 210.1／liberal_arts・normal・short
+- 雑兵たちの戦場：叢書なし／朝日新聞社／1995.11／284, 6p／NDC 210.4／liberal_arts・normal・medium
+- 江戸の性風俗：講談社現代新書／講談社／1998.12／220p／NDC 384.7／liberal_arts・normal・short
+- 大江戸リサイクル事情：講談社文庫／講談社／1997.10／379p／NDC 382.1／liberal_arts・normal・medium
+- 指揮官と参謀：文春文庫／文芸春秋／1992.12／318p／NDC 210.75／liberal_arts・normal・medium
+- 東條英機と天皇の時代：ちくま文庫／筑摩書房／2005.11／699p／NDC 210.7／liberal_arts・normal・long
+- 満州事変から日中戦争へ：岩波新書. シリーズ日本近現代史 ; 5／岩波書店／2007.6／242, 14p／NDC 210.7／liberal_arts・normal・short
+- 大東亜戦争肯定論：中公文庫 ; は68-1／中央公論新社／2014.11／509p／NDC 210.6／liberal_arts・normal・long
+- 日本の近代とは何であったか：岩波新書 新赤版 ; 1650／岩波書店／2017.3／276,4p／NDC 210.6／liberal_arts・normal・medium
+- 明治維新とは何だったのか：叢書なし／祥伝社／2018.5／247p／NDC 210.61／liberal_arts・normal・short
+- 物語 イタリアの歴史：中公新書／中央公論社／1991.10／359p／NDC 237／liberal_arts・normal・medium
+- 物語 ドイツの歴史：中公新書／中央公論社／1998.5／345p／NDC 234／liberal_arts・normal・medium
+- ハーメルンの笛吹き男：ちくま文庫／筑摩書房／1988.12／315, 4p／NDC 388.34／liberal_arts・normal・medium
+- 中世の窓から：ちくま学芸文庫 ; ア25-5／筑摩書房／2017.6／377p／NDC 230.4／liberal_arts・normal・medium
+- ビザンツ帝国：中公新書 ; 2595／中央公論新社／2020.6／304p／NDC 209.4／liberal_arts・normal・medium
+- オスマン帝国：中公新書 ; 2518／中央公論新社／2018.12／319p／NDC 227.4／liberal_arts・normal・medium
+- モンゴル帝国の興亡：講談社現代新書／講談社／1996.5／233p／NDC 222.7／liberal_arts・normal・long
+- 遊牧民から見た世界史：日経ビジネス人文庫 ; 599／日本経済新聞出版社／2011.7／477p／NDC 209／liberal_arts・normal・long
+- 三国志演義：講談社学術文庫 ; 2257／講談社／2014.9／700p／NDC 923.5／novel・normal・long
+- 西遊記：春陽堂くれよん文庫／春陽堂書店／1989.5／2冊／NDC 923／novel・normal・medium
+- 紅楼夢：角川ソフィア文庫 ; B1-43. ビギナーズ・クラシックス／KADOKAWA／2025.9／715p／NDC 923.6／novel・normal・long
