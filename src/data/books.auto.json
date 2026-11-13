@@ -140598,5 +140598,718 @@
     "tier": "basic",
     "publisher": "小学館",
     "pages": 374
+  },
+  {
+    "book_id": "isbn-9784087460490",
+    "title": "リトル・ターン",
+    "author": "ブルック・ニューマン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087460490",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008226161",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 126
+  },
+  {
+    "book_id": "isbn-9784001163742",
+    "title": "銀のいす",
+    "author": "C・S・ルイス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001163742",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007931693",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 307
+  },
+  {
+    "book_id": "isbn-9784001163735",
+    "title": "朝びらき丸東の海へ",
+    "author": "C・S・ルイス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001163735",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007856869",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 310
+  },
+  {
+    "book_id": "isbn-9784000264624",
+    "title": "こわれた腕環",
+    "author": "アーシュラ・K・ル＝グウィン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784000264624",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002838256",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 252
+  },
+  {
+    "book_id": "isbn-9784000264655",
+    "title": "さいはての島へ",
+    "author": "アーシュラ・K・ル＝グウィン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784000264655",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002855749",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 352
+  },
+  {
+    "book_id": "isbn-9784065398470",
+    "title": "ムーミン谷の冬",
+    "author": "トーベ・ヤンソン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065398470",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034119237",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 222
+  },
+  {
+    "book_id": "isbn-9784065393598",
+    "title": "ムーミンパパの思い出",
+    "author": "トーベ・ヤンソン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065393598",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034062972",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 302
+  },
+  {
+    "book_id": "isbn-9784065398623",
+    "title": "ムーミン谷の仲間たち",
+    "author": "トーベ・ヤンソン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065398623",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034119240",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 283
+  },
+  {
+    "book_id": "isbn-9784001157246",
+    "title": "山賊のむすめローニャ",
+    "author": "アストリッド・リンドグレーン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001157246",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002402250",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 358
+  },
+  {
+    "book_id": "isbn-9784001140804",
+    "title": "ミオよわたしのミオ",
+    "author": "アストリッド・リンドグレーン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001140804",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002979760",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 275
+  },
+  {
+    "book_id": "isbn-9784102113431",
+    "title": "アンの愛情",
+    "author": "モンゴメリ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102113431",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009424565",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 470
+  },
+  {
+    "book_id": "isbn-9784102113134",
+    "title": "可愛いエミリー",
+    "author": "モンゴメリ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102113134",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I09111100782099",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 500
+  },
+  {
+    "book_id": "isbn-9784042212010",
+    "title": "少女パレアナ",
+    "author": "エレナ・ポーター",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784042212010",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001784998",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 274
+  },
+  {
+    "book_id": "isbn-9784591084137",
+    "title": "少年探偵団",
+    "author": "江戸川乱歩",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784591084137",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007654804",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ポプラ社",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784062611602",
+    "title": "天使で大地はいっぱいだ",
+    "author": "後藤竜二",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062611602",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002451230",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 189
+  },
+  {
+    "book_id": "isbn-9784001140781",
+    "title": "肥後の石工",
+    "author": "今西祐行",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001140781",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002967473",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 240
+  },
+  {
+    "book_id": "isbn-9784001141405",
+    "title": "ベーグル・チームの作戦",
+    "author": "E・L・カニグズバーグ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001141405",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008314043",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 227
+  },
+  {
+    "book_id": "isbn-9784062195096",
+    "title": "うたうとは小さないのちひろいあげ",
+    "author": "村上しいこ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062195096",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026364319",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784591130773",
+    "title": "天のシーソー",
+    "author": "安東みきえ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784591130773",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023886856",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ポプラ社",
+    "pages": 179
+  },
+  {
+    "book_id": "isbn-9784861762826",
+    "title": "卵と小麦粉それからマドレーヌ",
+    "author": "石井睦美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784861762826",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008278178",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ジャイブ",
+    "pages": 186
+  },
+  {
+    "book_id": "isbn-9784062153218",
+    "title": "たまごを持つように",
+    "author": "まはら三桃",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062153218",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010077236",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 251
+  },
+  {
+    "book_id": "isbn-9784591117859",
+    "title": "トーキョー・クロスロード",
+    "author": "濱野京子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784591117859",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010778072",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ポプラ社",
+    "pages": 285
+  },
+  {
+    "book_id": "isbn-9784861764950",
+    "title": "ハーフ",
+    "author": "草野たき",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784861764950",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009436837",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ジャイブ",
+    "pages": 167
+  },
+  {
+    "book_id": "isbn-9784834019179",
+    "title": "ズボン船長さんの話",
+    "author": "角野栄子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784834019179",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004018726",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "福音館書店",
+    "pages": 377
+  },
+  {
+    "book_id": "isbn-9784062160100",
+    "title": "つづきの図書館",
+    "author": "柏葉幸子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062160100",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010670587",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 237
+  },
+  {
+    "book_id": "isbn-9784062200738",
+    "title": "ぼくたちのリアル",
+    "author": "戸森しるこ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062200738",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027323296",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 222
+  },
+  {
+    "book_id": "isbn-9784052028960",
+    "title": "彼岸花はきつねのかんざし",
+    "author": "朽木祥",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784052028960",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009234995",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "学習研究社",
+    "pages": 175
   }
 ]
