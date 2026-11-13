@@ -155996,57 +155996,5 @@
     "tier": "basic",
     "publisher": "河出書房新社",
     "pages": 535
-  },
-  {
-    "book_id": "isbn-9784082300012",
-    "title": "シートン動物記",
-    "author": "シートン",
-    "genres": [
-      "novel"
-    ],
-    "themes": [
-      "life"
-    ],
-    "moods": [
-      "moving"
-    ],
-    "difficulty": "normal",
-    "length_category": "long",
-    "description": "",
-    "recommendation_reasons": [],
-    "cover_image_url": null,
-    "purchase_url": null,
-    "isbn": "9784082300012",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001877843",
-    "metadata_verified": true,
-    "tier": "basic",
-    "publisher": "集英社",
-    "pages": 238
-  },
-  {
-    "book_id": "isbn-9784751520710",
-    "title": "野生の呼び声",
-    "author": "ジャック・ロンドン",
-    "genres": [
-      "novel"
-    ],
-    "themes": [
-      "life"
-    ],
-    "moods": [
-      "moving"
-    ],
-    "difficulty": "normal",
-    "length_category": "short",
-    "description": "",
-    "recommendation_reasons": [],
-    "cover_image_url": null,
-    "purchase_url": null,
-    "isbn": "9784751520710",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002827180",
-    "metadata_verified": true,
-    "tier": "basic",
-    "publisher": "あすなろ書房",
-    "pages": 127
   }
 ]
