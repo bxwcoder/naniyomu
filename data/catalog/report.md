@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-13T12:03:17.180Z
-- 候補：5889冊
-- 入れた本：5364冊
-- 入れなかった本：525冊
+- 検索日時：2026-11-13T12:31:26.441Z
+- 候補：5926冊
+- 入れた本：5397冊
+- 入れなかった本：529冊
 
 ## 入れなかった本
 
@@ -532,6 +532,10 @@
 - 冴えない彼女の育てかた／丸戸史明（人気の小説）：タイトルが同じで ISBN のある記録がない
 - プレーグ・コートの殺人／カーター・ディクスン（ミステリー定番）：タイトルが同じで ISBN のある記録がない
 - ハイ-ライズ／J・G・バラード（SF・ファンタジー定番）：タイトルが同じで ISBN のある記録がない
+- 小説神髄／坪内逍遥（教養の定番）：ジャンルを決められない（分類番号：902.3）
+- 未来の衝撃／アルビン・トフラー（教養の定番）：タイトルが同じで ISBN のある記録がない
+- 続日本人の英語／マーク・ピーターセン（教養の定番）：タイトルが同じで ISBN のある記録がない
+- 続名画を見る眼／高階秀爾（教養の定番）：タイトルが同じで ISBN のある記録がない
 
 ## 入れた本と選んだ版
 
@@ -5899,3 +5903,36 @@
 - ルインズ：扶桑社ミステリー／扶桑社／2008.2／350p／NDC 933.7／mystery_sf・normal・long
 - 沈んだ世界：創元推理文庫 ; ６２９－１／東京創元社／１９９０．１／２６０ｐ ; １５ｃｍ／NDC 933.7／mystery_sf・normal・medium
 - 闇からの声：創元推理文庫 ; 111-2／東京創元社／1963.6／328p ; 15cm／NDC 933.7／mystery_sf・normal・medium
+- 1984年のUWF：文春文庫 ; や43-3／文藝春秋／2020.3／461p／NDC 788.2／nonfiction・normal・long
+- イリュージョン：集英社文庫 ; ハ3-3／集英社／2009.5／200p／NDC 933.7／novel・normal・short
+- すぐそこの遠い場所：ちくま文庫／筑摩書房／2004.4／126p／NDC 913.6／nonfiction・easy・short
+- 努力論：岩波文庫／岩波書店／2001.7／323p／NDC 914.6／nonfiction・normal・medium
+- さあ、見張りを立てよ：叢書なし／早川書房／2016.12／364p／NDC 933.7／novel・normal・medium
+- 椿の海の記：河出文庫 ; い31-1／河出書房新社／2013.4／311p／NDC 913.6／novel・normal・medium
+- ベートーヴェンの生涯：岩波文庫 ; ３２－５５６－２／岩波書店／１９９１．９／２００ｐ ; １５ｃｍ／NDC 762.34／liberal_arts・normal・short
+- 春雨物語：三弥井古典文庫／三弥井書店／2012.4／274p／NDC 913.56／novel・normal・medium
+- 黒い迷宮：ハヤカワ文庫 NF ; 502／早川書房／2017.7／324p／NDC 368.61／nonfiction・normal・long
+- 月曜物語：岩波文庫 ; ３２－５４２－３／岩波書店／１９８３．９／３００ｐ ; １５ｃｍ／NDC 953.6／novel・normal・medium
+- ネグレクト：小学館文庫／小学館／2007.8／299p／NDC 367.61／nonfiction・normal・medium
+- モロッコで断食：幻冬舎文庫／幻冬舎／2004.2／270p／NDC 294.3409／nonfiction・easy・medium
+- おすもうさん：叢書なし／草思社／2010.9／253p／NDC 788.1／nonfiction・normal・medium
+- この命、義に捧ぐ：角川文庫 ; か63-1／KADOKAWA／2013.10／389p／NDC 289.1／nonfiction・normal・medium
+- パリでメシを食う。：幻冬舎文庫 ; か-32-1／幻冬舎／2010.7／334p／NDC 281.04／nonfiction・normal・medium
+- トットひとり：新潮文庫 ; く-7-9／新潮社／2017.11／373p／NDC 772.1／nonfiction・easy・medium
+- 語りかける花：ちくま文庫／筑摩書房／2007.11／292p／NDC 753.049／nonfiction・easy・medium
+- 教誨師：講談社文庫 ; ほ41-5／講談社／2018.4／358p／NDC 326.53／nonfiction・normal・medium
+- 暁の宇品：講談社文庫 ; ほ41-7／講談社／2024.7／487p／NDC 210.75／nonfiction・normal・long
+- 魯山人陶説：中公文庫／中央公論社／1992.5／357p 図版12枚／NDC 751.1／nonfiction・easy・medium
+- 生きる哲学：文春新書 ; 1001／文藝春秋／2014.11／267p／NDC 280／nonfiction,liberal_arts・normal・medium
+- 心はどこへ消えた?：文春文庫 ; と34-2／文藝春秋／2025.2／270p／NDC 146.8／nonfiction・easy・medium
+- 聞く技術 聞いてもらう技術：ちくま新書 ; 1686／筑摩書房／2022.10／249p／NDC 361.454／liberal_arts・normal・short
+- 歴史哲学講義：岩波文庫／岩波書店／1994.6／363p／NDC 134.4／liberal_arts・normal・long
+- 憑霊信仰論：講談社学術文庫／講談社／1994.3／362p／NDC 387／liberal_arts・normal・medium
+- 雨夜譚：岩波文庫／岩波書店／1994.12／338p／NDC 289.1／nonfiction,liberal_arts・normal・medium
+- くさいはうまい：文春文庫／文藝春秋／2006.7／255p／NDC 588.5／nonfiction・easy・medium
+- イギリス近代史講義：講談社現代新書 ; 2070／講談社／2010.10／268p／NDC 233.05／liberal_arts・normal・medium
+- 日本語の起源：岩波新書／岩波書店／1994.6／251, 20p／NDC 810.2／liberal_arts・normal・medium
+- 昆虫こわい：幻冬舎新書 ; ま-10-1／幻冬舎／2017.7／263p／NDC 486／liberal_arts・normal・medium
+- 宇宙と宇宙をつなぐ数学：角川ソフィア文庫 ; K134-2／KADOKAWA／2023.2／364p／NDC 413.5／liberal_arts・normal・medium
+- 移行期的混乱：ちくま文庫 ; ひ22-1／筑摩書房／2013.1／318p／NDC 332.107／liberal_arts・normal・medium
+- 学力喪失：岩波新書 新赤版 ; 2034／岩波書店／2024.9／320p／NDC 141.33／liberal_arts・normal・medium
