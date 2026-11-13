@@ -152212,5 +152212,622 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 397
+  },
+  {
+    "book_id": "isbn-9784887217041",
+    "title": "美の歴史",
+    "author": "ウンベルト・エーコ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784887217041",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007978485",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東洋書林",
+    "pages": 439
+  },
+  {
+    "book_id": "isbn-9784480089304",
+    "title": "見るということ",
+    "author": "ジョン・バージャー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480089304",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007932458",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 274
+  },
+  {
+    "book_id": "isbn-9784480095039",
+    "title": "イメージ",
+    "author": "ジョン・バージャー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480095039",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024154871",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 314
+  },
+  {
+    "book_id": "isbn-9784130820868",
+    "title": "日本美術の歴史",
+    "author": "辻惟雄",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784130820868",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008046991",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京大学出版会",
+    "pages": 449
+  },
+  {
+    "book_id": "isbn-9784480088772",
+    "title": "奇想の系譜",
+    "author": "辻惟雄",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480088772",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007508991",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 275
+  },
+  {
+    "book_id": "isbn-9784890136780",
+    "title": "ゴッホの手紙",
+    "author": "ゴッホ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784890136780",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023785283",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "西村書店東京出版編集部",
+    "pages": 319
+  },
+  {
+    "book_id": "isbn-9784121020529",
+    "title": "印象派の誕生",
+    "author": "吉川節子",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121020529",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010876952",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 227
+  },
+  {
+    "book_id": "isbn-9784480688767",
+    "title": "西洋美術史入門",
+    "author": "池上英洋",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480688767",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023366390",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 190
+  },
+  {
+    "book_id": "isbn-9784480428288",
+    "title": "名画の言い分",
+    "author": "木村泰司",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480428288",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011228167",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 303
+  },
+  {
+    "book_id": "isbn-9784309279299",
+    "title": "現代アートとは何か",
+    "author": "小崎哲哉",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309279299",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028874840",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 419
+  },
+  {
+    "book_id": "isbn-9784480082527",
+    "title": "反解釈",
+    "author": "スーザン・ソンタグ",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480082527",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002495731",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 501
+  },
+  {
+    "book_id": "isbn-9784121020093",
+    "title": "音楽の聴き方",
+    "author": "岡田暁生",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121020093",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010412165",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 237
+  },
+  {
+    "book_id": "isbn-9784121018168",
+    "title": "西洋音楽史",
+    "author": "岡田暁生",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121018168",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007996118",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 243
+  },
+  {
+    "book_id": "isbn-9784167568016",
+    "title": "ピアニストという蛮族がいる",
+    "author": "中村紘子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167568016",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002401874",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 305
+  },
+  {
+    "book_id": "isbn-9784122018587",
+    "title": "チャイコフスキー・コンクール",
+    "author": "中村紘子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122018587",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002156487",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 305
+  },
+  {
+    "book_id": "isbn-9784101001661",
+    "title": "小澤征爾さんと、音楽について話をする",
+    "author": "村上春樹",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101001661",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025494921",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 467
+  },
+  {
+    "book_id": "isbn-9784103090519",
+    "title": "建築家 安藤忠雄",
+    "author": "安藤忠雄",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784103090519",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009745715",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 383
+  },
+  {
+    "book_id": "isbn-9784006033163",
+    "title": "負ける建築",
+    "author": "隈研吾",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784006033163",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030050823",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 264
+  },
+  {
+    "book_id": "isbn-9784004314103",
+    "title": "小さな建築",
+    "author": "隈研吾",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004314103",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024181875",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 204
+  },
+  {
+    "book_id": "isbn-9784480080257",
+    "title": "東京の空間人類学",
+    "author": "陣内秀信",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480080257",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002225595",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 332
+  },
+  {
+    "book_id": "isbn-9784004140757",
+    "title": "日本人とすまい",
+    "author": "上田篤",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004140757",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I10111100044306",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 216
+  },
+  {
+    "book_id": "isbn-9784122070189",
+    "title": "美味礼讃",
+    "author": "ブリア＝サヴァラン",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122070189",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031203900",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 379
+  },
+  {
+    "book_id": "isbn-9784101235189",
+    "title": "旅する力",
+    "author": "沢木耕太郎",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101235189",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011178587",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 382
   }
 ]

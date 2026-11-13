@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-13T16:33:55.863Z
-- 候補：6270冊
-- 入れた本：5721冊
-- 入れなかった本：549冊
+- 検索日時：2026-11-13T16:46:40.557Z
+- 候補：6294冊
+- 入れた本：5744冊
+- 入れなかった本：550冊
 
 ## 入れなかった本
 
@@ -556,6 +556,7 @@
 - 免疫の守護者／坂口志文（教養の定番）：タイトルが同じで ISBN のある記録がない
 - 統計でウソをつく法／ダレル・ハフ（教養の定番）：タイトルが同じで ISBN のある記録がない
 - ノイズ／ダニエル・カーネマン（教養の定番）：タイトルが同じで ISBN のある記録がない
+- ボクの音楽武者修行／小澤征爾（エッセイ定番）：タイトルが同じで ISBN のある記録がない
 
 ## 入れた本と選んだ版
 
@@ -6280,3 +6281,26 @@
 - 意識と脳：叢書なし／紀伊國屋書店／2015.9／469p／NDC 491.371／liberal_arts・normal・long
 - 記憶力を強くする：ブルーバックス／講談社／2001.1／269, 4p／NDC 491.371／liberal_arts・normal・medium
 - 脳には妙なクセがある：新潮文庫 ; い-101-5／新潮社／2018.2／397p／NDC 491.371／liberal_arts・normal・medium
+- 美の歴史：叢書なし／東洋書林／2005.11／439p／NDC 701.2／liberal_arts・normal・medium
+- 見るということ：ちくま学芸文庫／筑摩書房／2005.8／274p／NDC 704／liberal_arts・normal・medium
+- イメージ：ちくま学芸文庫 ; ハ23-2／筑摩書房／2013.1／314p／NDC 720.4／liberal_arts・normal・medium
+- 日本美術の歴史：叢書なし／東京大学出版会／2005.12／449, 31p／NDC 702.1／liberal_arts・normal・medium
+- 奇想の系譜：ちくま学芸文庫／筑摩書房／2004.9／275p／NDC 721.025／liberal_arts・normal・medium
+- ゴッホの手紙：叢書なし／西村書店東京出版編集部／2012.7／319p／NDC 723.359／liberal_arts・normal・medium
+- 印象派の誕生：中公新書 ; 2052／中央公論新社／2010.4／227p／NDC 723.35／liberal_arts・normal・short
+- 西洋美術史入門：ちくまプリマー新書 = chikuma primer shinsho ; 174／筑摩書房／2012.2／190p／NDC 702.3／liberal_arts・normal・short
+- 名画の言い分：ちくま文庫 ; き33-1／筑摩書房／2011.6／303p／NDC 702.3／liberal_arts・normal・medium
+- 現代アートとは何か：叢書なし／河出書房新社／2018.3／419,20p／NDC 702.07／liberal_arts・normal・medium
+- 反解釈：ちくま学芸文庫／筑摩書房／1996.3／501p／NDC 934／nonfiction・normal・long
+- 音楽の聴き方：中公新書 ; 2009／中央公論新社／2009.6／237p／NDC 760.79／liberal_arts・normal・short
+- 西洋音楽史：中公新書／中央公論新社／2005.10／243p／NDC 762.3／liberal_arts・normal・short
+- ピアニストという蛮族がいる：文春文庫／文芸春秋／1995.3／305p／NDC 763.2／nonfiction・easy・medium
+- チャイコフスキー・コンクール：中公文庫／中央公論社／1991.11／305p／NDC 763.2／nonfiction・normal・medium
+- 小澤征爾さんと、音楽について話をする：新潮文庫 ; む-5-34／新潮社／2014.7／467p／NDC 760／nonfiction・easy・long
+- 建築家 安藤忠雄：叢書なし／新潮社／2008.10／383p／NDC 523.1／nonfiction・easy・medium
+- 負ける建築：岩波現代文庫. 社会 ; 316／岩波書店／2019.11／264p／NDC 520.4／liberal_arts・normal・medium
+- 小さな建築：岩波新書 新赤版 ; 1410／岩波書店／2013.1／204,2p／NDC 520.4／liberal_arts・normal・short
+- 東京の空間人類学：ちくま学芸文庫／筑摩書房／1992.11／332p／NDC 291.36／nonfiction,liberal_arts・normal・medium
+- 日本人とすまい：岩波新書 青版／岩波書店／1979／216p ; 18cm／NDC 527／liberal_arts・normal・short
+- 美味礼讃：中公文庫 ; た33-24／中央公論新社／2021.1／379p／NDC 596／practical・normal・long
+- 旅する力：新潮文庫 ; さ-7-18／新潮社／2011.5／382p／NDC 915.6／nonfiction・easy・medium
