@@ -160508,5 +160508,473 @@
     "tier": "basic",
     "publisher": "角川書店",
     "pages": null
+  },
+  {
+    "book_id": "isbn-9784834026658",
+    "title": "山のトムさん",
+    "author": "石井桃子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784834026658",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011184462",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "福音館書店",
+    "pages": 236
+  },
+  {
+    "book_id": "isbn-9784001131437",
+    "title": "いないいないばあや",
+    "author": "神沢利子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001131437",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002544053",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 265
+  },
+  {
+    "book_id": "isbn-9784003114919",
+    "title": "小川未明童話集",
+    "author": "小川未明",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003114919",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002528445",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 357
+  },
+  {
+    "book_id": "isbn-9784038012402",
+    "title": "子供の四季",
+    "author": "坪田譲治",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784038012402",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I11141115344776",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "偕成社",
+    "pages": 452
+  },
+  {
+    "book_id": "isbn-9784338204040",
+    "title": "風の中の子供",
+    "author": "坪田譲治",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784338204040",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007650801",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小峰書店",
+    "pages": 342
+  },
+  {
+    "book_id": "isbn-9784480020680",
+    "title": "白いおうむの森",
+    "author": "安房直子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480020680",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001816075",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 214
+  },
+  {
+    "book_id": "isbn-9784036526208",
+    "title": "風と木の歌",
+    "author": "安房直子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784036526208",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008245558",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "偕成社",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784038502200",
+    "title": "天の園",
+    "author": "打木村治",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784038502200",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I30111100202941",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "偕成社",
+    "pages": 270
+  },
+  {
+    "book_id": "isbn-9784874520178",
+    "title": "キューポラのある街",
+    "author": "早船ちよ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784874520178",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002178340",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "けやき書房",
+    "pages": 319
+  },
+  {
+    "book_id": "isbn-9784061860216",
+    "title": "ガラスのうさぎ",
+    "author": "高木敏子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061860216",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001811406",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 167
+  },
+  {
+    "book_id": "isbn-9784591175606",
+    "title": "車のいろは空のいろ",
+    "author": "あまんきみこ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784591175606",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032460964",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ポプラ社",
+    "pages": 125
+  },
+  {
+    "book_id": "isbn-9784591016572",
+    "title": "ズッコケ山賊修業中",
+    "author": "那須正幹",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784591016572",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001705689",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ポプラ社",
+    "pages": 198
+  },
+  {
+    "book_id": "isbn-9784591019917",
+    "title": "花のズッコケ児童会長",
+    "author": "那須正幹",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784591019917",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001739474",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ポプラ社",
+    "pages": 222
+  },
+  {
+    "book_id": "isbn-9784652206072",
+    "title": "こそあどの森のひみつの場所",
+    "author": "岡田淳",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784652206072",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033730560",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "理論社",
+    "pages": 125
+  },
+  {
+    "book_id": "isbn-9784036266500",
+    "title": "雨やどりはすべり台の下で",
+    "author": "岡田淳",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784036266500",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001638437",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "偕成社",
+    "pages": 158
+  },
+  {
+    "book_id": "isbn-9784035508809",
+    "title": "放課後の時間割",
+    "author": "岡田淳",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784035508809",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002081195",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "偕成社",
+    "pages": 197
+  },
+  {
+    "book_id": "isbn-9784652014165",
+    "title": "扉のむこうの物語",
+    "author": "岡田淳",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784652014165",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001865602",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "理論社",
+    "pages": 324
+  },
+  {
+    "book_id": "isbn-9784834006209",
+    "title": "菜の子先生がやってきた!",
+    "author": "富安陽子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784834006209",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004125770",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "福音館書店",
+    "pages": 221
   }
 ]
