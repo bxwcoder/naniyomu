@@ -51329,32 +51329,6 @@
     "pages": 394
   },
   {
-    "book_id": "isbn-9784003210215",
-    "title": "イリアス",
-    "author": "ホメロス",
-    "genres": [
-      "novel"
-    ],
-    "themes": [
-      "life"
-    ],
-    "moods": [
-      "moving"
-    ],
-    "difficulty": "normal",
-    "length_category": "long",
-    "description": "",
-    "recommendation_reasons": [],
-    "cover_image_url": null,
-    "purchase_url": null,
-    "isbn": "9784003210215",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002214304",
-    "metadata_verified": true,
-    "tier": "basic",
-    "publisher": "岩波書店",
-    "pages": 454
-  },
-  {
     "book_id": "isbn-9784102010068",
     "title": "貧しき人びと",
     "author": "ドストエフスキー",
@@ -161652,5 +161626,265 @@
     "tier": "basic",
     "publisher": "岩波書店",
     "pages": 345
+  },
+  {
+    "book_id": "isbn-9784167915018",
+    "title": "その日の後刻に",
+    "author": "グレイス・ペイリー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167915018",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030355909",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 380
+  },
+  {
+    "book_id": "isbn-9784167661991",
+    "title": "最後の瞬間のすごく大きな変化",
+    "author": "グレイス・ペイリー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167661991",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007815850",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 314
+  },
+  {
+    "book_id": "isbn-9784105372019",
+    "title": "ヴァインランド",
+    "author": "トマス・ピンチョン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784105372019",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002742079",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 645
+  },
+  {
+    "book_id": "isbn-9784309200972",
+    "title": "裸のランチ",
+    "author": "ウィリアム・バロウズ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309200972",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001845468",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 347
+  },
+  {
+    "book_id": "isbn-9784884185381",
+    "title": "吠える",
+    "author": "アレン・ギンズバーグ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784884185381",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030463118",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "スイッチ・パブリッシング",
+    "pages": 94
+  },
+  {
+    "book_id": "isbn-9784560072318",
+    "title": "見えない人間",
+    "author": "ラルフ・エリスン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784560072318",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030762958",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白水社",
+    "pages": 417
+  },
+  {
+    "book_id": "isbn-9784102402610",
+    "title": "ネイティヴ・サン",
+    "author": "リチャード・ライト",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102402610",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032539187",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 786
+  },
+  {
+    "book_id": "isbn-9784152078858",
+    "title": "ジャズ",
+    "author": "トニ・モリスン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784152078858",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002376648",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 253
+  },
+  {
+    "book_id": "isbn-9784336039620",
+    "title": "オレンジだけが果物じゃない",
+    "author": "ジャネット・ウィンターソン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784336039620",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003664272",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "国書刊行会",
+    "pages": 285
+  },
+  {
+    "book_id": "isbn-9784003228418",
+    "title": "白衣の女",
+    "author": "ウィルキー・コリンズ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003228418",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002492797",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 343
   }
 ]
