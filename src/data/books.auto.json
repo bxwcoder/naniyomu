@@ -59955,13 +59955,14 @@
       "liberal_arts"
     ],
     "themes": [
-      "world"
+      "world",
+      "life"
     ],
     "moods": [
       "learning",
       "wonder"
     ],
-    "difficulty": "normal",
+    "difficulty": "challenging",
     "length_category": "long",
     "description": "",
     "recommendation_reasons": [],
@@ -76175,33 +76176,6 @@
     "tier": "basic",
     "publisher": "岩波書店",
     "pages": 181
-  },
-  {
-    "book_id": "isbn-9784003391242",
-    "title": "種の起原",
-    "author": "ダーウィン",
-    "genres": [
-      "liberal_arts"
-    ],
-    "themes": [
-      "world"
-    ],
-    "moods": [
-      "learning",
-      "wonder"
-    ],
-    "difficulty": "normal",
-    "length_category": "long",
-    "description": "",
-    "recommendation_reasons": [],
-    "cover_image_url": null,
-    "purchase_url": null,
-    "isbn": "9784003391242",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002034426",
-    "metadata_verified": true,
-    "tier": "basic",
-    "publisher": "岩波書店",
-    "pages": 446
   },
   {
     "book_id": "isbn-9784062923705",
@@ -139565,5 +139539,502 @@
     "tier": "basic",
     "publisher": "ランダムハウス講談社",
     "pages": 610
+  },
+  {
+    "book_id": "isbn-9784334753603",
+    "title": "オイディプス王",
+    "author": "ソポクレス",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334753603",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028456830",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 166
+  },
+  {
+    "book_id": "isbn-9784003232118",
+    "title": "シスター・キャリー",
+    "author": "ドライサー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003232118",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002615729",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 484
+  },
+  {
+    "book_id": "isbn-9784102173015",
+    "title": "ハイネ詩集",
+    "author": "ハイネ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102173015",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I11141123490872",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 219
+  },
+  {
+    "book_id": "isbn-9784003243916",
+    "title": "三文オペラ",
+    "author": "ブレヒト",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003243916",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008079170",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 285
+  },
+  {
+    "book_id": "isbn-9784309462677",
+    "title": "いいなづけ",
+    "author": "マンゾーニ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309462677",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008359865",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 470
+  },
+  {
+    "book_id": "isbn-9784334754334",
+    "title": "現代の英雄",
+    "author": "レールモントフ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334754334",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030645220",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 371
+  },
+  {
+    "book_id": "isbn-9784003221211",
+    "title": "トリストラム・シャンディ",
+    "author": "スターン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003221211",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I10111100066502",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 400
+  },
+  {
+    "book_id": "isbn-9784582768824",
+    "title": "不安の概念",
+    "author": "キルケゴール",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784582768824",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971149384750290596",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "平凡社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784003220832",
+    "title": "モル・フランダーズ",
+    "author": "デフォー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003220832",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I30111100127707",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 278
+  },
+  {
+    "book_id": "isbn-9784334753993",
+    "title": "ドルジェル伯の舞踏会",
+    "author": "ラディゲ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334753993",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029600719",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 328
+  },
+  {
+    "book_id": "isbn-9784102120019",
+    "title": "水いらず",
+    "author": "サルトル",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102120019",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007890810",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 334
+  },
+  {
+    "book_id": "isbn-9784003260425",
+    "title": "スペードの女王",
+    "author": "プーシキン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003260425",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007731038",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 301
+  },
+  {
+    "book_id": "isbn-9784003241219",
+    "title": "青い花",
+    "author": "ノヴァーリス",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003241219",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002001964",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 380
+  },
+  {
+    "book_id": "isbn-9784309464114",
+    "title": "新生",
+    "author": "ダンテ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309464114",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026543074",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 253
+  },
+  {
+    "book_id": "isbn-9784309407173",
+    "title": "ポロポロ",
+    "author": "田中小実昌",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309407173",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007452013",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 230
+  },
+  {
+    "book_id": "isbn-9784163806808",
+    "title": "紅梅",
+    "author": "津村節子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784163806808",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011238591",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 171
+  },
+  {
+    "book_id": "isbn-9784167229023",
+    "title": "隅田川暮色",
+    "author": "芝木好子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167229023",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001859766",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 260
+  },
+  {
+    "book_id": "isbn-9784121600622",
+    "title": "悲劇の誕生",
+    "author": "ニーチェ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121600622",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004363811",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 273
+  },
+  {
+    "book_id": "isbn-9784122066663",
+    "title": "中世の秋",
+    "author": "ホイジンガ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122066663",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029323583",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 460
   }
 ]
