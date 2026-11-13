@@ -134523,6 +134523,58 @@
     "pages": 189
   },
   {
+    "book_id": "isbn-9784062934015",
+    "title": "ルドルフともだちひとりだち",
+    "author": "斉藤洋",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062934015",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027329420",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 207
+  },
+  {
+    "book_id": "isbn-9784480021380",
+    "title": "光車よ、まわれ!",
+    "author": "天沢退二郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480021380",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001863218",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 317
+  },
+  {
     "book_id": "isbn-9784652001745",
     "title": "宿題ひきうけ株式会社",
     "author": "古田足日",
@@ -134965,6 +135017,32 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 318
+  },
+  {
+    "book_id": "isbn-9784101115023",
+    "title": "忘却の河",
+    "author": "福永武彦",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101115023",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009308066",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 353
   },
   {
     "book_id": "isbn-9784093523073",
