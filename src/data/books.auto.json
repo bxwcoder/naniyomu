@@ -135387,6 +135387,33 @@
     "pages": 178
   },
   {
+    "book_id": "isbn-9784091792075",
+    "title": "岡崎に捧ぐ",
+    "author": "山本さほ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091792075",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026372946",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 142
+  },
+  {
     "book_id": "isbn-9784063883794",
     "title": "子供はわかってあげない",
     "author": "田島列島",
@@ -135601,6 +135628,33 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 316
+  },
+  {
+    "book_id": "isbn-9784838723379",
+    "title": "僕の姉ちゃん",
+    "author": "益田ミリ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784838723379",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023114102",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "マガジンハウス",
+    "pages": 126
   },
   {
     "book_id": "isbn-9784088708720",
@@ -135945,6 +135999,32 @@
     "tier": "basic",
     "publisher": "みすず書房",
     "pages": 257
+  },
+  {
+    "book_id": "isbn-9784344414259",
+    "title": "わたしのマトカ",
+    "author": "片桐はいり",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344414259",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010926764",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 193
   },
   {
     "book_id": "isbn-9784167658014",
