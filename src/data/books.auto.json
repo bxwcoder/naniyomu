@@ -10847,32 +10847,6 @@
     "pages": 250
   },
   {
-    "book_id": "isbn-9784845638826",
-    "title": "高瀬舟",
-    "author": "森鷗外",
-    "genres": [
-      "novel"
-    ],
-    "themes": [
-      "life"
-    ],
-    "moods": [
-      "moving"
-    ],
-    "difficulty": "normal",
-    "length_category": "short",
-    "description": "",
-    "recommendation_reasons": [],
-    "cover_image_url": null,
-    "purchase_url": null,
-    "isbn": "9784845638826",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032799974",
-    "metadata_verified": true,
-    "tier": "basic",
-    "publisher": "立東舎",
-    "pages": 50
-  },
-  {
     "book_id": "isbn-9784003101063",
     "title": "三四郎",
     "author": "夏目漱石",
@@ -156050,32 +156024,6 @@
     "pages": 220
   },
   {
-    "book_id": "isbn-9784845638895",
-    "title": "駈込み訴え",
-    "author": "太宰治",
-    "genres": [
-      "novel"
-    ],
-    "themes": [
-      "life"
-    ],
-    "moods": [
-      "moving"
-    ],
-    "difficulty": "normal",
-    "length_category": "short",
-    "description": "",
-    "recommendation_reasons": [],
-    "cover_image_url": null,
-    "purchase_url": null,
-    "isbn": "9784845638895",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032855531",
-    "metadata_verified": true,
-    "tier": "basic",
-    "publisher": "立東舎",
-    "pages": 58
-  },
-  {
     "book_id": "isbn-9784652020357",
     "title": "グスコーブドリの伝記",
     "author": "宮沢賢治",
@@ -156126,32 +156074,6 @@
     "tier": "basic",
     "publisher": "河出書房新社",
     "pages": 222
-  },
-  {
-    "book_id": "isbn-9784845638291",
-    "title": "夜叉ケ池",
-    "author": "泉鏡花",
-    "genres": [
-      "novel"
-    ],
-    "themes": [
-      "life"
-    ],
-    "moods": [
-      "moving"
-    ],
-    "difficulty": "normal",
-    "length_category": "short",
-    "description": "",
-    "recommendation_reasons": [],
-    "cover_image_url": null,
-    "purchase_url": null,
-    "isbn": "9784845638291",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032528403",
-    "metadata_verified": true,
-    "tier": "basic",
-    "publisher": "立東舎",
-    "pages": 89
   },
   {
     "book_id": "isbn-9784003107522",
