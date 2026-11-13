@@ -128947,5 +128947,221 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 223
+  },
+  {
+    "book_id": "isbn-9784065433348",
+    "title": "〈子ども〉のための哲学",
+    "author": "永井均",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065433348",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034599218",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 228
+  },
+  {
+    "book_id": "isbn-9784061494015",
+    "title": "これがニーチェだ",
+    "author": "永井均",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061494015",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002687966",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784903908328",
+    "title": "小商いのすすめ",
+    "author": "平川克美",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784903908328",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023338561",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ミシマ社",
+    "pages": 230
+  },
+  {
+    "book_id": "isbn-9784006000714",
+    "title": "昔話と日本人の心",
+    "author": "河合隼雄",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784006000714",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003075389",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 411
+  },
+  {
+    "book_id": "isbn-9784006002206",
+    "title": "ユング心理学入門",
+    "author": "河合隼雄",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784006002206",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010215295",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 299
+  },
+  {
+    "book_id": "isbn-9784004203865",
+    "title": "子どもの宇宙",
+    "author": "河合隼雄",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004203865",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001885474",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 215
+  },
+  {
+    "book_id": "isbn-9784061588110",
+    "title": "影の現象学",
+    "author": "河合隼雄",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061588110",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001894825",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 316
+  },
+  {
+    "book_id": "isbn-9784121009395",
+    "title": "発酵",
+    "author": "小泉武夫",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121009395",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002007811",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 207
   }
 ]
