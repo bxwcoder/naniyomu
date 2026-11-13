@@ -133312,6 +133312,32 @@
     "pages": 238
   },
   {
+    "book_id": "isbn-9784062773478",
+    "title": "再会",
+    "author": "横関大",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062773478",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023830698",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 407
+  },
+  {
     "book_id": "isbn-9784062937467",
     "title": "ルパンの娘",
     "author": "横関大",
@@ -133898,6 +133924,32 @@
     "pages": 332
   },
   {
+    "book_id": "isbn-9784101002125",
+    "title": "ぼんぼん",
+    "author": "今江祥智",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101002125",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001868853",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 462
+  },
+  {
     "book_id": "isbn-9784652021613",
     "title": "おれがあいつであいつがおれで",
     "author": "山中恒",
@@ -134000,5 +134052,370 @@
     "tier": "basic",
     "publisher": "福音館書店",
     "pages": 177
+  },
+  {
+    "book_id": "isbn-9784652042052",
+    "title": "ぼくは王さま",
+    "author": "寺村輝夫",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784652042052",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001772059",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "理論社",
+    "pages": 733
+  },
+  {
+    "book_id": "isbn-9784834018103",
+    "title": "木かげの家の小人たち",
+    "author": "いぬいとみこ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784834018103",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003646615",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "福音館書店",
+    "pages": 298
+  },
+  {
+    "book_id": "isbn-9784652006191",
+    "title": "ひげよ、さらば",
+    "author": "上野瞭",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784652006191",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001681643",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "理論社",
+    "pages": 110
+  },
+  {
+    "book_id": "isbn-9784062753913",
+    "title": "非・バランス",
+    "author": "魚住直子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062753913",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008175840",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 194
+  },
+  {
+    "book_id": "isbn-9784061859104",
+    "title": "お引越し",
+    "author": "ひこ・田中",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061859104",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002402042",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 249
+  },
+  {
+    "book_id": "isbn-9784001157109",
+    "title": "ムギと王さま",
+    "author": "エリナー・ファージョン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001157109",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002283029",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 547
+  },
+  {
+    "book_id": "isbn-9784834014419",
+    "title": "エルマーのぼうけん",
+    "author": "ルース・スタイルス・ガネット",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784834014419",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002602041",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "福音館書店",
+    "pages": 116
+  },
+  {
+    "book_id": "isbn-9784001142006",
+    "title": "チポリーノの冒険",
+    "author": "ジャンニ・ロダーリ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001142006",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011025878",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 379
+  },
+  {
+    "book_id": "isbn-9784001157192",
+    "title": "魔女ジェニファとわたし",
+    "author": "E・L・カニグズバーグ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001157192",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002320142",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 225
+  },
+  {
+    "book_id": "isbn-9784001157185",
+    "title": "やかまし村の子どもたち",
+    "author": "アストリッド・リンドグレーン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001157185",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002253724",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 202
+  },
+  {
+    "book_id": "isbn-9784001140859",
+    "title": "はるかな国の兄弟",
+    "author": "アストリッド・リンドグレーン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001140859",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003005534",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 355
+  },
+  {
+    "book_id": "isbn-9784001141214",
+    "title": "名探偵カッレくん",
+    "author": "アストリッド・リンドグレーン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001141214",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007659268",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 270
+  },
+  {
+    "book_id": "isbn-9784041087909",
+    "title": "ドリトル先生航海記",
+    "author": "ヒュー・ロフティング",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041087909",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030228305",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 414
+  },
+  {
+    "book_id": "isbn-9784834018080",
+    "title": "大きな森の小さな家",
+    "author": "ローラ・インガルス・ワイルダー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784834018080",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003646607",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "福音館書店",
+    "pages": 250
   }
 ]
