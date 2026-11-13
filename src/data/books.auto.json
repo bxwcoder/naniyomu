@@ -127840,32 +127840,6 @@
     "pages": 700
   },
   {
-    "book_id": "isbn-9784394600114",
-    "title": "西遊記",
-    "author": "呉承恩",
-    "genres": [
-      "novel"
-    ],
-    "themes": [
-      "life"
-    ],
-    "moods": [
-      "moving"
-    ],
-    "difficulty": "normal",
-    "length_category": "medium",
-    "description": "",
-    "recommendation_reasons": [],
-    "cover_image_url": null,
-    "purchase_url": null,
-    "isbn": "9784394600114",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002039612",
-    "metadata_verified": true,
-    "tier": "basic",
-    "publisher": "春陽堂書店",
-    "pages": null
-  },
-  {
     "book_id": "isbn-9784044007591",
     "title": "紅楼夢",
     "author": "曹雪芹",
