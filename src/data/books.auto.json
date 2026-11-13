@@ -154206,5 +154206,429 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 310
+  },
+  {
+    "book_id": "isbn-9784478307007",
+    "title": "現代の経営",
+    "author": "P・F・ドラッカー",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784478307007",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008360578",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ダイヤモンド社",
+    "pages": 268
+  },
+  {
+    "book_id": "isbn-9784532195571",
+    "title": "アメーバ経営",
+    "author": "稲盛和夫",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784532195571",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011002076",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日本経済新聞出版社",
+    "pages": 246
+  },
+  {
+    "book_id": "isbn-9784833418454",
+    "title": "成功はゴミ箱の中に",
+    "author": "レイ・クロック",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784833418454",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909801728936",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "プレジデント社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784532190699",
+    "title": "本田宗一郎 夢を力に",
+    "author": "本田宗一郎",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784532190699",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003001595",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日本経済新聞社",
+    "pages": 269
+  },
+  {
+    "book_id": "isbn-9784822241568",
+    "title": "小倉昌男 経営学",
+    "author": "小倉昌男",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784822241568",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002828240",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日経BP社",
+    "pages": 294
+  },
+  {
+    "book_id": "isbn-9784492554951",
+    "title": "戦略「脳」を鍛える",
+    "author": "御立尚資",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784492554951",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004283350",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東洋経済新報社",
+    "pages": 192
+  },
+  {
+    "book_id": "isbn-9784065346440",
+    "title": "世界は経営でできている",
+    "author": "岩尾俊兵",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065346440",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033251252",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 216
+  },
+  {
+    "book_id": "isbn-9784492534083",
+    "title": "両利きの経営",
+    "author": "チャールズ・A・オライリー",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784492534083",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029494144",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東洋経済新報社",
+    "pages": 395
+  },
+  {
+    "book_id": "isbn-9784862762269",
+    "title": "ティール組織",
+    "author": "フレデリック・ラルー",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784862762269",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028750240",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "英治出版",
+    "pages": 589
+  },
+  {
+    "book_id": "isbn-9784296124350",
+    "title": "NO RULES",
+    "author": "リード・ヘイスティングス",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784296124350",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034005621",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日経BP日本経済新聞出版",
+    "pages": 497
+  },
+  {
+    "book_id": "isbn-9784041540022",
+    "title": "スローカーブを、もう一球",
+    "author": "山際淳司",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041540022",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001727560",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784163915760",
+    "title": "虚空の人",
+    "author": "鈴木忠平",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784163915760",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032257068",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 297
+  },
+  {
+    "book_id": "isbn-9784062883788",
+    "title": "不屈の棋士",
+    "author": "大川慎太郎",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062883788",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027456946",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 318
+  },
+  {
+    "book_id": "isbn-9784166607495",
+    "title": "イチロー・インタヴューズ",
+    "author": "石田雄太",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784166607495",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010842479",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 379
+  },
+  {
+    "book_id": "isbn-9784167900205",
+    "title": "オシムの言葉",
+    "author": "木村元彦",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167900205",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025088607",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 357
+  },
+  {
+    "book_id": "isbn-9784087473360",
+    "title": "悪者見参",
+    "author": "木村元彦",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087473360",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002998378",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 446
   }
 ]
