@@ -70755,7 +70755,6 @@
       "life"
     ],
     "moods": [
-      "absorbing",
       "relaxing"
     ],
     "difficulty": "easy",
@@ -156548,5 +156547,324 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 268
+  },
+  {
+    "book_id": "isbn-9784837986492",
+    "title": "しない家事",
+    "author": "マキ",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784837986492",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030281112",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "三笠書房",
+    "pages": 173
+  },
+  {
+    "book_id": "isbn-9784299023261",
+    "title": "お金の真理",
+    "author": "与沢翼",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784299023261",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031826623",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "宝島社",
+    "pages": 413
+  },
+  {
+    "book_id": "isbn-9784925253215",
+    "title": "子育てハッピーアドバイス",
+    "author": "明橋大二",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784925253215",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008022394",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "1万年堂出版",
+    "pages": 181
+  },
+  {
+    "book_id": "isbn-9784087204445",
+    "title": "悩む力",
+    "author": "姜尚中",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087204445",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009353011",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 190
+  },
+  {
+    "book_id": "isbn-9784793380495",
+    "title": "カナダ・エスキモー",
+    "author": "本多勝一",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784793380495",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971149384742534312",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "全国学校図書館協議会",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784022539847",
+    "title": "中国の旅",
+    "author": "本多勝一",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022539847",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I11141105172267",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞社",
+    "pages": 348
+  },
+  {
+    "book_id": "isbn-9784896918472",
+    "title": "ファスト風土化する日本",
+    "author": "三浦展",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784896918472",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007478704",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "洋泉社",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784167651824",
+    "title": "ザ・コールデスト・ウインター 朝鮮戦争",
+    "author": "デイヴィッド・ハルバースタム",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167651824",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023811970",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 621
+  },
+  {
+    "book_id": "isbn-9784150310554",
+    "title": "バレエ・メカニック",
+    "author": "津原泰水",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150310554",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023338205",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 284
+  },
+  {
+    "book_id": "isbn-9784101305714",
+    "title": "狂気という隣人",
+    "author": "岩波明",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101305714",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008436707",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 265
+  },
+  {
+    "book_id": "isbn-9784766001716",
+    "title": "考えの整頓",
+    "author": "佐藤雅彦",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784766001716",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023156862",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "暮しの手帖社",
+    "pages": 283
+  },
+  {
+    "book_id": "isbn-9784004310471",
+    "title": "アジア・太平洋戦争",
+    "author": "吉田裕",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004310471",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009089398",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 238
   }
 ]
