@@ -130782,5 +130782,447 @@
     "tier": "basic",
     "publisher": "白水社",
     "pages": 250
+  },
+  {
+    "book_id": "isbn-9784102056073",
+    "title": "イーストウィックの魔女たち",
+    "author": "ジョン・アップダイク",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102056073",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002089628",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 470
+  },
+  {
+    "book_id": "isbn-9784003279021",
+    "title": "遊戯の終わり",
+    "author": "コルタサル",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003279021",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023679898",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 260
+  },
+  {
+    "book_id": "isbn-9784560027295",
+    "title": "移民たち",
+    "author": "W・G・ゼーバルト",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784560027295",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007932340",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白水社",
+    "pages": 268
+  },
+  {
+    "book_id": "isbn-9784560027318",
+    "title": "土星の環",
+    "author": "W・G・ゼーバルト",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784560027318",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008834680",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白水社",
+    "pages": 289
+  },
+  {
+    "book_id": "isbn-9784309207698",
+    "title": "モロイ",
+    "author": "ベケット",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309207698",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029673909",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 316
+  },
+  {
+    "book_id": "isbn-9784309468259",
+    "title": "男も女もみんなフェミニストでなきゃ",
+    "author": "チママンダ・ンゴズィ・アディーチェ",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309468259",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034472991",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 144
+  },
+  {
+    "book_id": "isbn-9784003280317",
+    "title": "マイケル・K",
+    "author": "J・M・クッツェー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003280317",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026267118",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 311
+  },
+  {
+    "book_id": "isbn-9784003279229",
+    "title": "創造者",
+    "author": "J・L・ボルヘス",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003279229",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010334637",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 206
+  },
+  {
+    "book_id": "isbn-9784560044629",
+    "title": "イン・ザ・ペニー・アーケード",
+    "author": "スティーヴン・ミルハウザー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784560044629",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002044228",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白水社",
+    "pages": 257
+  },
+  {
+    "book_id": "isbn-9784488805067",
+    "title": "ナイフ投げ師",
+    "author": "スティーヴン・ミルハウザー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488805067",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034186619",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784152079299",
+    "title": "スーラ",
+    "author": "トニ・モリスン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784152079299",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002422304",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784152078735",
+    "title": "ソロモンの歌",
+    "author": "トニ・モリスン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784152078735",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002355700",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 370
+  },
+  {
+    "book_id": "isbn-9784102191118",
+    "title": "イギリス人の患者",
+    "author": "マイケル・オンダーチェ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102191118",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002776310",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 392
+  },
+  {
+    "book_id": "isbn-9784309464244",
+    "title": "青い脂",
+    "author": "ウラジーミル・ソローキン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309464244",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027205502",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 623
+  },
+  {
+    "book_id": "isbn-9784122070110",
+    "title": "ロボット",
+    "author": "カレル・チャペック",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122070110",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030805078",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 233
+  },
+  {
+    "book_id": "isbn-9784152098290",
+    "title": "ビール・ストリートの恋人たち",
+    "author": "ジェイムズ・ボールドウィン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784152098290",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029431367",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 284
+  },
+  {
+    "book_id": "isbn-9784105900854",
+    "title": "いちばんここに似合う人",
+    "author": "ミランダ・ジュライ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784105900854",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010970287",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 282
   }
 ]
