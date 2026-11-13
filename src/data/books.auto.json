@@ -55057,32 +55057,6 @@
     "pages": 284
   },
   {
-    "book_id": "isbn-9784906638093",
-    "title": "バビロンの大富豪",
-    "author": "ジョージ・S・クレイソン",
-    "genres": [
-      "practical"
-    ],
-    "themes": [
-      "practical"
-    ],
-    "moods": [
-      "learning"
-    ],
-    "difficulty": "normal",
-    "length_category": "medium",
-    "description": "",
-    "recommendation_reasons": [],
-    "cover_image_url": null,
-    "purchase_url": null,
-    "isbn": "9784906638093",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002939808",
-    "metadata_verified": true,
-    "tier": "basic",
-    "publisher": "キングベアー出版",
-    "pages": 252
-  },
-  {
     "book_id": "isbn-9784939103292",
     "title": "賢明なる投資家",
     "author": "ベンジャミン・グレアム",
@@ -55142,7 +55116,8 @@
       "practical"
     ],
     "themes": [
-      "practical"
+      "practical",
+      "life"
     ],
     "moods": [
       "learning"
@@ -144300,5 +144275,596 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 316
+  },
+  {
+    "book_id": "isbn-9784480087096",
+    "title": "最後の親鸞",
+    "author": "吉本隆明",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480087096",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003682836",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 238
+  },
+  {
+    "book_id": "isbn-9784062920094",
+    "title": "クビライの挑戦",
+    "author": "杉山正明",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062920094",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010961086",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 299
+  },
+  {
+    "book_id": "isbn-9784167918057",
+    "title": "ナナメの夕暮れ",
+    "author": "若林正恭",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167918057",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031804072",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 266
+  },
+  {
+    "book_id": "isbn-9784167225025",
+    "title": "新解さんの謎",
+    "author": "赤瀬川原平",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167225025",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002782188",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784006032968",
+    "title": "ボタン穴から見た戦争",
+    "author": "スヴェトラーナ・アレクシエーヴィチ",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784006032968",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027071248",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 359
+  },
+  {
+    "book_id": "isbn-9784314011761",
+    "title": "生きるということ",
+    "author": "エーリッヒ・フロム",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784314011761",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030546501",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "紀伊國屋書店",
+    "pages": 290
+  },
+  {
+    "book_id": "isbn-9784062578271",
+    "title": "大栗先生の超弦理論入門",
+    "author": "大栗博司",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062578271",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024727020",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 286
+  },
+  {
+    "book_id": "isbn-9784594075583",
+    "title": "乱読のセレンディピティ",
+    "author": "外山滋比古",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784594075583",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027605062",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "扶桑社",
+    "pages": 227
+  },
+  {
+    "book_id": "isbn-9784334752699",
+    "title": "実践理性批判",
+    "author": "カント",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334752699",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024350172",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 362
+  },
+  {
+    "book_id": "isbn-9784094080094",
+    "title": "ウメ子",
+    "author": "阿川佐和子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094080094",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003077708",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 265
+  },
+  {
+    "book_id": "isbn-9784101482279",
+    "title": "セラピスト",
+    "author": "最相葉月",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101482279",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027600449",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 509
+  },
+  {
+    "book_id": "isbn-9784582284546",
+    "title": "異形の王権",
+    "author": "網野善彦",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784582284546",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001825069",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "平凡社",
+    "pages": 217
+  },
+  {
+    "book_id": "isbn-9784101164731",
+    "title": "ネコはどうしてわがままか",
+    "author": "日高敏隆",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101164731",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009369590",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 236
+  },
+  {
+    "book_id": "isbn-9784167263041",
+    "title": "疵",
+    "author": "本田靖春",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167263041",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001856335",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 273
+  },
+  {
+    "book_id": "isbn-9784101311036",
+    "title": "河童が覗いたインド",
+    "author": "妹尾河童",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101311036",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002098899",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 289
+  },
+  {
+    "book_id": "isbn-9784120018855",
+    "title": "マタギ",
+    "author": "矢口高雄",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784120018855",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002050508",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 795
+  },
+  {
+    "book_id": "isbn-9784861276422",
+    "title": "あまんちゅ!",
+    "author": "天野こずえ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784861276422",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010544900",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "マッグガーデン",
+    "pages": 176
+  },
+  {
+    "book_id": "isbn-9784840103022",
+    "title": "アップルシード",
+    "author": "士郎正宗",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784840103022",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003065589",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "メディアファクトリー",
+    "pages": 182
+  },
+  {
+    "book_id": "isbn-9784098623389",
+    "title": "あぶさん",
+    "author": "水島新司",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784098623389",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032951774",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 206
+  },
+  {
+    "book_id": "isbn-9784091910318",
+    "title": "闇のパープル・アイ",
+    "author": "篠原千絵",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091910318",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002379296",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784103512141",
+    "title": "ぼくのお父さん",
+    "author": "矢部太郎",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784103512141",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031490565",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 125
+  },
+  {
+    "book_id": "isbn-9784845848683",
+    "title": "サバイバル",
+    "author": "さいとう・たかを",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784845848683",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027101789",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "リイド社",
+    "pages": 182
   }
 ]
