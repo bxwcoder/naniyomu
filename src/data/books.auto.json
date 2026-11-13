@@ -163864,5 +163864,370 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 217
+  },
+  {
+    "book_id": "isbn-9784121600011",
+    "title": "史記列伝",
+    "author": "司馬遷",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121600011",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003015117",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 388
+  },
+  {
+    "book_id": "isbn-9784198926342",
+    "title": "金瓶梅",
+    "author": "笑笑生",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198926342",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008604347",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 620
+  },
+  {
+    "book_id": "isbn-9784003204016",
+    "title": "聊斎志異",
+    "author": "蒲松齢",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003204016",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002547214",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 467
+  },
+  {
+    "book_id": "isbn-9784003200919",
+    "title": "唐詩選",
+    "author": "李攀竜",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003200919",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002944286",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 386
+  },
+  {
+    "book_id": "isbn-9784003200513",
+    "title": "李白詩選",
+    "author": "李白",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003200513",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002570871",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 397
+  },
+  {
+    "book_id": "isbn-9784003204412",
+    "title": "白楽天詩選",
+    "author": "白居易",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003204412",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011244355",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 424
+  },
+  {
+    "book_id": "isbn-9784256803769",
+    "title": "ラーマーヤナ",
+    "author": "ヴァールミーキ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784256803769",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028065600",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "平凡社",
+    "pages": 350
+  },
+  {
+    "book_id": "isbn-9784003206416",
+    "title": "シャクンタラー姫",
+    "author": "カーリダーサ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003206416",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I10111100085362",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 235
+  },
+  {
+    "book_id": "isbn-9784334751791",
+    "title": "故郷",
+    "author": "魯迅",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334751791",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010084802",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 341
+  },
+  {
+    "book_id": "isbn-9784582828801",
+    "title": "傾城の恋",
+    "author": "張愛玲",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784582828801",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002405321",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "平凡社",
+    "pages": 246
+  },
+  {
+    "book_id": "isbn-9784087734003",
+    "title": "霊山",
+    "author": "高行健",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087734003",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004262742",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 553
+  },
+  {
+    "book_id": "isbn-9784122053663",
+    "title": "白檀の刑",
+    "author": "莫言",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122053663",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011020777",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 417
+  },
+  {
+    "book_id": "isbn-9784120042409",
+    "title": "蛙鳴",
+    "author": "莫言",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784120042409",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011218210",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 476
+  },
+  {
+    "book_id": "isbn-9784560090206",
+    "title": "河・岸",
+    "author": "蘇童",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784560090206",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023386493",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白水社",
+    "pages": 369
   }
 ]
