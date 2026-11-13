@@ -65629,7 +65629,8 @@
       "novel"
     ],
     "themes": [
-      "life"
+      "mystery",
+      "imagination"
     ],
     "moods": [
       "moving"
@@ -141740,7 +141741,7 @@
       "imagination"
     ],
     "moods": [
-      "absorbing",
+      "moving",
       "wonder"
     ],
     "difficulty": "normal",
@@ -143486,5 +143487,844 @@
     "tier": "basic",
     "publisher": "岩波書店",
     "pages": 320
+  },
+  {
+    "book_id": "isbn-9784061832992",
+    "title": "焦茶色のパステル",
+    "author": "岡嶋二人",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061832992",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001693682",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 384
+  },
+  {
+    "book_id": "isbn-9784061842410",
+    "title": "チョコレートゲーム",
+    "author": "岡嶋二人",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061842410",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001926998",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 279
+  },
+  {
+    "book_id": "isbn-9784488408022",
+    "title": "陽気な容疑者たち",
+    "author": "天藤真",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488408022",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002391970",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 282
+  },
+  {
+    "book_id": "isbn-9784041059357",
+    "title": "幻夏",
+    "author": "太田愛",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041059357",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028410746",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 487
+  },
+  {
+    "book_id": "isbn-9784094065329",
+    "title": "ガラパゴス",
+    "author": "相場英雄",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094065329",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029048103",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 342
+  },
+  {
+    "book_id": "isbn-9784167906306",
+    "title": "黄金の烏",
+    "author": "阿部智里",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167906306",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027320873",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 376
+  },
+  {
+    "book_id": "isbn-9784043852031",
+    "title": "フライ,ダディ,フライ",
+    "author": "金城一紀",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043852031",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010123424",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 246
+  },
+  {
+    "book_id": "isbn-9784094083088",
+    "title": "恋愛寫眞",
+    "author": "市川拓司",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094083088",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009695866",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 316
+  },
+  {
+    "book_id": "isbn-9784150305383",
+    "title": "バーにかかってきた電話",
+    "author": "東直己",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150305383",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002470871",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 370
+  },
+  {
+    "book_id": "isbn-9784101214368",
+    "title": "デカルトの密室",
+    "author": "瀬名秀明",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101214368",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009369555",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 617
+  },
+  {
+    "book_id": "isbn-9784041025024",
+    "title": "インフェルノ",
+    "author": "ダン・ブラウン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041025024",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027098133",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 305
+  },
+  {
+    "book_id": "isbn-9784041004432",
+    "title": "ロスト・シンボル",
+    "author": "ダン・ブラウン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041004432",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023855412",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 334
+  },
+  {
+    "book_id": "isbn-9784150102135",
+    "title": "火星人ゴーホーム",
+    "author": "フレドリック・ブラウン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150102135",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I11141109959574",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 288
+  },
+  {
+    "book_id": "isbn-9784915512407",
+    "title": "ハリー・ポッターとアズカバンの囚人",
+    "author": "J・K・ローリング",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784915512407",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003005555",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "静山社",
+    "pages": 574
+  },
+  {
+    "book_id": "isbn-9784122073692",
+    "title": "持続可能な魂の利用",
+    "author": "松田青子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122073692",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032810218",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 273
+  },
+  {
+    "book_id": "isbn-9784750517254",
+    "title": "シソンから、",
+    "author": "チョン・セラン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784750517254",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031864896",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "亜紀書房",
+    "pages": 358
+  },
+  {
+    "book_id": "isbn-9784309464503",
+    "title": "ほんとうの中国の話をしよう",
+    "author": "余華",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309464503",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028459232",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 283
+  },
+  {
+    "book_id": "isbn-9784879843838",
+    "title": "プラヴィエクとそのほかの時代",
+    "author": "オルガ・トカルチュク",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784879843838",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030085728",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "松籟社",
+    "pages": 367
+  },
+  {
+    "book_id": "isbn-9787119026954",
+    "title": "吶喊",
+    "author": "魯迅",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9787119026954",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I42111000000053741",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "外文出版社",
+    "pages": 443
+  },
+  {
+    "book_id": "isbn-9784087733952",
+    "title": "ヒューマン・ステイン",
+    "author": "フィリップ・ロス",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087733952",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007348131",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 462
+  },
+  {
+    "book_id": "isbn-9784059000433",
+    "title": "勝手に生きろ!",
+    "author": "チャールズ・ブコウスキー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784059000433",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002987024",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "学習研究社",
+    "pages": 270
+  },
+  {
+    "book_id": "isbn-9784152094919",
+    "title": "そして山々はこだました",
+    "author": "カーレド・ホッセイニ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784152094919",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025843003",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 266
+  },
+  {
+    "book_id": "isbn-9784065452974",
+    "title": "楽園の夕べ",
+    "author": "ルシア・ベルリン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065452974",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034958455",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 447
+  },
+  {
+    "book_id": "isbn-9784105900588",
+    "title": "林檎の木の下で",
+    "author": "アリス・マンロー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784105900588",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008501828",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 429
+  },
+  {
+    "book_id": "isbn-9784334754549",
+    "title": "イタリア紀行",
+    "author": "ゲーテ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334754549",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031823552",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 695
+  },
+  {
+    "book_id": "isbn-9784061335219",
+    "title": "ルドルフといくねこくるねこ",
+    "author": "斉藤洋",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061335219",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003067549",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 228
+  },
+  {
+    "book_id": "isbn-9784167916008",
+    "title": "アンの夢の家",
+    "author": "モンゴメリ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167916008",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030698788",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 510
+  },
+  {
+    "book_id": "isbn-9784003243237",
+    "title": "ドゥイノの悲歌",
+    "author": "リルケ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003243237",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010696855",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 232
+  },
+  {
+    "book_id": "isbn-9784102118030",
+    "title": "一年ののち",
+    "author": "サガン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102118030",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I11141123553726",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 139
+  },
+  {
+    "book_id": "isbn-9784488583033",
+    "title": "丘の屋敷",
+    "author": "シャーリイ・ジャクスン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488583033",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010151703",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 332
+  },
+  {
+    "book_id": "isbn-9784488206031",
+    "title": "レイチェル",
+    "author": "ダフネ・デュ・モーリア",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488206031",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007405085",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 502
+  },
+  {
+    "book_id": "isbn-9784105900922",
+    "title": "メモリー・ウォール",
+    "author": "アンソニー・ドーア",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784105900922",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011306926",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 316
   }
 ]
