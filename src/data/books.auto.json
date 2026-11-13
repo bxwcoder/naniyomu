@@ -158118,5 +158118,409 @@
     "tier": "basic",
     "publisher": "中央公論新社",
     "pages": 372
+  },
+  {
+    "book_id": "isbn-9784758431248",
+    "title": "男たちの大和",
+    "author": "辺見じゅん",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784758431248",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007676684",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 381
+  },
+  {
+    "book_id": "isbn-9784101372525",
+    "title": "原節子の真実",
+    "author": "石井妙子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101372525",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029438595",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 433
+  },
+  {
+    "book_id": "isbn-9784480428264",
+    "title": "転落の歴史に何を見るか",
+    "author": "齋藤健",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480428264",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011181013",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 232
+  },
+  {
+    "book_id": "isbn-9784101316406",
+    "title": "甘粕正彦 乱心の曠野",
+    "author": "佐野眞一",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101316406",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011021189",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 608
+  },
+  {
+    "book_id": "isbn-9784101316314",
+    "title": "カリスマ",
+    "author": "佐野眞一",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101316314",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002996996",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 463
+  },
+  {
+    "book_id": "isbn-9784094072358",
+    "title": "つけびの村",
+    "author": "高橋ユキ",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094072358",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032666307",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 333
+  },
+  {
+    "book_id": "isbn-9784569846996",
+    "title": "ルポ 外国人ぎらい",
+    "author": "宮下洋一",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784569846996",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030442128",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "PHP研究所",
+    "pages": 213
+  },
+  {
+    "book_id": "isbn-9784094070279",
+    "title": "安楽死を遂げるまで",
+    "author": "宮下洋一",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094070279",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031457455",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 425
+  },
+  {
+    "book_id": "isbn-9784087446333",
+    "title": "エンド・オブ・ライフ",
+    "author": "佐々涼子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087446333",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033417459",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 321
+  },
+  {
+    "book_id": "isbn-9784916110466",
+    "title": "ふたりからひとり",
+    "author": "つばた英子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784916110466",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027728508",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "自然食通信社",
+    "pages": 256
+  },
+  {
+    "book_id": "isbn-9784004314875",
+    "title": "ドキュメント 豪雨災害",
+    "author": "稲泉連",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004314875",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025476628",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 206
+  },
+  {
+    "book_id": "isbn-9784167838706",
+    "title": "こんな夜更けにバナナかよ",
+    "author": "渡辺一史",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167838706",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024622221",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 558
+  },
+  {
+    "book_id": "isbn-9784087457070",
+    "title": "牛と土",
+    "author": "眞並恭介",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087457070",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028791696",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 314
+  },
+  {
+    "book_id": "isbn-9784620211091",
+    "title": "ある行旅死亡人の物語",
+    "author": "武田惇志",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784620211091",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034951981",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "毎日新聞出版",
+    "pages": 276
+  },
+  {
+    "book_id": "isbn-9784087211863",
+    "title": "ルポ 森のようちえん",
+    "author": "おおたとしまさ",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087211863",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031710549",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 220
   }
 ]
