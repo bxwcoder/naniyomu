@@ -150864,5 +150864,841 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 205
+  },
+  {
+    "book_id": "isbn-9784535557567",
+    "title": "ミクロ経済学の力",
+    "author": "神取道宏",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784535557567",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025772446",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日本評論社",
+    "pages": 537
+  },
+  {
+    "book_id": "isbn-9784121018243",
+    "title": "経済学的思考のセンス",
+    "author": "大竹文雄",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121018243",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008036219",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 232
+  },
+  {
+    "book_id": "isbn-9784121020451",
+    "title": "競争と公平感",
+    "author": "大竹文雄",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121020451",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010828423",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 245
+  },
+  {
+    "book_id": "isbn-9784004317951",
+    "title": "行動経済学の使い方",
+    "author": "大竹文雄",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004317951",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029878212",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 201
+  },
+  {
+    "book_id": "isbn-9784757123670",
+    "title": "ナッジで、人を動かす",
+    "author": "キャス・サンスティーン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784757123670",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030628267",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "NTT出版",
+    "pages": 307
+  },
+  {
+    "book_id": "isbn-9784532147198",
+    "title": "グローバル資本主義の危機",
+    "author": "ジョージ・ソロス",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784532147198",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002752610",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日本経済新聞社",
+    "pages": 358
+  },
+  {
+    "book_id": "isbn-9784492443514",
+    "title": "暴走する資本主義",
+    "author": "ロバート・B・ライシュ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784492443514",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009384732",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東洋経済新報社",
+    "pages": 379
+  },
+  {
+    "book_id": "isbn-9784152099105",
+    "title": "自由の命運",
+    "author": "ダロン・アセモグル",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784152099105",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030182298",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 417
+  },
+  {
+    "book_id": "isbn-9784622078708",
+    "title": "大脱出",
+    "author": "アンガス・ディートン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784622078708",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025843213",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "みすず書房",
+    "pages": 351
+  },
+  {
+    "book_id": "isbn-9784622089636",
+    "title": "絶望死のアメリカ",
+    "author": "アン・ケース",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784622089636",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031206552",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "みすず書房",
+    "pages": 291
+  },
+  {
+    "book_id": "isbn-9784309229430",
+    "title": "NEXUS 情報の人類史",
+    "author": "ユヴァル・ノア・ハラリ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309229430",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033952303",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 261
+  },
+  {
+    "book_id": "isbn-9784334100599",
+    "title": "万物の黎明",
+    "author": "デヴィッド・グレーバー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334100599",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033034404",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 643
+  },
+  {
+    "book_id": "isbn-9784826902540",
+    "title": "WEIRD「現代人」の奇妙な心理",
+    "author": "ジョセフ・ヘンリック",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784826902540",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033209698",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白揚社",
+    "pages": 429
+  },
+  {
+    "book_id": "isbn-9784826902113",
+    "title": "文化がヒトを進化させた",
+    "author": "ジョセフ・ヘンリック",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784826902113",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029773689",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白揚社",
+    "pages": 605
+  },
+  {
+    "book_id": "isbn-9784757160804",
+    "title": "善と悪のパラドックス",
+    "author": "リチャード・ランガム",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784757160804",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030675541",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "NTT出版",
+    "pages": 464
+  },
+  {
+    "book_id": "isbn-9784757160477",
+    "title": "火の賜物",
+    "author": "リチャード・ランガム",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784757160477",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010822836",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "NTT出版",
+    "pages": 266
+  },
+  {
+    "book_id": "isbn-9784062882194",
+    "title": "宇宙はなぜこのような宇宙なのか",
+    "author": "青木薫",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062882194",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024658386",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 253
+  },
+  {
+    "book_id": "isbn-9784065020067",
+    "title": "宇宙に「終わり」はあるのか",
+    "author": "吉田伸夫",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065020067",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027957289",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 280
+  },
+  {
+    "book_id": "isbn-9784062577281",
+    "title": "ゼロからわかるブラックホール",
+    "author": "大須賀健",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062577281",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011214326",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 266
+  },
+  {
+    "book_id": "isbn-9784121025074",
+    "title": "宇宙はどこまで行けるか",
+    "author": "小泉宏之",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121025074",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029202768",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 309
+  },
+  {
+    "book_id": "isbn-9784344980150",
+    "title": "はやぶさ",
+    "author": "吉田武",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344980150",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008392833",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 295
+  },
+  {
+    "book_id": "isbn-9784004316480",
+    "title": "系外惑星と太陽系",
+    "author": "井田茂",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004316480",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027957264",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 200
+  },
+  {
+    "book_id": "isbn-9784121023988",
+    "title": "地球の歴史",
+    "author": "鎌田浩毅",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121023988",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027642813",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 259
+  },
+  {
+    "book_id": "isbn-9784065160435",
+    "title": "富士山噴火と南海トラフ",
+    "author": "鎌田浩毅",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065160435",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029653557",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 270
+  },
+  {
+    "book_id": "isbn-9784004301486",
+    "title": "日本列島の誕生",
+    "author": "平朝彦",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004301486",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002079063",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 226
+  },
+  {
+    "book_id": "isbn-9784167651725",
+    "title": "恐竜はなぜ鳥に進化したのか",
+    "author": "ピーター・D・ウォード",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167651725",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011007564",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 425
+  },
+  {
+    "book_id": "isbn-9784005009497",
+    "title": "進化の謎をとく発生学",
+    "author": "田村宏治",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784005009497",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031992237",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 178
+  },
+  {
+    "book_id": "isbn-9784000062848",
+    "title": "生命の起源はどこまでわかったか",
+    "author": "高井研",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784000062848",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028840067",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 206
+  },
+  {
+    "book_id": "isbn-9784065215661",
+    "title": "細胞とはなんだろう",
+    "author": "武村政春",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065215661",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030680379",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784062578011",
+    "title": "新しいウイルス入門",
+    "author": "武村政春",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062578011",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024168787",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 228
+  },
+  {
+    "book_id": "isbn-9784065277669",
+    "title": "遺伝子とは何か",
+    "author": "中屋敷均",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065277669",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032068935",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 270
   }
 ]

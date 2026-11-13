@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-13T16:09:35.582Z
-- 候補：6216冊
-- 入れた本：5671冊
-- 入れなかった本：545冊
+- 検索日時：2026-11-13T16:23:27.282Z
+- 候補：6249冊
+- 入れた本：5702冊
+- 入れなかった本：547冊
 
 ## 入れなかった本
 
@@ -552,6 +552,8 @@
 - 冷戦／ジョン・L・ギャディス（教養の定番）：タイトルが同じで ISBN のある記録がない
 - アヘン戦争／陳舜臣（教養の定番）：タイトルが同じで ISBN のある記録がない
 - 家族関係を考える／河合隼雄（教養の定番）：タイトルが同じで ISBN のある記録がない
+- 量子コンピュータが本当にすごい／竹内薫（教養の定番）：著者が合う記録がない
+- 免疫の守護者／坂口志文（教養の定番）：タイトルが同じで ISBN のある記録がない
 
 ## 入れた本と選んだ版
 
@@ -6226,3 +6228,34 @@
 - しがみつかない生き方：幻冬舎新書 ; 132／幻冬舎／2009.7／204p／NDC 159／practical・normal・short
 - 自分を好きになる方法：講談社文庫 ; も48-5／講談社／2016.6／200p／NDC 913.6／novel・easy・short
 - 不機嫌な職場：講談社現代新書／講談社／2008.1／205p／NDC 336.49／practical・normal・short
+- ミクロ経済学の力：叢書なし／日本評論社／2014.9／537p／NDC 331／liberal_arts・normal・long
+- 経済学的思考のセンス：中公新書／中央公論新社／2005.12／232p／NDC 331.04／liberal_arts・normal・short
+- 競争と公平感：中公新書 ; 2045／中央公論新社／2010.3／245p／NDC 331.845／liberal_arts・normal・short
+- 行動経済学の使い方：岩波新書 新赤版 ; 1795／岩波書店／2019.9／201,23p／NDC 331／liberal_arts・normal・short
+- ナッジで、人を動かす：叢書なし／NTT出版／2020.9／307,33p／NDC 301／liberal_arts・normal・medium
+- グローバル資本主義の危機：叢書なし／日本経済新聞社／1999.1／358p／NDC 338.9／practical・normal・medium
+- 暴走する資本主義：叢書なし／東洋経済新報社／2008.6／379p／NDC 332.53／liberal_arts・normal・medium
+- 自由の命運：叢書なし／早川書房／2020.1／417p／NDC 313.2／liberal_arts・normal・long
+- 大脱出：叢書なし／みすず書房／2014.10／351,21p／NDC 331.85／liberal_arts・normal・medium
+- 絶望死のアメリカ：叢書なし／みすず書房／2021.1／291,38p／NDC 366.0253／liberal_arts・normal・medium
+- NEXUS 情報の人類史：叢書なし／河出書房新社／2025.3／261,40p／NDC 007.3／liberal_arts・normal・long
+- 万物の黎明：叢書なし／光文社／2023.9／643,55p／NDC 201.1／liberal_arts・normal・long
+- WEIRD「現代人」の奇妙な心理：叢書なし／白揚社／2023.12／429p／NDC 230／liberal_arts・normal・long
+- 文化がヒトを進化させた：叢書なし／白揚社／2019.7／605p／NDC 469／liberal_arts・normal・long
+- 善と悪のパラドックス：叢書なし／NTT出版／2020.10／464p／NDC 469.2／liberal_arts・normal・long
+- 火の賜物：叢書なし／NTT出版／2010.3／266p／NDC 469.2／liberal_arts・normal・medium
+- 宇宙はなぜこのような宇宙なのか：講談社現代新書 ; 2219／講談社／2013.7／253p／NDC 443.9／liberal_arts・normal・medium
+- 宇宙に「終わり」はあるのか：ブルーバックス ; B-2006／講談社／2017.2／280p／NDC 443.9／liberal_arts・normal・medium
+- ゼロからわかるブラックホール：ブルーバックス ; B-1728／講談社／2011.6／266, 3p／NDC 443.5／liberal_arts・normal・medium
+- 宇宙はどこまで行けるか：中公新書 ; 2507／中央公論新社／2018.9／309p／NDC 538.9／liberal_arts・normal・medium
+- はやぶさ：幻冬舎新書／幻冬舎／2006.11／295p／NDC 538.9／liberal_arts・normal・medium
+- 系外惑星と太陽系：岩波新書 新赤版 ; 1648／岩波書店／2017.2／200p／NDC 445／liberal_arts・normal・short
+- 地球の歴史：中公新書 ; 2398／中央公論新社／2016.10／259p／NDC 450／liberal_arts・normal・long
+- 富士山噴火と南海トラフ：ブルーバックス ; B-2094／講談社／2019.5／270p／NDC 453.82151／liberal_arts・normal・medium
+- 日本列島の誕生：岩波新書／岩波書店／1990.11／226p／NDC 455.1／liberal_arts・normal・short
+- 恐竜はなぜ鳥に進化したのか：文春文庫 ; S5-1／文藝春秋／2010.10／425p／NDC 457.8／liberal_arts・normal・medium
+- 進化の謎をとく発生学：岩波ジュニア新書 ; 949／岩波書店／2022.3／178p／NDC 481.2／liberal_arts・normal・short
+- 生命の起源はどこまでわかったか：叢書なし／岩波書店／2018.3／206p／NDC 461.6／liberal_arts・normal・short
+- 細胞とはなんだろう：ブルーバックス ; B-2154／講談社／2020.10／254p／NDC 463／liberal_arts・normal・medium
+- 新しいウイルス入門：ブルーバックス ; B-1801／講談社／2013.1／228p／NDC 465.8／liberal_arts・normal・short
+- 遺伝子とは何か：ブルーバックス ; B-2198／講談社／2022.4／270p／NDC 467.2／liberal_arts・normal・medium
