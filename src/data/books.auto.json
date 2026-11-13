@@ -155228,5 +155228,532 @@
     "tier": "basic",
     "publisher": "恒文社",
     "pages": 259
+  },
+  {
+    "book_id": "isbn-9784062900836",
+    "title": "ゴーストバスターズ",
+    "author": "高橋源一郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062900836",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010836114",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 403
+  },
+  {
+    "book_id": "isbn-9784062730570",
+    "title": "アメリカの夜",
+    "author": "阿部和重",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062730570",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002954595",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 196
+  },
+  {
+    "book_id": "isbn-9784022648532",
+    "title": "ウエストウイング",
+    "author": "津村記久子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022648532",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028376447",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 419
+  },
+  {
+    "book_id": "isbn-9784167693039",
+    "title": "パラレル",
+    "author": "長嶋有",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167693039",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008571666",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 229
+  },
+  {
+    "book_id": "isbn-9784062773072",
+    "title": "宿屋めぐり",
+    "author": "町田康",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062773072",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023766925",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 746
+  },
+  {
+    "book_id": "isbn-9784408553139",
+    "title": "星々たち",
+    "author": "桜木紫乃",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784408553139",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027602861",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "実業之日本社",
+    "pages": 279
+  },
+  {
+    "book_id": "isbn-9784122049697",
+    "title": "告白",
+    "author": "町田康",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122049697",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009317004",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 850
+  },
+  {
+    "book_id": "isbn-9784101168289",
+    "title": "父と暮せば",
+    "author": "井上ひさし",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101168289",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002955866",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 126
+  },
+  {
+    "book_id": "isbn-9784061852662",
+    "title": "四千万歩の男",
+    "author": "井上ひさし",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061852662",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002220881",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 663
+  },
+  {
+    "book_id": "isbn-9784811372365",
+    "title": "ブンとフン",
+    "author": "井上ひさし",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784811372365",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002726570",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "汐文社",
+    "pages": 228
+  },
+  {
+    "book_id": "isbn-9784803912111",
+    "title": "白き山",
+    "author": "斎藤茂吉",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784803912111",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I06111101462367",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "短歌新聞社",
+    "pages": 136
+  },
+  {
+    "book_id": "isbn-9784803907599",
+    "title": "別離",
+    "author": "若山牧水",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784803907599",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002462410",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "短歌新聞社",
+    "pages": 130
+  },
+  {
+    "book_id": "isbn-9784000072533",
+    "title": "墨汁一滴",
+    "author": "正岡子規",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784000072533",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007694704",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 170
+  },
+  {
+    "book_id": "isbn-9784003600429",
+    "title": "仰臥漫録",
+    "author": "正岡子規",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003600429",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032113186",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 217
+  },
+  {
+    "book_id": "isbn-9784860373092",
+    "title": "草木塔",
+    "author": "種田山頭火",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784860373092",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031731754",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "創風社出版",
+    "pages": 208
+  },
+  {
+    "book_id": "isbn-9784480029409",
+    "title": "山頭火句集",
+    "author": "種田山頭火",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480029409",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002553211",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 396
+  },
+  {
+    "book_id": "isbn-9784003117811",
+    "title": "尾崎放哉句集",
+    "author": "尾崎放哉",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003117811",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008857374",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 201
+  },
+  {
+    "book_id": "isbn-9784783700791",
+    "title": "定義",
+    "author": "谷川俊太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784783700791",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002267207",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "思潮社",
+    "pages": 73
+  },
+  {
+    "book_id": "isbn-9784758441292",
+    "title": "食卓一期一会",
+    "author": "長田弘",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784758441292",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028608208",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 201
+  },
+  {
+    "book_id": "isbn-9784061963870",
+    "title": "測量船",
+    "author": "三好達治",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061963870",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002531295",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 226
   }
 ]
