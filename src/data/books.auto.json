@@ -165798,5 +165798,545 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 427
+  },
+  {
+    "book_id": "isbn-9784041141038",
+    "title": "無常という事",
+    "author": "小林秀雄",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041141038",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I01211001000647070",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 218
+  },
+  {
+    "book_id": "isbn-9784106435416",
+    "title": "様々なる意匠",
+    "author": "小林秀雄",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784106435416",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909841137670",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784061962439",
+    "title": "成熟と喪失",
+    "author": "江藤淳",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061962439",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002288376",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 301
+  },
+  {
+    "book_id": "isbn-9784167366087",
+    "title": "閉された言語空間",
+    "author": "江藤淳",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167366087",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002300043",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 371
+  },
+  {
+    "book_id": "isbn-9784062901901",
+    "title": "マス・イメージ論",
+    "author": "吉本隆明",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062901901",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024282636",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 364
+  },
+  {
+    "book_id": "isbn-9784061340442",
+    "title": "雑種文化",
+    "author": "加藤周一",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061340442",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I11141123490413",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 251
+  },
+  {
+    "book_id": "isbn-9784480433381",
+    "title": "夕陽妄語",
+    "author": "加藤周一",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480433381",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027071233",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 446
+  },
+  {
+    "book_id": "isbn-9784006002329",
+    "title": "戦後日本の思想",
+    "author": "久野収",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784006002329",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010696804",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 349
+  },
+  {
+    "book_id": "isbn-9784582760699",
+    "title": "柳宗悦",
+    "author": "鶴見俊輔",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784582760699",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002371319",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "平凡社",
+    "pages": 320
+  },
+  {
+    "book_id": "isbn-9784061597792",
+    "title": "民藝とは何か",
+    "author": "柳宗悦",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061597792",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008297760",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 192
+  },
+  {
+    "book_id": "isbn-9784062923019",
+    "title": "手仕事の日本",
+    "author": "柳宗悦",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062923019",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026413899",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 253
+  },
+  {
+    "book_id": "isbn-9784061594531",
+    "title": "茶と美",
+    "author": "柳宗悦",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061594531",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002937778",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 364
+  },
+  {
+    "book_id": "isbn-9784000070386",
+    "title": "南無阿弥陀仏",
+    "author": "柳宗悦",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784000070386",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002123123",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 342
+  },
+  {
+    "book_id": "isbn-9784061580954",
+    "title": "日本の美を求めて",
+    "author": "東山魁夷",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061580954",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I10111100085571",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 119
+  },
+  {
+    "book_id": "isbn-9784106436031",
+    "title": "風景との対話",
+    "author": "東山魁夷",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784106436031",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970304959957254558",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784334783563",
+    "title": "日本の伝統",
+    "author": "岡本太郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334783563",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007727768",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 292
+  },
+  {
+    "book_id": "isbn-9784122026209",
+    "title": "沖縄文化論",
+    "author": "岡本太郎",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122026209",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002530716",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 261
+  },
+  {
+    "book_id": "isbn-9784101338125",
+    "title": "私小説 from left to right",
+    "author": "水村美苗",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101338125",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002715685",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 460
+  },
+  {
+    "book_id": "isbn-9784101338132",
+    "title": "本格小説",
+    "author": "水村美苗",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101338132",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008005489",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 605
+  },
+  {
+    "book_id": "isbn-9784101338118",
+    "title": "続明暗",
+    "author": "水村美苗",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101338118",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002284324",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 381
   }
 ]
