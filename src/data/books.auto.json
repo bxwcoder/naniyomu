@@ -144653,6 +144653,33 @@
     "pages": 273
   },
   {
+    "book_id": "isbn-9784103507222",
+    "title": "図書室",
+    "author": "岸政彦",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784103507222",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029741301",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 173
+  },
+  {
     "book_id": "isbn-9784101311036",
     "title": "河童が覗いたインド",
     "author": "妹尾河童",
