@@ -153584,5 +153584,627 @@
     "tier": "basic",
     "publisher": "岩波書店",
     "pages": 212
+  },
+  {
+    "book_id": "isbn-9784121905604",
+    "title": "文化人類学入門",
+    "author": "祖父江孝男",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121905604",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002164807",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 289
+  },
+  {
+    "book_id": "isbn-9784065328576",
+    "title": "はじめての人類学",
+    "author": "奥野克巳",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065328576",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032980503",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 230
+  },
+  {
+    "book_id": "isbn-9784101045719",
+    "title": "ありがとうもごめんなさいもいらない森の民と暮らして人類学者が考えたこと",
+    "author": "奥野克巳",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101045719",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032764190",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 377
+  },
+  {
+    "book_id": "isbn-9784750515953",
+    "title": "人類学とは何か",
+    "author": "ティム・インゴルド",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784750515953",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030322042",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "亜紀書房",
+    "pages": 187
+  },
+  {
+    "book_id": "isbn-9784061598812",
+    "title": "文化の型",
+    "author": "ルース・ベネディクト",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061598812",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009415228",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 402
+  },
+  {
+    "book_id": "isbn-9784062919852",
+    "title": "西太平洋の遠洋航海者",
+    "author": "マリノフスキ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062919852",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010789128",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 445
+  },
+  {
+    "book_id": "isbn-9784582762198",
+    "title": "ヌアー族",
+    "author": "E・E・エヴァンズ＝プリチャード",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784582762198",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002650236",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "平凡社",
+    "pages": 476
+  },
+  {
+    "book_id": "isbn-9784003421611",
+    "title": "金枝篇",
+    "author": "フレイザー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003421611",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002577515",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 306
+  },
+  {
+    "book_id": "isbn-9784150504526",
+    "title": "千の顔をもつ英雄",
+    "author": "ジョーゼフ・キャンベル",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150504526",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026975703",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 315
+  },
+  {
+    "book_id": "isbn-9784150503680",
+    "title": "神話の力",
+    "author": "ジョーゼフ・キャンベル",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150503680",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010905823",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 495
+  },
+  {
+    "book_id": "isbn-9784588099762",
+    "title": "聖と俗",
+    "author": "ミルチャ・エリアーデ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784588099762",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025117529",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "法政大学出版局",
+    "pages": 258
+  },
+  {
+    "book_id": "isbn-9784044083069",
+    "title": "日本の祭",
+    "author": "柳田国男",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784044083069",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024174468",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川学芸出版",
+    "pages": 267
+  },
+  {
+    "book_id": "isbn-9784044083090",
+    "title": "妖怪談義",
+    "author": "柳田国男",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784044083090",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024174425",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川学芸出版",
+    "pages": 333
+  },
+  {
+    "book_id": "isbn-9784044083182",
+    "title": "桃太郎の誕生",
+    "author": "柳田国男",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784044083182",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024739365",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川学芸出版",
+    "pages": 510
+  },
+  {
+    "book_id": "isbn-9784044001964",
+    "title": "古代研究",
+    "author": "折口信夫",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784044001964",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027772134",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 350
+  },
+  {
+    "book_id": "isbn-9784309411156",
+    "title": "山に生きる人びと",
+    "author": "宮本常一",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309411156",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011311390",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 256
+  },
+  {
+    "book_id": "isbn-9784044083038",
+    "title": "妖怪文化入門",
+    "author": "小松和彦",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784044083038",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023687284",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川学芸出版",
+    "pages": 255
+  },
+  {
+    "book_id": "isbn-9784004301011",
+    "title": "日本語と外国語",
+    "author": "鈴木孝夫",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004301011",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002028691",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 242
+  },
+  {
+    "book_id": "isbn-9784004200536",
+    "title": "日本語の文法を考える",
+    "author": "大野晋",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004200536",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I10111100057997",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 222
+  },
+  {
+    "book_id": "isbn-9784061580435",
+    "title": "日本語はどういう言語か",
+    "author": "三浦つとむ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061580435",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I11141106622994",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 278
+  },
+  {
+    "book_id": "isbn-9784062921206",
+    "title": "ソシュールを読む",
+    "author": "丸山圭三郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062921206",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023767003",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 373
+  },
+  {
+    "book_id": "isbn-9784065166796",
+    "title": "方言の地図帳",
+    "author": "佐藤亮一",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065166796",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029845168",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 459
+  },
+  {
+    "book_id": "isbn-9784062922838",
+    "title": "地名の研究",
+    "author": "柳田国男",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062922838",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026073606",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 310
   }
 ]

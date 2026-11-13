@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-13T16:59:59.236Z
-- 候補：6324冊
-- 入れた本：5772冊
-- 入れなかった本：552冊
+- 検索日時：2026-11-13T17:11:50.344Z
+- 候補：6349冊
+- 入れた本：5795冊
+- 入れなかった本：554冊
 
 ## 入れなかった本
 
@@ -559,6 +559,8 @@
 - ボクの音楽武者修行／小澤征爾（エッセイ定番）：タイトルが同じで ISBN のある記録がない
 - 自由民主党／中北浩爾（教養の定番）：著者が合う記録がない
 - 世論／ウォルター・リップマン（教養の定番）：著者が合う記録がない
+- サモアの思春期／マーガレット・ミード（教養の定番）：タイトルが同じで ISBN のある記録がない
+- 地図の歴史／織田武雄（教養の定番）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
 
 ## 入れた本と選んだ版
 
@@ -6334,3 +6336,26 @@
 - ルポ 教育困難校：朝日新書 ; 724／朝日新聞出版／2019.7／219p／NDC 376.41／nonfiction・normal・short
 - 日本の不平等：叢書なし／日本経済新聞社／2005.5／306p／NDC 331.86／liberal_arts・normal・medium
 - 格差社会：岩波新書／岩波書店／2006.9／212p／NDC 361.8／liberal_arts・normal・short
+- 文化人類学入門：中公新書／中央公論社／1991.11／289p／NDC 389／liberal_arts・normal・medium
+- はじめての人類学：講談社現代新書 ; 2718／講談社／2023.8／230p／NDC 389／liberal_arts・normal・short
+- ありがとうもごめんなさいもいらない森の民と暮らして人類学者が考えたこと：新潮文庫 ; お-113-1／新潮社／2023.5／377p／NDC 382.2435／liberal_arts・normal・medium
+- 人類学とは何か：叢書なし／亜紀書房／2020.3／187p／NDC 389／liberal_arts・normal・short
+- 文化の型：講談社学術文庫／講談社／2008.7／402p／NDC 389／liberal_arts・normal・medium
+- 西太平洋の遠洋航海者：講談社学術文庫 ; 1985／講談社／2010.3／445p／NDC 382.736／liberal_arts・normal・medium
+- ヌアー族：平凡社ライブラリー／平凡社／1997.10／476p／NDC 382.429／liberal_arts・normal・long
+- 金枝篇：岩波文庫／岩波書店／1996.6／306p／NDC 163／liberal_arts・normal・long
+- 千の顔をもつ英雄：ハヤカワ文庫 NF ; 452／早川書房／2015.12／315p／NDC 164／liberal_arts・normal・long
+- 神話の力：ハヤカワ文庫 ; NF368／早川書房／2010.6／495p／NDC 164／liberal_arts・normal・long
+- 聖と俗：叢書・ウニベルシタス ; 14／法政大学出版局／2014.1／258,15p／NDC 161／liberal_arts・normal・medium
+- 日本の祭：[角川ソフィア文庫] ; [SP J-102-9]／角川学芸出版、角川グループパブリッシング (発売)／2013.1／267p／NDC 386.1／liberal_arts・normal・medium
+- 妖怪談義：[角川ソフィア文庫] ; [SP J-102-3]／角川学芸出版、角川グループパブリッシング (発売)／2013.1／333p／NDC 387.91／liberal_arts・normal・medium
+- 桃太郎の誕生：[角川ソフィア文庫] ; [SP J-102-15]／角川学芸出版、KADOKAWA (発売)／2013.8／510p／NDC 388.1／liberal_arts・normal・long
+- 古代研究：[角川ソフィア文庫] ; [J119-1]／KADOKAWA／2016.12／350p／NDC 210.3／liberal_arts・normal・long
+- 山に生きる人びと：河出文庫 ; み19-1／河出書房新社／2011.11／256p／NDC 384.35／liberal_arts・normal・medium
+- 妖怪文化入門：[角川ソフィア文庫] ; [SP J-101-2]／角川学芸出版、角川グループパブリッシング (発売)／2012.6／255p／NDC 388.1／liberal_arts・normal・medium
+- 日本語と外国語：岩波新書／岩波書店／1990.1／242p／NDC 804／liberal_arts・normal・short
+- 日本語の文法を考える：岩波新書 黄版 ; 53／岩波書店／1979／222p ; 18cm／NDC 815／liberal_arts・normal・short
+- 日本語はどういう言語か：講談社学術文庫 ; ４３／講談社／１９８４．２／２７８ｐ ; １５ｃｍ／NDC 810.4／liberal_arts・normal・medium
+- ソシュールを読む：講談社学術文庫 ; 2120／講談社／2012.7／373p／NDC 801／liberal_arts・normal・medium
+- 方言の地図帳：講談社学術文庫 ; 2577／講談社／2019.8／459p／NDC 818／liberal_arts・normal・long
+- 地名の研究：講談社学術文庫 ; 2283／講談社／2015.2／310p／NDC 291.0189／nonfiction,liberal_arts・normal・medium
