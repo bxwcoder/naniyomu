@@ -76262,33 +76262,6 @@
     "pages": 463
   },
   {
-    "book_id": "isbn-9784003360712",
-    "title": "生の短さについて",
-    "author": "セネカ",
-    "genres": [
-      "liberal_arts"
-    ],
-    "themes": [
-      "world"
-    ],
-    "moods": [
-      "learning",
-      "wonder"
-    ],
-    "difficulty": "normal",
-    "length_category": "medium",
-    "description": "",
-    "recommendation_reasons": [],
-    "cover_image_url": null,
-    "purchase_url": null,
-    "isbn": "9784003360712",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010828944",
-    "metadata_verified": true,
-    "tier": "basic",
-    "publisher": "岩波書店",
-    "pages": 316
-  },
-  {
     "book_id": "isbn-9784062199445",
     "title": "哲学探究",
     "author": "ウィトゲンシュタイン",
@@ -146033,5 +146006,326 @@
     "tier": "basic",
     "publisher": "河出書房新社",
     "pages": 204
+  },
+  {
+    "book_id": "isbn-9784569762463",
+    "title": "インターネット的",
+    "author": "糸井重里",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784569762463",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025862648",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "PHP研究所",
+    "pages": 269
+  },
+  {
+    "book_id": "isbn-9784883204489",
+    "title": "メメント・モリ",
+    "author": "藤原新也",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784883204489",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009721948",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "三五館",
+    "pages": 172
+  },
+  {
+    "book_id": "isbn-9784334034696",
+    "title": "名画で読み解くハプスブルク家12の物語",
+    "author": "中野京子",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334034696",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859793703868",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784334781880",
+    "title": "芸術と青春",
+    "author": "岡本太郎",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334781880",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003684767",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 245
+  },
+  {
+    "book_id": "isbn-9784003318515",
+    "title": "イスラーム文化",
+    "author": "井筒俊彦",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003318515",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002121629",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 233
+  },
+  {
+    "book_id": "isbn-9784492314425",
+    "title": "経済学は人びとを幸福にできるか",
+    "author": "宇沢弘文",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784492314425",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024927186",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東洋経済新報社",
+    "pages": 273
+  },
+  {
+    "book_id": "isbn-9784004307334",
+    "title": "定常型社会",
+    "author": "広井良典",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004307334",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003005048",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 190
+  },
+  {
+    "book_id": "isbn-9784043574186",
+    "title": "古今和歌集",
+    "author": "紀貫之",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043574186",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008536176",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川学芸出版",
+    "pages": 184
+  },
+  {
+    "book_id": "isbn-9784560032886",
+    "title": "東海道四谷怪談",
+    "author": "鶴屋南北",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784560032886",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002835510",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白水社",
+    "pages": 323
+  },
+  {
+    "book_id": "isbn-9784309407197",
+    "title": "正法眼蔵",
+    "author": "道元",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309407197",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007407975",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 385
+  },
+  {
+    "book_id": "isbn-9784061594135",
+    "title": "蘭学事始",
+    "author": "杉田玄白",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061594135",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002855862",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 250
+  },
+  {
+    "book_id": "isbn-9784334752866",
+    "title": "三酔人経綸問答",
+    "author": "中江兆民",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334752866",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025291903",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 312
   }
 ]
