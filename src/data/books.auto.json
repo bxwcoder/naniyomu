@@ -144893,5 +144893,533 @@
     "tier": "basic",
     "publisher": "リイド社",
     "pages": 182
+  },
+  {
+    "book_id": "isbn-9784152086211",
+    "title": "エリザベス・コステロ",
+    "author": "J・M・クッツェー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784152086211",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007659866",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 222
+  },
+  {
+    "book_id": "isbn-9784101057033",
+    "title": "愛と死",
+    "author": "武者小路実篤",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101057033",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I04111107060458",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 138
+  },
+  {
+    "book_id": "isbn-9784105014100",
+    "title": "草の竪琴",
+    "author": "トルーマン・カポーティ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784105014100",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034142905",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 265
+  },
+  {
+    "book_id": "isbn-9784121805188",
+    "title": "刑吏の社会史",
+    "author": "阿部謹也",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121805188",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034763375",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 219
+  },
+  {
+    "book_id": "isbn-9784150707187",
+    "title": "利腕",
+    "author": "ディック・フランシス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150707187",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001760397",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 406
+  },
+  {
+    "book_id": "isbn-9784167917166",
+    "title": "百花",
+    "author": "川村元気",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167917166",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031511205",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 312
+  },
+  {
+    "book_id": "isbn-9784043886012",
+    "title": "クローズド・ノート",
+    "author": "雫井脩介",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043886012",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009406448",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 444
+  },
+  {
+    "book_id": "isbn-9784101103068",
+    "title": "杏っ子",
+    "author": "室生犀星",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101103068",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003066612",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 636
+  },
+  {
+    "book_id": "isbn-9784150773038",
+    "title": "影なき男",
+    "author": "ダシール・ハメット",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150773038",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002139962",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 324
+  },
+  {
+    "book_id": "isbn-9784309413402",
+    "title": "十九歳の地図",
+    "author": "中上健次",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309413402",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025987615",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 256
+  },
+  {
+    "book_id": "isbn-9784488629120",
+    "title": "クラッシュ",
+    "author": "J・G・バラード",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488629120",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009310809",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 246
+  },
+  {
+    "book_id": "isbn-9784042750055",
+    "title": "ベロニカは死ぬことにした",
+    "author": "パウロ・コエーリョ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784042750055",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004117453",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 260
+  },
+  {
+    "book_id": "isbn-9784042750024",
+    "title": "星の巡礼",
+    "author": "パウロ・コエーリョ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784042750024",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002690377",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 295
+  },
+  {
+    "book_id": "isbn-9784140816219",
+    "title": "宇宙の扉をノックする",
+    "author": "リサ・ランドール",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784140816219",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025002241",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "NHK出版",
+    "pages": 585
+  },
+  {
+    "book_id": "isbn-9784152093479",
+    "title": "フリーダム",
+    "author": "ジョナサン・フランゼン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784152093479",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024126915",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 766
+  },
+  {
+    "book_id": "isbn-9784062901222",
+    "title": "笛吹川",
+    "author": "深沢七郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062901222",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011184327",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 263
+  },
+  {
+    "book_id": "isbn-9784480058188",
+    "title": "パラサイト・シングルの時代",
+    "author": "山田昌弘",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480058188",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002836523",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 204
+  },
+  {
+    "book_id": "isbn-9784040822556",
+    "title": "「砂漠の狐」ロンメル",
+    "author": "大木毅",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784040822556",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029539661",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 312
+  },
+  {
+    "book_id": "isbn-9784094087628",
+    "title": "冥闇",
+    "author": "ギリアン・フリン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094087628",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023947611",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 615
+  },
+  {
+    "book_id": "isbn-9784488209063",
+    "title": "目くらましの道",
+    "author": "ヘニング・マンケル",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488209063",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008444559",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 381
   }
 ]
