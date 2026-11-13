@@ -154630,5 +154630,603 @@
     "tier": "basic",
     "publisher": "集英社",
     "pages": 446
+  },
+  {
+    "book_id": "isbn-9784105228019",
+    "title": "泥棒日記",
+    "author": "ジャン・ジュネ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784105228019",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002053194",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 426
+  },
+  {
+    "book_id": "isbn-9784122043046",
+    "title": "夜の果てへの旅",
+    "author": "セリーヌ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122043046",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004339675",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 381
+  },
+  {
+    "book_id": "isbn-9784102148112",
+    "title": "日々の泡",
+    "author": "ボリス・ヴィアン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102148112",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002667368",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 302
+  },
+  {
+    "book_id": "isbn-9784891762537",
+    "title": "人生使用法",
+    "author": "ジョルジュ・ペレック",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784891762537",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002192739",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "水声社",
+    "pages": 731
+  },
+  {
+    "book_id": "isbn-9784122071209",
+    "title": "地下鉄のザジ",
+    "author": "レーモン・クノー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122071209",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031667877",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 283
+  },
+  {
+    "book_id": "isbn-9784255960296",
+    "title": "文体練習",
+    "author": "レーモン・クノー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784255960296",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002553487",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日出版社",
+    "pages": 195
+  },
+  {
+    "book_id": "isbn-9784003770092",
+    "title": "ゼーノの意識",
+    "author": "ズヴェーヴォ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003770092",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031310965",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 370
+  },
+  {
+    "book_id": "isbn-9784003271919",
+    "title": "タタール人の砂漠",
+    "author": "ブッツァーティ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003271919",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024369562",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 353
+  },
+  {
+    "book_id": "isbn-9784003271452",
+    "title": "月と篝火",
+    "author": "パヴェーゼ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003271452",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025476668",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 290
+  },
+  {
+    "book_id": "isbn-9784560042724",
+    "title": "インド夜想曲",
+    "author": "アントニオ・タブッキ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784560042724",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002091036",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白水社",
+    "pages": 161
+  },
+  {
+    "book_id": "isbn-9784560046159",
+    "title": "供述によるとペレイラは",
+    "author": "アントニオ・タブッキ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784560046159",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002555134",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白水社",
+    "pages": 193
+  },
+  {
+    "book_id": "isbn-9784560042526",
+    "title": "ある家族の会話",
+    "author": "ナタリア・ギンズブルグ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784560042526",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001779947",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白水社",
+    "pages": 286
+  },
+  {
+    "book_id": "isbn-9784801002678",
+    "title": "夜のみだらな鳥",
+    "author": "ホセ・ドノソ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784801002678",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028819823",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "水声社",
+    "pages": 576
+  },
+  {
+    "book_id": "isbn-9784560092613",
+    "title": "2666",
+    "author": "ロベルト・ボラーニョ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784560092613",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023939221",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白水社",
+    "pages": 868
+  },
+  {
+    "book_id": "isbn-9784560090084",
+    "title": "野生の探偵たち",
+    "author": "ロベルト・ボラーニョ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784560090084",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010845103",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白水社",
+    "pages": 449
+  },
+  {
+    "book_id": "isbn-9784309464473",
+    "title": "精霊たちの家",
+    "author": "イサベル・アジェンデ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309464473",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028305903",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 349
+  },
+  {
+    "book_id": "isbn-9784879842572",
+    "title": "あまりにも騒がしい孤独",
+    "author": "ボフミル・フラバル",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784879842572",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970023484962556841",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "松籟社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784003277317",
+    "title": "兵士シュヴェイクの冒険",
+    "author": "ハシェク",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003277317",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002566046",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 419
+  },
+  {
+    "book_id": "isbn-9784336039545",
+    "title": "土台穴",
+    "author": "プラトーノフ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784336039545",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002649223",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "国書刊行会",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784384042764",
+    "title": "狙われたキツネ",
+    "author": "ヘルタ・ミュラー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784384042764",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010614576",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "三修社",
+    "pages": 368
+  },
+  {
+    "book_id": "isbn-9784886296351",
+    "title": "ピアニスト",
+    "author": "エルフリーデ・イェリネク",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784886296351",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003680554",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "鳥影社・ロゴス企画部",
+    "pages": 418
+  },
+  {
+    "book_id": "isbn-9784622048695",
+    "title": "消去",
+    "author": "トーマス・ベルンハルト",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784622048695",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004355711",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "みすず書房",
+    "pages": 224
+  },
+  {
+    "book_id": "isbn-9784770409232",
+    "title": "カッサンドラ",
+    "author": "クリスタ・ヴォルフ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784770409232",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002630920",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "恒文社",
+    "pages": 259
   }
 ]
