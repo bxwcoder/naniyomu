@@ -147980,5 +147980,572 @@
     "tier": "basic",
     "publisher": "山川出版社",
     "pages": 106
+  },
+  {
+    "book_id": "isbn-9784130033053",
+    "title": "知の技法",
+    "author": "小林康夫",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784130033053",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002326669",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京大学出版会",
+    "pages": 283
+  },
+  {
+    "book_id": "isbn-9784061154780",
+    "title": "大学でいかに学ぶか",
+    "author": "増田四郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061154780",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008036777",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 222
+  },
+  {
+    "book_id": "isbn-9784004100430",
+    "title": "日本人の法意識",
+    "author": "川島武宜",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004100430",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909849334814",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784004120629",
+    "title": "日本人の心理",
+    "author": "南博",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004120629",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I11121103784676",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 212
+  },
+  {
+    "book_id": "isbn-9784120008849",
+    "title": "文明としてのイエ社会",
+    "author": "村上泰亮",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784120008849",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I06111100437736",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 598
+  },
+  {
+    "book_id": "isbn-9784122053113",
+    "title": "モラトリアム人間の時代",
+    "author": "小此木啓吾",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122053113",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010876993",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 227
+  },
+  {
+    "book_id": "isbn-9784480095121",
+    "title": "愛国心",
+    "author": "清水幾太郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480095121",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024154876",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 230
+  },
+  {
+    "book_id": "isbn-9784480081049",
+    "title": "日本とアジア",
+    "author": "竹内好",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480081049",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002297108",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 491
+  },
+  {
+    "book_id": "isbn-9784003415221",
+    "title": "共同体の基礎理論",
+    "author": "大塚久雄",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003415221",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031820512",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 406
+  },
+  {
+    "book_id": "isbn-9784004300533",
+    "title": "経済学の考え方",
+    "author": "宇沢弘文",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004300533",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001968631",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 265
+  },
+  {
+    "book_id": "isbn-9784004121411",
+    "title": "自由と規律",
+    "author": "池田潔",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004121411",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I10111101668111",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 171
+  },
+  {
+    "book_id": "isbn-9784022604378",
+    "title": "ものの見方について",
+    "author": "笠信太郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022604378",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001855662",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞社",
+    "pages": 224
+  },
+  {
+    "book_id": "isbn-9784061176799",
+    "title": "相対性理論の世界",
+    "author": "ジェームズ・A・コールマン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061176799",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I10111101730981",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 199
+  },
+  {
+    "book_id": "isbn-9784062573801",
+    "title": "四次元の世界",
+    "author": "都筑卓司",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062573801",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003672281",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 260
+  },
+  {
+    "book_id": "isbn-9784062573849",
+    "title": "マックスウェルの悪魔",
+    "author": "都筑卓司",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062573849",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003680986",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 276
+  },
+  {
+    "book_id": "isbn-9784062573887",
+    "title": "タイムマシンの話",
+    "author": "都筑卓司",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062573887",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003687502",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 243
+  },
+  {
+    "book_id": "isbn-9784335750014",
+    "title": "量子力学的世界像",
+    "author": "朝永振一郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784335750014",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004168319",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "弘文堂",
+    "pages": 175
+  },
+  {
+    "book_id": "isbn-9784480091598",
+    "title": "宇宙創成はじめの3分間",
+    "author": "S・ワインバーグ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480091598",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009632936",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 327
+  },
+  {
+    "book_id": "isbn-9784042982111",
+    "title": "脳のなかの幽霊",
+    "author": "V・S・ラマチャンドラン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784042982111",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011169415",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 416
+  },
+  {
+    "book_id": "isbn-9784314004855",
+    "title": "延長された表現型",
+    "author": "リチャード・ドーキンス",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784314004855",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001869581",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "紀伊国屋書店",
+    "pages": 555
+  },
+  {
+    "book_id": "isbn-9784788504615",
+    "title": "人間はどこまでチンパンジーか?",
+    "author": "ジャレド・ダイアモンド",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784788504615",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002286529",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新曜社",
+    "pages": 541
   }
 ]
