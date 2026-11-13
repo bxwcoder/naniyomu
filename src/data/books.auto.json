@@ -138457,5 +138457,879 @@
     "tier": "basic",
     "publisher": "朝日新聞出版",
     "pages": 165
+  },
+  {
+    "book_id": "isbn-9784150114374",
+    "title": "ドゥームズデイ・ブック",
+    "author": "コニー・ウィリス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150114374",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004066865",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 591
+  },
+  {
+    "book_id": "isbn-9784150117078",
+    "title": "犬は勘定に入れません",
+    "author": "コニー・ウィリス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150117078",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010113653",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 463
+  },
+  {
+    "book_id": "isbn-9784150106256",
+    "title": "光の王",
+    "author": "ロジャー・ゼラズニイ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150106256",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001762329",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 473
+  },
+  {
+    "book_id": "isbn-9784150102159",
+    "title": "伝道の書に捧げる薔薇",
+    "author": "ロジャー・ゼラズニイ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150102159",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I11141123528795",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 433
+  },
+  {
+    "book_id": "isbn-9784488610043",
+    "title": "トリフィド時代",
+    "author": "ジョン・ウィンダム",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488610043",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029097019",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 414
+  },
+  {
+    "book_id": "isbn-9784336045669",
+    "title": "ケルベロス第五の首",
+    "author": "ジーン・ウルフ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784336045669",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007452540",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "国書刊行会",
+    "pages": 331
+  },
+  {
+    "book_id": "isbn-9784102161036",
+    "title": "ケインとアベル",
+    "author": "ジェフリー・アーチャー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102161036",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001506360",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784102161012",
+    "title": "百万ドルをとり返せ!",
+    "author": "ジェフリー・アーチャー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102161012",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809699551786",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784167136130",
+    "title": "ウォッチャーズ",
+    "author": "ディーン・R・クーンツ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167136130",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002254968",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 408
+  },
+  {
+    "book_id": "isbn-9784488705015",
+    "title": "遠き神々の炎",
+    "author": "ヴァーナー・ヴィンジ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488705015",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002461018",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 460
+  },
+  {
+    "book_id": "isbn-9784150120597",
+    "title": "カエアンの聖衣",
+    "author": "バリントン・J・ベイリー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150120597",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027164318",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 374
+  },
+  {
+    "book_id": "isbn-9784150105877",
+    "title": "メルニボネの皇子",
+    "author": "マイクル・ムアコック",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150105877",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001714622",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 255
+  },
+  {
+    "book_id": "isbn-9784488784010",
+    "title": "第五の季節",
+    "author": "N・K・ジェミシン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488784010",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030431483",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 617
+  },
+  {
+    "book_id": "isbn-9784150107512",
+    "title": "スキズマトリックス",
+    "author": "ブルース・スターリング",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150107512",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001897996",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 507
+  },
+  {
+    "book_id": "isbn-9784480432766",
+    "title": "ブラウン神父の知恵",
+    "author": "G・K・チェスタトン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480432766",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026999792",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 343
+  },
+  {
+    "book_id": "isbn-9784794927378",
+    "title": "海を失った男",
+    "author": "シオドア・スタージョン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784794927378",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004185680",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "晶文社",
+    "pages": 366
+  },
+  {
+    "book_id": "isbn-9784566023963",
+    "title": "シルマリルの物語",
+    "author": "J・R・R・トールキン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784566023963",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033155787",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "評論社",
+    "pages": 431
+  },
+  {
+    "book_id": "isbn-9784062772730",
+    "title": "ゼロの王国",
+    "author": "鹿島田真希",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062772730",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023671106",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 361
+  },
+  {
+    "book_id": "isbn-9784101371719",
+    "title": "生きてるだけで、愛。",
+    "author": "本谷有希子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101371719",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010054186",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 145
+  },
+  {
+    "book_id": "isbn-9784101255811",
+    "title": "雪の練習生",
+    "author": "多和田葉子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101255811",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025004968",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 328
+  },
+  {
+    "book_id": "isbn-9784065238158",
+    "title": "地球にちりばめられて",
+    "author": "多和田葉子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065238158",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031645000",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 349
+  },
+  {
+    "book_id": "isbn-9784163919089",
+    "title": "婚活マエストロ",
+    "author": "宮島未奈",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784163919089",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033748204",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 241
+  },
+  {
+    "book_id": "isbn-9784061960152",
+    "title": "夕べの雲",
+    "author": "庄野潤三",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061960152",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001916406",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 325
+  },
+  {
+    "book_id": "isbn-9784101143033",
+    "title": "砂の上の植物群",
+    "author": "吉行淳之介",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101143033",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859859047073",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784062762533",
+    "title": "どうで死ぬ身の一踊り",
+    "author": "西村賢太",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062762533",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009989542",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 235
+  },
+  {
+    "book_id": "isbn-9784101312811",
+    "title": "暗渠の宿",
+    "author": "西村賢太",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101312811",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010686438",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 196
+  },
+  {
+    "book_id": "isbn-9784488177010",
+    "title": "隅の老人の事件簿",
+    "author": "バロネス・オルツィ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488177010",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I10111101648643",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 346
+  },
+  {
+    "book_id": "isbn-9784488127015",
+    "title": "ビロードの爪",
+    "author": "E・S・ガードナー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488127015",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002588565",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 305
+  },
+  {
+    "book_id": "isbn-9784150715595",
+    "title": "スイート・ホーム殺人事件",
+    "author": "クレイグ・ライス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150715595",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010558487",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 474
+  },
+  {
+    "book_id": "isbn-9784488214050",
+    "title": "クリムゾン・リバー",
+    "author": "ジャン＝クリストフ・グランジェ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488214050",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002956152",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 493
+  },
+  {
+    "book_id": "isbn-9784794927477",
+    "title": "クライム・マシン",
+    "author": "ジャック・リッチー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784794927477",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007999269",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "晶文社",
+    "pages": 332
+  },
+  {
+    "book_id": "isbn-9784150719012",
+    "title": "料理長が多すぎる",
+    "author": "レックス・スタウト",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150719012",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I11141123573904",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 328
+  },
+  {
+    "book_id": "isbn-9784087606744",
+    "title": "スノーマン",
+    "author": "ジョー・ネスボ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087606744",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024878419",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 360
   }
 ]
