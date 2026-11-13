@@ -164802,5 +164802,572 @@
     "tier": "basic",
     "publisher": "アルファベータブックス",
     "pages": 304
+  },
+  {
+    "book_id": "isbn-9784140810125",
+    "title": "死体はみんな生きている",
+    "author": "メアリー・ローチ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784140810125",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007622214",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日本放送出版協会",
+    "pages": 349
+  },
+  {
+    "book_id": "isbn-9784140815083",
+    "title": "わたしを宇宙に連れてって",
+    "author": "メアリー・ローチ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784140815083",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011303167",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "NHK出版",
+    "pages": 365
+  },
+  {
+    "book_id": "isbn-9784622077664",
+    "title": "食べられないために",
+    "author": "ギルバート・ウォルドバウアー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784622077664",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024674063",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "みすず書房",
+    "pages": 266
+  },
+  {
+    "book_id": "isbn-9784622087571",
+    "title": "タコの心身問題",
+    "author": "ピーター・ゴドフリー＝スミス",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784622087571",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029320167",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "みすず書房",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784314010931",
+    "title": "魚は痛みを感じるか?",
+    "author": "ヴィクトリア・ブレイスウェイト",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784314010931",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023333321",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "紀伊国屋書店",
+    "pages": 259
+  },
+  {
+    "book_id": "isbn-9784772695596",
+    "title": "動物たちのすごいワザを物理で解く",
+    "author": "マティン・ドラーニ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784772695596",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028901855",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "インターシフト",
+    "pages": 379
+  },
+  {
+    "book_id": "isbn-9784140816912",
+    "title": "植物は〈知性〉をもっている",
+    "author": "ステファノ・マンクーゾ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784140816912",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026854399",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "NHK出版",
+    "pages": 211
+  },
+  {
+    "book_id": "isbn-9784150505318",
+    "title": "樹木たちの知られざる生活",
+    "author": "ペーター・ヴォールレーベン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150505318",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029295886",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 286
+  },
+  {
+    "book_id": "isbn-9784806715245",
+    "title": "土と内臓",
+    "author": "デイビッド・モントゴメリー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784806715245",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027689905",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "築地書館",
+    "pages": 333
+  },
+  {
+    "book_id": "isbn-9784309467252",
+    "title": "あなたの体は9割が細菌",
+    "author": "アランナ・コリン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309467252",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030778565",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 442
+  },
+  {
+    "book_id": "isbn-9784622079101",
+    "title": "失われてゆく、我々の内なる細菌",
+    "author": "マーティン・J・ブレイザー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784622079101",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026505167",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "みすず書房",
+    "pages": 286
+  },
+  {
+    "book_id": "isbn-9784750351544",
+    "title": "スピルオーバー",
+    "author": "デビッド・クアメン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784750351544",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031345203",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "明石書店",
+    "pages": 510
+  },
+  {
+    "book_id": "isbn-9784065261064",
+    "title": "時間の終わりまで",
+    "author": "ブライアン・グリーン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065261064",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031826606",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 637
+  },
+  {
+    "book_id": "isbn-9784860645014",
+    "title": "宇宙はなぜ「暗い」のか?",
+    "author": "津村耕司",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784860645014",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027831625",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ベレ出版",
+    "pages": 191
+  },
+  {
+    "book_id": "isbn-9784480513069",
+    "title": "人類はどこから来て、どこへ行くのか",
+    "author": "エドワード・O・ウィルソン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480513069",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034172625",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 442
+  },
+  {
+    "book_id": "isbn-9784750516295",
+    "title": "社会はどう進化するのか",
+    "author": "デイヴィッド・スローン・ウィルソン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784750516295",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030185203",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "亜紀書房",
+    "pages": 326
+  },
+  {
+    "book_id": "isbn-9784826902076",
+    "title": "進化の意外な順序",
+    "author": "アントニオ・ダマシオ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784826902076",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029458247",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白揚社",
+    "pages": 349
+  },
+  {
+    "book_id": "isbn-9784000050609",
+    "title": "意識をめぐる冒険",
+    "author": "クリストフ・コッホ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784000050609",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025597197",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 354
+  },
+  {
+    "book_id": "isbn-9784065020371",
+    "title": "我々はなぜ我々だけなのか",
+    "author": "川端裕人",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065020371",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028682088",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 283
+  },
+  {
+    "book_id": "isbn-9784163902043",
+    "title": "ネアンデルタール人は私たちと交配した",
+    "author": "スヴァンテ・ペーボ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784163902043",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026496344",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 365
+  },
+  {
+    "book_id": "isbn-9784140817513",
+    "title": "交雑する人類",
+    "author": "デイヴィッド・ライク",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784140817513",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029091402",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "NHK出版",
+    "pages": 461
   }
 ]
