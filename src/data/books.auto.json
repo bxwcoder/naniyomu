@@ -162762,5 +162762,459 @@
     "tier": "basic",
     "publisher": "朝日新聞出版",
     "pages": 337
+  },
+  {
+    "book_id": "isbn-9784796663526",
+    "title": "カフーを待ちわびて",
+    "author": "原田マハ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784796663526",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009344585",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "宝島社",
+    "pages": 346
+  },
+  {
+    "book_id": "isbn-9784344433069",
+    "title": "リボルバー",
+    "author": "原田マハ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344433069",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032893413",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 356
+  },
+  {
+    "book_id": "isbn-9784101339153",
+    "title": "流しのしたの骨",
+    "author": "江國香織",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101339153",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002829231",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 310
+  },
+  {
+    "book_id": "isbn-9784094082180",
+    "title": "間宮兄弟",
+    "author": "江國香織",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094082180",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009164077",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 318
+  },
+  {
+    "book_id": "isbn-9784101339290",
+    "title": "ちょうちんそで",
+    "author": "江國香織",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101339290",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026382094",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 226
+  },
+  {
+    "book_id": "isbn-9784022643544",
+    "title": "いつか記憶からこぼれおちるとしても",
+    "author": "江國香織",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022643544",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007992725",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞社",
+    "pages": 213
+  },
+  {
+    "book_id": "isbn-9784101339146",
+    "title": "ホリー・ガーデン",
+    "author": "江國香織",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101339146",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002667366",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 327
+  },
+  {
+    "book_id": "isbn-9784488467043",
+    "title": "雪の断章",
+    "author": "佐々木丸美",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488467043",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009987098",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 429
+  },
+  {
+    "book_id": "isbn-9784098235018",
+    "title": "夜を乗り越える",
+    "author": "又吉直樹",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784098235018",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027304218",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 270
+  },
+  {
+    "book_id": "isbn-9784101339214",
+    "title": "東京タワー",
+    "author": "江國香織",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101339214",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008110924",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 360
+  },
+  {
+    "book_id": "isbn-9784344401594",
+    "title": "ハードボイルド/ハードラック",
+    "author": "吉本ばなな",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344401594",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007306043",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 152
+  },
+  {
+    "book_id": "isbn-9784344412996",
+    "title": "人生の旅をゆく",
+    "author": "よしもとばなな",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344412996",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010568106",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 238
+  },
+  {
+    "book_id": "isbn-9784101292410",
+    "title": "どこから行っても遠い町",
+    "author": "川上弘美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101292410",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011261203",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 362
+  },
+  {
+    "book_id": "isbn-9784101292434",
+    "title": "なめらかで熱くて甘苦しくて",
+    "author": "川上弘美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101292434",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026592624",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 223
+  },
+  {
+    "book_id": "isbn-9784101292335",
+    "title": "ゆっくりさよならをとなえる",
+    "author": "川上弘美",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101292335",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007572141",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784062931021",
+    "title": "最果てアーケード",
+    "author": "小川洋子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062931021",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026343278",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 245
+  },
+  {
+    "book_id": "isbn-9784043410033",
+    "title": "アンネ・フランクの記憶",
+    "author": "小川洋子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043410033",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002742307",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 269
   }
 ]
