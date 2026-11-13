@@ -145421,5 +145421,617 @@
     "tier": "basic",
     "publisher": "東京創元社",
     "pages": 381
+  },
+  {
+    "book_id": "isbn-9784101003528",
+    "title": "すべて忘れてしまうから",
+    "author": "燃え殻",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101003528",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032268879",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784101015224",
+    "title": "青春の蹉跌",
+    "author": "石川達三",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101015224",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I36111103438837",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 260
+  },
+  {
+    "book_id": "isbn-9784006020385",
+    "title": "人間の壁",
+    "author": "石川達三",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784006020385",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003036161",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 377
+  },
+  {
+    "book_id": "isbn-9784087456813",
+    "title": "今夜、ロマンス劇場で",
+    "author": "宇山佳佑",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087456813",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028668524",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 235
+  },
+  {
+    "book_id": "isbn-9784167838119",
+    "title": "岸辺の旅",
+    "author": "湯本香樹実",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167838119",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023811967",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 232
+  },
+  {
+    "book_id": "isbn-9784065285954",
+    "title": "本物の読書家",
+    "author": "乗代雄介",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065285954",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032237944",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 279
+  },
+  {
+    "book_id": "isbn-9784101385334",
+    "title": "さよなら快傑黒頭巾",
+    "author": "庄司薫",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101385334",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023567550",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 250
+  },
+  {
+    "book_id": "isbn-9784344402577",
+    "title": "サヨナライツカ",
+    "author": "辻仁成",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344402577",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007358216",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 267
+  },
+  {
+    "book_id": "isbn-9784087455137",
+    "title": "櫛挽道守",
+    "author": "木内昇",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087455137",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027683183",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 419
+  },
+  {
+    "book_id": "isbn-9784101200934",
+    "title": "半席",
+    "author": "青山文平",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101200934",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029208863",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 316
+  },
+  {
+    "book_id": "isbn-9784344405615",
+    "title": "嫌われ松子の一生",
+    "author": "山田宗樹",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344405615",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007495171",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 350
+  },
+  {
+    "book_id": "isbn-9784408555485",
+    "title": "アリバイ崩し承ります",
+    "author": "大山誠一郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784408555485",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030070325",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "実業之日本社",
+    "pages": 306
+  },
+  {
+    "book_id": "isbn-9784596319234",
+    "title": "黒き荒野の果て",
+    "author": "S・A・コスビー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784596319234",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031953262",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ハーパーコリンズ・ジャパン",
+    "pages": 430
+  },
+  {
+    "book_id": "isbn-9784909044457",
+    "title": "放課後ミステリクラブ",
+    "author": "知念実希人",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784909044457",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032880941",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ライツ社",
+    "pages": 159
+  },
+  {
+    "book_id": "isbn-9784065373262",
+    "title": "小説",
+    "author": "野﨑まど",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065373262",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033788507",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 218
+  },
+  {
+    "book_id": "isbn-9784093867139",
+    "title": "アルプス席の母",
+    "author": "早見和真",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784093867139",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033357571",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 351
+  },
+  {
+    "book_id": "isbn-9784488025694",
+    "title": "禁忌の子",
+    "author": "山口未桜",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488025694",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033721798",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 318
+  },
+  {
+    "book_id": "isbn-9784093867399",
+    "title": "恋とか愛とかやさしさなら",
+    "author": "一穂ミチ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784093867399",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033754419",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 236
+  },
+  {
+    "book_id": "isbn-9784569857947",
+    "title": "人魚が逃げた",
+    "author": "青山美智子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784569857947",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033775336",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "PHP研究所",
+    "pages": 222
+  },
+  {
+    "book_id": "isbn-9784065452608",
+    "title": "死んだ山田と教室",
+    "author": "金子玲介",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065452608",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034958445",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 381
+  },
+  {
+    "book_id": "isbn-9784167925574",
+    "title": "襷がけの二人",
+    "author": "嶋津輝",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167925574",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034886112",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 422
+  },
+  {
+    "book_id": "isbn-9784103531920",
+    "title": "わたしたちに翼はいらない",
+    "author": "寺地はるな",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784103531920",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032972442",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 229
+  },
+  {
+    "book_id": "isbn-9784309419657",
+    "title": "ババヤガの夜",
+    "author": "王谷晶",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309419657",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032774483",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 204
   }
 ]
