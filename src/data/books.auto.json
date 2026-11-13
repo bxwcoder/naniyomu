@@ -133099,6 +133099,33 @@
     "pages": 254
   },
   {
+    "book_id": "isbn-9784788505285",
+    "title": "単一民族神話の起源",
+    "author": "小熊英二",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784788505285",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002424931",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新曜社",
+    "pages": 450
+  },
+  {
     "book_id": "isbn-9784065154298",
     "title": "日本社会のしくみ",
     "author": "小熊英二",
