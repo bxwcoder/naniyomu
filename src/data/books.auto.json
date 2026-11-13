@@ -141859,5 +141859,751 @@
     "tier": "basic",
     "publisher": "小学館",
     "pages": 287
+  },
+  {
+    "book_id": "isbn-9784757728066",
+    "title": "\"文学少女\"と死にたがりの道化",
+    "author": "野村美月",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784757728066",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008174209",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "エンターブレイン",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784044499020",
+    "title": "彩雲国物語",
+    "author": "雪乃紗衣",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784044499020",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004387891",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 219
+  },
+  {
+    "book_id": "isbn-9784040730196",
+    "title": "わたしの幸せな結婚",
+    "author": "顎木あくみ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784040730196",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029410612",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 277
+  },
+  {
+    "book_id": "isbn-9784048926669",
+    "title": "86―エイティシックス―",
+    "author": "安里アサト",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784048926669",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027866915",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 340
+  },
+  {
+    "book_id": "isbn-9784797384352",
+    "title": "魔女の旅々",
+    "author": "白石定規",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784797384352",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027222202",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "SBクリエイティブ",
+    "pages": 340
+  },
+  {
+    "book_id": "isbn-9784309409764",
+    "title": "浮世でランチ",
+    "author": "山崎ナオコーラ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309409764",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010467234",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 206
+  },
+  {
+    "book_id": "isbn-9784167914264",
+    "title": "美しい距離",
+    "author": "山崎ナオコーラ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167914264",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030119700",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 205
+  },
+  {
+    "book_id": "isbn-9784488758028",
+    "title": "亡霊星域",
+    "author": "アン・レッキー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488758028",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027234061",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 444
+  },
+  {
+    "book_id": "isbn-9784309462561",
+    "title": "宇宙の果てのレストラン",
+    "author": "ダグラス・アダムス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309462561",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007904735",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 347
+  },
+  {
+    "book_id": "isbn-9784101277417",
+    "title": "東京公園",
+    "author": "小路幸也",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101277417",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010437882",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 284
+  },
+  {
+    "book_id": "isbn-9784488135065",
+    "title": "優等生は探偵に向かない",
+    "author": "ホリー・ジャクソン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488135065",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032249237",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 548
+  },
+  {
+    "book_id": "isbn-9784101200217",
+    "title": "本にだって雄と雌があります",
+    "author": "小田雅久仁",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101200217",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026673952",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 474
+  },
+  {
+    "book_id": "isbn-9784087452839",
+    "title": "狭小邸宅",
+    "author": "新庄耕",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087452839",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026073610",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 190
+  },
+  {
+    "book_id": "isbn-9784488276065",
+    "title": "白雪姫には死んでもらう",
+    "author": "ネレ・ノイハウス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488276065",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024442647",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 574
+  },
+  {
+    "book_id": "isbn-9784198946920",
+    "title": "やぶにらみの時計",
+    "author": "都筑道夫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198946920",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031762139",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 315
+  },
+  {
+    "book_id": "isbn-9784488572020",
+    "title": "九年目の魔法",
+    "author": "ダイアナ・ウィン・ジョーンズ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488572020",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002358946",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 489
+  },
+  {
+    "book_id": "isbn-9784198607517",
+    "title": "アブダラと空飛ぶ絨毯",
+    "author": "ダイアナ・ウィン・ジョーンズ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198607517",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002617314",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 278
+  },
+  {
+    "book_id": "isbn-9784101311012",
+    "title": "河童が覗いたヨーロッパ",
+    "author": "妹尾河童",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101311012",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001641147",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 302
+  },
+  {
+    "book_id": "isbn-9784167732059",
+    "title": "セカンド・ラブ",
+    "author": "乾くるみ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167732059",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023576525",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 298
+  },
+  {
+    "book_id": "isbn-9784163233505",
+    "title": "リピート",
+    "author": "乾くるみ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784163233505",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007526385",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 344
+  },
+  {
+    "book_id": "isbn-9784309413457",
+    "title": "想像ラジオ",
+    "author": "いとうせいこう",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309413457",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026058644",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 215
+  },
+  {
+    "book_id": "isbn-9784043836420",
+    "title": "万能鑑定士Qの事件簿",
+    "author": "松岡圭祐",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043836420",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010850482",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 274
+  },
+  {
+    "book_id": "isbn-9784763136077",
+    "title": "この嘘がばれないうちに",
+    "author": "川口俊和",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784763136077",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028016629",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "サンマーク出版",
+    "pages": 303
+  },
+  {
+    "book_id": "isbn-9784488525033",
+    "title": "魔道師の月",
+    "author": "乾石智子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488525033",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025897400",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 462
+  },
+  {
+    "book_id": "isbn-9784167900656",
+    "title": "心理学的にありえない",
+    "author": "アダム・ファウアー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167900656",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025282673",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 446
+  },
+  {
+    "book_id": "isbn-9784594056056",
+    "title": "ルインズ",
+    "author": "スコット・スミス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784594056056",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009276979",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "扶桑社",
+    "pages": 350
+  },
+  {
+    "book_id": "isbn-9784488629014",
+    "title": "沈んだ世界",
+    "author": "J・G・バラード",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488629014",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I11141123528924",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 260
+  },
+  {
+    "book_id": "isbn-9784488111021",
+    "title": "闇からの声",
+    "author": "イーデン・フィルポッツ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488111021",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I21111102735442",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 328
   }
 ]
