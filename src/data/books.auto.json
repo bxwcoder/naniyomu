@@ -155996,5 +155996,239 @@
     "tier": "basic",
     "publisher": "河出書房新社",
     "pages": 535
+  },
+  {
+    "book_id": "isbn-9784003600191",
+    "title": "坑夫",
+    "author": "夏目漱石",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003600191",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025164035",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 332
+  },
+  {
+    "book_id": "isbn-9784795266513",
+    "title": "二百十日",
+    "author": "夏目漱石",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784795266513",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001705582",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "向学社",
+    "pages": 220
+  },
+  {
+    "book_id": "isbn-9784845638895",
+    "title": "駈込み訴え",
+    "author": "太宰治",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784845638895",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032855531",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "立東舎",
+    "pages": 58
+  },
+  {
+    "book_id": "isbn-9784652020357",
+    "title": "グスコーブドリの伝記",
+    "author": "宮沢賢治",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784652020357",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023692007",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "理論社",
+    "pages": 128
+  },
+  {
+    "book_id": "isbn-9784309402130",
+    "title": "安吾史譚",
+    "author": "坂口安吾",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309402130",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001904151",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 222
+  },
+  {
+    "book_id": "isbn-9784845638291",
+    "title": "夜叉ケ池",
+    "author": "泉鏡花",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784845638291",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032528403",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "立東舎",
+    "pages": 89
+  },
+  {
+    "book_id": "isbn-9784003107522",
+    "title": "上海",
+    "author": "横光利一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003107522",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009295179",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 352
+  },
+  {
+    "book_id": "isbn-9784062751896",
+    "title": "運命",
+    "author": "幸田露伴",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062751896",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007914200",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 259
+  },
+  {
+    "book_id": "isbn-9784101002477",
+    "title": "みずうみ",
+    "author": "川端康成",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101002477",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032575796",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 192
   }
 ]
