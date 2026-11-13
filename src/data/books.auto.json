@@ -150164,5 +150164,705 @@
     "tier": "basic",
     "publisher": "岩波書店",
     "pages": 353
+  },
+  {
+    "book_id": "isbn-9784480067685",
+    "title": "哲学入門",
+    "author": "戸田山和久",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480067685",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025291949",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 446
+  },
+  {
+    "book_id": "isbn-9784535563292",
+    "title": "勉強するのは何のため?",
+    "author": "苫野一徳",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784535563292",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024732435",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日本評論社",
+    "pages": 207
+  },
+  {
+    "book_id": "isbn-9784140912188",
+    "title": "自由はいかに可能か",
+    "author": "苫野一徳",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784140912188",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025497767",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "NHK出版",
+    "pages": 282
+  },
+  {
+    "book_id": "isbn-9784480080066",
+    "title": "現代思想の冒険",
+    "author": "竹田青嗣",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480080066",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002198480",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 250
+  },
+  {
+    "book_id": "isbn-9784874150481",
+    "title": "はじめての現象学",
+    "author": "竹田青嗣",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784874150481",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002298547",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "海鳥社",
+    "pages": 293
+  },
+  {
+    "book_id": "isbn-9784480056085",
+    "title": "ニーチェ入門",
+    "author": "竹田青嗣",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480056085",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002363867",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 237
+  },
+  {
+    "book_id": "isbn-9784480056290",
+    "title": "カント入門",
+    "author": "石川文康",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480056290",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002417478",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 238
+  },
+  {
+    "book_id": "isbn-9784480062932",
+    "title": "デカルト入門",
+    "author": "小林道夫",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480062932",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008202986",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 219
+  },
+  {
+    "book_id": "isbn-9784560509272",
+    "title": "スピノザ入門",
+    "author": "ピエール＝フランソワ・モロー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784560509272",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009454863",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白水社",
+    "pages": 163
+  },
+  {
+    "book_id": "isbn-9784480058775",
+    "title": "ハイデガー入門",
+    "author": "細川亮一",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480058775",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002962632",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 253
+  },
+  {
+    "book_id": "isbn-9784480056207",
+    "title": "ウィトゲンシュタイン入門",
+    "author": "永井均",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480056207",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002391120",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 222
+  },
+  {
+    "book_id": "isbn-9784480056719",
+    "title": "フーコー入門",
+    "author": "中山元",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480056719",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002522873",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 238
+  },
+  {
+    "book_id": "isbn-9784480058003",
+    "title": "レヴィナス入門",
+    "author": "熊野純彦",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480058003",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002790829",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784004310075",
+    "title": "西洋哲学史",
+    "author": "熊野純彦",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004310075",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008174568",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 257
+  },
+  {
+    "book_id": "isbn-9784004312062",
+    "title": "和辻哲郎",
+    "author": "熊野純彦",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004312062",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010579921",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 241
+  },
+  {
+    "book_id": "isbn-9784480096746",
+    "title": "プラトン入門",
+    "author": "竹田青嗣",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480096746",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026417286",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 326
+  },
+  {
+    "book_id": "isbn-9784061593060",
+    "title": "ソクラテス以前の哲学者",
+    "author": "廣川洋一",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061593060",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002644894",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 393
+  },
+  {
+    "book_id": "isbn-9784062880046",
+    "title": "はじめての言語ゲーム",
+    "author": "橋爪大三郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062880046",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010412301",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 269
+  },
+  {
+    "book_id": "isbn-9784478101872",
+    "title": "哲学と宗教全史",
+    "author": "出口治明",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784478101872",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029842573",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ダイヤモンド社",
+    "pages": 465
+  },
+  {
+    "book_id": "isbn-9784344983922",
+    "title": "人生を面白くする本物の教養",
+    "author": "出口治明",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344983922",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026738632",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 261
+  },
+  {
+    "book_id": "isbn-9784121804815",
+    "title": "無意識の構造",
+    "author": "河合隼雄",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121804815",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028156048",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 213
+  },
+  {
+    "book_id": "isbn-9784022641137",
+    "title": "中年クライシス",
+    "author": "河合隼雄",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022641137",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002515908",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞社",
+    "pages": 198
+  },
+  {
+    "book_id": "isbn-9784062562195",
+    "title": "母性社会日本の病理",
+    "author": "河合隼雄",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062562195",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002631930",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 361
+  },
+  {
+    "book_id": "isbn-9784344981324",
+    "title": "しがみつかない生き方",
+    "author": "香山リカ",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344981324",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010561929",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 204
+  },
+  {
+    "book_id": "isbn-9784062934206",
+    "title": "自分を好きになる方法",
+    "author": "本谷有希子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062934206",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027329431",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 200
+  },
+  {
+    "book_id": "isbn-9784062879262",
+    "title": "不機嫌な職場",
+    "author": "高橋克徳",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062879262",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009231070",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 205
   }
 ]

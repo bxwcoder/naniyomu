@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-13T15:53:51.933Z
-- 候補：6189冊
-- 入れた本：5645冊
-- 入れなかった本：544冊
+- 検索日時：2026-11-13T16:09:35.582Z
+- 候補：6216冊
+- 入れた本：5671冊
+- 入れなかった本：545冊
 
 ## 入れなかった本
 
@@ -551,6 +551,7 @@
 - 第二次世界大戦／アントニー・ビーヴァー（教養の定番）：タイトルが同じで ISBN のある記録がない
 - 冷戦／ジョン・L・ギャディス（教養の定番）：タイトルが同じで ISBN のある記録がない
 - アヘン戦争／陳舜臣（教養の定番）：タイトルが同じで ISBN のある記録がない
+- 家族関係を考える／河合隼雄（教養の定番）：タイトルが同じで ISBN のある記録がない
 
 ## 入れた本と選んだ版
 
@@ -6199,3 +6200,29 @@
 - 隋の煬帝：中公文庫／中央公論社／1987.9／270p／NDC 222.047／liberal_arts・normal・medium
 - 大唐帝国：中公文庫／中央公論社／1988.9／444p／NDC 222.048／liberal_arts・normal・medium
 - 中国史：岩波文庫 ; 33-133-3／岩波書店／2015.5／353p／NDC 222.01／liberal_arts・normal・long
+- 哲学入門：ちくま新書 ; 1060／筑摩書房／2014.3／446p／NDC 100／liberal_arts・normal・medium
+- 勉強するのは何のため?：叢書なし／日本評論社／2013.8／207p／NDC 370／liberal_arts・normal・short
+- 自由はいかに可能か：NHKブックス ; 1218／NHK出版／2014.6／282p／NDC 311.1／liberal_arts・normal・medium
+- 現代思想の冒険：ちくま学芸文庫／筑摩書房／1992.6／250p／NDC 104／liberal_arts・normal・medium
+- はじめての現象学：叢書なし／海鳥社／1993.4／293p／NDC 134.9／liberal_arts・normal・medium
+- ニーチェ入門：ちくま新書／筑摩書房／1994.9／237p／NDC 134.9／liberal_arts・normal・short
+- カント入門：ちくま新書／筑摩書房／1995.5／238p／NDC 134.2／liberal_arts・normal・short
+- デカルト入門：ちくま新書／筑摩書房／2006.4／219p／NDC 135.23／liberal_arts・normal・short
+- スピノザ入門：文庫クセジュ ; 927／白水社／2008.8／163, 14p／NDC 135.2／liberal_arts・normal・short
+- ハイデガー入門：ちくま新書／筑摩書房／2001.1／253p／NDC 134.96／liberal_arts・normal・medium
+- ウィトゲンシュタイン入門：ちくま新書／筑摩書房／1995.1／222p／NDC 134.9／liberal_arts・normal・short
+- フーコー入門：ちくま新書／筑摩書房／1996.6／238p／NDC 135.57／liberal_arts・normal・short
+- レヴィナス入門：ちくま新書／筑摩書房／1999.5／221p／NDC 135.5／liberal_arts・normal・short
+- 西洋哲学史：岩波新書／岩波書店／2006.4／257, 33p／NDC 130.2／liberal_arts・normal・medium
+- 和辻哲郎：岩波新書 ; 新赤版1206／岩波書店／2009.9／241, 5p／NDC 121.65／liberal_arts・normal・short
+- プラトン入門：ちくま学芸文庫 ; タ1-6／筑摩書房／2015.6／326p／NDC 131.3／liberal_arts・normal・medium
+- ソクラテス以前の哲学者：講談社学術文庫／講談社／1997.11／393p／NDC 131.1／liberal_arts・normal・medium
+- はじめての言語ゲーム：講談社現代新書 ; 2004／講談社／2009.7／269p／NDC 134.97／liberal_arts・normal・medium
+- 哲学と宗教全史：叢書なし／ダイヤモンド社／2019.8／465p／NDC 102／liberal_arts・normal・long
+- 人生を面白くする本物の教養：幻冬舎新書 ; て-3-1／幻冬舎／2015.9／261p／NDC 002／liberal_arts・normal・medium
+- 無意識の構造：中公新書 ; 481／中央公論新社／2017.5／213p／NDC 145.1／liberal_arts・normal・short
+- 中年クライシス：朝日文芸文庫／朝日新聞社／1996.7／198p／NDC 361.64／liberal_arts・normal・short
+- 母性社会日本の病理：講談社+α文庫／講談社／1997.9／361p／NDC 146.8／liberal_arts・normal・medium
+- しがみつかない生き方：幻冬舎新書 ; 132／幻冬舎／2009.7／204p／NDC 159／practical・normal・short
+- 自分を好きになる方法：講談社文庫 ; も48-5／講談社／2016.6／200p／NDC 913.6／novel・easy・short
+- 不機嫌な職場：講談社現代新書／講談社／2008.1／205p／NDC 336.49／practical・normal・short
