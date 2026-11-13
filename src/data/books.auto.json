@@ -163216,5 +163216,653 @@
     "tier": "basic",
     "publisher": "角川書店",
     "pages": 269
+  },
+  {
+    "book_id": "isbn-9784344425163",
+    "title": "山女日記",
+    "author": "湊かなえ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344425163",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027491152",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 381
+  },
+  {
+    "book_id": "isbn-9784087454529",
+    "title": "世界地図の下書き",
+    "author": "朝井リョウ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087454529",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027320851",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 365
+  },
+  {
+    "book_id": "isbn-9784000071949",
+    "title": "ブッダ最後の旅",
+    "author": "中村元",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784000071949",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003047111",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 326
+  },
+  {
+    "book_id": "isbn-9784000070089",
+    "title": "般若心経・金剛般若経",
+    "author": "中村元",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784000070089",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002091387",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 217
+  },
+  {
+    "book_id": "isbn-9784000070416",
+    "title": "法華経",
+    "author": "坂本幸男",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784000070416",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002118543",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 443
+  },
+  {
+    "book_id": "isbn-9784003331019",
+    "title": "臨済録",
+    "author": "入矢義高",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003331019",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001965874",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 230
+  },
+  {
+    "book_id": "isbn-9784003331217",
+    "title": "無門関",
+    "author": "西村恵信",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003331217",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002348237",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 216
+  },
+  {
+    "book_id": "isbn-9784003331118",
+    "title": "碧巌録",
+    "author": "入矢義高",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003331118",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002183198",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 369
+  },
+  {
+    "book_id": "isbn-9784003332115",
+    "title": "一遍上人語録",
+    "author": "大橋俊雄",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003332115",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I10111100104843",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 224
+  },
+  {
+    "book_id": "isbn-9784003331613",
+    "title": "往生要集",
+    "author": "源信",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003331613",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002223989",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 402
+  },
+  {
+    "book_id": "isbn-9784121600158",
+    "title": "立正安国論",
+    "author": "日蓮",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121600158",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003047091",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 406
+  },
+  {
+    "book_id": "isbn-9784121600523",
+    "title": "三教指帰",
+    "author": "空海",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121600523",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004151227",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 362
+  },
+  {
+    "book_id": "isbn-9784121601025",
+    "title": "日本的霊性",
+    "author": "鈴木大拙",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121601025",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009331998",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 383
+  },
+  {
+    "book_id": "isbn-9784003380116",
+    "title": "旧約聖書 創世記",
+    "author": "関根正雄",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003380116",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002222732",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 232
+  },
+  {
+    "book_id": "isbn-9784000072397",
+    "title": "コーラン",
+    "author": "井筒俊彦",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784000072397",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007347203",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 306
+  },
+  {
+    "book_id": "isbn-9784003380413",
+    "title": "キリストにならいて",
+    "author": "トマス・ア・ケンピス",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003380413",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I30111100128636",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 280
+  },
+  {
+    "book_id": "isbn-9784764218079",
+    "title": "神の国",
+    "author": "アウグスティヌス",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784764218079",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025164102",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "教文館",
+    "pages": 789
+  },
+  {
+    "book_id": "isbn-9784764266919",
+    "title": "キリスト者の自由",
+    "author": "ルター",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784764266919",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011221523",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "教文館",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784003322215",
+    "title": "大学・中庸",
+    "author": "金谷治",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003322215",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002685889",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 261
+  },
+  {
+    "book_id": "isbn-9784121600059",
+    "title": "荀子",
+    "author": "荀子",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121600059",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003002855",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 280
+  },
+  {
+    "book_id": "isbn-9784121601797",
+    "title": "墨子",
+    "author": "墨子",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121601797",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028810092",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 262
+  },
+  {
+    "book_id": "isbn-9784121600820",
+    "title": "伝習録",
+    "author": "王陽明",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121600820",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007963657",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 450
+  },
+  {
+    "book_id": "isbn-9784121600257",
+    "title": "講孟余話",
+    "author": "吉田松陰",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121600257",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003644458",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 475
+  },
+  {
+    "book_id": "isbn-9784061595651",
+    "title": "留魂録",
+    "author": "吉田松陰",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061595651",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003678403",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 217
   }
 ]

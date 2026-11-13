@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-13T21:52:40.480Z
-- 候補：6764冊
-- 入れた本：6137冊
-- 入れなかった本：627冊
+- 検索日時：2026-11-13T22:12:56.543Z
+- 候補：6790冊
+- 入れた本：6161冊
+- 入れなかった本：629冊
 
 ## 入れなかった本
 
@@ -634,6 +634,8 @@
 - パミラ／リチャードソン（海外の名作）：タイトルが同じで ISBN のある記録がない
 - ささやかで大きな嘘／リアーン・モリアーティ（ミステリー定番）：タイトルが同じで ISBN のある記録がない
 - 冷静と情熱のあいだ Rosso／江國香織（人気の小説）：候補リストの別の行と同じ本
+- 真理のことば・感興のことば／中村元（教養の定番）：タイトルが同じで ISBN のある記録がない
+- エックハルト説教集／エックハルト（教養の定番）：著者が合う記録がない
 
 ## 入れた本と選んだ版
 
@@ -6774,3 +6776,27 @@
 - ゆっくりさよならをとなえる：新潮文庫／新潮社／2004.12／221p／NDC 914.6／nonfiction・easy・short
 - 最果てアーケード：講談社文庫 ; お80-3／講談社／2015.5／245p／NDC 913.6／novel・easy・short
 - アンネ・フランクの記憶：角川文庫／角川書店／1998.11／269p／NDC 915.6／nonfiction・easy・medium
+- 山女日記：幻冬舎文庫 ; み-23-2／幻冬舎／2016.8／381p／NDC 913.6／novel・easy・medium
+- 世界地図の下書き：集英社文庫 ; あ69-4／集英社／2016.6／365p／NDC 913.6／novel・easy・medium
+- ブッダ最後の旅：叢書なし／岩波書店／2001.10／326p／NDC 183.59／liberal_arts・normal・medium
+- 般若心経・金剛般若経：ワイド版岩波文庫／岩波書店／1991.1／217p／NDC 183.2／liberal_arts・normal・short
+- 法華経：ワイド版岩波文庫／岩波書店／1991.6／443p／NDC 183.3／liberal_arts・normal・long
+- 臨済録：岩波文庫／岩波書店／1989.1／230p／NDC 188.84／liberal_arts・normal・short
+- 無門関：岩波文庫／岩波書店／1994.6／216p／NDC 188.84／liberal_arts・normal・short
+- 碧巌録：岩波文庫／岩波書店／1992.6／369p／NDC 188.84／liberal_arts・normal・long
+- 一遍上人語録：岩波文庫／岩波書店／1985.5／224p ; 15cm／NDC 188.694／liberal_arts・normal・short
+- 往生要集：岩波文庫／岩波書店／1992.10／402p／NDC 188.63／liberal_arts・normal・long
+- 立正安国論：中公クラシックス／中央公論新社／2001.9／406p／NDC 188.93／liberal_arts・normal・medium
+- 三教指帰：中公クラシックス／中央公論新社／2003.5／27, 362p／NDC 188.54／liberal_arts・normal・medium
+- 日本的霊性：中公クラシックス ; J36／中央公論新社／2008.3／383p／NDC 182.1／liberal_arts・normal・medium
+- 旧約聖書 創世記：岩波文庫／岩波書店／1992.3／232p／NDC 193.211／liberal_arts・normal・short
+- コーラン：ワイド版岩波文庫／岩波書店／2004.4／306p／NDC 167.3／liberal_arts・normal・long
+- キリストにならいて：岩波文庫／岩波書店／1982／280p ; 15cm／NDC 132.2／liberal_arts・normal・medium
+- 神の国：キリスト教古典叢書／教文館／2014.1／789p／NDC 132.1／liberal_arts・normal・long
+- キリスト者の自由：叢書なし／教文館／2011.5／317p／NDC 198.31／liberal_arts・normal・medium
+- 大学・中庸：岩波文庫／岩波書店／1998.4／261, 12p／NDC 123.8／liberal_arts・normal・medium
+- 荀子：中公クラシックス／中央公論新社／2001.5／280p／NDC 124.17／liberal_arts・normal・medium
+- 墨子：中公クラシックス ; E16／中央公論新社／2018.2／262p／NDC 124.3／liberal_arts・normal・medium
+- 伝習録：中公クラシックス ; E12／中央公論新社／2005.9／24, 450p／NDC 125.5／liberal_arts・normal・long
+- 講孟余話：中公クラシックス／中央公論新社／2002.2／475p／NDC 121.59／liberal_arts・normal・long
+- 留魂録：講談社学術文庫／講談社／2002.9／217p／NDC 121.59／liberal_arts・normal・short
