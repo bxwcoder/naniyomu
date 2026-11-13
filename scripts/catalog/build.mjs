@@ -70,7 +70,9 @@ function chooseEdition(candidate, items) {
       (it.ndc === null || isMangaNdc(it.ndc) === wantManga) &&
       !(wantManga && MANGA_COMPILATION.test(`${it.seriesTitle ?? ''} ${it.title}`)) &&
       !isForeignPublisher(it) &&
-      !(wantStory && it.ndc && !/^9/.test(it.ndc)),
+      !(wantStory && it.ndc && !/^9/.test(it.ndc)) &&
+      // 物語の候補なのに、文学の研究書・文学史（930.28 など）の分類の本は除く
+      !(wantStory && it.ndc && /^9\d0\.2/.test(it.ndc)),
   );
   if (firsts.length === 0) return null;
   // 分類番号のない記録は、外国語の教科書などのことが多いので使わない
