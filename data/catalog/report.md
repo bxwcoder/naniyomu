@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-13T03:21:17.928Z
-- 候補：5455冊
-- 入れた本：4958冊
-- 入れなかった本：497冊
+- 検索日時：2026-11-13T04:10:10.124Z
+- 候補：5508冊
+- 入れた本：5004冊
+- 入れなかった本：504冊
 
 ## 入れなかった本
 
@@ -504,6 +504,13 @@
 - 悪魔の詩／サルマン・ラシュディ（海外の名作）：タイトルが同じで ISBN のある記録がない
 - ある微笑／サガン（海外の名作）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
 - 幻獣辞典／J・L・ボルヘス（海外の名作）：著者が合う記録がない
+- 家郷の訓／宮本常一（教養の定番）：タイトルが同じで ISBN のある記録がない
+- 無限と連続／遠山啓（教養の定番）：タイトルが同じで ISBN のある記録がない
+- 時間と自己／木村敏（教養の定番）：まだ国立国会図書館で検索できていない
+- 99.9%は仮説／竹内薫（教養の定番）：まだ国立国会図書館で検索できていない
+- 単一民族神話の起源／小熊英二（教養の定番）：まだ国立国会図書館で検索できていない
+- 日本社会のしくみ／小熊英二（教養の定番）：まだ国立国会図書館で検索できていない
+- 隠された十字架／梅原猛（教養の定番）：まだ国立国会図書館で検索できていない
 
 ## 入れた本と選んだ版
 
@@ -5465,3 +5472,49 @@
 - シャギー・ベイン：叢書なし／早川書房／2022.4／609p／NDC 933.7／novel・normal・long
 - フィフティ・ピープル：となりの国のものがたり ; 01／亜紀書房／2018.10／485p／NDC 929.13／novel・normal・long
 - 保健室のアン・ウニョン先生：チョン・セランの本 ; 01／亜紀書房／2020.3／299p／NDC 929.13／novel・normal・medium
+- 模倣の殺意：創元推理文庫／東京創元社／2004.8／327p／NDC 913.6／mystery_sf・normal・medium
+- なめらかな世界と、その敵：ハヤカワ文庫 JA ; 1518／早川書房／2022.4／463p／NDC 913.6／mystery_sf・normal・long
+- 弁護側の証人：集英社文庫 ; こ5-3／集英社／2009.4／260p／NDC 913.6／mystery_sf・normal・medium
+- 倒錯のロンド：講談社文庫 ; お63-24／講談社／2021.1／396p／NDC 913.6／mystery_sf・normal・medium
+- 沈黙の教室：ハヤカワ文庫 : JA／早川書房／1997.5／697p／NDC 913.6／mystery_sf・normal・long
+- 異人たちの館：文春文庫 ; お-26-17／文藝春秋／2016.11／614p／NDC 913.6／mystery_sf・normal・long
+- チグリスとユーフラテス：集英社文庫／集英社／2002.5／474p／NDC 913.6／mystery_sf・normal・long
+- グリーン・レクイエム：講談社文庫／講談社／1983.10／244p／NDC 913.6／mystery_sf・normal・short
+- バイバイ、エンジェル：創元推理文庫／東京創元社／1995.5／395p／NDC 913.6／mystery_sf・normal・medium
+- 哲学者の密室：創元推理文庫／東京創元社／2002.4／1182p／NDC 913.6／mystery_sf・normal・long
+- 殺人喜劇の13人：創元推理文庫 ; Mあ9-5／東京創元社／2015.1／453p／NDC 913.6／mystery_sf・normal・long
+- 永遠の森：ハヤカワ文庫 : JA／早川書房／2004.3／453p／NDC 913.6／mystery_sf・normal・long
+- カラマーゾフの妹：講談社文庫 ; た123-2／講談社／2014.8／401p／NDC 913.6／mystery_sf・normal・medium
+- 遠きに目ありて：創元推理文庫／東京創元社／1992.12／406p／NDC 913.6／mystery_sf・normal・medium
+- ミステリーズ：叢書なし／講談社／1994.8／366p／NDC 913.6／mystery_sf・normal・medium
+- エコール・ド・パリ殺人事件：講談社文庫 ; ふ73-1／講談社／2011.5／472p／NDC 913.6／mystery_sf・normal・long
+- 宿借りの星：創元SF文庫 ; SFと1-2／東京創元社／2024.9／592p／NDC 913.6／mystery_sf・normal・long
+- 人獣細工：角川ホラー文庫／角川書店／1999.12／260p／NDC 913.6／mystery_sf・normal・medium
+- 一の悲劇：祥伝社文庫 ; の3-4／祥伝社／2022.4／400p／NDC 913.6／mystery_sf・normal・medium
+- 探偵映画：講談社文庫／講談社／1994.7／332p／NDC 913.6／mystery_sf・normal・medium
+- 人格転移の殺人：講談社文庫／講談社／2000.2／408p／NDC 913.6／mystery_sf・normal・medium
+- 乱れからくり：創元推理文庫／東京創元社／1993.9／378p／NDC 913.6／mystery_sf・normal・medium
+- 黒い白鳥：創元推理文庫／東京創元社／2002.3／448p／NDC 913.6／mystery_sf・normal・medium
+- 火星ダーク・バラード：ハルキ文庫／角川春樹事務所／2008.10／526p／NDC 913.6／mystery_sf・normal・long
+- 午前零時のサンドリヨン：創元推理文庫 ; Mあ14-1／東京創元社／2012.10／386p／NDC 913.6／mystery_sf・normal・medium
+- 海上の道：[角川ソフィア文庫] ; [SP J-102-6]／角川学芸出版、角川グループパブリッシング (発売)／2013.1／345p／NDC 380.4／liberal_arts・normal・medium
+- 木綿以前の事：岩波文庫／岩波書店／1979.2(第15刷:1999.7)／310p／NDC 382.1／liberal_arts・normal・medium
+- 死者の書：岩波文庫 ; 31-186-2／岩波書店／2010.5／323p／NDC 913.6／novel・normal・medium
+- 自動車の社会的費用：叢書なし／岩波書店／1974.6.／ページ数不明／NDC 685／liberal_arts・normal・medium
+- 社会的共通資本：岩波新書／岩波書店／2000.11／239p／NDC 343.7／liberal_arts・normal・short
+- 貨幣論：ちくま文庫／筑摩書房／1998.3／237, 8p／NDC 337.1／practical・normal・short
+- 会社はこれからどうなるのか：叢書なし／平凡社／2003.2／341p／NDC 335.4／practical・normal・medium
+- 家父長制と資本制：岩波現代文庫 ; G216／岩波書店／2009.5／457, 5p／NDC 367.1／liberal_arts・normal・long
+- 女ぎらい：朝日文庫 ; う5-9／朝日新聞出版／2018.10／389p／NDC 367.21／liberal_arts・normal・medium
+- 不可能性の時代：岩波新書／岩波書店／2008.4／289, 7p／NDC 304／liberal_arts・normal・medium
+- はじめての構造主義：講談社現代新書／講談社／1988.5／232p／NDC 116.9／liberal_arts・normal・short
+- 治療文化論：岩波現代文庫 : 学術／岩波書店／2001.5／255p／NDC 493.7／liberal_arts・normal・medium
+- 塩の道：講談社学術文庫／講談社／1985.3／220p／NDC 382.1／liberal_arts・normal・short
+- 一下級将校の見た帝国陸軍：文春文庫／文芸春秋／1987.8／345p／NDC 396.21／nonfiction・normal・medium
+- 哲学の教科書：講談社学術文庫／講談社／2001.4／377p／NDC 104／liberal_arts・normal・medium
+- 論文の教室：NHKブックス ; 1272／NHK出版／2022.1／347p／NDC 816.5／liberal_arts・normal・medium
+- 日本史のツボ：文春新書 ; 1153／文藝春秋／2018.1／222p／NDC 210.1／liberal_arts・normal・short
+- 進化とはなんだろうか：岩波ジュニア新書／岩波書店／1999.6／213, 4p／NDC 467／liberal_arts・normal・short
+- 生物の世界：中公クラシックス／中央公論新社／2002.6／325p／NDC 460.4／liberal_arts・normal・medium
+- 怠け数学者の記：岩波現代文庫 : 社会／岩波書店／2000.8／315p／NDC 410.49／nonfiction・easy・medium
+- 数学的思考：講談社学術文庫／講談社／1991.7／239p／NDC 410.4／liberal_arts・normal・short
