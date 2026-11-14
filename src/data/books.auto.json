@@ -174946,5 +174946,192 @@
     "tier": "basic",
     "publisher": "小学館",
     "pages": 347
+  },
+  {
+    "book_id": "isbn-9784167906474",
+    "title": "死神の浮力",
+    "author": "伊坂幸太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167906474",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027439412",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 538
+  },
+  {
+    "book_id": "isbn-9784087462944",
+    "title": "蒲公英草紙",
+    "author": "恩田陸",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087462944",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009369829",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 273
+  },
+  {
+    "book_id": "isbn-9784087464320",
+    "title": "エンド・ゲーム",
+    "author": "恩田陸",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087464320",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010179122",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 363
+  },
+  {
+    "book_id": "isbn-9784062756945",
+    "title": "黄昏の百合の骨",
+    "author": "恩田陸",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062756945",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008512236",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 405
+  },
+  {
+    "book_id": "isbn-9784041133200",
+    "title": "ドミノin上海",
+    "author": "恩田陸",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041133200",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032635286",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 588
+  },
+  {
+    "book_id": "isbn-9784122056145",
+    "title": "ステップ",
+    "author": "重松清",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122056145",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023458571",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 366
+  },
+  {
+    "book_id": "isbn-9784042177012",
+    "title": "青い鳥",
+    "author": "メーテルリンク",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784042177012",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002349190",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 213
   }
 ]
