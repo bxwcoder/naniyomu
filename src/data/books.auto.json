@@ -169112,5 +169112,397 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 349
+  },
+  {
+    "book_id": "isbn-9784781600413",
+    "title": "ベンジャミン・バトン",
+    "author": "スコット・フィッツジェラルド",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784781600413",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010367576",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "イースト・プレス",
+    "pages": 92
+  },
+  {
+    "book_id": "isbn-9784061838581",
+    "title": "カンガルー日和",
+    "author": "村上春樹",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061838581",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001824655",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 251
+  },
+  {
+    "book_id": "isbn-9784101001333",
+    "title": "蛍・納屋を焼く・その他の短編",
+    "author": "村上春樹",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101001333",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001878775",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 189
+  },
+  {
+    "book_id": "isbn-9784000253604",
+    "title": "優しい語り手",
+    "author": "オルガ・トカルチュク",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784000253604",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031632975",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 116
+  },
+  {
+    "book_id": "isbn-9784105901363",
+    "title": "人生の段階",
+    "author": "ジュリアン・バーンズ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784105901363",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028052599",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 151
+  },
+  {
+    "book_id": "isbn-9784105900991",
+    "title": "終わりの感覚",
+    "author": "ジュリアン・バーンズ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784105900991",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024126910",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 188
+  },
+  {
+    "book_id": "isbn-9784560044544",
+    "title": "フロベールの鸚鵡",
+    "author": "ジュリアン・バーンズ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784560044544",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002012622",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白水社",
+    "pages": 293
+  },
+  {
+    "book_id": "isbn-9784152092052",
+    "title": "ウルフ・ホール",
+    "author": "ヒラリー・マンテル",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784152092052",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011227247",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 492
+  },
+  {
+    "book_id": "isbn-9784151201004",
+    "title": "地下鉄道",
+    "author": "コルソン・ホワイトヘッド",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151201004",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030671692",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 492
+  },
+  {
+    "book_id": "isbn-9784152099785",
+    "title": "ニッケル・ボーイズ",
+    "author": "コルソン・ホワイトヘッド",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784152099785",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030738766",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 269
+  },
+  {
+    "book_id": "isbn-9784105901578",
+    "title": "トリック",
+    "author": "エマヌエル・ベルクマン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784105901578",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029580177",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 399
+  },
+  {
+    "book_id": "isbn-9784105058760",
+    "title": "オーバーストーリー",
+    "author": "リチャード・パワーズ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784105058760",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030012277",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 674
+  },
+  {
+    "book_id": "isbn-9784105058777",
+    "title": "惑う星",
+    "author": "リチャード・パワーズ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784105058777",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032494606",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 387
+  },
+  {
+    "book_id": "isbn-9784309468280",
+    "title": "囚人のジレンマ",
+    "author": "リチャード・パワーズ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309468280",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034576124",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 351
+  },
+  {
+    "book_id": "isbn-9784622048183",
+    "title": "ガラテイア2.2",
+    "author": "リチャード・パワーズ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784622048183",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003051171",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "みすず書房",
+    "pages": 403
   }
 ]
