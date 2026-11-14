@@ -178216,5 +178216,572 @@
     "tier": "basic",
     "publisher": "集英社",
     "pages": 197
+  },
+  {
+    "book_id": "isbn-9784758447140",
+    "title": "茜唄",
+    "author": "今村翔吾",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784758447140",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034058870",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 391
+  },
+  {
+    "book_id": "isbn-9784087441659",
+    "title": "腐れ梅",
+    "author": "澤田瞳子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087441659",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030661490",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 411
+  },
+  {
+    "book_id": "isbn-9784167914554",
+    "title": "銀の猫",
+    "author": "朝井まかて",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167914554",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030253903",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 355
+  },
+  {
+    "book_id": "isbn-9784396345150",
+    "title": "落陽",
+    "author": "朝井まかて",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784396345150",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029598357",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "祥伝社",
+    "pages": 374
+  },
+  {
+    "book_id": "isbn-9784087445442",
+    "title": "類",
+    "author": "朝井まかて",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087445442",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032913886",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 605
+  },
+  {
+    "book_id": "isbn-9784087442618",
+    "title": "絵金、闇を塗る",
+    "author": "木下昌輝",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087442618",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031472532",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 356
+  },
+  {
+    "book_id": "isbn-9784101273716",
+    "title": "橘花抄",
+    "author": "葉室麟",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101273716",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024389629",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 492
+  },
+  {
+    "book_id": "isbn-9784022647252",
+    "title": "柚子の花咲く",
+    "author": "葉室麟",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022647252",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024865504",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 355
+  },
+  {
+    "book_id": "isbn-9784167838911",
+    "title": "白樫の樹の下で",
+    "author": "青山文平",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167838911",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025005015",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 269
+  },
+  {
+    "book_id": "isbn-9784065331767",
+    "title": "黛家の兄弟",
+    "author": "砂原浩太朗",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065331767",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033199293",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 473
+  },
+  {
+    "book_id": "isbn-9784065416204",
+    "title": "霜月記",
+    "author": "砂原浩太朗",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065416204",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034389304",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 357
+  },
+  {
+    "book_id": "isbn-9784101357744",
+    "title": "善人長屋",
+    "author": "西條奈加",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101357744",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023944529",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 381
+  },
+  {
+    "book_id": "isbn-9784758438735",
+    "title": "あい",
+    "author": "高田郁",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784758438735",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026068746",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 429
+  },
+  {
+    "book_id": "isbn-9784167670030",
+    "title": "蒼龍",
+    "author": "山本一力",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167670030",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007697855",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 361
+  },
+  {
+    "book_id": "isbn-9784167919283",
+    "title": "大名倒産",
+    "author": "浅田次郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167919283",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032318805",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 383
+  },
+  {
+    "book_id": "isbn-9784122073159",
+    "title": "流人道中記",
+    "author": "浅田次郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122073159",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032642720",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 411
+  },
+  {
+    "book_id": "isbn-9784122070547",
+    "title": "五郎治殿御始末",
+    "author": "浅田次郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122070547",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031380871",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 301
+  },
+  {
+    "book_id": "isbn-9784122069169",
+    "title": "お腹召しませ",
+    "author": "浅田次郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122069169",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030551961",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 301
+  },
+  {
+    "book_id": "isbn-9784334728441",
+    "title": "きんぴか",
+    "author": "浅田次郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334728441",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002806012",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 315
+  },
+  {
+    "book_id": "isbn-9784087448092",
+    "title": "獅子吼",
+    "author": "浅田次郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087448092",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034293214",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 296
+  },
+  {
+    "book_id": "isbn-9784087716641",
+    "title": "帰郷",
+    "author": "浅田次郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087716641",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027375845",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 252
   }
 ]
