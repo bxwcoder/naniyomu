@@ -171706,5 +171706,473 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 312
+  },
+  {
+    "book_id": "isbn-9784101005034",
+    "title": "刺青・秘密",
+    "author": "谷崎潤一郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101005034",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026973479",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 329
+  },
+  {
+    "book_id": "isbn-9784122045187",
+    "title": "武州公秘話",
+    "author": "谷崎潤一郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122045187",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007796402",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 235
+  },
+  {
+    "book_id": "isbn-9784122020030",
+    "title": "盲目物語",
+    "author": "谷崎潤一郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122020030",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002261000",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 189
+  },
+  {
+    "book_id": "isbn-9784122071117",
+    "title": "台所太平記",
+    "author": "谷崎潤一郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122071117",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031659056",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 229
+  },
+  {
+    "book_id": "isbn-9784122049130",
+    "title": "夢の浮橋",
+    "author": "谷崎潤一郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122049130",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009154281",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 213
+  },
+  {
+    "book_id": "isbn-9784907365448",
+    "title": "つゆのあとさき",
+    "author": "永井荷風",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784907365448",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909772140993",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "響林社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784003104293",
+    "title": "ふらんす物語",
+    "author": "永井荷風",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003104293",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003984553",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 446
+  },
+  {
+    "book_id": "isbn-9784003104262",
+    "title": "あめりか物語",
+    "author": "永井荷風",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003104262",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003984559",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 378
+  },
+  {
+    "book_id": "isbn-9784062955119",
+    "title": "日和下駄",
+    "author": "永井荷風",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062955119",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027805919",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 217
+  },
+  {
+    "book_id": "isbn-9784309920306",
+    "title": "草迷宮",
+    "author": "泉鏡花",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309920306",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025886889",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "エディシオン・トレヴィル",
+    "pages": 214
+  },
+  {
+    "book_id": "isbn-9784316800325",
+    "title": "照葉狂言",
+    "author": "泉鏡花",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784316800325",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004214442",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "教育出版",
+    "pages": 218
+  },
+  {
+    "book_id": "isbn-9784003127124",
+    "title": "外科室・海城発電",
+    "author": "泉鏡花",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003127124",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002141269",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 281
+  },
+  {
+    "book_id": "isbn-9784003600337",
+    "title": "桜の実の熟する時",
+    "author": "島崎藤村",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003600337",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028791561",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 285
+  },
+  {
+    "book_id": "isbn-9784101055039",
+    "title": "春",
+    "author": "島崎藤村",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101055039",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009103588",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 386
+  },
+  {
+    "book_id": "isbn-9784101004068",
+    "title": "大和路・信濃路",
+    "author": "堀辰雄",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101004068",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007719513",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 209
+  },
+  {
+    "book_id": "isbn-9784796664103",
+    "title": "信長",
+    "author": "坂口安吾",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784796664103",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009365113",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "宝島社",
+    "pages": 413
+  },
+  {
+    "book_id": "isbn-9784041100189",
+    "title": "肝臓先生",
+    "author": "坂口安吾",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041100189",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002653256",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 253
+  },
+  {
+    "book_id": "isbn-9784820591207",
+    "title": "可能性の文学",
+    "author": "織田作之助",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784820591207",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002076805",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日本図書センター",
+    "pages": 246
   }
 ]
