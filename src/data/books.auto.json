@@ -169842,5 +169842,399 @@
     "tier": "basic",
     "publisher": "岩波書店",
     "pages": 310
+  },
+  {
+    "book_id": "isbn-9784061960176",
+    "title": "暗室",
+    "author": "吉行淳之介",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061960176",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001921573",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 309
+  },
+  {
+    "book_id": "isbn-9784061961098",
+    "title": "幕が下りてから",
+    "author": "安岡章太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061961098",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002081093",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 334
+  },
+  {
+    "book_id": "isbn-9784101130026",
+    "title": "質屋の女房",
+    "author": "安岡章太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101130026",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007646061",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 296
+  },
+  {
+    "book_id": "isbn-9784062902281",
+    "title": "ザボンの花",
+    "author": "庄野潤三",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062902281",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025369333",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 329
+  },
+  {
+    "book_id": "isbn-9784062001205",
+    "title": "別れる理由",
+    "author": "小島信夫",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062001205",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001571473",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 468
+  },
+  {
+    "book_id": "isbn-9784101110028",
+    "title": "雲の墓標",
+    "author": "阿川弘之",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101110028",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I11141123545042",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 212
+  },
+  {
+    "book_id": "isbn-9784101110011",
+    "title": "春の城",
+    "author": "阿川弘之",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101110011",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970023484944500493",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784101110066",
+    "title": "米内光政",
+    "author": "阿川弘之",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101110066",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001561456",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 557
+  },
+  {
+    "book_id": "isbn-9784101110141",
+    "title": "井上成美",
+    "author": "阿川弘之",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101110141",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002192581",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 602
+  },
+  {
+    "book_id": "isbn-9784061983335",
+    "title": "槿",
+    "author": "古井由吉",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061983335",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004117780",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 541
+  },
+  {
+    "book_id": "isbn-9784061984530",
+    "title": "山躁賦",
+    "author": "古井由吉",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061984530",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008297684",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 253
+  },
+  {
+    "book_id": "isbn-9784309403779",
+    "title": "少年たちの終わらない夜",
+    "author": "鷺沢萠",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309403779",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002268723",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 215
+  },
+  {
+    "book_id": "isbn-9784167266028",
+    "title": "帰れぬ人びと",
+    "author": "鷺沢萠",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167266028",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002212924",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 238
+  },
+  {
+    "book_id": "isbn-9784022640284",
+    "title": "奇蹟",
+    "author": "中上健次",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022640284",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002310960",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞社",
+    "pages": 405
+  },
+  {
+    "book_id": "isbn-9784167207021",
+    "title": "日輪の翼",
+    "author": "中上健次",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167207021",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002206343",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 382
   }
 ]
