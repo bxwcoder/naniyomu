@@ -168776,6 +168776,32 @@
     "pages": 444
   },
   {
+    "book_id": "isbn-9784271310440",
+    "title": "北と南",
+    "author": "エリザベス・ギャスケル",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784271310440",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034457170",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "大阪教育図書",
+    "pages": 477
+  },
+  {
     "book_id": "isbn-9784890260188",
     "title": "ダニエル・デロンダ",
     "author": "ジョージ・エリオット",
