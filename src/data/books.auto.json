@@ -174208,5 +174208,320 @@
     "tier": "basic",
     "publisher": "KADOKAWA",
     "pages": 380
+  },
+  {
+    "book_id": "isbn-9784167903374",
+    "title": "魔法使いは完全犯罪の夢を見るか?",
+    "author": "東川篤哉",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167903374",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026267158",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 322
+  },
+  {
+    "book_id": "isbn-9784041085714",
+    "title": "彼女の色に届くまで",
+    "author": "似鳥鶏",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041085714",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030228299",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 347
+  },
+  {
+    "book_id": "isbn-9784087443394",
+    "title": "早朝始発の殺風景",
+    "author": "青崎有吾",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087443394",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031889459",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 228
+  },
+  {
+    "book_id": "isbn-9784062940344",
+    "title": "小説の神様",
+    "author": "相沢沙呼",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062940344",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027346029",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 382
+  },
+  {
+    "book_id": "isbn-9784041023044",
+    "title": "マツリカ・マジョルカ",
+    "author": "相沢沙呼",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041023044",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027098125",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 278
+  },
+  {
+    "book_id": "isbn-9784065353684",
+    "title": "時計泥棒と悪人たち",
+    "author": "夕木春央",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065353684",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034855717",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 604
+  },
+  {
+    "book_id": "isbn-9784408559032",
+    "title": "廃遊園地の殺人",
+    "author": "斜線堂有紀",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784408559032",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033702548",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "実業之日本社",
+    "pages": 359
+  },
+  {
+    "book_id": "isbn-9784094073188",
+    "title": "十の輪をくぐる",
+    "author": "辻堂ゆめ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094073188",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033179646",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 472
+  },
+  {
+    "book_id": "isbn-9784488434229",
+    "title": "トリカゴ",
+    "author": "辻堂ゆめ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488434229",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033914386",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 457
+  },
+  {
+    "book_id": "isbn-9784122074965",
+    "title": "あの日の交換日記",
+    "author": "辻堂ゆめ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122074965",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033364008",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 307
+  },
+  {
+    "book_id": "isbn-9784344434233",
+    "title": "罪の境界",
+    "author": "薬丸岳",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344434233",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033711856",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 600
+  },
+  {
+    "book_id": "isbn-9784344428256",
+    "title": "絶対正義",
+    "author": "秋吉理香子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344428256",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029415931",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 286
   }
 ]
