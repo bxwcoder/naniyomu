@@ -168460,5 +168460,631 @@
     "tier": "basic",
     "publisher": "早川書房",
     "pages": 586
+  },
+  {
+    "book_id": "isbn-9784902385243",
+    "title": "十歳のきみへ",
+    "author": "日野原重明",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784902385243",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008158951",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "冨山房インターナショナル",
+    "pages": 185
+  },
+  {
+    "book_id": "isbn-9784101215167",
+    "title": "千年、働いてきました",
+    "author": "野村進",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101215167",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029096914",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 270
+  },
+  {
+    "book_id": "isbn-9784140054659",
+    "title": "天国の五人",
+    "author": "ミッチ・アルボム",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784140054659",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007560163",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日本放送出版協会",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784062882330",
+    "title": "ユーミンの罪",
+    "author": "酒井順子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062882330",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024970667",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 277
+  },
+  {
+    "book_id": "isbn-9784167560027",
+    "title": "東大落城",
+    "author": "佐々淳行",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167560027",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002466905",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 332
+  },
+  {
+    "book_id": "isbn-9784104158010",
+    "title": "ニッポン居酒屋放浪記",
+    "author": "太田和彦",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784104158010",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002567254",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 297
+  },
+  {
+    "book_id": "isbn-9784022620873",
+    "title": "わかりやすさの罪",
+    "author": "武田砂鉄",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022620873",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033231447",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 338
+  },
+  {
+    "book_id": "isbn-9784065354223",
+    "title": "虎のたましい人魚の涙",
+    "author": "くどうれいん",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065354223",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033405030",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 186
+  },
+  {
+    "book_id": "isbn-9784344416161",
+    "title": "グアテマラの弟",
+    "author": "片桐はいり",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344416161",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011237388",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 203
+  },
+  {
+    "book_id": "isbn-9784101335513",
+    "title": "はい、泳げません",
+    "author": "高橋秀実",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101335513",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009188574",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 220
+  },
+  {
+    "book_id": "isbn-9784883340576",
+    "title": "アグネス・グレイ",
+    "author": "アン・ブロンテ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784883340576",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003004556",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "京都修学社",
+    "pages": 374
+  },
+  {
+    "book_id": "isbn-9784560072257",
+    "title": "ヴィレット",
+    "author": "シャーロット・ブロンテ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784560072257",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029845434",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白水社",
+    "pages": 444
+  },
+  {
+    "book_id": "isbn-9784890260188",
+    "title": "ダニエル・デロンダ",
+    "author": "ジョージ・エリオット",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784890260188",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001856358",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日本教育研究センター (発売)",
+    "pages": 291
+  },
+  {
+    "book_id": "isbn-9784102041048",
+    "title": "デイジー・ミラー",
+    "author": "ヘンリー・ジェイムズ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102041048",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031336955",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 149
+  },
+  {
+    "book_id": "isbn-9784003231357",
+    "title": "ある婦人の肖像",
+    "author": "ヘンリー・ジェイムズ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003231357",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002553437",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 387
+  },
+  {
+    "book_id": "isbn-9784102413012",
+    "title": "エイジ・オブ・イノセンス",
+    "author": "イーディス・ウォートン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102413012",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002279781",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 481
+  },
+  {
+    "book_id": "isbn-9784752100942",
+    "title": "歓楽の家",
+    "author": "イーディス・ウォートン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784752100942",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002464403",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "荒地出版社",
+    "pages": 348
+  },
+  {
+    "book_id": "isbn-9784752100904",
+    "title": "目覚め",
+    "author": "ケイト・ショパン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784752100904",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002461029",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "荒地出版社",
+    "pages": 234
+  },
+  {
+    "book_id": "isbn-9784334752637",
+    "title": "ビリー・バッド",
+    "author": "メルヴィル",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334752637",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024072356",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 215
+  },
+  {
+    "book_id": "isbn-9784315514339",
+    "title": "アッシャー家の崩壊",
+    "author": "エドガー・アラン・ポー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784315514339",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002642037",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ニュートンプレス",
+    "pages": 101
+  },
+  {
+    "book_id": "isbn-9784003725115",
+    "title": "大使たち",
+    "author": "ヘンリー・ジェイムズ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003725115",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009153484",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 458
+  },
+  {
+    "book_id": "isbn-9784763421364",
+    "title": "アメリカの悲劇",
+    "author": "ドライサー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784763421364",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033691326",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "花伝社",
+    "pages": 564
+  },
+  {
+    "book_id": "isbn-9784003231913",
+    "title": "本町通り",
+    "author": "シンクレア・ルイス",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003231913",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I10111100066583",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 310
+  },
+  {
+    "book_id": "isbn-9784102201510",
+    "title": "ワインズバーグ、オハイオ",
+    "author": "シャーウッド・アンダーソン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102201510",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029037935",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 349
   }
 ]
