@@ -167647,5 +167647,449 @@
     "tier": "basic",
     "publisher": "中央公論社",
     "pages": 233
+  },
+  {
+    "book_id": "isbn-9784041007129",
+    "title": "南の子供が夜いくところ",
+    "author": "恒川光太郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041007129",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024244455",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 283
+  },
+  {
+    "book_id": "isbn-9784043913015",
+    "title": "粘膜人間",
+    "author": "飴村行",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043913015",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009762715",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 259
+  },
+  {
+    "book_id": "isbn-9784043838011",
+    "title": "姉飼",
+    "author": "遠藤徹",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043838011",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008371301",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 172
+  },
+  {
+    "book_id": "isbn-9784043943876",
+    "title": "バイロケーション",
+    "author": "法条遥",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043943876",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011023405",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 421
+  },
+  {
+    "book_id": "isbn-9784122057104",
+    "title": "青蛙堂鬼談",
+    "author": "岡本綺堂",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122057104",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023980961",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 259
+  },
+  {
+    "book_id": "isbn-9784122056602",
+    "title": "三浦老人昔話",
+    "author": "岡本綺堂",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122056602",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023683672",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 249
+  },
+  {
+    "book_id": "isbn-9784041053294",
+    "title": "芋虫",
+    "author": "江戸川乱歩",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041053294",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009430939",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 196
+  },
+  {
+    "book_id": "isbn-9784394301523",
+    "title": "パノラマ島奇談",
+    "author": "江戸川乱歩",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784394301523",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026577224",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "春陽堂書店",
+    "pages": 297
+  },
+  {
+    "book_id": "isbn-9784043855018",
+    "title": "最後の記憶",
+    "author": "綾辻行人",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043855018",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008604454",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 509
+  },
+  {
+    "book_id": "isbn-9784087470970",
+    "title": "眼球綺譚",
+    "author": "綾辻行人",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087470970",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002825976",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 331
+  },
+  {
+    "book_id": "isbn-9784122064140",
+    "title": "どこの家にも怖いものはいる",
+    "author": "三津田信三",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122064140",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028217541",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 361
+  },
+  {
+    "book_id": "isbn-9784041027226",
+    "title": "のぞきめ",
+    "author": "三津田信三",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041027226",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026245900",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 412
+  },
+  {
+    "book_id": "isbn-9784334742812",
+    "title": "禍家",
+    "author": "三津田信三",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334742812",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008617563",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 324
+  },
+  {
+    "book_id": "isbn-9784087458305",
+    "title": "怪談のテープ起こし",
+    "author": "三津田信三",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087458305",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029410528",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 329
+  },
+  {
+    "book_id": "isbn-9784062768993",
+    "title": "ルー=ガルー",
+    "author": "京極夏彦",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062768993",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011272461",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 473
+  },
+  {
+    "book_id": "isbn-9784591182253",
+    "title": "口に関するアンケート",
+    "author": "背筋",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784591182253",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033660037",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ポプラ社",
+    "pages": 59
+  },
+  {
+    "book_id": "isbn-9784781621111",
+    "title": "かわいそ笑",
+    "author": "梨",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784781621111",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032292012",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "イースト・プレス",
+    "pages": 190
   }
 ]
