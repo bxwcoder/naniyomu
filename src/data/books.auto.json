@@ -109407,6 +109407,32 @@
     "pages": 316
   },
   {
+    "book_id": "isbn-9784087501827",
+    "title": "玩具",
+    "author": "津村節子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087501827",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001396255",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 250
+  },
+  {
     "book_id": "isbn-9784006021894",
     "title": "カクテル・パーティー",
     "author": "大城立裕",
@@ -191799,5 +191825,1356 @@
     "tier": "basic",
     "publisher": "筑摩書房",
     "pages": 515
+  },
+  {
+    "book_id": "isbn-9784044601164",
+    "title": "アイの物語",
+    "author": "山本弘",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784044601164",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010084852",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 585
+  },
+  {
+    "book_id": "isbn-9784044601133",
+    "title": "神は沈黙せず",
+    "author": "山本弘",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784044601133",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008389398",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 461
+  },
+  {
+    "book_id": "isbn-9784041000199",
+    "title": "詩羽のいる街",
+    "author": "山本弘",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041000199",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023157282",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 455
+  },
+  {
+    "book_id": "isbn-9784635048514",
+    "title": "白き嶺の男",
+    "author": "谷甲州",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784635048514",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029019460",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "山と溪谷社",
+    "pages": 349
+  },
+  {
+    "book_id": "isbn-9784150306861",
+    "title": "エリコ",
+    "author": "谷甲州",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150306861",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003054693",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 447
+  },
+  {
+    "book_id": "isbn-9784150306328",
+    "title": "戦争を演じた神々たち",
+    "author": "大原まり子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150306328",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002862613",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 444
+  },
+  {
+    "book_id": "isbn-9784882934912",
+    "title": "星へ行く船",
+    "author": "新井素子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784882934912",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027575261",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "出版芸術社",
+    "pages": 298
+  },
+  {
+    "book_id": "isbn-9784041600016",
+    "title": "ひとめあなたに…",
+    "author": "新井素子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041600016",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001720995",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 347
+  },
+  {
+    "book_id": "isbn-9784344017306",
+    "title": "週末、森で",
+    "author": "益田ミリ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344017306",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010712506",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 167
+  },
+  {
+    "book_id": "isbn-9784150310202",
+    "title": "Boy's Surface",
+    "author": "円城塔",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150310202",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011087633",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 289
+  },
+  {
+    "book_id": "isbn-9784062159333",
+    "title": "烏有此譚",
+    "author": "円城塔",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062159333",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010645307",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 144
+  },
+  {
+    "book_id": "isbn-9784569677545",
+    "title": "オチケン!",
+    "author": "大倉崇裕",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784569677545",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023153821",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "PHP研究所",
+    "pages": 327
+  },
+  {
+    "book_id": "isbn-9784488470067",
+    "title": "福家警部補の再訪",
+    "author": "大倉崇裕",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488470067",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024664957",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 380
+  },
+  {
+    "book_id": "isbn-9784334741228",
+    "title": "サラマンダー殲滅",
+    "author": "梶尾真治",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334741228",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008295049",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 456
+  },
+  {
+    "book_id": "isbn-9784062751193",
+    "title": "鏡の中は日曜日",
+    "author": "殊能将之",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062751193",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007786749",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 574
+  },
+  {
+    "book_id": "isbn-9784062758178",
+    "title": "キマイラの新しい城",
+    "author": "殊能将之",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062758178",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008881384",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 469
+  },
+  {
+    "book_id": "isbn-9784796663588",
+    "title": "ナイチンゲールの沈黙",
+    "author": "海堂尊",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784796663588",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009491966",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "宝島社",
+    "pages": 299
+  },
+  {
+    "book_id": "isbn-9784796673594",
+    "title": "イノセント・ゲリラの祝祭",
+    "author": "海堂尊",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784796673594",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010660843",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "宝島社",
+    "pages": 252
+  },
+  {
+    "book_id": "isbn-9784062765251",
+    "title": "ブラックペアン1988",
+    "author": "海堂尊",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062765251",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010642282",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 204
+  },
+  {
+    "book_id": "isbn-9784101333113",
+    "title": "ジーン・ワルツ",
+    "author": "海堂尊",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101333113",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010905919",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 330
+  },
+  {
+    "book_id": "isbn-9784198931841",
+    "title": "白鳥異伝",
+    "author": "荻原規子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198931841",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010909896",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 409
+  },
+  {
+    "book_id": "isbn-9784198932046",
+    "title": "薄紅天女",
+    "author": "荻原規子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198932046",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010951257",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 329
+  },
+  {
+    "book_id": "isbn-9784094087727",
+    "title": "線の波紋",
+    "author": "長岡弘樹",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094087727",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024013339",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784575521986",
+    "title": "赤い刻印",
+    "author": "長岡弘樹",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575521986",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029547505",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 202
+  },
+  {
+    "book_id": "isbn-9784043709014",
+    "title": "壺中の天国",
+    "author": "倉知淳",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043709014",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004134258",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 631
+  },
+  {
+    "book_id": "isbn-9784488421021",
+    "title": "占い師はお昼寝中",
+    "author": "倉知淳",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488421021",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002908420",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 341
+  },
+  {
+    "book_id": "isbn-9784309420882",
+    "title": "スペース金融道",
+    "author": "宮内悠介",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309420882",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033343192",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 311
+  },
+  {
+    "book_id": "isbn-9784396348359",
+    "title": "遠い他国でひょんと死ぬるや",
+    "author": "宮内悠介",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784396348359",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032336629",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "祥伝社",
+    "pages": 418
+  },
+  {
+    "book_id": "isbn-9784150309046",
+    "title": "時砂の王",
+    "author": "小川一水",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150309046",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009153498",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 276
+  },
+  {
+    "book_id": "isbn-9784150307615",
+    "title": "復活の地",
+    "author": "小川一水",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150307615",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007379028",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 383
+  },
+  {
+    "book_id": "isbn-9784894569430",
+    "title": "導きの星",
+    "author": "小川一水",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784894569430",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003680926",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 325
+  },
+  {
+    "book_id": "isbn-9784062757089",
+    "title": "6ステイン",
+    "author": "福井晴敏",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062757089",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008512000",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 488
+  },
+  {
+    "book_id": "isbn-9784062767736",
+    "title": "平成関東大震災",
+    "author": "福井晴敏",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062767736",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010983515",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 180
+  },
+  {
+    "book_id": "isbn-9784062732260",
+    "title": "瞬間移動死体",
+    "author": "西澤保彦",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062732260",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003013331",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 429
+  },
+  {
+    "book_id": "isbn-9784062649278",
+    "title": "麦酒の家の冒険",
+    "author": "西澤保彦",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062649278",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002898202",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 359
+  },
+  {
+    "book_id": "isbn-9784344404472",
+    "title": "依存",
+    "author": "西澤保彦",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344404472",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007344105",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 638
+  },
+  {
+    "book_id": "isbn-9784167717261",
+    "title": "幽霊人命救助隊",
+    "author": "高野和明",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167717261",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008512157",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 605
+  },
+  {
+    "book_id": "isbn-9784062766524",
+    "title": "6時間後に君は死ぬ",
+    "author": "高野和明",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062766524",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010857830",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 430
+  },
+  {
+    "book_id": "isbn-9784044729103",
+    "title": "黒い季節",
+    "author": "冲方丁",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784044729103",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010980598",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 393
+  },
+  {
+    "book_id": "isbn-9784041041147",
+    "title": "はなとゆめ",
+    "author": "冲方丁",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041041147",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027467886",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 362
+  },
+  {
+    "book_id": "isbn-9784150308698",
+    "title": "マルドゥック・ヴェロシティ",
+    "author": "冲方丁",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150308698",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008356398",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 345
+  },
+  {
+    "book_id": "isbn-9784062754743",
+    "title": "親不孝通りディテクティブ",
+    "author": "北森鴻",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062754743",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008267629",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 343
+  },
+  {
+    "book_id": "isbn-9784087477801",
+    "title": "孔雀狂想曲",
+    "author": "北森鴻",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087477801",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007642481",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 293
+  },
+  {
+    "book_id": "isbn-9784061859760",
+    "title": "人形はこたつで推理する",
+    "author": "我孫子武丸",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061859760",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002424030",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 306
+  },
+  {
+    "book_id": "isbn-9784062648899",
+    "title": "ディプロトドンティア・マクロプス",
+    "author": "我孫子武丸",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062648899",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002898192",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 270
+  },
+  {
+    "book_id": "isbn-9784043595013",
+    "title": "ブードゥー・チャイルド",
+    "author": "歌野晶午",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043595013",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003017694",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 492
+  },
+  {
+    "book_id": "isbn-9784041015933",
+    "title": "家守",
+    "author": "歌野晶午",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041015933",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025570447",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 413
+  },
+  {
+    "book_id": "isbn-9784167909741",
+    "title": "ずっとあなたが好きでした",
+    "author": "歌野晶午",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167909741",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028649936",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 669
+  },
+  {
+    "book_id": "isbn-9784061852402",
+    "title": "誰彼",
+    "author": "法月綸太郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061852402",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002207932",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 442
+  },
+  {
+    "book_id": "isbn-9784061851115",
+    "title": "雪密室",
+    "author": "法月綸太郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061851115",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002165380",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 279
+  },
+  {
+    "book_id": "isbn-9784062931823",
+    "title": "キングを探せ",
+    "author": "法月綸太郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062931823",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026706877",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 329
   }
 ]
