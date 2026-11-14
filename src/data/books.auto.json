@@ -179376,5 +179376,548 @@
     "tier": "basic",
     "publisher": "小学館",
     "pages": 230
+  },
+  {
+    "book_id": "isbn-9784121019318",
+    "title": "物語イスラエルの歴史",
+    "author": "高橋正男",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121019318",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009273060",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 372
+  },
+  {
+    "book_id": "isbn-9784121025234",
+    "title": "古代オリエントの神々",
+    "author": "小林登志子",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121025234",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029426401",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 316
+  },
+  {
+    "book_id": "isbn-9784121018182",
+    "title": "シュメル",
+    "author": "小林登志子",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121018182",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007988700",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 300
+  },
+  {
+    "book_id": "isbn-9784121026613",
+    "title": "アケメネス朝ペルシア",
+    "author": "阿部拓児",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121026613",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031659044",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 259
+  },
+  {
+    "book_id": "isbn-9784062581745",
+    "title": "大清帝国",
+    "author": "石橋崇雄",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062581745",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002855916",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784122010741",
+    "title": "宦官",
+    "author": "三田村泰助",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122010741",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001685955",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 241
+  },
+  {
+    "book_id": "isbn-9784062740548",
+    "title": "三国志の世界",
+    "author": "金文京",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062740548",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007617391",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 398
+  },
+  {
+    "book_id": "isbn-9784004317890",
+    "title": "奴隷船の世界史",
+    "author": "布留川正博",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004317890",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029807260",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 234
+  },
+  {
+    "book_id": "isbn-9784062883382",
+    "title": "世界史を変えた薬",
+    "author": "佐藤健太郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062883382",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026773772",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 185
+  },
+  {
+    "book_id": "isbn-9784062881890",
+    "title": "世界史の中のパレスチナ問題",
+    "author": "臼杵陽",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062881890",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024168791",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 423
+  },
+  {
+    "book_id": "isbn-9784121023292",
+    "title": "ナチスの戦争1918-1949",
+    "author": "リチャード・ベッセル",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121023292",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026729882",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 339
+  },
+  {
+    "book_id": "isbn-9784121000279",
+    "title": "ワイマル共和国",
+    "author": "林健太郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121000279",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I10111100204235",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 220
+  },
+  {
+    "book_id": "isbn-9784121015969",
+    "title": "ベトナム戦争",
+    "author": "松岡完",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121015969",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003022258",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 336
+  },
+  {
+    "book_id": "isbn-9784121022707",
+    "title": "日清戦争",
+    "author": "大谷正",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121022707",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025508336",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 270
+  },
+  {
+    "book_id": "isbn-9784121021052",
+    "title": "昭和天皇",
+    "author": "古川隆久",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121021052",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011181823",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 428
+  },
+  {
+    "book_id": "isbn-9784121900760",
+    "title": "二・二六事件",
+    "author": "高橋正衛",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121900760",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002320643",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784121019271",
+    "title": "西南戦争",
+    "author": "小川原正道",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121019271",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009251332",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 258
+  },
+  {
+    "book_id": "isbn-9784642037778",
+    "title": "幕末維新の政治と天皇",
+    "author": "高橋秀直",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784642037778",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008436605",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "吉川弘文館",
+    "pages": 553
+  },
+  {
+    "book_id": "isbn-9784121008404",
+    "title": "江藤新平",
+    "author": "毛利敏彦",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121008404",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001863675",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 218
+  },
+  {
+    "book_id": "isbn-9784121021861",
+    "title": "田中角栄",
+    "author": "早野透",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121021861",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023996273",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 408
   }
 ]
