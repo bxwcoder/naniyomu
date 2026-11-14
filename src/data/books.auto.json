@@ -171077,5 +171077,218 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 477
+  },
+  {
+    "book_id": "isbn-9784101063010",
+    "title": "猟銃・闘牛",
+    "author": "井上靖",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101063010",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434848641186",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784575658460",
+    "title": "事件",
+    "author": "大岡昇平",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575658460",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002844140",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 576
+  },
+  {
+    "book_id": "isbn-9784870415072",
+    "title": "失楽園",
+    "author": "ミルトン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784870415072",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001641589",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "あぽろん社",
+    "pages": 350
+  },
+  {
+    "book_id": "isbn-9784253140058",
+    "title": "摩利と新吾",
+    "author": "木原敏江",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784253140058",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001887003",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "秋田書店",
+    "pages": 568
+  },
+  {
+    "book_id": "isbn-9784091785015",
+    "title": "夢の碑",
+    "author": "木原敏江",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091785015",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001707995",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 186
+  },
+  {
+    "book_id": "isbn-9784253260411",
+    "title": "悪魔の花嫁",
+    "author": "あしべゆうほ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784253260411",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009455099",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "秋田書店",
+    "pages": 187
+  },
+  {
+    "book_id": "isbn-9784091720320",
+    "title": "イグアナの娘",
+    "author": "萩尾望都",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091720320",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002339506",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 194
+  },
+  {
+    "book_id": "isbn-9784088533513",
+    "title": "お父さんは心配症",
+    "author": "岡田あーみん",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088533513",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033813988",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 195
   }
 ]
