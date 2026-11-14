@@ -82,8 +82,11 @@ let stoppedEarly = false;
 let fetchedCount = 0;
 let fetchedOk = 0;
 let kept = 0; // 探し直しが間に合わず、前の記録を残した本の数
-// まだ一度も探していない本（新しく足した候補）を先に、探し直しの本をあとに探す
-const order = [...candidates.entries()].sort(([, a], [, b]) => older.has(candidateKey(a)) - older.has(candidateKey(b)));
+// まだ一度も探していない本を先に、探し直しの本をあとに探す。
+// 新しい候補はリストの最後に足すので、下の行から順に探す（新しく足した候補ほど早く検索される）
+const order = [...candidates.entries()].sort(
+  ([i, a], [j, b]) => older.has(candidateKey(a)) - older.has(candidateKey(b)) || j - i,
+);
 for (const [i, c] of order) {
   const key = candidateKey(c);
   const prev = previous.get(key);
