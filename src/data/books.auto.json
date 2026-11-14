@@ -169504,5 +169504,343 @@
     "tier": "basic",
     "publisher": "みすず書房",
     "pages": 403
+  },
+  {
+    "book_id": "isbn-9784048970181",
+    "title": "蝶の舌",
+    "author": "マヌエル・リバス",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784048970181",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003033681",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 315
+  },
+  {
+    "book_id": "isbn-9784334105044",
+    "title": "悪い時",
+    "author": "ガブリエル・ガルシア＝マルケス",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334105044",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033761066",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 345
+  },
+  {
+    "book_id": "isbn-9784105090173",
+    "title": "わが悲しき娼婦たちの思い出",
+    "author": "ガブリエル・ガルシア＝マルケス",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784105090173",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008312164",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 141
+  },
+  {
+    "book_id": "isbn-9784105090050",
+    "title": "迷宮の将軍",
+    "author": "ガブリエル・ガルシア＝マルケス",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784105090050",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002131421",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 323
+  },
+  {
+    "book_id": "isbn-9784861823114",
+    "title": "チボの狂宴",
+    "author": "バルガス＝リョサ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784861823114",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011069603",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "作品社",
+    "pages": 538
+  },
+  {
+    "book_id": "isbn-9784309467870",
+    "title": "フリアとシナリオライター",
+    "author": "バルガス＝リョサ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309467870",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033009301",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 589
+  },
+  {
+    "book_id": "isbn-9784560721315",
+    "title": "天使の恥部",
+    "author": "マヌエル・プイグ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784560721315",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027828036",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白水社",
+    "pages": 360
+  },
+  {
+    "book_id": "isbn-9784003279014",
+    "title": "悪魔の涎・追い求める男",
+    "author": "コルタサル",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003279014",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002198054",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 301
+  },
+  {
+    "book_id": "isbn-9784003279038",
+    "title": "秘密の武器",
+    "author": "コルタサル",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003279038",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023763419",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784003279274",
+    "title": "ブロディーの報告書",
+    "author": "J・L・ボルヘス",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003279274",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023591734",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 201
+  },
+  {
+    "book_id": "isbn-9784003279120",
+    "title": "燃える平原",
+    "author": "フアン・ルルフォ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003279120",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028950004",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 287
+  },
+  {
+    "book_id": "isbn-9784101121048",
+    "title": "飢餓同盟",
+    "author": "安部公房",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101121048",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008512610",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 268
+  },
+  {
+    "book_id": "isbn-9784003121412",
+    "title": "けものたちは故郷をめざす",
+    "author": "安部公房",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003121412",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030253817",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 310
   }
 ]
