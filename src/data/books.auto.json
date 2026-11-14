@@ -5322,7 +5322,7 @@
     "pages": 339
   },
   {
-    "book_id": "isbn-9784778310264",
+    "book_id": "isbn-9784062764131",
     "title": "永遠の0",
     "author": "百田尚樹",
     "genres": [
@@ -5337,17 +5337,17 @@
       "moving"
     ],
     "difficulty": "normal",
-    "length_category": "medium",
+    "length_category": "long",
     "description": "",
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784778310264",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008473072",
+    "isbn": "9784062764131",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010390316",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "太田出版",
-    "pages": 445
+    "publisher": "講談社",
+    "pages": 589
   },
   {
     "book_id": "isbn-9784048704694",
@@ -11980,6 +11980,34 @@
     "pages": 312
   },
   {
+    "book_id": "isbn-9784101001593",
+    "title": "1Q84",
+    "author": "村上春樹",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "imagination",
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101001593",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023491741",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 357
+  },
+  {
     "book_id": "isbn-9784167905033",
     "title": "色彩を持たない多崎つくると、彼の巡礼の年",
     "author": "村上春樹",
@@ -14202,7 +14230,7 @@
     "pages": 296
   },
   {
-    "book_id": "isbn-9784150415075",
+    "book_id": "isbn-9784150411701",
     "title": "深海のYrr",
     "author": "フランク・シェッツィング",
     "genres": [
@@ -14221,12 +14249,12 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784150415075",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032666353",
+    "isbn": "9784150411701",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009365487",
     "metadata_verified": true,
     "tier": "basic",
     "publisher": "早川書房",
-    "pages": 510
+    "pages": 540
   },
   {
     "book_id": "isbn-9784488265076",
@@ -15311,6 +15339,32 @@
     "tier": "basic",
     "publisher": "小学館",
     "pages": 190
+  },
+  {
+    "book_id": "isbn-9784088792729",
+    "title": "東京喰種",
+    "author": "石田スイ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088792729",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023418664",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 213
   },
   {
     "book_id": "isbn-9784065134009",
@@ -21410,7 +21464,7 @@
     "pages": 189
   },
   {
-    "book_id": "isbn-9784086176507",
+    "book_id": "isbn-9784088517544",
     "title": "聖闘士星矢",
     "author": "車田正美",
     "genres": [
@@ -21428,12 +21482,12 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784086176507",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002955238",
+    "isbn": "9784088517544",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027484965",
     "metadata_verified": true,
     "tier": "basic",
     "publisher": "集英社",
-    "pages": 308
+    "pages": 179
   },
   {
     "book_id": "isbn-9784267906817",
@@ -29162,6 +29216,32 @@
     "pages": 411
   },
   {
+    "book_id": "isbn-9784062776660",
+    "title": "贖罪の奏鳴曲",
+    "author": "中山七里",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062776660",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024963672",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 392
+  },
+  {
     "book_id": "isbn-9784041019504",
     "title": "犯罪者",
     "author": "太田愛",
@@ -29928,6 +30008,32 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 186
+  },
+  {
+    "book_id": "isbn-9784041084427",
+    "title": "AX",
+    "author": "伊坂幸太郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041084427",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030231197",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 374
   },
   {
     "book_id": "isbn-9784334776282",
@@ -53034,6 +53140,60 @@
     "pages": 308
   },
   {
+    "book_id": "isbn-9784063235678",
+    "title": "頭文字D",
+    "author": "しげの秀一",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063235678",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023682797",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 223
+  },
+  {
+    "book_id": "isbn-9784063860184",
+    "title": "銃夢",
+    "author": "木城ゆきと",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063860184",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027668298",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 474
+  },
+  {
     "book_id": "isbn-9784063141825",
     "title": "BLAME!",
     "author": "弐瓶勉",
@@ -58511,7 +58671,7 @@
     "pages": 172
   },
   {
-    "book_id": "isbn-9784103522713",
+    "book_id": "isbn-9784101034416",
     "title": "1R1分34秒",
     "author": "町屋良平",
     "genres": [
@@ -58524,17 +58684,17 @@
       "moving"
     ],
     "difficulty": "normal",
-    "length_category": "medium",
+    "length_category": "short",
     "description": "",
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784103522713",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970023484950722334",
+    "isbn": "9784101034416",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031801385",
     "metadata_verified": true,
     "tier": "basic",
     "publisher": "新潮社",
-    "pages": null
+    "pages": 182
   },
   {
     "book_id": "isbn-9784065207833",
@@ -58967,6 +59127,33 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 179
+  },
+  {
+    "book_id": "isbn-9784757559202",
+    "title": "その着せ替え人形は恋をする",
+    "author": "福田晋一",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784757559202",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029339323",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "スクウェア・エニックス",
+    "pages": 199
   },
   {
     "book_id": "isbn-9784575930597",
@@ -63947,7 +64134,7 @@
     "pages": 277
   },
   {
-    "book_id": "isbn-9784063346428",
+    "book_id": "isbn-9784063195309",
     "title": "魔法騎士レイアース",
     "author": "CLAMP",
     "genres": [
@@ -63966,12 +64153,12 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784063346428",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004008243",
+    "isbn": "9784063195309",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011250950",
     "metadata_verified": true,
     "tier": "basic",
     "publisher": "講談社",
-    "pages": 196
+    "pages": 201
   },
   {
     "book_id": "isbn-9784088738345",
@@ -74297,11 +74484,11 @@
     "cover_image_url": null,
     "purchase_url": null,
     "isbn": "9784041041413",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434794819397",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027239332",
     "metadata_verified": true,
     "tier": "basic",
     "publisher": "KADOKAWA",
-    "pages": null
+    "pages": 261
   },
   {
     "book_id": "isbn-9784478115282",
@@ -77314,6 +77501,33 @@
     "pages": 251
   },
   {
+    "book_id": "isbn-9784088705040",
+    "title": "斉木楠雄のΨ難",
+    "author": "麻生周一",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088705040",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023911288",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 177
+  },
+  {
     "book_id": "isbn-9784091930040",
     "title": "みゆき",
     "author": "あだち充",
@@ -79406,32 +79620,6 @@
     "tier": "basic",
     "publisher": "集英社",
     "pages": 302
-  },
-  {
-    "book_id": "isbn-9784041141472",
-    "title": "777 トリプルセブン",
-    "author": "伊坂幸太郎",
-    "genres": [
-      "mystery_sf"
-    ],
-    "themes": [
-      "mystery"
-    ],
-    "moods": [
-      "absorbing"
-    ],
-    "difficulty": "normal",
-    "length_category": "medium",
-    "description": "",
-    "recommendation_reasons": [],
-    "cover_image_url": null,
-    "purchase_url": null,
-    "isbn": "9784041141472",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033037758",
-    "metadata_verified": true,
-    "tier": "basic",
-    "publisher": "KADOKAWA",
-    "pages": 293
   },
   {
     "book_id": "isbn-9784102451151",
@@ -91093,6 +91281,32 @@
     "pages": 265
   },
   {
+    "book_id": "isbn-9784591108352",
+    "title": "感傷旅行",
+    "author": "田辺聖子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784591108352",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010013127",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ポプラ社",
+    "pages": 217
+  },
+  {
     "book_id": "isbn-9784062767767",
     "title": "私的生活",
     "author": "田辺聖子",
@@ -95634,7 +95848,7 @@
     "pages": 421
   },
   {
-    "book_id": "isbn-9784062737876",
+    "book_id": "isbn-9784344427877",
     "title": "幽霊刑事",
     "author": "有栖川有栖",
     "genres": [
@@ -95652,12 +95866,12 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784062737876",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004181903",
+    "isbn": "9784344427877",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029221149",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "講談社",
-    "pages": 514
+    "publisher": "幻冬舎",
+    "pages": 602
   },
   {
     "book_id": "isbn-9784344426511",
@@ -104136,6 +104350,32 @@
     "tier": "basic",
     "publisher": "幻冬舎",
     "pages": 406
+  },
+  {
+    "book_id": "isbn-9784094070101",
+    "title": "東京輪舞",
+    "author": "月村了衛",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094070101",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031345137",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 631
   },
   {
     "book_id": "isbn-9784101212722",
@@ -118161,7 +118401,7 @@
     "pages": 413
   },
   {
-    "book_id": "isbn-9784065337851",
+    "book_id": "isbn-9784094061369",
     "title": "起終点駅",
     "author": "桜木紫乃",
     "genres": [
@@ -118180,12 +118420,12 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784065337851",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033565159",
+    "isbn": "9784094061369",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026159289",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "講談社",
-    "pages": 282
+    "publisher": "小学館",
+    "pages": 285
   },
   {
     "book_id": "isbn-9784101254821",
@@ -122051,6 +122291,33 @@
     "tier": "basic",
     "publisher": "日本経済新聞出版社",
     "pages": 590
+  },
+  {
+    "book_id": "isbn-9784150504144",
+    "title": "音楽嗜好症",
+    "author": "オリヴァー・サックス",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150504144",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025632283",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 542
   },
   {
     "book_id": "isbn-9784150504120",
@@ -126455,7 +126722,7 @@
     "pages": 632
   },
   {
-    "book_id": "isbn-9784497212061",
+    "book_id": "isbn-9784891741501",
     "title": "駱駝祥子",
     "author": "老舎",
     "genres": [
@@ -126468,17 +126735,17 @@
       "moving"
     ],
     "difficulty": "normal",
-    "length_category": "long",
+    "length_category": "medium",
     "description": "",
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784497212061",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026232195",
+    "isbn": "9784891741501",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002152483",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "東方書店",
-    "pages": 477
+    "publisher": "白帝社",
+    "pages": 421
   },
   {
     "book_id": "isbn-9784122066861",
@@ -129466,6 +129733,33 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 138
+  },
+  {
+    "book_id": "isbn-9784065172711",
+    "title": "日曜日の人々",
+    "author": "高橋弘希",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065172711",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029983398",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 186
   },
   {
     "book_id": "isbn-9784103507413",
@@ -141918,6 +142212,33 @@
     "pages": 340
   },
   {
+    "book_id": "isbn-9784829137871",
+    "title": "冴えない彼女の育てかた",
+    "author": "丸戸史明",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784829137871",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023778634",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "富士見書房",
+    "pages": 268
+  },
+  {
     "book_id": "isbn-9784309409764",
     "title": "浮世でランチ",
     "author": "山崎ナオコーラ",
@@ -143565,6 +143886,32 @@
     "tier": "basic",
     "publisher": "文藝春秋",
     "pages": 376
+  },
+  {
+    "book_id": "isbn-9784065139950",
+    "title": "恋と禁忌の述語論理",
+    "author": "井上真偽",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065139950",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029366411",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 468
   },
   {
     "book_id": "isbn-9784043852031",
@@ -170762,6 +171109,32 @@
     "pages": 592
   },
   {
+    "book_id": "isbn-9784062935333",
+    "title": "晩年様式集",
+    "author": "大江健三郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062935333",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027686759",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 424
+  },
+  {
     "book_id": "isbn-9784334740412",
     "title": "最後の晩餐",
     "author": "開高健",
@@ -176725,6 +177098,32 @@
     "tier": "basic",
     "publisher": "KADOKAWA",
     "pages": 383
+  },
+  {
+    "book_id": "isbn-9784062933186",
+    "title": "追憶の夜想曲",
+    "author": "中山七里",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062933186",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027138737",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 408
   },
   {
     "book_id": "isbn-9784094067958",
@@ -184586,6 +184985,33 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 549
+  },
+  {
+    "book_id": "isbn-9784167903572",
+    "title": "路",
+    "author": "吉田修一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167903572",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026327998",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 475
   },
   {
     "book_id": "isbn-9784101287539",

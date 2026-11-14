@@ -4,8 +4,9 @@
 export const norm = (s) =>
   (s ?? '')
     .normalize('NFKC')
-    // 「心淋(うらさび)し川」のような読みがなを外す
+    // 「心淋(うらさび)し川」「1Q84 (イチキュウハチヨン)」のような読みがなを外す
     .replace(/[(（][ぁ-ゖー]+[)）]/g, '')
+    .replace(/[(（][ァ-ヺー・]+[)）]/g, '')
     .toLowerCase()
     .replace(/[\s・、。,.:：;；!?！？「」『』()（）〈〉\-―ー=＝"'“”~〜]/g, '');
 
@@ -51,7 +52,7 @@ export const isUsableItem = (candidateTitle, item) =>
  */
 export const isFirstVolume = (volume) =>
   !volume ||
-  /^(第?0*1[巻部]?(\s*上巻?)?|巻ノ0*1|上巻?|前編|part\s?1|vol\.?\s?1)$/i.test(
+  /^(第?0*1[巻部]?(\s*上巻?)?|巻ノ0*1|上巻?|前編|part\s?1|vol\.?\s?1|book\s?0*1\s*(前編)?)$/i.test(
     volume.normalize('NFKC').replace(/\s*\(.*\)\s*$/, '').trim(),
   );
 

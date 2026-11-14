@@ -18,7 +18,7 @@ import { hasFirstVolume, isUsableItem } from './match.mjs';
 
 const MAX_RUN_MS = Number(process.env.MAX_RUN_MINUTES ?? 40) * 60000;
 /** 検索方法の版。検索方法を変えたら数字を上げると、見つからなかった本を取り直す */
-const METHOD_VERSION = 4;
+const METHOD_VERSION = 5;
 const startedAt = Date.now();
 
 const outDir = process.argv[2] ?? 'catalog-output';
@@ -43,10 +43,12 @@ const saveRecords = (records) =>
 /** タイトルで検索し、著者名が合う「図書」の記録だけを残す */
 async function search(c, params) {
   const result = await query({ title: c.title, cnt: '200', ...params });
-  const items = parseOpenSearch(result.text).filter(
+  const all = parseOpenSearch(result.text);
+  const items = all.filter(
     (it) => it.categories.includes('図書') && creatorMatches([...it.creators, it.author ?? ''], c.author),
   );
-  return { url: result.url, status: result.status, items };
+  // returned：著者で絞る前の件数（200件に届かなければ、検索結果はそこで終わり）
+  return { url: result.url, status: result.status, items, returned: all.length };
 }
 
 /**
@@ -112,6 +114,15 @@ for (const [i, c] of candidates.entries()) {
     result = await search(c, { dpid: 'iss-ndl-opac', until: String(Math.min(...years)) });
     for (const it of result.items) items.set(it.link ?? JSON.stringify(it), it);
     if (items.size === before) break;
+  }
+  // それでも第1巻がないときは、蔵書の検索結果の続き（201件目から）を順に見る（4ページ＝1000件目まで）。
+  // 「ONE PIECE」のように関連本（映画の本・画集など）が多いと、最初の200件に本編が入らないことがある
+  for (let page = 1; page <= 4 && result.status === 200 && !hasFirstVolume(c.title, [...items.values()]); page++) {
+    await sleep(INTERVAL_MS);
+    const next = await search(c, { dpid: 'iss-ndl-opac', idx: String(page * 200 + 1) });
+    if (next.status !== 200) break;
+    for (const it of next.items) items.set(it.link ?? JSON.stringify(it), it);
+    if (next.returned < 200) break;
   }
   result = { ...result, items: [...items.values()] };
   console.log(`  → ${result.status} / 著者が合う記録 ${result.items.length}件（${((Date.now() - started) / 1000).toFixed(1)}秒）`);
