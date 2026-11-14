@@ -96056,6 +96056,110 @@
     "pages": 382
   },
   {
+    "book_id": "isbn-9784151200298",
+    "title": "権力と栄光",
+    "author": "グレアム・グリーン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151200298",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007486287",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 461
+  },
+  {
+    "book_id": "isbn-9784151200328",
+    "title": "ブライトン・ロック",
+    "author": "グレアム・グリーン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151200328",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008221249",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 495
+  },
+  {
+    "book_id": "isbn-9784151200281",
+    "title": "おとなしいアメリカ人",
+    "author": "グレアム・グリーン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151200281",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007465209",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 367
+  },
+  {
+    "book_id": "isbn-9784151200335",
+    "title": "事件の核心",
+    "author": "グレアム・グリーン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151200335",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008043328",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 537
+  },
+  {
     "book_id": "isbn-9784105900632",
     "title": "土曜日",
     "author": "イアン・マキューアン",
@@ -102417,6 +102521,32 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 363
+  },
+  {
+    "book_id": "isbn-9784894341708",
+    "title": "あら皮",
+    "author": "バルザック",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784894341708",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002882116",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "藤原書店",
+    "pages": 436
   },
   {
     "book_id": "isbn-9784334753856",
