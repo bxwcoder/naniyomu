@@ -174523,5 +174523,428 @@
     "tier": "basic",
     "publisher": "幻冬舎",
     "pages": 286
+  },
+  {
+    "book_id": "isbn-9784087468182",
+    "title": "追想五断章",
+    "author": "米澤穂信",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087468182",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023537029",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 288
+  },
+  {
+    "book_id": "isbn-9784101287836",
+    "title": "リカーシブル",
+    "author": "米澤穂信",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101287836",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026436586",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 522
+  },
+  {
+    "book_id": "isbn-9784167919313",
+    "title": "Iの悲劇",
+    "author": "米澤穂信",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167919313",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032318808",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 410
+  },
+  {
+    "book_id": "isbn-9784488451059",
+    "title": "秋期限定栗きんとん事件",
+    "author": "米澤穂信",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488451059",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010054094",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784488451127",
+    "title": "冬期限定ボンボンショコラ事件",
+    "author": "米澤穂信",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488451127",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033438048",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 431
+  },
+  {
+    "book_id": "isbn-9784101355573",
+    "title": "雷神",
+    "author": "道尾秀介",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101355573",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033296449",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 525
+  },
+  {
+    "book_id": "isbn-9784087446586",
+    "title": "N",
+    "author": "道尾秀介",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087446586",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033514853",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 406
+  },
+  {
+    "book_id": "isbn-9784065334546",
+    "title": "きこえる",
+    "author": "道尾秀介",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065334546",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033161258",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 262
+  },
+  {
+    "book_id": "isbn-9784041113301",
+    "title": "スケルトン・キー",
+    "author": "道尾秀介",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041113301",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031409357",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 291
+  },
+  {
+    "book_id": "isbn-9784344429666",
+    "title": "わたしたちは銀のフォークと薬を手にして",
+    "author": "島本理生",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344429666",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030327914",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 310
+  },
+  {
+    "book_id": "isbn-9784591178683",
+    "title": "ほたるいしマジカルランド",
+    "author": "寺地はるな",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784591178683",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032948895",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ポプラ社",
+    "pages": 296
+  },
+  {
+    "book_id": "isbn-9784120050343",
+    "title": "架空の犬と嘘をつく猫",
+    "author": "寺地はるな",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784120050343",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028697705",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 237
+  },
+  {
+    "book_id": "isbn-9784408559636",
+    "title": "カレーの時間",
+    "author": "寺地はるな",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784408559636",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034221500",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "実業之日本社",
+    "pages": 331
+  },
+  {
+    "book_id": "isbn-9784344433953",
+    "title": "砂嵐に星屑",
+    "author": "一穂ミチ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344433953",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033565145",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 324
+  },
+  {
+    "book_id": "isbn-9784065376423",
+    "title": "うたかたモザイク",
+    "author": "一穂ミチ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065376423",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033775365",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 332
+  },
+  {
+    "book_id": "isbn-9784094073942",
+    "title": "ミニシアターの六人",
+    "author": "小野寺史宜",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094073942",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033713682",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 347
   }
 ]
