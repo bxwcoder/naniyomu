@@ -1,8 +1,8 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-14T03:03:18.197Z
-- 候補：7090冊
-- 入れた本：6402冊
+- 検索日時：2026-11-14T03:19:48.211Z
+- 候補：7108冊
+- 入れた本：6420冊
 - 入れなかった本：688冊
 
 ## 入れなかった本
@@ -7100,3 +7100,21 @@
 - 帰れぬ人びと：文春文庫／文芸春秋／1992.10／238p／NDC 913.6／novel・easy・short
 - 奇蹟：朝日文庫／朝日新聞社／1994.3／405p／NDC 913.6／novel・normal・medium
 - 日輪の翼：文春文庫／文芸春秋／1992.9／382p／NDC 913.6／novel・normal・medium
+- 道頓堀川：新潮文庫／新潮社／1994.12／247p／NDC 913.6／novel・easy・short
+- 星々の悲しみ：文春文庫／文藝春秋／2008.8／260p／NDC 913.6／novel・easy・medium
+- 幻の光：新潮文庫／新潮社／1983.7／171p／NDC 913.6／novel・easy・short
+- ドナウの旅人：新潮文庫／新潮社／1988.6／2冊／NDC 913.6／novel・easy・medium
+- 背教者ユリアヌス：中公文庫 ; つ3-25／中央公論新社／2017.12／424p／NDC 913.6／novel・normal・long
+- 安土往還記：新潮文庫／新潮社／2005.11／257p／NDC 913.6／novel・normal・medium
+- 西行花伝：新潮文庫／新潮社／1999.7／718p／NDC 913.6／novel・normal・long
+- 宣告：新潮文庫／新潮社／2003.3／494p／NDC 913.6／novel・normal・long
+- 永遠の都：新潮文庫／新潮社／1997.5／407p／NDC 913.6／novel・normal・long
+- アポロンの島：講談社文芸文庫／講談社／1998.1／269p／NDC 913.6／novel・normal・medium
+- 海を感じる時：講談社文庫／講談社／1984.6／169p／NDC 913.6／novel・normal・short
+- ウホッホ探険隊：福武文庫／福武書店／1985.11／232p／NDC 913.6／novel・normal・short
+- 優しいサヨクのための嬉遊曲：福武文庫／福武書店／1985.11／241p／NDC 913.6／novel・normal・short
+- 彼岸先生：新潮文庫／新潮社／1995.6／418p／NDC 913.6／novel・normal・medium
+- 夢遊王国のための音楽：福武文庫／福武書店／1987.9／239p／NDC 913.6／novel・normal・short
+- カブキの日：新潮文庫／新潮社／2002.7／385p／NDC 913.6／novel・normal・medium
+- 電話男：福武文庫／福武書店／1987.7／253p／NDC 913.6／novel・normal・medium
+- 抱擁：集英社文庫／集英社／1987.1／280p／NDC 913.6／novel・normal・medium
