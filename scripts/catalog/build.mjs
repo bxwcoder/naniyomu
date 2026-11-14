@@ -102,7 +102,18 @@ const { fetchedAt, records } = JSON.parse(await readFile(recordsPath, 'utf8'));
 const byKey = new Map(records.map((r) => [r.key, r]));
 const curated = JSON.parse(await readFile('src/data/books.json', 'utf8'));
 const curatedIsbns = new Set(curated.map((b) => b.isbn).filter(Boolean));
-const curatedTitles = new Set(curated.map((b) => norm(mainTitle(b.title.split(/\s/)[0]))));
+// 手で書いた本のタイトル → その著者たち（同じタイトルでも著者が違えば別の本として扱う）
+const curatedTitles = new Map();
+for (const b of curated) {
+  const t = norm(mainTitle(b.title.split(/\s/)[0]));
+  curatedTitles.set(t, [...(curatedTitles.get(t) ?? []), b.author]);
+}
+/** 著者名が同じ人を指しているか（「夏目漱石」と「漱石」、「カミュ」と「アルベール・カミュ」など） */
+const sameAuthor = (a, b) => {
+  const x = norm(a);
+  const y = norm(b);
+  return x.includes(y) || y.includes(x) || x.slice(-2) === y.slice(-2);
+};
 
 const books = [];
 const skipped = [];
@@ -110,7 +121,7 @@ const chosenLog = [];
 const usedIsbns = new Set();
 for (const c of candidates) {
   const skip = (reason) => skipped.push(`${c.title}／${c.author}（${c.source}）：${reason}`);
-  if (curatedTitles.has(norm(c.title))) {
+  if ((curatedTitles.get(norm(c.title)) ?? []).some((a) => sameAuthor(a, c.author))) {
     skip('手で書いた本のデータにすでにある');
     continue;
   }

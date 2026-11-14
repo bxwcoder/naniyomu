@@ -175320,6 +175320,32 @@
     "pages": 451
   },
   {
+    "book_id": "isbn-9784003105115",
+    "title": "銀の匙",
+    "author": "中勘助",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003105115",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002800150",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 227
+  },
+  {
     "book_id": "isbn-9784061597204",
     "title": "ハンニバル",
     "author": "長谷川博隆",
