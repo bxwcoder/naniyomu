@@ -182248,6 +182248,32 @@
     "pages": 522
   },
   {
+    "book_id": "isbn-9784167111267",
+    "title": "青葉繁れる",
+    "author": "井上ひさし",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167111267",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009235571",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 248
+  },
+  {
     "book_id": "isbn-9784101168210",
     "title": "腹鼓記",
     "author": "井上ひさし",
