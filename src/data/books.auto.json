@@ -172148,5 +172148,454 @@
     "tier": "basic",
     "publisher": "日本図書センター",
     "pages": 246
+  },
+  {
+    "book_id": "isbn-9784101109046",
+    "title": "西郷札",
+    "author": "松本清張",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101109046",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007383049",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 479
+  },
+  {
+    "book_id": "isbn-9784594029937",
+    "title": "真珠郎",
+    "author": "横溝正史",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784594029937",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002935764",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "扶桑社",
+    "pages": 476
+  },
+  {
+    "book_id": "isbn-9784882930679",
+    "title": "鬼火",
+    "author": "横溝正史",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784882930679",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002285669",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "出版芸術社",
+    "pages": 251
+  },
+  {
+    "book_id": "isbn-9784041304341",
+    "title": "迷路荘の惨劇",
+    "author": "横溝正史",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041304341",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I10111100422181",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 480
+  },
+  {
+    "book_id": "isbn-9784041304136",
+    "title": "白と黒",
+    "author": "横溝正史",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041304136",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I09111100330286",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 534
+  },
+  {
+    "book_id": "isbn-9784048692717",
+    "title": "ちょっと今から仕事やめてくる",
+    "author": "北川恵海",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784048692717",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026100620",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 235
+  },
+  {
+    "book_id": "isbn-9784048662703",
+    "title": "神様の御用人",
+    "author": "浅葉なつ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784048662703",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025076837",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 284
+  },
+  {
+    "book_id": "isbn-9784041006955",
+    "title": "櫻子さんの足下には死体が埋まっている",
+    "author": "太田紫織",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041006955",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024244421",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 275
+  },
+  {
+    "book_id": "isbn-9784086801881",
+    "title": "後宮の烏",
+    "author": "白川紺子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784086801881",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028914534",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 318
+  },
+  {
+    "book_id": "isbn-9784086800044",
+    "title": "下鴨アンティーク",
+    "author": "白川紺子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784086800044",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025992837",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784575517750",
+    "title": "京都寺町三条のホームズ",
+    "author": "望月麻衣",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575517750",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026299705",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 310
+  },
+  {
+    "book_id": "isbn-9784041067543",
+    "title": "宮廷神官物語",
+    "author": "榎田ユウリ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041067543",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028869544",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 249
+  },
+  {
+    "book_id": "isbn-9784041008867",
+    "title": "妖琦庵夜話",
+    "author": "榎田ユウリ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041008867",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024529429",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 306
+  },
+  {
+    "book_id": "isbn-9784434241956",
+    "title": "居酒屋ぼったくり",
+    "author": "秋川滝美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784434241956",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028826982",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "アルファポリス",
+    "pages": 357
+  },
+  {
+    "book_id": "isbn-9784041075326",
+    "title": "准教授・高槻彰良の推察",
+    "author": "澤村御影",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041075326",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029320035",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 285
+  },
+  {
+    "book_id": "isbn-9784048689304",
+    "title": "探偵・日暮旅人の探し物",
+    "author": "山口幸三郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784048689304",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010997643",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "アスキー・メディアワークス",
+    "pages": 287
+  },
+  {
+    "book_id": "isbn-9784591150412",
+    "title": "活版印刷三日月堂",
+    "author": "ほしおさなえ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784591150412",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027306669",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ポプラ社",
+    "pages": 311
   }
 ]
