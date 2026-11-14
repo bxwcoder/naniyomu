@@ -127847,6 +127847,33 @@
     "pages": 477
   },
   {
+    "book_id": "isbn-9784061847828",
+    "title": "中国の歴史",
+    "author": "陳舜臣",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061847828",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002073167",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 573
+  },
+  {
     "book_id": "isbn-9784062922579",
     "title": "三国志演義",
     "author": "羅貫中",
