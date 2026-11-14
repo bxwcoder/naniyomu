@@ -168091,5 +168091,348 @@
     "tier": "basic",
     "publisher": "イースト・プレス",
     "pages": 190
+  },
+  {
+    "book_id": "isbn-9784041095805",
+    "title": "るんびにの子供",
+    "author": "宇佐美まこと",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041095805",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030557865",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 247
+  },
+  {
+    "book_id": "isbn-9784167647032",
+    "title": "天使",
+    "author": "佐藤亜紀",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167647032",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007615549",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 301
+  },
+  {
+    "book_id": "isbn-9784488415020",
+    "title": "サマー・アポカリプス",
+    "author": "笠井潔",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488415020",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002487299",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 535
+  },
+  {
+    "book_id": "isbn-9784048927048",
+    "title": "キネマ探偵カレイドミステリー",
+    "author": "斜線堂有紀",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784048927048",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027976167",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 352
+  },
+  {
+    "book_id": "isbn-9784334777203",
+    "title": "キッド・ピストルズの冒瀆",
+    "author": "山口雅也",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334777203",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029171688",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 425
+  },
+  {
+    "book_id": "isbn-9784150119348",
+    "title": "第六ポンプ",
+    "author": "パオロ・バチガルピ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150119348",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025031534",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 510
+  },
+  {
+    "book_id": "isbn-9784153350083",
+    "title": "言語都市",
+    "author": "チャイナ・ミエヴィル",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784153350083",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024259573",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 493
+  },
+  {
+    "book_id": "isbn-9784150310363",
+    "title": "あなたのための物語",
+    "author": "長谷敏司",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150310363",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011205762",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 429
+  },
+  {
+    "book_id": "isbn-9784488168070",
+    "title": "暗い鏡の中に",
+    "author": "ヘレン・マクロイ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488168070",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011211770",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 300
+  },
+  {
+    "book_id": "isbn-9784488123062",
+    "title": "ジャンピング・ジェニイ",
+    "author": "アントニイ・バークリー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488123062",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010602854",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 350
+  },
+  {
+    "book_id": "isbn-9784488118464",
+    "title": "白い僧院の殺人",
+    "author": "カーター・ディクスン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488118464",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029744450",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 349
+  },
+  {
+    "book_id": "isbn-9784334706470",
+    "title": "シーザーの埋葬",
+    "author": "レックス・スタウト",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334706470",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001889552",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 325
+  },
+  {
+    "book_id": "isbn-9784150116231",
+    "title": "輝くもの天より墜ち",
+    "author": "ジェイムズ・ティプトリー・ジュニア",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150116231",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008774031",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 586
   }
 ]
