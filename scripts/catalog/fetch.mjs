@@ -26,12 +26,15 @@ await mkdir(outDir, { recursive: true });
 const recordsPath = join(outDir, 'records.json');
 
 const previous = new Map();
+// 古い探し方の記録も、探し直すまでは残しておく（途中で時間切れになっても、前の結果が消えないように）
+const older = new Map();
 try {
   const prev = JSON.parse(await readFile(recordsPath, 'utf8'));
   for (const r of prev.records ?? []) {
     // 使える記録（タイトルが同じで ISBN がある）が見つかった本と、今の探し方で探した本は取り直さない
     const found = hasFirstVolume(r.key.split('|')[0], r.items);
     if (r.status === 200 && (found || r.method === METHOD_VERSION)) previous.set(r.key, r);
+    else older.set(r.key, r);
   }
   console.log(`前回までに取れた本：${previous.size}冊`);
 } catch {
@@ -78,7 +81,10 @@ const records = [];
 let stoppedEarly = false;
 let fetchedCount = 0;
 let fetchedOk = 0;
-for (const [i, c] of candidates.entries()) {
+let kept = 0; // 探し直しが間に合わず、前の記録を残した本の数
+// まだ一度も探していない本（新しく足した候補）を先に、探し直しの本をあとに探す
+const order = [...candidates.entries()].sort(([, a], [, b]) => older.has(candidateKey(a)) - older.has(candidateKey(b)));
+for (const [i, c] of order) {
   const key = candidateKey(c);
   const prev = previous.get(key);
   if (prev) {
@@ -87,6 +93,10 @@ for (const [i, c] of candidates.entries()) {
   }
   if (Date.now() - startedAt > MAX_RUN_MS) {
     stoppedEarly = true;
+    if (older.has(key)) {
+      records.push(older.get(key));
+      if (older.get(key).status === 200) kept++;
+    }
     continue;
   }
   const started = Date.now();
@@ -135,7 +145,7 @@ for (const [i, c] of candidates.entries()) {
 
 // 新しく問い合わせた本がなければ、ファイルを書き換えない（自動実行のたびに保存が増えないように）
 if (fetchedCount > 0) await saveRecords(records);
-const done = records.filter((r) => r.status === 200).length;
+const done = records.filter((r) => r.status === 200).length - kept;
 console.log(`取得済み：${done}/${candidates.length}冊。出力先：${outDir}`);
 // 自動実行が「続きがあるか」を判断するための情報（環境変数 CATALOG_STATUS_FILE で場所を指定したときだけ書く）
 if (process.env.CATALOG_STATUS_FILE) {
