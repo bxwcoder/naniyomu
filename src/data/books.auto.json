@@ -167200,5 +167200,452 @@
     "tier": "basic",
     "publisher": "木鐸社",
     "pages": 564
+  },
+  {
+    "book_id": "isbn-9784101268026",
+    "title": "最長片道切符の旅",
+    "author": "宮脇俊三",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101268026",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001615857",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 372
+  },
+  {
+    "book_id": "isbn-9784044094829",
+    "title": "時刻表昭和史",
+    "author": "宮脇俊三",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784044094829",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026316114",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 329
+  },
+  {
+    "book_id": "isbn-9784860955625",
+    "title": "冥途",
+    "author": "内田百閒",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784860955625",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024398426",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "長崎出版",
+    "pages": 91
+  },
+  {
+    "book_id": "isbn-9784582763294",
+    "title": "日本奥地紀行",
+    "author": "イザベラ・バード",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784582763294",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002912733",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "平凡社",
+    "pages": 529
+  },
+  {
+    "book_id": "isbn-9784061590052",
+    "title": "ニッポン",
+    "author": "ブルーノ・タウト",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061590052",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002152847",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 207
+  },
+  {
+    "book_id": "isbn-9784167169145",
+    "title": "東京の下町",
+    "author": "吉村昭",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167169145",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001959286",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 233
+  },
+  {
+    "book_id": "isbn-9784062738972",
+    "title": "私の好きな悪い癖",
+    "author": "吉村昭",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062738972",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004280742",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 241
+  },
+  {
+    "book_id": "isbn-9784101235356",
+    "title": "旅のつばくろ",
+    "author": "沢木耕太郎",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101235356",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033113894",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 213
+  },
+  {
+    "book_id": "isbn-9784087472868",
+    "title": "天涯",
+    "author": "沢木耕太郎",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087472868",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002954456",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 253
+  },
+  {
+    "book_id": "isbn-9784062934633",
+    "title": "地図のない場所で眠りたい",
+    "author": "高野秀行",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062934633",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027622871",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 345
+  },
+  {
+    "book_id": "isbn-9784087477603",
+    "title": "怪しいシンドバッド",
+    "author": "高野秀行",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087477603",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007562524",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 293
+  },
+  {
+    "book_id": "isbn-9784087457513",
+    "title": "恋するソマリア",
+    "author": "高野秀行",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087457513",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028999958",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 343
+  },
+  {
+    "book_id": "isbn-9784344409798",
+    "title": "ダライ・ラマに恋して",
+    "author": "たかのてるこ",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344409798",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009193376",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 296
+  },
+  {
+    "book_id": "isbn-9784041038888",
+    "title": "英国一家、日本を食べる",
+    "author": "マイケル・ブース",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041038888",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028810022",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 236
+  },
+  {
+    "book_id": "isbn-9784334784751",
+    "title": "ロンドンで本を読む",
+    "author": "丸谷才一",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334784751",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008505315",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784105900274",
+    "title": "パリ左岸のピアノ工房",
+    "author": "T・E・カーハート",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784105900274",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003044837",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 318
+  },
+  {
+    "book_id": "isbn-9784122011632",
+    "title": "チャリング・クロス街84番地",
+    "author": "ヘレーン・ハンフ",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122011632",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001708590",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 233
   }
 ]
