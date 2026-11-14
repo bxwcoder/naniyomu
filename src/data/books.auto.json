@@ -16350,6 +16350,32 @@
     "pages": 198
   },
   {
+    "book_id": "isbn-9784091273437",
+    "title": "古見さんは、コミュ症です。",
+    "author": "オダトモヒト",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091273437",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027595165",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 189
+  },
+  {
     "book_id": "isbn-9784091250155",
     "title": "からかい上手の高木さん",
     "author": "山本崇一朗",
@@ -22019,6 +22045,32 @@
     "tier": "basic",
     "publisher": "メディアワークス",
     "pages": 160
+  },
+  {
+    "book_id": "isbn-9784840222921",
+    "title": "苺ましまろ",
+    "author": "ばらスィー",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784840222921",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023897545",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "アスキー･メディアワークス",
+    "pages": 170
   },
   {
     "book_id": "isbn-9784047139497",
@@ -123216,7 +123268,7 @@
     "pages": 533
   },
   {
-    "book_id": "isbn-9784592198109",
+    "book_id": "isbn-9784041121320",
     "title": "アマテラス",
     "author": "美内すずえ",
     "genres": [
@@ -123235,11 +123287,11 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784592198109",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010569414",
+    "isbn": "9784041121320",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031796441",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "白泉社",
+    "publisher": "KADOKAWA",
     "pages": null
   },
   {
