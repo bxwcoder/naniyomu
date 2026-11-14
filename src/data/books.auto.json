@@ -179027,6 +179027,33 @@
     "pages": 488
   },
   {
+    "book_id": "isbn-9784088826967",
+    "title": "ウィッチウォッチ",
+    "author": "篠原健太",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088826967",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031472690",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 188
+  },
+  {
     "book_id": "isbn-9784088830285",
     "title": "株式会社マジルミエ",
     "author": "岩田雪花",
