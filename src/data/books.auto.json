@@ -172597,5 +172597,544 @@
     "tier": "basic",
     "publisher": "ポプラ社",
     "pages": 311
+  },
+  {
+    "book_id": "isbn-9784086802512",
+    "title": "ホテルクラシカル猫番館",
+    "author": "小湊悠貴",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784086802512",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029644905",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 300
+  },
+  {
+    "book_id": "isbn-9784086800679",
+    "title": "ゆきうさぎのお品書き",
+    "author": "小湊悠貴",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784086800679",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027071356",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 280
+  },
+  {
+    "book_id": "isbn-9784048922746",
+    "title": "ちどり亭にようこそ",
+    "author": "十三湊",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784048922746",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027477373",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 311
+  },
+  {
+    "book_id": "isbn-9784040729275",
+    "title": "お直し処猫庵",
+    "author": "尼野ゆたか",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784040729275",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029189239",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 286
+  },
+  {
+    "book_id": "isbn-9784575515268",
+    "title": "珈琲屋の人々",
+    "author": "池永陽",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575515268",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023967696",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 334
+  },
+  {
+    "book_id": "isbn-9784758440561",
+    "title": "食堂のおばちゃん",
+    "author": "山口恵以子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784758440561",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027763066",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784569769547",
+    "title": "婚活食堂",
+    "author": "山口恵以子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784569769547",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029919287",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "PHP研究所",
+    "pages": 268
+  },
+  {
+    "book_id": "isbn-9784049140576",
+    "title": "深夜0時の司書見習い",
+    "author": "近江泉美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784049140576",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032080155",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784591135303",
+    "title": "晴れた日は図書館へいこう",
+    "author": "緑川聖司",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784591135303",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024619674",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ポプラ社",
+    "pages": 246
+  },
+  {
+    "book_id": "isbn-9784591170052",
+    "title": "百貨の魔法",
+    "author": "村山早紀",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784591170052",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031353256",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ポプラ社",
+    "pages": 452
+  },
+  {
+    "book_id": "isbn-9784569900858",
+    "title": "星をつなぐ手",
+    "author": "村山早紀",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784569900858",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030715554",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "PHP研究所",
+    "pages": 360
+  },
+  {
+    "book_id": "isbn-9784591122365",
+    "title": "カフェかもめ亭",
+    "author": "村山早紀",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784591122365",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011083321",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ポプラ社",
+    "pages": 326
+  },
+  {
+    "book_id": "isbn-9784334794552",
+    "title": "DRY",
+    "author": "原田ひ香",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334794552",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032499827",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 345
+  },
+  {
+    "book_id": "isbn-9784122075498",
+    "title": "母親からの小包はなぜこんなにダサいのか",
+    "author": "原田ひ香",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122075498",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033627700",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 346
+  },
+  {
+    "book_id": "isbn-9784575526547",
+    "title": "まずはこれ食べて",
+    "author": "原田ひ香",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575526547",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032738861",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 325
+  },
+  {
+    "book_id": "isbn-9784094075427",
+    "title": "喫茶おじさん",
+    "author": "原田ひ香",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094075427",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034530578",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 316
+  },
+  {
+    "book_id": "isbn-9784299044099",
+    "title": "月曜日の抹茶カフェ",
+    "author": "青山美智子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784299044099",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032832037",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "宝島社",
+    "pages": 235
+  },
+  {
+    "book_id": "isbn-9784299014900",
+    "title": "鎌倉うずまき案内所",
+    "author": "青山美智子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784299014900",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031350817",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "宝島社",
+    "pages": 394
+  },
+  {
+    "book_id": "isbn-9784299028853",
+    "title": "ただいま神様当番",
+    "author": "青山美智子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784299028853",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032106877",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "宝島社",
+    "pages": 332
+  },
+  {
+    "book_id": "isbn-9784299005304",
+    "title": "猫のお告げは樹の下で",
+    "author": "青山美智子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784299005304",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030414570",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "宝島社",
+    "pages": 353
   }
 ]
