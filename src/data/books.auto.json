@@ -177178,6 +177178,33 @@
     "pages": 304
   },
   {
+    "book_id": "isbn-9784065249680",
+    "title": "縁",
+    "author": "小野寺史宜",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065249680",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031645010",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 306
+  },
+  {
     "book_id": "isbn-9784041095850",
     "title": "本日も教官なり",
     "author": "小野寺史宜",
