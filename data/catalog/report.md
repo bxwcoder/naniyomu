@@ -1,8 +1,8 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-14T09:07:04.404Z
-- 候補：7388冊
-- 入れた本：6672冊
+- 検索日時：2026-11-14T09:25:51.221Z
+- 候補：7419冊
+- 入れた本：6703冊
 - 入れなかった本：716冊
 
 ## 入れなかった本
@@ -7398,3 +7398,34 @@
 - 温室デイズ：角川文庫 ; 15754／角川書店、角川グループパブリッシング (発売)／2009.6／215p／NDC 913.6／novel・easy・short
 - 僕らのごはんは明日で待ってる：幻冬舎文庫 ; せ-6-1／幻冬舎／2016.2／255p／NDC 913.6／novel・easy・medium
 - 私たちの世代は：文春文庫 ; せ8-6／文藝春秋／2026.2／287p／NDC 913.6／novel・easy・medium
+- 家族解散まで千キロメートル：叢書なし／KADOKAWA／2024.3／316p／NDC 913.6／novel・easy・medium
+- 名探偵のいけにえ：新潮文庫 ; し-92-2／新潮社／2026.8／535p／NDC 913.6／mystery_sf・normal・long
+- エレファントヘッド：叢書なし／KADOKAWA／2023.9／381p／NDC 913.6／mystery_sf・normal・medium
+- 星詠師の記憶：光文社文庫 ; あ65-2／光文社／2021.10／460p／NDC 913.6／mystery_sf・normal・long
+- 不可逆少年：講談社文庫 ; い153-2／講談社／2023.10／397p／NDC 913.6／mystery_sf・normal・medium
+- 競争の番人：叢書なし／講談社／2022.5／348p／NDC 913.6／mystery_sf・normal・medium
+- 救国ゲーム：新潮文庫 ; ゆ-16-4／新潮社／2024.12／500p／NDC 913.6／mystery_sf・normal・long
+- 答えは市役所3階に：光文社文庫 ; つ19-1／光文社／2026.1／380p／NDC 913.6／novel・easy・medium
+- 夜の道標：中公文庫 ; あ102-1／中央公論新社／2025.4／418p／NDC 913.6／mystery_sf・normal・medium
+- カインは言わなかった：文春文庫 ; あ90-1／文藝春秋／2022.8／407p／NDC 913.6／mystery_sf・normal・medium
+- 戦場のコックたち：創元推理文庫 ; Mふ7-2／東京創元社／2019.8／542p／NDC 913.6／mystery_sf・normal・long
+- オーブランの少女：創元推理文庫 ; Mふ7-1／東京創元社／2016.3／304p／NDC 913.6／mystery_sf・normal・medium
+- 死刑にいたる病：ハヤカワ文庫 JA ; 1300／早川書房／2017.10／363p／NDC 913.6／mystery_sf・normal・medium
+- 避雷針の夏：光文社文庫 ; く20-1／光文社／2017.7／371p／NDC 913.6／mystery_sf・normal・medium
+- 虜囚の犬：角川ホラー文庫 ; く5-32／KADOKAWA／2023.3／395p／NDC 913.6／mystery_sf・normal・medium
+- 信仰：文春文庫 ; む16-3／文藝春秋／2025.5／215p／NDC 913.6／novel・easy・short
+- 生命式：河出文庫 ; む4-2／河出書房新社／2022.5／295p／NDC 913.6／novel・easy・medium
+- 私の消滅：文春文庫 ; な69-3／文藝春秋／2019.7／175p／NDC 913.6／novel・easy・short
+- 銃：河出文庫 ; な29-1／河出書房新社／2012.7／216p／NDC 913.6／novel・easy・short
+- 去年の冬、きみと別れ：幻冬舎文庫 ; な-39-1／幻冬舎／2016.4／195p／NDC 913.6／novel・easy・short
+- 悪と仮面のルール：講談社文庫 ; な85-2／講談社／2013.10／394p／NDC 913.6／novel・easy・medium
+- 王国：河出文庫 ; な29-3／河出書房新社／2015.4／189p／NDC 913.6／novel・easy・short
+- 遮光：新潮文庫 ; な-56-3／新潮社／2011.1／155p／NDC 913.6／novel・easy・short
+- R帝国：中公文庫 ; な75-1／中央公論新社／2020.5／381p／NDC 913.6／novel・easy・medium
+- 逃亡者：幻冬舎文庫 ; な-39-2／幻冬舎／2022.11／584p／NDC 913.6／novel・easy・long
+- カード師：朝日文庫 ; な56-2／朝日新聞出版／2023.9／521p／NDC 913.6／novel・easy・long
+- 最後の命：講談社文庫 ; な85-1／講談社／2010.7／224p／NDC 913.6／novel・easy・short
+- 惑いの森：文春文庫 ; な69-2／文藝春秋／2018.1／205p／NDC 913.6／novel・easy・short
+- あなたが消えた夜に：毎日文庫 ; な1-1／毎日新聞出版／2018.11／500p／NDC 913.6／novel・easy・long
+- 迷宮：新潮文庫 ; な-56-5／新潮社／2015.4／205p／NDC 913.6／novel・easy・short
+- 何もかも憂鬱な夜に：集英社文庫 ; な54-1／集英社／2012.2／197p／NDC 913.6／novel・easy・short

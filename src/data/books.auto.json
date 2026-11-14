@@ -177392,5 +177392,829 @@
     "tier": "basic",
     "publisher": "文藝春秋",
     "pages": 287
+  },
+  {
+    "book_id": "isbn-9784041145647",
+    "title": "家族解散まで千キロメートル",
+    "author": "浅倉秋成",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041145647",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033378792",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 316
+  },
+  {
+    "book_id": "isbn-9784101044828",
+    "title": "名探偵のいけにえ",
+    "author": "白井智之",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101044828",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034833033",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 535
+  },
+  {
+    "book_id": "isbn-9784041141786",
+    "title": "エレファントヘッド",
+    "author": "白井智之",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041141786",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033047968",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 381
+  },
+  {
+    "book_id": "isbn-9784334792565",
+    "title": "星詠師の記憶",
+    "author": "阿津川辰海",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334792565",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031685012",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 460
+  },
+  {
+    "book_id": "isbn-9784065332849",
+    "title": "不可逆少年",
+    "author": "五十嵐律人",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065332849",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033080577",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 397
+  },
+  {
+    "book_id": "isbn-9784065268148",
+    "title": "競争の番人",
+    "author": "新川帆立",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065268148",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032109346",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 348
+  },
+  {
+    "book_id": "isbn-9784101032641",
+    "title": "救国ゲーム",
+    "author": "結城真一郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101032641",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033800111",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 500
+  },
+  {
+    "book_id": "isbn-9784334108786",
+    "title": "答えは市役所3階に",
+    "author": "辻堂ゆめ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334108786",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034463362",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 380
+  },
+  {
+    "book_id": "isbn-9784122076402",
+    "title": "夜の道標",
+    "author": "芦沢央",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122076402",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034034877",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 418
+  },
+  {
+    "book_id": "isbn-9784167919160",
+    "title": "カインは言わなかった",
+    "author": "芦沢央",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167919160",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032266445",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 407
+  },
+  {
+    "book_id": "isbn-9784488453121",
+    "title": "戦場のコックたち",
+    "author": "深緑野分",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488453121",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029842734",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 542
+  },
+  {
+    "book_id": "isbn-9784488453114",
+    "title": "オーブランの少女",
+    "author": "深緑野分",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488453114",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027157815",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 304
+  },
+  {
+    "book_id": "isbn-9784150313005",
+    "title": "死刑にいたる病",
+    "author": "櫛木理宇",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150313005",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028563266",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 363
+  },
+  {
+    "book_id": "isbn-9784334774936",
+    "title": "避雷針の夏",
+    "author": "櫛木理宇",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334774936",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028300725",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 371
+  },
+  {
+    "book_id": "isbn-9784041126028",
+    "title": "虜囚の犬",
+    "author": "櫛木理宇",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041126028",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032682973",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 395
+  },
+  {
+    "book_id": "isbn-9784167923617",
+    "title": "信仰",
+    "author": "村田沙耶香",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167923617",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034030236",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 215
+  },
+  {
+    "book_id": "isbn-9784309418872",
+    "title": "生命式",
+    "author": "村田沙耶香",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309418872",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032101755",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 295
+  },
+  {
+    "book_id": "isbn-9784167913083",
+    "title": "私の消滅",
+    "author": "中村文則",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167913083",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029751213",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 175
+  },
+  {
+    "book_id": "isbn-9784309411668",
+    "title": "銃",
+    "author": "中村文則",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309411668",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023757303",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 216
+  },
+  {
+    "book_id": "isbn-9784344424678",
+    "title": "去年の冬、きみと別れ",
+    "author": "中村文則",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344424678",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027212546",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 195
+  },
+  {
+    "book_id": "isbn-9784062776790",
+    "title": "悪と仮面のルール",
+    "author": "中村文則",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062776790",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024874667",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 394
+  },
+  {
+    "book_id": "isbn-9784309413600",
+    "title": "王国",
+    "author": "中村文則",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309413600",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026276836",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 189
+  },
+  {
+    "book_id": "isbn-9784101289533",
+    "title": "遮光",
+    "author": "中村文則",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101289533",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011074886",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 155
+  },
+  {
+    "book_id": "isbn-9784122068834",
+    "title": "R帝国",
+    "author": "中村文則",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122068834",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030389765",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 381
+  },
+  {
+    "book_id": "isbn-9784344432420",
+    "title": "逃亡者",
+    "author": "中村文則",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344432420",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032434682",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 584
+  },
+  {
+    "book_id": "isbn-9784022651181",
+    "title": "カード師",
+    "author": "中村文則",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022651181",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033011538",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 521
+  },
+  {
+    "book_id": "isbn-9784062767026",
+    "title": "最後の命",
+    "author": "中村文則",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062767026",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010926929",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 224
+  },
+  {
+    "book_id": "isbn-9784167909987",
+    "title": "惑いの森",
+    "author": "中村文則",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167909987",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028712662",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 205
+  },
+  {
+    "book_id": "isbn-9784620210230",
+    "title": "あなたが消えた夜に",
+    "author": "中村文則",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784620210230",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029295913",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "毎日新聞出版",
+    "pages": 500
+  },
+  {
+    "book_id": "isbn-9784101289557",
+    "title": "迷宮",
+    "author": "中村文則",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101289557",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026251059",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 205
+  },
+  {
+    "book_id": "isbn-9784087467987",
+    "title": "何もかも憂鬱な夜に",
+    "author": "中村文則",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087467987",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023376382",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 197
   }
 ]
