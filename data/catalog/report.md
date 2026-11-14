@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-14T08:38:56.588Z
-- 候補：7343冊
-- 入れた本：6628冊
-- 入れなかった本：715冊
+- 検索日時：2026-11-14T09:05:27.333Z
+- 候補：7388冊
+- 入れた本：6671冊
+- 入れなかった本：717冊
 
 ## 入れなかった本
 
@@ -722,6 +722,8 @@
 - 家／島崎藤村（日本の名作）：タイトルが同じで ISBN のある記録がない
 - 東京日記／内田百閒（日本の名作）：タイトルが同じで ISBN のある記録がない
 - 帰郷／トマス・ハーディ（海外の名作）：タイトルが同じで ISBN のある記録がない
+- 追憶の夜想曲／中山七里（ミステリー定番）：タイトルが同じで ISBN のある記録がない
+- 縁／小野寺史宜（人気の小説）：まだ国立国会図書館で検索できていない
 
 ## 入れた本と選んだ版
 
@@ -7353,3 +7355,46 @@
 - 異邦人：新潮文庫 ; カ-2-1／新潮社／2014.6／179p／NDC 953.7／novel・normal・short
 - ペスト：新潮文庫／新潮社／2004.1／476p／NDC 953.7／novel・normal・long
 - 舞姫・うたかたの記：角川文庫 ; も1-1／角川書店、角川グループホールディングス (発売)／2013.6／217p／NDC 913.6／novel・normal・short
+- 刑事の約束：講談社文庫 ; や61-8／講談社／2016.7／426p／NDC 913.6／mystery_sf・normal・medium
+- ガーディアン：講談社文庫 ; や61-10／講談社／2019.3／365p／NDC 913.6／mystery_sf・normal・medium
+- 虚夢：講談社文庫 ; や61-3／講談社／2011.5／380p／NDC 913.6／mystery_sf・normal・medium
+- 闇の底：講談社文庫 ; や61-2／講談社／2009.9／356p／NDC 913.6／mystery_sf・normal・medium
+- ハードラック：講談社文庫 ; や61-6／講談社／2015.2／497p／NDC 913.6／mystery_sf・normal・long
+- 神の子：光文社文庫 ; や34-1／光文社／2016.12／559p／NDC 913.6／mystery_sf・normal・long
+- あの日、君は何をした：小学館文庫 ; ま23-1／小学館／2020.7／365p／NDC 913.6／mystery_sf・normal・medium
+- 彼女が最後に見たものは：小学館文庫 ; ま23-2／小学館／2021.12／429p／NDC 913.6／mystery_sf・normal・medium
+- 祝福の子供：幻冬舎文庫 ; ま-33-5／幻冬舎／2021.6／401p／NDC 913.6／mystery_sf・normal・medium
+- ゆりかごに聞く：叢書なし／幻冬舎／2019.4／322p／NDC 913.6／mystery_sf・normal・medium
+- レプリカたちの夜：新潮文庫 ; い-133-1／新潮社／2018.10／325p／NDC 913.6／novel・easy・medium
+- 動物たちのまーまー：新潮文庫 ; い-133-2／新潮社／2020.3／323p／NDC 913.6／novel・easy・medium
+- 彼らは世界にはなればなれに立っている：角川文庫 ; お75-6／KADOKAWA／2023.8／412p／NDC 913.6／novel・easy・medium
+- 検事の死命：角川文庫 ; ゆ14-4／KADOKAWA／2018.8／363p／NDC 913.6／mystery_sf・normal・medium
+- 月下のサクラ：徳間文庫 ; ゆ7-2／徳間書店／2024.2／491p／NDC 913.6／mystery_sf・normal・long
+- 教誨：小学館文庫 ; ゆ8-1／小学館／2025.2／397p／NDC 913.6／mystery_sf・normal・medium
+- 合理的にあり得ない：講談社文庫 ; ゆ9-1／講談社／2020.5／323p／NDC 913.6／mystery_sf・normal・medium
+- ウツボカズラの甘い息：幻冬舎文庫 ; ゆ-6-1／幻冬舎／2018.10／552p／NDC 913.6／mystery_sf・normal・long
+- 臨床真理：角川文庫 ; ゆ14-6／KADOKAWA／2019.9／383p／NDC 913.6／mystery_sf・normal・medium
+- セイレーンの懺悔：小学館文庫 ; な33-1／小学館／2020.8／381p／NDC 913.6／mystery_sf・normal・medium
+- 境界線：宝島社文庫／宝島社／2024.8／369 p／NDC 913.6／mystery_sf・normal・medium
+- 人面瘡探偵：小学館文庫 ; な33-2／小学館／2022.2／365p／NDC 913.6／mystery_sf・normal・medium
+- 総理にされた男：宝島社文庫 ; Cな-6-7. [このミス大賞]／宝島社／2018.12／429p／NDC 913.6／novel・easy・medium
+- ドクター・デスの遺産：角川文庫 ; な57-4. 刑事犬養隼人／KADOKAWA／2019.2／330p／NDC 913.6／mystery_sf・normal・medium
+- アポロンの嘲笑：集英社文庫 ; な65-1／集英社／2017.11／411p／NDC 913.6／mystery_sf・normal・medium
+- 切り裂きジャックの告白：角川文庫 ; な57-1／KADOKAWA／2014.12／355p／NDC 913.6／mystery_sf・normal・medium
+- 静おばあちゃんにおまかせ：文春文庫 ; な71-1／文藝春秋／2014.11／367p／NDC 913.6／mystery_sf・normal・medium
+- 笑え、シャイロック：角川文庫 ; な57-21／KADOKAWA／2020.10／343p／NDC 913.6／novel・easy・medium
+- 能面検事：光文社文庫 ; な39-3／光文社／2020.12／347p／NDC 913.6／mystery_sf・normal・medium
+- 夜の側に立つ：新潮文庫 ; お-100-3／新潮社／2021.6／381p／NDC 913.6／novel・easy・medium
+- いえ：祥伝社文庫 ; お25-5／祥伝社／2025.2／331p／NDC 913.6／novel・easy・medium
+- 今日も町の隅で：角川文庫 ; お95-2／KADOKAWA／2023.2／290p／NDC 913.6／novel・easy・medium
+- 近いはずの人：講談社文庫 ; お128-2／講談社／2020.1／322p／NDC 913.6／novel・easy・medium
+- みつばの郵便屋さん：ポプラ文庫 ; お12-1／ポプラ社／2014.8／243p／NDC 913.6／novel・easy・short
+- タクジョ!：実業之日本社文庫 ; お7-2／実業之日本社／2022.10／332p／NDC 913.6／novel・easy・medium
+- その愛の程度：講談社文庫 ; お128-1／講談社／2019.9／304p／NDC 913.6／novel・easy・medium
+- 本日も教官なり：角川文庫 ; お95-1／KADOKAWA／2020.9／317p／NDC 913.6／novel・easy・medium
+- 天使と悪魔のシネマ：ポプラ文庫 ; お12-13／ポプラ社／2024.9／260p／NDC 913.6／novel・easy・medium
+- 春、戻る：集英社文庫 ; せ6-2／集英社／2017.2／215p／NDC 913.6／novel・easy・short
+- 強運の持ち主：文春文庫 ; せ8-1／文藝春秋／2009.5／262p／NDC 913.6／novel・easy・medium
+- 温室デイズ：角川文庫 ; 15754／角川書店、角川グループパブリッシング (発売)／2009.6／215p／NDC 913.6／novel・easy・short
+- 僕らのごはんは明日で待ってる：幻冬舎文庫 ; せ-6-1／幻冬舎／2016.2／255p／NDC 913.6／novel・easy・medium
+- 私たちの世代は：文春文庫 ; せ8-6／文藝春秋／2026.2／287p／NDC 913.6／novel・easy・medium
