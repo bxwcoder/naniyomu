@@ -19613,6 +19613,32 @@
     "pages": 289
   },
   {
+    "book_id": "isbn-9784492531129",
+    "title": "ロジカル・シンキング",
+    "author": "照屋華子",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784492531129",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002981542",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東洋経済新報社",
+    "pages": 227
+  },
+  {
     "book_id": "isbn-9784492555989",
     "title": "地頭力を鍛える",
     "author": "細谷功",
