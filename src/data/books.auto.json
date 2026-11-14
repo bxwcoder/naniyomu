@@ -173458,5 +173458,219 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 382
+  },
+  {
+    "book_id": "isbn-9784167923600",
+    "title": "祝祭のハングマン",
+    "author": "中山七里",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167923600",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034030234",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 298
+  },
+  {
+    "book_id": "isbn-9784101069715",
+    "title": "君が手にするはずだった黄金について",
+    "author": "小川哲",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101069715",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034722399",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784041166628",
+    "title": "地雷グリコ",
+    "author": "青崎有吾",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041166628",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034714823",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 441
+  },
+  {
+    "book_id": "isbn-9784091793416",
+    "title": "GOGOモンスター",
+    "author": "松本大洋",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091793416",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002934557",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 455
+  },
+  {
+    "book_id": "isbn-9784253130431",
+    "title": "ちーちゃんはちょっと足りない",
+    "author": "阿部共実",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784253130431",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025412561",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "秋田書店",
+    "pages": 219
+  },
+  {
+    "book_id": "isbn-9784091896216",
+    "title": "月曜日の友達",
+    "author": "阿部共実",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091896216",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028457197",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784253220491",
+    "title": "セトウツミ",
+    "author": "此元和津也",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784253220491",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025049960",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "秋田書店",
+    "pages": 158
+  },
+  {
+    "book_id": "isbn-9784063107586",
+    "title": "ぼくらのよあけ",
+    "author": "今井哲也",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063107586",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011215782",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 224
   }
 ]
