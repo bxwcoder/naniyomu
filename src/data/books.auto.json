@@ -166796,5 +166796,409 @@
     "tier": "basic",
     "publisher": "岩波書店",
     "pages": 202
+  },
+  {
+    "book_id": "isbn-9784000054157",
+    "title": "算数文章題が解けない子どもたち",
+    "author": "今井むつみ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784000054157",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032160236",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 212
+  },
+  {
+    "book_id": "isbn-9784344983670",
+    "title": "孤独の価値",
+    "author": "森博嗣",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344983670",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025915273",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 182
+  },
+  {
+    "book_id": "isbn-9784087205206",
+    "title": "自由をつくる自在に生きる",
+    "author": "森博嗣",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087205206",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010612525",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 189
+  },
+  {
+    "book_id": "isbn-9784788716001",
+    "title": "大学の問題 問題の大学",
+    "author": "竹内洋",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784788716001",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029957685",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "時事通信出版局",
+    "pages": 190
+  },
+  {
+    "book_id": "isbn-9784121017048",
+    "title": "教養主義の没落",
+    "author": "竹内洋",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121017048",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004214183",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 278
+  },
+  {
+    "book_id": "isbn-9784062920360",
+    "title": "学歴貴族の栄光と挫折",
+    "author": "竹内洋",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062920360",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011115653",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 423
+  },
+  {
+    "book_id": "isbn-9784062752121",
+    "title": "ニッポンの単身赴任",
+    "author": "重松清",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062752121",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007942652",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 319
+  },
+  {
+    "book_id": "isbn-9784480097460",
+    "title": "社会学の考え方",
+    "author": "ジグムント・バウマン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480097460",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027511403",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 418
+  },
+  {
+    "book_id": "isbn-9784760129034",
+    "title": "孤独なボウリング",
+    "author": "ロバート・D・パットナム",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784760129034",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008161153",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "柏書房",
+    "pages": 689
+  },
+  {
+    "book_id": "isbn-9784657994134",
+    "title": "マクドナルド化する社会",
+    "author": "ジョージ・リッツア",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784657994134",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002795846",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早稲田大学出版部",
+    "pages": 383
+  },
+  {
+    "book_id": "isbn-9784791760084",
+    "title": "監視社会",
+    "author": "デイヴィッド・ライアン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784791760084",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003996670",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "青土社",
+    "pages": 309
+  },
+  {
+    "book_id": "isbn-9784880591810",
+    "title": "近代とはいかなる時代か?",
+    "author": "アンソニー・ギデンズ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784880591810",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002295865",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "而立書房",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784532147716",
+    "title": "第三の道",
+    "author": "アンソニー・ギデンズ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784532147716",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002833314",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日本経済新聞社",
+    "pages": 285
+  },
+  {
+    "book_id": "isbn-9784314010740",
+    "title": "正義論",
+    "author": "ジョン・ロールズ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784314010740",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011058939",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "紀伊國屋書店",
+    "pages": 813
+  },
+  {
+    "book_id": "isbn-9784833221702",
+    "title": "アナーキー・国家・ユートピア",
+    "author": "ロバート・ノージック",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784833221702",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002765544",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "木鐸社",
+    "pages": 564
   }
 ]
