@@ -173136,5 +173136,327 @@
     "tier": "basic",
     "publisher": "宝島社",
     "pages": 353
+  },
+  {
+    "book_id": "isbn-9784065404119",
+    "title": "掬えば手には",
+    "author": "瀬尾まいこ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065404119",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034221365",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 330
+  },
+  {
+    "book_id": "isbn-9784344423800",
+    "title": "大事なことほど小声でささやく",
+    "author": "森沢明夫",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344423800",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026603954",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 381
+  },
+  {
+    "book_id": "isbn-9784198940492",
+    "title": "ヒカルの卵",
+    "author": "森沢明夫",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198940492",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026917579",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 455
+  },
+  {
+    "book_id": "isbn-9784167906719",
+    "title": "ミッドナイト・バス",
+    "author": "伊吹有喜",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167906719",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027498385",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 495
+  },
+  {
+    "book_id": "isbn-9784101201924",
+    "title": "カエルの楽園",
+    "author": "百田尚樹",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101201924",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028442033",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 277
+  },
+  {
+    "book_id": "isbn-9784344423190",
+    "title": "夢を売る男",
+    "author": "百田尚樹",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344423190",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026251167",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 315
+  },
+  {
+    "book_id": "isbn-9784062775359",
+    "title": "ボックス!",
+    "author": "百田尚樹",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062775359",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024352046",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 401
+  },
+  {
+    "book_id": "isbn-9784591131824",
+    "title": "真夜中のパン屋さん",
+    "author": "大沼紀子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784591131824",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024085645",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ポプラ社",
+    "pages": 381
+  },
+  {
+    "book_id": "isbn-9784122077249",
+    "title": "マカン・マラン",
+    "author": "古内一絵",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122077249",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034401829",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 300
+  },
+  {
+    "book_id": "isbn-9784120049101",
+    "title": "女王さまの夜食カフェ",
+    "author": "古内一絵",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784120049101",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027700415",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 268
+  },
+  {
+    "book_id": "isbn-9784062778275",
+    "title": "パラドックス13",
+    "author": "東野圭吾",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062778275",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025414916",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 562
+  },
+  {
+    "book_id": "isbn-9784061856981",
+    "title": "変身",
+    "author": "東野圭吾",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061856981",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002335255",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 382
   }
 ]
