@@ -175133,5 +175133,402 @@
     "tier": "basic",
     "publisher": "角川書店",
     "pages": 213
+  },
+  {
+    "book_id": "isbn-9784122059283",
+    "title": "告白",
+    "author": "アウグスティヌス",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122059283",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025314669",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 355
+  },
+  {
+    "book_id": "isbn-9784036519606",
+    "title": "最後の授業",
+    "author": "ドーデ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784036519606",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002261129",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "偕成社",
+    "pages": 201
+  },
+  {
+    "book_id": "isbn-9784101347257",
+    "title": "冷血",
+    "author": "高村薫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101347257",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029274454",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 475
+  },
+  {
+    "book_id": "isbn-9784569768168",
+    "title": "異邦人",
+    "author": "原田マハ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784569768168",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028845876",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "PHP研究所",
+    "pages": 421
+  },
+  {
+    "book_id": "isbn-9784101167541",
+    "title": "秘密の花園",
+    "author": "三浦しをん",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101167541",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008463062",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 278
+  },
+  {
+    "book_id": "isbn-9784102451076",
+    "title": "リヴァイアサン",
+    "author": "ポール・オースター",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102451076",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003985045",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 413
+  },
+  {
+    "book_id": "isbn-9784124029338",
+    "title": "大聖堂",
+    "author": "レイモンド・カーヴァー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784124029338",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002059411",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 451
+  },
+  {
+    "book_id": "isbn-9784061597204",
+    "title": "ハンニバル",
+    "author": "長谷川博隆",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061597204",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007880189",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 253
+  },
+  {
+    "book_id": "isbn-9784121020994",
+    "title": "三国志",
+    "author": "渡邉義浩",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121020994",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011172060",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 229
+  },
+  {
+    "book_id": "isbn-9784101438115",
+    "title": "楽園",
+    "author": "鈴木光司",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101438115",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002467608",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 347
+  },
+  {
+    "book_id": "isbn-9784122051843",
+    "title": "ペスト",
+    "author": "ダニエル・デフォー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122051843",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010543970",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 453
+  },
+  {
+    "book_id": "isbn-9784309460864",
+    "title": "魔術師",
+    "author": "ジョン・ファウルズ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309460864",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002145740",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 472
+  },
+  {
+    "book_id": "isbn-9784101002484",
+    "title": "舞姫",
+    "author": "川端康成",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101002484",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032943535",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 333
+  },
+  {
+    "book_id": "isbn-9784166611997",
+    "title": "承久の乱",
+    "author": "本郷和人",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784166611997",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029421052",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 218
+  },
+  {
+    "book_id": "isbn-9784061833807",
+    "title": "水滸伝",
+    "author": "施耐庵",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061833807",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001706973",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 387
   }
 ]
