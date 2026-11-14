@@ -173672,5 +173672,541 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 224
+  },
+  {
+    "book_id": "isbn-9784479305804",
+    "title": "菜の花食堂のささやかな事件簿",
+    "author": "碧野圭",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784479305804",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027078955",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "大和書房",
+    "pages": 276
+  },
+  {
+    "book_id": "isbn-9784569678153",
+    "title": "書店ガール",
+    "author": "碧野圭",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784569678153",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023458500",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "PHP研究所",
+    "pages": 397
+  },
+  {
+    "book_id": "isbn-9784488427054",
+    "title": "ヴァン・ショーをあなたに",
+    "author": "近藤史恵",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488427054",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026107175",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 235
+  },
+  {
+    "book_id": "isbn-9784575522808",
+    "title": "ときどき旅に出るカフェ",
+    "author": "近藤史恵",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575522808",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030050933",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 293
+  },
+  {
+    "book_id": "isbn-9784396344177",
+    "title": "スーツケースの半分は",
+    "author": "近藤史恵",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784396344177",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028943964",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "祥伝社",
+    "pages": 311
+  },
+  {
+    "book_id": "isbn-9784334745714",
+    "title": "シンデレラ・ティース",
+    "author": "坂木司",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334745714",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010084950",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 309
+  },
+  {
+    "book_id": "isbn-9784041032350",
+    "title": "大きな音が聞こえるか",
+    "author": "坂木司",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041032350",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026577144",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 740
+  },
+  {
+    "book_id": "isbn-9784488487041",
+    "title": "平台がおまちかね",
+    "author": "大崎梢",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488487041",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011270162",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 312
+  },
+  {
+    "book_id": "isbn-9784334763619",
+    "title": "ねずみ石",
+    "author": "大崎梢",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334763619",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023251404",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 330
+  },
+  {
+    "book_id": "isbn-9784062131674",
+    "title": "生協の白石さん",
+    "author": "白石昌則",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062131674",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007979631",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 149
+  },
+  {
+    "book_id": "isbn-9784122066014",
+    "title": "あの家に暮らす四人の女",
+    "author": "三浦しをん",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122066014",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029025583",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 341
+  },
+  {
+    "book_id": "isbn-9784041013335",
+    "title": "お文の影",
+    "author": "宮部みゆき",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041013335",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025470692",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 392
+  },
+  {
+    "book_id": "isbn-9784041008225",
+    "title": "あんじゅう",
+    "author": "宮部みゆき",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041008225",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024472514",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 629
+  },
+  {
+    "book_id": "isbn-9784041077610",
+    "title": "三鬼",
+    "author": "宮部みゆき",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041077610",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029674143",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 671
+  },
+  {
+    "book_id": "isbn-9784569902012",
+    "title": "きたきた捕物帖",
+    "author": "宮部みゆき",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784569902012",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031989483",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "PHP研究所",
+    "pages": 441
+  },
+  {
+    "book_id": "isbn-9784043888023",
+    "title": "つくもがみ貸します",
+    "author": "畠中恵",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043888023",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010918318",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 286
+  },
+  {
+    "book_id": "isbn-9784575516302",
+    "title": "ふるさと銀河線",
+    "author": "髙田郁",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575516302",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024967714",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 285
+  },
+  {
+    "book_id": "isbn-9784062730372",
+    "title": "泣きの銀次",
+    "author": "宇江佐真理",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062730372",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002944244",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 307
+  },
+  {
+    "book_id": "isbn-9784198918804",
+    "title": "おちゃっぴい",
+    "author": "宇江佐真理",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198918804",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004111553",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 311
+  },
+  {
+    "book_id": "isbn-9784041077627",
+    "title": "バベル九朔",
+    "author": "万城目学",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041077627",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029502925",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 380
   }
 ]
