@@ -2293,7 +2293,7 @@
 - 本陣殺人事件：双葉文庫. 日本推理作家協会賞受賞作全集 ; 1／双葉社／1995.5／234p／NDC 913.6／mystery_sf・normal・short
 - D坂の殺人事件：角川文庫 ; え11-1／KADOKAWA／2016.3／349p／NDC 913.6／mystery_sf・normal・medium
 - 怪人二十面相：少年探偵・江戸川乱歩 : 文庫版 ; 第1巻／ポプラ社／2005.2／245p／NDC 913.6／mystery_sf・normal・short
-- 人間椅子：春陽文庫. 江戸川乱歩文庫／春陽堂書店／2015.3／260p／NDC 913.6／mystery_sf・normal・medium
+- 人間椅子：角川ホラー文庫. 江戸川乱歩ベストセレクション ; 1／角川書店、角川グループパブリッシング (発売)／2008.5／213p／NDC 913.6／mystery_sf・normal・short
 - 三毛猫ホームズの推理：角川文庫／角川書店／1984.4／358p／NDC 913.6／mystery_sf・normal・medium
 - セーラー服と機関銃：角川文庫／角川書店／2006.9／378p／NDC 913.6／novel・easy・medium
 - マークスの山：講談社文庫／講談社／2003.1／374p／NDC 913.6／mystery_sf・normal・long
@@ -5151,7 +5151,7 @@
 - 成吉思汗の秘密：光文社文庫. 高木彬光コレクション／光文社／2005.4／498p／NDC 913.6／mystery_sf・normal・long
 - 林の中の家：ポプラ文庫ピュアフル ; に-2-3／ポプラ社／2011.1／319p／NDC 913.6／mystery_sf・normal・medium
 - 大いなる幻影：講談社文庫. 江戸川乱歩賞全集 ; 4／講談社／1998.9／557p／NDC 913.6／mystery_sf・normal・long
-- 枯草の根：大衆文学館／講談社／1997.7／618p／NDC 913.6／mystery_sf・normal・long
+- 枯草の根：集英社文庫 ; ち1-28／集英社／2009.1／468p／NDC 913.6／mystery_sf・normal・long
 - 招かれざる客：徳間文庫 ; さ1-124. トクマの特選!／徳間書店／2021.10／361p／NDC 913.6／mystery_sf・normal・medium
 - 人喰い：双葉文庫. 日本推理作家協会賞受賞作全集 ; 14／双葉社／1995.5／329p／NDC 913.6／mystery_sf・normal・medium
 - 少女地獄：創元推理文庫 ; Mゆ2-1／東京創元社／2016.8／385p／NDC 913.6／mystery_sf・normal・medium
@@ -7543,7 +7543,7 @@
 - 蛮政の秋：集英社文庫 ; と23-13／集英社／2018.12／478p／NDC 913.6／mystery_sf・normal・long
 - 夜行列車殺人事件：光文社文庫／光文社／1985.3／408p／NDC 913.6／mystery_sf・normal・medium
 - 晴れ、ときどき殺人：角川文庫／角川書店／1984.3／256p／NDC 913.6／mystery_sf・normal・medium
-- 死者の学園祭：赤川次郎ミステリーコレクション ; 1／岩崎書店／2002.9／287p／NDC 913／mystery_sf・normal・medium
+- 死者の学園祭：角川文庫 ; 15981. [赤川次郎ベストセレクション] ; [12]／角川書店、角川グループパブリッシング (発売)／2009.11／265p／NDC 913.6／mystery_sf・normal・medium
 - 華麗なる探偵たち：徳間文庫／徳間書店／1986.4／348p／NDC 913.6／mystery_sf・normal・medium
 - 箱庭：講談社文庫／講談社／1997.3／485p／NDC 913.6／mystery_sf・normal・long
 - おせっかいな神々：新潮文庫／新潮社／2002.11／336p／NDC 913.6／novel・easy・medium

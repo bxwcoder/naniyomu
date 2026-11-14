@@ -41596,7 +41596,7 @@
     "pages": 245
   },
   {
-    "book_id": "isbn-9784394301486",
+    "book_id": "isbn-9784041053287",
     "title": "人間椅子",
     "author": "江戸川乱歩",
     "genres": [
@@ -41609,17 +41609,17 @@
       "absorbing"
     ],
     "difficulty": "normal",
-    "length_category": "medium",
+    "length_category": "short",
     "description": "",
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784394301486",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026237750",
+    "isbn": "9784041053287",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009396262",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "春陽堂書店",
-    "pages": 260
+    "publisher": "角川書店",
+    "pages": 213
   },
   {
     "book_id": "isbn-9784041497814",
@@ -117469,7 +117469,7 @@
     "pages": 557
   },
   {
-    "book_id": "isbn-9784062620871",
+    "book_id": "isbn-9784087463972",
     "title": "枯草の根",
     "author": "陳舜臣",
     "genres": [
@@ -117487,12 +117487,12 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784062620871",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002617254",
+    "isbn": "9784087463972",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010001717",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "講談社",
-    "pages": 618
+    "publisher": "集英社",
+    "pages": 468
   },
   {
     "book_id": "isbn-9784198946838",
@@ -181016,7 +181016,7 @@
     "pages": 256
   },
   {
-    "book_id": "isbn-9784265067510",
+    "book_id": "isbn-9784043870141",
     "title": "死者の学園祭",
     "author": "赤川次郎",
     "genres": [
@@ -181034,12 +181034,12 @@
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784265067510",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003678105",
+    "isbn": "9784043870141",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010631612",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "岩崎書店",
-    "pages": 287
+    "publisher": "角川書店",
+    "pages": 265
   },
   {
     "book_id": "isbn-9784195680469",
