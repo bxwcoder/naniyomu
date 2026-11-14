@@ -190751,5 +190751,1026 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 314
+  },
+  {
+    "book_id": "isbn-9784150709518",
+    "title": "メグレ罠を張る",
+    "author": "ジョルジュ・シムノン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150709518",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971712334754570415",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784150709532",
+    "title": "メグレと若い女の死",
+    "author": "ジョルジュ・シムノン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150709532",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032645788",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 255
+  },
+  {
+    "book_id": "isbn-9784150406561",
+    "title": "仕立て屋の恋",
+    "author": "ジョルジュ・シムノン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150406561",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002181366",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 211
+  },
+  {
+    "book_id": "isbn-9784102358115",
+    "title": "レベッカへの鍵",
+    "author": "ケン・フォレット",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102358115",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002615506",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 553
+  },
+  {
+    "book_id": "isbn-9784797362732",
+    "title": "巨人たちの落日",
+    "author": "ケン・フォレット",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784797362732",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011151958",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ソフトバンククリエイティブ",
+    "pages": 567
+  },
+  {
+    "book_id": "isbn-9784150766078",
+    "title": "黒い塔",
+    "author": "P・D・ジェイムズ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150766078",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002338336",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 502
+  },
+  {
+    "book_id": "isbn-9784150766115",
+    "title": "策謀と欲望",
+    "author": "P・D・ジェイムズ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150766115",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002768568",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 341
+  },
+  {
+    "book_id": "isbn-9784150766160",
+    "title": "わが職業は死",
+    "author": "P・D・ジェイムズ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150766160",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003071463",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 513
+  },
+  {
+    "book_id": "isbn-9784150018658",
+    "title": "高慢と偏見、そして殺人",
+    "author": "P・D・ジェイムズ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150018658",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024036820",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 348
+  },
+  {
+    "book_id": "isbn-9784309464282",
+    "title": "贋作",
+    "author": "パトリシア・ハイスミス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309464282",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027255742",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 483
+  },
+  {
+    "book_id": "isbn-9784309461069",
+    "title": "アメリカの友人",
+    "author": "パトリシア・ハイスミス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309461069",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002192701",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 410
+  },
+  {
+    "book_id": "isbn-9784309460833",
+    "title": "ふくろうの叫び",
+    "author": "パトリシア・ハイスミス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309460833",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002301042",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 358
+  },
+  {
+    "book_id": "isbn-9784151000270",
+    "title": "11の物語",
+    "author": "パトリシア・ハイスミス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151000270",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002050764",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "The Mysterious Press",
+    "pages": 288
+  },
+  {
+    "book_id": "isbn-9784102409091",
+    "title": "処刑室",
+    "author": "ジョン・グリシャム",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102409091",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002556648",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 509
+  },
+  {
+    "book_id": "isbn-9784102409114",
+    "title": "原告側弁護人",
+    "author": "ジョン・グリシャム",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102409114",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002690381",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 465
+  },
+  {
+    "book_id": "isbn-9784102409152",
+    "title": "パートナー",
+    "author": "ジョン・グリシャム",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102409152",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002933781",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 392
+  },
+  {
+    "book_id": "isbn-9784594014179",
+    "title": "ブラック・アイス",
+    "author": "マイクル・コナリー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784594014179",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002355703",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "扶桑社",
+    "pages": 551
+  },
+  {
+    "book_id": "isbn-9784594020002",
+    "title": "ラスト・コヨーテ",
+    "author": "マイクル・コナリー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784594020002",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002583336",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "扶桑社",
+    "pages": 336
+  },
+  {
+    "book_id": "isbn-9784594050962",
+    "title": "エンジェルズ・フライト",
+    "author": "マイクル・コナリー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784594050962",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008072419",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "扶桑社",
+    "pages": 355
+  },
+  {
+    "book_id": "isbn-9784062774659",
+    "title": "スケアクロウ",
+    "author": "マイクル・コナリー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062774659",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024218664",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 356
+  },
+  {
+    "book_id": "isbn-9784150118976",
+    "title": "刺青の男",
+    "author": "レイ・ブラッドベリ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150118976",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024362468",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 434
+  },
+  {
+    "book_id": "isbn-9784488612085",
+    "title": "10月はたそがれの国",
+    "author": "レイ・ブラッドベリ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488612085",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033802292",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 524
+  },
+  {
+    "book_id": "isbn-9784488612054",
+    "title": "ウは宇宙船のウ",
+    "author": "レイ・ブラッドベリ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488612054",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008110837",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 458
+  },
+  {
+    "book_id": "isbn-9784150411077",
+    "title": "太陽の黄金の林檎",
+    "author": "レイ・ブラッドベリ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150411077",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008107120",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 405
+  },
+  {
+    "book_id": "isbn-9784150114862",
+    "title": "ロボットの時代",
+    "author": "アイザック・アシモフ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150114862",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007457012",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 319
+  },
+  {
+    "book_id": "isbn-9784488167097",
+    "title": "黒後家蜘蛛の会",
+    "author": "アイザック・アシモフ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488167097",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028908470",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 377
+  },
+  {
+    "book_id": "isbn-9784102130292",
+    "title": "英国諜報員アシェンデン",
+    "author": "サマセット・モーム",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102130292",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028292324",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 445
+  },
+  {
+    "book_id": "isbn-9784102130223",
+    "title": "劇場",
+    "author": "サマセット・モーム",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102130223",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008567210",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 474
+  },
+  {
+    "book_id": "isbn-9784122025394",
+    "title": "熊を放つ",
+    "author": "ジョン・アーヴィング",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122025394",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002497110",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 390
+  },
+  {
+    "book_id": "isbn-9784102273159",
+    "title": "第四の手",
+    "author": "ジョン・アーヴィング",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102273159",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010628223",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784488118358",
+    "title": "夜歩く",
+    "author": "ジョン・ディクスン・カー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488118358",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025008112",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 300
+  },
+  {
+    "book_id": "isbn-9784488118419",
+    "title": "緑のカプセルの謎",
+    "author": "ジョン・ディクスン・カー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488118419",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027623017",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 331
+  },
+  {
+    "book_id": "isbn-9784488118068",
+    "title": "アラビアンナイトの殺人",
+    "author": "ジョン・ディクスン・カー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488118068",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I30111100099859",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 518
+  },
+  {
+    "book_id": "isbn-9784150707231",
+    "title": "証拠",
+    "author": "ディック・フランシス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150707231",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002058220",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 457
+  },
+  {
+    "book_id": "isbn-9784150707071",
+    "title": "血統",
+    "author": "ディック・フランシス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150707071",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002376645",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 320
+  },
+  {
+    "book_id": "isbn-9784488618124",
+    "title": "ダブル・スター",
+    "author": "ロバート・A・ハインライン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488618124",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002338348",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 279
+  },
+  {
+    "book_id": "isbn-9784150102814",
+    "title": "宇宙の孤児",
+    "author": "ロバート・A・ハインライン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150102814",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I25111074158",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 250
+  },
+  {
+    "book_id": "isbn-9784480023414",
+    "title": "骨董屋",
+    "author": "ディケンズ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480023414",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002008117",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 537
+  },
+  {
+    "book_id": "isbn-9784480023834",
+    "title": "ピクウィック・クラブ",
+    "author": "ディケンズ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480023834",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002030275",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 515
   }
 ]
