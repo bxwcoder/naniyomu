@@ -52,7 +52,7 @@ export const isUsableItem = (candidateTitle, item) =>
  */
 export const isFirstVolume = (volume) =>
   !volume ||
-  /^(第?0*1[巻部]?(\s*上巻?)?|巻ノ0*1|上巻?|前編|part\s?1|vol\.?\s?1|book\s?0*1\s*(前編)?)$/i.test(
+  /^(第?0*1[巻部]?(\s*上巻?)?|巻ノ0*1|上巻?|前編|part\s?1|vol(ume)?\.?\s?0*1|book\s?0*1\s*(前編)?)$/i.test(
     volume.normalize('NFKC').replace(/\s*\(.*\)\s*$/, '').trim(),
   );
 
