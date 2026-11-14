@@ -170708,5 +170708,374 @@
     "tier": "basic",
     "publisher": "集英社",
     "pages": 280
+  },
+  {
+    "book_id": "isbn-9784062646345",
+    "title": "ゆるやかな絆",
+    "author": "大江健三郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062646345",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002823904",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 230
+  },
+  {
+    "book_id": "isbn-9784101126142",
+    "title": "同時代ゲーム",
+    "author": "大江健三郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101126142",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001696943",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 592
+  },
+  {
+    "book_id": "isbn-9784334740412",
+    "title": "最後の晩餐",
+    "author": "開高健",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334740412",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008134817",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 406
+  },
+  {
+    "book_id": "isbn-9784309406626",
+    "title": "うつろ舟",
+    "author": "澁澤龍彦",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309406626",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003677583",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 233
+  },
+  {
+    "book_id": "isbn-9784480420268",
+    "title": "一千一秒物語",
+    "author": "稲垣足穂",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480420268",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007642162",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 382
+  },
+  {
+    "book_id": "isbn-9784480420305",
+    "title": "少年愛の美学",
+    "author": "稲垣足穂",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480420305",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007796791",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 436
+  },
+  {
+    "book_id": "isbn-9784309409719",
+    "title": "第七官界彷徨",
+    "author": "尾崎翠",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309409719",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010364641",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 189
+  },
+  {
+    "book_id": "isbn-9784309405759",
+    "title": "文章教室",
+    "author": "金井美恵子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309405759",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002782093",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 326
+  },
+  {
+    "book_id": "isbn-9784065385142",
+    "title": "タマや",
+    "author": "金井美恵子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065385142",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033918757",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 205
+  },
+  {
+    "book_id": "isbn-9784062645591",
+    "title": "くノ一忍法帖",
+    "author": "山田風太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062645591",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002771079",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 336
+  },
+  {
+    "book_id": "isbn-9784309404110",
+    "title": "警視庁草紙",
+    "author": "山田風太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309404110",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002313829",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 486
+  },
+  {
+    "book_id": "isbn-9784198934668",
+    "title": "人間臨終図巻",
+    "author": "山田風太郎",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198934668",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011307044",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 445
+  },
+  {
+    "book_id": "isbn-9784101150277",
+    "title": "御家人斬九郎",
+    "author": "柴田錬三郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101150277",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001703089",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 387
+  },
+  {
+    "book_id": "isbn-9784061965638",
+    "title": "私本太平記",
+    "author": "吉川英治",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061965638",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002024385",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 477
   }
 ]
