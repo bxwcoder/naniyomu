@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-14T11:50:35.785Z
-- 候補：7601冊
-- 入れた本：6871冊
-- 入れなかった本：730冊
+- 検索日時：2026-11-14T12:22:56.046Z
+- 候補：7652冊
+- 入れた本：6921冊
+- 入れなかった本：731冊
 
 ## 入れなかった本
 
@@ -737,6 +737,7 @@
 - みいら採り猟奇譚／河野多惠子（日本の名作）：タイトルが同じで ISBN のある記録がない
 - 幼児狩り／河野多惠子（日本の名作）：タイトルが同じで ISBN のある記録がない
 - ウホッホ探検隊／干刈あがた（日本の名作）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
+- 雪だるま／ジョー・ネスボ（ミステリー定番）：著者が合う記録がない
 
 ## 入れた本と選んだ版
 
@@ -7611,3 +7612,53 @@
 - 嵐のピクニック：講談社文庫 ; も48-4／講談社／2015.5／200p／NDC 913.6／novel・easy・short
 - パリの砂漠、東京の蜃気楼：集英社文庫 ; か44-8／集英社／2023.4／221p／NDC 914.6／nonfiction・easy・short
 - その街の今は：新潮文庫 ; し-64-1／新潮社／2009.5／158p／NDC 913.6／novel・easy・short
+- 曲った蝶番：創元推理文庫 ; 118‐7／東京創元社／2004.12／342p ; 15cm／NDC 933.7／mystery_sf・normal・medium
+- ザ・バット：集英社文庫 ; ネ1-3／集英社／2014.8／533p／NDC 949.63／mystery_sf・normal・long
+- 秘密：創元推理文庫 ; Mモ8-3／東京創元社／2019.1／359p／NDC 933.7／novel・normal・long
+- 湖畔荘：創元推理文庫 ; Mモ8-5／東京創元社／2021.10／380p／NDC 933.7／novel・normal・long
+- そしてミランダを殺す：創元推理文庫 ; Mス16-1／東京創元社／2018.2／427p／NDC 933.7／mystery_sf・normal・medium
+- ケイトが恐れるすべて：創元推理文庫 ; Mス16-2／東京創元社／2019.7／445p／NDC 933.7／mystery_sf・normal・medium
+- だからダスティンは死んだ：創元推理文庫 ; Mス16-4／東京創元社／2023.1／446p／NDC 933.7／mystery_sf・normal・medium
+- ナイフをひねれば：創元推理文庫 ; Mホ15-8／東京創元社／2023.9／450p／NDC 933.7／mystery_sf・normal・long
+- 死はすぐそばに：創元推理文庫 ; Mホ15-9／東京創元社／2024.9／487p／NDC 933.7／mystery_sf・normal・long
+- 針の眼：新潮文庫／新潮社／1996.2／549p／NDC 933／mystery_sf・normal・long
+- 大穴：叢書なし／早川書房／1976.4／ページ数不明／NDC 933.7／mystery_sf・normal・medium
+- 赤い収穫：ハヤカワ・ミステリ文庫／早川書房／1989.9／330p／NDC 933／mystery_sf・normal・medium
+- シャム双子の謎：創元推理文庫 ; Mク1-11／東京創元社／2025.11／406p／NDC 933.7／mystery_sf・normal・medium
+- ふたたび赤い悪夢：講談社文庫／講談社／1995.6／618p／NDC 913.6／mystery_sf・normal・long
+- 世界の終わり、あるいは始まり：角川文庫／角川書店／2006.10／521p／NDC 913.6／mystery_sf・normal・long
+- 女王様と私：角川文庫 ; 15879／角川書店、角川グループパブリッシング (発売)／2009.9／494p／NDC 913.6／mystery_sf・normal・long
+- 0の殺人：講談社文庫／講談社／1992.9／235p／NDC 913.6／mystery_sf・normal・short
+- さよなら神様：文春文庫 ; ま32-2／文藝春秋／2017.7／316p／NDC 913.6／mystery_sf・normal・medium
+- 貴族探偵：集英社文庫 ; ま20-2／集英社／2013.10／369p／NDC 913.6／mystery_sf・normal・medium
+- 螢：幻冬舎文庫／幻冬舎／2007.10／438p／NDC 913.6／mystery_sf・normal・medium
+- 猫丸先輩の推測：講談社文庫／講談社／2005.9／449p／NDC 913.6／mystery_sf・normal・medium
+- 狂乱廿四孝：角川文庫／角川書店／2001.8／394p／NDC 913.6／mystery_sf・normal・medium
+- 掌の中の小鳥：創元推理文庫／東京創元社／2001.2／285p／NDC 913.6／mystery_sf・normal・medium
+- いちばん初めにあった海：角川文庫／角川書店／2000.5／277p／NDC 913.6／mystery_sf・normal・medium
+- プレゼント：中公文庫／中央公論社／1998.12／314p／NDC 913.6／mystery_sf・normal・medium
+- 御子柴くんの甘味と捜査：中公文庫 ; わ16-2／中央公論新社／2014.6／285p／NDC 913.6／mystery_sf・normal・medium
+- 静かな炎天：文春文庫 ; わ10-4／文藝春秋／2016.8／317p／NDC 913.6／mystery_sf・normal・medium
+- ふたつめの月：文春文庫 ; こ34-4／文藝春秋／2010.5／292p／NDC 913.6／mystery_sf・normal・medium
+- インフルエンス：文春文庫 ; こ34-6／文藝春秋／2021.1／287p／NDC 913.6／mystery_sf・normal・medium
+- 福家警部補の挨拶：創元推理文庫／東京創元社／2008.12／347p／NDC 913.6／mystery_sf・normal・medium
+- 七度狐：創元推理文庫 ; 470-03／東京創元社／2009.7／391p／NDC 913.6／mystery_sf・normal・medium
+- 白戸修の事件簿：双葉文庫／双葉社／2005.6／341p／NDC 913.6／mystery_sf・normal・medium
+- 月の扉：光文社文庫／光文社／2006.4／350p／NDC 913.6／mystery_sf・normal・medium
+- 扉は閉ざされたまま：祥伝社文庫／祥伝社／2008.2／321p／NDC 913.6／mystery_sf・normal・medium
+- アイルランドの薔薇：光文社文庫／光文社／2004.9／306p／NDC 913.6／mystery_sf・normal・medium
+- 水の迷宮：光文社文庫／光文社／2007.5／396p／NDC 913.6／mystery_sf・normal・medium
+- 赤い博物館：文春文庫 ; お68-2／文藝春秋／2018.9／319p／NDC 913.6／mystery_sf・normal・medium
+- 虹の歯ブラシ：講談社文庫 ; は110-2／講談社／2017.9／371p／NDC 913.6／mystery_sf・normal・medium
+- ○○○○○○○○殺人事件：講談社文庫 ; は110-1／講談社／2017.4／326p／NDC 913.6／mystery_sf・normal・medium
+- スノーホワイト：講談社文庫 ; も52-2／講談社／2014.11／382p／NDC 913.6／mystery_sf・normal・medium
+- 丸太町ルヴォワール：講談社文庫 ; ま69-1／講談社／2012.9／485p／NDC 913.6／mystery_sf・normal・long
+- ジェリーフィッシュは凍らない：創元推理文庫 ; Mい11-1／東京創元社／2019.6／382p／NDC 913.6／mystery_sf・normal・medium
+- ブルーローズは眠らない：創元推理文庫 ; Mい11-2／東京創元社／2020.3／381p／NDC 913.6／mystery_sf・normal・medium
+- 刀と傘：創元推理文庫 ; Mい15-1／東京創元社／2023.4／303p／NDC 913.6／mystery_sf・normal・medium
+- リボルバー・リリー：講談社文庫 ; な93-2／講談社／2019.3／645p／NDC 913.6／mystery_sf・normal・long
+- 赤刃：講談社文庫 ; な93-1／講談社／2015.11／373p／NDC 913.6／mystery_sf・normal・medium
+- アンダードッグス：角川文庫 ; な78-1／KADOKAWA／2023.9／501p／NDC 913.6／mystery_sf・normal・long
+- 帝都物語：角川文庫／角川書店／1987.9／223p／NDC 913.6／mystery_sf・normal・long
+- デルフィニア戦記：C novels fantasia. デルフィニア戦記 ; 1／中央公論社／1993.10／251p／NDC 913.6／mystery_sf・normal・long
+- スカーレット・ウィザード：中公文庫 ; か68-22／中央公論新社／2014.5／329p／NDC 913.6／mystery_sf・normal・long
