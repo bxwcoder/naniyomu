@@ -175556,5 +175556,677 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 387
+  },
+  {
+    "book_id": "isbn-9784048668569",
+    "title": "いたいのいたいの、とんでゆけ",
+    "author": "三秋縋",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784048668569",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025897401",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 364
+  },
+  {
+    "book_id": "isbn-9784048660013",
+    "title": "スターティング・オーヴァー",
+    "author": "三秋縋",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784048660013",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024822797",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "アスキー・メディアワークス",
+    "pages": 227
+  },
+  {
+    "book_id": "isbn-9784087442571",
+    "title": "この恋は世界でいちばん美しい雨",
+    "author": "宇山佳佑",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087442571",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031472528",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 367
+  },
+  {
+    "book_id": "isbn-9784101048222",
+    "title": "天国の本屋",
+    "author": "松久淳",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101048222",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007344123",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 169
+  },
+  {
+    "book_id": "isbn-9784167914004",
+    "title": "満月珈琲店の星詠み",
+    "author": "望月麻衣",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167914004",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030465609",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 248
+  },
+  {
+    "book_id": "isbn-9784044743017",
+    "title": "サクラダリセット",
+    "author": "河野裕",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784044743017",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010248235",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 312
+  },
+  {
+    "book_id": "isbn-9784344427143",
+    "title": "明日の子供たち",
+    "author": "有川浩",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344427143",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028894454",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 522
+  },
+  {
+    "book_id": "isbn-9784101253343",
+    "title": "りかさん",
+    "author": "梨木香歩",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101253343",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004165667",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 262
+  },
+  {
+    "book_id": "isbn-9784150504861",
+    "title": "紙つなげ!彼らが本の紙を造っている",
+    "author": "佐々涼子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150504861",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027866948",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 319
+  },
+  {
+    "book_id": "isbn-9784087473421",
+    "title": "天帝妖狐",
+    "author": "乙一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087473421",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003007663",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 250
+  },
+  {
+    "book_id": "isbn-9784344409989",
+    "title": "さよならの代わりに",
+    "author": "貫井徳郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344409989",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009303726",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 522
+  },
+  {
+    "book_id": "isbn-9784408552613",
+    "title": "微笑む人",
+    "author": "貫井徳郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784408552613",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026732757",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "実業之日本社",
+    "pages": 354
+  },
+  {
+    "book_id": "isbn-9784167682026",
+    "title": "追憶のかけら",
+    "author": "貫井徳郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167682026",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009410394",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 659
+  },
+  {
+    "book_id": "isbn-9784087473735",
+    "title": "オロロ畑でつかまえて",
+    "author": "荻原浩",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087473735",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003039162",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 231
+  },
+  {
+    "book_id": "isbn-9784087453577",
+    "title": "花のさくら通り",
+    "author": "荻原浩",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087453577",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026707037",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 550
+  },
+  {
+    "book_id": "isbn-9784167809010",
+    "title": "ちょいな人々",
+    "author": "荻原浩",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167809010",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011223702",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784101230382",
+    "title": "冷蔵庫を抱きしめて",
+    "author": "荻原浩",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101230382",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028504197",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 398
+  },
+  {
+    "book_id": "isbn-9784575520064",
+    "title": "二千七百の夏と冬",
+    "author": "荻原浩",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575520064",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028207453",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 337
+  },
+  {
+    "book_id": "isbn-9784062776868",
+    "title": "砂の王国",
+    "author": "荻原浩",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062776868",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024963674",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 477
+  },
+  {
+    "book_id": "isbn-9784101259635",
+    "title": "デトロイト美術館の奇跡",
+    "author": "原田マハ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101259635",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030128047",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 133
+  },
+  {
+    "book_id": "isbn-9784062778879",
+    "title": "風のマジム",
+    "author": "原田マハ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062778879",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025605355",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 307
+  },
+  {
+    "book_id": "isbn-9784163905891",
+    "title": "サロメ",
+    "author": "原田マハ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784163905891",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027818284",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 322
+  },
+  {
+    "book_id": "isbn-9784102114018",
+    "title": "異邦人",
+    "author": "カミュ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102114018",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025522636",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 179
+  },
+  {
+    "book_id": "isbn-9784102114032",
+    "title": "ペスト",
+    "author": "カミュ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102114032",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007452477",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 476
+  },
+  {
+    "book_id": "isbn-9784041008430",
+    "title": "舞姫・うたかたの記",
+    "author": "森鷗外",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041008430",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024472515",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 217
   }
 ]
