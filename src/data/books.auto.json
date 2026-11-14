@@ -10821,6 +10821,32 @@
     "pages": 440
   },
   {
+    "book_id": "isbn-9784003102428",
+    "title": "夜明け前",
+    "author": "島崎藤村",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "challenging",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003102428",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004205905",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 412
+  },
+  {
     "book_id": "isbn-9784087520446",
     "title": "たけくらべ",
     "author": "樋口一葉",
@@ -17724,7 +17750,7 @@
     "pages": 261
   },
   {
-    "book_id": "isbn-9784394600077",
+    "book_id": "isbn-9784081310012",
     "title": "ファーブル昆虫記",
     "author": "ファーブル",
     "genres": [
@@ -17737,17 +17763,17 @@
       "wonder"
     ],
     "difficulty": "easy",
-    "length_category": "short",
+    "length_category": "long",
     "description": "",
     "recommendation_reasons": [],
     "cover_image_url": null,
     "purchase_url": null,
-    "isbn": "9784394600077",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002039656",
+    "isbn": "9784081310012",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008022755",
     "metadata_verified": true,
     "tier": "basic",
-    "publisher": "春陽堂書店",
-    "pages": 222
+    "publisher": "集英社",
+    "pages": 367
   },
   {
     "book_id": "isbn-9784471103644",
@@ -59817,6 +59843,33 @@
     "pages": 298
   },
   {
+    "book_id": "isbn-9784003400920",
+    "title": "アメリカのデモクラシー",
+    "author": "トクヴィル",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003400920",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008016911",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 364
+  },
+  {
     "book_id": "isbn-9784003412459",
     "title": "共産党宣言",
     "author": "マルクス、エンゲルス",
@@ -70528,33 +70581,6 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 442
-  },
-  {
-    "book_id": "isbn-9784309465531",
-    "title": "昆虫記",
-    "author": "ファーブル",
-    "genres": [
-      "nonfiction"
-    ],
-    "themes": [
-      "world"
-    ],
-    "moods": [
-      "wonder",
-      "learning"
-    ],
-    "difficulty": "normal",
-    "length_category": "long",
-    "description": "",
-    "recommendation_reasons": [],
-    "cover_image_url": null,
-    "purchase_url": null,
-    "isbn": "9784309465531",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002221725",
-    "metadata_verified": true,
-    "tier": "basic",
-    "publisher": "河出書房新社",
-    "pages": 279
   },
   {
     "book_id": "isbn-9784091940919",
