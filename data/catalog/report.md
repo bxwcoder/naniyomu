@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-13T23:54:35.799Z
-- 候補：6920冊
-- 入れた本：6254冊
-- 入れなかった本：666冊
+- 検索日時：2026-11-14T00:01:44.958Z
+- 候補：6938冊
+- 入れた本：6271冊
+- 入れなかった本：667冊
 
 ## 入れなかった本
 
@@ -673,6 +673,7 @@
 - 昭和精神史／桶谷秀昭（教養の定番）：ジャンルを決められない（分類番号：910.26）
 - 現代日本の思想／久野収（教養の定番）：タイトルが同じで ISBN のある記録がない
 - 近代の超克／河上徹太郎（教養の定番）：タイトルが同じで ISBN のある記録がない
+- 新版 論理トレーニング／野矢茂樹（教養の定番）：タイトルが同じで ISBN のある記録がない
 
 ## 入れた本と選んだ版
 
@@ -6930,3 +6931,20 @@
 - 私小説 from left to right：新潮文庫／新潮社／1998.10／460p／NDC 913.6／novel・easy・long
 - 本格小説：新潮文庫／新潮社／2005.12／605p／NDC 913.6／novel・easy・long
 - 続明暗：新潮文庫／新潮社／1993.10／381p／NDC 913.6／novel・easy・medium
+- 自分のなかに歴史をよむ：ちくま文庫／筑摩書房／2007.9／222p／NDC 230.07／liberal_arts・normal・short
+- 14歳の君へ：叢書なし／毎日新聞社／2006.12／191p／NDC 159.7／practical・normal・short
+- はじめて考えるときのように：PHP文庫／PHP研究所／2004.8／223p／NDC 104／liberal_arts・normal・short
+- 先生はえらい：ちくまプリマー新書／筑摩書房／2005.1／175p／NDC 370.49／liberal_arts・normal・short
+- 「みんな違ってみんないい」のか?：ちくまプリマー新書 ; 405／筑摩書房／2022.7／220p／NDC 115／liberal_arts・normal・short
+- 友だち幻想：ちくまプリマー新書 ; 79／筑摩書房／2008.3／156p／NDC 361.454／liberal_arts・normal・short
+- はじめての経済思想史：講談社現代新書 ; 2482／講談社／2018.6／224p／NDC 331.2／liberal_arts・normal・short
+- いますぐ書け、の文章法：ちくま新書 ; 920／筑摩書房／2011.9／222p／NDC 816／liberal_arts・normal・short
+- 文章は接続詞で決まる：光文社新書／光文社／2008.9／253p／NDC 815.6／liberal_arts・normal・medium
+- 伝わる・揺さぶる!文章を書く：PHP新書／PHP研究所／2001.11／236p／NDC 816／liberal_arts・normal・short
+- こころの声を聴く：新潮文庫／新潮社／1998.1／312p／NDC 019／liberal_arts・normal・medium
+- 生きづらさについて考える：毎日文庫 ; う1-2／毎日新聞出版／2023.2／361p／NDC 304／liberal_arts・normal・medium
+- 現代思想の教科書：ちくま学芸文庫 ; イ41-1／筑摩書房／2010.5／377p／NDC 104／liberal_arts・normal・medium
+- はじめての哲学：岩波ジュニア新書 ; 935／岩波書店／2021.6／192p／NDC 100／liberal_arts・normal・short
+- はじめての経済学：日経文庫／日本経済新聞社／2004.4／196p／NDC 331／liberal_arts・normal・long
+- 科学の考え方・学び方：岩波ジュニア新書／岩波書店／1996.6／209p／NDC 404／liberal_arts・normal・short
+- 疑似科学入門：岩波新書／岩波書店／2008.4／202p／NDC 404／liberal_arts・normal・short

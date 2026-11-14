@@ -166338,5 +166338,463 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 381
+  },
+  {
+    "book_id": "isbn-9784480423726",
+    "title": "自分のなかに歴史をよむ",
+    "author": "阿部謹也",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480423726",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009124950",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 222
+  },
+  {
+    "book_id": "isbn-9784620317885",
+    "title": "14歳の君へ",
+    "author": "池田晶子",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784620317885",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008412161",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "毎日新聞社",
+    "pages": 191
+  },
+  {
+    "book_id": "isbn-9784569662039",
+    "title": "はじめて考えるときのように",
+    "author": "野矢茂樹",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784569662039",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007457028",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "PHP研究所",
+    "pages": 223
+  },
+  {
+    "book_id": "isbn-9784480687029",
+    "title": "先生はえらい",
+    "author": "内田樹",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480687029",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007642054",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 175
+  },
+  {
+    "book_id": "isbn-9784480684301",
+    "title": "「みんな違ってみんないい」のか?",
+    "author": "山口裕之",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480684301",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032230012",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 220
+  },
+  {
+    "book_id": "isbn-9784480687807",
+    "title": "友だち幻想",
+    "author": "菅野仁",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480687807",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009316611",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 156
+  },
+  {
+    "book_id": "isbn-9784065122273",
+    "title": "はじめての経済思想史",
+    "author": "中村隆之",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065122273",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029028150",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 224
+  },
+  {
+    "book_id": "isbn-9784480066299",
+    "title": "いますぐ書け、の文章法",
+    "author": "堀井憲一郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480066299",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011282737",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 222
+  },
+  {
+    "book_id": "isbn-9784334034733",
+    "title": "文章は接続詞で決まる",
+    "author": "石黒圭",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334034733",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009568882",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 253
+  },
+  {
+    "book_id": "isbn-9784569617367",
+    "title": "伝わる・揺さぶる!文章を書く",
+    "author": "山田ズーニー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784569617367",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003043703",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "PHP研究所",
+    "pages": 236
+  },
+  {
+    "book_id": "isbn-9784101252230",
+    "title": "こころの声を聴く",
+    "author": "河合隼雄",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101252230",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002665545",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 312
+  },
+  {
+    "book_id": "isbn-9784620210520",
+    "title": "生きづらさについて考える",
+    "author": "内田樹",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784620210520",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032602549",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "毎日新聞出版",
+    "pages": 361
+  },
+  {
+    "book_id": "isbn-9784480092793",
+    "title": "現代思想の教科書",
+    "author": "石田英敬",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480092793",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010888300",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 377
+  },
+  {
+    "book_id": "isbn-9784005009350",
+    "title": "はじめての哲学",
+    "author": "藤田正勝",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784005009350",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031467371",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 192
+  },
+  {
+    "book_id": "isbn-9784532110147",
+    "title": "はじめての経済学",
+    "author": "伊藤元重",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784532110147",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007333243",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日本経済新聞社",
+    "pages": 196
+  },
+  {
+    "book_id": "isbn-9784005002726",
+    "title": "科学の考え方・学び方",
+    "author": "池内了",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784005002726",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002500124",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 209
+  },
+  {
+    "book_id": "isbn-9784004311317",
+    "title": "疑似科学入門",
+    "author": "池内了",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004311317",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009354520",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 202
   }
 ]
