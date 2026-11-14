@@ -178783,5 +178783,571 @@
     "tier": "basic",
     "publisher": "集英社",
     "pages": 252
+  },
+  {
+    "book_id": "isbn-9784063886153",
+    "title": "ゴールデンゴールド",
+    "author": "堀尾省太",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063886153",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027426679",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 198
+  },
+  {
+    "book_id": "isbn-9784063728224",
+    "title": "刻刻",
+    "author": "堀尾省太",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063728224",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010520248",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 214
+  },
+  {
+    "book_id": "isbn-9784088468075",
+    "title": "アシガール",
+    "author": "森本梢子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088468075",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023820771",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 147
+  },
+  {
+    "book_id": "isbn-9784091868718",
+    "title": "Heaven?",
+    "author": "佐々木倫子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091868718",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002913350",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784592883524",
+    "title": "バナナブレッドのプディング",
+    "author": "大島弓子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784592883524",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002429055",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白泉社",
+    "pages": 358
+  },
+  {
+    "book_id": "isbn-9784150121266",
+    "title": "もののあはれ",
+    "author": "ケン・リュウ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150121266",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028124760",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 265
+  },
+  {
+    "book_id": "isbn-9784150122317",
+    "title": "母の記憶に",
+    "author": "ケン・リュウ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150122317",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029669695",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 334
+  },
+  {
+    "book_id": "isbn-9784152096982",
+    "title": "リラとわたし",
+    "author": "エレナ・フェッランテ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784152096982",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434843934634",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784102156315",
+    "title": "キッチン・コンフィデンシャル",
+    "author": "アンソニー・ボーデイン",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102156315",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007767995",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 488
+  },
+  {
+    "book_id": "isbn-9784088830285",
+    "title": "株式会社マジルミエ",
+    "author": "岩田雪花",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088830285",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031948434",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784758031813",
+    "title": "春の呪い",
+    "author": "小西明日翔",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784758031813",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029225350",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "一迅社",
+    "pages": 142
+  },
+  {
+    "book_id": "isbn-9784864687775",
+    "title": "ブランクスペース",
+    "author": "熊倉献",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784864687775",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031206835",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ヒーローズ",
+    "pages": 157
+  },
+  {
+    "book_id": "isbn-9784098630158",
+    "title": "ありす、宇宙までも",
+    "author": "売野機子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784098630158",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033664728",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 188
+  },
+  {
+    "book_id": "isbn-9784098625420",
+    "title": "路傍のフジイ",
+    "author": "鍋倉夫",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784098625420",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033126907",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784088448398",
+    "title": "環と周",
+    "author": "よしながふみ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088448398",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033114010",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 217
+  },
+  {
+    "book_id": "isbn-9784065217771",
+    "title": "うるわしの宵の月",
+    "author": "やまもり三香",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065217771",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030796194",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 182
+  },
+  {
+    "book_id": "isbn-9784757535435",
+    "title": "ホリミヤ",
+    "author": "HERO",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784757535435",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023520316",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "スクウェア・エニックス",
+    "pages": 166
+  },
+  {
+    "book_id": "isbn-9784091251251",
+    "title": "だがしかし",
+    "author": "コトヤマ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091251251",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025766527",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 158
+  },
+  {
+    "book_id": "isbn-9784088916576",
+    "title": "ジャンケットバンク",
+    "author": "田中一行",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088916576",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030743571",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784098611171",
+    "title": "東京ヒゴロ",
+    "author": "松本大洋",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784098611171",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031630479",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 214
+  },
+  {
+    "book_id": "isbn-9784091897480",
+    "title": "ルーヴルの猫",
+    "author": "松本大洋",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091897480",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028589446",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 230
   }
 ]
