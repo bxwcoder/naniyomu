@@ -202776,5 +202776,402 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 263
+  },
+  {
+    "book_id": "isbn-9784065120729",
+    "title": "意識と自己",
+    "author": "アントニオ・ダマシオ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065120729",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029008270",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 445
+  },
+  {
+    "book_id": "isbn-9784105901592",
+    "title": "わたしのいるところ",
+    "author": "ジュンパ・ラヒリ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784105901592",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029859940",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 166
+  },
+  {
+    "book_id": "isbn-9784480429483",
+    "title": "蘆屋家の崩壊",
+    "author": "津原泰水",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480429483",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023772732",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 316
+  },
+  {
+    "book_id": "isbn-9784393333730",
+    "title": "記憶する体",
+    "author": "伊藤亜紗",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784393333730",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029929222",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "春秋社",
+    "pages": 277
+  },
+  {
+    "book_id": "isbn-9784061982000",
+    "title": "流離譚",
+    "author": "安岡章太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061982000",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002862623",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 518
+  },
+  {
+    "book_id": "isbn-9784478120675",
+    "title": "SLOW 仕事の減らし方",
+    "author": "カル・ニューポート",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784478120675",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033894853",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ダイヤモンド社",
+    "pages": 311
+  },
+  {
+    "book_id": "isbn-9784003363027",
+    "title": "法の哲学",
+    "author": "ヘーゲル",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003363027",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031184383",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 468
+  },
+  {
+    "book_id": "isbn-9784167773083",
+    "title": "泣き虫弱虫諸葛孔明",
+    "author": "酒見賢一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167773083",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010584988",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 646
+  },
+  {
+    "book_id": "isbn-9784488783013",
+    "title": "鳥の歌いまは絶え",
+    "author": "ケイト・ウィルヘルム",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488783013",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030371349",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 388
+  },
+  {
+    "book_id": "isbn-9784334752491",
+    "title": "ブラス・クーバスの死後の回想",
+    "author": "マシャード・ジ・アシス",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334752491",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023576498",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 571
+  },
+  {
+    "book_id": "isbn-9784167307011",
+    "title": "パリ仕込みお料理ノート",
+    "author": "石井好子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167307011",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001619633",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 235
+  },
+  {
+    "book_id": "isbn-9784003550106",
+    "title": "幸福者",
+    "author": "武者小路実篤",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003550106",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008662309",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 191
+  },
+  {
+    "book_id": "isbn-9784865284881",
+    "title": "歌よみに与ふる書",
+    "author": "正岡子規",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784865284881",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034356095",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "左右社",
+    "pages": 245
+  },
+  {
+    "book_id": "isbn-9784879840912",
+    "title": "パロマー",
+    "author": "イタロ・カルヴィーノ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784879840912",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001928461",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "松籟社",
+    "pages": 174
+  },
+  {
+    "book_id": "isbn-9784101197180",
+    "title": "転々",
+    "author": "藤田宜永",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101197180",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007896001",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 428
   }
 ]
