@@ -70606,6 +70606,33 @@
     "pages": 707
   },
   {
+    "book_id": "isbn-9784334753979",
+    "title": "詩学",
+    "author": "アリストテレス",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334753979",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029525325",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 413
+  },
+  {
     "book_id": "isbn-9784121600882",
     "title": "孟子",
     "author": "孟子",
@@ -129028,6 +129055,33 @@
     "pages": 462
   },
   {
+    "book_id": "isbn-9784480084873",
+    "title": "日本文学史序説",
+    "author": "加藤周一",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480084873",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002789559",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 550
+  },
+  {
     "book_id": "isbn-9784122074484",
     "title": "構造と力",
     "author": "浅田彰",
@@ -129405,6 +129459,33 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 316
+  },
+  {
+    "book_id": "isbn-9784061960183",
+    "title": "日本近代文学の起源",
+    "author": "柄谷行人",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061960183",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001921509",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 270
   },
   {
     "book_id": "isbn-9784121009395",
@@ -143404,6 +143485,33 @@
     "tier": "basic",
     "publisher": "幻冬舎",
     "pages": 334
+  },
+  {
+    "book_id": "isbn-9784003100417",
+    "title": "小説神髄",
+    "author": "坪内逍遥",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003100417",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010912658",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 276
   },
   {
     "book_id": "isbn-9784101334110",
@@ -166518,6 +166626,60 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 364
+  },
+  {
+    "book_id": "isbn-9784061976191",
+    "title": "日本浪曼派批判序説",
+    "author": "橋川文三",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061976191",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002692730",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 324
+  },
+  {
+    "book_id": "isbn-9784167242046",
+    "title": "昭和精神史",
+    "author": "桶谷秀昭",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167242046",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002495522",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 731
   },
   {
     "book_id": "isbn-9784061340442",
@@ -193762,6 +193924,33 @@
     "pages": 437
   },
   {
+    "book_id": "isbn-9784101419060",
+    "title": "追悼の達人",
+    "author": "嵐山光三郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101419060",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003662755",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 642
+  },
+  {
     "book_id": "isbn-9784167200466",
     "title": "乱紋",
     "author": "永井路子",
@@ -194246,5 +194435,764 @@
     "tier": "basic",
     "publisher": "集英社",
     "pages": 313
+  },
+  {
+    "book_id": "isbn-9784167587055",
+    "title": "台所のオーケストラ",
+    "author": "高峰秀子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167587055",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002941587",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 252
+  },
+  {
+    "book_id": "isbn-9784167587048",
+    "title": "にんげん蚤の市",
+    "author": "高峰秀子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167587048",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002855221",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 296
+  },
+  {
+    "book_id": "isbn-9784042541141",
+    "title": "引き攣る肉",
+    "author": "ルース・レンデル",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784042541141",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001916476",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 366
+  },
+  {
+    "book_id": "isbn-9784101151052",
+    "title": "薄桜記",
+    "author": "五味康祐",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101151052",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009341795",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 695
+  },
+  {
+    "book_id": "isbn-9784167903466",
+    "title": "アンパンの丸かじり",
+    "author": "東海林さだお",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167903466",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026267167",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 228
+  },
+  {
+    "book_id": "isbn-9784150775605",
+    "title": "森を抜ける道",
+    "author": "コリン・デクスター",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150775605",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002730209",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 506
+  },
+  {
+    "book_id": "isbn-9784150775544",
+    "title": "死者たちの礼拝",
+    "author": "コリン・デクスター",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150775544",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002195285",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 354
+  },
+  {
+    "book_id": "isbn-9784150775568",
+    "title": "謎まで三マイル",
+    "author": "コリン・デクスター",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150775568",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002274951",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 325
+  },
+  {
+    "book_id": "isbn-9784150775582",
+    "title": "オックスフォード運河の殺人",
+    "author": "コリン・デクスター",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150775582",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002507368",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 288
+  },
+  {
+    "book_id": "isbn-9784150775629",
+    "title": "カインの娘たち",
+    "author": "コリン・デクスター",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150775629",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002946000",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 501
+  },
+  {
+    "book_id": "isbn-9784122027961",
+    "title": "日日雑記",
+    "author": "武田百合子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122027961",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002567608",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 267
+  },
+  {
+    "book_id": "isbn-9784167918118",
+    "title": "跳ぶ男",
+    "author": "青山文平",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167918118",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031864799",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 382
+  },
+  {
+    "book_id": "isbn-9784101200927",
+    "title": "春山入り",
+    "author": "青山文平",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101200927",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028111205",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 284
+  },
+  {
+    "book_id": "isbn-9784087454642",
+    "title": "真田十勇士",
+    "author": "柴田錬三郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087454642",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027320863",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 340
+  },
+  {
+    "book_id": "isbn-9784167671013",
+    "title": "ガセネッタ&シモネッタ",
+    "author": "米原万里",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167671013",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004151952",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 315
+  },
+  {
+    "book_id": "isbn-9784167671044",
+    "title": "打ちのめされるようなすごい本",
+    "author": "米原万里",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167671044",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010120605",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 583
+  },
+  {
+    "book_id": "isbn-9784043944361",
+    "title": "心臓に毛が生えている理由",
+    "author": "米原万里",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043944361",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011184934",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川学芸出版",
+    "pages": 277
+  },
+  {
+    "book_id": "isbn-9784480036285",
+    "title": "遠い朝の本たち",
+    "author": "須賀敦子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480036285",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002993971",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784101392226",
+    "title": "地図のない道",
+    "author": "須賀敦子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101392226",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003671208",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 177
+  },
+  {
+    "book_id": "isbn-9784344433908",
+    "title": "婿どの相逢席",
+    "author": "西條奈加",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344433908",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033502757",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 464
+  },
+  {
+    "book_id": "isbn-9784758445696",
+    "title": "曲亭の家",
+    "author": "西條奈加",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784758445696",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032844281",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 315
+  },
+  {
+    "book_id": "isbn-9784041119006",
+    "title": "隠居すごろく",
+    "author": "西條奈加",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041119006",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031953356",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 461
+  },
+  {
+    "book_id": "isbn-9784167705381",
+    "title": "エンプティー・チェア",
+    "author": "ジェフリー・ディーヴァー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167705381",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008370773",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 387
+  },
+  {
+    "book_id": "isbn-9784167705572",
+    "title": "石の猿",
+    "author": "ジェフリー・ディーヴァー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167705572",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009164438",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 413
+  },
+  {
+    "book_id": "isbn-9784167705800",
+    "title": "12番目のカード",
+    "author": "ジェフリー・ディーヴァー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167705800",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010608975",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 383
+  },
+  {
+    "book_id": "isbn-9784167812119",
+    "title": "ソウル・コレクター",
+    "author": "ジェフリー・ディーヴァー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167812119",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023956274",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 417
+  },
+  {
+    "book_id": "isbn-9784167905019",
+    "title": "バーニング・ワイヤー",
+    "author": "ジェフリー・ディーヴァー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167905019",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026814270",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 350
+  },
+  {
+    "book_id": "isbn-9784150706012",
+    "title": "喪服のランデヴー",
+    "author": "コーネル・ウールリッチ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150706012",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809792972434",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784150708108",
+    "title": "キングの身代金",
+    "author": "エド・マクベイン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150708108",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033612101",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 351
   }
 ]
