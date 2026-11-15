@@ -29,6 +29,7 @@ export function genresFromNdc(ndc) {
   if (!ndc) return null;
   if (/^726(\.1)?$/.test(ndc)) return ['manga'];
   if (/^9\d3/.test(ndc)) return ['novel']; // 各国の小説・物語
+  if (/^9\d?0/.test(ndc)) return ['liberal_arts']; // 文学の理論・文学史・作家論（901, 910.2 など）
   if (/^916/.test(ndc) || /^9\d[4-9]/.test(ndc)) return ['nonfiction']; // 記録・ルポ・随筆など
   if (/^2[89]/.test(ndc)) return ['nonfiction', 'liberal_arts']; // 伝記・地理・紀行
   if (/^(159|33[5-8]|59|498|67)/.test(ndc)) return ['practical']; // 生き方・会社・お金・家庭・健康・商業
