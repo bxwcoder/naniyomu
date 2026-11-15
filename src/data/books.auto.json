@@ -195194,5 +195194,681 @@
     "tier": "basic",
     "publisher": "早川書房",
     "pages": 351
+  },
+  {
+    "book_id": "isbn-9784488186029",
+    "title": "犯罪",
+    "author": "フェルディナント・フォン・シーラッハ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488186029",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026269860",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 277
+  },
+  {
+    "book_id": "isbn-9784488186036",
+    "title": "罪悪",
+    "author": "フェルディナント・フォン・シーラッハ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488186036",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027074903",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 245
+  },
+  {
+    "book_id": "isbn-9784488186043",
+    "title": "コリーニ事件",
+    "author": "フェルディナント・フォン・シーラッハ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488186043",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028671769",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 216
+  },
+  {
+    "book_id": "isbn-9784488186050",
+    "title": "禁忌",
+    "author": "フェルディナント・フォン・シーラッハ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488186050",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029410566",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 260
+  },
+  {
+    "book_id": "isbn-9784150747107",
+    "title": "最後の刑事",
+    "author": "ピーター・ラヴゼイ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150747107",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002542403",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 541
+  },
+  {
+    "book_id": "isbn-9784150774516",
+    "title": "八百万の死にざま",
+    "author": "ローレンス・ブロック",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150774516",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001945837",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 503
+  },
+  {
+    "book_id": "isbn-9784576951812",
+    "title": "墓場への切符",
+    "author": "ローレンス・ブロック",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784576951812",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002457628",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "二見書房",
+    "pages": 439
+  },
+  {
+    "book_id": "isbn-9784150774585",
+    "title": "泥棒は詩を口ずさむ",
+    "author": "ローレンス・ブロック",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150774585",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002315568",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 324
+  },
+  {
+    "book_id": "isbn-9784576981369",
+    "title": "殺し屋",
+    "author": "ローレンス・ブロック",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784576981369",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002719363",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "二見書房",
+    "pages": 444
+  },
+  {
+    "book_id": "isbn-9784150756529",
+    "title": "ゴッドウルフの行方",
+    "author": "ロバート・B・パーカー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150756529",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001817287",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 260
+  },
+  {
+    "book_id": "isbn-9784150756567",
+    "title": "初秋",
+    "author": "ロバート・B・パーカー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150756567",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001910265",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 288
+  },
+  {
+    "book_id": "isbn-9784150756512",
+    "title": "失投",
+    "author": "ロバート・B・パーカー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150756512",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001773401",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 277
+  },
+  {
+    "book_id": "isbn-9784488245054",
+    "title": "大鴉の啼く冬",
+    "author": "アン・クリーヴス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488245054",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008774110",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 446
+  },
+  {
+    "book_id": "isbn-9784087605846",
+    "title": "氷姫",
+    "author": "カミラ・レックバリ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087605846",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010520825",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 582
+  },
+  {
+    "book_id": "isbn-9784151701511",
+    "title": "骨と沈黙",
+    "author": "レジナルド・ヒル",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151701511",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002444584",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 590
+  },
+  {
+    "book_id": "isbn-9784488266042",
+    "title": "緑衣の女",
+    "author": "アーナルデュル・インドリダソン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488266042",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027449786",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 413
+  },
+  {
+    "book_id": "isbn-9784488266059",
+    "title": "声",
+    "author": "アーナルデュル・インドリダソン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488266059",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028725521",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 475
+  },
+  {
+    "book_id": "isbn-9784150402662",
+    "title": "死にゆく者への祈り",
+    "author": "ジャック・ヒギンズ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150402662",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434840735809",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784167527211",
+    "title": "立証責任",
+    "author": "スコット・トゥロー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167527211",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002442891",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 413
+  },
+  {
+    "book_id": "isbn-9784488209049",
+    "title": "白い雌ライオン",
+    "author": "ヘニング・マンケル",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488209049",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007500961",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 716
+  },
+  {
+    "book_id": "isbn-9784488209032",
+    "title": "リガの犬たち",
+    "author": "ヘニング・マンケル",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488209032",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004088620",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 443
+  },
+  {
+    "book_id": "isbn-9784102167014",
+    "title": "ブラック・サンデー",
+    "author": "トマス・ハリス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102167014",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009103593",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 548
+  },
+  {
+    "book_id": "isbn-9784042823063",
+    "title": "フランキー・マシーンの冬",
+    "author": "ドン・ウィンズロウ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784042823063",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011007673",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 318
+  },
+  {
+    "book_id": "isbn-9784042537069",
+    "title": "悪魔の選択",
+    "author": "フレデリック・フォーサイス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784042537069",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909838788275",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784167907075",
+    "title": "傷だらけのカミーユ",
+    "author": "ピエール・ルメートル",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167907075",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027617115",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 387
+  },
+  {
+    "book_id": "isbn-9784167903565",
+    "title": "死のドレスを花婿に",
+    "author": "ピエール・ルメートル",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167903565",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026267242",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 388
   }
 ]
