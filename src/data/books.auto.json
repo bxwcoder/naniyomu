@@ -200030,5 +200030,275 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 357
+  },
+  {
+    "book_id": "isbn-9784086185271",
+    "title": "神々の山嶺",
+    "author": "夢枕獏、谷口ジロー",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784086185271",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008330083",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 309
+  },
+  {
+    "book_id": "isbn-9784063725520",
+    "title": "ディアスポリス",
+    "author": "すぎむらしんいち",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063725520",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008310628",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784091514516",
+    "title": "デカスロン",
+    "author": "山田芳裕",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091514516",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002227576",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 127
+  },
+  {
+    "book_id": "isbn-9784120046575",
+    "title": "ドミトリーともきんす",
+    "author": "高野文子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784120046575",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025766077",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 126
+  },
+  {
+    "book_id": "isbn-9784592174417",
+    "title": "花よりも花の如く",
+    "author": "成田美名子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784592174417",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004181827",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白泉社",
+    "pages": 189
+  },
+  {
+    "book_id": "isbn-9784106101373",
+    "title": "人は見た目が9割",
+    "author": "竹内一郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784106101373",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007963489",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 191
+  },
+  {
+    "book_id": "isbn-9784166608805",
+    "title": "日本型リーダーはなぜ失敗するのか",
+    "author": "半藤一利",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784166608805",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023983641",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 262
+  },
+  {
+    "book_id": "isbn-9784062883580",
+    "title": "貧困世代",
+    "author": "藤田孝典",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062883580",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027144458",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 222
+  },
+  {
+    "book_id": "isbn-9784122065574",
+    "title": "老後の資金がありません",
+    "author": "垣谷美雨",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122065574",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028869385",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784492396469",
+    "title": "日本人の勝算",
+    "author": "デービッド・アトキンソン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784492396469",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029413233",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東洋経済新報社",
+    "pages": 323
   }
 ]
