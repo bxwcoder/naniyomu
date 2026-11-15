@@ -203972,5 +203972,322 @@
     "tier": "basic",
     "publisher": "岩波書店",
     "pages": 491
+  },
+  {
+    "book_id": "isbn-9784087606201",
+    "title": "悪童",
+    "author": "カミラ・レックバリ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087606201",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011154045",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 693
+  },
+  {
+    "book_id": "isbn-9784087606072",
+    "title": "説教師",
+    "author": "カミラ・レックバリ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087606072",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010938023",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 618
+  },
+  {
+    "book_id": "isbn-9784001141726",
+    "title": "ツバメの谷",
+    "author": "アーサー・ランサム",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001141726",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011162472",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 389
+  },
+  {
+    "book_id": "isbn-9784001141740",
+    "title": "ヤマネコ号の冒険",
+    "author": "アーサー・ランサム",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784001141740",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023557795",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 334
+  },
+  {
+    "book_id": "isbn-9784037262501",
+    "title": "ガラスの家族",
+    "author": "キャサリン・パターソン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784037262501",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001692594",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "偕成社",
+    "pages": 262
+  },
+  {
+    "book_id": "isbn-9784806713999",
+    "title": "土の文明史",
+    "author": "デイビッド・モントゴメリー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784806713999",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010829484",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "築地書館",
+    "pages": 338
+  },
+  {
+    "book_id": "isbn-9784062880145",
+    "title": "分類思考の世界",
+    "author": "三中信宏",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062880145",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010565185",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 328
+  },
+  {
+    "book_id": "isbn-9784488247096",
+    "title": "まるで天使のような",
+    "author": "マーガレット・ミラー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488247096",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026677442",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 422
+  },
+  {
+    "book_id": "isbn-9784150408374",
+    "title": "ロスト・ワールド",
+    "author": "マイクル・クライトン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150408374",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002606389",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 383
+  },
+  {
+    "book_id": "isbn-9784004302681",
+    "title": "ハイデガーの思想",
+    "author": "木田元",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004302681",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002272220",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 240
+  },
+  {
+    "book_id": "isbn-9784150311193",
+    "title": "リライト",
+    "author": "法条遥",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150311193",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024677199",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 292
+  },
+  {
+    "book_id": "isbn-9784163124704",
+    "title": "虚栄の篝火",
+    "author": "トム・ウルフ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784163124704",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002102713",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 470
   }
 ]
