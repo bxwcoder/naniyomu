@@ -197848,6 +197848,32 @@
     "pages": 723
   },
   {
+    "book_id": "isbn-9784061360433",
+    "title": "蟻の木の下で",
+    "author": "西東登",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061360433",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I11141123545694",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 300
+  },
+  {
     "book_id": "isbn-9784198906054",
     "title": "殺人の棋譜",
     "author": "斎藤栄",
@@ -198600,5 +198626,506 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 383
+  },
+  {
+    "book_id": "isbn-9784101018164",
+    "title": "異人たちとの夏",
+    "author": "山田太一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101018164",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002148272",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 220
+  },
+  {
+    "book_id": "isbn-9784101237367",
+    "title": "明るい夜に出かけて",
+    "author": "佐藤多佳子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101237367",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029629171",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 403
+  },
+  {
+    "book_id": "isbn-9784167845018",
+    "title": "ゆれる",
+    "author": "西川美和",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167845018",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023811962",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 239
+  },
+  {
+    "book_id": "isbn-9784150313166",
+    "title": "エピローグ",
+    "author": "円城塔",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150313166",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028785673",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 345
+  },
+  {
+    "book_id": "isbn-9784150312947",
+    "title": "未必のマクベス",
+    "author": "早瀬耕",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150312947",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028498844",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 613
+  },
+  {
+    "book_id": "isbn-9784044728014",
+    "title": "本格推理委員会",
+    "author": "日向まさみち",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784044728014",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008412414",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 392
+  },
+  {
+    "book_id": "isbn-9784488410117",
+    "title": "化身",
+    "author": "愛川晶",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488410117",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010993380",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 452
+  },
+  {
+    "book_id": "isbn-9784488427016",
+    "title": "凍える島",
+    "author": "近藤史恵",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488427016",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002826130",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 277
+  },
+  {
+    "book_id": "isbn-9784043706044",
+    "title": "眩暈を愛して夢を見よ",
+    "author": "小川勝己",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043706044",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010850379",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 532
+  },
+  {
+    "book_id": "isbn-9784575515961",
+    "title": "十三回忌",
+    "author": "小島正樹",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575515961",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024642146",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 421
+  },
+  {
+    "book_id": "isbn-9784488449216",
+    "title": "探偵は教室にいない",
+    "author": "川澄浩平",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488449216",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031667935",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 234
+  },
+  {
+    "book_id": "isbn-9784043463015",
+    "title": "D-ブリッジ・テープ",
+    "author": "沙藤一樹",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043463015",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002742253",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 167
+  },
+  {
+    "book_id": "isbn-9784796687874",
+    "title": "完全なる首長竜の日",
+    "author": "乾緑郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784796687874",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023251324",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "宝島社",
+    "pages": 313
+  },
+  {
+    "book_id": "isbn-9784800222916",
+    "title": "生存者ゼロ",
+    "author": "安生正",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784800222916",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025157044",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "宝島社",
+    "pages": 491
+  },
+  {
+    "book_id": "isbn-9784299002563",
+    "title": "怪物の木こり",
+    "author": "倉井眉介",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784299002563",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030206863",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "宝島社",
+    "pages": 318
+  },
+  {
+    "book_id": "isbn-9784299039163",
+    "title": "特許やぶりの女王",
+    "author": "南原詠",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784299039163",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032617947",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "宝島社",
+    "pages": 277
+  },
+  {
+    "book_id": "isbn-9784299066237",
+    "title": "ファラオの密室",
+    "author": "白川尚史",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784299066237",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034005580",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "宝島社",
+    "pages": 347
+  },
+  {
+    "book_id": "isbn-9784334764623",
+    "title": "少女たちの羅針盤",
+    "author": "水生大海",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334764623",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023884170",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 416
+  },
+  {
+    "book_id": "isbn-9784334772734",
+    "title": "雪の鉄樹",
+    "author": "遠田潤子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334772734",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027202236",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 461
   }
 ]
