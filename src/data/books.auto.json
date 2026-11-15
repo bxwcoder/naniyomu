@@ -209266,5 +209266,449 @@
     "tier": "basic",
     "publisher": "文藝春秋",
     "pages": 248
+  },
+  {
+    "book_id": "isbn-9784480439406",
+    "title": "キャラメル工場から",
+    "author": "佐多稲子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480439406",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033350437",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 286
+  },
+  {
+    "book_id": "isbn-9784061961890",
+    "title": "時に佇つ",
+    "author": "佐多稲子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061961890",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002202610",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 214
+  },
+  {
+    "book_id": "isbn-9784093525145",
+    "title": "苦の世界",
+    "author": "宇野浩二",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784093525145",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034167158",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 343
+  },
+  {
+    "book_id": "isbn-9784061976092",
+    "title": "年月のあしおと",
+    "author": "広津和郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061976092",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002684733",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 295
+  },
+  {
+    "book_id": "isbn-9784101012025",
+    "title": "あらくれ",
+    "author": "徳田秋声",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101012025",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003021934",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784006021221",
+    "title": "黒の試走車",
+    "author": "梶山季之",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784006021221",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008857272",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 417
+  },
+  {
+    "book_id": "isbn-9784101038018",
+    "title": "多情仏心",
+    "author": "里見弴",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101038018",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970023484893452943",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784061835771",
+    "title": "鴉の死",
+    "author": "金石範",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061835771",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001749757",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 322
+  },
+  {
+    "book_id": "isbn-9784061963443",
+    "title": "誘惑者",
+    "author": "高橋たか子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061963443",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002459311",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 375
+  },
+  {
+    "book_id": "isbn-9784309408750",
+    "title": "神州纐纈城",
+    "author": "国枝史郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309408750",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009164703",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 455
+  },
+  {
+    "book_id": "isbn-9784313750012",
+    "title": "小説 上杉鷹山",
+    "author": "童門冬二",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784313750012",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002511593",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "学陽書房",
+    "pages": 370
+  },
+  {
+    "book_id": "isbn-9784394904700",
+    "title": "桃太郎侍",
+    "author": "山手樹一郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784394904700",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033263467",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "春陽堂書店",
+    "pages": 363
+  },
+  {
+    "book_id": "isbn-9784480034618",
+    "title": "富士に立つ影",
+    "author": "白井喬二",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480034618",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002697396",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 371
+  },
+  {
+    "book_id": "isbn-9784041063477",
+    "title": "南国太平記",
+    "author": "直木三十五",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041063477",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028627218",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 562
+  },
+  {
+    "book_id": "isbn-9784336050236",
+    "title": "瞼の母",
+    "author": "長谷川伸",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784336050236",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009381898",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "国書刊行会",
+    "pages": 344
+  },
+  {
+    "book_id": "isbn-9784829110515",
+    "title": "妖棋伝",
+    "author": "角田喜久雄",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784829110515",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001793754",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "富士見書房",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784043931019",
+    "title": "妻は、くノ一",
+    "author": "風野真知雄",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043931019",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009993909",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 254
   }
 ]
