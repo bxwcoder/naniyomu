@@ -210011,13 +210011,14 @@
     "title": "脳内麻薬",
     "author": "中野信子",
     "genres": [
-      "practical"
+      "liberal_arts"
     ],
     "themes": [
-      "practical"
+      "world"
     ],
     "moods": [
-      "learning"
+      "learning",
+      "wonder"
     ],
     "difficulty": "normal",
     "length_category": "short",
@@ -210383,5 +210384,592 @@
     "tier": "basic",
     "publisher": "筑摩書房",
     "pages": 425
+  },
+  {
+    "book_id": "isbn-9784296124558",
+    "title": "経営戦略全史",
+    "author": "三谷宏治",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784296124558",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034214504",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日経BP日本経済新聞出版",
+    "pages": 568
+  },
+  {
+    "book_id": "isbn-9784569901053",
+    "title": "ぼくらの仮説が世界をつくる",
+    "author": "佐渡島庸平",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784569901053",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031347969",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "PHP研究所",
+    "pages": 284
+  },
+  {
+    "book_id": "isbn-9784569819419",
+    "title": "なぜローカル経済から日本は甦るのか",
+    "author": "冨山和彦",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784569819419",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025486905",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "PHP研究所",
+    "pages": 273
+  },
+  {
+    "book_id": "isbn-9784569574004",
+    "title": "自分に気づく心理学",
+    "author": "加藤諦三",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784569574004",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002892725",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "PHP研究所",
+    "pages": 245
+  },
+  {
+    "book_id": "isbn-9784344986527",
+    "title": "80歳の壁",
+    "author": "和田秀樹",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344986527",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032035571",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 226
+  },
+  {
+    "book_id": "isbn-9784296101627",
+    "title": "アフターデジタル",
+    "author": "尾原和啓",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784296101627",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029569405",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日経BP社",
+    "pages": 197
+  },
+  {
+    "book_id": "isbn-9784815615604",
+    "title": "22世紀の民主主義",
+    "author": "成田悠輔",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784815615604",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032230028",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "SBクリエイティブ",
+    "pages": 255
+  },
+  {
+    "book_id": "isbn-9784837977971",
+    "title": "禅、シンプル生活のすすめ",
+    "author": "枡野俊明",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784837977971",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010272171",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "三笠書房",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784569635453",
+    "title": "頭がいい人、悪い人の話し方",
+    "author": "樋口裕一",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784569635453",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007382462",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "PHP研究所",
+    "pages": 219
+  },
+  {
+    "book_id": "isbn-9784334038014",
+    "title": "知性を磨く",
+    "author": "田坂広志",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334038014",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025414859",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 229
+  },
+  {
+    "book_id": "isbn-9784838770632",
+    "title": "断捨離",
+    "author": "やましたひでこ",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784838770632",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023908468",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "マガジンハウス",
+    "pages": 205
+  },
+  {
+    "book_id": "isbn-9784047134539",
+    "title": "機動戦士ガンダム THE ORIGIN",
+    "author": "安彦良和",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784047134539",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003644369",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 213
+  },
+  {
+    "book_id": "isbn-9784122036246",
+    "title": "虹色のトロツキー",
+    "author": "安彦良和",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122036246",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002884603",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 251
+  },
+  {
+    "book_id": "isbn-9784091860019",
+    "title": "昴",
+    "author": "曽田正人",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091860019",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002909239",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 175
+  },
+  {
+    "book_id": "isbn-9784091236814",
+    "title": "め組の大吾",
+    "author": "曽田正人",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091236814",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002465681",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 193
+  },
+  {
+    "book_id": "isbn-9784778010010",
+    "title": "窮鼠はチーズの夢を見る",
+    "author": "水城せとな",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784778010010",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008082933",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館クリエイティブ",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784871829687",
+    "title": "同級生",
+    "author": "中村明日美子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784871829687",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031878479",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "茜新社",
+    "pages": 183
+  },
+  {
+    "book_id": "isbn-9784063883046",
+    "title": "先生の白い嘘",
+    "author": "鳥飼茜",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063883046",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025255525",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 188
+  },
+  {
+    "book_id": "isbn-9784870250079",
+    "title": "南国少年パプワくん",
+    "author": "柴田亜美",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784870250079",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002157833",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "エニックス",
+    "pages": 188
+  },
+  {
+    "book_id": "isbn-9784107717573",
+    "title": "プリニウス",
+    "author": "ヤマザキマリ、とり・みき",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784107717573",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025549872",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 194
+  },
+  {
+    "book_id": "isbn-9784091531414",
+    "title": "クロサギ",
+    "author": "夏原武、黒丸",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091531414",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007329693",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 157
+  },
+  {
+    "book_id": "isbn-9784091823618",
+    "title": "サンクチュアリ",
+    "author": "史村翔、池上遼一",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091823618",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002071177",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 233
   }
 ]

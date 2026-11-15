@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-15T09:56:04.806Z
-- 候補：8694冊
-- 入れた本：7914冊
-- 入れなかった本：780冊
+- 検索日時：2026-11-15T10:07:43.924Z
+- 候補：8717冊
+- 入れた本：7936冊
+- 入れなかった本：781冊
 
 ## 入れなかった本
 
@@ -787,6 +787,7 @@
 - 竹沢先生と云ふ人／長与善郎（日本の名作）：タイトルが同じで ISBN のある記録がない
 - 氾濫／伊藤整（日本の名作）：タイトルが同じで ISBN のある記録がない
 - 沓掛時次郎／長谷川伸（日本の名作）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
+- さよなら絶望先生／久米田康治（漫画の定番）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
 
 ## 入れた本と選んだ版
 
@@ -8690,7 +8691,7 @@
 - 植物はすごい：中公新書 ; 2174／中央公論新社／2012.7／236p／NDC 471.3／liberal_arts・normal・short
 - 僕には鳥の言葉がわかる：叢書なし／小学館／2025.1／263p／NDC 488.99／liberal_arts・normal・medium
 - 不自然な宇宙：ブルーバックス ; B-2084／講談社／2019.1／230p／NDC 443.9／liberal_arts・normal・short
-- 脳内麻薬：幻冬舎新書 ; な-17-1／幻冬舎／2014.1／174p／NDC 491.371／practical・normal・short
+- 脳内麻薬：幻冬舎新書 ; な-17-1／幻冬舎／2014.1／174p／NDC 491.371／liberal_arts・normal・short
 - 宇宙論入門：岩波新書／岩波書店／2008.11／215p／NDC 443.9／liberal_arts・normal・short
 - 資本主義はなぜ自壊したのか：集英社文庫 ; な36-2／集英社／2011.1／446p／NDC 332.06／liberal_arts・normal・medium
 - キングの時代：岩波現代文庫. 学術 ; 414／岩波書店／2020.1／556,13p／NDC 051.6／liberal_arts・normal・long
@@ -8704,3 +8705,25 @@
 - 年収300万円時代を生き抜く経済学：知恵の森文庫／光文社／2005.5／288p／NDC 332.107／liberal_arts・normal・medium
 - 後藤新平：中公新書／中央公論社／1988.6／252p／NDC 289.1／nonfiction,liberal_arts・normal・medium
 - 権力の館を歩く：ちくま文庫 ; み32-1／筑摩書房／2013.12／425p／NDC 312.1／liberal_arts・normal・medium
+- 経営戦略全史：日経ビジネス人文庫 ; み11-3／日経BP日本経済新聞出版、日経BPマーケティング／2025.8／568,10p／NDC 336.1／practical・normal・long
+- ぼくらの仮説が世界をつくる：PHP文庫 ; さ74-1／PHP研究所／2021.4／284p／NDC 336.17／practical・normal・medium
+- なぜローカル経済から日本は甦るのか：PHP新書 ; 932／PHP研究所／2014.6／273p／NDC 332.107／liberal_arts・normal・medium
+- 自分に気づく心理学：PHP文庫／PHP研究所／2000.5／245p／NDC 159／practical・normal・short
+- 80歳の壁：幻冬舎新書 ; わ-1-3／幻冬舎／2022.3／226p／NDC 159.79／practical・normal・short
+- アフターデジタル：叢書なし／日経BP社、日経BPマーケティング (発売)／2019.3／197p／NDC 336／practical・normal・short
+- 22世紀の民主主義：SB新書 ; 586／SBクリエイティブ／2022.7／255p／NDC 311.7／liberal_arts・normal・medium
+- 禅、シンプル生活のすすめ：知的生きかた文庫 ; ま41-1／三笠書房／2009.7／221p／NDC 188.84／liberal_arts・normal・short
+- 頭がいい人、悪い人の話し方：PHP新書／PHP研究所／2004.7／219p／NDC 809.2／liberal_arts・normal・short
+- 知性を磨く：光文社新書 ; 698／光文社／2014.5／229p／NDC 159.4／practical・normal・short
+- 断捨離：マガジンハウス文庫 ; や1-1／マガジンハウス／2012.9／205p／NDC 597.5／practical・normal・short
+- 機動戦士ガンダム THE ORIGIN：角川コミックス・エース／角川書店／2002.6／213p／NDC 726.1／manga・easy・long
+- 虹色のトロツキー：中公文庫コミック版／中央公論新社／2000.3／251p／NDC 726.1／manga・easy・long
+- 昴：ビッグコミックス／小学館／2000.8／175p／NDC 726.1／manga・easy・long
+- め組の大吾：少年サンデーコミックス／小学館／1996.2／193p／NDC 726.1／manga・easy・long
+- 窮鼠はチーズの夢を見る：Judy comics／小学館クリエイティブ、小学館 (発売)／2006.2／1冊／NDC 726.1／manga・easy・long
+- 同級生：Edge comix／茜新社／2008.2／183 p／NDC 726.1／manga・easy・long
+- 先生の白い嘘：モーニングKC ; 2304／講談社／2014.2／188p／NDC 726.1／manga・easy・long
+- 南国少年パプワくん：ガンガンコミックス／エニックス／1992.1／188p／NDC 726.1／manga・easy・long
+- プリニウス：Bunch comics : 45 premium／新潮社／2014.7／194p／NDC 726.1／manga・easy・long
+- クロサギ：ヤングサンデーコミックス／小学館／2004.5／157p／NDC 726.1／manga・easy・long
+- サンクチュアリ：ビッグコミックス／小学館／1990.12／233p／NDC 726.1／manga・easy・long
