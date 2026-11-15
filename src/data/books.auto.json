@@ -213474,5 +213474,269 @@
     "tier": "basic",
     "publisher": "集英社",
     "pages": 240
+  },
+  {
+    "book_id": "isbn-9784063725070",
+    "title": "東京トイボックス",
+    "author": "うめ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063725070",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008138531",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 220
+  },
+  {
+    "book_id": "isbn-9784537096392",
+    "title": "酒のほそ道",
+    "author": "ラズウェル細木",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784537096392",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002460562",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日本文芸社",
+    "pages": 197
+  },
+  {
+    "book_id": "isbn-9784309413150",
+    "title": "ロッパ食談",
+    "author": "古川緑波",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309413150",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025728984",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 274
+  },
+  {
+    "book_id": "isbn-9784167918828",
+    "title": "生まれた時からアルデンテ",
+    "author": "平野紗季子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167918828",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032099028",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 207
+  },
+  {
+    "book_id": "isbn-9784877586027",
+    "title": "日々ごはん",
+    "author": "高山なおみ",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784877586027",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007372520",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央出版アノニマ・スタジオ",
+    "pages": 263
+  },
+  {
+    "book_id": "isbn-9784063880410",
+    "title": "花井沢町公民館便り",
+    "author": "ヤマシタトモコ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063880410",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026251471",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 188
+  },
+  {
+    "book_id": "isbn-9784537127072",
+    "title": "食の軍師",
+    "author": "泉昌之",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784537127072",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011112734",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日本文芸社",
+    "pages": 182
+  },
+  {
+    "book_id": "isbn-9784775400340",
+    "title": "ジャングル",
+    "author": "アプトン・シンクレア",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784775400340",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010233362",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "松柏社",
+    "pages": 559
+  },
+  {
+    "book_id": "isbn-9784480035257",
+    "title": "血染めの部屋",
+    "author": "アンジェラ・カーター",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480035257",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002855801",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 309
+  },
+  {
+    "book_id": "isbn-9784003221112",
+    "title": "トム・ジョウンズ",
+    "author": "ヘンリー・フィールディング",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003221112",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I10111101835034",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 300
   }
 ]
