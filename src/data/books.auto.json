@@ -212886,5 +212886,593 @@
     "tier": "basic",
     "publisher": "集英社",
     "pages": 195
+  },
+  {
+    "book_id": "isbn-9784344404397",
+    "title": "リカ",
+    "author": "五十嵐貴久",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344404397",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007358057",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 406
+  },
+  {
+    "book_id": "isbn-9784344407633",
+    "title": "交渉人",
+    "author": "五十嵐貴久",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344407633",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008549619",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 454
+  },
+  {
+    "book_id": "isbn-9784094518023",
+    "title": "夏へのトンネル、さよならの出口",
+    "author": "八目迷",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094518023",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029756515",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 325
+  },
+  {
+    "book_id": "isbn-9784041127445",
+    "title": "火喰鳥を、喰う",
+    "author": "原浩",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041127445",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032468266",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 338
+  },
+  {
+    "book_id": "isbn-9784041154519",
+    "title": "虚魚",
+    "author": "新名智",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041154519",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033782724",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 307
+  },
+  {
+    "book_id": "isbn-9784840237154",
+    "title": "ミミズクと夜の王",
+    "author": "紅玉いづき",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784840237154",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008430232",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "メディアワークス",
+    "pages": 269
+  },
+  {
+    "book_id": "isbn-9784344431942",
+    "title": "ほねがらみ",
+    "author": "芦花公園",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344431942",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032094099",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 333
+  },
+  {
+    "book_id": "isbn-9784049125245",
+    "title": "幼なじみが絶対に負けないラブコメ",
+    "author": "二丸修一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784049125245",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029691785",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 291
+  },
+  {
+    "book_id": "isbn-9784591168899",
+    "title": "余命一年と宣告された僕が、余命半年の君と出会った話",
+    "author": "森田碧",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784591168899",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031185483",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ポプラ社",
+    "pages": 298
+  },
+  {
+    "book_id": "isbn-9784094530179",
+    "title": "負けヒロインが多すぎる!",
+    "author": "雨森たきび",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094530179",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031554987",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 309
+  },
+  {
+    "book_id": "isbn-9784040738093",
+    "title": "経験済みなキミと、経験ゼロなオレが、お付き合いする話。",
+    "author": "長岡マキ子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784040738093",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030615277",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 299
+  },
+  {
+    "book_id": "isbn-9784044002824",
+    "title": "人生論ノート",
+    "author": "三木清",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784044002824",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028035173",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 300
+  },
+  {
+    "book_id": "isbn-9784480440761",
+    "title": "裸足で逃げる",
+    "author": "上間陽子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480440761",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034442457",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 314
+  },
+  {
+    "book_id": "isbn-9784480815583",
+    "title": "海をあげる",
+    "author": "上間陽子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480815583",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030695713",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 251
+  },
+  {
+    "book_id": "isbn-9784393333716",
+    "title": "チョンキンマンションのボスは知っている",
+    "author": "小川さやか",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784393333716",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029790784",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "春秋社",
+    "pages": 273
+  },
+  {
+    "book_id": "isbn-9784480439840",
+    "title": "ヤンキーと地元",
+    "author": "打越正行",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480439840",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033769021",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 365
+  },
+  {
+    "book_id": "isbn-9784480092243",
+    "title": "反=日本語論",
+    "author": "蓮實重彦",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480092243",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010440497",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 340
+  },
+  {
+    "book_id": "isbn-9784061494855",
+    "title": "知の編集術",
+    "author": "松岡正剛",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061494855",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002857786",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 260
+  },
+  {
+    "book_id": "isbn-9784901510189",
+    "title": "無痛文明論",
+    "author": "森岡正博",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784901510189",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004264066",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "トランスビュー",
+    "pages": 451
+  },
+  {
+    "book_id": "isbn-9784260010047",
+    "title": "リハビリの夜",
+    "author": "熊谷晋一郎",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784260010047",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010663727",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "医学書院",
+    "pages": 255
+  },
+  {
+    "book_id": "isbn-9784022951533",
+    "title": "いつもの言葉を哲学する",
+    "author": "古田徹也",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022951533",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031848525",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 289
+  },
+  {
+    "book_id": "isbn-9784087200256",
+    "title": "日本映画史100年",
+    "author": "四方田犬彦",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087200256",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002870403",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 240
   }
 ]
