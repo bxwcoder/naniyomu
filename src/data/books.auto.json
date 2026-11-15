@@ -199518,5 +199518,517 @@
     "tier": "basic",
     "publisher": "徳間書店",
     "pages": 775
+  },
+  {
+    "book_id": "isbn-9784101281131",
+    "title": "陋巷に在り",
+    "author": "酒見賢一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101281131",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002488694",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 350
+  },
+  {
+    "book_id": "isbn-9784101383217",
+    "title": "鉄塔武蔵野線",
+    "author": "銀林みのる",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101383217",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002607742",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 306
+  },
+  {
+    "book_id": "isbn-9784043905010",
+    "title": "ラス・マンチャス通信",
+    "author": "平山瑞穂",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043905010",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009568615",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 319
+  },
+  {
+    "book_id": "isbn-9784167605049",
+    "title": "ハルモニア",
+    "author": "篠田節子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167605049",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002958470",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 509
+  },
+  {
+    "book_id": "isbn-9784087480634",
+    "title": "絹の変容",
+    "author": "篠田節子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087480634",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002277827",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 196
+  },
+  {
+    "book_id": "isbn-9784043595075",
+    "title": "ハッピーエンドにさよならを",
+    "author": "歌野晶午",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043595075",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011006964",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 365
+  },
+  {
+    "book_id": "isbn-9784062939027",
+    "title": "世界の果てのこどもたち",
+    "author": "中脇初枝",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062939027",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029010769",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 473
+  },
+  {
+    "book_id": "isbn-9784591139752",
+    "title": "きみはいい子",
+    "author": "中脇初枝",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784591139752",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025354473",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ポプラ社",
+    "pages": 329
+  },
+  {
+    "book_id": "isbn-9784480432995",
+    "title": "さようなら、オレンジ",
+    "author": "岩城けい",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480432995",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026706797",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 172
+  },
+  {
+    "book_id": "isbn-9784043944477",
+    "title": "ミュージック・ブレス・ユー!!",
+    "author": "津村記久子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043944477",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011222263",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 243
+  },
+  {
+    "book_id": "isbn-9784167134013",
+    "title": "淋しいアメリカ人",
+    "author": "桐島洋子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167134013",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I10111102049558",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 234
+  },
+  {
+    "book_id": "isbn-9784163339115",
+    "title": "北極圏一万二千キロ",
+    "author": "植村直己",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784163339115",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I09111100896541",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 307
+  },
+  {
+    "book_id": "isbn-9784575714173",
+    "title": "牛を屠る",
+    "author": "佐川光晴",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575714173",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025541215",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 170
+  },
+  {
+    "book_id": "isbn-9784309412993",
+    "title": "東京プリズン",
+    "author": "赤坂真理",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309412993",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025534488",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 533
+  },
+  {
+    "book_id": "isbn-9784167753672",
+    "title": "心にナイフをしのばせて",
+    "author": "奥野修司",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167753672",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010084831",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 325
+  },
+  {
+    "book_id": "isbn-9784062750967",
+    "title": "ドキュメント 戦争広告代理店",
+    "author": "高木徹",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062750967",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007786761",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 405
+  },
+  {
+    "book_id": "isbn-9784101020914",
+    "title": "つかこうへい正伝",
+    "author": "長谷川康夫",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101020914",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030402364",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 828
+  },
+  {
+    "book_id": "isbn-9784062770002",
+    "title": "原発労働記",
+    "author": "堀江邦夫",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062770002",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011186089",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 364
+  },
+  {
+    "book_id": "isbn-9784101325392",
+    "title": "43回の殺意",
+    "author": "石井光太",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101325392",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030807662",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 357
   }
 ]
