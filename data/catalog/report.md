@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-15T04:59:46.872Z
-- 候補：8298冊
-- 入れた本：7562冊
-- 入れなかった本：736冊
+- 検索日時：2026-11-15T05:14:29.129Z
+- 候補：8330冊
+- 入れた本：7593冊
+- 入れなかった本：737冊
 
 ## 入れなかった本
 
@@ -743,6 +743,7 @@
 - 薪能／立原正秋（日本の名作）：タイトルが同じで ISBN のある記録がない
 - ムーンライト・マイル／デニス・ルヘイン（ミステリー定番）：著者が合う記録がない
 - 愛しき者はすべて去りゆく／デニス・ルヘイン（ミステリー定番）：著者が合う記録がない
+- ぼくらのデスゲーム／宗田理（人気の小説）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
 
 ## 入れた本と選んだ版
 
@@ -8308,3 +8309,34 @@
 - 四角形の歴史：ちくま文庫 ; あ10-21／筑摩書房／2022.3／127p／NDC 914.6／nonfiction・normal・short
 - 食べる私：文春文庫 ; ひ20-9／文藝春秋／2019.4／398p／NDC 596／nonfiction・easy・medium
 - 私は存在が空気：祥伝社文庫 ; な15-3／祥伝社／2018.12／291p／NDC 913.6／novel・easy・medium
+- いまひとたびの：新潮文庫／新潮社／1997.8／288p／NDC 913.6／novel・easy・medium
+- きのうの空：新潮文庫／新潮社／2003.6／443p／NDC 913.6／novel・easy・medium
+- アンダークラス：小学館文庫 ; あ16-8／小学館／2023.1／536p／NDC 913.6／mystery_sf・normal・long
+- 未明の砦：角川文庫 ; お75-7／KADOKAWA／2026.3／680p／NDC 913.6／mystery_sf・normal・long
+- 人形師天狗屋久吉：叢書なし／成瀬書房／1990.8／79p／NDC 913.6／novel・normal・short
+- 指先からソーダ：河出文庫 ; や17-3／河出書房新社／2010.8／245p／NDC 914.6／nonfiction・easy・short
+- ニキの屈辱：河出文庫 ; や17-5／河出書房新社／2014.6／167p／NDC 913.6／novel・easy・short
+- 風の向こうへ駆け抜けろ：小学館文庫 ; ふ1-1／小学館／2017.7／413p／NDC 913.6／novel・easy・medium
+- 満天のゴール：小学館文庫 ; ふ29-2／小学館／2023.3／349p／NDC 913.6／novel・easy・medium
+- ピエタとトランジ：講談社文庫 ; ふ83-2／講談社／2022.10／330p／NDC 913.6／novel・easy・medium
+- スイミングスクール：叢書なし／新潮社／2017.1／139p／NDC 913.6／novel・easy・short
+- 六〇〇〇度の愛：新潮文庫 ; か-53-1／新潮社／2009.9／198p／NDC 913.6／novel・easy・short
+- 私の嫌いな10の言葉：新潮文庫／新潮社／2003.3／252p／NDC 304／liberal_arts・normal・medium
+- 孤独について：文春文庫／文藝春秋／2008.11／210p／NDC 289.1／nonfiction,liberal_arts・normal・short
+- 知的創造のヒント：ちくま学芸文庫／筑摩書房／2008.10／208p／NDC 002／liberal_arts・normal・short
+- からくり民主主義：新潮文庫 ; た-86-4／新潮社／2009.12／354p／NDC 304／nonfiction・normal・medium
+- そもそも島に進化あり：新潮文庫 ; か-84-3／新潮社／2023.7／402p／NDC 482／liberal_arts・normal・medium
+- 爆発的進化論：新潮新書 ; 685／新潮社／2016.9／203p／NDC 481.1／liberal_arts・normal・short
+- 戦争まで：叢書なし／朝日出版社／2016.8／466,10p／NDC 319.1／liberal_arts・normal・long
+- 立憲君主制の現在：新潮選書／新潮社／2018.2／299p／NDC 313.6／liberal_arts・normal・medium
+- 蘇える変態：叢書なし／マガジンハウス／2014.5／190p／NDC 914.6／nonfiction・easy・short
+- 神曲：叢書なし／新潮社／2021.11／294p／NDC 913.6／novel・easy・medium
+- 理系に学ぶ。：叢書なし／ダイヤモンド社／2016.4／322p／NDC 281.04／nonfiction,liberal_arts・normal・medium
+- クララ殺し：創元推理文庫 ; Mこ5-5／東京創元社／2020.2／368p／NDC 913.6／mystery_sf・normal・medium
+- ΑΩ：角川ホラー文庫 ; こ2-19／KADOKAWA／2023.8／507p／NDC 913.6／mystery_sf・normal・long
+- 鈍い球音：Big books／青樹社／1992.6／256p／NDC 913.6／mystery_sf・normal・medium
+- よこまち余話：中公文庫 ; き37-2／中央公論新社／2019.5／317p／NDC 913.6／novel・easy・medium
+- 球道恋々：新潮文庫 ; き-49-1／新潮社／2020.4／681p／NDC 913.6／novel・easy・long
+- 赤々煉恋：創元推理文庫 ; 550-02／東京創元社／2010.1／333p／NDC 913.6／novel・easy・medium
+- でぃすぺる：叢書なし／文藝春秋／2023.9／436p／NDC 913.6／mystery_sf・normal・medium
+- レッドクローバー：幻冬舎文庫 ; ま-33-7／幻冬舎／2025.9／523p／NDC 913.6／mystery_sf・normal・long

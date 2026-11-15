@@ -201043,5 +201043,835 @@
     "tier": "basic",
     "publisher": "祥伝社",
     "pages": 291
+  },
+  {
+    "book_id": "isbn-9784101345123",
+    "title": "いまひとたびの",
+    "author": "志水辰夫",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101345123",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002626478",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 288
+  },
+  {
+    "book_id": "isbn-9784101345161",
+    "title": "きのうの空",
+    "author": "志水辰夫",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101345161",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004135069",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 443
+  },
+  {
+    "book_id": "isbn-9784094072204",
+    "title": "アンダークラス",
+    "author": "相場英雄",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094072204",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032556329",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 536
+  },
+  {
+    "book_id": "isbn-9784041164976",
+    "title": "未明の砦",
+    "author": "太田愛",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041164976",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034601215",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 680
+  },
+  {
+    "book_id": "isbn-9784930708489",
+    "title": "人形師天狗屋久吉",
+    "author": "宇野千代",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784930708489",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002464351",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "成瀬書房",
+    "pages": 79
+  },
+  {
+    "book_id": "isbn-9784309410357",
+    "title": "指先からソーダ",
+    "author": "山崎ナオコーラ",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309410357",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010951183",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 245
+  },
+  {
+    "book_id": "isbn-9784309412962",
+    "title": "ニキの屈辱",
+    "author": "山崎ナオコーラ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309412962",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025465618",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 167
+  },
+  {
+    "book_id": "isbn-9784094064285",
+    "title": "風の向こうへ駆け抜けろ",
+    "author": "古内一絵",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094064285",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028298145",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 413
+  },
+  {
+    "book_id": "isbn-9784094072341",
+    "title": "満天のゴール",
+    "author": "藤岡陽子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094072341",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032666306",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 349
+  },
+  {
+    "book_id": "isbn-9784065295809",
+    "title": "ピエタとトランジ",
+    "author": "藤野可織",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065295809",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032403322",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 330
+  },
+  {
+    "book_id": "isbn-9784103370734",
+    "title": "スイミングスクール",
+    "author": "高橋弘希",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784103370734",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027849210",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 139
+  },
+  {
+    "book_id": "isbn-9784101279718",
+    "title": "六〇〇〇度の愛",
+    "author": "鹿島田真希",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101279718",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010544005",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 198
+  },
+  {
+    "book_id": "isbn-9784101467221",
+    "title": "私の嫌いな10の言葉",
+    "author": "中島義道",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101467221",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004054134",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 252
+  },
+  {
+    "book_id": "isbn-9784167753184",
+    "title": "孤独について",
+    "author": "中島義道",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167753184",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009762736",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 210
+  },
+  {
+    "book_id": "isbn-9784480091772",
+    "title": "知的創造のヒント",
+    "author": "外山滋比古",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480091772",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010004805",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 208
+  },
+  {
+    "book_id": "isbn-9784101335544",
+    "title": "からくり民主主義",
+    "author": "高橋秀実",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101335544",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010628213",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 354
+  },
+  {
+    "book_id": "isbn-9784101215136",
+    "title": "そもそも島に進化あり",
+    "author": "川上和人",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101215136",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032873542",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 402
+  },
+  {
+    "book_id": "isbn-9784106106859",
+    "title": "爆発的進化論",
+    "author": "更科功",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784106106859",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027580645",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 203
+  },
+  {
+    "book_id": "isbn-9784255009407",
+    "title": "戦争まで",
+    "author": "加藤陽子",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784255009407",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027511446",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日出版社",
+    "pages": 466
+  },
+  {
+    "book_id": "isbn-9784106038235",
+    "title": "立憲君主制の現在",
+    "author": "君塚直隆",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784106038235",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028819586",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 299
+  },
+  {
+    "book_id": "isbn-9784838726615",
+    "title": "蘇える変態",
+    "author": "星野源",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784838726615",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025406627",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "マガジンハウス",
+    "pages": 190
+  },
+  {
+    "book_id": "isbn-9784103542810",
+    "title": "神曲",
+    "author": "川村元気",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784103542810",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031785203",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 294
+  },
+  {
+    "book_id": "isbn-9784478068885",
+    "title": "理系に学ぶ。",
+    "author": "川村元気",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784478068885",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027241828",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ダイヤモンド社",
+    "pages": 322
+  },
+  {
+    "book_id": "isbn-9784488420154",
+    "title": "クララ殺し",
+    "author": "小林泰三",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488420154",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030253935",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 368
+  },
+  {
+    "book_id": "isbn-9784041137567",
+    "title": "ΑΩ",
+    "author": "小林泰三",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041137567",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032970059",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 507
+  },
+  {
+    "book_id": "isbn-9784791307036",
+    "title": "鈍い球音",
+    "author": "天藤真",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784791307036",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002216604",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "青樹社",
+    "pages": 256
+  },
+  {
+    "book_id": "isbn-9784122067349",
+    "title": "よこまち余話",
+    "author": "木内昇",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122067349",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029664353",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784101018812",
+    "title": "球道恋々",
+    "author": "木内昇",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101018812",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030313253",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 681
+  },
+  {
+    "book_id": "isbn-9784488550028",
+    "title": "赤々煉恋",
+    "author": "朱川湊人",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488550028",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010681671",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 333
+  },
+  {
+    "book_id": "isbn-9784163917498",
+    "title": "でぃすぺる",
+    "author": "今村昌弘",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784163917498",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033042622",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 436
+  },
+  {
+    "book_id": "isbn-9784344434998",
+    "title": "レッドクローバー",
+    "author": "まさきとしか",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344434998",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034274315",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 523
   }
 ]
