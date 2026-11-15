@@ -197611,5 +197611,994 @@
     "tier": "basic",
     "publisher": "朝日新聞出版",
     "pages": 221
+  },
+  {
+    "book_id": "isbn-9784198947187",
+    "title": "猫の舌に釘をうて",
+    "author": "都筑道夫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198947187",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031935692",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 283
+  },
+  {
+    "book_id": "isbn-9784087498509",
+    "title": "スバラ式世界",
+    "author": "原田宗典",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087498509",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002209320",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 232
+  },
+  {
+    "book_id": "isbn-9784167218584",
+    "title": "夏草の記憶",
+    "author": "トマス・H・クック",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167218584",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002820656",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 449
+  },
+  {
+    "book_id": "isbn-9784488183110",
+    "title": "学寮祭の夜",
+    "author": "ドロシー・L・セイヤーズ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488183110",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003017214",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 717
+  },
+  {
+    "book_id": "isbn-9784488142032",
+    "title": "新車の中の女",
+    "author": "セバスチアン・ジャプリゾ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488142032",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002912376",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 309
+  },
+  {
+    "book_id": "isbn-9784593533862",
+    "title": "盗まれた雷撃",
+    "author": "リック・リオーダン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784593533862",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008141995",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ほるぷ出版",
+    "pages": 527
+  },
+  {
+    "book_id": "isbn-9784062621007",
+    "title": "濡れた心",
+    "author": "多岐川恭",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062621007",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002643841",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 503
+  },
+  {
+    "book_id": "isbn-9784062638777",
+    "title": "危険な関係",
+    "author": "新章文子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062638777",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002715372",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 737
+  },
+  {
+    "book_id": "isbn-9784062645256",
+    "title": "孤独なアスファルト",
+    "author": "藤村正太",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062645256",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002771075",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 723
+  },
+  {
+    "book_id": "isbn-9784198906054",
+    "title": "殺人の棋譜",
+    "author": "斎藤栄",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198906054",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002543915",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 279
+  },
+  {
+    "book_id": "isbn-9784062646765",
+    "title": "伯林-一八八八年",
+    "author": "海渡英祐",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062646765",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002822279",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 760
+  },
+  {
+    "book_id": "isbn-9784062649629",
+    "title": "アルキメデスは手を汚さない",
+    "author": "小峰元",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062649629",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002923803",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 810
+  },
+  {
+    "book_id": "isbn-9784062649780",
+    "title": "蝶たちは今…",
+    "author": "日下圭介",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062649780",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002923804",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 803
+  },
+  {
+    "book_id": "isbn-9784062732673",
+    "title": "透明な季節",
+    "author": "梶龍雄",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062732673",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003023672",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 788
+  },
+  {
+    "book_id": "isbn-9784061830738",
+    "title": "プラハからの道化たち",
+    "author": "高柳芳夫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061830738",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001631286",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 331
+  },
+  {
+    "book_id": "isbn-9784062735308",
+    "title": "原子炉の蟹",
+    "author": "長井彬",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062735308",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003677567",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 865
+  },
+  {
+    "book_id": "isbn-9784062735315",
+    "title": "黄金流砂",
+    "author": "中津文彦",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062735315",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003677568",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 820
+  },
+  {
+    "book_id": "isbn-9784062738477",
+    "title": "天女の末裔",
+    "author": "鳥井加南子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062738477",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004233157",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 733
+  },
+  {
+    "book_id": "isbn-9784061842564",
+    "title": "モーツァルトは子守唄を歌わない",
+    "author": "森雅裕",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061842564",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001927033",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 304
+  },
+  {
+    "book_id": "isbn-9784062738484",
+    "title": "花園の迷宮",
+    "author": "山崎洋子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062738484",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004233159",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 747
+  },
+  {
+    "book_id": "isbn-9784062748544",
+    "title": "白色の残像",
+    "author": "坂本光一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062748544",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007489523",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 944
+  },
+  {
+    "book_id": "isbn-9784043475049",
+    "title": "浅草エノケン一座の嵐",
+    "author": "長坂秀佳",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043475049",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003013313",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 431
+  },
+  {
+    "book_id": "isbn-9784061857230",
+    "title": "ナイト・ダンサー",
+    "author": "鳴海章",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061857230",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002339811",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 340
+  },
+  {
+    "book_id": "isbn-9784062635462",
+    "title": "検察捜査",
+    "author": "中嶋博行",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062635462",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002616739",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 373
+  },
+  {
+    "book_id": "isbn-9784062734615",
+    "title": "八月のマルクス",
+    "author": "新野剛志",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062734615",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003655819",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 394
+  },
+  {
+    "book_id": "isbn-9784062751681",
+    "title": "滅びのモノクローム",
+    "author": "三浦明博",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062751681",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007875505",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 391
+  },
+  {
+    "book_id": "isbn-9784062754699",
+    "title": "翳りゆく夏",
+    "author": "赤井三尋",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062754699",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008267576",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 462
+  },
+  {
+    "book_id": "isbn-9784062758123",
+    "title": "カタコンベ",
+    "author": "神山裕右",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062758123",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008881431",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 377
+  },
+  {
+    "book_id": "isbn-9784062764407",
+    "title": "東京ダモイ",
+    "author": "鏑木蓮",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062764407",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010470552",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 440
+  },
+  {
+    "book_id": "isbn-9784062767200",
+    "title": "沈底魚",
+    "author": "曽根圭介",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062767200",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010954760",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 363
+  },
+  {
+    "book_id": "isbn-9784062770453",
+    "title": "訣別の森",
+    "author": "末浦広海",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062770453",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011251177",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 413
+  },
+  {
+    "book_id": "isbn-9784062776240",
+    "title": "よろずのことに気をつけよ",
+    "author": "川瀬七緒",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062776240",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024704842",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 449
+  },
+  {
+    "book_id": "isbn-9784062776158",
+    "title": "完盗オンサイト",
+    "author": "玖村まゆみ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062776158",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024704809",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 402
+  },
+  {
+    "book_id": "isbn-9784062931687",
+    "title": "襲名犯",
+    "author": "竹吉優輔",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062931687",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026616291",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 441
+  },
+  {
+    "book_id": "isbn-9784065220962",
+    "title": "到達不能極",
+    "author": "斉藤詠一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065220962",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030787376",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 444
+  },
+  {
+    "book_id": "isbn-9784065293140",
+    "title": "わたしが消える",
+    "author": "佐野広実",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065293140",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032355199",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 469
+  },
+  {
+    "book_id": "isbn-9784065342787",
+    "title": "老虎残夢",
+    "author": "桃野雑派",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065342787",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033296404",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 380
+  },
+  {
+    "book_id": "isbn-9784065409213",
+    "title": "蒼天の鳥",
+    "author": "三上幸四郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065409213",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034334410",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 383
   }
 ]
