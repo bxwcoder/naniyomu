@@ -210971,5 +210971,551 @@
     "tier": "basic",
     "publisher": "小学館",
     "pages": 233
+  },
+  {
+    "book_id": "isbn-9784150019471",
+    "title": "サイコセラピスト",
+    "author": "アレックス・マイクリーディーズ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150019471",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029913526",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 353
+  },
+  {
+    "book_id": "isbn-9784151755019",
+    "title": "紐と十字架",
+    "author": "イアン・ランキン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151755019",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007697808",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 334
+  },
+  {
+    "book_id": "isbn-9784150709013",
+    "title": "ディミトリオスの棺",
+    "author": "エリック・アンブラー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150709013",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971149384889354281",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784150005665",
+    "title": "あるスパイの墓碑銘",
+    "author": "エリック・アンブラー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150005665",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002606161",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 274
+  },
+  {
+    "book_id": "isbn-9784042692027",
+    "title": "ゲット・ショーティ",
+    "author": "エルモア・レナード",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784042692027",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002491203",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 441
+  },
+  {
+    "book_id": "isbn-9784150753511",
+    "title": "サマータイム・ブルース",
+    "author": "サラ・パレツキー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150753511",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001749839",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 359
+  },
+  {
+    "book_id": "isbn-9784594049621",
+    "title": "おれの中の殺し屋",
+    "author": "ジム・トンプスン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784594049621",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007769516",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "扶桑社",
+    "pages": 366
+  },
+  {
+    "book_id": "isbn-9784594028633",
+    "title": "ポップ1280",
+    "author": "ジム・トンプスン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784594028633",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002863962",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "扶桑社",
+    "pages": 311
+  },
+  {
+    "book_id": "isbn-9784594019525",
+    "title": "私が愛したリボルバー",
+    "author": "ジャネット・イヴァノヴィッチ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784594019525",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002575504",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "扶桑社",
+    "pages": 362
+  },
+  {
+    "book_id": "isbn-9784150010041",
+    "title": "濃紺のさよなら",
+    "author": "ジョン・D・マクドナルド",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150010041",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I31111100220424",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784151704017",
+    "title": "死の蔵書",
+    "author": "ジョン・ダニング",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151704017",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002484840",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 548
+  },
+  {
+    "book_id": "isbn-9784151767029",
+    "title": "川は静かに流れ",
+    "author": "ジョン・ハート",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151767029",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010025766",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 573
+  },
+  {
+    "book_id": "isbn-9784151767036",
+    "title": "ラスト・チャイルド",
+    "author": "ジョン・ハート",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151767036",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010836355",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 367
+  },
+  {
+    "book_id": "isbn-9784102286050",
+    "title": "極大射程",
+    "author": "スティーヴン・ハンター",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102286050",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002750049",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 396
+  },
+  {
+    "book_id": "isbn-9784150763510",
+    "title": "アリバイのA",
+    "author": "スー・グラフトン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150763510",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001849013",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 349
+  },
+  {
+    "book_id": "isbn-9784087605853",
+    "title": "悪意の森",
+    "author": "タナ・フレンチ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087605853",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010565266",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 406
+  },
+  {
+    "book_id": "isbn-9784167309312",
+    "title": "ゴールド・コースト",
+    "author": "ネルソン・デミル",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167309312",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002344549",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 465
+  },
+  {
+    "book_id": "isbn-9784167527297",
+    "title": "将軍の娘",
+    "author": "ネルソン・デミル",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167527297",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002542404",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 387
+  },
+  {
+    "book_id": "isbn-9784062735643",
+    "title": "唇を閉ざせ",
+    "author": "ハーラン・コーベン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062735643",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003686301",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 292
+  },
+  {
+    "book_id": "isbn-9784062081542",
+    "title": "検屍官",
+    "author": "パトリシア・コーンウェル",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062081542",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002497112",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 411
+  },
+  {
+    "book_id": "isbn-9784102166024",
+    "title": "子供たちはどこにいる",
+    "author": "メアリ・H・クラーク",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102166024",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I25110484291",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 296
   }
 ]
