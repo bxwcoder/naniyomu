@@ -66,7 +66,12 @@ const unique = (list) => [...new Set(list)];
 export function decideTags(candidate, edition) {
   const source = SOURCE_RULES[candidate.source] ?? {};
   const hints = candidate.hints;
-  const genres = hints.genres ?? source.genres ?? genresFromNdc(edition.ndc);
+  const genres =
+    hints.genres ??
+    source.genres ??
+    genresFromNdc(edition.ndc) ??
+    // 教養の定番で詩歌・戯曲の分類（911 など）の本は、歌論・詩の評論なので教養に入れる
+    (candidate.source === '教養の定番' && /^9/.test(edition.ndc ?? '') ? ['liberal_arts'] : null);
   if (!genres) return null;
   const themes = hints.themes ?? source.themes ?? unique(genres.flatMap((g) => GENRE_DEFAULTS[g]?.themes ?? []));
   const moods = hints.moods ?? source.moods ?? unique(genres.flatMap((g) => GENRE_DEFAULTS[g]?.moods ?? []));
