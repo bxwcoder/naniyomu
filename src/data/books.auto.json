@@ -193917,6 +193917,33 @@
     "pages": 437
   },
   {
+    "book_id": "isbn-9784101419091",
+    "title": "悪党芭蕉",
+    "author": "嵐山光三郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101419091",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009607202",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 350
+  },
+  {
     "book_id": "isbn-9784101419060",
     "title": "追悼の達人",
     "author": "嵐山光三郎",
@@ -204337,6 +204364,33 @@
     "pages": 341
   },
   {
+    "book_id": "isbn-9784101244020",
+    "title": "水底の歌",
+    "author": "梅原猛",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101244020",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001607968",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": null
+  },
+  {
     "book_id": "isbn-9784122048614",
     "title": "地獄の思想",
     "author": "梅原猛",
@@ -204684,5 +204738,351 @@
     "tier": "basic",
     "publisher": "KADOKAWA",
     "pages": 461
+  },
+  {
+    "book_id": "isbn-9784004314073",
+    "title": "近代秀歌",
+    "author": "永田和宏",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004314073",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024181872",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 250
+  },
+  {
+    "book_id": "isbn-9784004315070",
+    "title": "現代秀歌",
+    "author": "永田和宏",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004315070",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025816755",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 257
+  },
+  {
+    "book_id": "isbn-9784794214782",
+    "title": "眼の誕生",
+    "author": "アンドリュー・パーカー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784794214782",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008100701",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "草思社",
+    "pages": 382
+  },
+  {
+    "book_id": "isbn-9784087468540",
+    "title": "道絶えずば、また",
+    "author": "松井今朝子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087468540",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023775777",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 402
+  },
+  {
+    "book_id": "isbn-9784087478129",
+    "title": "非道、行ずべからず",
+    "author": "松井今朝子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087478129",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007714927",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 545
+  },
+  {
+    "book_id": "isbn-9784006031848",
+    "title": "獄中記",
+    "author": "佐藤優",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784006031848",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010123689",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 599
+  },
+  {
+    "book_id": "isbn-9784041459645",
+    "title": "ドサ健ばくち地獄",
+    "author": "阿佐田哲也",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041459645",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001698124",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784150019488",
+    "title": "雪が白いとき、かつそのときに限り",
+    "author": "陸秋槎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150019488",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029967415",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 312
+  },
+  {
+    "book_id": "isbn-9784623023387",
+    "title": "近代・組織・資本主義",
+    "author": "佐藤俊樹",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784623023387",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002290212",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ミネルヴァ書房",
+    "pages": 336
+  },
+  {
+    "book_id": "isbn-9784094070972",
+    "title": "牙",
+    "author": "三浦英之",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094070972",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031820658",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 250
+  },
+  {
+    "book_id": "isbn-9784087447941",
+    "title": "太陽の子",
+    "author": "三浦英之",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087447941",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034176802",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 406
+  },
+  {
+    "book_id": "isbn-9784150115678",
+    "title": "シンギュラリティ・スカイ",
+    "author": "チャールズ・ストロス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150115678",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008221331",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 543
+  },
+  {
+    "book_id": "isbn-9784006020248",
+    "title": "私の大阪八景",
+    "author": "田辺聖子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784006020248",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002960162",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 268
   }
 ]
