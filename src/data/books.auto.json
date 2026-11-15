@@ -196038,13 +196038,14 @@
     "title": "スカートの下の劇場",
     "author": "上野千鶴子",
     "genres": [
-      "practical"
+      "liberal_arts"
     ],
     "themes": [
-      "practical"
+      "world"
     ],
     "moods": [
-      "learning"
+      "learning",
+      "wonder"
     ],
     "difficulty": "normal",
     "length_category": "short",
@@ -196090,13 +196091,14 @@
     "title": "モードの迷宮",
     "author": "鷲田清一",
     "genres": [
-      "practical"
+      "liberal_arts"
     ],
     "themes": [
-      "practical"
+      "world"
     ],
     "moods": [
-      "learning"
+      "learning",
+      "wonder"
     ],
     "difficulty": "normal",
     "length_category": "short",
@@ -196307,14 +196309,14 @@
     "title": "探究",
     "author": "柄谷行人",
     "genres": [
-      "nonfiction"
+      "liberal_arts"
     ],
     "themes": [
       "world"
     ],
     "moods": [
-      "wonder",
-      "learning"
+      "learning",
+      "wonder"
     ],
     "difficulty": "normal",
     "length_category": "long",
@@ -196517,5 +196519,566 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 186
+  },
+  {
+    "book_id": "isbn-9784101057422",
+    "title": "ループ・オブ・ザ・コード",
+    "author": "荻堂顕",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101057422",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034416935",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 690
+  },
+  {
+    "book_id": "isbn-9784101057415",
+    "title": "擬傷の鳥はつかまらない",
+    "author": "荻堂顕",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101057415",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033944572",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 538
+  },
+  {
+    "book_id": "isbn-9784396636586",
+    "title": "不夜島",
+    "author": "荻堂顕",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784396636586",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033182036",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "祥伝社",
+    "pages": 415
+  },
+  {
+    "book_id": "isbn-9784488499235",
+    "title": "名探偵に甘美なる死を",
+    "author": "方丈貴恵",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488499235",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033495360",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 505
+  },
+  {
+    "book_id": "isbn-9784065425138",
+    "title": "なれのはて",
+    "author": "加藤シゲアキ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065425138",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034802403",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 588
+  },
+  {
+    "book_id": "isbn-9784041036242",
+    "title": "閃光スクランブル",
+    "author": "加藤シゲアキ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041036242",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026851097",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 316
+  },
+  {
+    "book_id": "isbn-9784101200514",
+    "title": "あのひとは蜘蛛を潰せない",
+    "author": "彩瀬まる",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101200514",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026673955",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 283
+  },
+  {
+    "book_id": "isbn-9784344425699",
+    "title": "骨を彩る",
+    "author": "彩瀬まる",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344425699",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027861606",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 261
+  },
+  {
+    "book_id": "isbn-9784087444513",
+    "title": "土に贖う",
+    "author": "河﨑秋子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087444513",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032463582",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 277
+  },
+  {
+    "book_id": "isbn-9784152104113",
+    "title": "ブレイクショットの軌跡",
+    "author": "逢坂冬馬",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784152104113",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033968854",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 577
+  },
+  {
+    "book_id": "isbn-9784049121117",
+    "title": "私が大好きな小説家を殺すまで",
+    "author": "斜線堂有紀",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784049121117",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029269520",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 269
+  },
+  {
+    "book_id": "isbn-9784150316099",
+    "title": "回樹",
+    "author": "斜線堂有紀",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150316099",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034422861",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 318
+  },
+  {
+    "book_id": "isbn-9784101028811",
+    "title": "大奥づとめ",
+    "author": "永井紗耶子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101028811",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031399201",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 334
+  },
+  {
+    "book_id": "isbn-9784167656683",
+    "title": "午前三時のルースター",
+    "author": "垣根涼介",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167656683",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004151986",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 360
+  },
+  {
+    "book_id": "isbn-9784041098646",
+    "title": "信長の原理",
+    "author": "垣根涼介",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041098646",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030615294",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 373
+  },
+  {
+    "book_id": "isbn-9784087446814",
+    "title": "この部屋から東京タワーは永遠に見えない",
+    "author": "麻布競馬場",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087446814",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033627654",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 219
+  },
+  {
+    "book_id": "isbn-9784309031385",
+    "title": "幽玄F",
+    "author": "佐藤究",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309031385",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033100467",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 328
+  },
+  {
+    "book_id": "isbn-9784167924829",
+    "title": "宙わたる教室",
+    "author": "伊与原新",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167924829",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034572358",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 333
+  },
+  {
+    "book_id": "isbn-9784150310752",
+    "title": "機龍警察 自爆条項",
+    "author": "月村了衛",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150310752",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023833427",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 373
+  },
+  {
+    "book_id": "isbn-9784065200384",
+    "title": "悪の五輪",
+    "author": "月村了衛",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065200384",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031536914",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 310
+  },
+  {
+    "book_id": "isbn-9784167920845",
+    "title": "おれたちの歌をうたえ",
+    "author": "呉勝浩",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167920845",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032930605",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 679
   }
 ]

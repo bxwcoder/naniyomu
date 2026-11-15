@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-15T02:31:39.676Z
-- 候補：8117冊
-- 入れた本：7391冊
-- 入れなかった本：726冊
+- 検索日時：2026-11-15T02:55:08.342Z
+- 候補：8139冊
+- 入れた本：7412冊
+- 入れなかった本：727冊
 
 ## 入れなかった本
 
@@ -733,6 +733,7 @@
 - 男の首／ジョルジュ・シムノン（ミステリー定番）：タイトルが同じで ISBN のある記録がない
 - 黄色い犬／ジョルジュ・シムノン（ミステリー定番）：タイトルが同じで ISBN のある記録がない
 - 日本政治思想史研究／丸山眞男（教養の定番）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
+- プロジェクト・インソムニア／結城真一郎（ミステリー定番）：まだ国立国会図書館で検索できていない
 
 ## 入れた本と選んだ版
 
@@ -8109,9 +8110,9 @@
 - 現代政治の思想と行動：叢書なし／未來社／2006.8／585p／NDC 310.4／liberal_arts・normal・long
 - 孔子伝：中公文庫／中央公論社／1991.1／317p／NDC 124.12／liberal_arts・normal・medium
 - 西欧精神医学背景史：みすずライブラリー／みすず書房／1999.12／237, 9p／NDC 493.7／liberal_arts・normal・short
-- スカートの下の劇場：河出文庫／河出書房新社／1992.11／215p／NDC 593.39／practical・normal・short
+- スカートの下の劇場：河出文庫／河出書房新社／1992.11／215p／NDC 593.39／liberal_arts・normal・short
 - 思い出袋：岩波新書 ; 新赤版1234／岩波書店／2010.3／229p／NDC 914.6／nonfiction・easy・short
-- モードの迷宮：ちくま学芸文庫／筑摩書房／1996.1／230p／NDC 593.3／practical・normal・short
+- モードの迷宮：ちくま学芸文庫／筑摩書房／1996.1／230p／NDC 593.3／liberal_arts・normal・short
 - まなざしの地獄：叢書なし／河出書房新社／2008.11／122p／NDC 361.78／liberal_arts・normal・short
 - モゴール族探検記：岩波新書 青版／岩波書店／1979／205p ; 18cm／NDC 292.71／nonfiction,liberal_arts・normal・short
 - 民俗学の旅：講談社学術文庫／講談社／1993.12／247p／NDC 289.1／nonfiction,liberal_arts・normal・short
@@ -8119,7 +8120,7 @@
 - 流れとよどみ：叢書なし／産業図書／Sun, 28 Nov 2010 09:00:00 +0900／278p ; 20cm／NDC 104／liberal_arts・normal・medium
 - 古寺巡礼：ワイド版岩波文庫／岩波書店／1991.1／287p／NDC 702.1／liberal_arts・normal・medium
 - 「世間」とは何か：講談社現代新書／講談社／1995.7／259p／NDC 910.2／liberal_arts・normal・medium
-- 探究：講談社学術文庫／講談社／1992.3／265p／NDC 914.6／nonfiction・normal・long
+- 探究：講談社学術文庫／講談社／1992.3／265p／NDC 914.6／liberal_arts・normal・long
 - 乱と灰色の世界：Beam comix／エンターブレイン、角川グループパブリッシング (発売)／2009.11／212p／NDC 726.1／manga・easy・long
 - 北北西に曇と往け：HARTA COMIX／KADOKAWA／2017.10／246p／NDC 726.1／manga・easy・long
 - 波よ聞いてくれ：アフタヌーンKC ; 1358／講談社／2015.5／186p／NDC 726.1／manga・easy・long
@@ -8127,3 +8128,24 @@
 - 七つ屋志のぶの宝石匣：KC Kiss ; 940／講談社／2014.11／156p／NDC 726.1／manga・easy・long
 - ラフ：少年サンデーコミックス／小学館／1987.9／181p／NDC 726.1／manga・easy・long
 - ラブロマ：アフタヌーンKC／講談社／2003.9／186p／NDC 726.1／manga・easy・long
+- ループ・オブ・ザ・コード：新潮文庫 ; お-119-2／新潮社／2025.12／690p／NDC 913.6／novel・easy・long
+- 擬傷の鳥はつかまらない：新潮文庫 ; お-119-1／新潮社／2025.3／538p／NDC 913.6／mystery_sf・normal・long
+- 不夜島：叢書なし／祥伝社／2023.12／415p／NDC 913.6／novel・easy・medium
+- 名探偵に甘美なる死を：創元推理文庫 ; Mほ3-3／東京創元社／2024.5／505p／NDC 913.6／mystery_sf・normal・long
+- なれのはて：講談社文庫 ; か157-1／講談社／2026.7／588p／NDC 913.6／novel・easy・long
+- 閃光スクランブル：角川文庫 ; か66-2／KADOKAWA／2015.11／316p／NDC 913.6／novel・easy・medium
+- あのひとは蜘蛛を潰せない：新潮文庫 ; あ-83-1／新潮社／2015.9／283p／NDC 913.6／novel・easy・medium
+- 骨を彩る：幻冬舎文庫 ; あ-63-1／幻冬舎／2017.2／261p／NDC 913.6／novel・easy・medium
+- 土に贖う：集英社文庫 ; か79-2／集英社／2022.11／277p／NDC 913.6／novel・easy・medium
+- ブレイクショットの軌跡：叢書なし／早川書房／2025.3／577p／NDC 913.6／novel・easy・long
+- 私が大好きな小説家を殺すまで：メディアワークス文庫 ; し7-4／KADOKAWA／2018.10／269p／NDC 913.6／novel・easy・medium
+- 回樹：ハヤカワ文庫 JA ; 1609／早川書房／2025.12／318p／NDC 913.6／mystery_sf・normal・medium
+- 大奥づとめ：新潮文庫 ; な-107-1／新潮社／2021.5／334p／NDC 913.6／novel・easy・medium
+- 午前三時のルースター：文春文庫／文藝春秋／2003.6／360p／NDC 913.6／mystery_sf・normal・medium
+- 信長の原理：角川文庫 ; 時-か78-2／KADOKAWA／2020.9／373p／NDC 913.6／novel・easy・long
+- この部屋から東京タワーは永遠に見えない：集英社文庫 ; あ94-1／集英社／2024.8／219p／NDC 913.6／novel・easy・short
+- 幽玄F：叢書なし／河出書房新社／2023.10／328p／NDC 913.6／novel・easy・medium
+- 宙わたる教室：文春文庫 ; い106-3／文藝春秋／2026.3／333p／NDC 913.6／novel・easy・medium
+- 機龍警察 自爆条項：ハヤカワ文庫 JA ; 1075／早川書房／2012.8／373p／NDC 913.6／mystery_sf・normal・long
+- 悪の五輪：講談社文庫 ; つ33-2／講談社／2021.7／310p／NDC 913.6／mystery_sf・normal・medium
+- おれたちの歌をうたえ：文春文庫 ; こ51-1／文藝春秋／2023.8／679p／NDC 913.6／mystery_sf・normal・long
