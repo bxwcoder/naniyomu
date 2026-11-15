@@ -1,8 +1,8 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-15T04:02:45.435Z
-- 候補：8221冊
-- 入れた本：7490冊
+- 検索日時：2026-11-15T04:18:19.904Z
+- 候補：8236冊
+- 入れた本：7505冊
 - 入れなかった本：731冊
 
 ## 入れなかった本
@@ -978,7 +978,7 @@
 - 赤毛のアン：叢書なし／西村書店／2006.12／407p／NDC 933.7／novel・easy・medium
 - 若草物語：新潮文庫 ; オ-1-1／新潮社／2024.11／538p／NDC 933.6／novel・easy・long
 - 不思議の国のアリス：叢書なし／メディアファクトリー／2006.3／222p／NDC 933.6／novel・easy・short
-- モモ：エンデ全集 ; 3／岩波書店／1996.9／418p／NDC 943.7／novel・easy・medium
+- モモ：岩波少年文庫 ; 127／岩波書店／2005.6／409p／NDC 943.7／novel・easy・medium
 - はてしない物語：岩波少年文庫／岩波書店／2000.6／329p／NDC 943／novel・normal・long
 - ハリー・ポッターと賢者の石：叢書なし／静山社／1999.12／462p／NDC 933／novel・easy・long
 - わたしを離さないで：ハヤカワepi文庫／早川書房／2008.8／450p／NDC 933.7／novel・normal・long
@@ -1274,8 +1274,8 @@
 - ダ・ヴィンチ・コード：角川文庫／角川書店／2006.3／296p／NDC 933.7／mystery_sf・normal・long
 - 深海のYrr：ハヤカワ文庫 ; NV／早川書房／2008.4／540p／NDC 943.7／mystery_sf・normal・long
 - カササギ殺人事件：創元推理文庫 ; Mホ15-1／東京創元社／2018.9／360p／NDC 933.7／mystery_sf・normal・long
-- 緋色の研究：光文社文庫. 新訳シャーロック・ホームズ全集／光文社／2006.7／237p／NDC 933.7／mystery_sf・easy・short
-- バスカヴィル家の犬：創元推理文庫 ; Mト1-8. [シャーロック・ホームズ全集]／東京創元社／2013.2／348p／NDC 933.7／mystery_sf・easy・medium
+- 緋色の研究：創元推理文庫 ; 101-18／東京創元社／2010.11／259p／NDC 933.7／mystery_sf・easy・medium
+- バスカヴィル家の犬：ハヤカワ・ミステリ文庫／早川書房／1984.11／262p／NDC 933／mystery_sf・easy・medium
 - ナイルに死す：ハヤカワ文庫. クリスティー文庫 ; 15／早川書房／2020.9／548p／NDC 933.7／mystery_sf・normal・long
 - モルグ街の殺人：角川文庫 ; ホ22-2. ポー傑作選 ; 2 怪奇ミステリー編／KADOKAWA／2022.3／349p／NDC 933.6／mystery_sf・normal・medium
 - 樽：創元推理文庫 ; Mク3-1／東京創元社／2013.11／445p／NDC 933.7／mystery_sf・normal・medium
@@ -1446,7 +1446,7 @@
 - アンダーグラウンド：講談社文庫／講談社／1999.2／777p／NDC 916／nonfiction・normal・long
 - きみはポラリス：新潮文庫 ; み-34-10／新潮社／2011.3／394p／NDC 913.6／novel・easy・medium
 - 悶絶スパイラル：新潮文庫 ; み-34-11／新潮社／2012.9／339p／NDC 914.6／nonfiction・easy・medium
-- ぼくらの時代：講談社文庫. 江戸川乱歩賞全集 ; 12／講談社／2001.9／863p／NDC 913.6／mystery_sf・normal・long
+- ぼくらの時代：講談社文庫／講談社／2007.12／430p／NDC 913.6／mystery_sf・normal・medium
 - ノーライフキング：新潮文庫／新潮社／1991.5／206p／NDC 913.6／novel・easy・short
 - ボッコちゃん：新潮文庫 ; ほ-4-1／新潮社／Thu, 17 Apr 2003 09:00:00 +0900／315p ; 16cm／NDC 913.6／mystery_sf・easy・medium
 - きまぐれロボット：角川文庫／角川書店／2006.1／215p／NDC 913.6／mystery_sf・easy・short
@@ -1539,7 +1539,7 @@
 - 総員玉砕せよ!：講談社文庫／講談社／1995.6／363p／NDC 726.1／manga・easy・long
 - ゲゲゲの鬼太郎：コミック・スーリ. Chukoコミックlite ; 71／中央公論新社／2003.9／183p／NDC 726.1／manga・easy・long
 - カムイ伝：ゴールデン・コミックス／小学館／1989.10／282p／NDC 726.1／manga・easy・long
-- あしたのジョー：ちばてつや全集／ホーム社／1995.1／293p／NDC 726.1／manga・easy・long
+- あしたのジョー：講談社漫画文庫／コミックス、講談社 (発売)／2000.6／383p／NDC 726.1／manga・easy・long
 - 巨人の星：講談社漫画文庫／講談社／1995.6／381p／NDC 726.1／manga・easy・long
 - ゴルゴ13：小学館叢書／小学館／1988.7／379p／NDC 726.1／manga・easy・long
 - こちら葛飾区亀有公園前派出所：集英社文庫 コミック版／集英社／1995.8／350p／NDC 726.1／manga・easy・long
@@ -2301,7 +2301,7 @@
 - 用心棒日月抄：新潮文庫／新潮社／1981.3／402p／NDC 913.6／novel・normal・medium
 - さぶ：新潮文庫／新潮社／2002.3／464p／NDC 913.6／novel・normal・long
 - ゼロの焦点：Kappa novels／光文社／2009.10／337p／NDC 913.6／mystery_sf・normal・medium
-- 本陣殺人事件：双葉文庫. 日本推理作家協会賞受賞作全集 ; 1／双葉社／1995.5／234p／NDC 913.6／mystery_sf・normal・short
+- 本陣殺人事件：春陽文庫／春陽堂書店／1997.12／346p／NDC 913.6／mystery_sf・normal・medium
 - D坂の殺人事件：角川文庫 ; え11-1／KADOKAWA／2016.3／349p／NDC 913.6／mystery_sf・normal・medium
 - 怪人二十面相：少年探偵・江戸川乱歩 : 文庫版 ; 第1巻／ポプラ社／2005.2／245p／NDC 913.6／mystery_sf・normal・short
 - 人間椅子：角川ホラー文庫. 江戸川乱歩ベストセレクション ; 1／角川書店、角川グループパブリッシング (発売)／2008.5／213p／NDC 913.6／mystery_sf・normal・short
@@ -2404,7 +2404,7 @@
 - カイジ：ヤンマガKC ; 608／講談社／1996.9／1冊／NDC 726.1／manga・easy・long
 - アカギ：近代麻雀コミックス／竹書房／1992.5／188p／NDC 726.1／manga・easy・long
 - サザエさん：叢書なし／朝日新聞社／1994.10／143p／NDC 726.1／manga・easy・long
-- いじわるばあさん：長谷川町子全集 ; 第24巻／朝日新聞社／1998.4／287p／NDC 726.1／manga・easy・long
+- いじわるばあさん：叢書なし／朝日新聞社／1995.11／143p／NDC 726.1／manga・easy・long
 - 美味しんぼ：Blue comix／小学館／2001.7／283p／NDC 726.1／manga・easy・long
 - ハッピー・マニア：フィールコミックス. FC gold／祥伝社／1996.4／148p／NDC 726.1／manga・easy・long
 - 鉄コン筋クリート：Big spirits comics special／小学館／1994.3／211p／NDC 726.1／manga・easy・long
@@ -2554,8 +2554,8 @@
 - 悪魔が来りて笛を吹く：横溝正史自選集 ; 5／出版芸術社／2007.4／365p／NDC 913.6／mystery_sf・normal・medium
 - 悪魔の手毬唄：横溝正史自選集 ; 6／出版芸術社／2007.5／365p／NDC 913.6／mystery_sf・normal・medium
 - 女王蜂：叢書なし／角川書店／198606／４７０ｐ ; １５ｃｍ／NDC 913.6／mystery_sf・normal・long
-- 陰獣：光文社文庫. 江戸川乱歩全集 ; 第3巻／光文社／2005.11／786p／NDC 913.6／mystery_sf・normal・long
-- 孤島の鬼：光文社文庫. 江戸川乱歩全集 ; 第4巻／光文社／2003.8／653p／NDC 913.6／mystery_sf・normal・long
+- 陰獣：角川ホラー文庫. 江戸川乱歩ベストセレクション ; 4／角川書店、角川グループパブリッシング (発売)／2008.11／204p／NDC 913.6／mystery_sf・normal・short
+- 孤島の鬼：角川ホラー文庫 ; Hえ1-7. 江戸川乱歩ベストセレクション ; 7／角川書店、角川グループパブリッシング (発売)／2009.7／336p／NDC 913.6／mystery_sf・normal・medium
 - ふたり：新潮文庫／新潮社／1991.11／304p／NDC 913.6／novel・easy・medium
 - 照柿：講談社文庫／講談社／2006.8／382p／NDC 913.6／mystery_sf・normal・long
 - 黄金を抱いて翔べ：新潮文庫／新潮社／1994.1／358p／NDC 913.6／mystery_sf・normal・medium
@@ -2588,7 +2588,7 @@
 - 春にして君を離れ：ハヤカワ文庫. クリスティー文庫 ; 81／早川書房／2004.4／331p／NDC 933.7／mystery_sf・normal・medium
 - ゼロ時間へ：ハヤカワ文庫. クリスティー文庫 ; 82／早川書房／2004.5／382p／NDC 933.7／mystery_sf・normal・medium
 - シャーロック・ホームズの思い出：シャーロック・ホームズ全集 ; 第4巻／河出書房新社／1999.2／589p／NDC 933.7／mystery_sf・normal・long
-- 恐怖の谷：光文社文庫. 新訳シャーロック・ホームズ全集／光文社／2008.1／331p／NDC 933.7／mystery_sf・normal・medium
+- 恐怖の谷：ハヤカワ・ミステリ文庫／早川書房／1985.11／264p／NDC 933／mystery_sf・normal・medium
 - Zの悲劇：角川文庫 ; 16742／角川書店、角川グループパブリッシング (発売)／2011.3／356p／NDC 933.7／mystery_sf・normal・medium
 - エジプト十字架の謎：創元推理文庫 ; Mク1-9／東京創元社／2016.7／504p／NDC 933.7／mystery_sf・normal・long
 - ミザリー：文春文庫／文芸春秋／1991.2／523p／NDC 933／mystery_sf・normal・long
@@ -2755,7 +2755,7 @@
 - ぼのぼの：竹書房文庫／竹書房／2002.7／264p／NDC 726.1／manga・easy・long
 - クレヨンしんちゃん：Action comics. Coinsアクションオリジナル／双葉社／2017.12／280p／NDC 726.1／manga・easy・long
 - あたしンち：叢書なし／メディアファクトリー／1995.4／140p／NDC 726.1／manga・easy・long
-- ののちゃん：Ghibli comics special／徳間書店スタジオジブリ事業本部／2004.8／335p／NDC 726.1／manga・easy・long
+- ののちゃん：叢書なし／東京創元社／2003.12／190p／NDC 726.1／manga・easy・long
 - コボちゃん：Soyosha comics／蒼鷹社／1993.7／127p／NDC 726.1／manga・easy・long
 - 伝染るんです。：スピリッツゴーゴーコミックス／小学館／1990.11／185p／NDC 726.1／manga・easy・long
 - ヒミズ：ヤンマガKC／講談社／2001.7／206p／NDC 726.1／manga・easy・long
@@ -3003,7 +3003,7 @@
 - 第二の性：新潮文庫／新潮社／1986.6／270p／NDC 367.2／liberal_arts・normal・long
 - 言葉と物：叢書なし／新潮社／2020.2／459,59p／NDC 204／liberal_arts・normal・long
 - 科学革命の構造：叢書なし／みすず書房／1980／9,277p ; 19cm／NDC 402／liberal_arts・normal・medium
-- シャーロック・ホームズの事件簿：光文社文庫. 新訳シャーロック・ホームズ全集／光文社／2007.10／487p／NDC 933.7／mystery_sf・normal・long
+- シャーロック・ホームズの事件簿：ハヤカワ・ミステリ文庫／早川書房／1991.5／414p／NDC 933／mystery_sf・normal・medium
 - シャーロック・ホームズ最後の挨拶：光文社文庫. 新訳シャーロック・ホームズ全集／光文社／2007.4／348p／NDC 933.7／mystery_sf・normal・medium
 - ルパン対ホームズ：新潮文庫. ルパン傑作集 ; 5／新潮社／2002.3／395p／NDC 953.7／mystery_sf・normal・medium
 - 奇巌城：怪盗ルパン = Arsene Lupin : 文庫版 ; 第4巻／ポプラ社／2005.2／249p／NDC 953.7／mystery_sf・normal・short
@@ -3013,7 +3013,7 @@
 - 帽子収集狂事件：創元推理文庫 ; 118-30. [フェル博士シリーズ]／東京創元社／2011.3／401p／NDC 933.7／mystery_sf・normal・medium
 - 三つの棺：ハヤカワ・ミステリ文庫 ; HM 5-21／早川書房／2014.7／415p／NDC 933.7／mystery_sf・normal・medium
 - 火刑法廷：ハヤカワ・ミステリ文庫 ; HM5-20／早川書房／2011.8／382p／NDC 933.7／mystery_sf・normal・medium
-- 僧正殺人事件：創元推理文庫 ; 103-14. [S・S・ヴァン・ダイン全集]／東京創元社／2010.4／439p／NDC 933.7／mystery_sf・normal・medium
+- 僧正殺人事件：集英社文庫. 乱歩が選ぶ黄金時代ミステリーbest 10 ; 3／集英社／1999.5／455p／NDC 933.7／mystery_sf・normal・long
 - グリーン家殺人事件：創元推理文庫 ; Mウ1-3. S・S・ヴァン・ダイン全集／東京創元社／2024.1／441p／NDC 933.7／mystery_sf・normal・medium
 - ナイン・テイラーズ：創元推理文庫／東京創元社／1998.2／492p／NDC 933.7／mystery_sf・normal・long
 - 時の娘：叢書なし／早川書房／2011.1／ページ数不明／NDC 933／mystery_sf・normal・medium
@@ -3131,9 +3131,9 @@
 - 眼の壁：新潮文庫　：　ま-1-17／新潮社／2009.12／514p／NDC 913.6／mystery_sf・normal・long
 - 張込み：新潮文庫. 傑作短編集 ; 5／新潮社／2001.8／451p／NDC 913.6／mystery_sf・normal・long
 - 三姉妹探偵団：講談社文庫／講談社／1985.7／291p／NDC 913.6／mystery_sf・normal・medium
-- 終着駅殺人事件：双葉文庫. 日本推理作家協会賞受賞作全集 ; 40／双葉社／1997.11／430p／NDC 913.6／mystery_sf・normal・medium
+- 終着駅殺人事件：光文社文庫／光文社／1984.11／390p／NDC 913.6／mystery_sf・normal・medium
 - 寝台特急殺人事件：光文社文庫／光文社／1984.10／370p／NDC 913.6／mystery_sf・normal・medium
-- 天使の傷痕：講談社文庫. 江戸川乱歩賞全集 ; 6／講談社／1999.3／641p／NDC 913.6／mystery_sf・normal・long
+- 天使の傷痕：講談社文庫 ; に1-116／講談社／2015.2／356p／NDC 913.6／mystery_sf・normal・medium
 - 後鳥羽伝説殺人事件：角川文庫／角川書店／1985.1／298p／NDC 913.6／mystery_sf・normal・medium
 - 天河伝説殺人事件：角川文庫／角川書店／1990.6／258p／NDC 913.6／mystery_sf・normal・long
 - 黄泉がえり：新潮文庫／新潮社／2002.12／476p／NDC 913.6／mystery_sf・normal・long
@@ -3591,14 +3591,14 @@
 - パンドラの匣：新潮文庫 ; た-2-11／新潮社／2009.4／416p／NDC 913.6／novel・normal・medium
 - 新樹の言葉：新潮文庫／新潮社／1982.7／338p／NDC 913.6／novel・normal・medium
 - 桜桃：ハルキ文庫 ; た21-1. [280円文庫]／角川春樹事務所／2011.4／124p／NDC 913.6／novel・normal・short
-- パノラマ島綺譚：光文社文庫. 江戸川乱歩全集 ; 第2巻／光文社／2004.8／763p／NDC 913.6／mystery_sf・normal・long
+- パノラマ島綺譚：角川ホラー文庫 ; Hえ1-6. 江戸川乱歩ベストセレクション ; 6／角川書店、角川グループパブリッシング (発売)／2009.5／219p／NDC 913.6／mystery_sf・normal・short
 - 押絵と旅する男：光文社文庫. 江戸川乱歩全集 ; 第5巻／光文社／2005.1／672p／NDC 913.6／mystery_sf・normal・long
 - 黒い画集：新潮文庫／新潮社／2003.6／737p／NDC 913.6／mystery_sf・normal・long
 - 半七捕物帳：光文社文庫／光文社／2001.11／453p／NDC 913.6／mystery_sf・normal・long
 - 銭形平次捕物控：嶋中文庫／嶋中書店／2004.5／413p／NDC 913.6／mystery_sf・normal・long
 - 顎十郎捕物帳：朝日文芸文庫／朝日新聞社／1998.5／676p／NDC 913.6／mystery_sf・normal・long
-- 猫は知っていた：講談社文庫. 江戸川乱歩賞全集 ; 2／講談社／1998.9／580p／NDC 913.6／mystery_sf・normal・long
-- 影の告発：双葉文庫. 日本推理作家協会賞受賞作全集 ; 16／双葉社／1995.11／370p／NDC 913.6／mystery_sf・normal・medium
+- 猫は知っていた：ポプラ文庫ピュアフル ; に-2-2／ポプラ社／2010.3／302p／NDC 913.6／mystery_sf・normal・medium
+- 影の告発：光文社文庫. 千草検事シリーズ／光文社／1986.4／371p／NDC 913.6／mystery_sf・normal・medium
 - 大誘拐：創元推理文庫. 天藤真推理小説全集 ; 9／東京創元社／2000.7／456p／NDC 913.6／mystery_sf・normal・long
 - 花の下にて春死なむ：講談社文庫／講談社／2001.12／280p／NDC 913.6／mystery_sf・normal・medium
 - 脳男：講談社文庫／講談社／2003.9／366p／NDC 913.6／mystery_sf・normal・medium
@@ -3902,7 +3902,7 @@
 - ザ・クレーター：手塚治虫傑作選集 ; 1／秋田書店／1990.7／310p／NDC 726.1／manga・easy・long
 - バンパイヤ：サンデー・コミックス／秋田書店／1988.3／192p／NDC 726.1／manga・easy・long
 - ドン・ドラキュラ：Akita top comics wide／秋田書店／2007.8／514p／NDC 726.1／manga・easy・long
-- ユニコ：手塚治虫文庫全集 ; BT-020／講談社／2009.11／399p／NDC 726.1／manga・easy・long
+- ユニコ：叢書なし／リトルモア／2015.4／214p／NDC 726.1／manga・easy・long
 - 21エモン：てんとう虫コミックス／小学館／2018.8／189p／NDC 726.1／manga・easy・long
 - オバケのQ太郎：てんとう虫コミックス／小学館／2015.7／228p／NDC 726.1／manga・easy・long
 - 佐武と市捕物控：このマンガがすごい!comics／宝島社／2017.6／318p／NDC 726.1／manga・easy・long
@@ -4413,7 +4413,7 @@
 - わたしは真悟：ビッグコミックス／小学館／1983.12／213p／NDC 726.1／manga・easy・long
 - 14歳：ビッグコミックス／小学館／1990.9／215p／NDC 726.1／manga・easy・long
 - まことちゃん：少年サンデーコミックス・セレクト／小学館／1995.5／179p／NDC 726.1／manga・easy・long
-- おれは鉄兵：ちばてつや全集／ホーム社、集英社 (発売)／1997.11／309p／NDC 726.1／manga・easy・long
+- おれは鉄兵：講談社漫画文庫／コミックス、講談社 (発売)／2001.6／534p／NDC 726.1／manga・easy・long
 - 紫電改のタカ：講談社コミックス／コミックス／1990.8／305p／NDC 726.1／manga・easy・long
 - ハリスの旋風：講談社コミックス／コミックス／1991.1／320p／NDC 726.1／manga・easy・long
 - スター・レッド：Flower comics special. 萩尾望都perfect selection ; 8／小学館／2008.1／535p／NDC 726.1／manga・easy・long
@@ -4430,7 +4430,7 @@
 - 夢印：BIG COMICS SPECIAL／小学館／2018.8／259p／NDC 726.1／manga・easy・long
 - 1ポンドの福音：ヤングサンデーコミックス／小学館／1989.8／233p／NDC 726.1／manga・easy・long
 - チンプイ：てんとう虫コミックス／小学館／2017.12／222p／NDC 726.1／manga・easy・long
-- モジャ公：藤子・F・不二雄大全集 = The Complete Works of Fujiko・F・Fujio／小学館／2012.1／685p／NDC 726.1／manga・easy・long
+- モジャ公：小学館コロコロ文庫／小学館／1995.10／250p／NDC 726.1／manga・easy・long
 - HOTEL：小学館文庫／小学館／1998.11／306p／NDC 726.1／manga・easy・long
 - GREEN：講談社コミックスキス／講談社／2000.1／171p／NDC 726.1／manga・easy・long
 - 天才ファミリー・カンパニー：ソニー・マガジンズコミックス. きみとぼくcollection／ソニー・マガジンズ／1995.11／204p／NDC 726.1／manga・easy・long
@@ -4503,7 +4503,7 @@
 - 硫黄島に死す：新潮文庫／新潮社／1984.7／322p／NDC 913.6／novel・normal・medium
 - 雄気堂々：新潮文庫／新潮社／2003.8／445p／NDC 913.6／novel・normal・long
 - 五番町夕霧楼：P+D BOOKS／小学館／2016.11／227p／NDC 913.6／novel・normal・short
-- 海の牙：双葉文庫. 日本推理作家協会賞受賞作全集 ; 13／双葉社／1995.11／334p／NDC 913.6／novel・normal・medium
+- 海の牙：戦後ニッポンを読む／読売新聞社／1997.12／258p／NDC 913.6／novel・normal・medium
 - 一休：中公文庫／中央公論社／1997.5／474p／NDC 913.6／novel・normal・long
 - 和宮様御留：講談社文庫 ; あ2-4／講談社／2014.4／507p／NDC 913.6／novel・normal・long
 - 出雲の阿国：中公文庫／中央公論新社／2002.8／501p／NDC 913.6／novel・normal・long
@@ -4553,7 +4553,7 @@
 - 戸隠伝説殺人事件：角川文庫／角川書店／1985.9／400p／NDC 913.6／mystery_sf・normal・medium
 - 野性の証明：角川文庫 ; も3-93／KADOKAWA／2015.2／510p／NDC 913.6／mystery_sf・normal・long
 - 青春の証明：角川文庫／角川書店／2004.7／454p／NDC 913.6／mystery_sf・normal・long
-- 腐蝕の構造：双葉文庫. 日本推理作家協会賞受賞作全集 ; 26／双葉社／1996.11／598p／NDC 913.6／mystery_sf・normal・long
+- 腐蝕の構造：角川文庫 ; も3-96／KADOKAWA／2015.3／622p／NDC 913.6／mystery_sf・normal・long
 - 殺しの双曲線：講談社文庫 ; に1-107／講談社／2012.8／485p／NDC 913.6／mystery_sf・normal・long
 - 名探偵なんか怖くない：講談社文庫／講談社／2006.7／356p／NDC 913.6／mystery_sf・normal・medium
 - 華麗なる誘拐：河出文庫 ; に13-1／河出書房新社／2020.7／424p／NDC 913.6／mystery_sf・normal・medium
@@ -5173,7 +5173,7 @@
 - 大いなる幻影：講談社文庫. 江戸川乱歩賞全集 ; 4／講談社／1998.9／557p／NDC 913.6／mystery_sf・normal・long
 - 枯草の根：集英社文庫 ; ち1-28／集英社／2009.1／468p／NDC 913.6／mystery_sf・normal・long
 - 招かれざる客：徳間文庫 ; さ1-124. トクマの特選!／徳間書店／2021.10／361p／NDC 913.6／mystery_sf・normal・medium
-- 人喰い：双葉文庫. 日本推理作家協会賞受賞作全集 ; 14／双葉社／1995.5／329p／NDC 913.6／mystery_sf・normal・medium
+- 人喰い：講談社文庫／講談社／1983.8／291p／NDC 913.6／mystery_sf・normal・medium
 - 少女地獄：創元推理文庫 ; Mゆ2-1／東京創元社／2016.8／385p／NDC 913.6／mystery_sf・normal・medium
 - 瓶詰の地獄：角川文庫 ; 15629／角川書店、角川グループパブリッシング (発売)／2009.3／283p／NDC 913.6／mystery_sf・normal・medium
 - 魔都：朝日文芸文庫／朝日新聞社／1995.3／494p／NDC 913.6／mystery_sf・normal・long
@@ -6640,7 +6640,7 @@
 - 猿丸幻視行：講談社文庫／講談社／1983.8／389p／NDC 913.6／mystery_sf・normal・medium
 - ヒートアイランド：文春文庫／文藝春秋／2004.6／466p／NDC 913.6／mystery_sf・normal・long
 - 左手に告げるなかれ：講談社文庫／講談社／1999.7／432p／NDC 913.6／mystery_sf・normal・medium
-- 剣の道殺人事件：講談社文庫. 江戸川乱歩賞全集 ; 18／講談社／2005.9／823p／NDC 913.6／mystery_sf・normal・long
+- 剣の道殺人事件：講談社文庫／講談社／1993.7／369p／NDC 913.6／mystery_sf・normal・medium
 - 後悔と真実の色：幻冬舎文庫 ; ぬ-1-4／幻冬舎／2012.10／689p／NDC 913.6／mystery_sf・normal・long
 - 後宮小説：新潮文庫／新潮社／1993.4／303p／NDC 913.6／mystery_sf・normal・medium
 - 墨攻：新潮文庫／新潮社／1994.7／170p／NDC 913.6／mystery_sf・normal・short
@@ -7204,7 +7204,7 @@
 - 御家人斬九郎：新潮文庫／新潮社／1984.9／387p／NDC 913.6／novel・easy・medium
 - 私本太平記：吉川英治歴史時代文庫 ; 63／講談社／1990.2／477p／NDC 913.6／novel・easy・long
 - 猟銃・闘牛：叢書なし／新潮社／2004.2／ページ数不明／NDC 913.6／novel・normal・medium
-- 事件：双葉文庫. 日本推理作家協会賞受賞作全集 ; 34／双葉社／1999.11／576p／NDC 913.6／mystery_sf・normal・long
+- 事件：創元推理文庫 ; Mお11-1／東京創元社／2017.11／550p／NDC 913.6／mystery_sf・normal・long
 - 失楽園：叢書なし／あぽろん社／1982.2／350p／NDC 931／novel・normal・medium
 - 摩利と新吾：Princess comics excellent／秋田書店／1988.1／568p／NDC 726.1／manga・easy・long
 - 夢の碑：PFビッグコミックス／小学館／1984.12／186p／NDC 726.1／manga・easy・long
@@ -7857,7 +7857,7 @@
 - 美しい彼：キャラ文庫 ; な2-5／徳間書店／2014.12／317p／NDC 913.6／novel・easy・medium
 - 平家伝説：ハルキ文庫／角川春樹事務所／1998.1／285p／NDC 913.6／mystery_sf・normal・medium
 - 柳生忍法帖：講談社文庫. 山田風太郎忍法帖 ; 9／講談社／1999.6／486p／NDC 913.6／novel・easy・long
-- 明治断頭台：ちくま文庫. 山田風太郎明治小説全集 ; 7／筑摩書房／1997.8／441p／NDC 913.6／mystery_sf・normal・medium
+- 明治断頭台：角川文庫 ; や3-126. 山田風太郎ベストコレクション／角川書店、角川グループパブリッシング (発売)／2012.6／478p／NDC 913.6／mystery_sf・normal・long
 - 妖異金瓶梅：広済堂文庫. ミステリー&ハードノベルス 山田風太郎傑作大全 1／広済堂出版／1996.6／476p／NDC 913.6／mystery_sf・normal・long
 - 八犬伝：河出文庫 ; や4-18. 山田風太郎傑作選 ; 江戸篇／河出書房新社／2021.2／387p／NDC 913.6／novel・easy・long
 - 伊藤くんA to E：幻冬舎文庫 ; ゆ-4-2／幻冬舎／2016.12／314p／NDC 913.6／novel・easy・medium
@@ -8128,7 +8128,7 @@
 - 乱と灰色の世界：Beam comix／エンターブレイン、角川グループパブリッシング (発売)／2009.11／212p／NDC 726.1／manga・easy・long
 - 北北西に曇と往け：HARTA COMIX／KADOKAWA／2017.10／246p／NDC 726.1／manga・easy・long
 - 波よ聞いてくれ：アフタヌーンKC ; 1358／講談社／2015.5／186p／NDC 726.1／manga・easy・long
-- のたり松太郎：ちばてつや全集／ホーム社／1997.4／289p／NDC 726.1／manga・easy・long
+- のたり松太郎：小学館文庫／小学館／2003.8／406p／NDC 726.1／manga・easy・long
 - 七つ屋志のぶの宝石匣：KC Kiss ; 940／講談社／2014.11／156p／NDC 726.1／manga・easy・long
 - ラフ：少年サンデーコミックス／小学館／1987.9／181p／NDC 726.1／manga・easy・long
 - ラブロマ：アフタヌーンKC／講談社／2003.9／186p／NDC 726.1／manga・easy・long
@@ -8184,17 +8184,17 @@
 - 孤独なアスファルト：講談社文庫. 江戸川乱歩賞全集 ; 5／講談社／1999.3／723p／NDC 913.6／mystery_sf・normal・long
 - 蟻の木の下で：講談社文庫／講談社／１９８５．１２／３００ｐ ; １５ｃｍ／NDC 913.6／mystery_sf・normal・medium
 - 殺人の棋譜：徳間文庫／徳間書店／1996.12／279p／NDC 913.6／mystery_sf・normal・medium
-- 伯林-一八八八年：講談社文庫. 江戸川乱歩賞全集 ; 7／講談社／1999.9／760p／NDC 913.6／mystery_sf・normal・long
-- アルキメデスは手を汚さない：講談社文庫. 江戸川乱歩賞全集 ; 9／講談社／2000.9／810p／NDC 913.6／mystery_sf・normal・long
+- 伯林-一八八八年：大衆文学館／講談社／1997.10／573p／NDC 913.6／mystery_sf・normal・long
+- アルキメデスは手を汚さない：講談社文庫／講談社／2006.9／385p／NDC 913.6／mystery_sf・normal・medium
 - 蝶たちは今…：講談社文庫. 江戸川乱歩賞全集 ; 10／講談社／2000.9／803p／NDC 913.6／mystery_sf・normal・long
 - 透明な季節：講談社文庫. 江戸川乱歩賞全集 ; 11／講談社／2001.9／788p／NDC 913.6／mystery_sf・normal・long
 - プラハからの道化たち：講談社文庫／講談社／1983.7／331p／NDC 913.6／mystery_sf・normal・medium
-- 原子炉の蟹：講談社文庫. 江戸川乱歩賞全集 ; 13／講談社／2002.9／865p／NDC 913.6／mystery_sf・normal・long
-- 黄金流砂：講談社文庫. 江戸川乱歩賞全集 ; 14／講談社／2002.9／820p／NDC 913.6／mystery_sf・normal・long
-- 天女の末裔：講談社文庫. 江戸川乱歩賞全集 ; 15／講談社／2003.9／733p／NDC 913.6／mystery_sf・normal・long
+- 原子炉の蟹：講談社文庫 ; な17-3／講談社／2011.11／457p／NDC 913.6／mystery_sf・normal・long
+- 黄金流砂：講談社文庫／講談社／1984.8／350p／NDC 913.6／mystery_sf・normal・medium
+- 天女の末裔：講談社文庫／講談社／1987.7／285p／NDC 913.6／mystery_sf・normal・medium
 - モーツァルトは子守唄を歌わない：講談社文庫／講談社／1988.7／304p／NDC 913.6／mystery_sf・normal・medium
-- 花園の迷宮：講談社文庫. 江戸川乱歩賞全集 ; 16／講談社／2003.9／747p／NDC 913.6／mystery_sf・normal・long
-- 白色の残像：講談社文庫. 江戸川乱歩賞全集 ; 17／講談社／2004.9／944p／NDC 913.6／mystery_sf・normal・long
+- 花園の迷宮：講談社文庫／講談社／1989.7／354p／NDC 913.6／mystery_sf・normal・medium
+- 白色の残像：叢書なし／講談社／1988.9／326p／NDC 913.6／mystery_sf・normal・medium
 - 浅草エノケン一座の嵐：角川文庫／角川書店／2001.7／431p／NDC 913.6／mystery_sf・normal・medium
 - ナイト・ダンサー：講談社文庫／講談社／1994.7／340p／NDC 913.6／mystery_sf・normal・medium
 - 検察捜査：講談社文庫／講談社／1997.7／373p／NDC 913.6／mystery_sf・normal・medium
@@ -8231,3 +8231,18 @@
 - ファラオの密室：宝島社文庫 ; Cし-18-1. このミス大賞／宝島社／2025.4／347p／NDC 913.6／mystery_sf・normal・medium
 - 少女たちの羅針盤：光文社文庫 ; み34-1／光文社／2012.9／416p／NDC 913.6／mystery_sf・normal・medium
 - 雪の鉄樹：光文社文庫 ; と22-2／光文社／2016.4／461p／NDC 913.6／novel・easy・long
+- 夜の終る時：中公文庫／中央公論社／1990.12／262p／NDC 913.6／mystery_sf・normal・medium
+- 求婚の密室：徳間文庫／徳間書店／1999.2／366p／NDC 913.6／mystery_sf・normal・medium
+- 天啓の殺意：創元推理文庫／東京創元社／2005.4／349p／NDC 913.6／mystery_sf・normal・medium
+- ストロボ：新潮文庫／新潮社／2003.5／340p／NDC 913.6／novel・easy・medium
+- 鎮火報：双葉文庫 ; た-35-01／双葉社／2010.11／557p／NDC 913.6／mystery_sf・normal・long
+- それでも、警官は微笑う：講談社文庫／講談社／2006.7／568p／NDC 913.6／mystery_sf・normal・long
+- 誘拐ラプソディー：双葉文庫／双葉社／2004.10／421p／NDC 913.6／mystery_sf・normal・medium
+- 罪深き緑の夏：角川文庫／角川書店／1991.3／273p／NDC 913.6／mystery_sf・normal・medium
+- この闇と光：角川文庫 ; は10-4／KADOKAWA／2014.11／302p／NDC 913.6／mystery_sf・normal・medium
+- 時のアラベスク：角川文庫／角川書店／1990.11／323p／NDC 913.6／mystery_sf・normal・medium
+- 金のゆりかご：集英社文庫／集英社／2001.11／554p／NDC 913.6／mystery_sf・normal・long
+- 龍の契り：新潮文庫／新潮社／2001.2／687p／NDC 913.6／mystery_sf・normal・long
+- 鷲の驕り：祥伝社文庫／祥伝社／1999.7／669p／NDC 913.6／mystery_sf・normal・long
+- 鎮魂歌：角川文庫. 不夜城 ; 2／角川書店／2000.10／600p／NDC 913.6／mystery_sf・normal・long
+- 漂流街：徳間文庫／徳間書店／2000.9／775p／NDC 913.6／mystery_sf・normal・long
