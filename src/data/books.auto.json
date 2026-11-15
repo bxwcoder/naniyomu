@@ -207844,6 +207844,33 @@
     "pages": 306
   },
   {
+    "book_id": "isbn-9784101305349",
+    "title": "聖家族",
+    "author": "古川日出男",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101305349",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025141060",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 607
+  },
+  {
     "book_id": "isbn-9784101305370",
     "title": "女たち三百人の裏切りの書",
     "author": "古川日出男",
