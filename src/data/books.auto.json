@@ -212246,5 +212246,645 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 328
+  },
+  {
+    "book_id": "isbn-9784062766364",
+    "title": "建てて、いい?",
+    "author": "中島たい子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062766364",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010838321",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 187
+  },
+  {
+    "book_id": "isbn-9784334748692",
+    "title": "田村はまだか",
+    "author": "朝倉かすみ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334748692",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011030247",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 303
+  },
+  {
+    "book_id": "isbn-9784334792657",
+    "title": "平場の月",
+    "author": "朝倉かすみ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334792657",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031756145",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 312
+  },
+  {
+    "book_id": "isbn-9784344409224",
+    "title": "檸檬のころ",
+    "author": "豊島ミホ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344409224",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009193050",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 283
+  },
+  {
+    "book_id": "isbn-9784062631587",
+    "title": "なにもしてない",
+    "author": "笙野頼子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062631587",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002454289",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 224
+  },
+  {
+    "book_id": "isbn-9784101164311",
+    "title": "ルート225",
+    "author": "藤野千夜",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101164311",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007602970",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 310
+  },
+  {
+    "book_id": "isbn-9784167719012",
+    "title": "太陽がイッパイいっぱい",
+    "author": "三羽省吾",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167719012",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008287874",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 291
+  },
+  {
+    "book_id": "isbn-9784094082197",
+    "title": "100回泣くこと",
+    "author": "中村航",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094082197",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009164626",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 202
+  },
+  {
+    "book_id": "isbn-9784344405134",
+    "title": "リアル鬼ごっこ",
+    "author": "山田悠介",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344405134",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007420290",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 310
+  },
+  {
+    "book_id": "isbn-9784101248318",
+    "title": "溺れる魚",
+    "author": "戸梶圭太",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101248318",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002951002",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 436
+  },
+  {
+    "book_id": "isbn-9784043615025",
+    "title": "ハルビン・カフェ",
+    "author": "打海文三",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043615025",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007855965",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 600
+  },
+  {
+    "book_id": "isbn-9784043781010",
+    "title": "忘れ雪",
+    "author": "新堂冬樹",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043781010",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007669601",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 584
+  },
+  {
+    "book_id": "isbn-9784062938105",
+    "title": "ミッドナイト・ジャーナル",
+    "author": "本城雅人",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062938105",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028682116",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 477
+  },
+  {
+    "book_id": "isbn-9784575508031",
+    "title": "MISSING",
+    "author": "本多孝好",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575508031",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003041969",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 341
+  },
+  {
+    "book_id": "isbn-9784344412026",
+    "title": "県庁の星",
+    "author": "桂望実",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344412026",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010081561",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 324
+  },
+  {
+    "book_id": "isbn-9784167531058",
+    "title": "ぼくと、ぼくらの夏",
+    "author": "樋口有介",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167531058",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008536395",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 329
+  },
+  {
+    "book_id": "isbn-9784488459017",
+    "title": "彼女はたぶん魔法を使う",
+    "author": "樋口有介",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488459017",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008247791",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 332
+  },
+  {
+    "book_id": "isbn-9784150307882",
+    "title": "傀儡后",
+    "author": "牧野修",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150307882",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007690072",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 537
+  },
+  {
+    "book_id": "isbn-9784309409276",
+    "title": "野ブタ。をプロデュース",
+    "author": "白岩玄",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309409276",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009696535",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 201
+  },
+  {
+    "book_id": "isbn-9784167691028",
+    "title": "ららら科學の子",
+    "author": "矢作俊彦",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167691028",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008322567",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 528
+  },
+  {
+    "book_id": "isbn-9784150304027",
+    "title": "ダック・コール",
+    "author": "稲見一良",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150304027",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002310987",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 374
+  },
+  {
+    "book_id": "isbn-9784101218120",
+    "title": "セント・メリーのリボン",
+    "author": "稲見一良",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101218120",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002475713",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 257
+  },
+  {
+    "book_id": "isbn-9784087476309",
+    "title": "粗忽拳銃",
+    "author": "竹内真",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087476309",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004262907",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 353
+  },
+  {
+    "book_id": "isbn-9784087478396",
+    "title": "プリズムの夏",
+    "author": "関口尚",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087478396",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007845523",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 195
   }
 ]
