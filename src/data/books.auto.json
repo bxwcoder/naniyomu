@@ -203442,6 +203442,33 @@
     "pages": 169
   },
   {
+    "book_id": "isbn-9784314010634",
+    "title": "共感の時代へ",
+    "author": "フランス・ドゥ・ヴァール",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784314010634",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010857568",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "紀伊國屋書店",
+    "pages": 364
+  },
+  {
     "book_id": "isbn-9784314011785",
     "title": "ママ、最後の抱擁",
     "author": "フランス・ドゥ・ヴァール",
