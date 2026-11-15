@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-15T06:46:06.969Z
-- 候補：8500冊
-- 入れた本：7736冊
-- 入れなかった本：764冊
+- 検索日時：2026-11-15T07:00:42.310Z
+- 候補：8536冊
+- 入れた本：7771冊
+- 入れなかった本：765冊
 
 ## 入れなかった本
 
@@ -771,6 +771,7 @@
 - コロノスのオイディプス／ソポクレス（海外の名作）：タイトルが同じで ISBN のある記録がない
 - 竜の戦士／アン・マキャフリイ（SF・ファンタジー定番）：タイトルが同じで ISBN のある記録がない
 - キジ殺し／ユッシ・エーズラ・オールスン（ミステリー定番）：タイトルが同じで ISBN のある記録がない
+- ベルナルダ・アルバの家／ガルシア・ロルカ（海外の名作）：タイトルが同じで ISBN のある記録がない
 
 ## 入れた本と選んだ版
 
@@ -8510,3 +8511,38 @@
 - 王道：講談社文芸文庫／講談社／2000.4／275p／NDC 953.7／novel・normal・medium
 - 花のノートルダム：河出文庫／河出書房新社／2008.12／399p／NDC 953.7／novel・normal・medium
 - 最初の悪い男：CREST BOOKS／新潮社／2018.8／346p／NDC 933.7／novel・normal・medium
+- はじめてのスピノザ：講談社現代新書 ; 2595／講談社／2020.11／181p／NDC 135.2／liberal_arts・normal・short
+- 沈黙のフライバイ：ハヤカワ文庫 ; JA／早川書房／2007.2／264p／NDC 913.6／mystery_sf・normal・medium
+- 死亡フラグが立ちました!：宝島社文庫 ; Cな-5-1. [このミス大賞]／宝島社／2010.7／349p／NDC 913.6／mystery_sf・normal・medium
+- ドS刑事：幻冬舎文庫 ; な-29-1／幻冬舎／2013.4／361p／NDC 913.6／mystery_sf・normal・medium
+- 一本の鉛：角川文庫／角川書店／1996.10／271p／NDC 913.6／mystery_sf・normal・medium
+- 十八の夏：双葉文庫／双葉社／2004.6／321p／NDC 913.6／mystery_sf・normal・medium
+- 時計を忘れて森へいこう：創元推理文庫／東京創元社／2006.6／334p／NDC 913.6／mystery_sf・normal・medium
+- 野獣死すべし：新潮文庫 ; お-120-1／新潮社／2026.2／371p／NDC 913.6／mystery_sf・normal・medium
+- 蘇える金狼：徳間文庫／徳間書店／1986.4／2冊／NDC 913.6／mystery_sf・normal・medium
+- 汚れた英雄：角川文庫／角川書店／1996.3／366p／NDC 913.6／novel・easy・long
+- 花の棺：光文社文庫／光文社／1986.11／392p／NDC 913.6／mystery_sf・normal・medium
+- 幻魔大戦：集英社文庫／集英社／1999.7／413p／NDC 913.6／mystery_sf・normal・long
+- 狼の紋章：ハヤカワ文庫 JA ; 1311. ウルフガイ ; 1／早川書房／2018.1／312p／NDC 913.6／mystery_sf・normal・medium
+- 3000年の密室：光文社文庫／光文社／2002.3／420p／NDC 913.6／mystery_sf・normal・medium
+- 動脈列島：光文社文庫／光文社／1988.11／453p／NDC 913.6／mystery_sf・normal・long
+- 小説兜町：角川文庫 ; し5-2／KADOKAWA／2022.9／444p／NDC 913.6／novel・easy・medium
+- 未明の家：講談社文庫／講談社／2000.1／473p／NDC 913.6／mystery_sf・normal・long
+- スティームタイガーの死走：角川文庫／角川書店／2004.3／262p／NDC 913.6／mystery_sf・normal・medium
+- 黄土の奔流：角川文庫／角川書店／1995.10／406p／NDC 913.6／novel・easy・medium
+- グラン・ギニョール城：創元推理文庫／東京創元社／2006.4／379p／NDC 913.6／mystery_sf・normal・medium
+- プレシャス・ライアー：光文社文庫／光文社／2006.7／266p／NDC 913.6／mystery_sf・normal・medium
+- 夢顔さんによろしく：文春文庫／文藝春秋／2002.10／408p／NDC 913.6／novel・easy・long
+- 赤ずきん、旅の途中で死体と出会う。：双葉文庫 ; あ-66-02／双葉社／2022.8／335p／NDC 913.6／mystery_sf・normal・medium
+- 浜村渚の計算ノート：講談社文庫 ; あ118-1／講談社／2011.6／292p／NDC 913.6／mystery_sf・normal・medium
+- 九つの殺人メルヘン：光文社文庫／光文社／2004.6／375p／NDC 913.6／mystery_sf・normal・medium
+- 喪われた都市の記録：ハルキ文庫／角川春樹事務所／1998.11／341p／NDC 913.6／mystery_sf・normal・long
+- ミステリー・アリーナ：講談社文庫 ; ふ73-6／講談社／2018.6／442p／NDC 913.6／mystery_sf・normal・medium
+- 涙香迷宮：講談社文庫 ; た27-9／講談社／2018.3／460p／NDC 913.6／mystery_sf・normal・long
+- マイマイ新子：新潮文庫 ; た-43-12／新潮社／2009.4／345p／NDC 913.6／novel・easy・medium
+- 針の誘い：角川文庫／角川書店／1996.10／291p／NDC 913.6／mystery_sf・normal・medium
+- 第三の女：角川文庫／角川書店／1988.1／322p／NDC 913.6／mystery_sf・normal・medium
+- 日本殺人事件：角川文庫／角川書店／1998.5／340p／NDC 913.6／mystery_sf・normal・medium
+- 晩鐘：双葉文庫 ; の-03-10／双葉社／2015.4／494p／NDC 913.6／mystery_sf・normal・long
+- 涙：新潮文庫／新潮社／2003.2／391p／NDC 913.6／mystery_sf・normal・long
+- 水曜日の凱歌：新潮文庫 ; の-9-44／新潮社／2018.8／723p／NDC 913.6／novel・easy・long
