@@ -195870,5 +195870,652 @@
     "tier": "basic",
     "publisher": "文藝春秋",
     "pages": 388
+  },
+  {
+    "book_id": "isbn-9784480096821",
+    "title": "敗戦後論",
+    "author": "加藤典洋",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480096821",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026555735",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 381
+  },
+  {
+    "book_id": "isbn-9784006000165",
+    "title": "文化と両義性",
+    "author": "山口昌男",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784006000165",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002900425",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 303
+  },
+  {
+    "book_id": "isbn-9784006001759",
+    "title": "道化の民俗学",
+    "author": "山口昌男",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784006001759",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008531461",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 384
+  },
+  {
+    "book_id": "isbn-9784624301033",
+    "title": "現代政治の思想と行動",
+    "author": "丸山眞男",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784624301033",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008290890",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "未來社",
+    "pages": 585
+  },
+  {
+    "book_id": "isbn-9784122017849",
+    "title": "孔子伝",
+    "author": "白川静",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122017849",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002104446",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784622050469",
+    "title": "西欧精神医学背景史",
+    "author": "中井久夫",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784622050469",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002849706",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "みすず書房",
+    "pages": 237
+  },
+  {
+    "book_id": "isbn-9784309472416",
+    "title": "スカートの下の劇場",
+    "author": "上野千鶴子",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309472416",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002215050",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 215
+  },
+  {
+    "book_id": "isbn-9784004312345",
+    "title": "思い出袋",
+    "author": "鶴見俊輔",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004312345",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010822621",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 229
+  },
+  {
+    "book_id": "isbn-9784480082442",
+    "title": "モードの迷宮",
+    "author": "鷲田清一",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480082442",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002478222",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 230
+  },
+  {
+    "book_id": "isbn-9784309244587",
+    "title": "まなざしの地獄",
+    "author": "見田宗介",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309244587",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009785548",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 122
+  },
+  {
+    "book_id": "isbn-9784004150602",
+    "title": "モゴール族探検記",
+    "author": "梅棹忠夫",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004150602",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I10111100050588",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 205
+  },
+  {
+    "book_id": "isbn-9784061591042",
+    "title": "民俗学の旅",
+    "author": "宮本常一",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061591042",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002295748",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 247
+  },
+  {
+    "book_id": "isbn-9784004302032",
+    "title": "臨床の知とは何か",
+    "author": "中村雄二郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004302032",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002161540",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 223
+  },
+  {
+    "book_id": "isbn-9784782800157",
+    "title": "流れとよどみ",
+    "author": "大森荘蔵",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784782800157",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I25110582360",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "産業図書",
+    "pages": 278
+  },
+  {
+    "book_id": "isbn-9784000070041",
+    "title": "古寺巡礼",
+    "author": "和辻哲郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784000070041",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002091977",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 287
+  },
+  {
+    "book_id": "isbn-9784061492622",
+    "title": "「世間」とは何か",
+    "author": "阿部謹也",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061492622",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002431060",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 259
+  },
+  {
+    "book_id": "isbn-9784061590151",
+    "title": "探究",
+    "author": "柄谷行人",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061590151",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002165394",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 265
+  },
+  {
+    "book_id": "isbn-9784047261457",
+    "title": "乱と灰色の世界",
+    "author": "入江亜季",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784047261457",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010623539",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "エンターブレイン",
+    "pages": 212
+  },
+  {
+    "book_id": "isbn-9784047348318",
+    "title": "北北西に曇と往け",
+    "author": "入江亜季",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784047348318",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028542321",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 246
+  },
+  {
+    "book_id": "isbn-9784063880588",
+    "title": "波よ聞いてくれ",
+    "author": "沙村広明",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063880588",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026382706",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 186
+  },
+  {
+    "book_id": "isbn-9784834282917",
+    "title": "のたり松太郎",
+    "author": "ちばてつや",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784834282917",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002576710",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ホーム社",
+    "pages": 289
+  },
+  {
+    "book_id": "isbn-9784063409406",
+    "title": "七つ屋志のぶの宝石匣",
+    "author": "二ノ宮知子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063409406",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025891783",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 156
+  },
+  {
+    "book_id": "isbn-9784091217318",
+    "title": "ラフ",
+    "author": "あだち充",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091217318",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001869720",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 181
+  },
+  {
+    "book_id": "isbn-9784063143300",
+    "title": "ラブロマ",
+    "author": "とよ田みのる",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063143300",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004236813",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 186
   }
 ]

@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-15T02:11:15.508Z
-- 候補：8092冊
-- 入れた本：7367冊
-- 入れなかった本：725冊
+- 検索日時：2026-11-15T02:31:39.676Z
+- 候補：8117冊
+- 入れた本：7391冊
+- 入れなかった本：726冊
 
 ## 入れなかった本
 
@@ -732,6 +732,7 @@
 - 偽のデュー警部／ピーター・ラヴゼイ（ミステリー定番）：タイトルが同じで ISBN のある記録がない
 - 男の首／ジョルジュ・シムノン（ミステリー定番）：タイトルが同じで ISBN のある記録がない
 - 黄色い犬／ジョルジュ・シムノン（ミステリー定番）：タイトルが同じで ISBN のある記録がない
+- 日本政治思想史研究／丸山眞男（教養の定番）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
 
 ## 入れた本と選んだ版
 
@@ -8102,3 +8103,27 @@
 - 悪魔の選択：叢書なし／角川書店／1982.11／ページ数不明／NDC 933／mystery_sf・normal・long
 - 傷だらけのカミーユ：文春文庫 ; ル6-4／文藝春秋／2016.10／387p／NDC 953.7／mystery_sf・normal・medium
 - 死のドレスを花婿に：文春文庫 ; ル6-2／文藝春秋／2015.4／388p／NDC 953.7／mystery_sf・normal・medium
+- 敗戦後論：ちくま学芸文庫 ; カ38-1／筑摩書房／2015.7／381p／NDC 304／liberal_arts・normal・medium
+- 文化と両義性：岩波現代文庫 : 学術／岩波書店／2000.5／303p／NDC 204／liberal_arts・normal・medium
+- 道化の民俗学：岩波現代文庫 ; 学術／岩波書店／2007.4／384, 16p／NDC 380.1／liberal_arts・normal・medium
+- 現代政治の思想と行動：叢書なし／未來社／2006.8／585p／NDC 310.4／liberal_arts・normal・long
+- 孔子伝：中公文庫／中央公論社／1991.1／317p／NDC 124.12／liberal_arts・normal・medium
+- 西欧精神医学背景史：みすずライブラリー／みすず書房／1999.12／237, 9p／NDC 493.7／liberal_arts・normal・short
+- スカートの下の劇場：河出文庫／河出書房新社／1992.11／215p／NDC 593.39／practical・normal・short
+- 思い出袋：岩波新書 ; 新赤版1234／岩波書店／2010.3／229p／NDC 914.6／nonfiction・easy・short
+- モードの迷宮：ちくま学芸文庫／筑摩書房／1996.1／230p／NDC 593.3／practical・normal・short
+- まなざしの地獄：叢書なし／河出書房新社／2008.11／122p／NDC 361.78／liberal_arts・normal・short
+- モゴール族探検記：岩波新書 青版／岩波書店／1979／205p ; 18cm／NDC 292.71／nonfiction,liberal_arts・normal・short
+- 民俗学の旅：講談社学術文庫／講談社／1993.12／247p／NDC 289.1／nonfiction,liberal_arts・normal・short
+- 臨床の知とは何か：岩波新書／岩波書店／1992.1／223, 6p／NDC 104／liberal_arts・normal・short
+- 流れとよどみ：叢書なし／産業図書／Sun, 28 Nov 2010 09:00:00 +0900／278p ; 20cm／NDC 104／liberal_arts・normal・medium
+- 古寺巡礼：ワイド版岩波文庫／岩波書店／1991.1／287p／NDC 702.1／liberal_arts・normal・medium
+- 「世間」とは何か：講談社現代新書／講談社／1995.7／259p／NDC 910.2／liberal_arts・normal・medium
+- 探究：講談社学術文庫／講談社／1992.3／265p／NDC 914.6／nonfiction・normal・long
+- 乱と灰色の世界：Beam comix／エンターブレイン、角川グループパブリッシング (発売)／2009.11／212p／NDC 726.1／manga・easy・long
+- 北北西に曇と往け：HARTA COMIX／KADOKAWA／2017.10／246p／NDC 726.1／manga・easy・long
+- 波よ聞いてくれ：アフタヌーンKC ; 1358／講談社／2015.5／186p／NDC 726.1／manga・easy・long
+- のたり松太郎：ちばてつや全集／ホーム社／1997.4／289p／NDC 726.1／manga・easy・long
+- 七つ屋志のぶの宝石匣：KC Kiss ; 940／講談社／2014.11／156p／NDC 726.1／manga・easy・long
+- ラフ：少年サンデーコミックス／小学館／1987.9／181p／NDC 726.1／manga・easy・long
+- ラブロマ：アフタヌーンKC／講談社／2003.9／186p／NDC 726.1／manga・easy・long
