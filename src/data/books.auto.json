@@ -211841,5 +211841,410 @@
     "tier": "basic",
     "publisher": "沖積舎",
     "pages": 329
+  },
+  {
+    "book_id": "isbn-9784101426211",
+    "title": "闇に消えた怪人",
+    "author": "一橋文哉",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101426211",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002859567",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 469
+  },
+  {
+    "book_id": "isbn-9784334032661",
+    "title": "オニババ化する女たち",
+    "author": "三砂ちづる",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334032661",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007491545",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 253
+  },
+  {
+    "book_id": "isbn-9784101332413",
+    "title": "甲子園が割れた日",
+    "author": "中村計",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101332413",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010942204",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 305
+  },
+  {
+    "book_id": "isbn-9784167554019",
+    "title": "プロレス少女伝説",
+    "author": "井田真木子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167554019",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002289333",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 350
+  },
+  {
+    "book_id": "isbn-9784062762199",
+    "title": "白洲次郎 占領を背負った男",
+    "author": "北康利",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062762199",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009934328",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784344981584",
+    "title": "葬式は、要らない",
+    "author": "島田裕巳",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344981584",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010693693",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 186
+  },
+  {
+    "book_id": "isbn-9784309403915",
+    "title": "マイ・バック・ページ",
+    "author": "川本三郎",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309403915",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002290868",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 223
+  },
+  {
+    "book_id": "isbn-9784022615749",
+    "title": "カラシニコフ",
+    "author": "松本仁一",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022615749",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009406520",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 274
+  },
+  {
+    "book_id": "isbn-9784003122617",
+    "title": "まっくら",
+    "author": "森崎和江",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003122617",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031695737",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 329
+  },
+  {
+    "book_id": "isbn-9784022618740",
+    "title": "からゆきさん",
+    "author": "森崎和江",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022618740",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027500762",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 258
+  },
+  {
+    "book_id": "isbn-9784167493028",
+    "title": "AV女優",
+    "author": "永沢光雄",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167493028",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002790809",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 655
+  },
+  {
+    "book_id": "isbn-9784094088496",
+    "title": "サイゴンから来た妻と娘",
+    "author": "近藤紘一",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094088496",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024690730",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 330
+  },
+  {
+    "book_id": "isbn-9784167634018",
+    "title": "28年目のハーフタイム",
+    "author": "金子達仁",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167634018",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002837398",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 238
+  },
+  {
+    "book_id": "isbn-9784101107110",
+    "title": "ソウルの練習問題",
+    "author": "関川夏央",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101107110",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001957511",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 314
+  },
+  {
+    "book_id": "isbn-9784101158044",
+    "title": "日本の喜劇人",
+    "author": "小林信彦",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101158044",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001596152",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 328
   }
 ]
