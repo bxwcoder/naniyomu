@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-15T06:12:57.286Z
-- 候補：8448冊
-- 入れた本：7695冊
-- 入れなかった本：753冊
+- 検索日時：2026-11-15T06:24:47.279Z
+- 候補：8459冊
+- 入れた本：7699冊
+- 入れなかった本：760冊
 
 ## 入れなかった本
 
@@ -760,6 +760,13 @@
 - 水底の歌／梅原猛（教養の定番）：ジャンルを決められない（分類番号：911.122）
 - カーデュラ探偵社／ジャック・リッチー（ミステリー定番）：タイトルが同じで ISBN のある記録がない
 - ジャンキー／ウィリアム・バロウズ（海外の名作）：タイトルが同じで ISBN のある記録がない
+- もっとも危険なゲーム／ギャビン・ライアル（ミステリー定番）：タイトルが同じで ISBN のある記録がない
+- 黄金遁走曲／久生十蘭（日本の名作）：タイトルが同じで ISBN のある記録がない
+- 母子像／久生十蘭（日本の名作）：タイトルが同じで ISBN のある記録がない
+- 幻化／梅崎春生（日本の名作）：タイトルが同じで ISBN のある記録がない
+- カフカ短篇集／カフカ（海外の名作）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
+- 近代秀歌／永田和宏（教養の定番）：ジャンルを決められない（分類番号：911.16）
+- 現代秀歌／永田和宏（教養の定番）：ジャンルを決められない（分類番号：911.16）
 
 ## 入れた本と選んだ版
 
@@ -1045,7 +1052,7 @@
 - 生きがいについて：神谷美恵子コレクション／みすず書房／2004.10／353, 16p／NDC 113／liberal_arts・challenging・medium
 - バカの壁：新潮新書／新潮社／2003.4／204p／NDC 304／liberal_arts・normal・short
 - 国家の品格：新潮新書／新潮社／2005.11／191p／NDC 304／liberal_arts・normal・short
-- スマホ脳：新潮新書 ; 882／新潮社／2020.11／255p／NDC 491.371／liberal_arts・easy・medium
+- スマホ脳：新潮新書 ; 882／新潮社／2020.11／255p／NDC 491.371／practical・easy・medium
 - LIFE SHIFT：叢書なし／東洋経済新報社／2016.11／399,15p／NDC 159／practical・normal・medium
 - DIE WITH ZERO：叢書なし／ダイヤモンド社／2020.9／278p／NDC 159／practical・normal・medium
 - 応仁の乱：中公新書 ; 2401／中央公論新社／2016.10／302p／NDC 210.47／liberal_arts・challenging・medium
@@ -2121,7 +2128,7 @@
 - 戦国武将の手紙を読む：中公新書 ; 2084／中央公論新社／2010.11／247p／NDC 210.47／liberal_arts・normal・short
 - 信長の親衛隊：中公新書／中央公論社／1998.12／250p／NDC 210.48／liberal_arts・normal・medium
 - 関ヶ原合戦：講談社学術文庫／講談社／2008.1／267p／NDC 210.48／liberal_arts・normal・medium
-- 江戸の家計簿：宝島社新書 ; 469／宝島社／2017.1／189p／NDC 337.821／practical・easy・short
+- 江戸の家計簿：宝島社新書 ; 469／宝島社／2017.1／189p／NDC 337.821／liberal_arts・easy・short
 - 武士の家計簿：新潮新書／新潮社／2003.4／222p／NDC 210.58／liberal_arts・normal・short
 - 日本史の内幕：中公新書 ; 2455／中央公論新社／2017.10／250p／NDC 210.48／liberal_arts・easy・medium
 - 天災から日本史を読みなおす：中公新書 ; 2295／中央公論新社／2014.11／221p／NDC 210.17／liberal_arts・normal・short
@@ -2171,8 +2178,8 @@
 - スタンフォードの自分を変える教室：だいわ文庫 ; 304-1G／大和書房／2015.10／366p／NDC 141.8／practical・normal・medium
 - スタンフォード式最高の睡眠：叢書なし／サンマーク出版／2017.3／251p／NDC 491.371／practical・easy・medium
 - LIFESPAN：叢書なし／東洋経済新報社／2020.9／491,98p／NDC 491.358／liberal_arts・normal・long
-- 運動脳：叢書なし／サンマーク出版／2022.9／366p／NDC 491.371／liberal_arts・easy・medium
-- 脳を鍛えるには運動しかない!：叢書なし／日本放送出版協会／2009.3／345, 5p／NDC 491.371／liberal_arts・normal・medium
+- 運動脳：叢書なし／サンマーク出版／2022.9／366p／NDC 491.371／practical・easy・medium
+- 脳を鍛えるには運動しかない!：叢書なし／日本放送出版協会／2009.3／345, 5p／NDC 491.371／practical・normal・medium
 - 睡眠こそ最強の解決策である：叢書なし／SBクリエイティブ／2018.5／432p／NDC 491.371／practical・normal・medium
 - 食べる投資：叢書なし／アチーブメント出版／2019.12／195p／NDC 498.583／practical・easy・short
 - 人体600万年史：叢書なし／早川書房／2015.9／332p／NDC 491.69／liberal_arts・challenging・long
@@ -2226,11 +2233,11 @@
 - 感染症の世界史：[角川ソフィア文庫] ; [I405-1]／KADOKAWA／2018.1／372p／NDC 493.8／liberal_arts・normal・medium
 - ウイルスの意味論：叢書なし／みすず書房／2018.12／239,30p／NDC 465.8／liberal_arts・normal・short
 - タンパク質の一生：岩波新書／岩波書店／2008.6／218p／NDC 464.2／liberal_arts・normal・short
-- 脳はなにかと言い訳する：新潮文庫 ; い-101-2／新潮社／2010.6／403p／NDC 491.371／liberal_arts・easy・medium
-- 進化しすぎた脳：叢書なし／朝日出版社／2004.10／373p／NDC 491.371／liberal_arts・easy・medium
-- 海馬：新潮文庫／新潮社／2005.7／344p／NDC 491.371／liberal_arts・easy・medium
-- 単純な脳、複雑な「私」：叢書なし／朝日出版社／2009.5／414, 7p／NDC 491.371／liberal_arts・normal・medium
-- 意識はいつ生まれるのか：叢書なし／亜紀書房／2015.5／292p／NDC 491.371／liberal_arts・challenging・medium
+- 脳はなにかと言い訳する：新潮文庫 ; い-101-2／新潮社／2010.6／403p／NDC 491.371／practical・easy・medium
+- 進化しすぎた脳：叢書なし／朝日出版社／2004.10／373p／NDC 491.371／practical・easy・medium
+- 海馬：新潮文庫／新潮社／2005.7／344p／NDC 491.371／practical・easy・medium
+- 単純な脳、複雑な「私」：叢書なし／朝日出版社／2009.5／414, 7p／NDC 491.371／practical・normal・medium
+- 意識はいつ生まれるのか：叢書なし／亜紀書房／2015.5／292p／NDC 491.371／practical・challenging・medium
 - 意識と本質：岩波文庫／岩波書店／1991.8／417p／NDC 120.4／liberal_arts・challenging・medium
 - 心はどこにあるのか：ちくま学芸文庫 ; テ12-1／筑摩書房／2016.10／284p／NDC 141.51／liberal_arts・normal・medium
 - 妻を帽子とまちがえた男：ハヤカワ文庫 ; NF353／早川書房／2009.7／435p／NDC 493.7／nonfiction・normal・medium
@@ -2865,7 +2872,7 @@
 - 世界のエリートがやっている最高の休息法：叢書なし／ダイヤモンド社／2016.7／248,6p／NDC 498.39／practical・normal・short
 - デジタル・ミニマリスト：ハヤカワ文庫 NF ; 573／早川書房／2021.4／367p／NDC 007.3／practical・normal・medium
 - 料理は女の義務ですか：新潮新書 ; 736／新潮社／2017.10／207p／NDC 596／practical・normal・short
-- 「わかる」とはどういうことか：ちくま新書／筑摩書房／2002.4／236p／NDC 491.371／liberal_arts・normal・short
+- 「わかる」とはどういうことか：ちくま新書／筑摩書房／2002.4／236p／NDC 491.371／practical・normal・short
 - 文章読本：中公文庫／中央公論社／1995.12／236p／NDC 816／practical・normal・short
 - 調べる技術書く技術：講談社現代新書／講談社／2008.4／254p／NDC 901.6／practical・normal・medium
 - 算数・数学が得意になる本：講談社現代新書／講談社／2006.5／222p／NDC 410.4／liberal_arts・normal・short
@@ -3369,7 +3376,7 @@
 - とかげ：新潮文庫／新潮社／1996.6／179p／NDC 913.6／novel・easy・short
 - デッドエンドの思い出：文春文庫／文藝春秋／2006.7／245p／NDC 913.6／novel・easy・short
 - 死の壁：新潮新書／新潮社／2004.4／190p／NDC 114.2／liberal_arts・normal・short
-- 唯脳論：ちくま学芸文庫／筑摩書房／1998.10／278p／NDC 491.371／liberal_arts・normal・medium
+- 唯脳論：ちくま学芸文庫／筑摩書房／1998.10／278p／NDC 491.371／practical・normal・medium
 - 養老訓：新潮文庫 ; よ-24-6／新潮社／2010.7／196p／NDC 159.79／practical・normal・short
 - 若き数学者のアメリカ：新潮文庫／新潮社／1981.6／283p／NDC 302.53／nonfiction・easy・medium
 - 日本人の誇り：文春新書 ; 804／文藝春秋／2011.4／249p／NDC 304／liberal_arts・normal・short
@@ -3566,7 +3573,7 @@
 - ユニクロ：叢書なし／日経BP、日経BPマーケティング／2024.4／493p／NDC 589.2／nonfiction・normal・long
 - アインシュタイン：叢書なし／武田ランダムハウスジャパン／2011.6／428p／NDC 289.3／nonfiction・normal・long
 - BAD BLOOD：叢書なし／集英社／2021.2／415p／NDC 368.6／nonfiction・normal・medium
-- まぐれ：叢書なし／ダイヤモンド社／2008.1／387p／NDC 338.1／practical・normal・medium
+- まぐれ：叢書なし／ダイヤモンド社／2008.1／387p／NDC 338.1／liberal_arts・normal・medium
 - 天才!：叢書なし／講談社／2009.5／339, 11p／NDC 141.18／liberal_arts・normal・medium
 - ティッピング・ポイント：叢書なし／飛鳥新社／2000.3／310p／NDC 361.5／liberal_arts・normal・medium
 - 第1感：叢書なし／光文社／2006.3／263p／NDC 141.2／liberal_arts・normal・medium
@@ -4271,7 +4278,7 @@
 - 隷属なき道：叢書なし／文藝春秋／2017.5／308p／NDC 364／liberal_arts・normal・medium
 - 実力も運のうち：ハヤカワ文庫 NF ; 602／早川書房／2023.9／478p／NDC 361.8／liberal_arts・normal・long
 - それをお金で買いますか：ハヤカワ文庫 NF ; 419／早川書房／2014.11／334p／NDC 331.15／liberal_arts・normal・medium
-- 負債論：叢書なし／以文社／2016.11／770,66p／NDC 337.2／practical・normal・long
+- 負債論：叢書なし／以文社／2016.11／770,66p／NDC 337.2／liberal_arts・normal・long
 - LIFE3.0：叢書なし／紀伊國屋書店／2020.1／509p／NDC 007.13／liberal_arts・normal・long
 - シンギュラリティは近い：叢書なし／NHK出版／2016.4／254p／NDC 007.13／liberal_arts・normal・medium
 - ヤバい統計学：叢書なし／阪急コミュニケーションズ／2011.3／295, 22p／NDC 417／liberal_arts・normal・medium
@@ -4294,7 +4301,7 @@
 - 人類5000年史：ちくま新書 ; 1287-1／筑摩書房／2017.11／245,6p／NDC 209／liberal_arts・normal・long
 - 全世界史：新潮文庫 ; て-11-2／新潮社／2018.7／444p／NDC 209／liberal_arts・normal・long
 - 還暦からの底力：講談社現代新書 ; 2568／講談社／2020.5／247p／NDC 367.7／liberal_arts・normal・short
-- お金の流れでわかる世界の歴史：叢書なし／KADOKAWA／2015.12／255p／NDC 338.2／practical・normal・medium
+- お金の流れでわかる世界の歴史：叢書なし／KADOKAWA／2015.12／255p／NDC 338.2／liberal_arts・normal・medium
 - アクセル・ワールド：電撃文庫 ; 1716／アスキー・メディアワークス、角川グループパブリッシング (発売)／2009.2／296p／NDC 913.6／mystery_sf・normal・long
 - 砂糖菓子の弾丸は撃ちぬけない：角川文庫 ; 15565／角川書店、角川グループパブリッシング (発売)／2009.2／201p／NDC 913.6／novel・easy・short
 - GOSICK：角川文庫 ; 15887／角川書店、角川グループパブリッシング (発売)／2009.9／301p／NDC 913.6／mystery_sf・normal・medium
@@ -4963,8 +4970,8 @@
 - 反貧困：岩波新書／岩波書店／2008.4／224, 2p／NDC 368.2／liberal_arts・normal・short
 - 日本の難点：幻冬舎新書 ; 122／幻冬舎／2009.4／286p／NDC 304／liberal_arts・normal・medium
 - 新・戦争論：文春新書 ; 1000／文藝春秋／2014.11／255p／NDC 304／liberal_arts・normal・medium
-- サラ金の歴史：中公新書 ; 2634／中央公論新社／2021.2／344p／NDC 338.77／practical・normal・medium
-- 物価とは何か：講談社選書メチエ ; 758／講談社／2022.1／333p／NDC 337.81／practical・normal・medium
+- サラ金の歴史：中公新書 ; 2634／中央公論新社／2021.2／344p／NDC 338.77／liberal_arts・normal・medium
+- 物価とは何か：講談社選書メチエ ; 758／講談社／2022.1／333p／NDC 337.81／liberal_arts・normal・medium
 - 現代日本の転機：NHKブックス ; 1140／日本放送出版協会／2009.8／281p／NDC 302.1／liberal_arts・normal・medium
 - ゲンロン戦記：中公新書ラクレ ; 709／中央公論新社／2020.12／277p／NDC 023.067／liberal_arts・normal・medium
 - コンビニ外国人：新潮新書 ; 767／新潮社／2018.5／223p／NDC 366.89／liberal_arts・normal・short
@@ -5351,9 +5358,9 @@
 - 悪霊にさいなまれる世界：ハヤカワ文庫 ; NF356／早川書房／2009.7／410p／NDC 404／liberal_arts・normal・long
 - 困ります、ファインマンさん：岩波現代文庫 : 社会／岩波書店／2001.1／355p／NDC 289.3／nonfiction,liberal_arts・normal・medium
 - パラレルワールド：叢書なし／日本放送出版協会／2006.1／437, 40p／NDC 443.9／liberal_arts・normal・medium
-- フューチャー・オブ・マインド：叢書なし／NHK出版／2015.2／508p／NDC 491.371／liberal_arts・normal・long
+- フューチャー・オブ・マインド：叢書なし／NHK出版／2015.2／508p／NDC 491.371／practical・normal・long
 - ヒトのなかの魚、魚のなかのヒト：ハヤカワ文庫 NF ; 392／早川書房／2013.10／342p／NDC 467.5／liberal_arts・normal・medium
-- あなたの知らない脳：ハヤカワ文庫 NF ; 475. [自然科学]／早川書房／2016.9／392p／NDC 491.371／liberal_arts・normal・medium
+- あなたの知らない脳：ハヤカワ文庫 NF ; 475. [自然科学]／早川書房／2016.9／392p／NDC 491.371／practical・normal・medium
 - モチベーション3.0：講談社+α文庫 ; G263-1／講談社／2015.11／349p／NDC 336.4／practical・normal・medium
 - ハイ・コンセプト：叢書なし／三笠書房／2006.5／349p／NDC 159／practical・normal・medium
 - 災害ユートピア：叢書なし／亜紀書房／2010.12／440p／NDC 369.3／liberal_arts・normal・medium
@@ -5765,7 +5772,7 @@
 - 死者の書：岩波文庫 ; 31-186-2／岩波書店／2010.5／323p／NDC 913.6／novel・normal・medium
 - 自動車の社会的費用：叢書なし／岩波書店／1974.6.／ページ数不明／NDC 685／liberal_arts・normal・medium
 - 社会的共通資本：岩波新書／岩波書店／2000.11／239p／NDC 343.7／liberal_arts・normal・short
-- 貨幣論：ちくま文庫／筑摩書房／1998.3／237, 8p／NDC 337.1／practical・normal・short
+- 貨幣論：ちくま文庫／筑摩書房／1998.3／237, 8p／NDC 337.1／liberal_arts・normal・short
 - 会社はこれからどうなるのか：叢書なし／平凡社／2003.2／341p／NDC 335.4／practical・normal・medium
 - 家父長制と資本制：岩波現代文庫 ; G216／岩波書店／2009.5／457, 5p／NDC 367.1／liberal_arts・normal・long
 - 女ぎらい：朝日文庫 ; う5-9／朝日新聞出版／2018.10／389p／NDC 367.21／liberal_arts・normal・medium
@@ -5920,7 +5927,7 @@
 - ダイエット幻想：ちくまプリマー新書 ; 336／筑摩書房／2019.10／223p／NDC 595.6／practical・normal・short
 - 映画を早送りで観る人たち：光文社新書 ; 1192／光文社／2022.4／302p／NDC 361.5／liberal_arts・normal・medium
 - 悲しみの秘義：文春文庫 ; わ24-1／文藝春秋／2019.12／235p／NDC 914.6／nonfiction・easy・short
-- 脳と仮想：新潮文庫／新潮社／2007.4／264p／NDC 491.371／liberal_arts・normal・medium
+- 脳と仮想：新潮文庫／新潮社／2007.4／264p／NDC 491.371／practical・normal・medium
 - 投資家が「お金」よりも大切にしていること：星海社新書 ; 30／星海社、講談社 (発売)／2013.2／244p／NDC 159／practical・normal・short
 - 君は君の人生の主役になれ：ちくまプリマー新書 ; 412／筑摩書房／2022.10／249p／NDC 371.47／liberal_arts・normal・short
 - 絶望の国の幸福な若者たち：講談社+α文庫 ; G256-2／講談社／2015.10／428p／NDC 367.68／liberal_arts・normal・medium
@@ -6368,7 +6375,7 @@
 - タイムマシンの話：ブルーバックス／講談社／2002.10／243p／NDC 421／liberal_arts・normal・short
 - 量子力学的世界像：叢書なし／弘文堂／1965.11(21刷:1989.6)／175p／NDC 421.3／liberal_arts・normal・short
 - 宇宙創成はじめの3分間：ちくま学芸文庫／筑摩書房／2008.9／327p／NDC 443.9／liberal_arts・normal・medium
-- 脳のなかの幽霊：角川文庫 ; 16610／角川書店、角川グループパブリッシング (発売)／2011.3／416, 47, 22p／NDC 491.371／liberal_arts・normal・medium
+- 脳のなかの幽霊：角川文庫 ; 16610／角川書店、角川グループパブリッシング (発売)／2011.3／416, 47, 22p／NDC 491.371／practical・normal・medium
 - 延長された表現型：叢書なし／紀伊国屋書店／1987.7／555p／NDC 467／liberal_arts・normal・long
 - 人間はどこまでチンパンジーか?：叢書なし／新曜社／1993.10／541, 49p／NDC 469／liberal_arts・normal・long
 - 百姓から見た戦国大名：ちくま新書／筑摩書房／2006.9／222p／NDC 210.47／liberal_arts・normal・short
@@ -6461,7 +6468,7 @@
 - 競争と公平感：中公新書 ; 2045／中央公論新社／2010.3／245p／NDC 331.845／liberal_arts・normal・short
 - 行動経済学の使い方：岩波新書 新赤版 ; 1795／岩波書店／2019.9／201,23p／NDC 331／liberal_arts・normal・short
 - ナッジで、人を動かす：叢書なし／NTT出版／2020.9／307,33p／NDC 301／liberal_arts・normal・medium
-- グローバル資本主義の危機：叢書なし／日本経済新聞社／1999.1／358p／NDC 338.9／practical・normal・medium
+- グローバル資本主義の危機：叢書なし／日本経済新聞社／1999.1／358p／NDC 338.9／liberal_arts・normal・medium
 - 暴走する資本主義：叢書なし／東洋経済新報社／2008.6／379p／NDC 332.53／liberal_arts・normal・medium
 - 自由の命運：叢書なし／早川書房／2020.1／417p／NDC 313.2／liberal_arts・normal・long
 - 大脱出：叢書なし／みすず書房／2014.10／351,21p／NDC 331.85／liberal_arts・normal・medium
@@ -6502,10 +6509,10 @@
 - 死すべき定め：叢書なし／みすず書房／2016.6／278,10p／NDC 490.15／liberal_arts・normal・medium
 - 医師は最善を尽くしているか：叢書なし／みすず書房／2013.7／255p／NDC 498／practical・normal・medium
 - しらずしらず：叢書なし／ダイヤモンド社／2013.12／368p／NDC 145.1／liberal_arts・normal・medium
-- あなたの脳のはなし：ハヤカワ文庫 NF ; 545／早川書房／2019.9／330p／NDC 491.371／liberal_arts・normal・medium
-- 意識と脳：叢書なし／紀伊國屋書店／2015.9／469p／NDC 491.371／liberal_arts・normal・long
-- 記憶力を強くする：ブルーバックス／講談社／2001.1／269, 4p／NDC 491.371／liberal_arts・normal・medium
-- 脳には妙なクセがある：新潮文庫 ; い-101-5／新潮社／2018.2／397p／NDC 491.371／liberal_arts・normal・medium
+- あなたの脳のはなし：ハヤカワ文庫 NF ; 545／早川書房／2019.9／330p／NDC 491.371／practical・normal・medium
+- 意識と脳：叢書なし／紀伊國屋書店／2015.9／469p／NDC 491.371／practical・normal・long
+- 記憶力を強くする：ブルーバックス／講談社／2001.1／269, 4p／NDC 491.371／practical・normal・medium
+- 脳には妙なクセがある：新潮文庫 ; い-101-5／新潮社／2018.2／397p／NDC 491.371／practical・normal・medium
 - 美の歴史：叢書なし／東洋書林／2005.11／439p／NDC 701.2／liberal_arts・normal・medium
 - 見るということ：ちくま学芸文庫／筑摩書房／2005.8／274p／NDC 704／liberal_arts・normal・medium
 - イメージ：ちくま学芸文庫 ; ハ23-2／筑摩書房／2013.1／314p／NDC 720.4／liberal_arts・normal・medium
@@ -7002,7 +7009,7 @@
 - 宇宙はなぜ「暗い」のか?：叢書なし／ベレ出版／2017.1／191p／NDC 440／liberal_arts・normal・short
 - 人類はどこから来て、どこへ行くのか：ちくま学芸文庫 ; ウ8-3／筑摩書房／2025.7／442p／NDC 481.71／liberal_arts・normal・medium
 - 社会はどう進化するのか：叢書なし／亜紀書房／2020.1／326,21p／NDC 361.5／liberal_arts・normal・medium
-- 進化の意外な順序：叢書なし／白揚社／2019.2／349p／NDC 491.37／liberal_arts・normal・medium
+- 進化の意外な順序：叢書なし／白揚社／2019.2／349p／NDC 491.37／practical・normal・medium
 - 意識をめぐる冒険：叢書なし／岩波書店／2014.8／354,8p／NDC 141.51／liberal_arts・normal・medium
 - 我々はなぜ我々だけなのか：ブルーバックス ; B-2037／講談社／2017.12／283p／NDC 469.2／liberal_arts・normal・medium
 - ネアンデルタール人は私たちと交配した：叢書なし／文藝春秋／2015.6／365p／NDC 469.2／liberal_arts・normal・medium
@@ -8390,7 +8397,7 @@
 - スピリチュアルズ：幻冬舎文庫／幻冬舎／2023.8／429 p／NDC 145.1／liberal_arts・normal・medium
 - 僕たちはどう生きるか：集英社文庫 ; も39-1／集英社／2024.8／246p／NDC 914.6／nonfiction・normal・short
 - 自然学の提唱：講談社学術文庫／講談社／1986.6／263p／NDC 460.49／liberal_arts・normal・medium
-- 意識と自己：講談社学術文庫 ; 2517／講談社／2018.6／445p／NDC 491.371／liberal_arts・normal・medium
+- 意識と自己：講談社学術文庫 ; 2517／講談社／2018.6／445p／NDC 491.371／practical・normal・medium
 - わたしのいるところ：CREST BOOKS／新潮社／2019.8／166p／NDC 973／novel・normal・short
 - 蘆屋家の崩壊：ちくま文庫 ; つ18-1／筑摩書房／2012.7／316p／NDC 913.6／novel・easy・medium
 - 記憶する体：叢書なし／春秋社／2019.9／277p／NDC 369.27／liberal_arts・normal・medium
@@ -8454,7 +8461,11 @@
 - エルマーとりゅう：叢書なし／福音館書店／1997.5／119p／NDC 933／novel・normal・short
 - カードミステリー：叢書なし／徳間書店／1996.3／387p／NDC 949.6／novel・normal・medium
 - 姫君を喰う話：新潮文庫 ; う-28-1／新潮社／2021.8／373p／NDC 913.6／novel・easy・medium
-- 他者と生きる：集英社新書 ; 1098／集英社／2022.1／275p／NDC 498／practical・normal・medium
+- 他者と生きる：集英社新書 ; 1098／集英社／2022.1／275p／NDC 498／liberal_arts・normal・medium
 - 文明史のなかの明治憲法：ちくま学芸文庫 ; タ59-1／筑摩書房／2023.3／355,6p／NDC 323.13／liberal_arts・normal・medium
-- 世界インフレの謎：講談社現代新書 ; 2679／講談社／2022.10／269p／NDC 337.9／practical・normal・medium
+- 世界インフレの謎：講談社現代新書 ; 2679／講談社／2022.10／269p／NDC 337.9／liberal_arts・normal・medium
 - pray human：講談社文庫 ; ち10-2／講談社／2022.9／233p／NDC 913.6／novel・easy・short
+- 完本 1976年のアントニオ猪木：文春文庫 ; や43-1／文藝春秋／2009.3／493p／NDC 788.2／nonfiction・normal・long
+- パワーシフト：叢書なし／フジテレビ出版／1991.3／358p／NDC 361.5／liberal_arts・normal・long
+- ジャパン・アズ・ナンバーワン：未来ブックシリーズ／たちばな出版／2000.5／267p／NDC 304／liberal_arts・normal・medium
+- アメリカの鏡・日本：[角川ソフィア文庫] ; [M117-1]／KADOKAWA／2015.12／461p／NDC 302.1／liberal_arts・normal・long

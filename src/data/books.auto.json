@@ -7578,15 +7578,14 @@
     "title": "スマホ脳",
     "author": "アンデシュ・ハンセン",
     "genres": [
-      "liberal_arts"
+      "practical"
     ],
     "themes": [
       "practical",
       "world"
     ],
     "moods": [
-      "learning",
-      "wonder"
+      "learning"
     ],
     "difficulty": "easy",
     "length_category": "medium",
@@ -36268,14 +36267,15 @@
     "title": "江戸の家計簿",
     "author": "磯田道史",
     "genres": [
-      "practical"
+      "liberal_arts"
     ],
     "themes": [
       "world",
       "practical"
     ],
     "moods": [
-      "learning"
+      "learning",
+      "wonder"
     ],
     "difficulty": "easy",
     "length_category": "short",
@@ -37626,15 +37626,14 @@
     "title": "運動脳",
     "author": "アンデシュ・ハンセン",
     "genres": [
-      "liberal_arts"
+      "practical"
     ],
     "themes": [
       "practical",
       "world"
     ],
     "moods": [
-      "learning",
-      "wonder"
+      "learning"
     ],
     "difficulty": "easy",
     "length_category": "medium",
@@ -37654,14 +37653,13 @@
     "title": "脳を鍛えるには運動しかない!",
     "author": "ジョン・J・レイティ",
     "genres": [
-      "liberal_arts"
+      "practical"
     ],
     "themes": [
       "practical"
     ],
     "moods": [
-      "learning",
-      "wonder"
+      "learning"
     ],
     "difficulty": "normal",
     "length_category": "medium",
@@ -39097,7 +39095,7 @@
     "title": "脳はなにかと言い訳する",
     "author": "池谷裕二",
     "genres": [
-      "liberal_arts"
+      "practical"
     ],
     "themes": [
       "world",
@@ -39125,7 +39123,7 @@
     "title": "進化しすぎた脳",
     "author": "池谷裕二",
     "genres": [
-      "liberal_arts"
+      "practical"
     ],
     "themes": [
       "world"
@@ -39152,15 +39150,14 @@
     "title": "海馬",
     "author": "池谷裕二、糸井重里",
     "genres": [
-      "liberal_arts"
+      "practical"
     ],
     "themes": [
       "world",
       "life"
     ],
     "moods": [
-      "learning",
-      "wonder"
+      "learning"
     ],
     "difficulty": "easy",
     "length_category": "medium",
@@ -39180,7 +39177,7 @@
     "title": "単純な脳、複雑な「私」",
     "author": "池谷裕二",
     "genres": [
-      "liberal_arts"
+      "practical"
     ],
     "themes": [
       "world",
@@ -39207,7 +39204,7 @@
     "title": "意識はいつ生まれるのか",
     "author": "マルチェッロ・マッスィミーニ",
     "genres": [
-      "liberal_arts"
+      "practical"
     ],
     "themes": [
       "world"
@@ -56056,14 +56053,13 @@
     "title": "「わかる」とはどういうことか",
     "author": "山鳥重",
     "genres": [
-      "liberal_arts"
+      "practical"
     ],
     "themes": [
-      "world"
+      "practical"
     ],
     "moods": [
-      "learning",
-      "wonder"
+      "learning"
     ],
     "difficulty": "normal",
     "length_category": "short",
@@ -69453,14 +69449,13 @@
     "title": "唯脳論",
     "author": "養老孟司",
     "genres": [
-      "liberal_arts"
+      "practical"
     ],
     "themes": [
-      "world"
+      "practical"
     ],
     "moods": [
-      "learning",
-      "wonder"
+      "learning"
     ],
     "difficulty": "normal",
     "length_category": "medium",
@@ -74734,13 +74729,14 @@
     "title": "まぐれ",
     "author": "ナシーム・ニコラス・タレブ",
     "genres": [
-      "practical"
+      "liberal_arts"
     ],
     "themes": [
-      "practical"
+      "world"
     ],
     "moods": [
-      "learning"
+      "learning",
+      "wonder"
     ],
     "difficulty": "normal",
     "length_category": "medium",
@@ -93467,13 +93463,14 @@
     "title": "負債論",
     "author": "デヴィッド・グレーバー",
     "genres": [
-      "practical"
+      "liberal_arts"
     ],
     "themes": [
-      "practical"
+      "world"
     ],
     "moods": [
-      "learning"
+      "learning",
+      "wonder"
     ],
     "difficulty": "normal",
     "length_category": "long",
@@ -94088,13 +94085,14 @@
     "title": "お金の流れでわかる世界の歴史",
     "author": "大村大次郎",
     "genres": [
-      "practical"
+      "liberal_arts"
     ],
     "themes": [
-      "practical"
+      "world"
     ],
     "moods": [
-      "learning"
+      "learning",
+      "wonder"
     ],
     "difficulty": "normal",
     "length_category": "medium",
@@ -111803,13 +111801,14 @@
     "title": "サラ金の歴史",
     "author": "小島庸平",
     "genres": [
-      "practical"
+      "liberal_arts"
     ],
     "themes": [
-      "practical"
+      "world"
     ],
     "moods": [
-      "learning"
+      "learning",
+      "wonder"
     ],
     "difficulty": "normal",
     "length_category": "medium",
@@ -111829,13 +111828,14 @@
     "title": "物価とは何か",
     "author": "渡辺努",
     "genres": [
-      "practical"
+      "liberal_arts"
     ],
     "themes": [
-      "practical"
+      "world"
     ],
     "moods": [
-      "learning"
+      "learning",
+      "wonder"
     ],
     "difficulty": "normal",
     "length_category": "medium",
@@ -122026,14 +122026,13 @@
     "title": "フューチャー・オブ・マインド",
     "author": "ミチオ・カク",
     "genres": [
-      "liberal_arts"
+      "practical"
     ],
     "themes": [
-      "world"
+      "practical"
     ],
     "moods": [
-      "learning",
-      "wonder"
+      "learning"
     ],
     "difficulty": "normal",
     "length_category": "long",
@@ -122080,14 +122079,13 @@
     "title": "あなたの知らない脳",
     "author": "デイヴィッド・イーグルマン",
     "genres": [
-      "liberal_arts"
+      "practical"
     ],
     "themes": [
-      "world"
+      "practical"
     ],
     "moods": [
-      "learning",
-      "wonder"
+      "learning"
     ],
     "difficulty": "normal",
     "length_category": "medium",
@@ -133024,13 +133022,14 @@
     "title": "貨幣論",
     "author": "岩井克人",
     "genres": [
-      "practical"
+      "liberal_arts"
     ],
     "themes": [
-      "practical"
+      "world"
     ],
     "moods": [
-      "learning"
+      "learning",
+      "wonder"
     ],
     "difficulty": "normal",
     "length_category": "short",
@@ -137125,14 +137124,13 @@
     "title": "脳と仮想",
     "author": "茂木健一郎",
     "genres": [
-      "liberal_arts"
+      "practical"
     ],
     "themes": [
-      "world"
+      "practical"
     ],
     "moods": [
-      "learning",
-      "wonder"
+      "learning"
     ],
     "difficulty": "normal",
     "length_category": "medium",
@@ -149058,14 +149056,13 @@
     "title": "脳のなかの幽霊",
     "author": "V・S・ラマチャンドラン",
     "genres": [
-      "liberal_arts"
+      "practical"
     ],
     "themes": [
-      "world"
+      "practical"
     ],
     "moods": [
-      "learning",
-      "wonder"
+      "learning"
     ],
     "difficulty": "normal",
     "length_category": "medium",
@@ -151591,13 +151588,14 @@
     "title": "グローバル資本主義の危機",
     "author": "ジョージ・ソロス",
     "genres": [
-      "practical"
+      "liberal_arts"
     ],
     "themes": [
-      "practical"
+      "world"
     ],
     "moods": [
-      "learning"
+      "learning",
+      "wonder"
     ],
     "difficulty": "normal",
     "length_category": "medium",
@@ -152696,14 +152694,13 @@
     "title": "あなたの脳のはなし",
     "author": "デイヴィッド・イーグルマン",
     "genres": [
-      "liberal_arts"
+      "practical"
     ],
     "themes": [
-      "world"
+      "practical"
     ],
     "moods": [
-      "learning",
-      "wonder"
+      "learning"
     ],
     "difficulty": "normal",
     "length_category": "medium",
@@ -152723,14 +152720,13 @@
     "title": "意識と脳",
     "author": "スタニスラス・ドゥアンヌ",
     "genres": [
-      "liberal_arts"
+      "practical"
     ],
     "themes": [
-      "world"
+      "practical"
     ],
     "moods": [
-      "learning",
-      "wonder"
+      "learning"
     ],
     "difficulty": "normal",
     "length_category": "long",
@@ -152750,14 +152746,13 @@
     "title": "記憶力を強くする",
     "author": "池谷裕二",
     "genres": [
-      "liberal_arts"
+      "practical"
     ],
     "themes": [
-      "world"
+      "practical"
     ],
     "moods": [
-      "learning",
-      "wonder"
+      "learning"
     ],
     "difficulty": "normal",
     "length_category": "medium",
@@ -152777,14 +152772,13 @@
     "title": "脳には妙なクセがある",
     "author": "池谷裕二",
     "genres": [
-      "liberal_arts"
+      "practical"
     ],
     "themes": [
-      "world"
+      "practical"
     ],
     "moods": [
-      "learning",
-      "wonder"
+      "learning"
     ],
     "difficulty": "normal",
     "length_category": "medium",
@@ -165933,14 +165927,13 @@
     "title": "進化の意外な順序",
     "author": "アントニオ・ダマシオ",
     "genres": [
-      "liberal_arts"
+      "practical"
     ],
     "themes": [
-      "world"
+      "practical"
     ],
     "moods": [
-      "learning",
-      "wonder"
+      "learning"
     ],
     "difficulty": "normal",
     "length_category": "medium",
@@ -202782,14 +202775,13 @@
     "title": "意識と自己",
     "author": "アントニオ・ダマシオ",
     "genres": [
-      "liberal_arts"
+      "practical"
     ],
     "themes": [
-      "world"
+      "practical"
     ],
     "moods": [
-      "learning",
-      "wonder"
+      "learning"
     ],
     "difficulty": "normal",
     "length_category": "medium",
@@ -204482,13 +204474,14 @@
     "title": "他者と生きる",
     "author": "磯野真穂",
     "genres": [
-      "practical"
+      "liberal_arts"
     ],
     "themes": [
-      "practical"
+      "world"
     ],
     "moods": [
-      "learning"
+      "learning",
+      "wonder"
     ],
     "difficulty": "normal",
     "length_category": "medium",
@@ -204535,13 +204528,14 @@
     "title": "世界インフレの謎",
     "author": "渡辺努",
     "genres": [
-      "practical"
+      "liberal_arts"
     ],
     "themes": [
-      "practical"
+      "world"
     ],
     "moods": [
-      "learning"
+      "learning",
+      "wonder"
     ],
     "difficulty": "normal",
     "length_category": "medium",
@@ -204582,5 +204576,113 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 233
+  },
+  {
+    "book_id": "isbn-9784167753658",
+    "title": "完本 1976年のアントニオ猪木",
+    "author": "柳澤健",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167753658",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010057114",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 493
+  },
+  {
+    "book_id": "isbn-9784594006532",
+    "title": "パワーシフト",
+    "author": "アルビン・トフラー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784594006532",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002217375",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "フジテレビ出版",
+    "pages": 358
+  },
+  {
+    "book_id": "isbn-9784813311980",
+    "title": "ジャパン・アズ・ナンバーワン",
+    "author": "エズラ・F・ヴォーゲル",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784813311980",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002942202",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "たちばな出版",
+    "pages": 267
+  },
+  {
+    "book_id": "isbn-9784044000042",
+    "title": "アメリカの鏡・日本",
+    "author": "ヘレン・ミアーズ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784044000042",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026961482",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 461
   }
 ]
