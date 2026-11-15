@@ -204632,33 +204632,6 @@
     "pages": 233
   },
   {
-    "book_id": "isbn-9784167753658",
-    "title": "完本 1976年のアントニオ猪木",
-    "author": "柳澤健",
-    "genres": [
-      "nonfiction"
-    ],
-    "themes": [
-      "world"
-    ],
-    "moods": [
-      "wonder",
-      "learning"
-    ],
-    "difficulty": "normal",
-    "length_category": "long",
-    "description": "",
-    "recommendation_reasons": [],
-    "cover_image_url": null,
-    "purchase_url": null,
-    "isbn": "9784167753658",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010057114",
-    "metadata_verified": true,
-    "tier": "basic",
-    "publisher": "文藝春秋",
-    "pages": 493
-  },
-  {
     "book_id": "isbn-9784594006532",
     "title": "パワーシフト",
     "author": "アルビン・トフラー",
@@ -205084,5 +205057,615 @@
     "tier": "basic",
     "publisher": "岩波書店",
     "pages": 268
+  },
+  {
+    "book_id": "isbn-9784152099556",
+    "title": "ボーン・クロックス",
+    "author": "デイヴィッド・ミッチェル",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784152099556",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030557940",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 646
+  },
+  {
+    "book_id": "isbn-9784488406240",
+    "title": "ボーンヤードは語らない",
+    "author": "市川憂人",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488406240",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033527424",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 365
+  },
+  {
+    "book_id": "isbn-9784326154166",
+    "title": "アイデンティティと暴力",
+    "author": "アマルティア・セン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784326154166",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011227138",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "勁草書房",
+    "pages": 280
+  },
+  {
+    "book_id": "isbn-9784334746773",
+    "title": "片耳うさぎ",
+    "author": "大崎梢",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334746773",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010609018",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784167902032",
+    "title": "プリティが多すぎる",
+    "author": "大崎梢",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167902032",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025798467",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 301
+  },
+  {
+    "book_id": "isbn-9784334776619",
+    "title": "江ノ島西浦写真館",
+    "author": "三上延",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334776619",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028993808",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 273
+  },
+  {
+    "book_id": "isbn-9784003271711",
+    "title": "休戦",
+    "author": "プリーモ・レーヴィ",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003271711",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010999643",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 380
+  },
+  {
+    "book_id": "isbn-9784488737016",
+    "title": "MM9",
+    "author": "山本弘",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488737016",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010903398",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 358
+  },
+  {
+    "book_id": "isbn-9784569678870",
+    "title": "去年はいい年になるだろう",
+    "author": "山本弘",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784569678870",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023917096",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "PHP研究所",
+    "pages": 295
+  },
+  {
+    "book_id": "isbn-9784150116606",
+    "title": "拷問者の影",
+    "author": "ジーン・ウルフ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150116606",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023002457",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 478
+  },
+  {
+    "book_id": "isbn-9784003255346",
+    "title": "博物誌",
+    "author": "ルナール",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003255346",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002692256",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784480098450",
+    "title": "紀貫之",
+    "author": "大岡信",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480098450",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028785682",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 275
+  },
+  {
+    "book_id": "isbn-9784763140395",
+    "title": "やさしさを忘れぬうちに",
+    "author": "川口俊和",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784763140395",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032680302",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "サンマーク出版",
+    "pages": 283
+  },
+  {
+    "book_id": "isbn-9784062730334",
+    "title": "熾天使の夏",
+    "author": "笠井潔",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062730334",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002955442",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 236
+  },
+  {
+    "book_id": "isbn-9784488266066",
+    "title": "湖の男",
+    "author": "アーナルデュル・インドリダソン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488266066",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030298185",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 490
+  },
+  {
+    "book_id": "isbn-9784877143510",
+    "title": "虹の鳥",
+    "author": "目取真俊",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784877143510",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008228232",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "影書房",
+    "pages": 220
+  },
+  {
+    "book_id": "isbn-9784622085195",
+    "title": "罪と罰の彼岸",
+    "author": "ジャン・アメリー",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784622085195",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027623085",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "みすず書房",
+    "pages": 212
+  },
+  {
+    "book_id": "isbn-9784480431066",
+    "title": "ジェイン・オースティンの読書会",
+    "author": "カレン・ジョイ・ファウラー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480431066",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024956237",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 475
+  },
+  {
+    "book_id": "isbn-9784062766517",
+    "title": "ミノタウロス",
+    "author": "佐藤亜紀",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062766517",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010857833",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 383
+  },
+  {
+    "book_id": "isbn-9784789715379",
+    "title": "ダーウィンの使者",
+    "author": "グレッグ・ベア",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784789715379",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002877926",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ソニー・マガジンズ",
+    "pages": 385
+  },
+  {
+    "book_id": "isbn-9784061982093",
+    "title": "王道",
+    "author": "アンドレ・マルロー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061982093",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002880029",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 275
+  },
+  {
+    "book_id": "isbn-9784309463131",
+    "title": "花のノートルダム",
+    "author": "ジャン・ジュネ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309463131",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009919895",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 399
+  },
+  {
+    "book_id": "isbn-9784105901509",
+    "title": "最初の悪い男",
+    "author": "ミランダ・ジュライ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784105901509",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029140711",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 346
   }
 ]
