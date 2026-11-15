@@ -203100,7 +203100,7 @@
     "title": "歌よみに与ふる書",
     "author": "正岡子規",
     "genres": [
-      "novel"
+      "liberal_arts"
     ],
     "themes": [
       "life"
@@ -203173,5 +203173,432 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 428
+  },
+  {
+    "book_id": "isbn-9784560070956",
+    "title": "悲しき酒場の唄",
+    "author": "カーソン・マッカラーズ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784560070956",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002175648",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白水社",
+    "pages": 177
+  },
+  {
+    "book_id": "isbn-9784488663179",
+    "title": "内なる宇宙",
+    "author": "ジェイムズ・P・ホーガン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488663179",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002627984",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 384
+  },
+  {
+    "book_id": "isbn-9784150117252",
+    "title": "泰平ヨンの航星日記",
+    "author": "スタニスワフ・レム",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150117252",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010558470",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 555
+  },
+  {
+    "book_id": "isbn-9784094072839",
+    "title": "始まりの木",
+    "author": "夏川草介",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094072839",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032951570",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 373
+  },
+  {
+    "book_id": "isbn-9784101229317",
+    "title": "8月の果て",
+    "author": "柳美里",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101229317",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008436802",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 552
+  },
+  {
+    "book_id": "isbn-9784101069234",
+    "title": "トリツカレ男",
+    "author": "いしいしんじ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101069234",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008142160",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 160
+  },
+  {
+    "book_id": "isbn-9784845914333",
+    "title": "天才たちの日課",
+    "author": "メイソン・カリー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784845914333",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025951706",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "フィルムアート社",
+    "pages": 358
+  },
+  {
+    "book_id": "isbn-9784488525040",
+    "title": "太陽の石",
+    "author": "乾石智子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488525040",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026619424",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 300
+  },
+  {
+    "book_id": "isbn-9784061960817",
+    "title": "鞄の中身",
+    "author": "吉行淳之介",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061960817",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002044118",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 301
+  },
+  {
+    "book_id": "isbn-9784103243113",
+    "title": "原色の街",
+    "author": "吉行淳之介",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784103243113",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I10111100333415",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 169
+  },
+  {
+    "book_id": "isbn-9784314011785",
+    "title": "ママ、最後の抱擁",
+    "author": "フランス・ドゥ・ヴァール",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784314011785",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030617944",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "紀伊國屋書店",
+    "pages": 405
+  },
+  {
+    "book_id": "isbn-9784101070711",
+    "title": "リリアン",
+    "author": "岸政彦",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101070711",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034833035",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 479
+  },
+  {
+    "book_id": "isbn-9784103507215",
+    "title": "ビニール傘",
+    "author": "岸政彦",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784103507215",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027849212",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 124
+  },
+  {
+    "book_id": "isbn-9784622010821",
+    "title": "隠喩としての病い",
+    "author": "スーザン・ソンタグ",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784622010821",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001554370",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "みすず書房",
+    "pages": 157
+  },
+  {
+    "book_id": "isbn-9784480428349",
+    "title": "ボディ・アーティスト",
+    "author": "ドン・デリーロ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480428349",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011246453",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 217
+  },
+  {
+    "book_id": "isbn-9784894393097",
+    "title": "マオII",
+    "author": "ドン・デリーロ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784894393097",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971712334730968733",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "本の友社",
+    "pages": null
   }
 ]
