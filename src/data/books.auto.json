@@ -211517,5 +211517,329 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 296
+  },
+  {
+    "book_id": "isbn-9784102401415",
+    "title": "インスマスの影",
+    "author": "H・P・ラヴクラフト",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102401415",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029793087",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 527
+  },
+  {
+    "book_id": "isbn-9784102401422",
+    "title": "狂気の山脈にて",
+    "author": "H・P・ラヴクラフト",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102401422",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030762883",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 437
+  },
+  {
+    "book_id": "isbn-9784150115333",
+    "title": "啓示空間",
+    "author": "アレステア・レナルズ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150115333",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007942795",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 1039
+  },
+  {
+    "book_id": "isbn-9784150404642",
+    "title": "夜明けのヴァンパイア",
+    "author": "アン・ライス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150404642",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001882544",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 554
+  },
+  {
+    "book_id": "isbn-9784336047410",
+    "title": "ダールグレン",
+    "author": "サミュエル・R・ディレイニー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784336047410",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011225436",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "国書刊行会",
+    "pages": 477
+  },
+  {
+    "book_id": "isbn-9784150111489",
+    "title": "アインシュタイン交点",
+    "author": "サミュエル・R・ディレイニー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150111489",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002516648",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 284
+  },
+  {
+    "book_id": "isbn-9784150118440",
+    "title": "七王国の玉座",
+    "author": "ジョージ・R・R・マーティン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150118440",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023491766",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 702
+  },
+  {
+    "book_id": "isbn-9784041078440",
+    "title": "アメリカン・ゴッズ",
+    "author": "ニール・ゲイマン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041078440",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030487335",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 446
+  },
+  {
+    "book_id": "isbn-9784041083833",
+    "title": "グッド・オーメンズ",
+    "author": "ニール・ゲイマン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041083833",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029664325",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 341
+  },
+  {
+    "book_id": "isbn-9784150205881",
+    "title": "風の名前",
+    "author": "パトリック・ロスファス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150205881",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028038151",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 287
+  },
+  {
+    "book_id": "isbn-9784150204952",
+    "title": "ミストボーン",
+    "author": "ブランドン・サンダースン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150204952",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010123315",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 429
+  },
+  {
+    "book_id": "isbn-9784806030263",
+    "title": "エルフランドの王女",
+    "author": "ロード・ダンセイニ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784806030263",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028642438",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "沖積舎",
+    "pages": 329
   }
 ]
