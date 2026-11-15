@@ -1,8 +1,8 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-15T09:31:16.726Z
-- 候補：8671冊
-- 入れた本：7891冊
+- 検索日時：2026-11-15T09:56:04.806Z
+- 候補：8694冊
+- 入れた本：7914冊
 - 入れなかった本：780冊
 
 ## 入れなかった本
@@ -8681,3 +8681,26 @@
 - 瞼の母：長谷川伸傑作選／国書刊行会／2008.5／344p／NDC 912.6／novel・normal・medium
 - 妖棋伝：時代小説文庫 ; 51,52／富士見書房／1985.7／2冊／NDC 913.6／novel・normal・medium
 - 妻は、くノ一：角川文庫 ; 15465／角川書店、角川グループパブリッシング (発売)／2008.12／254p／NDC 913.6／novel・easy・medium
+- 生命の跳躍：叢書なし／みすず書房／2010.12／436, 34p／NDC 467.5／liberal_arts・normal・medium
+- ミトコンドリアが進化を決めた：叢書なし／みすず書房／2007.12／476, 48p／NDC 463.3／liberal_arts・normal・long
+- サブリミナル・マインド：叢書なし／中央公論新社／2003.10／ページ数不明／NDC 145.1／liberal_arts・normal・medium
+- クォーク：ブルーバックス／講談社／1998.2／316p／NDC 429.6／liberal_arts・normal・medium
+- すごい実験：中公文庫 ; た95-2／中央公論新社／2020.12／315p／NDC 429／liberal_arts・normal・medium
+- 科学者は戦争で何をしたか：集英社新書 ; 0799／集英社／2015.8／183p／NDC 407／liberal_arts・normal・short
+- 植物はすごい：中公新書 ; 2174／中央公論新社／2012.7／236p／NDC 471.3／liberal_arts・normal・short
+- 僕には鳥の言葉がわかる：叢書なし／小学館／2025.1／263p／NDC 488.99／liberal_arts・normal・medium
+- 不自然な宇宙：ブルーバックス ; B-2084／講談社／2019.1／230p／NDC 443.9／liberal_arts・normal・short
+- 脳内麻薬：幻冬舎新書 ; な-17-1／幻冬舎／2014.1／174p／NDC 491.371／practical・normal・short
+- 宇宙論入門：岩波新書／岩波書店／2008.11／215p／NDC 443.9／liberal_arts・normal・short
+- 資本主義はなぜ自壊したのか：集英社文庫 ; な36-2／集英社／2011.1／446p／NDC 332.06／liberal_arts・normal・medium
+- キングの時代：岩波現代文庫. 学術 ; 414／岩波書店／2020.1／556,13p／NDC 051.6／liberal_arts・normal・long
+- 輿論と世論：新潮選書／新潮社／2008.9／350p／NDC 361.47／liberal_arts・normal・medium
+- 人口と日本経済：中公新書 ; 2388／中央公論新社／2016.8／198p／NDC 332.107／liberal_arts・normal・short
+- 都市のドラマトゥルギー：河出文庫／河出書房新社／2008.12／423p／NDC 361.78／liberal_arts・normal・medium
+- 南京事件：中公新書／中央公論社／1986.2／269p／NDC 210.7／liberal_arts・normal・medium
+- 新・日本の階級社会：講談社現代新書 ; 2461／講談社／2018.1／305p／NDC 361.8／liberal_arts・normal・medium
+- アンダークラス：ちくま新書 ; 1371／筑摩書房／2018.12／250p／NDC 361.8／liberal_arts・normal・medium
+- ザイム真理教：叢書なし／三五館シンシャ、フォレスト出版／2023.6／190p／NDC 342.1／liberal_arts・normal・short
+- 年収300万円時代を生き抜く経済学：知恵の森文庫／光文社／2005.5／288p／NDC 332.107／liberal_arts・normal・medium
+- 後藤新平：中公新書／中央公論社／1988.6／252p／NDC 289.1／nonfiction,liberal_arts・normal・medium
+- 権力の館を歩く：ちくま文庫 ; み32-1／筑摩書房／2013.12／425p／NDC 312.1／liberal_arts・normal・medium

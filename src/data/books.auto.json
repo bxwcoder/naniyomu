@@ -209762,5 +209762,626 @@
     "tier": "basic",
     "publisher": "角川書店",
     "pages": 254
+  },
+  {
+    "book_id": "isbn-9784622075752",
+    "title": "生命の跳躍",
+    "author": "ニック・レーン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784622075752",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011069611",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "みすず書房",
+    "pages": 436
+  },
+  {
+    "book_id": "isbn-9784622073406",
+    "title": "ミトコンドリアが進化を決めた",
+    "author": "ニック・レーン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784622073406",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009220573",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "みすず書房",
+    "pages": 476
+  },
+  {
+    "book_id": "isbn-9784121400086",
+    "title": "サブリミナル・マインド",
+    "author": "下條信輔",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121400086",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434815474702",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784062572057",
+    "title": "クォーク",
+    "author": "南部陽一郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062572057",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002680218",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 316
+  },
+  {
+    "book_id": "isbn-9784122070059",
+    "title": "すごい実験",
+    "author": "多田将",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122070059",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030805072",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 315
+  },
+  {
+    "book_id": "isbn-9784087207996",
+    "title": "科学者は戦争で何をしたか",
+    "author": "益川敏英",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087207996",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026613314",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 183
+  },
+  {
+    "book_id": "isbn-9784121021748",
+    "title": "植物はすごい",
+    "author": "田中修",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121021748",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023802795",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 236
+  },
+  {
+    "book_id": "isbn-9784093891844",
+    "title": "僕には鳥の言葉がわかる",
+    "author": "鈴木俊貴",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784093891844",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033880717",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 263
+  },
+  {
+    "book_id": "isbn-9784065144657",
+    "title": "不自然な宇宙",
+    "author": "須藤靖",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065144657",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029421064",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 230
+  },
+  {
+    "book_id": "isbn-9784344983359",
+    "title": "脳内麻薬",
+    "author": "中野信子",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344983359",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025151229",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 174
+  },
+  {
+    "book_id": "isbn-9784004311614",
+    "title": "宇宙論入門",
+    "author": "佐藤勝彦",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004311614",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010004797",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 215
+  },
+  {
+    "book_id": "isbn-9784087466539",
+    "title": "資本主義はなぜ自壊したのか",
+    "author": "中谷巌",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087466539",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011094329",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 446
+  },
+  {
+    "book_id": "isbn-9784006004149",
+    "title": "キングの時代",
+    "author": "佐藤卓己",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784006004149",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030132546",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 556
+  },
+  {
+    "book_id": "isbn-9784106036170",
+    "title": "輿論と世論",
+    "author": "佐藤卓己",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784106036170",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009607070",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 350
+  },
+  {
+    "book_id": "isbn-9784121023889",
+    "title": "人口と日本経済",
+    "author": "吉川洋",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121023889",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027521908",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 198
+  },
+  {
+    "book_id": "isbn-9784309409375",
+    "title": "都市のドラマトゥルギー",
+    "author": "吉見俊哉",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309409375",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009919808",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 423
+  },
+  {
+    "book_id": "isbn-9784121007957",
+    "title": "南京事件",
+    "author": "秦郁彦",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121007957",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001789300",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 269
+  },
+  {
+    "book_id": "isbn-9784062884617",
+    "title": "新・日本の階級社会",
+    "author": "橋本健二",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062884617",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028740546",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 305
+  },
+  {
+    "book_id": "isbn-9784480071873",
+    "title": "アンダークラス",
+    "author": "橋本健二",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480071873",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029355400",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 250
+  },
+  {
+    "book_id": "isbn-9784866809311",
+    "title": "ザイム真理教",
+    "author": "森永卓郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784866809311",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032807837",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "三五館シンシャ",
+    "pages": 190
+  },
+  {
+    "book_id": "isbn-9784334783556",
+    "title": "年収300万円時代を生き抜く経済学",
+    "author": "森永卓郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334783556",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007727762",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 288
+  },
+  {
+    "book_id": "isbn-9784121008817",
+    "title": "後藤新平",
+    "author": "北岡伸一",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121008817",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001931518",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 252
+  },
+  {
+    "book_id": "isbn-9784480431240",
+    "title": "権力の館を歩く",
+    "author": "御厨貴",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480431240",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025046666",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 425
   }
 ]
