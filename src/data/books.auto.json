@@ -204289,5 +204289,298 @@
     "tier": "basic",
     "publisher": "文芸春秋",
     "pages": 470
+  },
+  {
+    "book_id": "isbn-9784167193072",
+    "title": "峠の群像",
+    "author": "堺屋太一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167193072",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001835501",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 376
+  },
+  {
+    "book_id": "isbn-9784167193140",
+    "title": "豊臣秀長",
+    "author": "堺屋太一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167193140",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002241847",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 341
+  },
+  {
+    "book_id": "isbn-9784122048614",
+    "title": "地獄の思想",
+    "author": "梅原猛",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122048614",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008588063",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 266
+  },
+  {
+    "book_id": "isbn-9784087462531",
+    "title": "在日",
+    "author": "姜尚中",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087462531",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009241979",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784834014426",
+    "title": "エルマーとりゅう",
+    "author": "ルース・スタイルス・ガネット",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784834014426",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002602042",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "福音館書店",
+    "pages": 119
+  },
+  {
+    "book_id": "isbn-9784198604493",
+    "title": "カードミステリー",
+    "author": "ヨースタイン・ゴルデル",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198604493",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002491219",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 387
+  },
+  {
+    "book_id": "isbn-9784101030517",
+    "title": "姫君を喰う話",
+    "author": "宇能鴻一郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101030517",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031557847",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 373
+  },
+  {
+    "book_id": "isbn-9784087211986",
+    "title": "他者と生きる",
+    "author": "磯野真穂",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087211986",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031889064",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 275
+  },
+  {
+    "book_id": "isbn-9784480511744",
+    "title": "文明史のなかの明治憲法",
+    "author": "瀧井一博",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480511744",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032678021",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 355
+  },
+  {
+    "book_id": "isbn-9784065294383",
+    "title": "世界インフレの謎",
+    "author": "渡辺努",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065294383",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032417712",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 269
+  },
+  {
+    "book_id": "isbn-9784065286142",
+    "title": "pray human",
+    "author": "崔実",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065286142",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032355189",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 233
   }
 ]
