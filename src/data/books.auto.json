@@ -72954,6 +72954,33 @@
     "pages": 160
   },
   {
+    "book_id": "isbn-9784832241190",
+    "title": "ご注文はうさぎですか?",
+    "author": "Koi",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784832241190",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023440575",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "芳文社",
+    "pages": 116
+  },
+  {
     "book_id": "isbn-9784063886900",
     "title": "とんがり帽子のアトリエ",
     "author": "白浜鴎",
@@ -79672,6 +79699,32 @@
     "tier": "basic",
     "publisher": "集英社",
     "pages": 302
+  },
+  {
+    "book_id": "isbn-9784041141472",
+    "title": "777",
+    "author": "伊坂幸太郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041141472",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033037758",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 293
   },
   {
     "book_id": "isbn-9784102451151",
@@ -191591,6 +191644,33 @@
     "pages": 319
   },
   {
+    "book_id": "isbn-9784150106652",
+    "title": "神々自身",
+    "author": "アイザック・アシモフ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150106652",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001800211",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 432
+  },
+  {
     "book_id": "isbn-9784488167097",
     "title": "黒後家蜘蛛の会",
     "author": "アイザック・アシモフ",
@@ -191797,6 +191877,32 @@
     "tier": "basic",
     "publisher": "東京創元社",
     "pages": 518
+  },
+  {
+    "book_id": "isbn-9784150707286",
+    "title": "直線",
+    "author": "ディック・フランシス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150707286",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002441033",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 471
   },
   {
     "book_id": "isbn-9784150707231",
