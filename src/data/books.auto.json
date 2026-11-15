@@ -197106,5 +197106,510 @@
     "tier": "basic",
     "publisher": "文藝春秋",
     "pages": 679
+  },
+  {
+    "book_id": "isbn-9784198923211",
+    "title": "駿河城御前試合",
+    "author": "南條範夫",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198923211",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007943067",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 541
+  },
+  {
+    "book_id": "isbn-9784101456270",
+    "title": "謎の母",
+    "author": "久世光彦",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101456270",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003004046",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 264
+  },
+  {
+    "book_id": "isbn-9784488433130",
+    "title": "定価のない本",
+    "author": "門井慶喜",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488433130",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032422393",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 367
+  },
+  {
+    "book_id": "isbn-9784041075371",
+    "title": "夜の淵をひと廻り",
+    "author": "真藤順丈",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041075371",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029320024",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 416
+  },
+  {
+    "book_id": "isbn-9784041145043",
+    "title": "幻月と探偵",
+    "author": "伊吹亜門",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041145043",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033502696",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 359
+  },
+  {
+    "book_id": "isbn-9784094067255",
+    "title": "ツタよ、ツタ",
+    "author": "大島真寿美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094067255",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030087856",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 333
+  },
+  {
+    "book_id": "isbn-9784041898048",
+    "title": "ブルース",
+    "author": "花村萬月",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041898048",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002715494",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 566
+  },
+  {
+    "book_id": "isbn-9784167567057",
+    "title": "名君の碑",
+    "author": "中村彰彦",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167567057",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003035147",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 698
+  },
+  {
+    "book_id": "isbn-9784062635998",
+    "title": "物書同心居眠り紋蔵",
+    "author": "佐藤雅美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062635998",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002607643",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 367
+  },
+  {
+    "book_id": "isbn-9784087488166",
+    "title": "会津士魂",
+    "author": "早乙女貢",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087488166",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002712044",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 343
+  },
+  {
+    "book_id": "isbn-9784408550084",
+    "title": "ある日、アヒルバス",
+    "author": "山本幸久",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784408550084",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010999393",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "実業之日本社",
+    "pages": 476
+  },
+  {
+    "book_id": "isbn-9784065423288",
+    "title": "ちぎれた鎖と光の切れ端",
+    "author": "荒木あかね",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065423288",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034641915",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 564
+  },
+  {
+    "book_id": "isbn-9784061362222",
+    "title": "猟人日記",
+    "author": "戸川昌子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061362222",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001541583",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 253
+  },
+  {
+    "book_id": "isbn-9784309417837",
+    "title": "さざなみのよる",
+    "author": "木皿泉",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309417837",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030709808",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 241
+  },
+  {
+    "book_id": "isbn-9784101055725",
+    "title": "沈むフランシス",
+    "author": "松家仁之",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101055725",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033944571",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 207
+  },
+  {
+    "book_id": "isbn-9784887597334",
+    "title": "賢者の書",
+    "author": "喜多川泰",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784887597334",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010440210",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ディスカヴァー・トゥエンティワン",
+    "pages": 219
+  },
+  {
+    "book_id": "isbn-9784799324509",
+    "title": "運転者",
+    "author": "喜多川泰",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784799324509",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029593491",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ディスカヴァー・トゥエンティワン",
+    "pages": 239
+  },
+  {
+    "book_id": "isbn-9784478039670",
+    "title": "シリコンバレー式自分を変える最強の食事",
+    "author": "デイヴ・アスプリー",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784478039670",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026730074",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ダイヤモンド社",
+    "pages": 331
+  },
+  {
+    "book_id": "isbn-9784022511980",
+    "title": "頭に来てもアホとは戦うな!",
+    "author": "田村耕太郎",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022511980",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025534302",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 221
   }
 ]
