@@ -231539,5 +231539,86 @@
     "tier": "basic",
     "publisher": "アスキー・メディアワークス",
     "pages": 375
+  },
+  {
+    "book_id": "isbn-9784480432858",
+    "title": "ザ・フィフティーズ",
+    "author": "デイヴィッド・ハルバースタム",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480432858",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026613283",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 513
+  },
+  {
+    "book_id": "isbn-9784255008950",
+    "title": "テロリストの息子",
+    "author": "ザック・エブラヒム",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784255008950",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026943633",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日出版社",
+    "pages": 185
+  },
+  {
+    "book_id": "isbn-9784492444696",
+    "title": "ストーリーが世界を滅ぼす",
+    "author": "ジョナサン・ゴットシャル",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784492444696",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032274624",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東洋経済新報社",
+    "pages": 268
   }
 ]
