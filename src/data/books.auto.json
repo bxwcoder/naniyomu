@@ -254657,5 +254657,760 @@
     "tier": "basic",
     "publisher": "集英社",
     "pages": 209
+  },
+  {
+    "book_id": "isbn-9784122051379",
+    "title": "夜の公園",
+    "author": "川上弘美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122051379",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010188169",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 238
+  },
+  {
+    "book_id": "isbn-9784087466843",
+    "title": "風花",
+    "author": "川上弘美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087466843",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011174897",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 309
+  },
+  {
+    "book_id": "isbn-9784101292427",
+    "title": "パスタマシーンの幽霊",
+    "author": "川上弘美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101292427",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024435305",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 296
+  },
+  {
+    "book_id": "isbn-9784022647771",
+    "title": "七夜物語",
+    "author": "川上弘美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022647771",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026330821",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 296
+  },
+  {
+    "book_id": "isbn-9784167908812",
+    "title": "水声",
+    "author": "川上弘美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167908812",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028300699",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 253
+  },
+  {
+    "book_id": "isbn-9784167916077",
+    "title": "森へ行きましょう",
+    "author": "川上弘美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167916077",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030768210",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 570
+  },
+  {
+    "book_id": "isbn-9784122074149",
+    "title": "三度目の恋",
+    "author": "川上弘美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122074149",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033042574",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 460
+  },
+  {
+    "book_id": "isbn-9784065324387",
+    "title": "恋ははかない、あるいは、プールの底のステーキ",
+    "author": "川上弘美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065324387",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032987432",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 291
+  },
+  {
+    "book_id": "isbn-9784122044432",
+    "title": "完璧な病室",
+    "author": "小川洋子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122044432",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007586965",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 244
+  },
+  {
+    "book_id": "isbn-9784122020863",
+    "title": "シュガータイム",
+    "author": "小川洋子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122020863",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002330725",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 215
+  },
+  {
+    "book_id": "isbn-9784344430037",
+    "title": "口笛の上手な白雪姫",
+    "author": "小川洋子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344430037",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030534595",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 229
+  },
+  {
+    "book_id": "isbn-9784022652560",
+    "title": "小箱",
+    "author": "小川洋子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022652560",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034895554",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 227
+  },
+  {
+    "book_id": "isbn-9784087448818",
+    "title": "掌に眠る舞台",
+    "author": "小川洋子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087448818",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034653739",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 294
+  },
+  {
+    "book_id": "isbn-9784087451023",
+    "title": "原稿零枚日記",
+    "author": "小川洋子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087451023",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024717761",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 270
+  },
+  {
+    "book_id": "isbn-9784309419114",
+    "title": "約束された移動",
+    "author": "小川洋子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309419114",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032288146",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 233
+  },
+  {
+    "book_id": "isbn-9784167558055",
+    "title": "姫君",
+    "author": "山田詠美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167558055",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007348212",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 261
+  },
+  {
+    "book_id": "isbn-9784101036267",
+    "title": "学問",
+    "author": "山田詠美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101036267",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023412045",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 369
+  },
+  {
+    "book_id": "isbn-9784344413528",
+    "title": "無銭優雅",
+    "author": "山田詠美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344413528",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010716427",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 238
+  },
+  {
+    "book_id": "isbn-9784344423824",
+    "title": "明日死ぬかもしれない自分、そしてあなたたち",
+    "author": "山田詠美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344423824",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026592698",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 283
+  },
+  {
+    "book_id": "isbn-9784101036274",
+    "title": "血も涙もある",
+    "author": "山田詠美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101036274",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032991854",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 270
+  },
+  {
+    "book_id": "isbn-9784480804105",
+    "title": "冠・婚・葬・祭",
+    "author": "中島京子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480804105",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009124505",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 236
+  },
+  {
+    "book_id": "isbn-9784087466188",
+    "title": "平成大家族",
+    "author": "中島京子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087466188",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010993287",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 315
+  },
+  {
+    "book_id": "isbn-9784062935500",
+    "title": "妻が椎茸だったころ",
+    "author": "中島京子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062935500",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027756934",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 174
+  },
+  {
+    "book_id": "isbn-9784122067141",
+    "title": "彼女に関する十二章",
+    "author": "中島京子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122067141",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029559346",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 276
+  },
+  {
+    "book_id": "isbn-9784041143773",
+    "title": "ムーンライト・イン",
+    "author": "中島京子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041143773",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033201790",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 389
+  },
+  {
+    "book_id": "isbn-9784087718591",
+    "title": "うらはぐさ風土記",
+    "author": "中島京子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087718591",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033340846",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 273
+  },
+  {
+    "book_id": "isbn-9784575527445",
+    "title": "つまらない住宅地のすべての家",
+    "author": "津村記久子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575527445",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033402930",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 302
+  },
+  {
+    "book_id": "isbn-9784101201443",
+    "title": "やりなおし世界文学",
+    "author": "津村記久子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101201443",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034360541",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 487
   }
 ]
