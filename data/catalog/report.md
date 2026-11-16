@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-16T19:03:29.669Z
-- 候補：9665冊
-- 入れた本：8772冊
-- 入れなかった本：893冊
+- 検索日時：2026-11-16T19:12:22.575Z
+- 候補：9709冊
+- 入れた本：8815冊
+- 入れなかった本：894冊
 
 ## 入れなかった本
 
@@ -900,6 +900,7 @@
 - シャドウ・ワーク／イヴァン・イリッチ（教養の定番）：著者が合う記録がない
 - ザ・ゴール2／エリヤフ・ゴールドラット（教養の定番）：タイトルが同じで ISBN のある記録がない
 - 蝉かえる／櫻田智也（ミステリー定番）：タイトルが同じで ISBN のある記録がない
+- 嘘つきジェンガ／辻村深月（ミステリー定番）：タイトルが同じで ISBN のある記録がない
 
 ## 入れた本と選んだ版
 
@@ -9675,3 +9676,46 @@
 - 大進化どうぶつデスゲーム：ハヤカワ文庫 JA ; 1371／早川書房／2019.4／351p／NDC 913.6／mystery_sf・normal・medium
 - 最後にして最初のアイドル：ハヤカワ文庫 JA ; 1314／早川書房／2018.1／334p／NDC 913.6／mystery_sf・normal・medium
 - ヴィンダウス・エンジン：ハヤカワ文庫 JA ; 1458／早川書房／2020.11／319p／NDC 913.6／mystery_sf・normal・medium
+- この夏の星を見る：角川文庫 ; つ14-5／KADOKAWA／2025.6／326p／NDC 913.6／novel・easy・long
+- ドールハウスの惨劇：祥伝社文庫 ; と18-1／祥伝社／2025.10／430p／NDC 913.6／mystery_sf・normal・medium
+- ブラック・ショーマンと覚醒する女たち：叢書なし／光文社／2024.1／347p／NDC 913.6／mystery_sf・normal・medium
+- 永遠をさがしに：河出文庫 ; は19-1／河出書房新社／2016.2／281p／NDC 913.6／novel・easy・medium
+- 天使の耳：講談社文庫／講談社／1995.7／284p／NDC 913.6／mystery_sf・normal・medium
+- 白馬山荘殺人事件：光文社文庫／光文社／1990.4／357p／NDC 913.6／mystery_sf・normal・medium
+- 学生街の殺人：講談社文庫／講談社／1990.7／482p／NDC 913.6／mystery_sf・normal・long
+- 魔球：講談社文庫／講談社／1991.6／326p／NDC 913.6／mystery_sf・normal・medium
+- 浪花少年探偵団：講談社文庫 ; ひ17-28／講談社／2011.12／361p／NDC 913.6／mystery_sf・normal・medium
+- 十字屋敷のピエロ：講談社文庫／講談社／1992.2／333p／NDC 913.6／mystery_sf・normal・medium
+- ブルータスの心臓：光文社文庫／光文社／1993.8／362p／NDC 913.6／mystery_sf・normal・medium
+- 回廊亭殺人事件：光文社文庫／光文社／1994.11／308p／NDC 913.6／mystery_sf・normal・medium
+- 美しき凶器：光文社文庫／光文社／1997.3／353p／NDC 913.6／mystery_sf・normal・medium
+- 虹を操る少年：講談社文庫／講談社／1997.7／350p／NDC 913.6／novel・easy・medium
+- 超・殺人事件：新潮文庫／新潮社／2004.5／301p／NDC 913.6／mystery_sf・normal・medium
+- 殺人の門：角川文庫／角川書店／2006.6／617p／NDC 913.6／mystery_sf・normal・long
+- ゲームの名は誘拐：光文社文庫／光文社／2005.6／339p／NDC 913.6／mystery_sf・normal・medium
+- 黒笑小説：集英社文庫／集英社／2008.4／332p／NDC 913.6／novel・easy・medium
+- ダイイング・アイ：光文社文庫 ; ひ6-11／光文社／2011.1／408p／NDC 913.6／mystery_sf・normal・medium
+- 歪笑小説：集英社文庫 ; ひ15-9／集英社／2012.1／355p／NDC 913.6／novel・easy・medium
+- 恋のゴンドラ：実業之日本社文庫 ; ひ1-4／実業之日本社／2019.10／334p／NDC 913.6／novel・easy・medium
+- 雪煙チェイス：実業之日本社文庫 ; ひ1-3／実業之日本社／2016.12／409p／NDC 913.6／novel・easy・medium
+- 素敵な日本人：光文社文庫 ; ひ6-17／光文社／2020.4／330p／NDC 913.6／novel・easy・medium
+- 返事はいらない：新潮文庫／新潮社／1994.12／284p／NDC 913.6／mystery_sf・normal・medium
+- 東京下町殺人暮色：光文社文庫／光文社／1994.10／303p／NDC 913.6／mystery_sf・normal・medium
+- 鳩笛草：光文社文庫／光文社／2000.4／363p／NDC 913.6／mystery_sf・normal・medium
+- 震える岩：講談社文庫／講談社／1997.9／407p／NDC 913.6／mystery_sf・normal・medium
+- 夢にも思わない：角川文庫／角川書店／2002.11／374p／NDC 913.6／mystery_sf・normal・medium
+- 人質カノン：文春文庫／文藝春秋／2001.9／317p／NDC 913.6／mystery_sf・normal・medium
+- R.P.G.：集英社文庫／集英社／2001.8／306p／NDC 913.6／mystery_sf・normal・medium
+- ドリームバスター：叢書なし／徳間書店／2001.11／364p／NDC 913.6／mystery_sf・normal・medium
+- ICO 霧の城：講談社文庫 ; み42-9／講談社／2010.11／330p／NDC 913.6／mystery_sf・normal・long
+- おまえさん：講談社文庫 ; み42-13／講談社／2011.9／610p／NDC 913.6／novel・easy・long
+- 荒神：新潮文庫 ; み-22-31／新潮社／2017.7／685p／NDC 913.6／mystery_sf・normal・long
+- この世の春：新潮文庫 ; み-22-35／新潮社／2019.12／329p／NDC 913.6／novel・easy・long
+- 昨日がなければ明日もない：文春文庫 ; み17-15／文藝春秋／2021.5／465p／NDC 913.6／mystery_sf・normal・long
+- よって件のごとし：角川文庫 ; み28-58／KADOKAWA／2024.6／534p／NDC 913.6／mystery_sf・normal・long
+- 泣き童子：角川文庫 ; み28-53／KADOKAWA／2016.6／475p／NDC 913.6／novel・easy・long
+- 魂手形：角川文庫 ; み28-57／KADOKAWA／2023.6／324p／NDC 913.6／novel・easy・medium
+- かまいたち：新潮文庫／新潮社／1996.10／274p／NDC 913.6／novel・easy・medium
+- 堪忍箱：新潮文庫／新潮社／2001.11／244p／NDC 913.6／novel・easy・short
+- 幻色江戸ごよみ：新潮文庫／新潮社／1998.9／330p／NDC 913.6／novel・easy・medium
+- 平成お徒歩日記：新潮文庫／新潮社／2001.1／275p／NDC 914.6／nonfiction・easy・medium
