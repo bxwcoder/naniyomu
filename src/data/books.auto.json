@@ -232181,5 +232181,220 @@
     "tier": "basic",
     "publisher": "河出書房新社",
     "pages": 256
+  },
+  {
+    "book_id": "isbn-9784296121045",
+    "title": "イン・ザ・メガチャーチ",
+    "author": "朝井リョウ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784296121045",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034265325",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日経BP日本経済新聞出版",
+    "pages": 444
+  },
+  {
+    "book_id": "isbn-9784163919300",
+    "title": "PRIZE",
+    "author": "村山由佳",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784163919300",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033857807",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 383
+  },
+  {
+    "book_id": "isbn-9784065367087",
+    "title": "死んだ石井の大群",
+    "author": "金子玲介",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065367087",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033617011",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 244
+  },
+  {
+    "book_id": "isbn-9784065392478",
+    "title": "ゴリラ裁判の日",
+    "author": "須藤古都離",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065392478",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034062967",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 397
+  },
+  {
+    "book_id": "isbn-9784022651648",
+    "title": "私の盲端",
+    "author": "朝比奈秋",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022651648",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033616950",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 235
+  },
+  {
+    "book_id": "isbn-9784041150092",
+    "title": "失われた岬",
+    "author": "篠田節子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041150092",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033735935",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 652
+  },
+  {
+    "book_id": "isbn-9784167923310",
+    "title": "タイムマシンに乗れないぼくたち",
+    "author": "寺地はるな",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167923310",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033892390",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 238
+  },
+  {
+    "book_id": "isbn-9784167925154",
+    "title": "永遠と横道世之介",
+    "author": "吉田修一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167925154",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034729526",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 361
   }
 ]
