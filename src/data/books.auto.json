@@ -238444,5 +238444,945 @@
     "tier": "basic",
     "publisher": "中央公論新社",
     "pages": 483
+  },
+  {
+    "book_id": "isbn-9784093861373",
+    "title": "あおい",
+    "author": "西加奈子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784093861373",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007364678",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 180
+  },
+  {
+    "book_id": "isbn-9784334747220",
+    "title": "しずく",
+    "author": "西加奈子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334747220",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010666986",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 222
+  },
+  {
+    "book_id": "isbn-9784101349565",
+    "title": "窓の魚",
+    "author": "西加奈子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101349565",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011074973",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 214
+  },
+  {
+    "book_id": "isbn-9784043944811",
+    "title": "きりこについて",
+    "author": "西加奈子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043944811",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011307037",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 217
+  },
+  {
+    "book_id": "isbn-9784834084436",
+    "title": "まく子",
+    "author": "西加奈子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784834084436",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029433850",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "福音館書店",
+    "pages": 253
+  },
+  {
+    "book_id": "isbn-9784480804778",
+    "title": "おまじない",
+    "author": "西加奈子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480804778",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028829526",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 229
+  },
+  {
+    "book_id": "isbn-9784167901158",
+    "title": "地下の鳩",
+    "author": "西加奈子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167901158",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025465384",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 248
+  },
+  {
+    "book_id": "isbn-9784041013359",
+    "title": "星やどりの声",
+    "author": "朝井リョウ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041013359",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025470701",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784167912543",
+    "title": "ままならないから私とあなた",
+    "author": "朝井リョウ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167912543",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029595952",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 294
+  },
+  {
+    "book_id": "isbn-9784167902537",
+    "title": "時をかけるゆとり",
+    "author": "朝井リョウ",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167902537",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025917851",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 271
+  },
+  {
+    "book_id": "isbn-9784022647986",
+    "title": "クラウドクラスターを愛する方法",
+    "author": "窪美澄",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022647986",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026814228",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 206
+  },
+  {
+    "book_id": "isbn-9784167910631",
+    "title": "さよなら、ニルヴァーナ",
+    "author": "窪美澄",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167910631",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028945994",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 450
+  },
+  {
+    "book_id": "isbn-9784087440447",
+    "title": "やめるときも、すこやかなるときも",
+    "author": "窪美澄",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087440447",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030050843",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 445
+  },
+  {
+    "book_id": "isbn-9784041143193",
+    "title": "ははのれんあい",
+    "author": "窪美澄",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041143193",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033253824",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 395
+  },
+  {
+    "book_id": "isbn-9784167925314",
+    "title": "ぼくは青くて透明で",
+    "author": "窪美澄",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167925314",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034785640",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 262
+  },
+  {
+    "book_id": "isbn-9784101391472",
+    "title": "夏日狂想",
+    "author": "窪美澄",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101391472",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034091569",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 509
+  },
+  {
+    "book_id": "isbn-9784167836016",
+    "title": "氷平線",
+    "author": "桜木紫乃",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167836016",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023504041",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 262
+  },
+  {
+    "book_id": "isbn-9784087458497",
+    "title": "裸の華",
+    "author": "桜木紫乃",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087458497",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029547480",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 358
+  },
+  {
+    "book_id": "isbn-9784620211084",
+    "title": "ヒロイン",
+    "author": "桜木紫乃",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784620211084",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034812803",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "毎日新聞出版",
+    "pages": 517
+  },
+  {
+    "book_id": "isbn-9784163918556",
+    "title": "谷から来た女",
+    "author": "桜木紫乃",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784163918556",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033510328",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 233
+  },
+  {
+    "book_id": "isbn-9784101254845",
+    "title": "ふたりぐらし",
+    "author": "桜木紫乃",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101254845",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031278449",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 277
+  },
+  {
+    "book_id": "isbn-9784087452457",
+    "title": "放蕩記",
+    "author": "村山由佳",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087452457",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025874826",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 519
+  },
+  {
+    "book_id": "isbn-9784062931779",
+    "title": "天翔る",
+    "author": "村山由佳",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062931779",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026616296",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 522
+  },
+  {
+    "book_id": "isbn-9784167906924",
+    "title": "ありふれた愛じゃない",
+    "author": "村山由佳",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167906924",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027548502",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 474
+  },
+  {
+    "book_id": "isbn-9784344434493",
+    "title": "星屑",
+    "author": "村山由佳",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344434493",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033857776",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 550
+  },
+  {
+    "book_id": "isbn-9784167924508",
+    "title": "ある愛の寓話",
+    "author": "村山由佳",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167924508",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034394913",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 268
+  },
+  {
+    "book_id": "isbn-9784591171721",
+    "title": "はつ恋",
+    "author": "村山由佳",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784591171721",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031756133",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ポプラ社",
+    "pages": 229
+  },
+  {
+    "book_id": "isbn-9784062635233",
+    "title": "天使に見捨てられた夜",
+    "author": "桐野夏生",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062635233",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002610729",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 420
+  },
+  {
+    "book_id": "isbn-9784344426368",
+    "title": "夜また夜の深い夜",
+    "author": "桐野夏生",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344426368",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028361836",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 430
+  },
+  {
+    "book_id": "isbn-9784041143209",
+    "title": "インドラネット",
+    "author": "桐野夏生",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041143209",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033585934",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 423
+  },
+  {
+    "book_id": "isbn-9784167925277",
+    "title": "もっと悪い妻",
+    "author": "桐野夏生",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167925277",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034785637",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 141
+  },
+  {
+    "book_id": "isbn-9784062767750",
+    "title": "転生",
+    "author": "篠田節子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062767750",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011167306",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 467
+  },
+  {
+    "book_id": "isbn-9784087442434",
+    "title": "鏡の背面",
+    "author": "篠田節子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087442434",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031419200",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 650
+  },
+  {
+    "book_id": "isbn-9784167921132",
+    "title": "田舎のポルシェ",
+    "author": "篠田節子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167921132",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033065273",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 293
+  },
+  {
+    "book_id": "isbn-9784087718980",
+    "title": "青の純度",
+    "author": "篠田節子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087718980",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034155984",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 386
   }
 ]
