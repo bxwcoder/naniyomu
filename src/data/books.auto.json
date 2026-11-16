@@ -232396,5 +232396,382 @@
     "tier": "basic",
     "publisher": "文藝春秋",
     "pages": 361
+  },
+  {
+    "book_id": "isbn-9784065410431",
+    "title": "言語化するための小説思考",
+    "author": "小川哲",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065410431",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034353113",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 189
+  },
+  {
+    "book_id": "isbn-9784296000951",
+    "title": "「何回説明しても伝わらない」はなぜ起こるのか?",
+    "author": "今井むつみ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784296000951",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033452718",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日経BP",
+    "pages": 303
+  },
+  {
+    "book_id": "isbn-9784065430170",
+    "title": "母という呪縛 娘という牢獄",
+    "author": "齊藤彩",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065430170",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034584786",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 291
+  },
+  {
+    "book_id": "isbn-9784167923921",
+    "title": "ルポ 誰が国語力を殺すのか",
+    "author": "石井光太",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167923921",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034161588",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 350
+  },
+  {
+    "book_id": "isbn-9784087880489",
+    "title": "妻が口をきいてくれません",
+    "author": "野原広子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087880489",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030757597",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 167
+  },
+  {
+    "book_id": "isbn-9784296000777",
+    "title": "冒険の書",
+    "author": "孫泰蔵",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784296000777",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032640099",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日経BP",
+    "pages": 365
+  },
+  {
+    "book_id": "isbn-9784478113721",
+    "title": "お金のむこうに人がいる",
+    "author": "田内学",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784478113721",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031682124",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ダイヤモンド社",
+    "pages": 271
+  },
+  {
+    "book_id": "isbn-9784121507815",
+    "title": "ゆるい職場",
+    "author": "古屋星斗",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121507815",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032509580",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784140886557",
+    "title": "デジタル・ファシズム",
+    "author": "堤未果",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784140886557",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031625041",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "NHK出版",
+    "pages": 285
+  },
+  {
+    "book_id": "isbn-9784888489508",
+    "title": "ポストモダンの思想的根拠",
+    "author": "岡本裕一朗",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784888489508",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007840012",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ナカニシヤ出版",
+    "pages": 278
+  },
+  {
+    "book_id": "isbn-9784022620699",
+    "title": "いま世界の哲学者が考えていること",
+    "author": "岡本裕一朗",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022620699",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032620254",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 431
+  },
+  {
+    "book_id": "isbn-9784106109911",
+    "title": "目的への抵抗",
+    "author": "國分功一郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784106109911",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032728298",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 206
+  },
+  {
+    "book_id": "isbn-9784163918273",
+    "title": "センスの哲学",
+    "author": "千葉雅也",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784163918273",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033396579",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 251
+  },
+  {
+    "book_id": "isbn-9784087211580",
+    "title": "「利他」とは何か",
+    "author": "伊藤亜紗",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087211580",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031311121",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 220
   }
 ]

@@ -1,8 +1,8 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-16T18:44:40.610Z
-- 候補：9631冊
-- 入れた本：8740冊
+- 検索日時：2026-11-16T18:51:34.093Z
+- 候補：9645冊
+- 入れた本：8754冊
 - 入れなかった本：891冊
 
 ## 入れなかった本
@@ -9641,3 +9641,17 @@
 - 失われた岬：角川文庫 ; し31-10／KADOKAWA／2024.10／652p／NDC 913.6／novel・easy・long
 - タイムマシンに乗れないぼくたち：文春文庫 ; て13-1／文藝春秋／2025.2／238p／NDC 913.6／novel・easy・short
 - 永遠と横道世之介：文春文庫 ; よ19-10／文藝春秋／2026.6／361p／NDC 913.6／novel・easy・long
+- 言語化するための小説思考：叢書なし／講談社／2025.10／189p／NDC 901.307／liberal_arts・normal・short
+- 「何回説明しても伝わらない」はなぜ起こるのか?：叢書なし／日経BP、日経BPマーケティング／2024.5／303p／NDC 361.45／liberal_arts・normal・medium
+- 母という呪縛 娘という牢獄：講談社文庫 ; さ130-1／講談社／2026.3／291p／NDC 368.61／nonfiction・normal・medium
+- ルポ 誰が国語力を殺すのか：文春文庫 ; い73-4／文藝春秋／2025.7／350p／NDC 375.8／nonfiction・normal・medium
+- 妻が口をきいてくれません：叢書なし／集英社／2020.11／167p／NDC 726.1／manga・easy・long
+- 冒険の書：叢書なし／日経BP、日経BPマーケティング／2023.2／365p／NDC 002／liberal_arts・normal・medium
+- お金のむこうに人がいる：叢書なし／ダイヤモンド社／2021.9／271p／NDC 330／liberal_arts・normal・medium
+- ゆるい職場：中公新書ラクレ ; 781／中央公論新社／2022.12／254p／NDC 336.4／practical・normal・medium
+- デジタル・ファシズム：NHK出版新書 ; 655／NHK出版／2021.8／285p／NDC 007.3／liberal_arts・normal・medium
+- ポストモダンの思想的根拠：叢書なし／ナカニシヤ出版／2005.7／278p／NDC 104／liberal_arts・normal・medium
+- いま世界の哲学者が考えていること：朝日文庫 ; お88-1／朝日新聞出版／2023.2／431p／NDC 104／liberal_arts・normal・medium
+- 目的への抵抗：新潮新書 ; 991／新潮社／2023.4／206p／NDC 100／liberal_arts・normal・short
+- センスの哲学：叢書なし／文藝春秋／2024.4／251p／NDC 701.1／liberal_arts・normal・medium
+- 「利他」とは何か：集英社新書 ; 1058／集英社／2021.3／220p／NDC 151.5／liberal_arts・normal・short
