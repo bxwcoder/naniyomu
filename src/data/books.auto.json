@@ -218426,5 +218426,528 @@
     "tier": "basic",
     "publisher": "岩波書店",
     "pages": 326
+  },
+  {
+    "book_id": "isbn-9784887241244",
+    "title": "小さきものたちの神",
+    "author": "アルンダティ・ロイ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784887241244",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002686376",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "DHC",
+    "pages": 486
+  },
+  {
+    "book_id": "isbn-9784794969811",
+    "title": "走れ、オヤジ殿",
+    "author": "キム・エラン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784794969811",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028671733",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "晶文社",
+    "pages": 272
+  },
+  {
+    "book_id": "isbn-9784750515939",
+    "title": "外は夏",
+    "author": "キム・エラン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784750515939",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029725435",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "亜紀書房",
+    "pages": 284
+  },
+  {
+    "book_id": "isbn-9784904855812",
+    "title": "ショウコの微笑",
+    "author": "チェ・ウニョン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784904855812",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029392293",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "クオン",
+    "pages": 329
+  },
+  {
+    "book_id": "isbn-9784794970008",
+    "title": "鯨",
+    "author": "チョン・ミョングァン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784794970008",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028970294",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "晶文社",
+    "pages": 492
+  },
+  {
+    "book_id": "isbn-9784150019402",
+    "title": "種の起源",
+    "author": "チョン・ユジョン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150019402",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029472551",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 368
+  },
+  {
+    "book_id": "isbn-9784863852839",
+    "title": "七年の夜",
+    "author": "チョン・ユジョン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784863852839",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028613924",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "書肆侃侃房",
+    "pages": 557
+  },
+  {
+    "book_id": "isbn-9784863853430",
+    "title": "ホール",
+    "author": "ピョン・ヘヨン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784863853430",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029286624",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "書肆侃侃房",
+    "pages": 193
+  },
+  {
+    "book_id": "isbn-9784087606294",
+    "title": "母をお願い",
+    "author": "申京淑",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087606294",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011273185",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 343
+  },
+  {
+    "book_id": "isbn-9784309467429",
+    "title": "歩道橋の魔術師",
+    "author": "呉明益",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309467429",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031758886",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 289
+  },
+  {
+    "book_id": "isbn-9784167917586",
+    "title": "自転車泥棒",
+    "author": "呉明益",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167917586",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031622751",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 479
+  },
+  {
+    "book_id": "isbn-9784041146897",
+    "title": "複眼人",
+    "author": "呉明益",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041146897",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033871582",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 427
+  },
+  {
+    "book_id": "isbn-9784560090480",
+    "title": "鬼殺し",
+    "author": "甘耀明",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784560090480",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027791726",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白水社",
+    "pages": 381
+  },
+  {
+    "book_id": "isbn-9784006023744",
+    "title": "台北人",
+    "author": "白先勇",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784006023744",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034260466",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 290
+  },
+  {
+    "book_id": "isbn-9784909735027",
+    "title": "知能犯之罠",
+    "author": "紫金陳",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784909735027",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029714640",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "行舟文化",
+    "pages": 361
+  },
+  {
+    "book_id": "isbn-9784480438690",
+    "title": "空芯手帳",
+    "author": "八木詠美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480438690",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032678015",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 195
+  },
+  {
+    "book_id": "isbn-9784488468019",
+    "title": "インディゴの夜",
+    "author": "加藤実秋",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488468019",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009297683",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 294
+  },
+  {
+    "book_id": "isbn-9784479394129",
+    "title": "これが生活なのかしらん",
+    "author": "小原晩",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784479394129",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033045461",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "大和書房",
+    "pages": 182
+  },
+  {
+    "book_id": "isbn-9784101041414",
+    "title": "いまは、空しか見えない",
+    "author": "白尾悠",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101041414",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032268881",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 296
+  },
+  {
+    "book_id": "isbn-9784813709107",
+    "title": "夜が明けたら、いちばんに君に会いにいく",
+    "author": "汐見夏衛",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784813709107",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030402396",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "スターツ出版",
+    "pages": 435
   }
 ]
