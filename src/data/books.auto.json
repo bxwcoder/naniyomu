@@ -223240,5 +223240,478 @@
     "tier": "basic",
     "publisher": "ホーム社",
     "pages": 291
+  },
+  {
+    "book_id": "isbn-9784799324547",
+    "title": "3秒でハッピーになる名言セラピー",
+    "author": "ひすいこたろう",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784799324547",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029563592",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ディスカヴァー・トゥエンティワン",
+    "pages": 212
+  },
+  {
+    "book_id": "isbn-9784334035020",
+    "title": "ウェブはバカと暇人のもの",
+    "author": "中川淳一郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334035020",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010116839",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 245
+  },
+  {
+    "book_id": "isbn-9784903908359",
+    "title": "小田嶋隆のコラム道",
+    "author": "小田嶋隆",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784903908359",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023630879",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ミシマ社",
+    "pages": 253
+  },
+  {
+    "book_id": "isbn-9784106104596",
+    "title": "仁義なき日本沈没",
+    "author": "春日太一",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784106104596",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023452951",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 255
+  },
+  {
+    "book_id": "isbn-9784166607358",
+    "title": "天才 勝新太郎",
+    "author": "春日太一",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784166607358",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010673551",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 303
+  },
+  {
+    "book_id": "isbn-9784167570026",
+    "title": "イギリスはおいしい",
+    "author": "林望",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167570026",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002442337",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 267
+  },
+  {
+    "book_id": "isbn-9784101434018",
+    "title": "なんとなく、クリスタル",
+    "author": "田中康夫",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101434018",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001781086",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 225
+  },
+  {
+    "book_id": "isbn-9784151200984",
+    "title": "ベル・カント",
+    "author": "アン・パチェット",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151200984",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029994378",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 526
+  },
+  {
+    "book_id": "isbn-9784309619927",
+    "title": "大司教に死来る",
+    "author": "ウィラ・キャザー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309619927",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971149384798139696",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784151200700",
+    "title": "オリーヴ・キタリッジの生活",
+    "author": "エリザベス・ストラウト",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151200700",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023963751",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 460
+  },
+  {
+    "book_id": "isbn-9784151201028",
+    "title": "私の名前はルーシー・バートン",
+    "author": "エリザベス・ストラウト",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151201028",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032201530",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 229
+  },
+  {
+    "book_id": "isbn-9784794968531",
+    "title": "パリの家",
+    "author": "エリザベス・ボウエン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784794968531",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025639471",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "晶文社",
+    "pages": 382
+  },
+  {
+    "book_id": "isbn-9784488254032",
+    "title": "荊の城",
+    "author": "サラ・ウォーターズ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488254032",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007341211",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 434
+  },
+  {
+    "book_id": "isbn-9784488254025",
+    "title": "半身",
+    "author": "サラ・ウォーターズ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488254025",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004134329",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 494
+  },
+  {
+    "book_id": "isbn-9784622046691",
+    "title": "サルガッソーの広い海",
+    "author": "ジーン・リース",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784622046691",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002734366",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "みすず書房",
+    "pages": 277
+  },
+  {
+    "book_id": "isbn-9784880082073",
+    "title": "彼らの目は神を見ていた",
+    "author": "ゾラ・ニール・ハーストン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784880082073",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971149384862861219",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新宿書房",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784596552082",
+    "title": "ブックショップ",
+    "author": "ペネロピ・フィッツジェラルド",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784596552082",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029519492",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ハーパーコリンズ・ジャパン",
+    "pages": 188
+  },
+  {
+    "book_id": "isbn-9784791770571",
+    "title": "歌え、翔べない鳥たちよ",
+    "author": "マヤ・アンジェロウ",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784791770571",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028869603",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "青土社",
+    "pages": 333
   }
 ]
