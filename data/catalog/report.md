@@ -1,8 +1,8 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-16T16:47:59.340Z
-- 候補：9427冊
-- 入れた本：8560冊
+- 検索日時：2026-11-16T16:53:17.751Z
+- 候補：9441冊
+- 入れた本：8574冊
 - 入れなかった本：867冊
 
 ## 入れなかった本
@@ -8801,7 +8801,6 @@
 - 禅、シンプル生活のすすめ：知的生きかた文庫 ; ま41-1／三笠書房／2009.7／221p／NDC 188.84／liberal_arts・normal・short
 - 頭がいい人、悪い人の話し方：PHP新書／PHP研究所／2004.7／219p／NDC 809.2／liberal_arts・normal・short
 - 知性を磨く：光文社新書 ; 698／光文社／2014.5／229p／NDC 159.4／practical・normal・short
-- 断捨離：マガジンハウス文庫 ; や1-1／マガジンハウス／2012.9／205p／NDC 597.5／practical・normal・short
 - 機動戦士ガンダム THE ORIGIN：角川コミックス・エース／角川書店／2002.6／213p／NDC 726.1／manga・easy・long
 - 虹色のトロツキー：中公文庫コミック版／中央公論新社／2000.3／251p／NDC 726.1／manga・easy・long
 - 昴：ビッグコミックス／小学館／2000.8／175p／NDC 726.1／manga・easy・long
@@ -9437,3 +9436,18 @@
 - 愛の続き：新潮文庫／新潮社／2005.10／385p／NDC 933.7／novel・normal・medium
 - レッド・ストーム作戦発動：文春文庫／文芸春秋／1987.9／2冊／NDC 933／mystery_sf・normal・medium
 - 愛国者のゲーム：文春文庫／文芸春秋／1989.5／2冊／NDC 933／mystery_sf・normal・medium
+- デス・ゾーン：集英社文庫 ; こ45-1／集英社／2023.1／380p／NDC 786.1／nonfiction・normal・medium
+- Black Box：文春文庫 ; い108-1／文藝春秋／2022.3／271p／NDC 368.64／nonfiction・normal・medium
+- サガレン：角川文庫 ; か58-4／KADOKAWA／2023.7／361p／NDC 292.9209／nonfiction・normal・medium
+- 黒い海：講談社文庫 ; い165-1／講談社／2025.11／376p／NDC 557.84／nonfiction・normal・medium
+- 彼は早稲田で死んだ：文春文庫 ; ひ32-1／文藝春秋／2024.4／314p／NDC 377.96／nonfiction・normal・medium
+- 記者たちは海に向かった：角川文庫 ; か63-8／KADOKAWA／2017.2／448p／NDC 070.2126／nonfiction・normal・medium
+- なぜ君は絶望と闘えたのか：新潮文庫 ; か-41-2／新潮社／2010.9／348p／NDC 326.23／nonfiction・normal・medium
+- ふしぎな部落問題：ちくま新書 ; 1190／筑摩書房／2016.6／285p／NDC 361.86／liberal_arts・normal・medium
+- 累犯障害者：新潮文庫 ; や-60-2／新潮社／2009.4／327p／NDC 368.6／nonfiction・normal・medium
+- 獄窓記：新潮文庫／新潮社／2008.2／533p／NDC 326.52／nonfiction・normal・long
+- 昭和陸軍の研究：朝日文庫／朝日新聞社／2006.2／637p／NDC 396.21／liberal_arts・normal・long
+- 指揮官たちの特攻：新潮文庫／新潮社／2004.8／232p／NDC 913.6／nonfiction・normal・short
+- 大本営参謀の情報戦記：文春文庫／文芸春秋／1996.5／348p／NDC 210.75／nonfiction・normal・medium
+- 餓死した英霊たち：ちくま学芸文庫 ; フ39-1／筑摩書房／2018.7／274p／NDC 210.75／liberal_arts・normal・medium
+- 戦艦大和ノ最期：講談社文芸文庫／講談社／1994.8／201p／NDC 916／nonfiction・normal・short

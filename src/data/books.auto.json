@@ -210650,32 +210650,6 @@
     "pages": 229
   },
   {
-    "book_id": "isbn-9784838770632",
-    "title": "断捨離",
-    "author": "やましたひでこ",
-    "genres": [
-      "practical"
-    ],
-    "themes": [
-      "practical"
-    ],
-    "moods": [
-      "learning"
-    ],
-    "difficulty": "normal",
-    "length_category": "short",
-    "description": "",
-    "recommendation_reasons": [],
-    "cover_image_url": null,
-    "purchase_url": null,
-    "isbn": "9784838770632",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023908468",
-    "metadata_verified": true,
-    "tier": "basic",
-    "publisher": "マガジンハウス",
-    "pages": 205
-  },
-  {
     "book_id": "isbn-9784047134539",
     "title": "機動戦士ガンダム THE ORIGIN",
     "author": "安彦良和",
@@ -227578,5 +227552,410 @@
     "tier": "basic",
     "publisher": "文芸春秋",
     "pages": null
+  },
+  {
+    "book_id": "isbn-9784087444797",
+    "title": "デス・ゾーン",
+    "author": "河野啓",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087444797",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032569223",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 380
+  },
+  {
+    "book_id": "isbn-9784167918484",
+    "title": "Black Box",
+    "author": "伊藤詩織",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167918484",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031992245",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 271
+  },
+  {
+    "book_id": "isbn-9784041139783",
+    "title": "サガレン",
+    "author": "梯久美子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041139783",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032910947",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 361
+  },
+  {
+    "book_id": "isbn-9784065409206",
+    "title": "黒い海",
+    "author": "伊澤理江",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065409206",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034389308",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 376
+  },
+  {
+    "book_id": "isbn-9784167922061",
+    "title": "彼は早稲田で死んだ",
+    "author": "樋田毅",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167922061",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033393047",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 314
+  },
+  {
+    "book_id": "isbn-9784041049570",
+    "title": "記者たちは海に向かった",
+    "author": "門田隆将",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041049570",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027976083",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 448
+  },
+  {
+    "book_id": "isbn-9784101231426",
+    "title": "なぜ君は絶望と闘えたのか",
+    "author": "門田隆将",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101231426",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010970762",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 348
+  },
+  {
+    "book_id": "isbn-9784480068965",
+    "title": "ふしぎな部落問題",
+    "author": "角岡伸彦",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480068965",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027318289",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 285
+  },
+  {
+    "book_id": "isbn-9784101338729",
+    "title": "累犯障害者",
+    "author": "山本譲司",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101338729",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010080331",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 327
+  },
+  {
+    "book_id": "isbn-9784101338712",
+    "title": "獄窓記",
+    "author": "山本譲司",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101338712",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009245436",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 533
+  },
+  {
+    "book_id": "isbn-9784022615008",
+    "title": "昭和陸軍の研究",
+    "author": "保阪正康",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022615008",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008087743",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞社",
+    "pages": 637
+  },
+  {
+    "book_id": "isbn-9784101133287",
+    "title": "指揮官たちの特攻",
+    "author": "城山三郎",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101133287",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007437441",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 232
+  },
+  {
+    "book_id": "isbn-9784167274023",
+    "title": "大本営参謀の情報戦記",
+    "author": "堀栄三",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167274023",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002500654",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 348
+  },
+  {
+    "book_id": "isbn-9784480098757",
+    "title": "餓死した英霊たち",
+    "author": "藤原彰",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480098757",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029063068",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 274
+  },
+  {
+    "book_id": "isbn-9784061962873",
+    "title": "戦艦大和ノ最期",
+    "author": "吉田満",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061962873",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002347532",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 201
   }
 ]
