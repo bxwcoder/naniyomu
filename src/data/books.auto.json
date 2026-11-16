@@ -250204,5 +250204,733 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 290
+  },
+  {
+    "book_id": "isbn-9784575517064",
+    "title": "東天の獅子",
+    "author": "夢枕獏",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575517064",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025738485",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 484
+  },
+  {
+    "book_id": "isbn-9784041088159",
+    "title": "ヤマンタカ 大菩薩峠血風録",
+    "author": "夢枕獏",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041088159",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030164582",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 518
+  },
+  {
+    "book_id": "isbn-9784198947118",
+    "title": "宿神",
+    "author": "夢枕獏",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198947118",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031878746",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 396
+  },
+  {
+    "book_id": "isbn-9784198947439",
+    "title": "天海の秘宝",
+    "author": "夢枕獏",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198947439",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032115757",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 397
+  },
+  {
+    "book_id": "isbn-9784122049345",
+    "title": "シナン",
+    "author": "夢枕獏",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122049345",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009222303",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 370
+  },
+  {
+    "book_id": "isbn-9784041038055",
+    "title": "呼ぶ山",
+    "author": "夢枕獏",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041038055",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027098119",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 365
+  },
+  {
+    "book_id": "isbn-9784198947873",
+    "title": "混沌の城",
+    "author": "夢枕獏",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198947873",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032395730",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 416
+  },
+  {
+    "book_id": "isbn-9784257762362",
+    "title": "エイリアン秘宝街",
+    "author": "菊地秀行",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784257762362",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001630357",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日ソノラマ",
+    "pages": 281
+  },
+  {
+    "book_id": "isbn-9784257762782",
+    "title": "妖神グルメ",
+    "author": "菊地秀行",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784257762782",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001701894",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日ソノラマ",
+    "pages": 282
+  },
+  {
+    "book_id": "isbn-9784829123010",
+    "title": "灼熱の竜騎兵",
+    "author": "田中芳樹",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784829123010",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001950970",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "富士見書房",
+    "pages": 218
+  },
+  {
+    "book_id": "isbn-9784396630515",
+    "title": "紅塵",
+    "author": "田中芳樹",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784396630515",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002231758",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "祥伝社",
+    "pages": 286
+  },
+  {
+    "book_id": "isbn-9784396332419",
+    "title": "奔流",
+    "author": "田中芳樹",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784396332419",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007845845",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "祥伝社",
+    "pages": 356
+  },
+  {
+    "book_id": "isbn-9784122035478",
+    "title": "中国武将列伝",
+    "author": "田中芳樹",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122035478",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002861366",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 295
+  },
+  {
+    "book_id": "isbn-9784396336820",
+    "title": "天竺熱風録",
+    "author": "田中芳樹",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784396336820",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011204816",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "祥伝社",
+    "pages": 345
+  },
+  {
+    "book_id": "isbn-9784062935760",
+    "title": "ラインの虜囚",
+    "author": "田中芳樹",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062935760",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027805958",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 290
+  },
+  {
+    "book_id": "isbn-9784488592035",
+    "title": "髑髏城の花嫁",
+    "author": "田中芳樹",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488592035",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031323083",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 336
+  },
+  {
+    "book_id": "isbn-9784041500071",
+    "title": "キャバレー",
+    "author": "栗本薫",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041500071",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001717009",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 298
+  },
+  {
+    "book_id": "isbn-9784167290016",
+    "title": "真夜中の天使",
+    "author": "栗本薫",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167290016",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001568140",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 382
+  },
+  {
+    "book_id": "isbn-9784167290047",
+    "title": "翼あるもの",
+    "author": "栗本薫",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167290047",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001742096",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784150303877",
+    "title": "滅びの風",
+    "author": "栗本薫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150303877",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002243355",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 281
+  },
+  {
+    "book_id": "isbn-9784061830806",
+    "title": "優しい密室",
+    "author": "栗本薫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061830806",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001637262",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 278
+  },
+  {
+    "book_id": "isbn-9784061838123",
+    "title": "伊集院大介の冒険",
+    "author": "栗本薫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061838123",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001814758",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 281
+  },
+  {
+    "book_id": "isbn-9784086090407",
+    "title": "あたしの中の……",
+    "author": "新井素子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784086090407",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002508841",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 229
+  },
+  {
+    "book_id": "isbn-9784101426044",
+    "title": "もいちどあなたにあいたいな",
+    "author": "新井素子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101426044",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024262120",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 364
+  },
+  {
+    "book_id": "isbn-9784101426051",
+    "title": "イン・ザ・ヘブン",
+    "author": "新井素子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101426051",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027246344",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 360
+  },
+  {
+    "book_id": "isbn-9784758440806",
+    "title": "未来へ…",
+    "author": "新井素子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784758440806",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028089352",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 340
+  },
+  {
+    "book_id": "isbn-9784041128268",
+    "title": "絶対猫から動かない",
+    "author": "新井素子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041128268",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032414394",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 565
   }
 ]
