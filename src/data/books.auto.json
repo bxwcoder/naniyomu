@@ -227315,5 +227315,268 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 205
+  },
+  {
+    "book_id": "isbn-9784022642257",
+    "title": "樹下の家族",
+    "author": "干刈あがた",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022642257",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002873332",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞社",
+    "pages": 327
+  },
+  {
+    "book_id": "isbn-9784101423210",
+    "title": "二百回忌",
+    "author": "笙野頼子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101423210",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002626483",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 185
+  },
+  {
+    "book_id": "isbn-9784309206691",
+    "title": "氷",
+    "author": "ウラジーミル・ソローキン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309206691",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026025409",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 348
+  },
+  {
+    "book_id": "isbn-9784309467610",
+    "title": "親衛隊士の日",
+    "author": "ウラジーミル・ソローキン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309467610",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032336584",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 274
+  },
+  {
+    "book_id": "isbn-9784151200823",
+    "title": "ならずものがやってくる",
+    "author": "ジェニファー・イーガン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151200823",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026313310",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 493
+  },
+  {
+    "book_id": "isbn-9784488707064",
+    "title": "ブルー・マーズ",
+    "author": "キム・スタンリー・ロビンスン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488707064",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028098631",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 614
+  },
+  {
+    "book_id": "isbn-9784488707040",
+    "title": "グリーン・マーズ",
+    "author": "キム・スタンリー・ロビンスン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488707040",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003054715",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 555
+  },
+  {
+    "book_id": "isbn-9784102157220",
+    "title": "愛の続き",
+    "author": "イアン・マキューアン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102157220",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007937971",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 385
+  },
+  {
+    "book_id": "isbn-9784167275723",
+    "title": "レッド・ストーム作戦発動",
+    "author": "トム・クランシー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167275723",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001876631",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784167275709",
+    "title": "愛国者のゲーム",
+    "author": "トム・クランシー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167275709",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001984265",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": null
   }
 ]
