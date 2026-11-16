@@ -216851,5 +216851,428 @@
     "tier": "basic",
     "publisher": "岩波書店",
     "pages": 270
+  },
+  {
+    "book_id": "isbn-9784488070700",
+    "title": "夢宮殿",
+    "author": "イスマイル・カダレ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488070700",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023418579",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 329
+  },
+  {
+    "book_id": "isbn-9784105057718",
+    "title": "バートルビーと仲間たち",
+    "author": "エンリーケ・ビラ＝マタス",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784105057718",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009286996",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 223
+  },
+  {
+    "book_id": "isbn-9784062044349",
+    "title": "パスクアル・ドゥアルテの家族",
+    "author": "カミロ・ホセ・セラ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062044349",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002022193",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 233
+  },
+  {
+    "book_id": "isbn-9784003279816",
+    "title": "失われた足跡",
+    "author": "カルペンティエル",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003279816",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025404256",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 467
+  },
+  {
+    "book_id": "isbn-9784891762698",
+    "title": "この世の王国",
+    "author": "カルペンティエル",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784891762698",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002195314",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "水声社",
+    "pages": 165
+  },
+  {
+    "book_id": "isbn-9784309468341",
+    "title": "星の時",
+    "author": "クラリッセ・リスペクトル",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309468341",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034787850",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 168
+  },
+  {
+    "book_id": "isbn-9784309467115",
+    "title": "白の闇",
+    "author": "ジョゼ・サラマーゴ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309467115",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030267714",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 421
+  },
+  {
+    "book_id": "isbn-9784846015640",
+    "title": "儀式",
+    "author": "セース・ノーテボーム",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784846015640",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028191216",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "論創社",
+    "pages": 248
+  },
+  {
+    "book_id": "isbn-9784000282321",
+    "title": "美しい夏",
+    "author": "チェーザレ・パヴェーゼ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784000282321",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971149384866348608",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784309403519",
+    "title": "世紀末鯨鯢記",
+    "author": "久間十義",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309403519",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002212940",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 306
+  },
+  {
+    "book_id": "isbn-9784061847088",
+    "title": "草のかんむり",
+    "author": "伊井直行",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061847088",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002054506",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 164
+  },
+  {
+    "book_id": "isbn-9784101342115",
+    "title": "ア・ルース・ボーイ",
+    "author": "佐伯一麦",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101342115",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002330684",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 188
+  },
+  {
+    "book_id": "isbn-9784022644046",
+    "title": "鉄塔家族",
+    "author": "佐伯一麦",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022644046",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008716775",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞社",
+    "pages": 354
+  },
+  {
+    "book_id": "isbn-9784065302378",
+    "title": "ここはとても速い川",
+    "author": "井戸川射子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065302378",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032520445",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 162
+  },
+  {
+    "book_id": "isbn-9784103541110",
+    "title": "象の皮膚",
+    "author": "佐藤厚志",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784103541110",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031508931",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 140
+  },
+  {
+    "book_id": "isbn-9784167921460",
+    "title": "日本蒙昧前史",
+    "author": "磯崎憲一郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167921460",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033172050",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 225
   }
 ]
