@@ -257244,5 +257244,884 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 242
+  },
+  {
+    "book_id": "isbn-9784796698542",
+    "title": "アリアドネの弾丸",
+    "author": "海堂尊",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784796698542",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023642332",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "宝島社",
+    "pages": 284
+  },
+  {
+    "book_id": "isbn-9784800220370",
+    "title": "ケルベロスの肖像",
+    "author": "海堂尊",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784800220370",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025091843",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "宝島社",
+    "pages": 429
+  },
+  {
+    "book_id": "isbn-9784062772471",
+    "title": "ブレイズメス1990",
+    "author": "海堂尊",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062772471",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023585171",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 387
+  },
+  {
+    "book_id": "isbn-9784062938808",
+    "title": "スリジエセンター1991",
+    "author": "海堂尊",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062938808",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028853400",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 458
+  },
+  {
+    "book_id": "isbn-9784022645975",
+    "title": "極北クレイマー",
+    "author": "海堂尊",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022645975",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011132508",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 239
+  },
+  {
+    "book_id": "isbn-9784022647191",
+    "title": "極北ラプソディ",
+    "author": "海堂尊",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022647191",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024865498",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 411
+  },
+  {
+    "book_id": "isbn-9784101333120",
+    "title": "マドンナ・ヴェルデ",
+    "author": "海堂尊",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101333120",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024262114",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 341
+  },
+  {
+    "book_id": "isbn-9784041008300",
+    "title": "モルフェウスの領域",
+    "author": "海堂尊",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041008300",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024472512",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 296
+  },
+  {
+    "book_id": "isbn-9784101333137",
+    "title": "ナニワ・モンスター",
+    "author": "海堂尊",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101333137",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025341758",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 417
+  },
+  {
+    "book_id": "isbn-9784167790011",
+    "title": "ひかりの剣",
+    "author": "海堂尊",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167790011",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010945230",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 342
+  },
+  {
+    "book_id": "isbn-9784299031556",
+    "title": "コロナ黙示録",
+    "author": "海堂尊",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784299031556",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032222016",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "宝島社",
+    "pages": 379
+  },
+  {
+    "book_id": "isbn-9784041092781",
+    "title": "氷獄",
+    "author": "海堂尊",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041092781",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031531674",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 301
+  },
+  {
+    "book_id": "isbn-9784087451481",
+    "title": "東京ロンダリング",
+    "author": "原田ひ香",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087451481",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025035551",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 197
+  },
+  {
+    "book_id": "isbn-9784094072242",
+    "title": "口福のレシピ",
+    "author": "原田ひ香",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094072242",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032612168",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 330
+  },
+  {
+    "book_id": "isbn-9784101036823",
+    "title": "財布は踊る",
+    "author": "原田ひ香",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101036823",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033849833",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 374
+  },
+  {
+    "book_id": "isbn-9784198651886",
+    "title": "一橋桐子(76)の犯罪日記",
+    "author": "原田ひ香",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198651886",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030721335",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 309
+  },
+  {
+    "book_id": "isbn-9784575247275",
+    "title": "定食屋「雑」",
+    "author": "原田ひ香",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575247275",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033371111",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 300
+  },
+  {
+    "book_id": "isbn-9784087452495",
+    "title": "あやかし草子",
+    "author": "千早茜",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087452495",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025874830",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 264
+  },
+  {
+    "book_id": "isbn-9784101203829",
+    "title": "クローゼット",
+    "author": "千早茜",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101203829",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030762876",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 289
+  },
+  {
+    "book_id": "isbn-9784101044514",
+    "title": "犬も食わない",
+    "author": "千早茜",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101044514",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032539176",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 278
+  },
+  {
+    "book_id": "isbn-9784167919054",
+    "title": "神様の暇つぶし",
+    "author": "千早茜",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167919054",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032213278",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 302
+  },
+  {
+    "book_id": "isbn-9784396350147",
+    "title": "さんかく",
+    "author": "千早茜",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784396350147",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033072892",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "祥伝社",
+    "pages": 298
+  },
+  {
+    "book_id": "isbn-9784041147283",
+    "title": "ひきなみ",
+    "author": "千早茜",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041147283",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033585935",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 298
+  },
+  {
+    "book_id": "isbn-9784087448801",
+    "title": "赤い月の香り",
+    "author": "千早茜",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087448801",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034653738",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 264
+  },
+  {
+    "book_id": "isbn-9784167924515",
+    "title": "マリエ",
+    "author": "千早茜",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167924515",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034419447",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 282
+  },
+  {
+    "book_id": "isbn-9784101202419",
+    "title": "私にふさわしいホテル",
+    "author": "柚木麻子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101202419",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026864003",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 282
+  },
+  {
+    "book_id": "isbn-9784167923204",
+    "title": "ついでにジェントルメン",
+    "author": "柚木麻子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167923204",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033852060",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 275
+  },
+  {
+    "book_id": "isbn-9784065432020",
+    "title": "オール・ノット",
+    "author": "柚木麻子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065432020",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034694269",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 299
+  },
+  {
+    "book_id": "isbn-9784103355335",
+    "title": "あいにくあんたのためじゃない",
+    "author": "柚木麻子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784103355335",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033368903",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 248
+  },
+  {
+    "book_id": "isbn-9784094063998",
+    "title": "その手をにぎりたい",
+    "author": "柚木麻子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094063998",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027993204",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 253
+  },
+  {
+    "book_id": "isbn-9784163920429",
+    "title": "アフター・ユー",
+    "author": "一穂ミチ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784163920429",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034407098",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 347
+  },
+  {
+    "book_id": "isbn-9784403524615",
+    "title": "ふったらどしゃぶり",
+    "author": "一穂ミチ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784403524615",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029179375",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新書館",
+    "pages": 349
+  },
+  {
+    "book_id": "isbn-9784403523649",
+    "title": "イエスかノーか半分か",
+    "author": "一穂ミチ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784403523649",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025871972",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新書館",
+    "pages": 259
   }
 ]
