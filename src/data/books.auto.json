@@ -217274,5 +217274,459 @@
     "tier": "basic",
     "publisher": "文藝春秋",
     "pages": 225
+  },
+  {
+    "book_id": "isbn-9784334033873",
+    "title": "食べる西洋美術史",
+    "author": "宮下規久朗",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334033873",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008420427",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 262
+  },
+  {
+    "book_id": "isbn-9784480433183",
+    "title": "しぐさで読む美術史",
+    "author": "宮下規久朗",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480433183",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026952063",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 223
+  },
+  {
+    "book_id": "isbn-9784062881777",
+    "title": "わかりあえないことから",
+    "author": "平田オリザ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062881777",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023983921",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 230
+  },
+  {
+    "book_id": "isbn-9784344428140",
+    "title": "芸術起業論",
+    "author": "村上隆",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344428140",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029346819",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 230
+  },
+  {
+    "book_id": "isbn-9784104781010",
+    "title": "苔のむすまで",
+    "author": "杉本博司",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784104781010",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007890387",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784163509600",
+    "title": "横尾忠則自伝",
+    "author": "横尾忠則",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784163509600",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002462052",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 465
+  },
+  {
+    "book_id": "isbn-9784309415734",
+    "title": "空間へ",
+    "author": "磯崎新",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309415734",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028526173",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 578
+  },
+  {
+    "book_id": "isbn-9784480873217",
+    "title": "象徴としての女性像",
+    "author": "若桑みどり",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480873217",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002893913",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 501
+  },
+  {
+    "book_id": "isbn-9784101365411",
+    "title": "無限の網",
+    "author": "草間彌生",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101365411",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023491642",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 271
+  },
+  {
+    "book_id": "isbn-9784022511744",
+    "title": "センスは知識からはじまる",
+    "author": "水野学",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022511744",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025377126",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 183
+  },
+  {
+    "book_id": "isbn-9784006021870",
+    "title": "小津安二郎の反映画",
+    "author": "吉田喜重",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784006021870",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011222364",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 325
+  },
+  {
+    "book_id": "isbn-9784480873415",
+    "title": "監督 小津安二郎",
+    "author": "蓮實重彦",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480873415",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004264425",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 345
+  },
+  {
+    "book_id": "isbn-9784122016958",
+    "title": "古本綺譚",
+    "author": "出久根達郎",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122016958",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002057426",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 294
+  },
+  {
+    "book_id": "isbn-9784167414061",
+    "title": "監督",
+    "author": "海老沢泰久",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167414061",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002390417",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 373
+  },
+  {
+    "book_id": "isbn-9784167351038",
+    "title": "捕手はまだか",
+    "author": "赤瀬川隼",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167351038",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001894348",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 250
+  },
+  {
+    "book_id": "isbn-9784122025776",
+    "title": "天の川の太陽",
+    "author": "黒岩重吾",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122025776",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002510248",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 664
+  },
+  {
+    "book_id": "isbn-9784569905754",
+    "title": "パシヨン",
+    "author": "川越宗一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784569905754",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034742651",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "PHP研究所",
+    "pages": 558
   }
 ]
