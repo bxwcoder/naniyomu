@@ -226364,5 +226364,589 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 285
+  },
+  {
+    "book_id": "isbn-9784122046979",
+    "title": "海のふた",
+    "author": "よしもとばなな",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122046979",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008247613",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 203
+  },
+  {
+    "book_id": "isbn-9784167667047",
+    "title": "イルカ",
+    "author": "よしもとばなな",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167667047",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009762495",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 253
+  },
+  {
+    "book_id": "isbn-9784101426037",
+    "title": "おしまいの日",
+    "author": "新井素子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101426037",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002415078",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 366
+  },
+  {
+    "book_id": "isbn-9784488729011",
+    "title": "司政官",
+    "author": "眉村卓",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488729011",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009245451",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 727
+  },
+  {
+    "book_id": "isbn-9784061849327",
+    "title": "伝説なき地",
+    "author": "船戸与一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061849327",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002120840",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 565
+  },
+  {
+    "book_id": "isbn-9784101343136",
+    "title": "蝦夷地別件",
+    "author": "船戸与一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101343136",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002700366",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 539
+  },
+  {
+    "book_id": "isbn-9784062738002",
+    "title": "夏の魔術",
+    "author": "田中芳樹",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062738002",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004181897",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 283
+  },
+  {
+    "book_id": "isbn-9784062776172",
+    "title": "人類資金",
+    "author": "福井晴敏",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062776172",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024704811",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 193
+  },
+  {
+    "book_id": "isbn-9784167447038",
+    "title": "キャッツアイころがった",
+    "author": "黒川博行",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167447038",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002001859",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 268
+  },
+  {
+    "book_id": "isbn-9784041039984",
+    "title": "繚乱",
+    "author": "黒川博行",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041039984",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027157617",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 600
+  },
+  {
+    "book_id": "isbn-9784101147093",
+    "title": "戒厳令の夜",
+    "author": "五木寛之",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101147093",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971149384838271119",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784591111017",
+    "title": "四季・奈津子",
+    "author": "五木寛之",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784591111017",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010619700",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ポプラ社",
+    "pages": 489
+  },
+  {
+    "book_id": "isbn-9784331603475",
+    "title": "闇の中の系図",
+    "author": "半村良",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784331603475",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002270264",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "広済堂出版",
+    "pages": 316
+  },
+  {
+    "book_id": "isbn-9784101203133",
+    "title": "魔獣狩り",
+    "author": "夢枕獏",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101203133",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025341750",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 428
+  },
+  {
+    "book_id": "isbn-9784198910358",
+    "title": "獅子の門",
+    "author": "夢枕獏",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198910358",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002750136",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 344
+  },
+  {
+    "book_id": "isbn-9784309402956",
+    "title": "四万十川",
+    "author": "笹山久三",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309402956",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002086679",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 204
+  },
+  {
+    "book_id": "isbn-9784041712108",
+    "title": "京都の祭に人が死ぬ",
+    "author": "山村美紗",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041712108",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002159446",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 267
+  },
+  {
+    "book_id": "isbn-9784334703318",
+    "title": "奥の細道殺人事件",
+    "author": "斎藤栄",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334703318",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001796424",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 355
+  },
+  {
+    "book_id": "isbn-9784062736886",
+    "title": "QED 六歌仙の暗号",
+    "author": "高田崇史",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062736886",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004070239",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 587
+  },
+  {
+    "book_id": "isbn-9784061826250",
+    "title": "カンナ 飛鳥の光臨",
+    "author": "高田崇史",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061826250",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009785593",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 306
+  },
+  {
+    "book_id": "isbn-9784062758321",
+    "title": "エナメルを塗った魂の比重",
+    "author": "佐藤友哉",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062758321",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009095309",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 504
+  },
+  {
+    "book_id": "isbn-9784062751384",
+    "title": "タイムスリップ森鴎外",
+    "author": "鯨統一郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062751384",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007828600",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 389
   }
 ]
