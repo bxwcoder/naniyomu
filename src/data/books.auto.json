@@ -231887,5 +231887,299 @@
     "tier": "basic",
     "publisher": "文藝春秋",
     "pages": 162
+  },
+  {
+    "book_id": "isbn-9784334103262",
+    "title": "鬼の哭く里",
+    "author": "中山七里",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334103262",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033459727",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 288
+  },
+  {
+    "book_id": "isbn-9784309032085",
+    "title": "雷と走る",
+    "author": "千早茜",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309032085",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033632294",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 130
+  },
+  {
+    "book_id": "isbn-9784488029296",
+    "title": "蛍たちの祈り",
+    "author": "町田そのこ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488029296",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034186616",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 285
+  },
+  {
+    "book_id": "isbn-9784120058066",
+    "title": "わたしの知る花",
+    "author": "町田そのこ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784120058066",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033583555",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 348
+  },
+  {
+    "book_id": "isbn-9784299041678",
+    "title": "レモンと殺人鬼",
+    "author": "くわがきあゆ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784299041678",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032728134",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "宝島社",
+    "pages": 312
+  },
+  {
+    "book_id": "isbn-9784087447682",
+    "title": "ラブカは静かに弓を持つ",
+    "author": "安壇美緒",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087447682",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034062989",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 339
+  },
+  {
+    "book_id": "isbn-9784087443516",
+    "title": "金木犀とメテオラ",
+    "author": "安壇美緒",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087443516",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031948143",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 379
+  },
+  {
+    "book_id": "isbn-9784087700145",
+    "title": "女王様の電話番",
+    "author": "渡辺優",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087700145",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034241272",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 314
+  },
+  {
+    "book_id": "isbn-9784022646644",
+    "title": "翻訳教室",
+    "author": "柴田元幸",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022646644",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024352271",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 411
+  },
+  {
+    "book_id": "isbn-9784167922207",
+    "title": "ここじゃない世界に行きたかった",
+    "author": "塩谷舞",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167922207",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033435619",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 263
+  },
+  {
+    "book_id": "isbn-9784309417134",
+    "title": "女の子は本当にピンクが好きなのか",
+    "author": "堀越英美",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309417134",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029972822",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 256
   }
 ]
