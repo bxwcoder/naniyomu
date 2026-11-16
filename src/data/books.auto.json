@@ -231404,5 +231404,140 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 178
+  },
+  {
+    "book_id": "isbn-9784088834375",
+    "title": "一ノ瀬家の大罪",
+    "author": "タイザン5",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088834375",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032673093",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 191
+  },
+  {
+    "book_id": "isbn-9784163901466",
+    "title": "逢沢りく",
+    "author": "ほしよりこ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784163901466",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025836387",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784757528512",
+    "title": "妖狐×僕SS",
+    "author": "藤原ここあ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784757528512",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010848602",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "スクウェア・エニックス",
+    "pages": 186
+  },
+  {
+    "book_id": "isbn-9784049144550",
+    "title": "とある科学の超電磁砲",
+    "author": "鎌池和馬",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784049144550",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032162831",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 322
+  },
+  {
+    "book_id": "isbn-9784048680691",
+    "title": "ヘヴィーオブジェクト",
+    "author": "鎌池和馬",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784048680691",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010580106",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "アスキー・メディアワークス",
+    "pages": 375
   }
 ]
