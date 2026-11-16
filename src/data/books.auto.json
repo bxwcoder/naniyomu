@@ -222226,5 +222226,487 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 238
+  },
+  {
+    "book_id": "isbn-9784062931533",
+    "title": "獅子渡り鼻",
+    "author": "小野正嗣",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062931533",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026555811",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 177
+  },
+  {
+    "book_id": "isbn-9784488467012",
+    "title": "崖の館",
+    "author": "佐々木丸美",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488467012",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008402978",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 306
+  },
+  {
+    "book_id": "isbn-9784334765767",
+    "title": "嫌な女",
+    "author": "桂望実",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334765767",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024395126",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 476
+  },
+  {
+    "book_id": "isbn-9784840143646",
+    "title": "マタタビ潔子の猫魂",
+    "author": "朱野帰子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784840143646",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023328576",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "メディアファクトリー",
+    "pages": 219
+  },
+  {
+    "book_id": "isbn-9784101004617",
+    "title": "わたし、定時で帰ります。",
+    "author": "朱野帰子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101004617",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029438577",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 360
+  },
+  {
+    "book_id": "isbn-9784041120620",
+    "title": "永遠についての証明",
+    "author": "岩井圭也",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041120620",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031889033",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 281
+  },
+  {
+    "book_id": "isbn-9784041161180",
+    "title": "最後の鑑定人",
+    "author": "岩井圭也",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041161180",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034122434",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 297
+  },
+  {
+    "book_id": "isbn-9784396348731",
+    "title": "文身",
+    "author": "岩井圭也",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784396348731",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032663630",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "祥伝社",
+    "pages": 344
+  },
+  {
+    "book_id": "isbn-9784101021218",
+    "title": "1ミリの後悔もない、はずがない",
+    "author": "一木けい",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101021218",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030402365",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 303
+  },
+  {
+    "book_id": "isbn-9784575515282",
+    "title": "ヤッさん",
+    "author": "原宏一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575515282",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023967689",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 379
+  },
+  {
+    "book_id": "isbn-9784396328337",
+    "title": "床下仙人",
+    "author": "原宏一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784396328337",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002954538",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "祥伝社",
+    "pages": 281
+  },
+  {
+    "book_id": "isbn-9784344421882",
+    "title": "ここは退屈迎えに来て",
+    "author": "山内マリコ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344421882",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025360992",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 259
+  },
+  {
+    "book_id": "isbn-9784087458756",
+    "title": "あのこは貴族",
+    "author": "山内マリコ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087458756",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029644886",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 310
+  },
+  {
+    "book_id": "isbn-9784087441093",
+    "title": "透明人間は204号室の夢を見る",
+    "author": "奥田亜希子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087441093",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030380342",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 200
+  },
+  {
+    "book_id": "isbn-9784065225417",
+    "title": "誰かが見ている",
+    "author": "宮西真冬",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065225417",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031255768",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 332
+  },
+  {
+    "book_id": "isbn-9784344421509",
+    "title": "試着室で思い出したら、本気の恋だと思う。",
+    "author": "尾形真理子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344421509",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025160871",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 229
+  },
+  {
+    "book_id": "isbn-9784334769505",
+    "title": "東京すみっこごはん",
+    "author": "成田名璃子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334769505",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026595466",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 344
+  },
+  {
+    "book_id": "isbn-9784087452846",
+    "title": "名も無き世界のエンドロール",
+    "author": "行成薫",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087452846",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026073611",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 365
   }
 ]
