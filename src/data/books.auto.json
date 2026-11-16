@@ -223713,5 +223713,298 @@
     "tier": "basic",
     "publisher": "青土社",
     "pages": 333
+  },
+  {
+    "book_id": "isbn-9784198923419",
+    "title": "君よ憤怒の河を渉れ",
+    "author": "西村寿行",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198923419",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007989730",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 459
+  },
+  {
+    "book_id": "isbn-9784334705930",
+    "title": "滅びの笛",
+    "author": "西村寿行",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334705930",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001871968",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 476
+  },
+  {
+    "book_id": "isbn-9784043428014",
+    "title": "RIKO 女神の永遠",
+    "author": "柴田よしき",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043428014",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002637028",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 396
+  },
+  {
+    "book_id": "isbn-9784043428083",
+    "title": "聖なる黒夜",
+    "author": "柴田よしき",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043428083",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008352447",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 668
+  },
+  {
+    "book_id": "isbn-9784488604097",
+    "title": "夜来たる",
+    "author": "アイザック・アシモフ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488604097",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002694095",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 558
+  },
+  {
+    "book_id": "isbn-9784488616038",
+    "title": "渚にて",
+    "author": "ネヴィル・シュート",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488616038",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010114299",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 472
+  },
+  {
+    "book_id": "isbn-9784150106027",
+    "title": "重力の使命",
+    "author": "ハル・クレメント",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150106027",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001734175",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 322
+  },
+  {
+    "book_id": "isbn-9784150405403",
+    "title": "歌おう、感電するほどの喜びを!",
+    "author": "レイ・ブラッドベリ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150405403",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001991459",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 293
+  },
+  {
+    "book_id": "isbn-9784087463248",
+    "title": "マイナス・ゼロ",
+    "author": "広瀬正",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087463248",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009424651",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 518
+  },
+  {
+    "book_id": "isbn-9784087463569",
+    "title": "エロス",
+    "author": "広瀬正",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087463569",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009594358",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 379
+  },
+  {
+    "book_id": "isbn-9784087463460",
+    "title": "ツィス",
+    "author": "広瀬正",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087463460",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009468154",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 422
   }
 ]
