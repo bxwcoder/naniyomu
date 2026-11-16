@@ -243483,5 +243483,1123 @@
     "tier": "basic",
     "publisher": "角川書店",
     "pages": 338
+  },
+  {
+    "book_id": "isbn-9784575506365",
+    "title": "失踪症候群",
+    "author": "貫井徳郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575506365",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002669247",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 349
+  },
+  {
+    "book_id": "isbn-9784575507799",
+    "title": "誘拐症候群",
+    "author": "貫井徳郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575507799",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002989125",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 386
+  },
+  {
+    "book_id": "isbn-9784575510140",
+    "title": "殺人症候群",
+    "author": "貫井徳郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575510140",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007785929",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 711
+  },
+  {
+    "book_id": "isbn-9784062648127",
+    "title": "修羅の終わり",
+    "author": "貫井徳郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062648127",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002857529",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 799
+  },
+  {
+    "book_id": "isbn-9784043541010",
+    "title": "天使の屍",
+    "author": "貫井徳郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043541010",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002893306",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 295
+  },
+  {
+    "book_id": "isbn-9784167682019",
+    "title": "神のふたつの貌",
+    "author": "貫井徳郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167682019",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007348224",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 439
+  },
+  {
+    "book_id": "isbn-9784043541027",
+    "title": "崩れる",
+    "author": "貫井徳郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043541027",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011169430",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 328
+  },
+  {
+    "book_id": "isbn-9784101499130",
+    "title": "灰色の虹",
+    "author": "貫井徳郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101499130",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024927119",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 730
+  },
+  {
+    "book_id": "isbn-9784167903800",
+    "title": "新月譚",
+    "author": "貫井徳郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167903800",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026399762",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 625
+  },
+  {
+    "book_id": "isbn-9784167913786",
+    "title": "壁の男",
+    "author": "貫井徳郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167913786",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030012218",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 406
+  },
+  {
+    "book_id": "isbn-9784022648488",
+    "title": "私に似た人",
+    "author": "貫井徳郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022648488",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028191155",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 498
+  },
+  {
+    "book_id": "isbn-9784344430297",
+    "title": "宿命と真実の炎",
+    "author": "貫井徳郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344430297",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030631488",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 656
+  },
+  {
+    "book_id": "isbn-9784408557434",
+    "title": "罪と祈り",
+    "author": "貫井徳郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784408557434",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032391000",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "実業之日本社",
+    "pages": 548
+  },
+  {
+    "book_id": "isbn-9784167924263",
+    "title": "紙の梟",
+    "author": "貫井徳郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167924263",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034320464",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 430
+  },
+  {
+    "book_id": "isbn-9784575246957",
+    "title": "龍の墓",
+    "author": "貫井徳郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575246957",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033161141",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 292
+  },
+  {
+    "book_id": "isbn-9784062763202",
+    "title": "白い家の殺人",
+    "author": "歌野晶午",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062763202",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010087460",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 397
+  },
+  {
+    "book_id": "isbn-9784062764391",
+    "title": "動く家の殺人",
+    "author": "歌野晶午",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062764391",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010470548",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 400
+  },
+  {
+    "book_id": "isbn-9784062637831",
+    "title": "ROMMY",
+    "author": "歌野晶午",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062637831",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002681929",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 460
+  },
+  {
+    "book_id": "isbn-9784062771139",
+    "title": "正月十一日、鏡殺し",
+    "author": "歌野晶午",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062771139",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023172145",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 365
+  },
+  {
+    "book_id": "isbn-9784167901134",
+    "title": "春から夏、やがて冬",
+    "author": "歌野晶午",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167901134",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025465382",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 295
+  },
+  {
+    "book_id": "isbn-9784334748081",
+    "title": "舞田ひとみ11歳、ダンスときどき探偵",
+    "author": "歌野晶午",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334748081",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010913534",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 414
+  },
+  {
+    "book_id": "isbn-9784344418981",
+    "title": "絶望ノート",
+    "author": "歌野晶午",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344418981",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023817981",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 647
+  },
+  {
+    "book_id": "isbn-9784061853898",
+    "title": "メビウスの殺人",
+    "author": "我孫子武丸",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061853898",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002262478",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 284
+  },
+  {
+    "book_id": "isbn-9784575508468",
+    "title": "屍蝋の街",
+    "author": "我孫子武丸",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575508468",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003688512",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 344
+  },
+  {
+    "book_id": "isbn-9784062932233",
+    "title": "狼と兎のゲーム",
+    "author": "我孫子武丸",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062932233",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026762901",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 295
+  },
+  {
+    "book_id": "isbn-9784334793869",
+    "title": "凜の弦音",
+    "author": "我孫子武丸",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334793869",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032215810",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 303
+  },
+  {
+    "book_id": "isbn-9784396348489",
+    "title": "二の悲劇",
+    "author": "法月綸太郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784396348489",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032398385",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "祥伝社",
+    "pages": 527
+  },
+  {
+    "book_id": "isbn-9784041033609",
+    "title": "ノックス・マシン",
+    "author": "法月綸太郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041033609",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026851101",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 237
+  },
+  {
+    "book_id": "isbn-9784062631082",
+    "title": "法月綸太郎の冒険",
+    "author": "法月綸太郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062631082",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002454291",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 452
+  },
+  {
+    "book_id": "isbn-9784062734875",
+    "title": "法月綸太郎の新冒険",
+    "author": "法月綸太郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062734875",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003664190",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 441
+  },
+  {
+    "book_id": "isbn-9784062639705",
+    "title": "痾",
+    "author": "麻耶雄嵩",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062639705",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002752260",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 407
+  },
+  {
+    "book_id": "isbn-9784344400368",
+    "title": "鴉",
+    "author": "麻耶雄嵩",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344400368",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003030446",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 558
+  },
+  {
+    "book_id": "isbn-9784198942793",
+    "title": "化石少女",
+    "author": "麻耶雄嵩",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198942793",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028577313",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 394
+  },
+  {
+    "book_id": "isbn-9784101212814",
+    "title": "あぶない叔父さん",
+    "author": "麻耶雄嵩",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101212814",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028824132",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 389
+  },
+  {
+    "book_id": "isbn-9784062777933",
+    "title": "メルカトルかく語りき",
+    "author": "麻耶雄嵩",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062777933",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025414908",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 342
+  },
+  {
+    "book_id": "isbn-9784065184035",
+    "title": "刑事の怒り",
+    "author": "薬丸岳",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065184035",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030280804",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 381
+  },
+  {
+    "book_id": "isbn-9784065283219",
+    "title": "告解",
+    "author": "薬丸岳",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065283219",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032290360",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 376
+  },
+  {
+    "book_id": "isbn-9784087446616",
+    "title": "ブレイクニュース",
+    "author": "薬丸岳",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087446616",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033514854",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 452
+  },
+  {
+    "book_id": "isbn-9784101210711",
+    "title": "螺旋の手術室",
+    "author": "知念実希人",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101210711",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028504193",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 461
+  },
+  {
+    "book_id": "isbn-9784101210728",
+    "title": "ひとつむぎの手",
+    "author": "知念実希人",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101210728",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031399202",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 420
+  },
+  {
+    "book_id": "isbn-9784408555423",
+    "title": "誘拐遊戯",
+    "author": "知念実希人",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784408555423",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029952110",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "実業之日本社",
+    "pages": 396
+  },
+  {
+    "book_id": "isbn-9784334792145",
+    "title": "神のダイスを見上げて",
+    "author": "知念実希人",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334792145",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031511271",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 349
+  },
+  {
+    "book_id": "isbn-9784408554747",
+    "title": "レゾンデートル",
+    "author": "知念実希人",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784408554747",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029595930",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "実業之日本社",
+    "pages": 478
   }
 ]

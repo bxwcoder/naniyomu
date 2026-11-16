@@ -1,8 +1,8 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-16T20:43:21.120Z
-- 候補：10063冊
-- 入れた本：9159冊
+- 検索日時：2026-11-16T20:50:58.729Z
+- 候補：10106冊
+- 入れた本：9202冊
 - 入れなかった本：904冊
 
 ## 入れなかった本
@@ -10073,3 +10073,46 @@
 - 燃える傾斜：ハルキ文庫／角川春樹事務所／1999.6／279p／NDC 913.6／mystery_sf・normal・medium
 - 亜空間要塞：ハルキ文庫／角川春樹事務所／2000.10／315p／NDC 913.6／mystery_sf・normal・medium
 - 下町探偵局：角川文庫／角川書店／1984.5／338p／NDC 913.6／mystery_sf・normal・long
+- 失踪症候群：双葉文庫／双葉社／1998.3／349p／NDC 913.6／mystery_sf・normal・medium
+- 誘拐症候群：双葉文庫／双葉社／2001.5／386p／NDC 913.6／mystery_sf・normal・medium
+- 殺人症候群：双葉文庫／双葉社／2005.6／711p／NDC 913.6／mystery_sf・normal・long
+- 修羅の終わり：講談社文庫／講談社／2000.1／799p／NDC 913.6／mystery_sf・normal・long
+- 天使の屍：角川文庫／角川書店／2000.5／295p／NDC 913.6／mystery_sf・normal・medium
+- 神のふたつの貌：文春文庫／文藝春秋／2004.5／439p／NDC 913.6／mystery_sf・normal・medium
+- 崩れる：角川文庫 ; 16735／角川書店、角川グループパブリッシング (発売)／2011.3／328p／NDC 913.6／mystery_sf・normal・medium
+- 灰色の虹：新潮文庫 ; ぬ-1-3／新潮社／2013.11／730p／NDC 913.6／mystery_sf・normal・long
+- 新月譚：文春文庫 ; ぬ1-7／文藝春秋／2015.6／625p／NDC 913.6／mystery_sf・normal・long
+- 壁の男：文春文庫 ; ぬ1-8／文藝春秋／2019.11／406p／NDC 913.6／mystery_sf・normal・medium
+- 私に似た人：朝日文庫 ; ぬ1-2／朝日新聞出版／2017.6／498p／NDC 913.6／mystery_sf・normal・long
+- 宿命と真実の炎：幻冬舎文庫 ; ぬ-1-5／幻冬舎／2020.10／656p／NDC 913.6／mystery_sf・normal・long
+- 罪と祈り：実業之日本社文庫 ; ぬ1-4／実業之日本社／2022.10／548p／NDC 913.6／mystery_sf・normal・long
+- 紙の梟：文春文庫 ; ぬ1-10／文藝春秋／2025.10／430p／NDC 913.6／mystery_sf・normal・medium
+- 龍の墓：叢書なし／双葉社／2023.11／292p／NDC 913.6／mystery_sf・normal・medium
+- 白い家の殺人：講談社文庫 ; う23-12／講談社／2009.4／397p／NDC 913.6／mystery_sf・normal・medium
+- 動く家の殺人：講談社文庫 ; う23-13／講談社／2009.8／400p／NDC 913.6／mystery_sf・normal・medium
+- ROMMY：講談社文庫／講談社／1998.5／460p／NDC 913.6／mystery_sf・normal・long
+- 正月十一日、鏡殺し：講談社文庫 ; う23-17／講談社／2011.12／365p／NDC 913.6／mystery_sf・normal・medium
+- 春から夏、やがて冬：文春文庫 ; う20-2／文藝春秋／2014.6／295p／NDC 913.6／mystery_sf・normal・medium
+- 舞田ひとみ11歳、ダンスときどき探偵：光文社文庫／光文社／2010.7／414p／NDC 913.6／mystery_sf・normal・medium
+- 絶望ノート：幻冬舎文庫 ; う-13-1／幻冬舎／2012.8／647p／NDC 913.6／mystery_sf・normal・long
+- メビウスの殺人：講談社文庫／講談社／1993.5／284p／NDC 913.6／mystery_sf・normal・medium
+- 屍蝋の街：双葉文庫／双葉社／2002.10／344p／NDC 913.6／mystery_sf・normal・medium
+- 狼と兎のゲーム：講談社文庫 ; あ54-13／講談社／2015.10／295p／NDC 913.6／mystery_sf・normal・medium
+- 凜の弦音：光文社文庫 ; あ54-2／光文社／2022.7／303p／NDC 913.6／mystery_sf・normal・medium
+- 二の悲劇：祥伝社文庫 ; の3-5／祥伝社／2022.10／527p／NDC 913.6／mystery_sf・normal・long
+- ノックス・マシン：角川文庫 ; の6-3／KADOKAWA／2015.11／237p／NDC 913.6／mystery_sf・normal・short
+- 法月綸太郎の冒険：講談社文庫／講談社／1995.11／452p／NDC 913.6／mystery_sf・normal・long
+- 法月綸太郎の新冒険：講談社文庫／講談社／2002.7／441p／NDC 913.6／mystery_sf・normal・medium
+- 痾：講談社文庫／講談社／1999.1／407p／NDC 913.6／mystery_sf・normal・medium
+- 鴉：幻冬舎文庫／幻冬舎／2000.10／558p／NDC 913.6／mystery_sf・normal・long
+- 化石少女：徳間文庫 ; ま24-1／徳間書店／2017.11／394p／NDC 913.6／mystery_sf・normal・medium
+- あぶない叔父さん：新潮文庫 ; ま-51-1／新潮社／2018.3／389p／NDC 913.6／mystery_sf・normal・medium
+- メルカトルかく語りき：講談社文庫 ; ま32-7／講談社／2014.5／342p／NDC 913.6／mystery_sf・normal・medium
+- 刑事の怒り：講談社文庫 ; や61-11／講談社／2020.3／381p／NDC 913.6／mystery_sf・normal・medium
+- 告解：講談社文庫 ; や61-13／講談社／2022.8／376p／NDC 913.6／mystery_sf・normal・medium
+- ブレイクニュース：集英社文庫 ; や49-2／集英社／2024.6／452p／NDC 913.6／mystery_sf・normal・long
+- 螺旋の手術室：新潮文庫 ; ち-7-71／新潮社／2017.10／461p／NDC 913.6／mystery_sf・normal・long
+- ひとつむぎの手：新潮文庫 ; ち-7-72／新潮社／2021.5／420p／NDC 913.6／mystery_sf・normal・medium
+- 誘拐遊戯：実業之日本社文庫 ; ち1-5／実業之日本社／2019.10／396p／NDC 913.6／mystery_sf・normal・medium
+- 神のダイスを見上げて：光文社文庫 ; ち5-4／光文社／2021.7／349p／NDC 913.6／mystery_sf・normal・medium
+- レゾンデートル：実業之日本社文庫 ; ち1-4／実業之日本社／2019.4／478p／NDC 913.6／mystery_sf・normal・long
