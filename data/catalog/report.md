@@ -1,8 +1,8 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-16T17:37:11.397Z
-- 候補：9523冊
-- 入れた本：8642冊
+- 検索日時：2026-11-16T17:45:45.999Z
+- 候補：9536冊
+- 入れた本：8655冊
 - 入れなかった本：881冊
 
 ## 入れなかった本
@@ -9533,3 +9533,16 @@
 - 窓際のスパイ：ハヤカワ文庫 NV ; 1319／早川書房／2014.10／556p／NDC 933.7／mystery_sf・normal・long
 - 猟犬：HAYAKAWA POCKET MYSTERY BOOKS ; 1892／早川書房／2015.2／403p／NDC 949.63／mystery_sf・normal・medium
 - 雪盲：小学館文庫 ; ヨ1-1／小学館／2017.5／380p／NDC 949.5／mystery_sf・normal・medium
+- シンプルな情熱：ハヤカワepi文庫／早川書房／2002.7／166p／NDC 953.7／novel・normal・short
+- 場所：Hayakawa novels／早川書房／1993.4／158p／NDC 953／novel・normal・short
+- 地上で僕らはつかの間きらめく：CREST BOOKS／新潮社／2021.8／293p／NDC 933.7／novel・normal・medium
+- 破果：叢書なし／岩波書店／2022.12／274p／NDC 929.13／novel・normal・medium
+- 救出の距離：叢書なし／国書刊行会／2024.9／189p／NDC 963／novel・normal・short
+- 歌え、葬られぬ者たちよ、歌え：叢書なし／作品社／2020.3／317p／NDC 933.7／novel・normal・medium
+- 世界の測量：叢書なし／三修社／2008.5／334p／NDC 943.7／novel・normal・medium
+- 物が落ちる音：創造するラテンアメリカ ; 4／松籟社／2016.1／314p／NDC 963／novel・normal・medium
+- わたしたちが火の中で失くしたもの：叢書なし／河出書房新社／2018.8／241p／NDC 963／novel・normal・short
+- 水域：アフタヌーンKC ; 724／講談社／2011.1／246p／NDC 726.1／manga・easy・long
+- アルテ：ゼノンコミックス／ノース・スターズ・ピクチャーズ、徳間書店 (発売)／2014.5／192p／NDC 726.1／manga・easy・long
+- エアギア：講談社コミックス. Shonen magazine comics／講談社／2003.5／176p／NDC 726.1／manga・easy・long
+- 燃えよペン：サンデーGXコミックス／小学館／2002.12／252p／NDC 726.1／manga・easy・long

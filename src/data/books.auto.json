@@ -229775,5 +229775,347 @@
     "tier": "basic",
     "publisher": "小学館",
     "pages": 380
+  },
+  {
+    "book_id": "isbn-9784151200205",
+    "title": "シンプルな情熱",
+    "author": "アニー・エルノー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151200205",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003661464",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 166
+  },
+  {
+    "book_id": "isbn-9784152035578",
+    "title": "場所",
+    "author": "アニー・エルノー",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784152035578",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002243437",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 158
+  },
+  {
+    "book_id": "isbn-9784105901738",
+    "title": "地上で僕らはつかの間きらめく",
+    "author": "オーシャン・ヴオン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784105901738",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031617603",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 293
+  },
+  {
+    "book_id": "isbn-9784000615761",
+    "title": "破果",
+    "author": "ク・ビョンモ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784000615761",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032507022",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 274
+  },
+  {
+    "book_id": "isbn-9784336076335",
+    "title": "救出の距離",
+    "author": "サマンタ・シュウェブリン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784336076335",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033711965",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "国書刊行会",
+    "pages": 189
+  },
+  {
+    "book_id": "isbn-9784861828034",
+    "title": "歌え、葬られぬ者たちよ、歌え",
+    "author": "ジェスミン・ウォード",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784861828034",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030307259",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "作品社",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784384041071",
+    "title": "世界の測量",
+    "author": "ダニエル・ケールマン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784384041071",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009358805",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "三修社",
+    "pages": 334
+  },
+  {
+    "book_id": "isbn-9784879843449",
+    "title": "物が落ちる音",
+    "author": "フアン・ガブリエル・バスケス",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784879843449",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027034582",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "松籟社",
+    "pages": 314
+  },
+  {
+    "book_id": "isbn-9784309207483",
+    "title": "わたしたちが火の中で失くしたもの",
+    "author": "マリアーナ・エンリケス",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309207483",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029147867",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 241
+  },
+  {
+    "book_id": "isbn-9784063107241",
+    "title": "水域",
+    "author": "漆原友紀",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063107241",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011088586",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 246
+  },
+  {
+    "book_id": "isbn-9784199802034",
+    "title": "アルテ",
+    "author": "大久保圭",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784199802034",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025780465",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ノース・スターズ・ピクチャーズ",
+    "pages": 192
+  },
+  {
+    "book_id": "isbn-9784063632422",
+    "title": "エアギア",
+    "author": "大暮維人",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063632422",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004124318",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 176
+  },
+  {
+    "book_id": "isbn-9784091571915",
+    "title": "燃えよペン",
+    "author": "島本和彦",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091571915",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003614607",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 252
   }
 ]
