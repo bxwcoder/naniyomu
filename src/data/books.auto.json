@@ -215631,5 +215631,561 @@
     "tier": "basic",
     "publisher": "角川書店",
     "pages": 231
+  },
+  {
+    "book_id": "isbn-9784062196338",
+    "title": "イーロン・マスク 未来を創る男",
+    "author": "アシュリー・バンス",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062196338",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026719201",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 318
+  },
+  {
+    "book_id": "isbn-9784532198763",
+    "title": "LEAN IN",
+    "author": "シェリル・サンドバーグ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784532198763",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029218874",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日本経済新聞出版社",
+    "pages": 349
+  },
+  {
+    "book_id": "isbn-9784062562928",
+    "title": "EQ こころの知能指数",
+    "author": "ダニエル・ゴールマン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062562928",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002739421",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 455
+  },
+  {
+    "book_id": "isbn-9784150504489",
+    "title": "マネーの進化史",
+    "author": "ニーアル・ファーガソン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150504489",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026793537",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 504
+  },
+  {
+    "book_id": "isbn-9784087861334",
+    "title": "約束の地",
+    "author": "バラク・オバマ",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087861334",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031255839",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 519
+  },
+  {
+    "book_id": "isbn-9784087861174",
+    "title": "マイ・ストーリー",
+    "author": "ミシェル・オバマ",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087861174",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029853945",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 579
+  },
+  {
+    "book_id": "isbn-9784799315767",
+    "title": "ポジティブ心理学の挑戦",
+    "author": "マーティン・セリグマン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784799315767",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025860080",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ディスカヴァー・トゥエンティワン",
+    "pages": 455
+  },
+  {
+    "book_id": "isbn-9784492533659",
+    "title": "ワーク・ルールズ!",
+    "author": "ラズロ・ボック",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784492533659",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026601494",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東洋経済新報社",
+    "pages": 558
+  },
+  {
+    "book_id": "isbn-9784062162036",
+    "title": "不死細胞ヒーラ",
+    "author": "レベッカ・スクルート",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062162036",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011208185",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 461
+  },
+  {
+    "book_id": "isbn-9784042893011",
+    "title": "権力に翻弄されないための48の法則",
+    "author": "ロバート・グリーン",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784042893011",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003053178",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 440
+  },
+  {
+    "book_id": "isbn-9784479307839",
+    "title": "スタンフォードのストレスを力に変える教科書",
+    "author": "ケリー・マクゴニガル",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784479307839",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029988479",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "大和書房",
+    "pages": 364
+  },
+  {
+    "book_id": "isbn-9784798103686",
+    "title": "あなたのチームは、機能してますか?",
+    "author": "パトリック・レンシオーニ",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784798103686",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004162463",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "翔泳社",
+    "pages": 243
+  },
+  {
+    "book_id": "isbn-9784344426429",
+    "title": "持たない幸福論",
+    "author": "pha",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344426429",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028361843",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 231
+  },
+  {
+    "book_id": "isbn-9784479307235",
+    "title": "しないことリスト",
+    "author": "pha",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784479307235",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029186655",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "大和書房",
+    "pages": 203
+  },
+  {
+    "book_id": "isbn-9784344431393",
+    "title": "明け方の若者たち",
+    "author": "カツセマサヒコ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344431393",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031748179",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 248
+  },
+  {
+    "book_id": "isbn-9784652044070",
+    "title": "北の国から",
+    "author": "倉本聰",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784652044070",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003677631",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "理論社",
+    "pages": 1038
+  },
+  {
+    "book_id": "isbn-9784344411685",
+    "title": "陰日向に咲く",
+    "author": "劇団ひとり",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344411685",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010041714",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784198920005",
+    "title": "佐賀のがばいばあちゃん",
+    "author": "島田洋七",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198920005",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004323276",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 237
+  },
+  {
+    "book_id": "isbn-9784480438904",
+    "title": "ワイルドサイドをほっつき歩け",
+    "author": "ブレイディみかこ",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480438904",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032962062",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784087446470",
+    "title": "クラスメイトの女子、全員好きでした",
+    "author": "爪切男",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087446470",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033464288",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784594083441",
+    "title": "死にたい夜にかぎって",
+    "author": "爪切男",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784594083441",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030059950",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "扶桑社",
+    "pages": 263
   }
 ]
