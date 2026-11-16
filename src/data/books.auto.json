@@ -218949,5 +218949,571 @@
     "tier": "basic",
     "publisher": "スターツ出版",
     "pages": 435
+  },
+  {
+    "book_id": "isbn-9784065119761",
+    "title": "天国大魔境",
+    "author": "石黒正数",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065119761",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029094618",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 222
+  },
+  {
+    "book_id": "isbn-9784785926045",
+    "title": "それでも町は廻っている",
+    "author": "石黒正数",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784785926045",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025973816",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "少年画報社",
+    "pages": 191
+  },
+  {
+    "book_id": "isbn-9784199509001",
+    "title": "ネムルバカ",
+    "author": "石黒正数",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784199509001",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033981175",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 287
+  },
+  {
+    "book_id": "isbn-9784757538870",
+    "title": "クズの本懐",
+    "author": "横槍メンゴ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784757538870",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024280614",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "スクウェア・エニックス",
+    "pages": 177
+  },
+  {
+    "book_id": "isbn-9784063546439",
+    "title": "めしにしましょう",
+    "author": "小林銅蟲",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784063546439",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027725577",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 122
+  },
+  {
+    "book_id": "isbn-9784047305137",
+    "title": "ふしぎの国のバード",
+    "author": "佐々大河",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784047305137",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026356411",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 223
+  },
+  {
+    "book_id": "isbn-9784088820453",
+    "title": "姫様“拷問”の時間です",
+    "author": "春原ロビンソン、ひらけい",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088820453",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029917176",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784199504914",
+    "title": "推しが武道館いってくれたら死ぬ",
+    "author": "平尾アウリ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784199504914",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029501886",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 156
+  },
+  {
+    "book_id": "isbn-9784344982482",
+    "title": "大往生したけりゃ医療とかかわるな",
+    "author": "中村仁一",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344982482",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023344083",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 213
+  },
+  {
+    "book_id": "isbn-9784344406391",
+    "title": "廃用身",
+    "author": "久坂部羊",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344406391",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008210517",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 402
+  },
+  {
+    "book_id": "isbn-9784344409880",
+    "title": "破裂",
+    "author": "久坂部羊",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344409880",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009303717",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 422
+  },
+  {
+    "book_id": "isbn-9784022621061",
+    "title": "母が重くてたまらない",
+    "author": "信田さよ子",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022621061",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033816529",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 207
+  },
+  {
+    "book_id": "isbn-9784344427761",
+    "title": "サイレント・ブレス",
+    "author": "南杏子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344427761",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029055065",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 407
+  },
+  {
+    "book_id": "isbn-9784106104640",
+    "title": "恐山",
+    "author": "南直哉",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784106104640",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023536818",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 207
+  },
+  {
+    "book_id": "isbn-9784101277615",
+    "title": "死ぬときに後悔すること25",
+    "author": "大津秀一",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101277615",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024836097",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 237
+  },
+  {
+    "book_id": "isbn-9784004314042",
+    "title": "トラウマ",
+    "author": "宮地尚子",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004314042",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024181869",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 256
+  },
+  {
+    "book_id": "isbn-9784334036430",
+    "title": "愛着障害",
+    "author": "岡田尊司",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334036430",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011273195",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 313
+  },
+  {
+    "book_id": "isbn-9784569635255",
+    "title": "パーソナリティ障害",
+    "author": "岡田尊司",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784569635255",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007382460",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "PHP研究所",
+    "pages": 298
+  },
+  {
+    "book_id": "isbn-9784061498624",
+    "title": "「普通がいい」という病",
+    "author": "泉谷閑示",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061498624",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008336589",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 262
+  },
+  {
+    "book_id": "isbn-9784344981065",
+    "title": "精神科医は腹の底で何を考えているか",
+    "author": "春日武彦",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344981065",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010016326",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784480071729",
+    "title": "薬物依存症",
+    "author": "松本俊彦",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480071729",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029179263",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 350
   }
 ]
