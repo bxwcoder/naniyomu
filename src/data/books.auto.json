@@ -247663,5 +247663,703 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 261
+  },
+  {
+    "book_id": "isbn-9784087454208",
+    "title": "ここはボツコニアン",
+    "author": "宮部みゆき",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087454208",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027138786",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 286
+  },
+  {
+    "book_id": "isbn-9784041064344",
+    "title": "過ぎ去りし王国の城",
+    "author": "宮部みゆき",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041064344",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029000121",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 379
+  },
+  {
+    "book_id": "isbn-9784101369426",
+    "title": "悲嘆の門",
+    "author": "宮部みゆき",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101369426",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028640350",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 370
+  },
+  {
+    "book_id": "isbn-9784041120583",
+    "title": "黒武御神火御殿",
+    "author": "宮部みゆき",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041120583",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032165410",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 613
+  },
+  {
+    "book_id": "isbn-9784041161234",
+    "title": "青瓜不動",
+    "author": "宮部みゆき",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041161234",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034080714",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 471
+  },
+  {
+    "book_id": "isbn-9784569904245",
+    "title": "子宝船",
+    "author": "宮部みゆき",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784569904245",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033621145",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "PHP研究所",
+    "pages": 423
+  },
+  {
+    "book_id": "isbn-9784569858098",
+    "title": "気の毒ばたらき",
+    "author": "宮部みゆき",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784569858098",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033728373",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "PHP研究所",
+    "pages": 475
+  },
+  {
+    "book_id": "isbn-9784877286514",
+    "title": "ビフォア・ラン",
+    "author": "重松清",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784877286514",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003029839",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 334
+  },
+  {
+    "book_id": "isbn-9784344400108",
+    "title": "四十回のまばたき",
+    "author": "重松清",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344400108",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003029806",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 260
+  },
+  {
+    "book_id": "isbn-9784101349121",
+    "title": "見張り塔からずっと",
+    "author": "重松清",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101349121",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002818428",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 270
+  },
+  {
+    "book_id": "isbn-9784877287689",
+    "title": "幼な子われらに生まれ",
+    "author": "重松清",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784877287689",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002920558",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 326
+  },
+  {
+    "book_id": "isbn-9784101349145",
+    "title": "日曜日の夕刊",
+    "author": "重松清",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101349145",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003658364",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 469
+  },
+  {
+    "book_id": "isbn-9784022645951",
+    "title": "ブランケット・キャッツ",
+    "author": "重松清",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022645951",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011111658",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 381
+  },
+  {
+    "book_id": "isbn-9784101349329",
+    "title": "ポニーテール",
+    "author": "重松清",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101349329",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025494925",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 387
+  },
+  {
+    "book_id": "isbn-9784062934794",
+    "title": "赤ヘル1975",
+    "author": "重松清",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062934794",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027511303",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 631
+  },
+  {
+    "book_id": "isbn-9784101349336",
+    "title": "なきむし姫",
+    "author": "重松清",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101349336",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026436587",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 293
+  },
+  {
+    "book_id": "isbn-9784101349367",
+    "title": "一人っ子同盟",
+    "author": "重松清",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101349367",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028186290",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 477
+  },
+  {
+    "book_id": "isbn-9784101349350",
+    "title": "ゼツメツ少年",
+    "author": "重松清",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101349350",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027313097",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 501
+  },
+  {
+    "book_id": "isbn-9784167905651",
+    "title": "また次の春へ",
+    "author": "重松清",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167905651",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027126329",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 237
+  },
+  {
+    "book_id": "isbn-9784065257289",
+    "title": "どんまい",
+    "author": "重松清",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065257289",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031712897",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 575
+  },
+  {
+    "book_id": "isbn-9784101349404",
+    "title": "ハレルヤ!",
+    "author": "重松清",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101349404",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031472636",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 358
+  },
+  {
+    "book_id": "isbn-9784087460957",
+    "title": "真夜中のマーチ",
+    "author": "奥田英朗",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087460957",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008371223",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 333
+  },
+  {
+    "book_id": "isbn-9784101344713",
+    "title": "港町食堂",
+    "author": "奥田英朗",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101344713",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009335731",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 256
+  },
+  {
+    "book_id": "isbn-9784041022535",
+    "title": "田舎でロックンロール",
+    "author": "奥田英朗",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041022535",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025856818",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 278
+  },
+  {
+    "book_id": "isbn-9784334101541",
+    "title": "コロナと潜水服",
+    "author": "奥田英朗",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334101541",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033179549",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 275
+  },
+  {
+    "book_id": "isbn-9784575714821",
+    "title": "山猫珈琲",
+    "author": "湊かなえ",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575714821",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030103784",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 257
   }
 ]

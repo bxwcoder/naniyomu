@@ -1,8 +1,8 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-16T21:28:24.723Z
-- 候補：10227冊
-- 入れた本：9318冊
+- 検索日時：2026-11-16T21:38:30.381Z
+- 候補：10253冊
+- 入れた本：9344冊
 - 入れなかった本：909冊
 
 ## 入れなかった本
@@ -10237,3 +10237,29 @@
 - エレジーは流れない：双葉文庫 ; み-22-03／双葉社／2024.10／308p／NDC 913.6／novel・easy・medium
 - ゆびさきに魔法：叢書なし／文藝春秋／2024.11／364p／NDC 913.6／novel・easy・medium
 - しをんのしおり：新潮文庫／新潮社／2005.11／261p／NDC 914.6／nonfiction・easy・medium
+- ここはボツコニアン：集英社文庫 ; み27-3／集英社／2016.3／286p／NDC 913.6／mystery_sf・normal・long
+- 過ぎ去りし王国の城：角川文庫 ; み28-9／KADOKAWA／2018.6／379p／NDC 913.6／mystery_sf・normal・medium
+- 悲嘆の門：新潮文庫 ; み-22-32／新潮社／2017.12／370p／NDC 913.6／mystery_sf・normal・long
+- 黒武御神火御殿：角川文庫 ; み28-56／KADOKAWA／2022.6／613p／NDC 913.6／novel・easy・long
+- 青瓜不動：角川文庫 ; み28-59／KADOKAWA／2025.6／471p／NDC 913.6／novel・easy・long
+- 子宝船：PHP文芸文庫 ; み1-27. きたきた捕物帖 ; 2／PHP研究所／2024.8／423p／NDC 913.6／novel・easy・medium
+- 気の毒ばたらき：きたきた捕物帖 ; 3／PHP研究所／2024.10／475p／NDC 913.6／novel・easy・long
+- ビフォア・ラン：幻冬舎文庫／幻冬舎／1998.10／334p／NDC 913.6／novel・easy・medium
+- 四十回のまばたき：幻冬舎文庫／幻冬舎／2000.8／260p／NDC 913.6／novel・easy・medium
+- 見張り塔からずっと：新潮文庫／新潮社／1999.9／270p／NDC 913.6／novel・easy・medium
+- 幼な子われらに生まれ：幻冬舎文庫／幻冬舎／1999.8／326p／NDC 913.6／novel・easy・medium
+- 日曜日の夕刊：新潮文庫／新潮社／2002.7／469p／NDC 913.6／novel・easy・long
+- ブランケット・キャッツ：朝日文庫 ; し25-3／朝日新聞出版／2011.2／381p／NDC 913.6／novel・easy・medium
+- ポニーテール：新潮文庫 ; し-43-22／新潮社／2014.7／387p／NDC 913.6／novel・easy・medium
+- 赤ヘル1975：講談社文庫 ; し61-23／講談社／2016.8／631p／NDC 913.6／novel・easy・long
+- なきむし姫：新潮文庫 ; し-43-23／新潮社／2015.7／293p／NDC 913.6／novel・easy・medium
+- 一人っ子同盟：新潮文庫 ; し-43-26／新潮社／2017.7／477p／NDC 913.6／novel・easy・long
+- ゼツメツ少年：新潮文庫 ; し-43-25／新潮社／2016.7／501p／NDC 913.6／novel・easy・long
+- また次の春へ：文春文庫 ; し38-14／文藝春秋／2016.3／237p／NDC 913.6／novel・easy・short
+- どんまい：講談社文庫 ; し61-28／講談社／2021.10／575p／NDC 913.6／novel・easy・long
+- ハレルヤ!：新潮文庫／新潮社／2021.7／358 p／NDC 913.6／novel・easy・medium
+- 真夜中のマーチ：集英社文庫／集英社／2006.11／333p／NDC 913.6／novel・easy・medium
+- 港町食堂：新潮文庫／新潮社／2008.5／256p／NDC 915.6／nonfiction・easy・medium
+- 田舎でロックンロール：叢書なし／KADOKAWA／2014.10／278p／NDC 914.6／nonfiction・easy・medium
+- コロナと潜水服：光文社文庫 ; お36-5／光文社／2023.12／275p／NDC 913.6／novel・easy・medium
+- 山猫珈琲：双葉文庫 ; み-21-07／双葉社／2019.12／257p／NDC 914.6／nonfiction・easy・long
