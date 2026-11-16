@@ -256438,5 +256438,811 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 251
+  },
+  {
+    "book_id": "isbn-9784828832234",
+    "title": "うたかた/サンクチュアリ",
+    "author": "吉本ばなな",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784828832234",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002149552",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "福武書店",
+    "pages": 214
+  },
+  {
+    "book_id": "isbn-9784877287214",
+    "title": "SLY",
+    "author": "吉本ばなな",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784877287214",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003029384",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 228
+  },
+  {
+    "book_id": "isbn-9784860520120",
+    "title": "アルゼンチンババア",
+    "author": "よしもとばなな",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784860520120",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004232774",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ロッキング・オン",
+    "pages": 153
+  },
+  {
+    "book_id": "isbn-9784167667061",
+    "title": "彼女について",
+    "author": "よしもとばなな",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167667061",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011202892",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 225
+  },
+  {
+    "book_id": "isbn-9784344419094",
+    "title": "もしもし下北沢",
+    "author": "よしもとばなな",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344419094",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023792386",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 291
+  },
+  {
+    "book_id": "isbn-9784344420755",
+    "title": "スウィート・ヒアアフター",
+    "author": "よしもとばなな",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344420755",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024664787",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 165
+  },
+  {
+    "book_id": "isbn-9784022648754",
+    "title": "ふなふな船橋",
+    "author": "吉本ばなな",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022648754",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028837421",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 246
+  },
+  {
+    "book_id": "isbn-9784087456585",
+    "title": "鳥たち",
+    "author": "吉本ばなな",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087456585",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028613945",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 202
+  },
+  {
+    "book_id": "isbn-9784344433632",
+    "title": "ミトンとふびん",
+    "author": "吉本ばなな",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344433632",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033289011",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 262
+  },
+  {
+    "book_id": "isbn-9784309405797",
+    "title": "学校の青空",
+    "author": "角田光代",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309405797",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002782096",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 187
+  },
+  {
+    "book_id": "isbn-9784062752046",
+    "title": "エコノミカル・パレス",
+    "author": "角田光代",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062752046",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007942767",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 204
+  },
+  {
+    "book_id": "isbn-9784309407609",
+    "title": "東京ゲスト・ハウス",
+    "author": "角田光代",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309407609",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007937689",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 170
+  },
+  {
+    "book_id": "isbn-9784167672041",
+    "title": "太陽と毒ぐも",
+    "author": "角田光代",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167672041",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008571686",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 299
+  },
+  {
+    "book_id": "isbn-9784062758451",
+    "title": "庭の桜、隣の犬",
+    "author": "角田光代",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062758451",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009095082",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 315
+  },
+  {
+    "book_id": "isbn-9784062759946",
+    "title": "人生ベストテン",
+    "author": "角田光代",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062759946",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009308075",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 270
+  },
+  {
+    "book_id": "isbn-9784062766708",
+    "title": "ロック母",
+    "author": "角田光代",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062766708",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010891328",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 294
+  },
+  {
+    "book_id": "isbn-9784022643445",
+    "title": "今、何してる?",
+    "author": "角田光代",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022643445",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007687510",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞社",
+    "pages": 229
+  },
+  {
+    "book_id": "isbn-9784167672072",
+    "title": "三面記事小説",
+    "author": "角田光代",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167672072",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010974136",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 286
+  },
+  {
+    "book_id": "isbn-9784087466300",
+    "title": "マザコン",
+    "author": "角田光代",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087466300",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011041795",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 235
+  },
+  {
+    "book_id": "isbn-9784062777582",
+    "title": "ひそやかな花園",
+    "author": "角田光代",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062777582",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025170956",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 381
+  },
+  {
+    "book_id": "isbn-9784094064124",
+    "title": "ポケットに物語を入れて",
+    "author": "角田光代",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094064124",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028061672",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 345
+  },
+  {
+    "book_id": "isbn-9784101058320",
+    "title": "私のなかの彼女",
+    "author": "角田光代",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101058320",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027246331",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 394
+  },
+  {
+    "book_id": "isbn-9784101058405",
+    "title": "方舟を燃やす",
+    "author": "角田光代",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101058405",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034978922",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 595
+  },
+  {
+    "book_id": "isbn-9784043480043",
+    "title": "泣く大人",
+    "author": "江國香織",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043480043",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007474816",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 231
+  },
+  {
+    "book_id": "isbn-9784101339184",
+    "title": "ぼくの小鳥ちゃん",
+    "author": "江國香織",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101339184",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003045192",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 136
+  },
+  {
+    "book_id": "isbn-9784087475852",
+    "title": "薔薇の木 枇杷の木 檸檬の木",
+    "author": "江國香織",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087475852",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004165886",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 383
+  },
+  {
+    "book_id": "isbn-9784087462937",
+    "title": "すきまのおともだちたち",
+    "author": "江國香織",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087462937",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009369825",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 174
+  },
+  {
+    "book_id": "isbn-9784334742621",
+    "title": "思いわずらうことなく愉しく生きよ",
+    "author": "江國香織",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334742621",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008571135",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 396
+  },
+  {
+    "book_id": "isbn-9784101339245",
+    "title": "雨はコーラがのめない",
+    "author": "江國香織",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101339245",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008591752",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 165
+  },
+  {
+    "book_id": "isbn-9784062774727",
+    "title": "真昼なのに昏い部屋",
+    "author": "江國香織",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062774727",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024218670",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 242
   }
 ]
