@@ -215231,6 +215231,33 @@
     "pages": 504
   },
   {
+    "book_id": "isbn-9784006033446",
+    "title": "ショック・ドクトリン",
+    "author": "ナオミ・クライン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784006033446",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033343123",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 408
+  },
+  {
     "book_id": "isbn-9784624011239",
     "title": "公共性の構造転換",
     "author": "ハーバーマス",
