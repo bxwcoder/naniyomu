@@ -220952,5 +220952,410 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 440
+  },
+  {
+    "book_id": "isbn-9784434145063",
+    "title": "人生の意味の心理学",
+    "author": "アルフレッド・アドラー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784434145063",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010876634",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "アルテ",
+    "pages": 189
+  },
+  {
+    "book_id": "isbn-9784531080519",
+    "title": "宗教的経験の諸相",
+    "author": "ウィリアム・ジェイムズ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784531080519",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I2611B10304033",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日本教文社",
+    "pages": 400
+  },
+  {
+    "book_id": "isbn-9784003361122",
+    "title": "老年について",
+    "author": "キケロ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003361122",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004351806",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 131
+  },
+  {
+    "book_id": "isbn-9784003361139",
+    "title": "友情について",
+    "author": "キケロ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003361139",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007348167",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 131
+  },
+  {
+    "book_id": "isbn-9784588120817",
+    "title": "人間本性論",
+    "author": "ヒューム",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784588120817",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002397822",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "法政大学出版局",
+    "pages": 629
+  },
+  {
+    "book_id": "isbn-9784878932779",
+    "title": "現象学の理念",
+    "author": "フッサール",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784878932779",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002596376",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "作品社",
+    "pages": 133
+  },
+  {
+    "book_id": "isbn-9784329000590",
+    "title": "神話作用",
+    "author": "ロラン・バルト",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784329000590",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I30111100345334",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "現代思潮社",
+    "pages": 230
+  },
+  {
+    "book_id": "isbn-9784622004899",
+    "title": "明るい部屋",
+    "author": "ロラン・バルト",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784622004899",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001754904",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "みすず書房",
+    "pages": 152
+  },
+  {
+    "book_id": "isbn-9784003860397",
+    "title": "道徳形而上学の基礎づけ",
+    "author": "カント",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003860397",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033390029",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 218
+  },
+  {
+    "book_id": "isbn-9784480093073",
+    "title": "創造的進化",
+    "author": "ベルクソン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480093073",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010999428",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 518
+  },
+  {
+    "book_id": "isbn-9784003364598",
+    "title": "時間と自由",
+    "author": "ベルクソン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003364598",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002994337",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 311
+  },
+  {
+    "book_id": "isbn-9784003360224",
+    "title": "パイドン",
+    "author": "プラトン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003360224",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002676695",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 213
+  },
+  {
+    "book_id": "isbn-9784334111458",
+    "title": "意志と表象としての世界",
+    "author": "ショーペンハウアー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334111458",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034886156",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 553
+  },
+  {
+    "book_id": "isbn-9784334752064",
+    "title": "経済学・哲学草稿",
+    "author": "マルクス",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334752064",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010888232",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 295
+  },
+  {
+    "book_id": "isbn-9784588007750",
+    "title": "人間の美的教育について",
+    "author": "シラー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784588007750",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004176718",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "法政大学出版局",
+    "pages": 187
   }
 ]
