@@ -1,8 +1,8 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-16T20:22:06.909Z
-- 候補：10002冊
-- 入れた本：9099冊
+- 検索日時：2026-11-16T20:29:48.670Z
+- 候補：10040冊
+- 入れた本：9137冊
 - 入れなかった本：903冊
 
 ## 入れなかった本
@@ -10012,3 +10012,41 @@
 - 黒船：中公文庫／中央公論社／1994.6／448p／NDC 913.6／novel・normal・medium
 - 赤い人：講談社文庫／講談社／1984.3／265p／NDC 913.6／novel・normal・medium
 - 闇を裂く道：文春文庫／文芸春秋／1990.7／430p／NDC 913.6／novel・normal・medium
+- 蒼い描点：新潮文庫／新潮社／2002.3／664p／NDC 913.6／mystery_sf・normal・long
+- 火の路：文春文庫. 長篇ミステリー傑作選／文藝春秋／2009.7／483p／NDC 913.6／mystery_sf・normal・long
+- 鬼畜：松本清張映画化作品集 ; 2／双葉社／2008.6／372p／NDC 913.6／mystery_sf・normal・medium
+- かげろう絵図：文春文庫／文藝春秋／2004.8／551p／NDC 913.6／novel・normal・long
+- 天保図録：講談社文庫／講談社／1982.1／322p／NDC 913.6／novel・normal・long
+- 虚線の下絵：文春文庫／文藝春秋／2005.11／299p／NDC 913.6／mystery_sf・normal・medium
+- 幽霊男：叢書なし／角川書店／198607／２９６ｐ ; １５ｃｍ／NDC 913.6／mystery_sf・normal・medium
+- 扉の影の女：春陽文庫／春陽堂書店／1997.12／250p／NDC 913.6／mystery_sf・normal・medium
+- 支那扇の女：春陽文庫／春陽堂書店／1997.11／240p／NDC 913.6／mystery_sf・normal・short
+- 不死蝶：春陽文庫／春陽堂書店／1996.7／300p／NDC 913.6／mystery_sf・normal・medium
+- 吸血蛾：春陽文庫／春陽堂書店／1997.11／330p／NDC 913.6／mystery_sf・normal・medium
+- 夜光虫：徳間文庫／徳間書店／2007.4／283p／NDC 913.6／mystery_sf・normal・medium
+- 蔵の中・鬼火：角川文庫 ; よ5-41／KADOKAWA／2018.7／282p／NDC 913.6／mystery_sf・normal・medium
+- 心理試験：春陽文庫. 江戸川乱歩文庫／春陽堂書店／2015.11／292p／NDC 913.6／mystery_sf・normal・medium
+- 屋根裏の散歩者：角川文庫／角川書店／1987.8／405p／NDC 913.6／mystery_sf・normal・medium
+- 蜘蛛男：創元推理文庫／東京創元社／1993.2／364p／NDC 913.6／mystery_sf・normal・medium
+- 黄金仮面：創元推理文庫／東京創元社／1993.9／345p／NDC 913.6／mystery_sf・normal・medium
+- 黒蜥蜴：創元推理文庫／東京創元社／1993.5／257p／NDC 913.6／mystery_sf・normal・medium
+- 化人幻戯：角川ホラー文庫／角川書店／1994.4／387p／NDC 913.6／mystery_sf・normal・medium
+- 幽霊塔：創元推理文庫／東京創元社／1997.9／439p／NDC 913.6／mystery_sf・normal・medium
+- 吸血鬼：創元推理文庫／東京創元社／1993.12／413p／NDC 913.6／mystery_sf・normal・medium
+- 緑衣の鬼：創元推理文庫／東京創元社／1996.11／395p／NDC 913.6／mystery_sf・normal・medium
+- 三角館の恐怖：創元推理文庫／東京創元社／1997.4／328p／NDC 913.6／mystery_sf・normal・medium
+- 影男：創元推理文庫／東京創元社／1995.10／324p／NDC 913.6／mystery_sf・normal・medium
+- 幻影城：叢書なし／沖積舎／1997.10／403, 17p／NDC 902.3／mystery_sf・normal・medium
+- 探偵小説四十年：叢書なし／沖積舎／1993.7／529, 33p／NDC 910.268／nonfiction・normal・long
+- 二銭銅貨：叢書なし／講談社／1987／ページ数不明／NDC 918.68／mystery_sf・normal・long
+- 一寸法師：叢書なし／ポプラ社／1973.11／ページ数不明／NDC 913.6／mystery_sf・normal・medium
+- 盲獣：創元推理文庫／東京創元社／1996.2／364p／NDC 913.6／mystery_sf・normal・medium
+- わが一高時代の犯罪：光文社文庫. 神津恭介シリーズ／光文社／1996.4／299p／NDC 913.6／mystery_sf・normal・medium
+- 邪馬台国の秘密：光文社文庫. 高木彬光コレクション／光文社／2006.10／484p／NDC 913.6／mystery_sf・normal・long
+- ゼロの蜜月：光文社文庫. 検事霧島三郎シリーズ／光文社／1990.10／399p／NDC 913.6／mystery_sf・normal・medium
+- 検事霧島三郎：角川文庫／角川書店／1997.2／570p／NDC 913.6／mystery_sf・normal・long
+- 死のある風景：創元推理文庫／東京創元社／2002.9／448p／NDC 913.6／mystery_sf・normal・medium
+- 人それを情死と呼ぶ：光文社文庫. 鮎川哲也コレクション／光文社／2001.7／359p／NDC 913.6／mystery_sf・normal・medium
+- 準急ながら：光文社文庫. 鮎川哲也コレクション／光文社／2001.8／255p／NDC 913.6／mystery_sf・normal・medium
+- 沈黙の函：光文社文庫. 鮎川哲也コレクション／光文社／2003.3／296p／NDC 913.6／mystery_sf・normal・medium
+- 五つの時計：創元推理文庫／東京創元社／1999.2／572p／NDC 913.6／mystery_sf・normal・long

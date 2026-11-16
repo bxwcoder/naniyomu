@@ -241898,5 +241898,994 @@
     "tier": "basic",
     "publisher": "文芸春秋",
     "pages": 430
+  },
+  {
+    "book_id": "isbn-9784101109213",
+    "title": "蒼い描点",
+    "author": "松本清張",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101109213",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003690333",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 664
+  },
+  {
+    "book_id": "isbn-9784167697181",
+    "title": "火の路",
+    "author": "松本清張",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167697181",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010335036",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 483
+  },
+  {
+    "book_id": "isbn-9784575512069",
+    "title": "鬼畜",
+    "author": "松本清張",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575512069",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009389575",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 372
+  },
+  {
+    "book_id": "isbn-9784167106928",
+    "title": "かげろう絵図",
+    "author": "松本清張",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167106928",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007436907",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 551
+  },
+  {
+    "book_id": "isbn-9784061317376",
+    "title": "天保図録",
+    "author": "松本清張",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061317376",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001541568",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 322
+  },
+  {
+    "book_id": "isbn-9784167697099",
+    "title": "虚線の下絵",
+    "author": "松本清張",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167697099",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007989690",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 299
+  },
+  {
+    "book_id": "isbn-9784041304143",
+    "title": "幽霊男",
+    "author": "横溝正史",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041304143",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I09111100330283",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 296
+  },
+  {
+    "book_id": "isbn-9784394395263",
+    "title": "扉の影の女",
+    "author": "横溝正史",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784394395263",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002645704",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "春陽堂書店",
+    "pages": 250
+  },
+  {
+    "book_id": "isbn-9784394395232",
+    "title": "支那扇の女",
+    "author": "横溝正史",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784394395232",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002640585",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "春陽堂書店",
+    "pages": 240
+  },
+  {
+    "book_id": "isbn-9784394395133",
+    "title": "不死蝶",
+    "author": "横溝正史",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784394395133",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002522058",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "春陽堂書店",
+    "pages": 300
+  },
+  {
+    "book_id": "isbn-9784394395249",
+    "title": "吸血蛾",
+    "author": "横溝正史",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784394395249",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002640586",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "春陽堂書店",
+    "pages": 330
+  },
+  {
+    "book_id": "isbn-9784198925949",
+    "title": "夜光虫",
+    "author": "横溝正史",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198925949",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008511984",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 283
+  },
+  {
+    "book_id": "isbn-9784041072318",
+    "title": "蔵の中・鬼火",
+    "author": "横溝正史",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041072318",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029088884",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 282
+  },
+  {
+    "book_id": "isbn-9784394301585",
+    "title": "心理試験",
+    "author": "江戸川乱歩",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784394301585",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026861204",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "春陽堂書店",
+    "pages": 292
+  },
+  {
+    "book_id": "isbn-9784041053140",
+    "title": "屋根裏の散歩者",
+    "author": "江戸川乱歩",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041053140",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001876544",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 405
+  },
+  {
+    "book_id": "isbn-9784488401030",
+    "title": "蜘蛛男",
+    "author": "江戸川乱歩",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488401030",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002234676",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 364
+  },
+  {
+    "book_id": "isbn-9784488401078",
+    "title": "黄金仮面",
+    "author": "江戸川乱歩",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488401078",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002281284",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 345
+  },
+  {
+    "book_id": "isbn-9784488401054",
+    "title": "黒蜥蜴",
+    "author": "江戸川乱歩",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488401054",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002246328",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 257
+  },
+  {
+    "book_id": "isbn-9784041053171",
+    "title": "化人幻戯",
+    "author": "江戸川乱歩",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041053171",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002321513",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 387
+  },
+  {
+    "book_id": "isbn-9784488401184",
+    "title": "幽霊塔",
+    "author": "江戸川乱歩",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488401184",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002629431",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 439
+  },
+  {
+    "book_id": "isbn-9784488401061",
+    "title": "吸血鬼",
+    "author": "江戸川乱歩",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488401061",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002296483",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 413
+  },
+  {
+    "book_id": "isbn-9784488401160",
+    "title": "緑衣の鬼",
+    "author": "江戸川乱歩",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488401160",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002539195",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 395
+  },
+  {
+    "book_id": "isbn-9784488401177",
+    "title": "三角館の恐怖",
+    "author": "江戸川乱歩",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488401177",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002591532",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 328
+  },
+  {
+    "book_id": "isbn-9784488401108",
+    "title": "影男",
+    "author": "江戸川乱歩",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488401108",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002451030",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 324
+  },
+  {
+    "book_id": "isbn-9784806046226",
+    "title": "幻影城",
+    "author": "江戸川乱歩",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784806046226",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002702919",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "沖積舎",
+    "pages": 403
+  },
+  {
+    "book_id": "isbn-9784806040149",
+    "title": "探偵小説四十年",
+    "author": "江戸川乱歩",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784806040149",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028082708",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "沖積舎",
+    "pages": 529
+  },
+  {
+    "book_id": "isbn-9784061952010",
+    "title": "二銭銅貨",
+    "author": "江戸川乱歩",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061952010",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434830120233",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784591001509",
+    "title": "一寸法師",
+    "author": "江戸川乱歩",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784591001509",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970023484869385627",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ポプラ社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784488401146",
+    "title": "盲獣",
+    "author": "江戸川乱歩",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488401146",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002482293",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 364
+  },
+  {
+    "book_id": "isbn-9784334722142",
+    "title": "わが一高時代の犯罪",
+    "author": "高木彬光",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334722142",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002494103",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 299
+  },
+  {
+    "book_id": "isbn-9784334741426",
+    "title": "邪馬台国の秘密",
+    "author": "高木彬光",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334741426",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008325148",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 484
+  },
+  {
+    "book_id": "isbn-9784334712167",
+    "title": "ゼロの蜜月",
+    "author": "高木彬光",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334712167",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002069924",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 399
+  },
+  {
+    "book_id": "isbn-9784041338063",
+    "title": "検事霧島三郎",
+    "author": "高木彬光",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041338063",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002562709",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 570
+  },
+  {
+    "book_id": "isbn-9784488403065",
+    "title": "死のある風景",
+    "author": "鮎川哲也",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488403065",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003680911",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 448
+  },
+  {
+    "book_id": "isbn-9784334731793",
+    "title": "人それを情死と呼ぶ",
+    "author": "鮎川哲也",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334731793",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003006339",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 359
+  },
+  {
+    "book_id": "isbn-9784334731939",
+    "title": "準急ながら",
+    "author": "鮎川哲也",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334731939",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003014474",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 255
+  },
+  {
+    "book_id": "isbn-9784334734565",
+    "title": "沈黙の函",
+    "author": "鮎川哲也",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334734565",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004070197",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 296
+  },
+  {
+    "book_id": "isbn-9784488403010",
+    "title": "五つの時計",
+    "author": "鮎川哲也",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488403010",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002762577",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 572
   }
 ]
