@@ -32,8 +32,8 @@ export function genresFromNdc(ndc) {
   if (/^9\d?0/.test(ndc)) return ['liberal_arts']; // 文学の理論・文学史・作家論（901, 910.2 など）
   if (/^916/.test(ndc) || /^9\d[4-9]/.test(ndc)) return ['nonfiction']; // 記録・ルポ・随筆など
   if (/^2[89]/.test(ndc)) return ['nonfiction', 'liberal_arts']; // 伝記・地理・紀行
-  // 生き方・会社の経営・投資・家庭・健康（睡眠など）・商業。お金の理論や歴史（337、338.2 など）は教養に入れる
-  if (/^(159|33[56]|338\.1[5-8]|59|491\.37|498|67)/.test(ndc)) return ['practical'];
+  // 生き方・会社の経営・投資・家庭・健康・商業。お金の理論や歴史（337、338.2 など）は教養に入れる
+  if (/^(159|33[56]|338\.1[5-8]|59|498|67)/.test(ndc)) return ['practical'];
   if (/^[0-8]/.test(ndc)) return ['liberal_arts'];
   return null;
 }
