@@ -230255,13 +230255,14 @@
     "title": "TPP亡国論",
     "author": "中野剛志",
     "genres": [
-      "practical"
+      "liberal_arts"
     ],
     "themes": [
-      "practical"
+      "world"
     ],
     "moods": [
-      "learning"
+      "learning",
+      "wonder"
     ],
     "difficulty": "normal",
     "length_category": "medium",
@@ -230437,5 +230438,356 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 448
+  },
+  {
+    "book_id": "isbn-9784396317546",
+    "title": "世界史で学べ!地政学",
+    "author": "茂木誠",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784396317546",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029598345",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "祥伝社",
+    "pages": 335
+  },
+  {
+    "book_id": "isbn-9784062816298",
+    "title": "アメリカは日本経済の復活を知っている",
+    "author": "浜田宏一",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062816298",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026854323",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 318
+  },
+  {
+    "book_id": "isbn-9784062883863",
+    "title": "〈情報〉帝国の興亡",
+    "author": "玉木俊明",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062883863",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027516719",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 213
+  },
+  {
+    "book_id": "isbn-9784087468557",
+    "title": "ジパング島発見記",
+    "author": "山本兼一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087468557",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023775780",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 386
+  },
+  {
+    "book_id": "isbn-9784121601322",
+    "title": "二宮翁夜話",
+    "author": "二宮尊徳",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121601322",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023440299",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 266
+  },
+  {
+    "book_id": "isbn-9784140815267",
+    "title": "ブッダ 真理のことば",
+    "author": "佐々木閑",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784140815267",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023728605",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "NHK出版",
+    "pages": 163
+  },
+  {
+    "book_id": "isbn-9784087207972",
+    "title": "出家的人生のすすめ",
+    "author": "佐々木閑",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087207972",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026613312",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 199
+  },
+  {
+    "book_id": "isbn-9784065265130",
+    "title": "自然真営道",
+    "author": "安藤昌益",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065265130",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031834150",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 493
+  },
+  {
+    "book_id": "isbn-9784101489117",
+    "title": "日本仏教史",
+    "author": "末木文美士",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101489117",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002530608",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 412
+  },
+  {
+    "book_id": "isbn-9784813323914",
+    "title": "不動智神妙録",
+    "author": "沢庵",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784813323914",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011183118",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "たちばな出版",
+    "pages": 267
+  },
+  {
+    "book_id": "isbn-9784003334010",
+    "title": "選択本願念仏集",
+    "author": "法然",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003334010",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002593511",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 215
+  },
+  {
+    "book_id": "isbn-9784393140208",
+    "title": "夜船閑話",
+    "author": "白隠",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784393140208",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003077006",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "春秋社",
+    "pages": 127
+  },
+  {
+    "book_id": "isbn-9784003331316",
+    "title": "盤珪禅師語録",
+    "author": "盤珪",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003331316",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I25110652590",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 294
   }
 ]
