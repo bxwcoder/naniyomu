@@ -213738,5 +213738,463 @@
     "tier": "basic",
     "publisher": "岩波書店",
     "pages": 300
+  },
+  {
+    "book_id": "isbn-9784488797010",
+    "title": "七十四秒の旋律と孤独",
+    "author": "久永実木彦",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488797010",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033187512",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 332
+  },
+  {
+    "book_id": "isbn-9784150308063",
+    "title": "どーなつ",
+    "author": "北野勇作",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150308063",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007840184",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 309
+  },
+  {
+    "book_id": "isbn-9784199050305",
+    "title": "かめくん",
+    "author": "北野勇作",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784199050305",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002954407",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 300
+  },
+  {
+    "book_id": "isbn-9784150312640",
+    "title": "裏世界ピクニック",
+    "author": "宮澤伊織",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150312640",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027981317",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784101014210",
+    "title": "オルガニスト",
+    "author": "山之口洋",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101014210",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003017147",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 381
+  },
+  {
+    "book_id": "isbn-9784122012714",
+    "title": "幻詩狩り",
+    "author": "川又千秋",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122012714",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001778461",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 392
+  },
+  {
+    "book_id": "isbn-9784086302197",
+    "title": "All You Need Is Kill",
+    "author": "桜坂洋",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784086302197",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007609502",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 274
+  },
+  {
+    "book_id": "isbn-9784150314378",
+    "title": "構造素子",
+    "author": "樋口恭介",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150314378",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030444327",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 495
+  },
+  {
+    "book_id": "isbn-9784101403212",
+    "title": "イラハイ",
+    "author": "佐藤哲也",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101403212",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002534372",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784101351513",
+    "title": "対話篇",
+    "author": "金城一紀",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101351513",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009406255",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 244
+  },
+  {
+    "book_id": "isbn-9784087465877",
+    "title": "映画篇",
+    "author": "金城一紀",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087465877",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010903307",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 463
+  },
+  {
+    "book_id": "isbn-9784167722012",
+    "title": "ガールズ・ブルー",
+    "author": "あさのあつこ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167722012",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008370781",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 231
+  },
+  {
+    "book_id": "isbn-9784167722128",
+    "title": "火群のごとく",
+    "author": "あさのあつこ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167722128",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024622187",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 364
+  },
+  {
+    "book_id": "isbn-9784101237329",
+    "title": "サマータイム",
+    "author": "佐藤多佳子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101237329",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004214643",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 218
+  },
+  {
+    "book_id": "isbn-9784167857028",
+    "title": "聖夜",
+    "author": "佐藤多佳子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167857028",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025005020",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 235
+  },
+  {
+    "book_id": "isbn-9784006022112",
+    "title": "エクソフォニー",
+    "author": "多和田葉子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784006022112",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023974995",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 218
+  },
+  {
+    "book_id": "isbn-9784065318003",
+    "title": "星に仄めかされて",
+    "author": "多和田葉子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065318003",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032782012",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 383
   }
 ]
