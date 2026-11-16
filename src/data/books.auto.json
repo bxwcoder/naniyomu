@@ -227957,5 +227957,409 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 201
+  },
+  {
+    "book_id": "isbn-9784344983618",
+    "title": "最貧困女子",
+    "author": "鈴木大介",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344983618",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025777190",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 213
+  },
+  {
+    "book_id": "isbn-9784106106736",
+    "title": "脳が壊れた",
+    "author": "鈴木大介",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784106106736",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027339622",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 233
+  },
+  {
+    "book_id": "isbn-9784801303003",
+    "title": "カルト宗教信じてました。",
+    "author": "たもさん",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784801303003",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028941789",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "彩図社",
+    "pages": 141
+  },
+  {
+    "book_id": "isbn-9784393323311",
+    "title": "オウム真理教の精神史",
+    "author": "大田俊寛",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784393323311",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011154001",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "春秋社",
+    "pages": 283
+  },
+  {
+    "book_id": "isbn-9784087450156",
+    "title": "A3",
+    "author": "森達也",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087450156",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024100141",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 356
+  },
+  {
+    "book_id": "isbn-9784760148431",
+    "title": "世界は細菌にあふれ、人は細菌によって生かされる",
+    "author": "エド・ヨン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784760148431",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028161727",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "柏書房",
+    "pages": 442
+  },
+  {
+    "book_id": "isbn-9784150506018",
+    "title": "考える脳 考えるコンピューター",
+    "author": "ジェフ・ホーキンス",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150506018",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032930561",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 382
+  },
+  {
+    "book_id": "isbn-9784150502607",
+    "title": "フィンチの嘴",
+    "author": "ジョナサン・ワイナー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150502607",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003052598",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 483
+  },
+  {
+    "book_id": "isbn-9784622089841",
+    "title": "AI新生",
+    "author": "スチュアート・ラッセル",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784622089841",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031383285",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "みすず書房",
+    "pages": 306
+  },
+  {
+    "book_id": "isbn-9784750344218",
+    "title": "ビッグヒストリー",
+    "author": "デヴィッド・クリスチャン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784750344218",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027686904",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "明石書店",
+    "pages": 400
+  },
+  {
+    "book_id": "isbn-9784532357078",
+    "title": "スーパーインテリジェンス",
+    "author": "ニック・ボストロム",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784532357078",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028640524",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日本経済新聞出版社",
+    "pages": 717
+  },
+  {
+    "book_id": "isbn-9784314011211",
+    "title": "〈わたし〉はどこにあるのか",
+    "author": "マイケル・S・ガザニガ",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784314011211",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025623372",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "紀伊國屋書店",
+    "pages": 301
+  },
+  {
+    "book_id": "isbn-9784314011693",
+    "title": "情動はこうしてつくられる",
+    "author": "リサ・フェルドマン・バレット",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784314011693",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030009647",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "紀伊國屋書店",
+    "pages": 617
+  },
+  {
+    "book_id": "isbn-9784822282523",
+    "title": "宇宙のランドスケープ",
+    "author": "レオナルド・サスキンド",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784822282523",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008402704",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日経BP社",
+    "pages": 544
+  },
+  {
+    "book_id": "isbn-9784167907815",
+    "title": "宇宙が始まる前には何があったのか?",
+    "author": "ローレンス・クラウス",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167907815",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027789070",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 343
   }
 ]
