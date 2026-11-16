@@ -229327,5 +229327,453 @@
     "tier": "basic",
     "publisher": "築地書館",
     "pages": 234
+  },
+  {
+    "book_id": "isbn-9784198934613",
+    "title": "剣豪将軍義輝",
+    "author": "宮本昌孝",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198934613",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011307019",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 362
+  },
+  {
+    "book_id": "isbn-9784101212517",
+    "title": "ふたり道三",
+    "author": "宮本昌孝",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101212517",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007937466",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 567
+  },
+  {
+    "book_id": "isbn-9784167679828",
+    "title": "月ノ浦惣庄公事置書",
+    "author": "岩井三四二",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167679828",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008153721",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 324
+  },
+  {
+    "book_id": "isbn-9784167801137",
+    "title": "群青 日本海軍の礎を築いた男",
+    "author": "植松三十里",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167801137",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011053224",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 425
+  },
+  {
+    "book_id": "isbn-9784569766447",
+    "title": "鯖猫長屋ふしぎ草紙",
+    "author": "田牧大和",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784569766447",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027677833",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "PHP研究所",
+    "pages": 379
+  },
+  {
+    "book_id": "isbn-9784087467772",
+    "title": "蛇衆",
+    "author": "矢野隆",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087467772",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023172119",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 398
+  },
+  {
+    "book_id": "isbn-9784150414788",
+    "title": "ウーマン・イン・ザ・ウィンドウ",
+    "author": "A・J・フィン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150414788",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031294243",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 365
+  },
+  {
+    "book_id": "isbn-9784488179076",
+    "title": "彼と彼女の衝撃の瞬間",
+    "author": "アリス・フィーニー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488179076",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031619900",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 461
+  },
+  {
+    "book_id": "isbn-9784488173098",
+    "title": "8つの完璧な殺人",
+    "author": "ピーター・スワンソン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488173098",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032967328",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 403
+  },
+  {
+    "book_id": "isbn-9784041010730",
+    "title": "三秒間の死角",
+    "author": "アンデシュ・ルースルンド",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041010730",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024916435",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 451
+  },
+  {
+    "book_id": "isbn-9784488170035",
+    "title": "見知らぬ人",
+    "author": "エリー・グリフィス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488170035",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031552569",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 508
+  },
+  {
+    "book_id": "isbn-9784151835513",
+    "title": "渇きと偽り",
+    "author": "ジェイン・ハーパー",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784151835513",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029086186",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 460
+  },
+  {
+    "book_id": "isbn-9784087607772",
+    "title": "ポピーのためにできること",
+    "author": "ジャニス・ハレット",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087607772",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032115803",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 703
+  },
+  {
+    "book_id": "isbn-9784596961327",
+    "title": "ぼくの家族はみんな誰かを殺してる",
+    "author": "ベンジャミン・スティーヴンソン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784596961327",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033586009",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ハーパーコリンズ・ジャパン",
+    "pages": 519
+  },
+  {
+    "book_id": "isbn-9784150413194",
+    "title": "窓際のスパイ",
+    "author": "ミック・ヘロン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150413194",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025813219",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 556
+  },
+  {
+    "book_id": "isbn-9784150018924",
+    "title": "猟犬",
+    "author": "ヨルン・リーエル・ホルスト",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150018924",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026061269",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 403
+  },
+  {
+    "book_id": "isbn-9784094063097",
+    "title": "雪盲",
+    "author": "ラグナル・ヨナソン",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094063097",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028114988",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 380
   }
 ]
