@@ -215040,5 +215040,569 @@
     "tier": "basic",
     "publisher": "文藝春秋",
     "pages": 396
+  },
+  {
+    "book_id": "isbn-9784003369210",
+    "title": "啓蒙の弁証法",
+    "author": "アドルノ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003369210",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008451593",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 549
+  },
+  {
+    "book_id": "isbn-9784003860250",
+    "title": "開かれた社会とその敵",
+    "author": "カール・ポパー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003860250",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032622554",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 513
+  },
+  {
+    "book_id": "isbn-9784006031374",
+    "title": "ゆたかな社会",
+    "author": "ガルブレイス",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784006031374",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008348411",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 430
+  },
+  {
+    "book_id": "isbn-9784003369043",
+    "title": "重力と恩寵",
+    "author": "シモーヌ・ヴェイユ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003369043",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028016368",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 448
+  },
+  {
+    "book_id": "isbn-9784150504045",
+    "title": "貧困の終焉",
+    "author": "ジェフリー・サックス",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150504045",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025369363",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 636
+  },
+  {
+    "book_id": "isbn-9784791757039",
+    "title": "ジェンダー・トラブル",
+    "author": "ジュディス・バトラー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784791757039",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002841345",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "青土社",
+    "pages": 296
+  },
+  {
+    "book_id": "isbn-9784309462967",
+    "title": "差異と反復",
+    "author": "ジル・ドゥルーズ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309462967",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009124938",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 504
+  },
+  {
+    "book_id": "isbn-9784624011239",
+    "title": "公共性の構造転換",
+    "author": "ハーバーマス",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784624011239",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002334595",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "未来社",
+    "pages": 339
+  },
+  {
+    "book_id": "isbn-9784409030783",
+    "title": "動物の解放",
+    "author": "ピーター・シンガー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784409030783",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011209499",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "人文書院",
+    "pages": 402
+  },
+  {
+    "book_id": "isbn-9784326154302",
+    "title": "あなたが救える命",
+    "author": "ピーター・シンガー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784326154302",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025500388",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "勁草書房",
+    "pages": 258
+  },
+  {
+    "book_id": "isbn-9784150504441",
+    "title": "ムハマド・ユヌス自伝",
+    "author": "ムハマド・ユヌス",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150504441",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026583177",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 289
+  },
+  {
+    "book_id": "isbn-9784588099168",
+    "title": "知覚の現象学",
+    "author": "メルロ＝ポンティ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784588099168",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010866320",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "法政大学出版局",
+    "pages": 862
+  },
+  {
+    "book_id": "isbn-9784047100619",
+    "title": "感動をつくれますか?",
+    "author": "久石譲",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784047100619",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008267857",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 190
+  },
+  {
+    "book_id": "isbn-9784101343358",
+    "title": "人生、成り行き",
+    "author": "立川談志",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101343358",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011047660",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 299
+  },
+  {
+    "book_id": "isbn-9784062816410",
+    "title": "山中伸弥先生に、人生とiPS細胞について聞いてみた",
+    "author": "山中伸弥",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062816410",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027279430",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 194
+  },
+  {
+    "book_id": "isbn-9784101383521",
+    "title": "マボロシの鳥",
+    "author": "太田光",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101383521",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024334138",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 362
+  },
+  {
+    "book_id": "isbn-9784532318956",
+    "title": "不格好経営",
+    "author": "南場智子",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784532318956",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024472503",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日本経済新聞出版社",
+    "pages": 264
+  },
+  {
+    "book_id": "isbn-9784106102011",
+    "title": "不動心",
+    "author": "松井秀喜",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784106102011",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008451245",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 189
+  },
+  {
+    "book_id": "isbn-9784903908762",
+    "title": "映画を撮りながら考えたこと",
+    "author": "是枝裕和",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784903908762",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027344011",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ミシマ社",
+    "pages": 414
+  },
+  {
+    "book_id": "isbn-9784106105272",
+    "title": "タモリ論",
+    "author": "樋口毅宏",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784106105272",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024642035",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 190
+  },
+  {
+    "book_id": "isbn-9784041580011",
+    "title": "ルージュの伝言",
+    "author": "松任谷由実",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041580011",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001681371",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 231
   }
 ]

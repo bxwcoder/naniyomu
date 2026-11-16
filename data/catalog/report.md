@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-16T07:40:17.975Z
-- 候補：8893冊
-- 入れた本：8089冊
-- 入れなかった本：804冊
+- 検索日時：2026-11-16T08:07:19.894Z
+- 候補：8915冊
+- 入れた本：8110冊
+- 入れなかった本：805冊
 
 ## 入れなかった本
 
@@ -811,6 +811,7 @@
 - 太陽風交点／堀晃（SF・ファンタジー定番）：タイトルが同じで ISBN のある記録がない
 - dele／本多孝好（ミステリー定番）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
 - TSUNAMI／高嶋哲夫（SF・ファンタジー定番）：タイトルが同じで ISBN のある記録がない
+- ショック・ドクトリン／ナオミ・クライン（教養の定番）：まだ国立国会図書館で検索できていない
 
 ## 入れた本と選んだ版
 
@@ -8903,3 +8904,24 @@
 - 中空：角川文庫／角川書店／2004.5／350p／NDC 913.6／mystery_sf・normal・medium
 - ウェディング・ドレス：講談社文庫／講談社／2008.2／489p／NDC 913.6／mystery_sf・normal・long
 - 夏のロケット：文春文庫／文藝春秋／2002.5／396p／NDC 913.6／novel・easy・medium
+- 啓蒙の弁証法：岩波文庫／岩波書店／2007.1／549p／NDC 134.9／liberal_arts・normal・long
+- 開かれた社会とその敵：岩波文庫 ; 38-607-1／岩波書店／2023.2／513p／NDC 104／liberal_arts・normal・long
+- ゆたかな社会：岩波現代文庫 ; 社会／岩波書店／2006.10／430p／NDC 331／liberal_arts・normal・medium
+- 重力と恩寵：岩波文庫 ; 33-690-4／岩波書店／2017.3／448,4p／NDC 135.5／liberal_arts・normal・medium
+- 貧困の終焉：ハヤカワ文庫 NF ; 404／早川書房／2014.4／636p／NDC 333.8／liberal_arts・normal・long
+- ジェンダー・トラブル：叢書なし／青土社／1999.4／296, 4p／NDC 367.1／liberal_arts・normal・medium
+- 差異と反復：河出文庫／河出書房新社／2007.10／504p／NDC 135.5／liberal_arts・normal・long
+- 公共性の構造転換：叢書なし／未来社／1994.5／48, 339, 18p／NDC 362.06／liberal_arts・normal・medium
+- 動物の解放：叢書なし／人文書院／2011.5／402p／NDC 480.9／liberal_arts・normal・medium
+- あなたが救える命：叢書なし／勁草書房／2014.6／258,34p／NDC 369.14／liberal_arts・normal・medium
+- ムハマド・ユヌス自伝：ハヤカワ文庫 NF ; 444／早川書房／2015.9／289p／NDC 289.2／nonfiction・normal・long
+- 知覚の現象学：叢書・ウニベルシタス ; 112／法政大学出版局／2009.11／862, 19p／NDC 135.55／liberal_arts・normal・long
+- 感動をつくれますか?：角川oneテーマ21 ; C-116／角川書店／2006.8／190p／NDC 760.4／liberal_arts・normal・short
+- 人生、成り行き：新潮文庫 ; た-91-1／新潮社／2010.12／299p／NDC 779.13／nonfiction・easy・medium
+- 山中伸弥先生に、人生とiPS細胞について聞いてみた：講談社+α文庫 ; I40-1／講談社／2016.5／194p／NDC 491.11／liberal_arts・normal・short
+- マボロシの鳥：新潮文庫 ; お-75-2／新潮社／2013.4／362p／NDC 913.6／novel・easy・medium
+- 不格好経営：叢書なし／日本経済新聞出版社／2013.6／264p／NDC 007.35／liberal_arts・normal・medium
+- 不動心：新潮新書／新潮社／2007.2／189p／NDC 783.7／nonfiction・easy・short
+- 映画を撮りながら考えたこと：叢書なし／ミシマ社／2016.6／414p／NDC 778.21／liberal_arts・normal・medium
+- タモリ論：新潮新書 ; 527／新潮社／2013.7／190p／NDC 779.9／liberal_arts・normal・short
+- ルージュの伝言：角川文庫／角川書店／1984.5／231p／NDC 767.8／nonfiction・easy・short
