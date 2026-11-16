@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-16T09:55:57.163Z
-- 候補：9007冊
-- 入れた本：8190冊
-- 入れなかった本：817冊
+- 検索日時：2026-11-16T10:33:18.418Z
+- 候補：9036冊
+- 入れた本：8216冊
+- 入れなかった本：820冊
 
 ## 入れなかった本
 
@@ -824,6 +824,9 @@
 - 大いなる奥地／ギマランイス・ローザ（海外の名作）：著者が合う記録がない
 - 砂の子ども／タハール・ベン・ジェルーン（海外の名作）：著者が合う記録がない
 - 旅の絵本／安野光雅（エッセイ定番）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
+- 構造主義生物学とは何か／池田清彦（教養の定番）：タイトルが同じで ISBN のある記録がない
+- 名曲のたのしみ／吉田秀和（教養の定番）：タイトルが同じで ISBN のある記録がない
+- 文学入門／桑原武夫（教養の定番）：タイトルが同じで ISBN のある記録がない
 
 ## 入れた本と選んだ版
 
@@ -9017,3 +9020,29 @@
 - 捕手はまだか：文春文庫／文芸春秋／1987.12／250p／NDC 913.6／novel・easy・medium
 - 天の川の太陽：中公文庫／中央公論社／1996.4／664p／NDC 913.6／novel・easy・long
 - パシヨン：PHP文芸文庫 ; か20-1／PHP研究所／2026.6／558p／NDC 913.6／novel・easy・long
+- 12万円で世界を歩く：朝日文庫／朝日新聞社／1997.3／287p／NDC 290.9／nonfiction・normal・medium
+- 自己創出する生命：ちくま学芸文庫／筑摩書房／2006.7／262p／NDC 461／liberal_arts・normal・medium
+- 生命誌とは何か：講談社学術文庫 ; 2240／講談社／2014.6／274p／NDC 460／liberal_arts・normal・medium
+- 山のパンセ：集英社文庫／集英社／1990.6／461p／NDC 914.6／nonfiction・easy・long
+- くう・ねる・のぐそ：ヤマケイ文庫／山と溪谷社／2014.7／296,16p／NDC 786／nonfiction・normal・medium
+- 虫の宇宙誌：集英社文庫／集英社／1984.6／392p／NDC 486／nonfiction・easy・medium
+- アジアン・ジャパニーズ：新潮文庫／新潮社／2004.4／375p／NDC 292.09／nonfiction・normal・long
+- 何でも見てやろう：叢書なし／講談社、復刊ドットコム (発売)／2010.6／ページ数不明／NDC 918.68／nonfiction・normal・medium
+- 「流域地図」の作り方：ちくまプリマー新書 ; 205／筑摩書房／2013.11／156p／NDC 452.94／liberal_arts・normal・short
+- 日本百名山：新潮文庫／新潮社／2003.4／535p／NDC 291.09／nonfiction・normal・long
+- 最後の冒険家：集英社文庫 ; い65-2／集英社／2011.9／214p／NDC 289.1／nonfiction・normal・short
+- 全ての装備を知恵に置き換えること：集英社文庫 ; い65-1／集英社／2009.11／263p／NDC 290.9／nonfiction・normal・medium
+- ドイツ職人紀行：叢書なし／東京堂出版／2018.10／271p／NDC 509.234／nonfiction・easy・medium
+- 風俗小説論：講談社文芸文庫 = [Kodansha Bungei bunko] ; なH4／講談社／2011.11／195p／NDC 910.26／liberal_arts・normal・short
+- シェイクスピアの面白さ：講談社文芸文庫 ; なC2／講談社／2017.10／252p／NDC 932.5／liberal_arts・normal・medium
+- 大和古寺風物誌：叢書なし／大和書房／1987.2／201p 図版36p／NDC 702.13／liberal_arts・normal・short
+- 日本の橋：保田與重郎文庫／新学社／2001.7／179p／NDC 914.6／nonfiction・normal・short
+- 日本改造法案大綱：中公文庫 ; き42-1／中央公論新社／2014.11／175p／NDC 309.6／liberal_arts・normal・short
+- 主題と変奏：中公文庫 ; よ8-11／中央公論新社／2011.4／140p／NDC 760.4／liberal_arts・normal・short
+- 無常：ちくま学芸文庫／筑摩書房／1998.8／317p／NDC 910.2／liberal_arts・normal・medium
+- 古典と現代文学：講談社文芸文庫. 現代日本のエッセイ／講談社／1993.4／270p／NDC 910.4／liberal_arts・normal・medium
+- 帝国主義：岩波文庫／岩波書店／2004.6／182, 3p／NDC 311.4／liberal_arts・normal・short
+- 共産主義的人間：中公文庫／中央公論社／1979／189p ; 16cm／NDC 914.6／nonfiction・normal・short
+- 遥かなノートル・ダム：角川文庫／角川書店／1983.11／246p／NDC 914.6／nonfiction・easy・short
+- 貧乏物語：講談社現代新書 ; 2372／講談社／2016.6／260p／NDC 331.6／liberal_arts・normal・medium
+- 狂気について：岩波文庫／岩波書店／1993.10／326p／NDC 950／liberal_arts・normal・medium
