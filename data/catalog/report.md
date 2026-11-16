@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-16T16:59:58.404Z
-- 候補：9459冊
-- 入れた本：8589冊
-- 入れなかった本：870冊
+- 検索日時：2026-11-16T17:04:27.771Z
+- 候補：9463冊
+- 入れた本：8592冊
+- 入れなかった本：871冊
 
 ## 入れなかった本
 
@@ -877,6 +877,7 @@
 - ゲノムを書き換える／アダム・ラザフォード（教養の定番）：著者が合う記録がない
 - ブラックホールと時空の歪み／キップ・ソーン（教養の定番）：著者が合う記録がない
 - クリスパー／ジェニファー・ダウドナ（教養の定番）：タイトルが同じで ISBN のある記録がない
+- 遺伝子／シッダールタ・ムカジー（教養の定番）：候補リストの別の行と同じ本
 
 ## 入れた本と選んだ版
 
@@ -1162,7 +1163,7 @@
 - 生きがいについて：神谷美恵子コレクション／みすず書房／2004.10／353, 16p／NDC 113／liberal_arts・challenging・medium
 - バカの壁：新潮新書／新潮社／2003.4／204p／NDC 304／liberal_arts・normal・short
 - 国家の品格：新潮新書／新潮社／2005.11／191p／NDC 304／liberal_arts・normal・short
-- スマホ脳：新潮新書 ; 882／新潮社／2020.11／255p／NDC 491.371／practical・easy・medium
+- スマホ脳：新潮新書 ; 882／新潮社／2020.11／255p／NDC 491.371／liberal_arts・easy・medium
 - LIFE SHIFT：叢書なし／東洋経済新報社／2016.11／399,15p／NDC 159／practical・normal・medium
 - DIE WITH ZERO：叢書なし／ダイヤモンド社／2020.9／278p／NDC 159／practical・normal・medium
 - 応仁の乱：中公新書 ; 2401／中央公論新社／2016.10／302p／NDC 210.47／liberal_arts・challenging・medium
@@ -2288,8 +2289,8 @@
 - スタンフォードの自分を変える教室：だいわ文庫 ; 304-1G／大和書房／2015.10／366p／NDC 141.8／practical・normal・medium
 - スタンフォード式最高の睡眠：叢書なし／サンマーク出版／2017.3／251p／NDC 491.371／practical・easy・medium
 - LIFESPAN：叢書なし／東洋経済新報社／2020.9／491,98p／NDC 491.358／liberal_arts・normal・long
-- 運動脳：叢書なし／サンマーク出版／2022.9／366p／NDC 491.371／practical・easy・medium
-- 脳を鍛えるには運動しかない!：叢書なし／日本放送出版協会／2009.3／345, 5p／NDC 491.371／practical・normal・medium
+- 運動脳：叢書なし／サンマーク出版／2022.9／366p／NDC 491.371／liberal_arts・easy・medium
+- 脳を鍛えるには運動しかない!：叢書なし／日本放送出版協会／2009.3／345, 5p／NDC 491.371／liberal_arts・normal・medium
 - 睡眠こそ最強の解決策である：叢書なし／SBクリエイティブ／2018.5／432p／NDC 491.371／practical・normal・medium
 - 食べる投資：叢書なし／アチーブメント出版／2019.12／195p／NDC 498.583／practical・easy・short
 - 人体600万年史：叢書なし／早川書房／2015.9／332p／NDC 491.69／liberal_arts・challenging・long
@@ -2343,11 +2344,11 @@
 - 感染症の世界史：[角川ソフィア文庫] ; [I405-1]／KADOKAWA／2018.1／372p／NDC 493.8／liberal_arts・normal・medium
 - ウイルスの意味論：叢書なし／みすず書房／2018.12／239,30p／NDC 465.8／liberal_arts・normal・short
 - タンパク質の一生：岩波新書／岩波書店／2008.6／218p／NDC 464.2／liberal_arts・normal・short
-- 脳はなにかと言い訳する：新潮文庫 ; い-101-2／新潮社／2010.6／403p／NDC 491.371／practical・easy・medium
-- 進化しすぎた脳：叢書なし／朝日出版社／2004.10／373p／NDC 491.371／practical・easy・medium
-- 海馬：新潮文庫／新潮社／2005.7／344p／NDC 491.371／practical・easy・medium
-- 単純な脳、複雑な「私」：叢書なし／朝日出版社／2009.5／414, 7p／NDC 491.371／practical・normal・medium
-- 意識はいつ生まれるのか：叢書なし／亜紀書房／2015.5／292p／NDC 491.371／practical・challenging・medium
+- 脳はなにかと言い訳する：新潮文庫 ; い-101-2／新潮社／2010.6／403p／NDC 491.371／liberal_arts・easy・medium
+- 進化しすぎた脳：叢書なし／朝日出版社／2004.10／373p／NDC 491.371／liberal_arts・easy・medium
+- 海馬：新潮文庫／新潮社／2005.7／344p／NDC 491.371／liberal_arts・easy・medium
+- 単純な脳、複雑な「私」：叢書なし／朝日出版社／2009.5／414, 7p／NDC 491.371／liberal_arts・normal・medium
+- 意識はいつ生まれるのか：叢書なし／亜紀書房／2015.5／292p／NDC 491.371／liberal_arts・challenging・medium
 - 意識と本質：岩波文庫／岩波書店／1991.8／417p／NDC 120.4／liberal_arts・challenging・medium
 - 心はどこにあるのか：ちくま学芸文庫 ; テ12-1／筑摩書房／2016.10／284p／NDC 141.51／liberal_arts・normal・medium
 - 妻を帽子とまちがえた男：ハヤカワ文庫 ; NF353／早川書房／2009.7／435p／NDC 493.7／nonfiction・normal・medium
@@ -2982,7 +2983,7 @@
 - 世界のエリートがやっている最高の休息法：叢書なし／ダイヤモンド社／2016.7／248,6p／NDC 498.39／practical・normal・short
 - デジタル・ミニマリスト：ハヤカワ文庫 NF ; 573／早川書房／2021.4／367p／NDC 007.3／practical・normal・medium
 - 料理は女の義務ですか：新潮新書 ; 736／新潮社／2017.10／207p／NDC 596／practical・normal・short
-- 「わかる」とはどういうことか：ちくま新書／筑摩書房／2002.4／236p／NDC 491.371／practical・normal・short
+- 「わかる」とはどういうことか：ちくま新書／筑摩書房／2002.4／236p／NDC 491.371／liberal_arts・normal・short
 - 文章読本：中公文庫／中央公論社／1995.12／236p／NDC 816／practical・normal・short
 - 調べる技術書く技術：講談社現代新書／講談社／2008.4／254p／NDC 901.6／practical・normal・medium
 - 算数・数学が得意になる本：講談社現代新書／講談社／2006.5／222p／NDC 410.4／liberal_arts・normal・short
@@ -3486,7 +3487,7 @@
 - とかげ：新潮文庫／新潮社／1996.6／179p／NDC 913.6／novel・easy・short
 - デッドエンドの思い出：文春文庫／文藝春秋／2006.7／245p／NDC 913.6／novel・easy・short
 - 死の壁：新潮新書／新潮社／2004.4／190p／NDC 114.2／liberal_arts・normal・short
-- 唯脳論：ちくま学芸文庫／筑摩書房／1998.10／278p／NDC 491.371／practical・normal・medium
+- 唯脳論：ちくま学芸文庫／筑摩書房／1998.10／278p／NDC 491.371／liberal_arts・normal・medium
 - 養老訓：新潮文庫 ; よ-24-6／新潮社／2010.7／196p／NDC 159.79／practical・normal・short
 - 若き数学者のアメリカ：新潮文庫／新潮社／1981.6／283p／NDC 302.53／nonfiction・easy・medium
 - 日本人の誇り：文春新書 ; 804／文藝春秋／2011.4／249p／NDC 304／liberal_arts・normal・short
@@ -5468,9 +5469,9 @@
 - 悪霊にさいなまれる世界：ハヤカワ文庫 ; NF356／早川書房／2009.7／410p／NDC 404／liberal_arts・normal・long
 - 困ります、ファインマンさん：岩波現代文庫 : 社会／岩波書店／2001.1／355p／NDC 289.3／nonfiction,liberal_arts・normal・medium
 - パラレルワールド：叢書なし／日本放送出版協会／2006.1／437, 40p／NDC 443.9／liberal_arts・normal・medium
-- フューチャー・オブ・マインド：叢書なし／NHK出版／2015.2／508p／NDC 491.371／practical・normal・long
+- フューチャー・オブ・マインド：叢書なし／NHK出版／2015.2／508p／NDC 491.371／liberal_arts・normal・long
 - ヒトのなかの魚、魚のなかのヒト：ハヤカワ文庫 NF ; 392／早川書房／2013.10／342p／NDC 467.5／liberal_arts・normal・medium
-- あなたの知らない脳：ハヤカワ文庫 NF ; 475. [自然科学]／早川書房／2016.9／392p／NDC 491.371／practical・normal・medium
+- あなたの知らない脳：ハヤカワ文庫 NF ; 475. [自然科学]／早川書房／2016.9／392p／NDC 491.371／liberal_arts・normal・medium
 - モチベーション3.0：講談社+α文庫 ; G263-1／講談社／2015.11／349p／NDC 336.4／practical・normal・medium
 - ハイ・コンセプト：叢書なし／三笠書房／2006.5／349p／NDC 159／practical・normal・medium
 - 災害ユートピア：叢書なし／亜紀書房／2010.12／440p／NDC 369.3／liberal_arts・normal・medium
@@ -6037,7 +6038,7 @@
 - ダイエット幻想：ちくまプリマー新書 ; 336／筑摩書房／2019.10／223p／NDC 595.6／practical・normal・short
 - 映画を早送りで観る人たち：光文社新書 ; 1192／光文社／2022.4／302p／NDC 361.5／liberal_arts・normal・medium
 - 悲しみの秘義：文春文庫 ; わ24-1／文藝春秋／2019.12／235p／NDC 914.6／nonfiction・easy・short
-- 脳と仮想：新潮文庫／新潮社／2007.4／264p／NDC 491.371／practical・normal・medium
+- 脳と仮想：新潮文庫／新潮社／2007.4／264p／NDC 491.371／liberal_arts・normal・medium
 - 投資家が「お金」よりも大切にしていること：星海社新書 ; 30／星海社、講談社 (発売)／2013.2／244p／NDC 159／practical・normal・short
 - 君は君の人生の主役になれ：ちくまプリマー新書 ; 412／筑摩書房／2022.10／249p／NDC 371.47／liberal_arts・normal・short
 - 絶望の国の幸福な若者たち：講談社+α文庫 ; G256-2／講談社／2015.10／428p／NDC 367.68／liberal_arts・normal・medium
@@ -6485,7 +6486,7 @@
 - タイムマシンの話：ブルーバックス／講談社／2002.10／243p／NDC 421／liberal_arts・normal・short
 - 量子力学的世界像：叢書なし／弘文堂／1965.11(21刷:1989.6)／175p／NDC 421.3／liberal_arts・normal・short
 - 宇宙創成はじめの3分間：ちくま学芸文庫／筑摩書房／2008.9／327p／NDC 443.9／liberal_arts・normal・medium
-- 脳のなかの幽霊：角川文庫 ; 16610／角川書店、角川グループパブリッシング (発売)／2011.3／416, 47, 22p／NDC 491.371／practical・normal・medium
+- 脳のなかの幽霊：角川文庫 ; 16610／角川書店、角川グループパブリッシング (発売)／2011.3／416, 47, 22p／NDC 491.371／liberal_arts・normal・medium
 - 延長された表現型：叢書なし／紀伊国屋書店／1987.7／555p／NDC 467／liberal_arts・normal・long
 - 人間はどこまでチンパンジーか?：叢書なし／新曜社／1993.10／541, 49p／NDC 469／liberal_arts・normal・long
 - 百姓から見た戦国大名：ちくま新書／筑摩書房／2006.9／222p／NDC 210.47／liberal_arts・normal・short
@@ -6619,10 +6620,10 @@
 - 死すべき定め：叢書なし／みすず書房／2016.6／278,10p／NDC 490.15／liberal_arts・normal・medium
 - 医師は最善を尽くしているか：叢書なし／みすず書房／2013.7／255p／NDC 498／practical・normal・medium
 - しらずしらず：叢書なし／ダイヤモンド社／2013.12／368p／NDC 145.1／liberal_arts・normal・medium
-- あなたの脳のはなし：ハヤカワ文庫 NF ; 545／早川書房／2019.9／330p／NDC 491.371／practical・normal・medium
-- 意識と脳：叢書なし／紀伊國屋書店／2015.9／469p／NDC 491.371／practical・normal・long
-- 記憶力を強くする：ブルーバックス／講談社／2001.1／269, 4p／NDC 491.371／practical・normal・medium
-- 脳には妙なクセがある：新潮文庫 ; い-101-5／新潮社／2018.2／397p／NDC 491.371／practical・normal・medium
+- あなたの脳のはなし：ハヤカワ文庫 NF ; 545／早川書房／2019.9／330p／NDC 491.371／liberal_arts・normal・medium
+- 意識と脳：叢書なし／紀伊國屋書店／2015.9／469p／NDC 491.371／liberal_arts・normal・long
+- 記憶力を強くする：ブルーバックス／講談社／2001.1／269, 4p／NDC 491.371／liberal_arts・normal・medium
+- 脳には妙なクセがある：新潮文庫 ; い-101-5／新潮社／2018.2／397p／NDC 491.371／liberal_arts・normal・medium
 - 美の歴史：叢書なし／東洋書林／2005.11／439p／NDC 701.2／liberal_arts・normal・medium
 - 見るということ：ちくま学芸文庫／筑摩書房／2005.8／274p／NDC 704／liberal_arts・normal・medium
 - イメージ：ちくま学芸文庫 ; ハ23-2／筑摩書房／2013.1／314p／NDC 720.4／liberal_arts・normal・medium
@@ -7119,7 +7120,7 @@
 - 宇宙はなぜ「暗い」のか?：叢書なし／ベレ出版／2017.1／191p／NDC 440／liberal_arts・normal・short
 - 人類はどこから来て、どこへ行くのか：ちくま学芸文庫 ; ウ8-3／筑摩書房／2025.7／442p／NDC 481.71／liberal_arts・normal・medium
 - 社会はどう進化するのか：叢書なし／亜紀書房／2020.1／326,21p／NDC 361.5／liberal_arts・normal・medium
-- 進化の意外な順序：叢書なし／白揚社／2019.2／349p／NDC 491.37／practical・normal・medium
+- 進化の意外な順序：叢書なし／白揚社／2019.2／349p／NDC 491.37／liberal_arts・normal・medium
 - 意識をめぐる冒険：叢書なし／岩波書店／2014.8／354,8p／NDC 141.51／liberal_arts・normal・medium
 - 我々はなぜ我々だけなのか：ブルーバックス ; B-2037／講談社／2017.12／283p／NDC 469.2／liberal_arts・normal・medium
 - ネアンデルタール人は私たちと交配した：叢書なし／文藝春秋／2015.6／365p／NDC 469.2／liberal_arts・normal・medium
@@ -8508,7 +8509,7 @@
 - スピリチュアルズ：幻冬舎文庫／幻冬舎／2023.8／429 p／NDC 145.1／liberal_arts・normal・medium
 - 僕たちはどう生きるか：集英社文庫 ; も39-1／集英社／2024.8／246p／NDC 914.6／nonfiction・normal・short
 - 自然学の提唱：講談社学術文庫／講談社／1986.6／263p／NDC 460.49／liberal_arts・normal・medium
-- 意識と自己：講談社学術文庫 ; 2517／講談社／2018.6／445p／NDC 491.371／practical・normal・medium
+- 意識と自己：講談社学術文庫 ; 2517／講談社／2018.6／445p／NDC 491.371／liberal_arts・normal・medium
 - わたしのいるところ：CREST BOOKS／新潮社／2019.8／166p／NDC 973／novel・normal・short
 - 蘆屋家の崩壊：ちくま文庫 ; つ18-1／筑摩書房／2012.7／316p／NDC 913.6／novel・easy・medium
 - 記憶する体：叢書なし／春秋社／2019.9／277p／NDC 369.27／liberal_arts・normal・medium
@@ -9465,7 +9466,10 @@
 - AI新生：叢書なし／みすず書房／2021.4／306,41p／NDC 007.13／liberal_arts・normal・medium
 - ビッグヒストリー：叢書なし／明石書店／2016.11／400p／NDC 209／liberal_arts・normal・medium
 - スーパーインテリジェンス：叢書なし／日本経済新聞出版社／2017.11／717p／NDC 007.13／liberal_arts・normal・long
-- 〈わたし〉はどこにあるのか：叢書なし／紀伊國屋書店／2014.9／301p／NDC 491.371／practical・normal・medium
+- 〈わたし〉はどこにあるのか：叢書なし／紀伊國屋書店／2014.9／301p／NDC 491.371／liberal_arts・normal・medium
 - 情動はこうしてつくられる：叢書なし／紀伊國屋書店／2019.11／617p／NDC 141.6／liberal_arts・normal・long
 - 宇宙のランドスケープ：叢書なし／日経BP社、日経BP出版センター (発売)／2006.12／544p／NDC 443.9／liberal_arts・normal・long
 - 宇宙が始まる前には何があったのか?：文春文庫 ; S20-1／文藝春秋／2017.1／343p／NDC 443.9／liberal_arts・normal・medium
+- ブラックホール戦争：叢書なし／日経BP社、日経BP出版センター (発売)／2009.10／551p／NDC 421／liberal_arts・normal・long
+- はるかな記憶：朝日文庫／朝日新聞社／1997.8／347p／NDC 467.5／liberal_arts・normal・long
+- ポスト・ヒューマン誕生：叢書なし／日本放送出版協会／2007.1／596, 65p／NDC 007.13／liberal_arts・normal・long
