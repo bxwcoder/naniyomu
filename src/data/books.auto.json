@@ -245702,5 +245702,941 @@
     "tier": "basic",
     "publisher": "中央公論新社",
     "pages": 382
+  },
+  {
+    "book_id": "isbn-9784062647199",
+    "title": "殺意の集う夜",
+    "author": "西澤保彦",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062647199",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002838606",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 358
+  },
+  {
+    "book_id": "isbn-9784043540020",
+    "title": "仔羊たちの聖夜",
+    "author": "西澤保彦",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043540020",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003018509",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 375
+  },
+  {
+    "book_id": "isbn-9784043540037",
+    "title": "スコッチ・ゲーム",
+    "author": "西澤保彦",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043540037",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003653076",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 351
+  },
+  {
+    "book_id": "isbn-9784167674014",
+    "title": "黄金色の祈り",
+    "author": "西澤保彦",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167674014",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004273000",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 398
+  },
+  {
+    "book_id": "isbn-9784334738877",
+    "title": "夏の夜会",
+    "author": "西澤保彦",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334738877",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007786608",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 295
+  },
+  {
+    "book_id": "isbn-9784167674021",
+    "title": "神のロジック 人間のマジック",
+    "author": "西澤保彦",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167674021",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008287853",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 349
+  },
+  {
+    "book_id": "isbn-9784122053632",
+    "title": "聯愁殺",
+    "author": "西澤保彦",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122053632",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011021353",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 347
+  },
+  {
+    "book_id": "isbn-9784396337001",
+    "title": "君の望む死に方",
+    "author": "石持浅海",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784396337001",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011261955",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "祥伝社",
+    "pages": 345
+  },
+  {
+    "book_id": "isbn-9784488493028",
+    "title": "温かな手",
+    "author": "石持浅海",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488493028",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010854060",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 272
+  },
+  {
+    "book_id": "isbn-9784198934255",
+    "title": "耳をふさいで夜を走る",
+    "author": "石持浅海",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198934255",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011263668",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 375
+  },
+  {
+    "book_id": "isbn-9784396340391",
+    "title": "彼女が追ってくる",
+    "author": "石持浅海",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784396340391",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025465404",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "祥伝社",
+    "pages": 272
+  },
+  {
+    "book_id": "isbn-9784396346072",
+    "title": "賛美せよ、と成功は言った",
+    "author": "石持浅海",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784396346072",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030276809",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "祥伝社",
+    "pages": 246
+  },
+  {
+    "book_id": "isbn-9784334110949",
+    "title": "高島太一を殺したい五人",
+    "author": "石持浅海",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334110949",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034838555",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 239
+  },
+  {
+    "book_id": "isbn-9784334742706",
+    "title": "密室に向かって撃て!",
+    "author": "東川篤哉",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334742706",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008571110",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 354
+  },
+  {
+    "book_id": "isbn-9784334743802",
+    "title": "完全犯罪に猫は何匹必要か?",
+    "author": "東川篤哉",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334743802",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009257231",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 458
+  },
+  {
+    "book_id": "isbn-9784334745899",
+    "title": "学ばない探偵たちの学園",
+    "author": "東川篤哉",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334745899",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010121231",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 311
+  },
+  {
+    "book_id": "isbn-9784167773847",
+    "title": "もう誘拐なんてしない",
+    "author": "東川篤哉",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167773847",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010913533",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 319
+  },
+  {
+    "book_id": "isbn-9784344425354",
+    "title": "探偵少女アリサの事件簿",
+    "author": "東川篤哉",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344425354",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027617137",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 332
+  },
+  {
+    "book_id": "isbn-9784062936309",
+    "title": "純喫茶「一服堂」の四季",
+    "author": "東川篤哉",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062936309",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028078481",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 339
+  },
+  {
+    "book_id": "isbn-9784103503811",
+    "title": "かがやき荘アラサー探偵局",
+    "author": "東川篤哉",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784103503811",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027645452",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 278
+  },
+  {
+    "book_id": "isbn-9784488470012",
+    "title": "三人目の幽霊",
+    "author": "大倉崇裕",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488470012",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008574788",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 344
+  },
+  {
+    "book_id": "isbn-9784488470074",
+    "title": "福家警部補の報告",
+    "author": "大倉崇裕",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488470074",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027757061",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 437
+  },
+  {
+    "book_id": "isbn-9784334766504",
+    "title": "丑三つ時から夜明けまで",
+    "author": "大倉崇裕",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334766504",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024941712",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 333
+  },
+  {
+    "book_id": "isbn-9784635047340",
+    "title": "生還",
+    "author": "大倉崇裕",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784635047340",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011253875",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "山と溪谷社",
+    "pages": 349
+  },
+  {
+    "book_id": "isbn-9784062935623",
+    "title": "蜂に魅かれた容疑者",
+    "author": "大倉崇裕",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062935623",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027805931",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 402
+  },
+  {
+    "book_id": "isbn-9784334773182",
+    "title": "問題物件",
+    "author": "大倉崇裕",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334773182",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027437059",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 403
+  },
+  {
+    "book_id": "isbn-9784101207223",
+    "title": "触身仏",
+    "author": "北森鴻",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101207223",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007860273",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 319
+  },
+  {
+    "book_id": "isbn-9784062753692",
+    "title": "桜宵",
+    "author": "北森鴻",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062753692",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008152537",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 283
+  },
+  {
+    "book_id": "isbn-9784062758314",
+    "title": "螢坂",
+    "author": "北森鴻",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062758314",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009095164",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 248
+  },
+  {
+    "book_id": "isbn-9784062768344",
+    "title": "香菜里屋を知っていますか",
+    "author": "北森鴻",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062768344",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011167297",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 325
+  },
+  {
+    "book_id": "isbn-9784167679729",
+    "title": "緋友禅",
+    "author": "北森鴻",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167679729",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008051795",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 285
+  },
+  {
+    "book_id": "isbn-9784198921392",
+    "title": "共犯マジック",
+    "author": "北森鴻",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198921392",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007518881",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 278
+  },
+  {
+    "book_id": "isbn-9784062761475",
+    "title": "猫丸先輩の空論",
+    "author": "倉知淳",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062761475",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009544390",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 435
+  },
+  {
+    "book_id": "isbn-9784488421090",
+    "title": "ほうかご探偵隊",
+    "author": "倉知淳",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488421090",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028217657",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 268
+  },
+  {
+    "book_id": "isbn-9784488421243",
+    "title": "皇帝と拳銃と",
+    "author": "倉知淳",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488421243",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030042348",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 409
+  },
+  {
+    "book_id": "isbn-9784408556420",
+    "title": "豆腐の角に頭ぶつけて死んでしまえ事件",
+    "author": "倉知淳",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784408556420",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031238866",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "実業之日本社",
+    "pages": 359
   }
 ]

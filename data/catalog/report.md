@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-16T21:06:58.940Z
-- 候補：10149冊
-- 入れた本：9244冊
-- 入れなかった本：905冊
+- 検索日時：2026-11-16T21:21:13.588Z
+- 候補：10186冊
+- 入れた本：9280冊
+- 入れなかった本：906冊
 
 ## 入れなかった本
 
@@ -912,6 +912,7 @@
 - 深川安楽亭／山本周五郎（日本の名作）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
 - 気まぐれロボット／星新一（SF・ファンタジー定番）：タイトルが同じで ISBN のある記録がない
 - 少年少女飛行倶楽部／加納朋子（人気の小説）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
+- 死者は黄泉が得る／西澤保彦（ミステリー定番）：著者が合う記録がない
 
 ## 入れた本と選んだ版
 
@@ -10159,3 +10160,39 @@
 - 作者不詳 ミステリ作家の読む本：講談社文庫 ; み58-4／講談社／2010.12／398p／NDC 913.6／mystery_sf・normal・long
 - 凶宅：光文社文庫／光文社／2008.9／348p／NDC 913.6／mystery_sf・normal・medium
 - わざと忌み家を建てて棲む：中公文庫 ; み50-2／中央公論新社／2020.6／382p／NDC 913.6／mystery_sf・normal・medium
+- 殺意の集う夜：講談社文庫／講談社／1999.11／358p／NDC 913.6／mystery_sf・normal・medium
+- 仔羊たちの聖夜：角川文庫／角川書店／2001.8／375p／NDC 913.6／mystery_sf・normal・medium
+- スコッチ・ゲーム：角川文庫／角川書店／2002.5／351p／NDC 913.6／mystery_sf・normal・medium
+- 黄金色の祈り：文春文庫／文藝春秋／2003.11／398p／NDC 913.6／mystery_sf・normal・medium
+- 夏の夜会：光文社文庫／光文社／2005.6／295p／NDC 913.6／mystery_sf・normal・medium
+- 神のロジック 人間のマジック：文春文庫／文藝春秋／2006.9／349p／NDC 913.6／mystery_sf・normal・medium
+- 聯愁殺：中公文庫 ; に18-1／中央公論新社／2010.9／347p／NDC 913.6／mystery_sf・normal・medium
+- 君の望む死に方：祥伝社文庫 ; い17-3／祥伝社／2011.9／345p／NDC 913.6／mystery_sf・normal・medium
+- 温かな手：創元推理文庫 ; 493-02／東京創元社／2010.5／272p／NDC 913.6／mystery_sf・normal・medium
+- 耳をふさいで夜を走る：徳間文庫 ; い-60-1／徳間書店／2011.9／375p／NDC 913.6／mystery_sf・normal・medium
+- 彼女が追ってくる：祥伝社文庫 ; い17-4／祥伝社／2014.6／272p／NDC 913.6／mystery_sf・normal・medium
+- 賛美せよ、と成功は言った：祥伝社文庫 ; い17-6／祥伝社／2020.3／246p／NDC 913.6／mystery_sf・normal・short
+- 高島太一を殺したい五人：光文社文庫 ; い35-20／光文社／2026.8／239p／NDC 913.6／mystery_sf・normal・short
+- 密室に向かって撃て!：光文社文庫／光文社／2007.6／354p／NDC 913.6／mystery_sf・normal・medium
+- 完全犯罪に猫は何匹必要か?：光文社文庫／光文社／2008.2／458p／NDC 913.6／mystery_sf・normal・long
+- 学ばない探偵たちの学園：光文社文庫／光文社／2009.5／311p／NDC 913.6／mystery_sf・normal・medium
+- もう誘拐なんてしない：文春文庫／文藝春秋／2010.7／319p／NDC 913.6／mystery_sf・normal・medium
+- 探偵少女アリサの事件簿：幻冬舎文庫 ; ひ-21-1／幻冬舎／2016.10／332p／NDC 913.6／mystery_sf・normal・medium
+- 純喫茶「一服堂」の四季：講談社文庫 ; ひ58-1／講談社／2017.4／339p／NDC 913.6／mystery_sf・normal・medium
+- かがやき荘アラサー探偵局：叢書なし／新潮社／2016.10／278p／NDC 913.6／mystery_sf・normal・medium
+- 三人目の幽霊：創元推理文庫／東京創元社／2007.6／344p／NDC 913.6／mystery_sf・normal・medium
+- 福家警部補の報告：創元推理文庫 ; Mお-4-7／東京創元社／2016.12／437p／NDC 913.6／mystery_sf・normal・medium
+- 丑三つ時から夜明けまで：光文社文庫 ; お48-1／光文社／2013.11／333p／NDC 913.6／mystery_sf・normal・medium
+- 生還：ヤマケイ文庫／山と溪谷社／2011.9／349p／NDC 913.6／mystery_sf・normal・medium
+- 蜂に魅かれた容疑者：講談社文庫 ; お115-2／講談社／2017.1／402p／NDC 913.6／mystery_sf・normal・medium
+- 問題物件：光文社文庫 ; お48-2／光文社／2016.7／403p／NDC 913.6／mystery_sf・normal・medium
+- 触身仏：新潮文庫. 蓮丈那智フィールドファイル ; 2／新潮社／2005.8／319p／NDC 913.6／mystery_sf・normal・medium
+- 桜宵：講談社文庫／講談社／2006.4／283p／NDC 913.6／mystery_sf・normal・medium
+- 螢坂：講談社文庫／講談社／2007.9／248p／NDC 913.6／mystery_sf・normal・short
+- 香菜里屋を知っていますか：講談社文庫 ; き41-8／講談社／2011.4／325p／NDC 913.6／mystery_sf・normal・medium
+- 緋友禅：文春文庫／文藝春秋／2006.1／285p／NDC 913.6／mystery_sf・normal・medium
+- 共犯マジック：徳間文庫／徳間書店／2004.10／278p／NDC 913.6／mystery_sf・normal・medium
+- 猫丸先輩の空論：講談社文庫／講談社／2008.9／435p／NDC 913.6／mystery_sf・normal・medium
+- ほうかご探偵隊：創元推理文庫 ; Mく2-9／東京創元社／2017.6／268p／NDC 913.6／mystery_sf・normal・medium
+- 皇帝と拳銃と：創元推理文庫 ; Mく2-11／東京創元社／2019.11／409p／NDC 913.6／mystery_sf・normal・medium
+- 豆腐の角に頭ぶつけて死んでしまえ事件：実業之日本社文庫 ; く9-1／実業之日本社／2021.2／359p／NDC 913.6／mystery_sf・normal・medium
