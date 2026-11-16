@@ -232773,5 +232773,166 @@
     "tier": "basic",
     "publisher": "集英社",
     "pages": 220
+  },
+  {
+    "book_id": "isbn-9784088844022",
+    "title": "魔男のイチ",
+    "author": "宇佐崎しろ、西修",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088844022",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033861091",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 192
+  },
+  {
+    "book_id": "isbn-9784065145692",
+    "title": "アンダーニンジャ",
+    "author": "花沢健吾",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065145692",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029478854",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784761276157",
+    "title": "限りある時間の使い方",
+    "author": "オリバー・バークマン",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784761276157",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032198728",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "かんき出版",
+    "pages": 291
+  },
+  {
+    "book_id": "isbn-9784480684318",
+    "title": "私たちはどう学んでいるのか",
+    "author": "鈴木宏昭",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480684318",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032172595",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 216
+  },
+  {
+    "book_id": "isbn-9784106109300",
+    "title": "最強脳",
+    "author": "アンデシュ・ハンセン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784106109300",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031779124",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 204
+  },
+  {
+    "book_id": "isbn-9784152100672",
+    "title": "NOISE",
+    "author": "ダニエル・カーネマン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784152100672",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031823678",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 314
   }
 ]
