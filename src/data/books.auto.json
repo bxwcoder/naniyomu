@@ -230117,5 +230117,325 @@
     "tier": "basic",
     "publisher": "小学館",
     "pages": 252
+  },
+  {
+    "book_id": "isbn-9784480439987",
+    "title": "彼女の名前は",
+    "author": "チョ・ナムジュ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480439987",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033861004",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 284
+  },
+  {
+    "book_id": "isbn-9784779126116",
+    "title": "中央駅",
+    "author": "キム・ヘジン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784779126116",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030042443",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "彩流社",
+    "pages": 302
+  },
+  {
+    "book_id": "isbn-9784750515687",
+    "title": "娘について",
+    "author": "キム・ヘジン",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784750515687",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029385014",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "亜紀書房",
+    "pages": 229
+  },
+  {
+    "book_id": "isbn-9784334046224",
+    "title": "会話を哲学する",
+    "author": "三木那由他",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334046224",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032295867",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 299
+  },
+  {
+    "book_id": "isbn-9784492444382",
+    "title": "富国と強兵",
+    "author": "中野剛志",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784492444382",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027756803",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東洋経済新報社",
+    "pages": 590
+  },
+  {
+    "book_id": "isbn-9784087205848",
+    "title": "TPP亡国論",
+    "author": "中野剛志",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087205848",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011136541",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784065209240",
+    "title": "アフター・リベラル",
+    "author": "吉田徹",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065209240",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030610237",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784121023476",
+    "title": "代議制民主主義",
+    "author": "待鳥聡史",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121023476",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026857763",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 267
+  },
+  {
+    "book_id": "isbn-9784065245392",
+    "title": "ケアの倫理とエンパワメント",
+    "author": "小川公代",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065245392",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031619842",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784087207958",
+    "title": "英語化は愚民化",
+    "author": "施光恒",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087207958",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026558698",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784166610136",
+    "title": "イスラーム国の衝撃",
+    "author": "池内恵",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784166610136",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026008126",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 229
+  },
+  {
+    "book_id": "isbn-9784101381152",
+    "title": "ウルトラ・ダラー",
+    "author": "手嶋龍一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101381152",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009188894",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 448
   }
 ]
