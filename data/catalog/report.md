@@ -1,8 +1,8 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-16T19:12:22.575Z
-- 候補：9709冊
-- 入れた本：8815冊
+- 検索日時：2026-11-16T19:20:51.610Z
+- 候補：9746冊
+- 入れた本：8852冊
 - 入れなかった本：894冊
 
 ## 入れなかった本
@@ -9719,3 +9719,40 @@
 - 堪忍箱：新潮文庫／新潮社／2001.11／244p／NDC 913.6／novel・easy・short
 - 幻色江戸ごよみ：新潮文庫／新潮社／1998.9／330p／NDC 913.6／novel・easy・medium
 - 平成お徒歩日記：新潮文庫／新潮社／2001.1／275p／NDC 914.6／nonfiction・easy・medium
+- 陽気なギャングの日常と襲撃：祥伝社文庫 ; い14-2／祥伝社／2009.9／436p／NDC 913.6／novel・easy・medium
+- オー!ファーザー：新潮文庫 ; い-69-7／新潮社／2013.7／557p／NDC 913.6／novel・easy・long
+- 仙台ぐらし：集英社文庫 ; い64-2／集英社／2015.6／253p／NDC 914.6／nonfiction・easy・medium
+- 陽気なギャングは三つ数えろ：祥伝社文庫 ; い14-3／祥伝社／2018.9／340p／NDC 913.6／novel・easy・medium
+- マイクロスパイ・アンサンブル：幻冬舎文庫 ; い-57-2／幻冬舎／2025.8／293p／NDC 913.6／novel・easy・medium
+- 境遇：双葉文庫 ; み-21-06／双葉社／2015.10／317p／NDC 913.6／mystery_sf・normal・medium
+- 白ゆき姫殺人事件：集英社文庫 ; み50-1／集英社／2014.2／312p／NDC 913.6／mystery_sf・normal・medium
+- 望郷：文春文庫 ; み44-2／文藝春秋／2016.1／293p／NDC 913.6／mystery_sf・normal・medium
+- 高校入試：角川文庫 ; み42-1／KADOKAWA／2016.3／427p／NDC 913.6／mystery_sf・normal・medium
+- 物語のおわり：朝日文庫 ; み28-1／朝日新聞出版／2018.1／357p／NDC 913.6／mystery_sf・normal・medium
+- 絶唱：新潮文庫 ; み-56-3／新潮社／2019.7／322p／NDC 913.6／mystery_sf・normal・medium
+- リバース：講談社文庫 ; み67-1／講談社／2017.3／338p／NDC 913.6／mystery_sf・normal・medium
+- ポイズンドーター・ホーリーマザー：光文社文庫 ; み42-1／光文社／2018.8／291p／NDC 913.6／mystery_sf・normal・medium
+- カケラ：集英社文庫 ; み50-3／集英社／2023.1／312p／NDC 913.6／mystery_sf・normal・medium
+- ドキュメント：角川文庫 ; み42-3／KADOKAWA／2024.6／342p／NDC 913.6／mystery_sf・normal・medium
+- 残照の頂：幻冬舎文庫 ; み-23-3／幻冬舎／2024.8／332p／NDC 913.6／mystery_sf・normal・medium
+- 人間標本：角川文庫 ; み42-4／KADOKAWA／2025.11／324p／NDC 913.6／mystery_sf・normal・medium
+- C線上のアリア：叢書なし／朝日新聞出版／2025.2／348p／NDC 913.6／mystery_sf・normal・medium
+- 図書館内乱：角川文庫 ; 16778. 図書館戦争シリーズ ; 2／角川書店、角川グループパブリッシング (発売)／2011.4／410p／NDC 913.6／novel・easy・medium
+- 図書館危機：角川文庫 ; 16828. 図書館戦争シリーズ ; 3／角川書店、角川グループパブリッシング (発売)／2011.5／395p／NDC 913.6／novel・easy・medium
+- 図書館革命：角川文庫 ; 16870. 図書館戦争シリーズ ; 4／角川書店、角川グループパブリッシング (発売)／2011.6／385p／NDC 913.6／novel・easy・medium
+- ラブコメ今昔：角川文庫 ; あ48-11／角川書店、角川グループパブリッシング (発売)／2012.6／334p／NDC 913.6／novel・easy・medium
+- 銀行総務特命：講談社文庫 ; い85-12／講談社／2011.11／429p／NDC 913.6／mystery_sf・normal・medium
+- MIST：双葉文庫／双葉社／2005.7／381p／NDC 913.6／mystery_sf・normal・medium
+- 仇敵：講談社文庫／講談社／2006.1／373p／NDC 913.6／mystery_sf・normal・medium
+- 最終退行：小学館文庫／小学館／2007.5／505p／NDC 913.6／mystery_sf・normal・long
+- 俺たちの箱根駅伝：文春文庫 ; い64-13／文藝春秋／2026.9／423p／NDC 913.6／novel・easy・long
+- 定年ゴジラ：講談社文庫／講談社／2001.2／435p／NDC 913.6／novel・easy・medium
+- 小さき者へ：新潮文庫／新潮社／2006.7／460p／NDC 913.6／novel・easy・long
+- 舞姫通信：新潮文庫／新潮社／1999.4／365p／NDC 913.6／novel・easy・medium
+- 希望の地図：幻冬舎文庫 ; し-4-4／幻冬舎／2015.2／285p 図版10枚／NDC 913.6／novel・easy・medium
+- ニワトリは一度だけ飛べる：朝日文庫 ; し25-5／朝日新聞出版／2019.3／321p／NDC 913.6／novel・easy・medium
+- 木曜日の子ども：角川文庫 ; し29-11／KADOKAWA／2022.1／457p／NDC 913.6／novel・easy・long
+- ひこばえ：朝日文庫 ; し25-6／朝日新聞出版／2023.2／405p／NDC 913.6／novel・easy・long
+- マドンナ：講談社文庫／講談社／2005.12／329p／NDC 913.6／novel・easy・medium
+- ナオミとカナコ：幻冬舎文庫 ; お-13-3／幻冬舎／2017.4／558p／NDC 913.6／novel・easy・long
+- 普天を我が手に：叢書なし／講談社／2025.6／599p／NDC 913.6／novel・easy・long
