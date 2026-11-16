@@ -225009,5 +225009,378 @@
     "tier": "basic",
     "publisher": "集英社",
     "pages": 319
+  },
+  {
+    "book_id": "isbn-9784101313047",
+    "title": "小沢昭一的こころ",
+    "author": "小沢昭一",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101313047",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001789211",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 346
+  },
+  {
+    "book_id": "isbn-9784006021054",
+    "title": "日本の放浪芸",
+    "author": "小沢昭一",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784006021054",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008295127",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 407
+  },
+  {
+    "book_id": "isbn-9784480029379",
+    "title": "三文役者あなあきい伝",
+    "author": "殿山泰司",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480029379",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002396957",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 277
+  },
+  {
+    "book_id": "isbn-9784122015371",
+    "title": "淀川長治自伝",
+    "author": "淀川長治",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122015371",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001935201",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784062637466",
+    "title": "小石川の家",
+    "author": "青木玉",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062637466",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002696411",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 259
+  },
+  {
+    "book_id": "isbn-9784101216218",
+    "title": "幸田文の箪笥の引き出し",
+    "author": "青木玉",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101216218",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002927246",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 237
+  },
+  {
+    "book_id": "isbn-9784480027917",
+    "title": "オヨヨ島の冒険",
+    "author": "小林信彦",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480027917",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002226217",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 202
+  },
+  {
+    "book_id": "isbn-9784101158013",
+    "title": "唐獅子株式会社",
+    "author": "小林信彦",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101158013",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001498393",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 406
+  },
+  {
+    "book_id": "isbn-9784043142019",
+    "title": "わたしの生涯",
+    "author": "ヘレン・ケラー",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043142019",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I18111103349076",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 508
+  },
+  {
+    "book_id": "isbn-9784003255636",
+    "title": "ミケランジェロの生涯",
+    "author": "ロマン・ロラン",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003255636",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I10111101787978",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 214
+  },
+  {
+    "book_id": "isbn-9784102185049",
+    "title": "チャップリン自伝",
+    "author": "チャールズ・チャップリン",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102185049",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028706641",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 688
+  },
+  {
+    "book_id": "isbn-9784560026137",
+    "title": "キュリー夫人伝",
+    "author": "エーヴ・キュリー",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784560026137",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008140667",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白水社",
+    "pages": 542
+  },
+  {
+    "book_id": "isbn-9784163494203",
+    "title": "毛沢東の私生活",
+    "author": "李志綏",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784163494203",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002366855",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 433
+  },
+  {
+    "book_id": "isbn-9784163651507",
+    "title": "野生のエルザ",
+    "author": "ジョイ・アダムソン",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784163651507",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004176025",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 367
   }
 ]
