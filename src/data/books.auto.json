@@ -225382,5 +225382,347 @@
     "tier": "basic",
     "publisher": "文藝春秋",
     "pages": 367
+  },
+  {
+    "book_id": "isbn-9784101047812",
+    "title": "世の中と足並みがそろわない",
+    "author": "ふかわりょう",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101047812",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033168117",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 233
+  },
+  {
+    "book_id": "isbn-9784480420459",
+    "title": "びんぼう自慢",
+    "author": "古今亭志ん生",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480420459",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007642196",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 341
+  },
+  {
+    "book_id": "isbn-9784022619365",
+    "title": "天才はあきらめた",
+    "author": "山里亮太",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022619365",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029058456",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 255
+  },
+  {
+    "book_id": "isbn-9784022568090",
+    "title": "遺書",
+    "author": "松本人志",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022568090",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002363053",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞社",
+    "pages": 164
+  },
+  {
+    "book_id": "isbn-9784594073626",
+    "title": "赤めだか",
+    "author": "立川談春",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784594073626",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026854308",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "扶桑社",
+    "pages": 306
+  },
+  {
+    "book_id": "isbn-9784062880077",
+    "title": "落語論",
+    "author": "堀井憲一郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062880077",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010414710",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784101273228",
+    "title": "談志が死んだ",
+    "author": "立川談四楼",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101273228",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026799707",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 279
+  },
+  {
+    "book_id": "isbn-9784344033214",
+    "title": "阿佐ヶ谷姉妹ののほほんふたり暮らし",
+    "author": "阿佐ヶ谷姉妹",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344033214",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029067461",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784167923259",
+    "title": "50歳になりまして",
+    "author": "光浦靖子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167923259",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033852065",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 216
+  },
+  {
+    "book_id": "isbn-9784575294590",
+    "title": "マイルスを聴け!",
+    "author": "中山康樹",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575294590",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003679482",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 643
+  },
+  {
+    "book_id": "isbn-9784101233062",
+    "title": "ドバラダ門",
+    "author": "山下洋輔",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101233062",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002284331",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 562
+  },
+  {
+    "book_id": "isbn-9784101233017",
+    "title": "ピアニストを笑え!",
+    "author": "山下洋輔",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101233017",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I11141123544887",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 256
+  },
+  {
+    "book_id": "isbn-9784101273129",
+    "title": "ロックで独立する方法",
+    "author": "忌野清志郎",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101273129",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029577254",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 249
   }
 ]
