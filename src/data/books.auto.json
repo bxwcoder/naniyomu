@@ -226948,5 +226948,372 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 389
+  },
+  {
+    "book_id": "isbn-9784061819467",
+    "title": "ジョーカー",
+    "author": "清涼院流水",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061819467",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002551858",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 778
+  },
+  {
+    "book_id": "isbn-9784062747622",
+    "title": "動かぬ証拠",
+    "author": "蘇部健一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062747622",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007351048",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 384
+  },
+  {
+    "book_id": "isbn-9784062761468",
+    "title": "『アリス・ミラー城』殺人事件",
+    "author": "北山猛邦",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062761468",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009696415",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 462
+  },
+  {
+    "book_id": "isbn-9784087463088",
+    "title": "七月七日",
+    "author": "古処誠二",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087463088",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009403653",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 332
+  },
+  {
+    "book_id": "isbn-9784167732042",
+    "title": "嫉妬事件",
+    "author": "乾くるみ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167732042",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011312477",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 268
+  },
+  {
+    "book_id": "isbn-9784334791223",
+    "title": "蒼き山嶺",
+    "author": "馳星周",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334791223",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030733155",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 450
+  },
+  {
+    "book_id": "isbn-9784041664100",
+    "title": "魔界医師メフィスト",
+    "author": "菊地秀行",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041664100",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002238855",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 324
+  },
+  {
+    "book_id": "isbn-9784488416034",
+    "title": "キッド・ピストルズの妄想",
+    "author": "山口雅也",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488416034",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002880025",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 422
+  },
+  {
+    "book_id": "isbn-9784061983663",
+    "title": "なまみこ物語",
+    "author": "円地文子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061983663",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007330069",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 394
+  },
+  {
+    "book_id": "isbn-9784122062436",
+    "title": "晩菊",
+    "author": "林芙美子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122062436",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027233926",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 245
+  },
+  {
+    "book_id": "isbn-9784061976313",
+    "title": "東京の三十年",
+    "author": "田山花袋",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061976313",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002712483",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 365
+  },
+  {
+    "book_id": "isbn-9784101201115",
+    "title": "黙市",
+    "author": "津島佑子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101201115",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002044145",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 224
+  },
+  {
+    "book_id": "isbn-9784062903493",
+    "title": "ヤマネコ・ドーム",
+    "author": "津島佑子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062903493",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028136243",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 376
+  },
+  {
+    "book_id": "isbn-9784101164045",
+    "title": "魚雷艇学生",
+    "author": "島尾敏雄",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101164045",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001997091",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 205
   }
 ]
