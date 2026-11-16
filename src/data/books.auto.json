@@ -222708,5 +222708,537 @@
     "tier": "basic",
     "publisher": "集英社",
     "pages": 365
+  },
+  {
+    "book_id": "isbn-9784801400511",
+    "title": "手ぶらで生きる。",
+    "author": "ミニマリストしぶ",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784801400511",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028946045",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "サンクチュアリ出版",
+    "pages": 241
+  },
+  {
+    "book_id": "isbn-9784344414006",
+    "title": "成功のコンセプト",
+    "author": "三木谷浩史",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344414006",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010873798",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 205
+  },
+  {
+    "book_id": "isbn-9784763180810",
+    "title": "幼稚園では遅すぎる",
+    "author": "井深大",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784763180810",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002909995",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "サンマーク出版",
+    "pages": 218
+  },
+  {
+    "book_id": "isbn-9784408551227",
+    "title": "私の財産告白",
+    "author": "本多静六",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784408551227",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024418402",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "実業之日本社",
+    "pages": 212
+  },
+  {
+    "book_id": "isbn-9784408551234",
+    "title": "私の生活流儀",
+    "author": "本多静六",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784408551234",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024418446",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "実業之日本社",
+    "pages": 213
+  },
+  {
+    "book_id": "isbn-9784344420168",
+    "title": "渋谷ではたらく社長の告白",
+    "author": "藤田晋",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344420168",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024627404",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 302
+  },
+  {
+    "book_id": "isbn-9784062815215",
+    "title": "憂鬱でなければ、仕事じゃない",
+    "author": "見城徹",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062815215",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024575103",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 237
+  },
+  {
+    "book_id": "isbn-9784344424593",
+    "title": "たった一人の熱狂",
+    "author": "見城徹",
+    "genres": [
+      "practical"
+    ],
+    "themes": [
+      "practical"
+    ],
+    "moods": [
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344424593",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027209953",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 322
+  },
+  {
+    "book_id": "isbn-9784780802283",
+    "title": "まじめに生きるって損ですか?",
+    "author": "雨宮まみ",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784780802283",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027426394",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ポット出版",
+    "pages": 203
+  },
+  {
+    "book_id": "isbn-9784344423213",
+    "title": "女子をこじらせて",
+    "author": "雨宮まみ",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344423213",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026279605",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 262
+  },
+  {
+    "book_id": "isbn-9784091360847",
+    "title": "少女革命ウテナ",
+    "author": "さいとうちほ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091360847",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002537103",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 189
+  },
+  {
+    "book_id": "isbn-9784592123514",
+    "title": "彼方から",
+    "author": "ひかわきょうこ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784592123514",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027140720",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白泉社",
+    "pages": 186
+  },
+  {
+    "book_id": "isbn-9784088535159",
+    "title": "耳をすませば",
+    "author": "柊あおい",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784088535159",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033813950",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 177
+  },
+  {
+    "book_id": "isbn-9784086174503",
+    "title": "星の瞳のシルエット",
+    "author": "柊あおい",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784086174503",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002748657",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 351
+  },
+  {
+    "book_id": "isbn-9784592121213",
+    "title": "花咲ける青少年",
+    "author": "樹なつみ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784592121213",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027487606",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白泉社",
+    "pages": 179
+  },
+  {
+    "book_id": "isbn-9784592890751",
+    "title": "OZ",
+    "author": "樹なつみ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784592890751",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026703205",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白泉社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784091373519",
+    "title": "風光る",
+    "author": "渡辺多恵子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784091373519",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002617488",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 189
+  },
+  {
+    "book_id": "isbn-9784592881742",
+    "title": "ここはグリーン・ウッド",
+    "author": "那州雪絵",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784592881742",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002946678",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "白泉社",
+    "pages": 298
+  },
+  {
+    "book_id": "isbn-9784062601627",
+    "title": "生徒諸君!",
+    "author": "庄司陽子",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062601627",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002450770",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 401
+  },
+  {
+    "book_id": "isbn-9784834271812",
+    "title": "ガラスの城",
+    "author": "わたなべまさこ",
+    "genres": [
+      "manga"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784834271812",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002946685",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ホーム社",
+    "pages": 291
   }
 ]
