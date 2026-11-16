@@ -214910,6 +214910,33 @@
     "pages": 389
   },
   {
+    "book_id": "isbn-9784087468984",
+    "title": "私を知らないで",
+    "author": "白河三兎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087468984",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023975203",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 342
+  },
+  {
     "book_id": "isbn-9784062736077",
     "title": "QED 百人一首の呪",
     "author": "高田崇史",
