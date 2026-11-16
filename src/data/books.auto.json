@@ -230789,5 +230789,438 @@
     "tier": "basic",
     "publisher": "岩波書店",
     "pages": 294
+  },
+  {
+    "book_id": "isbn-9784105067106",
+    "title": "狂気の歴史",
+    "author": "ミシェル・フーコー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784105067106",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030519547",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 716
+  },
+  {
+    "book_id": "isbn-9784309462806",
+    "title": "アンチ・オイディプス",
+    "author": "ジル・ドゥルーズ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309462806",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008318302",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 409
+  },
+  {
+    "book_id": "isbn-9784003369111",
+    "title": "全体性と無限",
+    "author": "レヴィナス",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003369111",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008016895",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 462
+  },
+  {
+    "book_id": "isbn-9784480510600",
+    "title": "言語・真理・論理",
+    "author": "A・J・エイヤー",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480510600",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031950905",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 299
+  },
+  {
+    "book_id": "isbn-9784480089656",
+    "title": "省察",
+    "author": "デカルト",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480089656",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008155742",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 306
+  },
+  {
+    "book_id": "isbn-9784569900940",
+    "title": "フランス革命の省察",
+    "author": "エドマンド・バーク",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784569900940",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030770733",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "PHP研究所",
+    "pages": 396
+  },
+  {
+    "book_id": "isbn-9784334752316",
+    "title": "人口論",
+    "author": "マルサス",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334752316",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011227082",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 307
+  },
+  {
+    "book_id": "isbn-9784061589209",
+    "title": "遊びと人間",
+    "author": "ロジェ・カイヨワ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061589209",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002039969",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 389
+  },
+  {
+    "book_id": "isbn-9784480099143",
+    "title": "イタリア・ルネサンスの文化",
+    "author": "ブルクハルト",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480099143",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029645025",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 485
+  },
+  {
+    "book_id": "isbn-9784876981670",
+    "title": "英雄伝",
+    "author": "プルタルコス",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784876981670",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008582618",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "京都大学学術出版会",
+    "pages": 453
+  },
+  {
+    "book_id": "isbn-9784122058767",
+    "title": "痴愚神礼讃",
+    "author": "エラスムス",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122058767",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025123210",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 366
+  },
+  {
+    "book_id": "isbn-9784122019911",
+    "title": "ユートピア",
+    "author": "トマス・モア",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122019911",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002261636",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 328
+  },
+  {
+    "book_id": "isbn-9784062924108",
+    "title": "星界の報告",
+    "author": "ガリレオ・ガリレイ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062924108",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028136284",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 120
+  },
+  {
+    "book_id": "isbn-9784003390290",
+    "title": "科学と仮説",
+    "author": "ポアンカレ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003390290",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031820511",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 490
+  },
+  {
+    "book_id": "isbn-9784003394311",
+    "title": "生物から見た世界",
+    "author": "ユクスキュル",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003394311",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007815950",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 166
+  },
+  {
+    "book_id": "isbn-9784476012200",
+    "title": "自我と無意識",
+    "author": "ユング",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784476012200",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002394427",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "第三文明社",
+    "pages": 223
   }
 ]
