@@ -255412,5 +255412,1031 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 487
+  },
+  {
+    "book_id": "isbn-9784043881024",
+    "title": "ニート",
+    "author": "絲山秋子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043881024",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009406453",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 177
+  },
+  {
+    "book_id": "isbn-9784104669028",
+    "title": "エスケイプ/アブセント",
+    "author": "絲山秋子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784104669028",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909791876753",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784101304540",
+    "title": "妻の超然",
+    "author": "絲山秋子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101304540",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024262112",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 267
+  },
+  {
+    "book_id": "isbn-9784101304557",
+    "title": "末裔",
+    "author": "絲山秋子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101304557",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025341755",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 312
+  },
+  {
+    "book_id": "isbn-9784101304564",
+    "title": "不愉快な本の続編",
+    "author": "絲山秋子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101304564",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026382093",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 163
+  },
+  {
+    "book_id": "isbn-9784309415871",
+    "title": "忘れられたワルツ",
+    "author": "絲山秋子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309415871",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028725445",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 193
+  },
+  {
+    "book_id": "isbn-9784309419305",
+    "title": "夢も見ずに眠った。",
+    "author": "絲山秋子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309419305",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032449380",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 334
+  },
+  {
+    "book_id": "isbn-9784163917757",
+    "title": "神と黒蟹県",
+    "author": "絲山秋子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784163917757",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033140623",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 232
+  },
+  {
+    "book_id": "isbn-9784022646514",
+    "title": "ねたあとに",
+    "author": "長嶋有",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022646514",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023360575",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 396
+  },
+  {
+    "book_id": "isbn-9784309408651",
+    "title": "泣かない女はいない",
+    "author": "長嶋有",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309408651",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009124860",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 180
+  },
+  {
+    "book_id": "isbn-9784062932295",
+    "title": "佐渡の三人",
+    "author": "長嶋有",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062932295",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026952249",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 193
+  },
+  {
+    "book_id": "isbn-9784167906542",
+    "title": "問いのない答え",
+    "author": "長嶋有",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167906542",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027439418",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 330
+  },
+  {
+    "book_id": "isbn-9784122068131",
+    "title": "三の隣は五号室",
+    "author": "長嶋有",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122068131",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030113598",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 246
+  },
+  {
+    "book_id": "isbn-9784198647339",
+    "title": "私に付け足されるもの",
+    "author": "長嶋有",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198647339",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029370132",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 269
+  },
+  {
+    "book_id": "isbn-9784065371206",
+    "title": "ルーティーンズ",
+    "author": "長嶋有",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065371206",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033775358",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 216
+  },
+  {
+    "book_id": "isbn-9784309407869",
+    "title": "次の町まで、きみはどんな歌をうたうの?",
+    "author": "柴崎友香",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309407869",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008123165",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 176
+  },
+  {
+    "book_id": "isbn-9784309414645",
+    "title": "ビリジアン",
+    "author": "柴崎友香",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309414645",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027439408",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 198
+  },
+  {
+    "book_id": "isbn-9784041048276",
+    "title": "週末カミング",
+    "author": "柴崎友香",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041048276",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027834268",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784062938433",
+    "title": "パノララ",
+    "author": "柴崎友香",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062938433",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028730333",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 585
+  },
+  {
+    "book_id": "isbn-9784122069756",
+    "title": "千の扉",
+    "author": "柴崎友香",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122069756",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030678018",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784103018339",
+    "title": "公園へ行かないか?火曜日に",
+    "author": "柴崎友香",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784103018339",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029099222",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 276
+  },
+  {
+    "book_id": "isbn-9784480439437",
+    "title": "百年と一日",
+    "author": "柴崎友香",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480439437",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033350439",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 230
+  },
+  {
+    "book_id": "isbn-9784087718560",
+    "title": "続きと始まり",
+    "author": "柴崎友香",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087718560",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033177471",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 341
+  },
+  {
+    "book_id": "isbn-9784065416211",
+    "title": "あなたにオススメの",
+    "author": "本谷有希子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065416211",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034389310",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 253
+  },
+  {
+    "book_id": "isbn-9784309410784",
+    "title": "やさしいため息",
+    "author": "青山七恵",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309410784",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011162585",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 201
+  },
+  {
+    "book_id": "isbn-9784062779838",
+    "title": "わたしの彼氏",
+    "author": "青山七恵",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062779838",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026064452",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 439
+  },
+  {
+    "book_id": "isbn-9784094067576",
+    "title": "ハッチとマーロウ",
+    "author": "青山七恵",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094067576",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030321914",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 428
+  },
+  {
+    "book_id": "isbn-9784344432574",
+    "title": "みがわり",
+    "author": "青山七恵",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344432574",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032566603",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 374
+  },
+  {
+    "book_id": "isbn-9784094074789",
+    "title": "前の家族",
+    "author": "青山七恵",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094074789",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034159003",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 382
+  },
+  {
+    "book_id": "isbn-9784043885022",
+    "title": "一千一秒の日々",
+    "author": "島本理生",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043885022",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010057048",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 202
+  },
+  {
+    "book_id": "isbn-9784043885039",
+    "title": "クローバー",
+    "author": "島本理生",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043885039",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011102408",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 283
+  },
+  {
+    "book_id": "isbn-9784062933544",
+    "title": "七緒のために",
+    "author": "島本理生",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062933544",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027217257",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 199
+  },
+  {
+    "book_id": "isbn-9784309412283",
+    "title": "あられもない祈り",
+    "author": "島本理生",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309412283",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024627278",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 183
+  },
+  {
+    "book_id": "isbn-9784167911003",
+    "title": "夏の裁断",
+    "author": "島本理生",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167911003",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029055087",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784087458077",
+    "title": "イノセント",
+    "author": "島本理生",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087458077",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029306108",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 417
+  },
+  {
+    "book_id": "isbn-9784065264027",
+    "title": "夜はおしまい",
+    "author": "島本理生",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065264027",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032007028",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 219
+  },
+  {
+    "book_id": "isbn-9784167920951",
+    "title": "星のように離れて雨のように散った",
+    "author": "島本理生",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167920951",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032994206",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 238
+  },
+  {
+    "book_id": "isbn-9784103020332",
+    "title": "天使は見えないから、描かない",
+    "author": "島本理生",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784103020332",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033894842",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 251
   }
 ]
