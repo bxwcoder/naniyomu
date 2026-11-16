@@ -232934,5 +232934,321 @@
     "tier": "basic",
     "publisher": "早川書房",
     "pages": 314
+  },
+  {
+    "book_id": "isbn-9784344434950",
+    "title": "アリアドネの声",
+    "author": "井上真偽",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344434950",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034274312",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 308
+  },
+  {
+    "book_id": "isbn-9784334106676",
+    "title": "アミュレット・ホテル",
+    "author": "方丈貴恵",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334106676",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034100900",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 373
+  },
+  {
+    "book_id": "isbn-9784488426217",
+    "title": "蝶として死す",
+    "author": "羽生飛鳥",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488426217",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033384384",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 335
+  },
+  {
+    "book_id": "isbn-9784065343425",
+    "title": "揺籠のアディポクル",
+    "author": "市川憂人",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065343425",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033354944",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 403
+  },
+  {
+    "book_id": "isbn-9784334106171",
+    "title": "録音された誘拐",
+    "author": "阿津川辰海",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334106171",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034003745",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 541
+  },
+  {
+    "book_id": "isbn-9784408538440",
+    "title": "午後のチャイムが鳴るまでは",
+    "author": "阿津川辰海",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784408538440",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033040231",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "実業之日本社",
+    "pages": 379
+  },
+  {
+    "book_id": "isbn-9784488029036",
+    "title": "六色の蛹",
+    "author": "櫻田智也",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488029036",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033492301",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 262
+  },
+  {
+    "book_id": "isbn-9784488443153",
+    "title": "11文字の檻",
+    "author": "青崎有吾",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488443153",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032518063",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 355
+  },
+  {
+    "book_id": "isbn-9784150315566",
+    "title": "オーラリメイカー",
+    "author": "春暮康一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150315566",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032922452",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 470
+  },
+  {
+    "book_id": "isbn-9784150313715",
+    "title": "大進化どうぶつデスゲーム",
+    "author": "草野原々",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150313715",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029600744",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 351
+  },
+  {
+    "book_id": "isbn-9784150313142",
+    "title": "最後にして最初のアイドル",
+    "author": "草野原々",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150313142",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028754955",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 334
+  },
+  {
+    "book_id": "isbn-9784150314583",
+    "title": "ヴィンダウス・エンジン",
+    "author": "十三不塔",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150314583",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030738761",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 319
   }
 ]
