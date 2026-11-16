@@ -1,8 +1,8 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-16T15:09:31.145Z
-- 候補：9279冊
-- 入れた本：8426冊
+- 検索日時：2026-11-16T15:21:50.046Z
+- 候補：9299冊
+- 入れた本：8446冊
 - 入れなかった本：853冊
 
 ## 入れなかった本
@@ -9289,3 +9289,23 @@
 - マイナス・ゼロ：集英社文庫／集英社／2008.7／518p／NDC 913.6／mystery_sf・normal・long
 - エロス：集英社文庫／集英社／2008.9／379p／NDC 913.6／mystery_sf・normal・medium
 - ツィス：集英社文庫／集英社／2008.8／422p／NDC 913.6／mystery_sf・normal・medium
+- 高杉晋作：文春新書／文藝春秋／2002.3／236p／NDC 289.1／nonfiction,liberal_arts・normal・short
+- 明治維新とナショナリズム：叢書なし／山川出版社／1997.1／364, 22p／NDC 210.61／liberal_arts・normal・medium
+- 帰化人：中公新書 ; 70／中央公論社／1978／188p ; 18cm／NDC 210.3／liberal_arts・normal・short
+- 武田勝頼：シリーズ・中世関東武士の研究 ; 第39巻／戎光祥出版／2025.4／393p／NDC 289.1／nonfiction,liberal_arts・normal・medium
+- 幕末維新変革史：岩波現代文庫. 学術 ; 391／岩波書店／2018.10／603p／NDC 210.61／liberal_arts・normal・long
+- 殉死の構造：講談社学術文庫／講談社／2008.9／251p／NDC 385.6／liberal_arts・normal・medium
+- 江戸お留守居役の日記：講談社学術文庫／講談社／2003.10／373p／NDC 210.52／liberal_arts・normal・medium
+- 勝海舟：叢書なし／筑摩書房／2010.2／914, 11p／NDC 289.1／nonfiction,liberal_arts・normal・long
+- 武士の起源を解きあかす：ちくま新書 ; 1369／筑摩書房／2018.11／334p／NDC 210.36／liberal_arts・normal・medium
+- 江戸の想像力：ちくま学芸文庫／筑摩書房／1992.6／316p／NDC 910.25／liberal_arts・normal・medium
+- 田沼意次：ミネルヴァ日本評伝選／ミネルヴァ書房／2007.7／271, 11p／NDC 289.1／nonfiction,liberal_arts・normal・medium
+- 海と帝国：中国の歴史 = A history of China ; 9／講談社／2005.8／526p／NDC 222.058／liberal_arts・normal・long
+- 生き残った帝国ビザンティン：講談社学術文庫／講談社／2008.3／275p／NDC 209.4／liberal_arts・normal・medium
+- 正統と異端：中公文庫 ; ほ19-1／中央公論新社／2013.4／271p／NDC 192.3／liberal_arts・normal・medium
+- パンダ外交：メディアファクトリー新書 ; 023／メディアファクトリー／2011.2／201p／NDC 319.22／liberal_arts・normal・short
+- アメリカ黒人の歴史：岩波新書／岩波書店／1991.3／252, 8p／NDC 316.853／liberal_arts・normal・medium
+- オスマン帝国500年の平和：講談社学術文庫 ; 2353. 興亡の世界史／講談社／2016.5／409p／NDC 227.4／liberal_arts・normal・medium
+- フランス革命：岩波現代文庫 ; 学術／岩波書店／2007.12／319, 12p／NDC 235.06／liberal_arts・normal・medium
+- 永楽帝：講談社学術文庫 ; 2148／講談社／2012.12／317p／NDC 222.058／liberal_arts・normal・medium
+- ルネサンスと地中海：叢書なし／中央公論新社／2008.1／ページ数不明／NDC 209／liberal_arts・normal・medium

@@ -224006,5 +224006,549 @@
     "tier": "basic",
     "publisher": "集英社",
     "pages": 422
+  },
+  {
+    "book_id": "isbn-9784166602360",
+    "title": "高杉晋作",
+    "author": "一坂太郎",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784166602360",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003070984",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 236
+  },
+  {
+    "book_id": "isbn-9784634611801",
+    "title": "明治維新とナショナリズム",
+    "author": "三谷博",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784634611801",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002568271",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "山川出版社",
+    "pages": 364
+  },
+  {
+    "book_id": "isbn-9784121000705",
+    "title": "帰化人",
+    "author": "上田正昭",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784121000705",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I10111100050514",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 188
+  },
+  {
+    "book_id": "isbn-9784864035705",
+    "title": "武田勝頼",
+    "author": "平山優",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784864035705",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033987915",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "戎光祥出版",
+    "pages": 393
+  },
+  {
+    "book_id": "isbn-9784006003913",
+    "title": "幕末維新変革史",
+    "author": "宮地正人",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784006003913",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029226554",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 603
+  },
+  {
+    "book_id": "isbn-9784061598935",
+    "title": "殉死の構造",
+    "author": "山本博文",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061598935",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009568189",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 251
+  },
+  {
+    "book_id": "isbn-9784061596207",
+    "title": "江戸お留守居役の日記",
+    "author": "山本博文",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061596207",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004250949",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 373
+  },
+  {
+    "book_id": "isbn-9784480885272",
+    "title": "勝海舟",
+    "author": "松浦玲",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480885272",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010747647",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 914
+  },
+  {
+    "book_id": "isbn-9784480071781",
+    "title": "武士の起源を解きあかす",
+    "author": "桃崎有一郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480071781",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029298261",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 334
+  },
+  {
+    "book_id": "isbn-9784480080073",
+    "title": "江戸の想像力",
+    "author": "田中優子",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480080073",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002198972",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 316
+  },
+  {
+    "book_id": "isbn-9784623049417",
+    "title": "田沼意次",
+    "author": "藤田覚",
+    "genres": [
+      "nonfiction",
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784623049417",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008604422",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ミネルヴァ書房",
+    "pages": 271
+  },
+  {
+    "book_id": "isbn-9784062740593",
+    "title": "海と帝国",
+    "author": "上田信",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062740593",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007895712",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 526
+  },
+  {
+    "book_id": "isbn-9784061598669",
+    "title": "生き残った帝国ビザンティン",
+    "author": "井上浩一",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061598669",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009302802",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 275
+  },
+  {
+    "book_id": "isbn-9784122057845",
+    "title": "正統と異端",
+    "author": "堀米庸三",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122057845",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024373820",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 271
+  },
+  {
+    "book_id": "isbn-9784840138406",
+    "title": "パンダ外交",
+    "author": "家永真幸",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784840138406",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011135288",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "メディアファクトリー",
+    "pages": 201
+  },
+  {
+    "book_id": "isbn-9784004301653",
+    "title": "アメリカ黒人の歴史",
+    "author": "本田創造",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004301653",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002098919",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 252
+  },
+  {
+    "book_id": "isbn-9784062923538",
+    "title": "オスマン帝国500年の平和",
+    "author": "林佳世子",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062923538",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027260747",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 409
+  },
+  {
+    "book_id": "isbn-9784006001896",
+    "title": "フランス革命",
+    "author": "柴田三千雄",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784006001896",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009221879",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 319
+  },
+  {
+    "book_id": "isbn-9784062921480",
+    "title": "永楽帝",
+    "author": "檀上寛",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062921480",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024097593",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784122049680",
+    "title": "ルネサンスと地中海",
+    "author": "樺山紘一",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122049680",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970023484835327028",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": null
   }
 ]
