@@ -253362,5 +253362,578 @@
     "tier": "basic",
     "publisher": "文藝春秋",
     "pages": 530
+  },
+  {
+    "book_id": "isbn-9784101162041",
+    "title": "この土の器をも",
+    "author": "三浦綾子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101162041",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001518124",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 237
+  },
+  {
+    "book_id": "isbn-9784101162058",
+    "title": "光あるうちに",
+    "author": "三浦綾子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101162058",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001547228",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784101162102",
+    "title": "積木の箱",
+    "author": "三浦綾子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101162102",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001710701",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784041004326",
+    "title": "海嶺",
+    "author": "三浦綾子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041004326",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023855399",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 419
+  },
+  {
+    "book_id": "isbn-9784101162188",
+    "title": "千利休とその妻たち",
+    "author": "三浦綾子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101162188",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001907719",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784910881034",
+    "title": "裁きの家",
+    "author": "三浦綾子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784910881034",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032732238",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "三浦綾子記念文化財団",
+    "pages": 514
+  },
+  {
+    "book_id": "isbn-9784041002414",
+    "title": "石ころのうた",
+    "author": "三浦綾子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041002414",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023554924",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 365
+  },
+  {
+    "book_id": "isbn-9784061317598",
+    "title": "自我の構図",
+    "author": "三浦綾子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061317598",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001555499",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784101162171",
+    "title": "広き迷路",
+    "author": "三浦綾子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101162171",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001852680",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 299
+  },
+  {
+    "book_id": "isbn-9784101123165",
+    "title": "イエスの生涯",
+    "author": "遠藤周作",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101123165",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001561419",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 232
+  },
+  {
+    "book_id": "isbn-9784101123202",
+    "title": "真昼の悪魔",
+    "author": "遠藤周作",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101123202",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001720998",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 275
+  },
+  {
+    "book_id": "isbn-9784101123103",
+    "title": "彼の生きかた",
+    "author": "遠藤周作",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101123103",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971149384757161393",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784041245217",
+    "title": "宿敵",
+    "author": "遠藤周作",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041245217",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001877720",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784041063347",
+    "title": "ぐうたら生活入門",
+    "author": "遠藤周作",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041063347",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029128948",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 199
+  },
+  {
+    "book_id": "isbn-9784101141190",
+    "title": "金閣炎上",
+    "author": "水上勉",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101141190",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001789972",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 347
+  },
+  {
+    "book_id": "isbn-9784101141022",
+    "title": "霧と影",
+    "author": "水上勉",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101141022",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I10111100314460",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 326
+  },
+  {
+    "book_id": "isbn-9784122013537",
+    "title": "良寛",
+    "author": "水上勉",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122013537",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001822058",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 354
+  },
+  {
+    "book_id": "isbn-9784101141091",
+    "title": "櫻守",
+    "author": "水上勉",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101141091",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008857337",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 450
+  },
+  {
+    "book_id": "isbn-9784062902298",
+    "title": "有田川",
+    "author": "有吉佐和子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062902298",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025412281",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 516
+  },
+  {
+    "book_id": "isbn-9784101132150",
+    "title": "鬼怒川",
+    "author": "有吉佐和子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101132150",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025642134",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 440
+  },
+  {
+    "book_id": "isbn-9784101132174",
+    "title": "針女",
+    "author": "有吉佐和子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101132174",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001539040",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 347
+  },
+  {
+    "book_id": "isbn-9784122077140",
+    "title": "真砂屋お峰",
+    "author": "有吉佐和子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122077140",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034401819",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 422
   }
 ]
