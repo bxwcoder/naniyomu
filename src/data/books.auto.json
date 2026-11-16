@@ -225724,5 +225724,350 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 249
+  },
+  {
+    "book_id": "isbn-9784087478440",
+    "title": "おむすびの祈り",
+    "author": "佐藤初女",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087478440",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007845871",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 253
+  },
+  {
+    "book_id": "isbn-9784167599072",
+    "title": "がんから始まる",
+    "author": "岸本葉子",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167599072",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008153725",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 270
+  },
+  {
+    "book_id": "isbn-9784167915452",
+    "title": "鵜頭川村事件",
+    "author": "櫛木理宇",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167915452",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030695753",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 474
+  },
+  {
+    "book_id": "isbn-9784041005385",
+    "title": "ホーンテッド・キャンパス",
+    "author": "櫛木理宇",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041005385",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023996145",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 285
+  },
+  {
+    "book_id": "isbn-9784041118757",
+    "title": "東京の子",
+    "author": "藤井太洋",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041118757",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032240511",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 381
+  },
+  {
+    "book_id": "isbn-9784309024929",
+    "title": "ワイルドフラワーの見えない一年",
+    "author": "松田青子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309024929",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027530560",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 191
+  },
+  {
+    "book_id": "isbn-9784122026926",
+    "title": "食は広州に在り",
+    "author": "邱永漢",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122026926",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002523257",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 229
+  },
+  {
+    "book_id": "isbn-9784122011540",
+    "title": "金銭読本",
+    "author": "邱永漢",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122011540",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001703733",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 209
+  },
+  {
+    "book_id": "isbn-9784575527858",
+    "title": "赤ずきん、ピノキオ拾って死体と出会う。",
+    "author": "青柳碧人",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575527858",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033671458",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 340
+  },
+  {
+    "book_id": "isbn-9784101255194",
+    "title": "旧約聖書を知っていますか",
+    "author": "阿刀田高",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101255194",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002387387",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784101255217",
+    "title": "新約聖書を知っていますか",
+    "author": "阿刀田高",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101255217",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002540874",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 295
+  },
+  {
+    "book_id": "isbn-9784101255293",
+    "title": "コーランを知っていますか",
+    "author": "阿刀田高",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101255293",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008042861",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 375
+  },
+  {
+    "book_id": "isbn-9784150305734",
+    "title": "星界の戦旗",
+    "author": "森岡浩之",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150305734",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002534430",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 275
   }
 ]
