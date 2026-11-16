@@ -231222,5 +231222,187 @@
     "tier": "basic",
     "publisher": "第三文明社",
     "pages": 223
+  },
+  {
+    "book_id": "isbn-9784003211816",
+    "title": "黄金のろば",
+    "author": "アプレイウス",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003211816",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I23111100264775",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 213
+  },
+  {
+    "book_id": "isbn-9784003212219",
+    "title": "サテュリコン",
+    "author": "ペトロニウス",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784003212219",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002125596",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 408
+  },
+  {
+    "book_id": "isbn-9784101050225",
+    "title": "奔馬",
+    "author": "三島由紀夫",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101050225",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004287755",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 515
+  },
+  {
+    "book_id": "isbn-9784101050232",
+    "title": "暁の寺",
+    "author": "三島由紀夫",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101050232",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004298621",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 432
+  },
+  {
+    "book_id": "isbn-9784101050249",
+    "title": "天人五衰",
+    "author": "三島由紀夫",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101050249",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004329729",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 350
+  },
+  {
+    "book_id": "isbn-9784101050102",
+    "title": "永すぎた春",
+    "author": "三島由紀夫",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101050102",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024225277",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 268
+  },
+  {
+    "book_id": "isbn-9784101001067",
+    "title": "少年",
+    "author": "川端康成",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101001067",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032038104",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 178
   }
 ]
