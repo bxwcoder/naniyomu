@@ -214672,5 +214672,266 @@
     "tier": "basic",
     "publisher": "筑摩書房",
     "pages": 213
+  },
+  {
+    "book_id": "isbn-9784062758635",
+    "title": "『クロック城』殺人事件",
+    "author": "北山猛邦",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062758635",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009135629",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 418
+  },
+  {
+    "book_id": "isbn-9784488419141",
+    "title": "少年検閲官",
+    "author": "北山猛邦",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488419141",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024732422",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 371
+  },
+  {
+    "book_id": "isbn-9784061821200",
+    "title": "UNKNOWN",
+    "author": "古処誠二",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061821200",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002877764",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 209
+  },
+  {
+    "book_id": "isbn-9784150312428",
+    "title": "ニルヤの島",
+    "author": "柴田勝家",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150312428",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027542006",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 366
+  },
+  {
+    "book_id": "isbn-9784062738804",
+    "title": "ダブ(エ)ストン街道",
+    "author": "浅暮三文",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062738804",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004250779",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 341
+  },
+  {
+    "book_id": "isbn-9784062732284",
+    "title": "記憶の果て",
+    "author": "浦賀和宏",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062732284",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003013630",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 594
+  },
+  {
+    "book_id": "isbn-9784344404410",
+    "title": "彼女は存在しない",
+    "author": "浦賀和宏",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344404410",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007344661",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 446
+  },
+  {
+    "book_id": "isbn-9784062778251",
+    "title": "鬼畜の家",
+    "author": "深木章子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062778251",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025367329",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 389
+  },
+  {
+    "book_id": "isbn-9784043731022",
+    "title": "中空",
+    "author": "鳥飼否宇",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043731022",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007361672",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 350
+  },
+  {
+    "book_id": "isbn-9784062759724",
+    "title": "ウェディング・ドレス",
+    "author": "黒田研二",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062759724",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009265479",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 489
   }
 ]
