@@ -220502,5 +220502,455 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 268
+  },
+  {
+    "book_id": "isbn-9784822249212",
+    "title": "機械との競争",
+    "author": "エリック・ブリニョルフソン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784822249212",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024215619",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日経BP社",
+    "pages": 175
+  },
+  {
+    "book_id": "isbn-9784309467351",
+    "title": "ドーナツ経済",
+    "author": "ケイト・ラワース",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309467351",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031521605",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 484
+  },
+  {
+    "book_id": "isbn-9784140816875",
+    "title": "限界費用ゼロ社会",
+    "author": "ジェレミー・リフキン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784140816875",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026797363",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "NHK出版",
+    "pages": 531
+  },
+  {
+    "book_id": "isbn-9784757122802",
+    "title": "大停滞",
+    "author": "タイラー・コーエン",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784757122802",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011276132",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "NTT出版",
+    "pages": 166
+  },
+  {
+    "book_id": "isbn-9784270001448",
+    "title": "まっとうな経済学",
+    "author": "ティム・ハーフォード",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784270001448",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008304605",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ランダムハウス講談社",
+    "pages": 367
+  },
+  {
+    "book_id": "isbn-9784622086130",
+    "title": "大不平等",
+    "author": "ブランコ・ミラノヴィッチ",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784622086130",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028199790",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "みすず書房",
+    "pages": 244
+  },
+  {
+    "book_id": "isbn-9784840813150",
+    "title": "企業家としての国家",
+    "author": "マリアナ・マッツカート",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784840813150",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026704096",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "薬事日報社",
+    "pages": 443
+  },
+  {
+    "book_id": "isbn-9784822251598",
+    "title": "資本主義・社会主義・民主主義",
+    "author": "ヨーゼフ・シュンペーター",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784822251598",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027452526",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日経BP社",
+    "pages": 511
+  },
+  {
+    "book_id": "isbn-9784800208118",
+    "title": "僕はお父さんを訴えます",
+    "author": "友井羊",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784800208118",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024270605",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "宝島社",
+    "pages": 297
+  },
+  {
+    "book_id": "isbn-9784800234131",
+    "title": "スープ屋しずくの謎解き朝ごはん",
+    "author": "友井羊",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784800234131",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025856797",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "宝島社",
+    "pages": 280
+  },
+  {
+    "book_id": "isbn-9784796688574",
+    "title": "ラブ・ケミストリー",
+    "author": "喜多喜久",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784796688574",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023423763",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "宝島社",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784061826991",
+    "title": "キョウカンカク",
+    "author": "天祢涼",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061826991",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010696585",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 264
+  },
+  {
+    "book_id": "isbn-9784800279828",
+    "title": "がん消滅の罠",
+    "author": "岩木一麻",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784800279828",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028716327",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "宝島社",
+    "pages": 380
+  },
+  {
+    "book_id": "isbn-9784800245618",
+    "title": "谷中レトロカメラ店の謎日和",
+    "author": "柊サナカ",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784800245618",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026680395",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "宝島社",
+    "pages": 280
+  },
+  {
+    "book_id": "isbn-9784150311285",
+    "title": "黒猫の遊歩あるいは美学講義",
+    "author": "森晶麿",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784150311285",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024778493",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "早川書房",
+    "pages": 314
+  },
+  {
+    "book_id": "isbn-9784334736156",
+    "title": "銀杏坂",
+    "author": "松尾由美",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334736156",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004329171",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 346
+  },
+  {
+    "book_id": "isbn-9784062750844",
+    "title": "銀の檻を溶かして",
+    "author": "高里椎奈",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062750844",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007731088",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 440
   }
 ]

@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-16T11:56:16.267Z
-- 候補：9121冊
-- 入れた本：8294冊
-- 入れなかった本：827冊
+- 検索日時：2026-11-16T12:25:22.843Z
+- 候補：9140冊
+- 入れた本：8311冊
+- 入れなかった本：829冊
 
 ## 入れなかった本
 
@@ -834,6 +834,8 @@
 - 本泥棒／マーカス・ズーサック（海外の名作）：著者が合う記録がない
 - 猫の泉／日影丈吉（ミステリー定番）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
 - とらんぷ譚／中井英夫（ミステリー定番）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
+- 大転換／カール・ポランニー（教養の定番）：タイトルが同じで ISBN のある記録がない
+- 選択の自由／ミルトン・フリードマン（教養の定番）：タイトルが同じで ISBN のある記録がない
 
 ## 入れた本と選んだ版
 
@@ -9131,3 +9133,20 @@
 - 殺人鬼：Hayakawa pocket mystery books. 世界探偵小説全集／早川書房／1995.9／362p／NDC 913.6／mystery_sf・normal・medium
 - 十八時の音楽浴：ガガガ文庫／小学館／2007.6／253p／NDC 913.6／mystery_sf・normal・medium
 - 蠅男：大衆文学館／講談社／1996.2／268p／NDC 913.6／mystery_sf・normal・medium
+- 機械との競争：叢書なし／日経BP社、日経BPマーケティング (発売)／2013.2／175p／NDC 366／liberal_arts・normal・short
+- ドーナツ経済：河出文庫 ; ラ5-1／河出書房新社／2021.7／484p／NDC 331／liberal_arts・normal・long
+- 限界費用ゼロ社会：叢書なし／NHK出版／2015.10／531p／NDC 332.06／liberal_arts・normal・long
+- 大停滞：叢書なし／NTT出版／2011.9／166p／NDC 332.53／liberal_arts・normal・short
+- まっとうな経済学：叢書なし／ランダムハウス講談社／2006.9／367p／NDC 331／liberal_arts・normal・medium
+- 大不平等：叢書なし／みすず書房／2017.6／244,41p／NDC 331.85／liberal_arts・normal・short
+- 企業家としての国家：叢書なし／薬事日報社／2015.9／443p／NDC 333／liberal_arts・normal・medium
+- 資本主義・社会主義・民主主義：NIKKEI BP CLASSICS／日経BP社、日経BPマーケティング (発売)／2016.7／511p／NDC 331.72／liberal_arts・normal・long
+- 僕はお父さんを訴えます：宝島社文庫 ; Cと-2-1／宝島社／2013.3／297p／NDC 913.6／mystery_sf・normal・medium
+- スープ屋しずくの謎解き朝ごはん：宝島社文庫 ; Cと-2-3／宝島社／2014.11／280p／NDC 913.6／mystery_sf・normal・medium
+- ラブ・ケミストリー：宝島社文庫 ; Cき-2-1. [このミス大賞]／宝島社／2012.3／317p／NDC 913.6／mystery_sf・normal・medium
+- キョウカンカク：講談社ノベルス ; アAI-01／講談社／2010.2／264p／NDC 913.6／mystery_sf・normal・medium
+- がん消滅の罠：宝島社文庫 ; Cい-15-1. [このミス大賞]／宝島社／2018.1／380p／NDC 913.6／mystery_sf・normal・medium
+- 谷中レトロカメラ店の謎日和：宝島社文庫 ; Cひ-2-3／宝島社／2015.9／280p／NDC 913.6／mystery_sf・normal・medium
+- 黒猫の遊歩あるいは美学講義：ハヤカワ文庫 JA ; 1128／早川書房／2013.9／314p／NDC 913.6／mystery_sf・normal・medium
+- 銀杏坂：光文社文庫／光文社／2004.1／346p／NDC 913.6／mystery_sf・normal・medium
+- 銀の檻を溶かして：講談社文庫／講談社／2005.5／440p／NDC 913.6／mystery_sf・normal・medium
