@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-16T20:29:48.670Z
-- 候補：10040冊
-- 入れた本：9137冊
-- 入れなかった本：903冊
+- 検索日時：2026-11-16T20:43:21.120Z
+- 候補：10063冊
+- 入れた本：9159冊
+- 入れなかった本：904冊
 
 ## 入れなかった本
 
@@ -910,6 +910,7 @@
 - 顔 FACE／横山秀夫（ミステリー定番）：タイトルが同じで ISBN のある記録がない
 - みちづれはいても、ひとり／唯川恵（人気の小説）：著者が合う記録がない
 - 深川安楽亭／山本周五郎（日本の名作）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
+- 気まぐれロボット／星新一（SF・ファンタジー定番）：タイトルが同じで ISBN のある記録がない
 
 ## 入れた本と選んだ版
 
@@ -10038,8 +10039,6 @@
 - 影男：創元推理文庫／東京創元社／1995.10／324p／NDC 913.6／mystery_sf・normal・medium
 - 幻影城：叢書なし／沖積舎／1997.10／403, 17p／NDC 902.3／mystery_sf・normal・medium
 - 探偵小説四十年：叢書なし／沖積舎／1993.7／529, 33p／NDC 910.268／nonfiction・normal・long
-- 二銭銅貨：叢書なし／講談社／1987／ページ数不明／NDC 918.68／mystery_sf・normal・long
-- 一寸法師：叢書なし／ポプラ社／1973.11／ページ数不明／NDC 913.6／mystery_sf・normal・medium
 - 盲獣：創元推理文庫／東京創元社／1996.2／364p／NDC 913.6／mystery_sf・normal・medium
 - わが一高時代の犯罪：光文社文庫. 神津恭介シリーズ／光文社／1996.4／299p／NDC 913.6／mystery_sf・normal・medium
 - 邪馬台国の秘密：光文社文庫. 高木彬光コレクション／光文社／2006.10／484p／NDC 913.6／mystery_sf・normal・long
@@ -10050,3 +10049,27 @@
 - 準急ながら：光文社文庫. 鮎川哲也コレクション／光文社／2001.8／255p／NDC 913.6／mystery_sf・normal・medium
 - 沈黙の函：光文社文庫. 鮎川哲也コレクション／光文社／2003.3／296p／NDC 913.6／mystery_sf・normal・medium
 - 五つの時計：創元推理文庫／東京創元社／1999.2／572p／NDC 913.6／mystery_sf・normal・long
+- おのぞみの結末：星新一ちょっと長めのショートショート ; 5／理論社／2006.3／201p／NDC 913.6／mystery_sf・normal・short
+- 妖精配給会社：新潮文庫 ; ほ-4-9／新潮社／2014.8／357p／NDC 913.6／mystery_sf・normal・medium
+- 宇宙のあいさつ：新潮文庫／新潮社／2003.5／398p／NDC 913.6／mystery_sf・normal・medium
+- 夢魔の標的：新潮文庫 ; ほ-4-13／新潮社／2013.8／328p／NDC 913.6／mystery_sf・normal・medium
+- きまぐれ星のメモ：角川文庫 ; ほ3-1／角川書店、角川グループパブリッシング (発売)／2012.11／362p／NDC 914.6／mystery_sf・normal・medium
+- 明治・父・アメリカ：新潮文庫／新潮社／2007.11／283p／NDC 913.6／nonfiction・normal・medium
+- 盗賊会社：新潮文庫／新潮社／1985.8／203p／NDC 913.6／mystery_sf・normal・short
+- 午後の恐竜：新潮文庫／新潮社／2005.2／215p／NDC 913.6／mystery_sf・normal・short
+- 虚人たち：中公文庫／中央公論社／1998.2／293p／NDC 913.6／mystery_sf・normal・medium
+- 俗物図鑑：新潮文庫／新潮社／2007.1／627p／NDC 913.6／mystery_sf・normal・long
+- 脱走と追跡のサンバ：角川文庫／角川書店／1996.12／336p／NDC 913.6／mystery_sf・normal・medium
+- 霊長類 南へ：角川文庫／角川書店／1986.4／276p／NDC 913.6／mystery_sf・normal・medium
+- 笑うな：新潮文庫／新潮社／2002.10／295p／NDC 913.6／mystery_sf・normal・medium
+- 幻想の未来：角川文庫 ; つ2-27／KADOKAWA／2017.8／244p／NDC 913.6／mystery_sf・normal・short
+- アフリカの爆弾：角川文庫／Kadokawa／2018.9／280p／NDC 913.6／mystery_sf・normal・medium
+- 敵：新潮文庫／新潮社／2000.12／319p／NDC 913.6／mystery_sf・normal・medium
+- くだんのはは：ハルキ文庫／角川春樹事務所／1999.9／541p／NDC 913.6／mystery_sf・normal・long
+- 結晶星団：ハルキ文庫／角川春樹事務所／1998.11／562p／NDC 913.6／mystery_sf・normal・long
+- 見知らぬ明日：ハルキ文庫／角川春樹事務所／1998.8／293p／NDC 913.6／mystery_sf・normal・medium
+- 幻影の構成：ハルキ文庫／角川春樹事務所／1999.4／356p／NDC 913.6／mystery_sf・normal・medium
+- EXPO'87：P+D BOOKS／小学館／2025.1／434p／NDC 913.6／mystery_sf・normal・medium
+- 燃える傾斜：ハルキ文庫／角川春樹事務所／1999.6／279p／NDC 913.6／mystery_sf・normal・medium
+- 亜空間要塞：ハルキ文庫／角川春樹事務所／2000.10／315p／NDC 913.6／mystery_sf・normal・medium
+- 下町探偵局：角川文庫／角川書店／1984.5／338p／NDC 913.6／mystery_sf・normal・long

@@ -242577,58 +242577,6 @@
     "pages": 529
   },
   {
-    "book_id": "isbn-9784061952010",
-    "title": "二銭銅貨",
-    "author": "江戸川乱歩",
-    "genres": [
-      "mystery_sf"
-    ],
-    "themes": [
-      "mystery"
-    ],
-    "moods": [
-      "absorbing"
-    ],
-    "difficulty": "normal",
-    "length_category": "long",
-    "description": "",
-    "recommendation_reasons": [],
-    "cover_image_url": null,
-    "purchase_url": null,
-    "isbn": "9784061952010",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434830120233",
-    "metadata_verified": true,
-    "tier": "basic",
-    "publisher": "講談社",
-    "pages": null
-  },
-  {
-    "book_id": "isbn-9784591001509",
-    "title": "一寸法師",
-    "author": "江戸川乱歩",
-    "genres": [
-      "mystery_sf"
-    ],
-    "themes": [
-      "mystery"
-    ],
-    "moods": [
-      "absorbing"
-    ],
-    "difficulty": "normal",
-    "length_category": "medium",
-    "description": "",
-    "recommendation_reasons": [],
-    "cover_image_url": null,
-    "purchase_url": null,
-    "isbn": "9784591001509",
-    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970023484869385627",
-    "metadata_verified": true,
-    "tier": "basic",
-    "publisher": "ポプラ社",
-    "pages": null
-  },
-  {
     "book_id": "isbn-9784488401146",
     "title": "盲獣",
     "author": "江戸川乱歩",
@@ -242887,5 +242835,653 @@
     "tier": "basic",
     "publisher": "東京創元社",
     "pages": 572
+  },
+  {
+    "book_id": "isbn-9784652023556",
+    "title": "おのぞみの結末",
+    "author": "星新一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784652023556",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008146987",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "理論社",
+    "pages": 201
+  },
+  {
+    "book_id": "isbn-9784101098098",
+    "title": "妖精配給会社",
+    "author": "星新一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101098098",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025735484",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 357
+  },
+  {
+    "book_id": "isbn-9784101098104",
+    "title": "宇宙のあいさつ",
+    "author": "星新一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101098104",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007290038",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 398
+  },
+  {
+    "book_id": "isbn-9784101098135",
+    "title": "夢魔の標的",
+    "author": "星新一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101098135",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024762669",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 328
+  },
+  {
+    "book_id": "isbn-9784041006023",
+    "title": "きまぐれ星のメモ",
+    "author": "星新一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041006023",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024053089",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 362
+  },
+  {
+    "book_id": "isbn-9784101098173",
+    "title": "明治・父・アメリカ",
+    "author": "星新一",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101098173",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009354465",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 283
+  },
+  {
+    "book_id": "isbn-9784101098326",
+    "title": "盗賊会社",
+    "author": "星新一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101098326",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001762205",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 203
+  },
+  {
+    "book_id": "isbn-9784101098111",
+    "title": "午後の恐竜",
+    "author": "星新一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101098111",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I01211006500207836",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 215
+  },
+  {
+    "book_id": "isbn-9784122030596",
+    "title": "虚人たち",
+    "author": "筒井康隆",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122030596",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002688776",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 293
+  },
+  {
+    "book_id": "isbn-9784101171029",
+    "title": "俗物図鑑",
+    "author": "筒井康隆",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101171029",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008833995",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 627
+  },
+  {
+    "book_id": "isbn-9784041305089",
+    "title": "脱走と追跡のサンバ",
+    "author": "筒井康隆",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041305089",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002550331",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 336
+  },
+  {
+    "book_id": "isbn-9784041305195",
+    "title": "霊長類 南へ",
+    "author": "筒井康隆",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041305195",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001795183",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 276
+  },
+  {
+    "book_id": "isbn-9784101171111",
+    "title": "笑うな",
+    "author": "筒井康隆",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101171111",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004298536",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 295
+  },
+  {
+    "book_id": "isbn-9784041061329",
+    "title": "幻想の未来",
+    "author": "筒井康隆",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041061329",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028410750",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 244
+  },
+  {
+    "book_id": "isbn-9784041073957",
+    "title": "アフリカの爆弾",
+    "author": "筒井康隆",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041073957",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029208908",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "Kadokawa",
+    "pages": 280
+  },
+  {
+    "book_id": "isbn-9784101171395",
+    "title": "敵",
+    "author": "筒井康隆",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101171395",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002942648",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 319
+  },
+  {
+    "book_id": "isbn-9784894565623",
+    "title": "くだんのはは",
+    "author": "小松左京",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784894565623",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002900348",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 541
+  },
+  {
+    "book_id": "isbn-9784894564664",
+    "title": "結晶星団",
+    "author": "小松左京",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784894564664",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002808285",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 562
+  },
+  {
+    "book_id": "isbn-9784894564268",
+    "title": "見知らぬ明日",
+    "author": "小松左京",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784894564268",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002791097",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 293
+  },
+  {
+    "book_id": "isbn-9784894565142",
+    "title": "幻影の構成",
+    "author": "眉村卓",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784894565142",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002846198",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 356
+  },
+  {
+    "book_id": "isbn-9784093525039",
+    "title": "EXPO'87",
+    "author": "眉村卓",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784093525039",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033857967",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 434
+  },
+  {
+    "book_id": "isbn-9784894565326",
+    "title": "燃える傾斜",
+    "author": "眉村卓",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784894565326",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002866386",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 279
+  },
+  {
+    "book_id": "isbn-9784894567788",
+    "title": "亜空間要塞",
+    "author": "半村良",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784894567788",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003014624",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 315
+  },
+  {
+    "book_id": "isbn-9784041375297",
+    "title": "下町探偵局",
+    "author": "半村良",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041375297",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001681506",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 338
   }
 ]
