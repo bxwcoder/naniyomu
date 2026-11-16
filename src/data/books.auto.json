@@ -248907,5 +248907,1302 @@
     "tier": "basic",
     "publisher": "実業之日本社",
     "pages": 344
+  },
+  {
+    "book_id": "isbn-9784122068377",
+    "title": "破弾",
+    "author": "堂場瞬一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122068377",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030231344",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 589
+  },
+  {
+    "book_id": "isbn-9784122068537",
+    "title": "熱欲",
+    "author": "堂場瞬一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122068537",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030292387",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 557
+  },
+  {
+    "book_id": "isbn-9784122046085",
+    "title": "孤狼",
+    "author": "堂場瞬一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122046085",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007996222",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 447
+  },
+  {
+    "book_id": "isbn-9784122046993",
+    "title": "讐雨",
+    "author": "堂場瞬一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122046993",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008247582",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 438
+  },
+  {
+    "book_id": "isbn-9784122048126",
+    "title": "血烙",
+    "author": "堂場瞬一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122048126",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008494624",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 508
+  },
+  {
+    "book_id": "isbn-9784122048720",
+    "title": "被匿",
+    "author": "堂場瞬一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122048720",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008881669",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 494
+  },
+  {
+    "book_id": "isbn-9784122049703",
+    "title": "疑装",
+    "author": "堂場瞬一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122049703",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009317072",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 436
+  },
+  {
+    "book_id": "isbn-9784122050860",
+    "title": "久遠",
+    "author": "堂場瞬一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122050860",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009430709",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 372
+  },
+  {
+    "book_id": "isbn-9784122051164",
+    "title": "蝕罪",
+    "author": "堂場瞬一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122051164",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010073695",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 483
+  },
+  {
+    "book_id": "isbn-9784122051386",
+    "title": "相剋",
+    "author": "堂場瞬一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122051386",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010187553",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 467
+  },
+  {
+    "book_id": "isbn-9784122051881",
+    "title": "邂逅",
+    "author": "堂場瞬一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122051881",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010602763",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 505
+  },
+  {
+    "book_id": "isbn-9784122052789",
+    "title": "漂泊",
+    "author": "堂場瞬一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122052789",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010825811",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 449
+  },
+  {
+    "book_id": "isbn-9784122053250",
+    "title": "裂壊",
+    "author": "堂場瞬一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122053250",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010937794",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 459
+  },
+  {
+    "book_id": "isbn-9784122054356",
+    "title": "波紋",
+    "author": "堂場瞬一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122054356",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011179751",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 469
+  },
+  {
+    "book_id": "isbn-9784408551739",
+    "title": "ヒート",
+    "author": "堂場瞬一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784408551739",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025446755",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "実業之日本社",
+    "pages": 521
+  },
+  {
+    "book_id": "isbn-9784408552460",
+    "title": "キング",
+    "author": "堂場瞬一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784408552460",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026558812",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "実業之日本社",
+    "pages": 525
+  },
+  {
+    "book_id": "isbn-9784122064843",
+    "title": "誤断",
+    "author": "堂場瞬一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122064843",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028624254",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 504
+  },
+  {
+    "book_id": "isbn-9784167787042",
+    "title": "虚報",
+    "author": "堂場瞬一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167787042",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023504052",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 438
+  },
+  {
+    "book_id": "isbn-9784087455793",
+    "title": "警察回りの夏",
+    "author": "堂場瞬一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087455793",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028130767",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 526
+  },
+  {
+    "book_id": "isbn-9784087440553",
+    "title": "社長室の冬",
+    "author": "堂場瞬一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087440553",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030107611",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 486
+  },
+  {
+    "book_id": "isbn-9784041108857",
+    "title": "砂の家",
+    "author": "堂場瞬一",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041108857",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031267710",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 433
+  },
+  {
+    "book_id": "isbn-9784062820080",
+    "title": "バイアウト",
+    "author": "真山仁",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062820080",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008165606",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 364
+  },
+  {
+    "book_id": "isbn-9784062769921",
+    "title": "レッドゾーン",
+    "author": "真山仁",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062769921",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011207223",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 441
+  },
+  {
+    "book_id": "isbn-9784062930772",
+    "title": "グリード",
+    "author": "真山仁",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062930772",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026408976",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 471
+  },
+  {
+    "book_id": "isbn-9784043943098",
+    "title": "マグマ",
+    "author": "真山仁",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043943098",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010548006",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 425
+  },
+  {
+    "book_id": "isbn-9784101390536",
+    "title": "オペレーションZ",
+    "author": "真山仁",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101390536",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030251170",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 665
+  },
+  {
+    "book_id": "isbn-9784167913960",
+    "title": "標的",
+    "author": "真山仁",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167913960",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030064908",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 438
+  },
+  {
+    "book_id": "isbn-9784122066632",
+    "title": "当確師",
+    "author": "真山仁",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122066632",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029323580",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 295
+  },
+  {
+    "book_id": "isbn-9784065212400",
+    "title": "シンドローム",
+    "author": "真山仁",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065212400",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030664228",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 601
+  },
+  {
+    "book_id": "isbn-9784167919412",
+    "title": "神域",
+    "author": "真山仁",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167919412",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032383299",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 519
+  },
+  {
+    "book_id": "isbn-9784094075120",
+    "title": "タングル",
+    "author": "真山仁",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094075120",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034375603",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 298
+  },
+  {
+    "book_id": "isbn-9784396348601",
+    "title": "それでも、陽は昇る",
+    "author": "真山仁",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784396348601",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032556311",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "祥伝社",
+    "pages": 239
+  },
+  {
+    "book_id": "isbn-9784041006047",
+    "title": "エネルギー",
+    "author": "黒木亮",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041006047",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024181929",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 621
+  },
+  {
+    "book_id": "isbn-9784062768351",
+    "title": "冬の喝采",
+    "author": "黒木亮",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062768351",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011062492",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 408
+  },
+  {
+    "book_id": "isbn-9784532280406",
+    "title": "鉄のあけぼの",
+    "author": "黒木亮",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784532280406",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025602837",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "日本経済新聞出版社",
+    "pages": 354
+  },
+  {
+    "book_id": "isbn-9784087446487",
+    "title": "アパレル興亡",
+    "author": "黒木亮",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087446487",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033464289",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 286
+  },
+  {
+    "book_id": "isbn-9784062762984",
+    "title": "カラ売り屋",
+    "author": "黒木亮",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062762984",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010061238",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 470
+  },
+  {
+    "book_id": "isbn-9784043755066",
+    "title": "貸し込み",
+    "author": "黒木亮",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043755066",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010608999",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 379
+  },
+  {
+    "book_id": "isbn-9784006022730",
+    "title": "法服の王国",
+    "author": "黒木亮",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784006022730",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026999758",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 500
+  },
+  {
+    "book_id": "isbn-9784344429024",
+    "title": "国家とハイエナ",
+    "author": "黒木亮",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344429024",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029972725",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 350
+  },
+  {
+    "book_id": "isbn-9784101214719",
+    "title": "不発弾",
+    "author": "相場英雄",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101214719",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028982144",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 542
+  },
+  {
+    "book_id": "isbn-9784758442718",
+    "title": "トップリーグ",
+    "author": "相場英雄",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784758442718",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029771181",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 447
+  },
+  {
+    "book_id": "isbn-9784758445528",
+    "title": "レッドネック",
+    "author": "相場英雄",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784758445528",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032743893",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 479
+  },
+  {
+    "book_id": "isbn-9784167922023",
+    "title": "マンモスの抜け殻",
+    "author": "相場英雄",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167922023",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033393043",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 456
+  },
+  {
+    "book_id": "isbn-9784094074611",
+    "title": "覇王の轍",
+    "author": "相場英雄",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094074611",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034053679",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 555
+  },
+  {
+    "book_id": "isbn-9784167753726",
+    "title": "炎の経営者",
+    "author": "高杉良",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167753726",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010120602",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 470
+  },
+  {
+    "book_id": "isbn-9784101303307",
+    "title": "人事異動",
+    "author": "高杉良",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101303307",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011156862",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 297
+  },
+  {
+    "book_id": "isbn-9784062648264",
+    "title": "挑戦つきることなし",
+    "author": "高杉良",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062648264",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002871125",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 342
+  },
+  {
+    "book_id": "isbn-9784101303178",
+    "title": "あざやかな退任",
+    "author": "高杉良",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101303178",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002994662",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 290
   }
 ]
