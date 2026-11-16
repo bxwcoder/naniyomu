@@ -226069,5 +226069,300 @@
     "tier": "basic",
     "publisher": "早川書房",
     "pages": 275
+  },
+  {
+    "book_id": "isbn-9784087471274",
+    "title": "恋愛太平記",
+    "author": "金井美恵子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087471274",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002842134",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 407
+  },
+  {
+    "book_id": "isbn-9784062735285",
+    "title": "火怨",
+    "author": "高橋克彦",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062735285",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003686582",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 494
+  },
+  {
+    "book_id": "isbn-9784061857636",
+    "title": "炎立つ",
+    "author": "高橋克彦",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061857636",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002446082",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 375
+  },
+  {
+    "book_id": "isbn-9784061845053",
+    "title": "総門谷",
+    "author": "高橋克彦",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061845053",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001999627",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 784
+  },
+  {
+    "book_id": "isbn-9784334793036",
+    "title": "Blue",
+    "author": "葉真中顕",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334793036",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031938343",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 596
+  },
+  {
+    "book_id": "isbn-9784102196038",
+    "title": "宇宙クリケット大戦争",
+    "author": "ダグラス・アダムス",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102196038",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001736804",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 295
+  },
+  {
+    "book_id": "isbn-9784101167534",
+    "title": "人生激場",
+    "author": "三浦しをん",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101167534",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008252030",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 314
+  },
+  {
+    "book_id": "isbn-9784167111212",
+    "title": "東京セブンローズ",
+    "author": "井上ひさし",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167111212",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003645312",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 519
+  },
+  {
+    "book_id": "isbn-9784101111155",
+    "title": "居酒屋兆治",
+    "author": "山口瞳",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101111155",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001793734",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 245
+  },
+  {
+    "book_id": "isbn-9784087465129",
+    "title": "氷結の森",
+    "author": "熊谷達也",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087465129",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010673544",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 571
+  },
+  {
+    "book_id": "isbn-9784065347911",
+    "title": "猫は抱くもの",
+    "author": "大山淳子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065347911",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033296410",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 285
   }
 ]
