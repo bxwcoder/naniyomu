@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-16T19:37:21.272Z
-- 候補：9827冊
-- 入れた本：8927冊
-- 入れなかった本：900冊
+- 検索日時：2026-11-16T19:48:45.687Z
+- 候補：9870冊
+- 入れた本：8969冊
+- 入れなかった本：901冊
 
 ## 入れなかった本
 
@@ -907,6 +907,7 @@
 - 書楼弔堂 破暁／京極夏彦（ミステリー定番）：タイトルが同じで ISBN のある記録がない
 - 四季 春／森博嗣（ミステリー定番）：タイトルが同じで ISBN のある記録がない
 - ωの悲劇／森博嗣（ミステリー定番）：著者が合う記録がない
+- 顔 FACE／横山秀夫（ミステリー定番）：タイトルが同じで ISBN のある記録がない
 
 ## 入れた本と選んだ版
 
@@ -9837,3 +9838,45 @@
 - 緋色の囁き：講談社文庫 ; あ52-30／講談社／2020.12／544p／NDC 913.6／mystery_sf・normal・long
 - 暗闇の囁き：講談社文庫／講談社／1998.6／378p／NDC 913.6／mystery_sf・normal・medium
 - 黄昏の囁き：講談社文庫 ; あ52-32／講談社／2021.8／410p／NDC 913.6／mystery_sf・normal・medium
+- ブルーマーダー：光文社文庫 ; ほ4-11／光文社／2015.6／474p／NDC 913.6／mystery_sf・normal・long
+- インデックス：光文社文庫 ; ほ4-12／光文社／2017.8／447p／NDC 913.6／mystery_sf・normal・medium
+- ルージュ：光文社文庫 ; ほ4-13／光文社／2018.11／454p／NDC 913.6／mystery_sf・normal・long
+- 武士道セブンティーン：文春文庫 ; ほ15-3／文藝春秋／2011.2／415p／NDC 913.6／mystery_sf・normal・medium
+- 武士道エイティーン：文春文庫 ; ほ15-4／文藝春秋／2012.2／428p／NDC 913.6／mystery_sf・normal・medium
+- ハング：中公文庫 ; ほ17-5／中央公論新社／2012.9／422p／NDC 913.6／mystery_sf・normal・medium
+- ドンナビアンカ：新潮文庫 ; ほ-17-3／新潮社／2016.3／446p／NDC 913.6／mystery_sf・normal・medium
+- あなたが愛した記憶：集英社文庫 ; ほ24-1／集英社／2015.11／378p／NDC 913.6／mystery_sf・normal・medium
+- 背中の蜘蛛：双葉文庫 ; ほ-10-03／双葉社／2022.10／573p／NDC 913.6／mystery_sf・normal・long
+- 妖の華：文春文庫 ; ほ15-2／文藝春秋／2010.11／459p／NDC 913.6／mystery_sf・normal・long
+- 月光：中公文庫 ; ほ17-6／中央公論新社／2013.4／395p／NDC 913.6／mystery_sf・normal・medium
+- 自覚：新潮文庫 ; こ-42-57. 隠蔽捜査 ; 5.5／新潮社／2017.5／321p／NDC 913.6／mystery_sf・normal・medium
+- 棲月：新潮文庫 ; こ-42-59. 隠蔽捜査 ; 7／新潮社／2020.8／430p／NDC 913.6／mystery_sf・normal・medium
+- 清明：新潮文庫 ; こ-42-60. 隠蔽捜査 ; 8／新潮社／2022.6／425p／NDC 913.6／mystery_sf・normal・medium
+- 探花：新潮文庫 ; こ-42-61. 隠蔽捜査 ; 9／新潮社／2024.9／424p／NDC 913.6／mystery_sf・normal・medium
+- 変幻：講談社文庫 ; こ25-51／講談社／2019.10／397p／NDC 913.6／mystery_sf・normal・medium
+- 任侠病院：叢書なし／実業之日本社／2011.10／366p／NDC 913.6／mystery_sf・normal・medium
+- 蓬莱：叢書なし／講談社／1994.7／292p／NDC 913.6／mystery_sf・normal・medium
+- イコン：講談社文庫／講談社／1998.8／493p／NDC 913.6／mystery_sf・normal・long
+- リオ：新潮文庫／新潮社／2007.7／436p／NDC 913.6／mystery_sf・normal・medium
+- 真相：双葉文庫／双葉社／2006.10／341p／NDC 913.6／mystery_sf・normal・medium
+- ルパンの消息：光文社文庫 ; よ14-2／光文社／2009.4／441p／NDC 913.6／mystery_sf・normal・medium
+- 暗約領域：光文社文庫 ; お21-29. 新宿鮫 ; 11／光文社／2022.11／926p／NDC 913.6／mystery_sf・normal・long
+- 黒石：光文社文庫 ; お21-33. 新宿鮫 ; 12／光文社／2026.3／643p／NDC 913.6／mystery_sf・normal・long
+- 北の狩人：幻冬舎文庫／幻冬舎／1999.8／350p／NDC 913.6／mystery_sf・normal・long
+- 冬の狩人：幻冬舎文庫 ; お-4-9／幻冬舎／2023.12／374p／NDC 913.6／mystery_sf・normal・long
+- パンドラ・アイランド：集英社文庫 ; お9-10／集英社／2012.4／449p／NDC 913.6／mystery_sf・normal・long
+- 心では重すぎる：文春文庫／文藝春秋／2004.1／481p／NDC 913.6／mystery_sf・normal・long
+- ライアー：新潮文庫 ; お-54-3／新潮社／2017.3／725p／NDC 913.6／mystery_sf・normal・long
+- 俺はエージェント：小学館文庫 ; お40-1／小学館／2021.1／651p／NDC 913.6／mystery_sf・normal・long
+- 警官の掟：新潮文庫 ; さ-24-18／新潮社／2018.4／626p／NDC 913.6／mystery_sf・normal・long
+- 代官山コールドケース：文春文庫 ; さ43-7／文藝春秋／2015.12／509p／NDC 913.6／mystery_sf・normal・long
+- 帝国の弔砲：文春文庫 ; さ43-8／文藝春秋／2023.12／526p／NDC 913.6／mystery_sf・normal・long
+- いつまでもショパン：宝島社文庫 ; Cな-6-5／宝島社／2014.1／405p／NDC 913.6／mystery_sf・normal・medium
+- どこかでベートーヴェン：宝島社文庫 ; Cな-6-6. [このミス大賞]／宝島社／2017.5／436p／NDC 913.6／mystery_sf・normal・medium
+- 恩讐の鎮魂曲：講談社文庫 ; な91-3／講談社／2018.4／397p／NDC 913.6／mystery_sf・normal・medium
+- 作家刑事毒島：幻冬舎文庫 ; な-31-4／幻冬舎／2018.10／381p／NDC 913.6／mystery_sf・normal・medium
+- ネメシスの使者：文春文庫 ; な71-3／文藝春秋／2020.2／366p／NDC 913.6／mystery_sf・normal・medium
+- カインの傲慢：角川文庫 ; な57-5. 刑事犬養隼人／KADOKAWA／2022.6／342p／NDC 913.6／mystery_sf・normal・medium
+- 検事の信義：角川文庫 ; ゆ14-8／KADOKAWA／2021.10／305p／NDC 913.6／mystery_sf・normal・medium
+- あしたの君へ：文春文庫 ; ゆ13-1／文藝春秋／2019.11／296p／NDC 913.6／mystery_sf・normal・medium
+- 風に立つ：中公文庫 ; ゆ6-3／中央公論新社／2026.10／483p／NDC 913.6／mystery_sf・normal・long

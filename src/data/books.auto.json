@@ -237352,5 +237352,1097 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 410
+  },
+  {
+    "book_id": "isbn-9784334769185",
+    "title": "ブルーマーダー",
+    "author": "誉田哲也",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334769185",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026376156",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 474
+  },
+  {
+    "book_id": "isbn-9784334775063",
+    "title": "インデックス",
+    "author": "誉田哲也",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334775063",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028334508",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 447
+  },
+  {
+    "book_id": "isbn-9784334777456",
+    "title": "ルージュ",
+    "author": "誉田哲也",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334777456",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029257820",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 454
+  },
+  {
+    "book_id": "isbn-9784167780036",
+    "title": "武士道セブンティーン",
+    "author": "誉田哲也",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167780036",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011111663",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 415
+  },
+  {
+    "book_id": "isbn-9784167780043",
+    "title": "武士道エイティーン",
+    "author": "誉田哲也",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167780043",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023360617",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 428
+  },
+  {
+    "book_id": "isbn-9784122056930",
+    "title": "ハング",
+    "author": "誉田哲也",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122056930",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023916917",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 422
+  },
+  {
+    "book_id": "isbn-9784101308739",
+    "title": "ドンナビアンカ",
+    "author": "誉田哲也",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101308739",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027108281",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 446
+  },
+  {
+    "book_id": "isbn-9784087453782",
+    "title": "あなたが愛した記憶",
+    "author": "誉田哲也",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087453782",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026835325",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 378
+  },
+  {
+    "book_id": "isbn-9784575526103",
+    "title": "背中の蜘蛛",
+    "author": "誉田哲也",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575526103",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032405856",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 573
+  },
+  {
+    "book_id": "isbn-9784167780029",
+    "title": "妖の華",
+    "author": "誉田哲也",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167780029",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011030172",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 459
+  },
+  {
+    "book_id": "isbn-9784122057784",
+    "title": "月光",
+    "author": "誉田哲也",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122057784",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024373785",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 395
+  },
+  {
+    "book_id": "isbn-9784101321615",
+    "title": "自覚",
+    "author": "今野敏",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101321615",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028111210",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 321
+  },
+  {
+    "book_id": "isbn-9784101321639",
+    "title": "棲月",
+    "author": "今野敏",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101321639",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030514508",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 430
+  },
+  {
+    "book_id": "isbn-9784101321646",
+    "title": "清明",
+    "author": "今野敏",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101321646",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032152391",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 425
+  },
+  {
+    "book_id": "isbn-9784101321653",
+    "title": "探花",
+    "author": "今野敏",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101321653",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033644415",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 424
+  },
+  {
+    "book_id": "isbn-9784065170809",
+    "title": "変幻",
+    "author": "今野敏",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065170809",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029983389",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 397
+  },
+  {
+    "book_id": "isbn-9784408535944",
+    "title": "任侠病院",
+    "author": "今野敏",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784408535944",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011301222",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "実業之日本社",
+    "pages": 366
+  },
+  {
+    "book_id": "isbn-9784062070683",
+    "title": "蓬莱",
+    "author": "今野敏",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062070683",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002347486",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 292
+  },
+  {
+    "book_id": "isbn-9784062638494",
+    "title": "イコン",
+    "author": "今野敏",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062638494",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002708101",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 493
+  },
+  {
+    "book_id": "isbn-9784101321516",
+    "title": "リオ",
+    "author": "今野敏",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101321516",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008595734",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 436
+  },
+  {
+    "book_id": "isbn-9784575511000",
+    "title": "真相",
+    "author": "横山秀夫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575511000",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008330701",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 341
+  },
+  {
+    "book_id": "isbn-9784334745691",
+    "title": "ルパンの消息",
+    "author": "横山秀夫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334745691",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010084846",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 441
+  },
+  {
+    "book_id": "isbn-9784334794439",
+    "title": "暗約領域",
+    "author": "大沢在昌",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334794439",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032429713",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 926
+  },
+  {
+    "book_id": "isbn-9784334109332",
+    "title": "黒石",
+    "author": "大沢在昌",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334109332",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034572341",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 643
+  },
+  {
+    "book_id": "isbn-9784877287610",
+    "title": "北の狩人",
+    "author": "大沢在昌",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784877287610",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002920571",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 350
+  },
+  {
+    "book_id": "isbn-9784344433366",
+    "title": "冬の狩人",
+    "author": "大沢在昌",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344433366",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033184732",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 374
+  },
+  {
+    "book_id": "isbn-9784087468229",
+    "title": "パンドラ・アイランド",
+    "author": "大沢在昌",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087468229",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023537033",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 449
+  },
+  {
+    "book_id": "isbn-9784167676018",
+    "title": "心では重すぎる",
+    "author": "大沢在昌",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167676018",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004323286",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 481
+  },
+  {
+    "book_id": "isbn-9784101260334",
+    "title": "ライアー",
+    "author": "大沢在昌",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101260334",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027984548",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 725
+  },
+  {
+    "book_id": "isbn-9784094068627",
+    "title": "俺はエージェント",
+    "author": "大沢在昌",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094068627",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031184378",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 651
+  },
+  {
+    "book_id": "isbn-9784101223285",
+    "title": "警官の掟",
+    "author": "佐々木譲",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101223285",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028877798",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 626
+  },
+  {
+    "book_id": "isbn-9784167905057",
+    "title": "代官山コールドケース",
+    "author": "佐々木譲",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167905057",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026914715",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 509
+  },
+  {
+    "book_id": "isbn-9784167921408",
+    "title": "帝国の弔砲",
+    "author": "佐々木譲",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167921408",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033172044",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 526
+  },
+  {
+    "book_id": "isbn-9784800220431",
+    "title": "いつまでもショパン",
+    "author": "中山七里",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784800220431",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025091819",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "宝島社",
+    "pages": 405
+  },
+  {
+    "book_id": "isbn-9784800271044",
+    "title": "どこかでベートーヴェン",
+    "author": "中山七里",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784800271044",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028119526",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "宝島社",
+    "pages": 436
+  },
+  {
+    "book_id": "isbn-9784062938365",
+    "title": "恩讐の鎮魂曲",
+    "author": "中山七里",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062938365",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028908292",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 397
+  },
+  {
+    "book_id": "isbn-9784344427952",
+    "title": "作家刑事毒島",
+    "author": "中山七里",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344427952",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029221163",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 381
+  },
+  {
+    "book_id": "isbn-9784167914363",
+    "title": "ネメシスの使者",
+    "author": "中山七里",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167914363",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030193509",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 366
+  },
+  {
+    "book_id": "isbn-9784041119846",
+    "title": "カインの傲慢",
+    "author": "中山七里",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041119846",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032165408",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 342
+  },
+  {
+    "book_id": "isbn-9784041115428",
+    "title": "検事の信義",
+    "author": "柚月裕子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041115428",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031712912",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 305
+  },
+  {
+    "book_id": "isbn-9784167913779",
+    "title": "あしたの君へ",
+    "author": "柚月裕子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167913779",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030012217",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 296
+  },
+  {
+    "book_id": "isbn-9784122078505",
+    "title": "風に立つ",
+    "author": "柚月裕子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122078505",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034967887",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 483
   }
 ]
