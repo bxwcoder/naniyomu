@@ -258123,5 +258123,491 @@
     "tier": "basic",
     "publisher": "新書館",
     "pages": 259
+  },
+  {
+    "book_id": "isbn-9784591154359",
+    "title": "ビオレタ",
+    "author": "寺地はるな",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784591154359",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028061639",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ポプラ社",
+    "pages": 291
+  },
+  {
+    "book_id": "isbn-9784122072626",
+    "title": "わたしの良い子",
+    "author": "寺地はるな",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122072626",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032366781",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 233
+  },
+  {
+    "book_id": "isbn-9784591170250",
+    "title": "夜が暗いとはかぎらない",
+    "author": "寺地はるな",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784591170250",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031459801",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ポプラ社",
+    "pages": 333
+  },
+  {
+    "book_id": "isbn-9784396350291",
+    "title": "やわらかい砂のうえ",
+    "author": "寺地はるな",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784396350291",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033229211",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "祥伝社",
+    "pages": 278
+  },
+  {
+    "book_id": "isbn-9784087718645",
+    "title": "こまどりたちが歌うなら",
+    "author": "寺地はるな",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087718645",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033376784",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 226
+  },
+  {
+    "book_id": "isbn-9784198949471",
+    "title": "雨夜の星たち",
+    "author": "寺地はるな",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198949471",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033505097",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 234
+  },
+  {
+    "book_id": "isbn-9784334109172",
+    "title": "白ゆき紅ばら",
+    "author": "寺地はるな",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334109172",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034626713",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 285
+  },
+  {
+    "book_id": "isbn-9784569852232",
+    "title": "マイ・プレゼント",
+    "author": "青山美智子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784569852232",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032240465",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "PHP研究所",
+    "pages": 107
+  },
+  {
+    "book_id": "isbn-9784591190739",
+    "title": "夜明けのはざま",
+    "author": "町田そのこ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784591190739",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034886290",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ポプラ社",
+    "pages": 402
+  },
+  {
+    "book_id": "isbn-9784334104511",
+    "title": "ドヴォルザークに染まるころ",
+    "author": "町田そのこ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334104511",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033782683",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 284
+  },
+  {
+    "book_id": "isbn-9784062940672",
+    "title": "神さまのビオトープ",
+    "author": "凪良ゆう",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062940672",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028101097",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 301
+  },
+  {
+    "book_id": "isbn-9784199007392",
+    "title": "おやすみなさい、また明日",
+    "author": "凪良ゆう",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784199007392",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025123268",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 265
+  },
+  {
+    "book_id": "isbn-9784309421087",
+    "title": "森があふれる",
+    "author": "彩瀬まる",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309421087",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033502721",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 213
+  },
+  {
+    "book_id": "isbn-9784041112298",
+    "title": "不在",
+    "author": "彩瀬まる",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041112298",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031378564",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 272
+  },
+  {
+    "book_id": "isbn-9784087444759",
+    "title": "さいはての家",
+    "author": "彩瀬まる",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087444759",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032569219",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 253
+  },
+  {
+    "book_id": "isbn-9784396350130",
+    "title": "まだ温かい鍋を抱いておやすみ",
+    "author": "彩瀬まる",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784396350130",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033072891",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "祥伝社",
+    "pages": 223
+  },
+  {
+    "book_id": "isbn-9784103319658",
+    "title": "花に埋もれる",
+    "author": "彩瀬まる",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784103319658",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032689092",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 193
+  },
+  {
+    "book_id": "isbn-9784041148563",
+    "title": "川のほとりで羽化するぼくら",
+    "author": "彩瀬まる",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041148563",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033735934",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 198
   }
 ]
