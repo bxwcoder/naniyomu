@@ -1,8 +1,8 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-16T20:04:56.610Z
-- 候補：9939冊
-- 入れた本：9037冊
+- 検索日時：2026-11-16T20:11:08.886Z
+- 候補：9976冊
+- 入れた本：9074冊
 - 入れなかった本：902冊
 
 ## 入れなかった本
@@ -9949,3 +9949,40 @@
 - 落花流水：集英社文庫／集英社／2002.10／261p／NDC 913.6／novel・easy・medium
 - そして私は一人になった：幻冬舎文庫／幻冬舎／2000.8／269p／NDC 915.6／nonfiction・easy・medium
 - 紙婚式：角川文庫／角川書店／2001.2／259p／NDC 913.6／novel・easy・medium
+- 狂王の庭：角川文庫／角川書店／2005.9／509p／NDC 913.6／novel・easy・long
+- 虹の彼方：集英社文庫／集英社／2008.7／676p／NDC 913.6／novel・easy・long
+- 沈黙のひと：文春文庫 ; こ29-8／文藝春秋／2015.5／397p／NDC 913.6／novel・easy・medium
+- 神よ憐れみたまえ：新潮文庫 ; こ-25-18／新潮社／2023.11／758p／NDC 913.6／novel・easy・long
+- 月夜の森の梟：朝日文庫 ; こ44-1／朝日新聞出版／2024.2／191p／NDC 914.6／novel・easy・short
+- 妻の女友達：集英社文庫／集英社／1995.4／277p／NDC 913.6／novel・easy・medium
+- 墓地を見おろす家：角川文庫／角川書店／1988.7／314p／NDC 913.6／novel・easy・medium
+- 律子慕情：集英社文庫 ; こ11-29／集英社／2016.10／316p／NDC 913.6／novel・easy・medium
+- 水無月の墓：新潮文庫／新潮社／1999.2／224p／NDC 913.6／novel・easy・short
+- 鎖：新潮文庫／新潮社／2003.12／479p／NDC 913.6／mystery_sf・normal・long
+- 風紋：叢書なし／双葉社／1994.10／651p／NDC 913.6／mystery_sf・normal・long
+- ボクの町：新潮文庫／新潮社／2001.12／516p／NDC 913.6／mystery_sf・normal・long
+- ニサッタ、ニサッタ：講談社文庫 ; の9-7／講談社／2012.10／315p／NDC 913.6／novel・easy・long
+- 地のはてから：講談社文庫 ; の9-9／講談社／2013.3／354p／NDC 913.6／novel・easy・long
+- 六月の雪：文春文庫 ; の7-12／文藝春秋／2021.5／569p／NDC 913.6／novel・easy・long
+- チーム・オベリベリ：講談社文庫 ; の9-13／講談社／2022.7／423p／NDC 913.6／novel・easy・long
+- 美麗島紀行：新潮文庫 ; の-9-51／新潮社／2021.11／301p／NDC 915.6／nonfiction・easy・medium
+- いつか陽のあたる場所で：新潮文庫 ; の-9-39／新潮社／2010.2／348p／NDC 913.6／mystery_sf・normal・medium
+- すれ違う背中を：新潮文庫 ; の-8-62／新潮社／2012.12／318p／NDC 913.6／mystery_sf・normal・medium
+- 殺人よ、こんにちは：角川文庫／角川書店／1984.6／238p／NDC 913.6／mystery_sf・normal・short
+- 夜間飛行殺人事件：光文社文庫／光文社／1984.12／373p／NDC 913.6／mystery_sf・normal・medium
+- 十津川警部の挑戦：角川文庫／角川書店／1991.4／337p／NDC 913.6／mystery_sf・normal・long
+- ミステリー列車が消えた：新潮文庫／新潮社／1985.1／409p／NDC 913.6／mystery_sf・normal・medium
+- 赤い帆船：光文社文庫／光文社／1998.6／468p／NDC 913.6／mystery_sf・normal・long
+- 発信人は死者：光文社文庫／光文社／1986.3／431p／NDC 913.6／mystery_sf・normal・medium
+- 透明な遺書：講談社文庫／講談社／1996.3／503p／NDC 913.6／mystery_sf・normal・long
+- 鬼首殺人事件：光文社文庫／光文社／1997.5／338p／NDC 913.6／mystery_sf・normal・medium
+- 記憶の中の殺人：講談社文庫／講談社／1998.8／378p／NDC 913.6／mystery_sf・normal・medium
+- 姫島殺人事件：新潮文庫／新潮社／2003.8／425p／NDC 913.6／mystery_sf・normal・medium
+- 不知火海：新潮文庫／新潮社／2007.9／493p／NDC 913.6／mystery_sf・normal・long
+- 化生の海：新潮文庫／新潮社／2007.2／586p／NDC 913.6／mystery_sf・normal・long
+- 孤道：講談社文庫 ; う5-55／講談社／2019.3／359p／NDC 913.6／mystery_sf・normal・medium
+- 沃野の伝説：角川文庫／角川書店／1999.10／329p／NDC 913.6／mystery_sf・normal・long
+- 幻燈辻馬車：角川文庫 ; 16548. 山田風太郎ベストコレクション／角川書店、角川グループパブリッシング (発売)／2010.11／411p／NDC 913.6／novel・normal・long
+- 太陽黒点：角川文庫 ; 16457. 山田風太郎ベストコレクション／角川書店、角川グループパブリッシング (発売)／2010.9／294p／NDC 913.6／novel・normal・medium
+- 忍法八犬伝：講談社文庫. 山田風太郎忍法帖 ; 4／講談社／1999.2／478p／NDC 913.6／novel・normal・long
+- 伊賀忍法帖：講談社文庫. 山田風太郎忍法帖 ; 3／講談社／1999.1／405p／NDC 913.6／novel・normal・medium
