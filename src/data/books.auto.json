@@ -248361,5 +248361,551 @@
     "tier": "basic",
     "publisher": "双葉社",
     "pages": 257
+  },
+  {
+    "book_id": "isbn-9784041497821",
+    "title": "三毛猫ホームズの追跡",
+    "author": "赤川次郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041497821",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001773341",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 348
+  },
+  {
+    "book_id": "isbn-9784041497838",
+    "title": "三毛猫ホームズの怪談",
+    "author": "赤川次郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041497838",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001691331",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 383
+  },
+  {
+    "book_id": "isbn-9784041497883",
+    "title": "三毛猫ホームズの騎士道",
+    "author": "赤川次郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041497883",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001901713",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 378
+  },
+  {
+    "book_id": "isbn-9784041000045",
+    "title": "おやすみ、テディ・ベア",
+    "author": "赤川次郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041000045",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023157261",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 252
+  },
+  {
+    "book_id": "isbn-9784041497234",
+    "title": "プロメテウスの乙女",
+    "author": "赤川次郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041497234",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001706924",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 296
+  },
+  {
+    "book_id": "isbn-9784041497364",
+    "title": "魔女たちのたそがれ",
+    "author": "赤川次郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041497364",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001804478",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 305
+  },
+  {
+    "book_id": "isbn-9784041497388",
+    "title": "忙しい花嫁",
+    "author": "赤川次郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041497388",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001822007",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 332
+  },
+  {
+    "book_id": "isbn-9784061362437",
+    "title": "名探偵も楽じゃない",
+    "author": "西村京太郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061362437",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001580794",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 322
+  },
+  {
+    "book_id": "isbn-9784334701987",
+    "title": "北帰行殺人事件",
+    "author": "西村京太郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334701987",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001760328",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 349
+  },
+  {
+    "book_id": "isbn-9784061833777",
+    "title": "特急さくら殺人事件",
+    "author": "西村京太郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061833777",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001711987",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 282
+  },
+  {
+    "book_id": "isbn-9784061836662",
+    "title": "太陽と砂",
+    "author": "西村京太郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061836662",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001782307",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 276
+  },
+  {
+    "book_id": "isbn-9784041607022",
+    "title": "本因坊殺人事件",
+    "author": "内田康夫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041607022",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001739399",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 273
+  },
+  {
+    "book_id": "isbn-9784041607084",
+    "title": "高千穂伝説殺人事件",
+    "author": "内田康夫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041607084",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001885944",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 398
+  },
+  {
+    "book_id": "isbn-9784041607169",
+    "title": "隠岐伝説殺人事件",
+    "author": "内田康夫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041607169",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002072595",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 279
+  },
+  {
+    "book_id": "isbn-9784041607404",
+    "title": "美濃路殺人事件",
+    "author": "内田康夫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041607404",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002637019",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 249
+  },
+  {
+    "book_id": "isbn-9784334708214",
+    "title": "津和野殺人事件",
+    "author": "内田康夫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334708214",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001945753",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 356
+  },
+  {
+    "book_id": "isbn-9784334715274",
+    "title": "横浜殺人事件",
+    "author": "内田康夫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334715274",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002188377",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 319
+  },
+  {
+    "book_id": "isbn-9784061851863",
+    "title": "琵琶湖周航殺人歌",
+    "author": "内田康夫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061851863",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002192646",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 254
+  },
+  {
+    "book_id": "isbn-9784041607466",
+    "title": "怪談の道",
+    "author": "内田康夫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041607466",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002779571",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 301
+  },
+  {
+    "book_id": "isbn-9784041607206",
+    "title": "上野谷中殺人事件",
+    "author": "内田康夫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041607206",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002090881",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 241
+  },
+  {
+    "book_id": "isbn-9784408550510",
+    "title": "砂冥宮",
+    "author": "内田康夫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784408550510",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011281605",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "実業之日本社",
+    "pages": 344
   }
 ]
