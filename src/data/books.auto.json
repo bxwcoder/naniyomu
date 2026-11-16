@@ -221914,5 +221914,317 @@
     "tier": "basic",
     "publisher": "東京創元社",
     "pages": 254
+  },
+  {
+    "book_id": "isbn-9784309409603",
+    "title": "花物語",
+    "author": "吉屋信子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309409603",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010686638",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 380
+  },
+  {
+    "book_id": "isbn-9784022646811",
+    "title": "徳川の夫人たち",
+    "author": "吉屋信子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022646811",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023959059",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 338
+  },
+  {
+    "book_id": "isbn-9784808831509",
+    "title": "姿三四郎",
+    "author": "富田常雄",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784808831509",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001788767",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京文芸社",
+    "pages": 297
+  },
+  {
+    "book_id": "isbn-9784061961425",
+    "title": "懐中時計",
+    "author": "小沼丹",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061961425",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002134245",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 312
+  },
+  {
+    "book_id": "isbn-9784488444013",
+    "title": "黒いハンカチ",
+    "author": "小沼丹",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784488444013",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004182505",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "東京創元社",
+    "pages": 232
+  },
+  {
+    "book_id": "isbn-9784101075013",
+    "title": "青梅雨",
+    "author": "永井龍男",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101075013",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003066611",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 266
+  },
+  {
+    "book_id": "isbn-9784101118017",
+    "title": "三等重役",
+    "author": "源氏鶏太",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101118017",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I38111100176551",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 611
+  },
+  {
+    "book_id": "isbn-9784480022028",
+    "title": "肉体の門",
+    "author": "田村泰次郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480022028",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001910189",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 243
+  },
+  {
+    "book_id": "isbn-9784309609669",
+    "title": "石狩平野",
+    "author": "船山馨",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309609669",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001967999",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784061961258",
+    "title": "シベリヤ物語",
+    "author": "長谷川四郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061961258",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002101155",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 353
+  },
+  {
+    "book_id": "isbn-9784061960893",
+    "title": "鶴",
+    "author": "長谷川四郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061960893",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002055780",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 306
+  },
+  {
+    "book_id": "isbn-9784102020104",
+    "title": "アントニーとクレオパトラ",
+    "author": "シェイクスピア",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784102020104",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007914141",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 238
   }
 ]
