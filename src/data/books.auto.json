@@ -241248,5 +241248,655 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 405
+  },
+  {
+    "book_id": "isbn-9784167105938",
+    "title": "幕末",
+    "author": "司馬遼太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167105938",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003018130",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 534
+  },
+  {
+    "book_id": "isbn-9784101152349",
+    "title": "風神の門",
+    "author": "司馬遼太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101152349",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008365892",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 488
+  },
+  {
+    "book_id": "isbn-9784167142797",
+    "title": "火の国の城",
+    "author": "池波正太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167142797",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003673475",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 501
+  },
+  {
+    "book_id": "isbn-9784101156194",
+    "title": "忍びの旗",
+    "author": "池波正太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101156194",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001642748",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 586
+  },
+  {
+    "book_id": "isbn-9784167142315",
+    "title": "夜明けの星",
+    "author": "池波正太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167142315",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001659498",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 284
+  },
+  {
+    "book_id": "isbn-9784101156033",
+    "title": "男振",
+    "author": "池波正太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101156033",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007546921",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 472
+  },
+  {
+    "book_id": "isbn-9784101156071",
+    "title": "闇の狩人",
+    "author": "池波正太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101156071",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004134976",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 514
+  },
+  {
+    "book_id": "isbn-9784101156149",
+    "title": "さむらい劇場",
+    "author": "池波正太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101156149",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001598531",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 567
+  },
+  {
+    "book_id": "isbn-9784041323342",
+    "title": "侠客",
+    "author": "池波正太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041323342",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008536150",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 394
+  },
+  {
+    "book_id": "isbn-9784167192075",
+    "title": "隠し剣秋風抄",
+    "author": "藤沢周平",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167192075",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001676408",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 333
+  },
+  {
+    "book_id": "isbn-9784167192303",
+    "title": "秘太刀馬の骨",
+    "author": "藤沢周平",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167192303",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002454300",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 318
+  },
+  {
+    "book_id": "isbn-9784167192587",
+    "title": "海鳴り",
+    "author": "藤沢周平",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167192587",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024622215",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 363
+  },
+  {
+    "book_id": "isbn-9784167192266",
+    "title": "麦屋町昼下がり",
+    "author": "藤沢周平",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167192266",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002163962",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 318
+  },
+  {
+    "book_id": "isbn-9784167192129",
+    "title": "霧の果て",
+    "author": "藤沢周平",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167192129",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001748581",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 345
+  },
+  {
+    "book_id": "isbn-9784101134147",
+    "title": "おさん",
+    "author": "山本周五郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101134147",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007302620",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 477
+  },
+  {
+    "book_id": "isbn-9784101134215",
+    "title": "栄花物語",
+    "author": "山本周五郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101134215",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009341662",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 642
+  },
+  {
+    "book_id": "isbn-9784101134192",
+    "title": "つゆのひぬま",
+    "author": "山本周五郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101134192",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007303178",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 443
+  },
+  {
+    "book_id": "isbn-9784101117140",
+    "title": "ポーツマスの旗",
+    "author": "吉村昭",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101117140",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001622687",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 372
+  },
+  {
+    "book_id": "isbn-9784101117508",
+    "title": "彰義隊",
+    "author": "吉村昭",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101117508",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009986593",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 468
+  },
+  {
+    "book_id": "isbn-9784101117294",
+    "title": "仮釈放",
+    "author": "吉村昭",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101117294",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002148300",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 292
+  },
+  {
+    "book_id": "isbn-9784061856790",
+    "title": "白い航跡",
+    "author": "吉村昭",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061856790",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002425659",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 259
+  },
+  {
+    "book_id": "isbn-9784062645638",
+    "title": "落日の宴",
+    "author": "吉村昭",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062645638",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002779563",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 539
+  },
+  {
+    "book_id": "isbn-9784122021020",
+    "title": "黒船",
+    "author": "吉村昭",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122021020",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002425646",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 448
+  },
+  {
+    "book_id": "isbn-9784061832008",
+    "title": "赤い人",
+    "author": "吉村昭",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061832008",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001669020",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 265
+  },
+  {
+    "book_id": "isbn-9784167169190",
+    "title": "闇を裂く道",
+    "author": "吉村昭",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167169190",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002054557",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 430
   }
 ]
