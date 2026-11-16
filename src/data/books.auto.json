@@ -214726,6 +214726,33 @@
     "pages": 371
   },
   {
+    "book_id": "isbn-9784087478372",
+    "title": "ルール",
+    "author": "古処誠二",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087478372",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007845627",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 317
+  },
+  {
     "book_id": "isbn-9784061821200",
     "title": "UNKNOWN",
     "author": "古処誠二",
@@ -214883,6 +214910,32 @@
     "pages": 389
   },
   {
+    "book_id": "isbn-9784062736077",
+    "title": "QED 百人一首の呪",
+    "author": "高田崇史",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062736077",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003686581",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 511
+  },
+  {
     "book_id": "isbn-9784043731022",
     "title": "中空",
     "author": "鳥飼否宇",
@@ -214933,5 +214986,32 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 489
+  },
+  {
+    "book_id": "isbn-9784167662011",
+    "title": "夏のロケット",
+    "author": "川端裕人",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167662011",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003645382",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 396
   }
 ]
