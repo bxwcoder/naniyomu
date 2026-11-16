@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-16T20:50:58.729Z
-- 候補：10106冊
-- 入れた本：9202冊
-- 入れなかった本：904冊
+- 検索日時：2026-11-16T21:06:58.940Z
+- 候補：10149冊
+- 入れた本：9244冊
+- 入れなかった本：905冊
 
 ## 入れなかった本
 
@@ -911,6 +911,7 @@
 - みちづれはいても、ひとり／唯川恵（人気の小説）：著者が合う記録がない
 - 深川安楽亭／山本周五郎（日本の名作）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
 - 気まぐれロボット／星新一（SF・ファンタジー定番）：タイトルが同じで ISBN のある記録がない
+- 少年少女飛行倶楽部／加納朋子（人気の小説）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
 
 ## 入れた本と選んだ版
 
@@ -10116,3 +10117,45 @@
 - 誘拐遊戯：実業之日本社文庫 ; ち1-5／実業之日本社／2019.10／396p／NDC 913.6／mystery_sf・normal・medium
 - 神のダイスを見上げて：光文社文庫 ; ち5-4／光文社／2021.7／349p／NDC 913.6／mystery_sf・normal・medium
 - レゾンデートル：実業之日本社文庫 ; ち1-4／実業之日本社／2019.4／478p／NDC 913.6／mystery_sf・normal・long
+- ネジ式ザゼツキー：講談社文庫／講談社／2006.10／646p／NDC 913.6／mystery_sf・normal・long
+- 寝台特急「はやぶさ」1/60秒の壁：光文社文庫／光文社／1988.1／346p／NDC 913.6／mystery_sf・normal・medium
+- 写楽 閉じた国の幻：新潮文庫 ; し-28-2／新潮社／2013.2／494p／NDC 913.6／mystery_sf・normal・long
+- 星籠の海：講談社文庫 ; し26-31／講談社／2016.3／580p／NDC 913.6／mystery_sf・normal・long
+- 屋上の道化たち：叢書なし／講談社／2016.4／428p／NDC 913.6／mystery_sf・normal・medium
+- 出雲伝説7/8の殺人：光文社文庫／光文社／1988.4／372p／NDC 913.6／mystery_sf・normal・medium
+- 太宰治の辞書：創元推理文庫 ; Mき3-7／東京創元社／2017.10／285p／NDC 913.6／mystery_sf・normal・medium
+- リセット：新潮文庫／新潮社／2003.7／446p／NDC 913.6／novel・easy・medium
+- 覆面作家は二人いる：角川文庫／角川書店／1997.11／241p／NDC 913.6／mystery_sf・normal・short
+- 飲めば都：新潮文庫 ; き-17-13／新潮社／2013.11／462p／NDC 913.6／novel・easy・long
+- 八月の六日間：角川文庫 ; き24-10／KADOKAWA／2016.6／322p／NDC 913.6／novel・easy・medium
+- 中野のお父さん：文春文庫 ; き17-10／文藝春秋／2018.9／277p／NDC 913.6／mystery_sf・normal・medium
+- 錆びた滑車：文春文庫 ; わ10-5／文藝春秋／2018.8／376p／NDC 913.6／mystery_sf・normal・medium
+- 不穏な眠り：文春文庫 ; わ10-6／文藝春秋／2019.12／253p／NDC 913.6／mystery_sf・normal・medium
+- 殺人鬼がもう一人：光文社文庫 ; わ10-14／光文社／2022.4／359p／NDC 913.6／mystery_sf・normal・medium
+- ヴィラ・マグノリアの殺人：光文社文庫／光文社／2002.9／439p／NDC 913.6／mystery_sf・normal・medium
+- 古書店アゼリアの死体：光文社文庫／光文社／2003.9／436p／NDC 913.6／mystery_sf・normal・medium
+- スペース：創元推理文庫 ; 426-04／東京創元社／2009.5／269p／NDC 913.6／novel・easy・medium
+- 沙羅は和子の名を呼ぶ：集英社文庫／集英社／2002.9／304p／NDC 913.6／mystery_sf・normal・medium
+- 螺旋階段のアリス：文春文庫／文藝春秋／2003.11／299p／NDC 913.6／mystery_sf・normal・medium
+- 虹の家のアリス：文春文庫／文藝春秋／2005.12／327p／NDC 913.6／mystery_sf・normal・medium
+- レインレイン・ボウ：集英社文庫／集英社／2006.10／310p／NDC 913.6／mystery_sf・normal・medium
+- てるてるあした：幻冬舎文庫／幻冬舎／2008.2／377p／NDC 913.6／novel・easy・medium
+- 七人の敵がいる：集英社文庫 ; か33-4／集英社／2012.3／366p／NDC 913.6／novel・easy・medium
+- トオリヌケ キンシ：文春文庫 ; か33-8／文藝春秋／2017.6／279p／NDC 913.6／mystery_sf・normal・medium
+- 二百十番館にようこそ：文春文庫 ; か33-9／文藝春秋／2023.8／350p／NDC 913.6／novel・easy・medium
+- スティグマータ：新潮文庫 ; こ-49-5／新潮社／2019.2／402p／NDC 913.6／mystery_sf・normal・medium
+- マカロンはマカロン：創元推理文庫 ; Mこ1-6／東京創元社／2020.7／275p／NDC 913.6／mystery_sf・normal・medium
+- ねむりねずみ：創元推理文庫／東京創元社／2000.11／286p／NDC 913.6／mystery_sf・normal・medium
+- 天使はモップを持って：文春文庫／文藝春秋／2006.6／305p／NDC 913.6／mystery_sf・normal・medium
+- シフォン・リボン・シフォン：朝日文庫 ; こ33-1／朝日新聞出版／2015.8／274p／NDC 913.6／novel・easy・medium
+- 演じられた白い夜：実業之日本社文庫 ; こ3-2／実業之日本社／2012.12／238p／NDC 913.6／mystery_sf・normal・short
+- たまごの旅人：実業之日本社文庫 ; こ3-7／実業之日本社／2024.6／286p／NDC 913.6／novel・easy・medium
+- ホテル・カイザリン：光文社文庫 ; こ34-10／光文社／2026.8／307p／NDC 913.6／mystery_sf・normal・medium
+- 凶鳥の如き忌むもの：講談社文庫 ; み58-9／講談社／2012.10／557p／NDC 913.6／mystery_sf・normal・long
+- 水魑の如き沈むもの：講談社文庫 ; み58-10／講談社／2013.5／743p／NDC 913.6／mystery_sf・normal・long
+- 幽女の如き怨むもの：講談社文庫 ; み58-15／講談社／2015.6／727p／NDC 913.6／mystery_sf・normal・long
+- 碆霊の如き祀るもの：講談社文庫 ; み58-19／講談社／2021.6／629p／NDC 913.6／mystery_sf・normal・long
+- 忌館 ホラー作家の棲む家：講談社文庫／講談社／2008.7／459p／NDC 913.6／mystery_sf・normal・long
+- 作者不詳 ミステリ作家の読む本：講談社文庫 ; み58-4／講談社／2010.12／398p／NDC 913.6／mystery_sf・normal・long
+- 凶宅：光文社文庫／光文社／2008.9／348p／NDC 913.6／mystery_sf・normal・medium
+- わざと忌み家を建てて棲む：中公文庫 ; み50-2／中央公論新社／2020.6／382p／NDC 913.6／mystery_sf・normal・medium
