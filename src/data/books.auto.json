@@ -214196,5 +214196,481 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 383
+  },
+  {
+    "book_id": "isbn-9784065196649",
+    "title": "地検のS",
+    "author": "伊兼源太郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065196649",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030423961",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 407
+  },
+  {
+    "book_id": "isbn-9784041021637",
+    "title": "ON 猟奇犯罪捜査班・藤堂比奈子",
+    "author": "内藤了",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041021637",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025839845",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 323
+  },
+  {
+    "book_id": "isbn-9784043944354",
+    "title": "雪冤",
+    "author": "大門剛明",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043944354",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011184852",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 380
+  },
+  {
+    "book_id": "isbn-9784061831834",
+    "title": "小説スーパーマーケット",
+    "author": "安土敏",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061831834",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001664362",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784122053939",
+    "title": "SRO",
+    "author": "富樫倫太郎",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122053939",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011094440",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 442
+  },
+  {
+    "book_id": "isbn-9784122058743",
+    "title": "早雲の軍配者",
+    "author": "富樫倫太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122058743",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024977651",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 288
+  },
+  {
+    "book_id": "isbn-9784396632526",
+    "title": "下山事件 最後の証言",
+    "author": "柴田哲孝",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784396632526",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007828714",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "祥伝社",
+    "pages": 452
+  },
+  {
+    "book_id": "isbn-9784396334130",
+    "title": "TENGU",
+    "author": "柴田哲孝",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784396334130",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009308035",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "祥伝社",
+    "pages": 380
+  },
+  {
+    "book_id": "isbn-9784062768078",
+    "title": "警視庁情報官",
+    "author": "濱嘉之",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062768078",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011033041",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 395
+  },
+  {
+    "book_id": "isbn-9784344408999",
+    "title": "孤高のメス",
+    "author": "大鐘稔彦",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344408999",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009193139",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 312
+  },
+  {
+    "book_id": "isbn-9784575513912",
+    "title": "越境捜査",
+    "author": "笹本稜平",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575513912",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011032268",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 303
+  },
+  {
+    "book_id": "isbn-9784167900472",
+    "title": "春を背負って",
+    "author": "笹本稜平",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167900472",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025282647",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 361
+  },
+  {
+    "book_id": "isbn-9784334737115",
+    "title": "天空への回廊",
+    "author": "笹本稜平",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334737115",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007420815",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 662
+  },
+  {
+    "book_id": "isbn-9784087462005",
+    "title": "M8",
+    "author": "高嶋哲夫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087462005",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009019956",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 543
+  },
+  {
+    "book_id": "isbn-9784062777049",
+    "title": "首都感染",
+    "author": "高嶋哲夫",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062777049",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024963685",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 584
+  },
+  {
+    "book_id": "isbn-9784122053557",
+    "title": "良いおっぱい悪いおっぱい",
+    "author": "伊藤比呂美",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122053557",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011020759",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 275
+  },
+  {
+    "book_id": "isbn-9784122064195",
+    "title": "閉経記",
+    "author": "伊藤比呂美",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122064195",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028217538",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 306
+  },
+  {
+    "book_id": "isbn-9784480428295",
+    "title": "とりつくしま",
+    "author": "東直子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784480428295",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011204482",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "筑摩書房",
+    "pages": 213
   }
 ]
