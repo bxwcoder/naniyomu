@@ -224550,5 +224550,464 @@
     "tier": "basic",
     "publisher": "中央公論新社",
     "pages": null
+  },
+  {
+    "book_id": "isbn-9784167330033",
+    "title": "精神と物質",
+    "author": "立花隆",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167330033",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002289037",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 333
+  },
+  {
+    "book_id": "isbn-9784004307310",
+    "title": "植物のこころ",
+    "author": "塚谷裕一",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784004307310",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002994357",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 211
+  },
+  {
+    "book_id": "isbn-9784106035883",
+    "title": "地球システムの崩壊",
+    "author": "松井孝典",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784106035883",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008996491",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 221
+  },
+  {
+    "book_id": "isbn-9784000056175",
+    "title": "想像するちから",
+    "author": "松沢哲郎",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784000056175",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011132352",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "岩波書店",
+    "pages": 198
+  },
+  {
+    "book_id": "isbn-9784093875219",
+    "title": "生きて死ぬ智慧",
+    "author": "柳澤桂子",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784093875219",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007495238",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 48
+  },
+  {
+    "book_id": "isbn-9784022607225",
+    "title": "森林がサルを生んだ",
+    "author": "河合雅雄",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022607225",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002202209",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞社",
+    "pages": 289
+  },
+  {
+    "book_id": "isbn-9784167270049",
+    "title": "浮気人類進化論",
+    "author": "竹内久美子",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167270049",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002720322",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 222
+  },
+  {
+    "book_id": "isbn-9784140885567",
+    "title": "古生物学者、妖怪を掘る",
+    "author": "荻野慎諧",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784140885567",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029058493",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "NHK出版",
+    "pages": 203
+  },
+  {
+    "book_id": "isbn-9784087461053",
+    "title": "となり町戦争",
+    "author": "三崎亜記",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087461053",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008399058",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 272
+  },
+  {
+    "book_id": "isbn-9784087464986",
+    "title": "失われた町",
+    "author": "三崎亜記",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087464986",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010619775",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 535
+  },
+  {
+    "book_id": "isbn-9784344401471",
+    "title": "岸和田少年愚連隊",
+    "author": "中場利一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344401471",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007306054",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 253
+  },
+  {
+    "book_id": "isbn-9784408551289",
+    "title": "あの日にかえりたい",
+    "author": "乾ルカ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784408551289",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024447143",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "実業之日本社",
+    "pages": 302
+  },
+  {
+    "book_id": "isbn-9784167794019",
+    "title": "夏光",
+    "author": "乾ルカ",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167794019",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011007585",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 293
+  },
+  {
+    "book_id": "isbn-9784094063318",
+    "title": "ひなた弁当",
+    "author": "山本甲士",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094063318",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027857739",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784062751063",
+    "title": "グッドラックららばい",
+    "author": "平安寿子",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062751063",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007786734",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 567
+  },
+  {
+    "book_id": "isbn-9784575512465",
+    "title": "家族の言い訳",
+    "author": "森浩美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575512465",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009949593",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 301
+  },
+  {
+    "book_id": "isbn-9784087450699",
+    "title": "国道沿いのファミレス",
+    "author": "畑野智美",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087450699",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024403418",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 319
   }
 ]
