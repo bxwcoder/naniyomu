@@ -1,9 +1,9 @@
 # 候補リストから作った本のデータ
 
-- 検索日時：2026-11-16T11:10:36.531Z
-- 候補：9079冊
-- 入れた本：8257冊
-- 入れなかった本：822冊
+- 検索日時：2026-11-16T11:28:48.342Z
+- 候補：9103冊
+- 入れた本：8279冊
+- 入れなかった本：824冊
 
 ## 入れなかった本
 
@@ -829,6 +829,8 @@
 - 文学入門／桑原武夫（教養の定番）：タイトルが同じで ISBN のある記録がない
 - 黄金時代／王小波（海外の名作）：タイトルが同じで ISBN のある記録がない
 - ギャグマンガ日和／増田こうすけ（漫画の定番）：ふつうの版の第1巻が見つからない（漫画版・大きな文字の版などを除いた結果）
+- 創られた伝統／エリック・ホブズボーム（教養の定番）：著者が合う記録がない
+- 八月の砲声／バーバラ・タックマン（教養の定番）：タイトルが同じで ISBN のある記録がない
 
 ## 入れた本と選んだ版
 
@@ -9089,3 +9091,25 @@
 - 「普通がいい」という病：講談社現代新書／講談社／2006.10／262p／NDC 493.71／liberal_arts・normal・medium
 - 精神科医は腹の底で何を考えているか：幻冬舎新書 ; 107／幻冬舎／2009.1／221p／NDC 493.75／liberal_arts・normal・short
 - 薬物依存症：ちくま新書 ; 1333-4. シリーズケアを考える／筑摩書房／2018.9／350p／NDC 493.155／liberal_arts・normal・medium
+- 第三帝国の興亡：叢書なし／東京創元社／2008.5／459p／NDC 234.074／liberal_arts・normal・long
+- 現代中国の父 鄧小平：叢書なし／日本経済新聞出版社／2013.9／621p／NDC 289.2／nonfiction・normal・long
+- ザ・ジャパニーズ：[角川ソフィア文庫] ; [M124-1]／KADOKAWA／2019.10／699p／NDC 210／liberal_arts・normal・long
+- 20世紀の歴史：ちくま学芸文庫 ; ホ15-2／筑摩書房／2018.6／571p／NDC 209.7／liberal_arts・normal・long
+- 悪魔と博覧会：叢書なし／文藝春秋／2006.4／509p／NDC 368.61／nonfiction・normal・long
+- 汝の父を敬え：新潮文庫／新潮社／1991.9／358p／NDC 933／nonfiction・normal・long
+- 博士と狂人：ハヤカワ文庫 ; NF／早川書房／2006.3／358p／NDC 833.1／nonfiction・normal・medium
+- 反穀物の人類史：叢書なし／みすず書房／2019.12／232,42p／NDC 209.3／liberal_arts・normal・short
+- 敗北を抱きしめて：叢書なし／岩波書店／2001.3／400p／NDC 210.76／liberal_arts・normal・long
+- 蘭に魅せられた男：ハヤカワ文庫 : NF／早川書房／2003.7／446p／NDC 627.57／nonfiction・normal・medium
+- 1491：叢書なし／日本放送出版協会／2007.7／621, 94p／NDC 250／liberal_arts・normal・long
+- ブラッドランド：ちくま学芸文庫 ; ス29-1／筑摩書房／2022.11／473p／NDC 239／liberal_arts・normal・long
+- 暴政：叢書なし／慶應義塾大学出版会／2017.7／141p／NDC 304／liberal_arts・normal・short
+- ヴィクトリア朝時代のインターネット：ハヤカワ文庫 NF ; 609／早川書房／2024.5／248p／NDC 694.4／liberal_arts・normal・short
+- 世界を変えた6つの飲み物：叢書なし／インターシフト、合同出版 (発売)／2007.3／325p／NDC 383.8／liberal_arts・normal・medium
+- 百代の過客：講談社学術文庫 ; 2078／講談社／2011.10／632p／NDC 915／nonfiction・normal・long
+- 明治天皇：新潮文庫／新潮社／2007.3／471p／NDC 288.41／nonfiction・normal・long
+- シルクロード全史：叢書なし／河出書房新社／2020.11／382p／NDC 220／liberal_arts・normal・long
+- 地中海：叢書なし／藤原書店／1991.11／594p／NDC 230／liberal_arts・normal・long
+- 大国の興亡：叢書なし／草思社／1993.3／452p／NDC 209.5／liberal_arts・normal・long
+- 鱈：叢書なし／飛鳥新社／1999.3／247p／NDC 664.65／nonfiction・normal・short
+- 塩の世界史：中公文庫 ; カ6-1／中央公論新社／2014.5／271p／NDC 669.02／nonfiction・normal・long
