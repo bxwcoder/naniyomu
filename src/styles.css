@@ -533,6 +533,27 @@ main:focus { outline: none; }
 .detail-features { font-size: 0.85rem; line-height: 1.5; margin-bottom: 8px; }
 .detail-features strong { color: var(--accent); }
 .detail-foot { font-size: 0.78rem; line-height: 1.5; color: var(--text-muted); margin: 8px 0 0; }
+.buy-box {
+  border-top: 1px solid var(--border);
+  padding: 8px 0;
+}
+.buy-box__title { font-size: 0.9rem; margin-bottom: 6px; display: flex; align-items: center; gap: 6px; }
+/* 広告であることをはっきり示す小さな札（景品表示法のステルスマーケティング規制への対応） */
+.ad-label {
+  font-size: 0.7rem;
+  font-weight: 600;
+  padding: 1px 6px;
+  border-radius: 4px;
+  border: 1px solid var(--text-muted);
+  color: var(--text-muted);
+}
+.buy-box__links {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 6px;
+}
+.buy-box__links .btn { text-decoration: none; text-align: center; display: inline-flex; align-items: center; justify-content: center; }
+.buy-box__note { font-size: 0.75rem; line-height: 1.5; color: var(--text-muted); margin: 6px 0 0; }
 .reaction-box {
   border-top: 1px solid var(--border);
   padding-top: 8px;

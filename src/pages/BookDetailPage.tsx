@@ -3,8 +3,10 @@
 import { basicInfoText, SHOW_CURATED_TEXT } from '../components/bookInfo.ts';
 import { BookCover } from '../components/BookCover.tsx';
 import { HighlightList } from '../components/HighlightList.tsx';
+import { AFFILIATE } from '../config/affiliate.ts';
 import { DIFFICULTIES, GENRES, LENGTHS } from '../data/options.ts';
 import { REACTION_LABELS, useLibrary, type ReactionType } from '../state/library.tsx';
+import { AMAZON_DISCLOSURE, purchaseLinks } from '../logic/affiliate.ts';
 import type { Book } from '../types.ts';
 
 const NOT_REGISTERED = '情報未登録';
@@ -29,6 +31,7 @@ export function BookDetailPage({ book, highlights }: Props) {
   }
   const fav = lib.isFavorite(book.book_id);
   const read = lib.isRead(book.book_id);
+  const links = purchaseLinks(book, AFFILIATE);
 
   return (
     <article>
@@ -71,6 +74,36 @@ export function BookDetailPage({ book, highlights }: Props) {
         </p>
       )}
 
+      {links.length > 0 && (
+        <section className="buy-box" aria-labelledby="buy-title">
+          <h2 id="buy-title" className="buy-box__title">
+            この本を買う <span className="ad-label">広告</span>
+          </h2>
+          <div className="buy-box__links">
+            {links.map((l) => (
+              <a
+                key={l.service}
+                className="btn btn--small"
+                href={l.url}
+                target="_blank"
+                rel="sponsored noopener noreferrer"
+              >
+                {l.label}
+              </a>
+            ))}
+          </div>
+          <p className="buy-box__note">
+            ボタンは広告（アフィリエイト）のリンクです。リンク先で本が買われると、ナニヨムに紹介料が入ります。
+            {links.some((l) => l.service === 'amazon') && (
+              <>
+                <br />
+                {AMAZON_DISCLOSURE}
+              </>
+            )}
+          </p>
+        </section>
+      )}
+
       <section className="reaction-box" aria-label="この本への反応を記録">
         <div className="reaction-grid">
           <button
@@ -104,15 +137,21 @@ export function BookDetailPage({ book, highlights }: Props) {
       </section>
 
       <p className="detail-foot">
-        購入先：
-        {book.purchase_url ? (
-          <a href={book.purchase_url} target="_blank" rel="noopener noreferrer">
-            購入ページ（外部サイト）
-          </a>
-        ) : (
-          NOT_REGISTERED
+        {/* 購入ボタンがあるときは、ここには購入先を書かない */}
+        {links.length === 0 && (
+          <>
+            購入先：
+            {book.purchase_url ? (
+              <a href={book.purchase_url} target="_blank" rel="noopener noreferrer">
+                購入ページ（外部サイト）
+              </a>
+            ) : (
+              NOT_REGISTERED
+            )}
+            ／
+          </>
         )}
-        ／書影：{book.cover_image_url ? '登録あり' : NOT_REGISTERED}／確認元：
+        書影：{book.cover_image_url ? '登録あり' : NOT_REGISTERED}／確認元：
         <a href={book.metadata_source} target="_blank" rel="noopener noreferrer">
           外部サイト
         </a>
