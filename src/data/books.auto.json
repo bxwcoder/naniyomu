@@ -262474,6 +262474,275 @@
     "pages": 395
   },
   {
+    "book_id": "isbn-9784101035611",
+    "title": "同潤会代官山アパートメント",
+    "author": "三上延",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101035611",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031895925",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 297
+  },
+  {
+    "book_id": "isbn-9784101023519",
+    "title": "かくしごと",
+    "author": "住野よる",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101023519",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030691275",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 330
+  },
+  {
+    "book_id": "isbn-9784101023526",
+    "title": "この気持ちもいつか忘れる",
+    "author": "住野よる",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101023526",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032826348",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 532
+  },
+  {
+    "book_id": "isbn-9784575528602",
+    "title": "腹を割ったら血が出るだけさ",
+    "author": "住野よる",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575528602",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034216618",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 448
+  },
+  {
+    "book_id": "isbn-9784167924072",
+    "title": "恋とそれとあと全部",
+    "author": "住野よる",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167924072",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034230454",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 274
+  },
+  {
+    "book_id": "isbn-9784344407176",
+    "title": "親指さがし",
+    "author": "山田悠介",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344407176",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008210539",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 248
+  },
+  {
+    "book_id": "isbn-9784043792023",
+    "title": "パズル",
+    "author": "山田悠介",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043792023",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008604191",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 299
+  },
+  {
+    "book_id": "isbn-9784344410022",
+    "title": "×ゲーム",
+    "author": "山田悠介",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344410022",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009303696",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 246
+  },
+  {
+    "book_id": "isbn-9784043792061",
+    "title": "スイッチを押すとき",
+    "author": "山田悠介",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043792061",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009762751",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 373
+  },
+  {
+    "book_id": "isbn-9784286119649",
+    "title": "その時までサヨナラ",
+    "author": "山田悠介",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784286119649",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023352443",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸社",
+    "pages": 332
+  },
+  {
     "book_id": "isbn-9784344413535",
     "title": "ドアD",
     "author": "山田悠介",
@@ -263315,6 +263584,32 @@
     "tier": "basic",
     "publisher": "光文社",
     "pages": 337
+  },
+  {
+    "book_id": "isbn-9784041011539",
+    "title": "幽談",
+    "author": "京極夏彦",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041011539",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025072471",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 266
   },
   {
     "book_id": "isbn-9784041011522",
