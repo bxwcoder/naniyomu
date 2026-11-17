@@ -16,7 +16,7 @@ import {
 } from '../data/options.ts';
 import type { Answers, Book } from '../types.ts';
 import { matchFavoriteBooks } from './matchFavorite.ts';
-import { passesRequired, recommend, scoreBook } from './recommend.ts';
+import { isRelevant, passesRequired, recommend, scoreBook } from './recommend.ts';
 import { validateBooks } from './validateBooks.ts';
 
 const { validBooks: books, errors } = validateBooks(booksData);
@@ -296,5 +296,32 @@ describe('同じ点数の本の選ばれ方', () => {
     for (let seed = 1; seed <= 20; seed++) {
       expect(recommend(books, baseAnswers, { seed }).recommendations[0].score).toBe(top);
     }
+  });
+});
+
+describe('表示回数の少ない本から出す', () => {
+  // 実際のアプリと同じように、出した本の回数を1ずつ増やしながら何度もおすすめを出す
+  const candidates = books.filter(
+    (b) => passesRequired(b, baseAnswers) && isRelevant(scoreBook(b, baseAnswers)),
+  );
+
+  it('くり返すと、その組み合わせの候補が全部1回ずつ出てから2周目に入る', () => {
+    const counts: Record<string, number> = {};
+    const rounds = Math.ceil(candidates.length / 3);
+    for (let i = 0; i < rounds; i++) {
+      for (const r of recommend(books, baseAnswers, { seed: i, shownCounts: counts }).recommendations) {
+        counts[r.book.book_id] = (counts[r.book.book_id] ?? 0) + 1;
+      }
+    }
+    // 全部の候補が出ていて、どの本も2回以下（同じ本ばかり出ない）
+    expect(candidates.every((b) => (counts[b.book_id] ?? 0) >= 1)).toBe(true);
+    expect(Math.max(...Object.values(counts))).toBeLessThanOrEqual(2);
+  });
+
+  it('1回も出ていない本があれば、出たことのある本より先に出す', () => {
+    const first = recommend(books, baseAnswers, { seed: 1 }).recommendations.map((r) => r.book.book_id);
+    const counts = Object.fromEntries(first.map((id) => [id, 1]));
+    const second = recommend(books, baseAnswers, { seed: 1, shownCounts: counts }).recommendations;
+    expect(second.some((r) => first.includes(r.book.book_id))).toBe(false);
   });
 });

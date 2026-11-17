@@ -6,6 +6,8 @@ import { GENRE_CHOICES, MOODS } from '../data/options.ts';
 import type { Answers } from '../types.ts';
 import { emptyLibrary, excludedBookIds, libraryReducer } from './library.tsx';
 import {
+  loadShownCounts,
+  recordShown,
   loadLibrary,
   loadSessionRaw,
   parseLibrary,
@@ -153,5 +155,30 @@ describe('前回の回答と結果の保存', () => {
   it('何も保存されていない・壊れている場合は、空から始める', () => {
     expect(restoreSession(null, books)).toEqual({ answers: {}, result: null });
     expect(restoreSession('壊れた', books)).toEqual({ answers: {}, result: null });
+  });
+});
+
+describe('表示回数の保存', () => {
+  const memoryStore = () => {
+    const data = new Map<string, string>();
+    return { getItem: (k: string) => data.get(k) ?? null, setItem: (k: string, v: string) => void data.set(k, v) };
+  };
+
+  it('組み合わせごとに、表示した本の回数を1ずつ増やして覚える', () => {
+    const store = memoryStore();
+    recordShown(store, 'a', ['x', 'y']);
+    recordShown(store, 'a', ['x']);
+    recordShown(store, 'b', ['x']);
+    expect(loadShownCounts(store, 'a')).toEqual({ x: 2, y: 1 });
+    expect(loadShownCounts(store, 'b')).toEqual({ x: 1 });
+    expect(loadShownCounts(store, 'c')).toEqual({});
+  });
+
+  it('保存できない環境や壊れたデータでも止まらない', () => {
+    expect(loadShownCounts(null, 'a')).toEqual({});
+    recordShown(null, 'a', ['x']);
+    const store = memoryStore();
+    store.setItem('naniyomu.shown.v1', '{壊れた');
+    expect(loadShownCounts(store, 'a')).toEqual({});
   });
 });

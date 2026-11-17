@@ -12,6 +12,7 @@ import { emptyLibrary, type LibraryState, type ReactionType } from './library.ts
 export const STORAGE_KEYS = {
   library: 'naniyomu.library.v1',
   session: 'naniyomu.session.v1',
+  shown: 'naniyomu.shown.v1',
 } as const;
 
 /** localStorage と同じ使い方ができるもの（テストでは偽物を渡す） */
@@ -53,6 +54,39 @@ function writeJson(store: KeyValueStore | null, key: string, value: unknown): bo
 
 const isStringArray = (v: unknown): v is string[] => Array.isArray(v) && v.every((x) => typeof x === 'string');
 const REACTIONS: ReactionType[] = ['interested', 'not_for_me', 'already_read', 'finished'];
+
+// ---- 表示回数（回答の組み合わせごとに、どの本を何回おすすめに出したか） ----
+
+/** 組み合わせの名前 → { 本のID → 回数 } */
+export type ShownCounts = Record<string, Record<string, number>>;
+
+export function parseShownCounts(raw: unknown): ShownCounts {
+  if (typeof raw !== 'object' || raw === null) return {};
+  const result: ShownCounts = {};
+  for (const [key, counts] of Object.entries(raw as Record<string, unknown>)) {
+    if (typeof counts !== 'object' || counts === null) continue;
+    const valid: Record<string, number> = {};
+    for (const [id, n] of Object.entries(counts as Record<string, unknown>)) {
+      if (Number.isInteger(n) && (n as number) > 0) valid[id] = n as number;
+    }
+    result[key] = valid;
+  }
+  return result;
+}
+
+/** ある組み合わせの表示回数（保存がなければ空） */
+export function loadShownCounts(store: KeyValueStore | null, comboKey: string): Record<string, number> {
+  return parseShownCounts(readJson(store, STORAGE_KEYS.shown))[comboKey] ?? {};
+}
+
+/** ある組み合わせで表示した本の回数を1ずつ増やして保存する */
+export function recordShown(store: KeyValueStore | null, comboKey: string, bookIds: string[]): void {
+  const all = parseShownCounts(readJson(store, STORAGE_KEYS.shown));
+  const counts = { ...(all[comboKey] ?? {}) };
+  for (const id of bookIds) counts[id] = (counts[id] ?? 0) + 1;
+  all[comboKey] = counts;
+  writeJson(store, STORAGE_KEYS.shown, all);
+}
 
 // ---- お気に入り・既読・反応 ----
 

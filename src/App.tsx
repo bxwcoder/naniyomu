@@ -7,14 +7,22 @@ import { Header } from './components/Header.tsx';
 import { QUESTIONS } from './data/options.ts';
 import { loadBooks } from './data/loadBooks.ts';
 import { navigate, paths, useHashRoute, type Route } from './hooks/useHashRoute.ts';
-import { recommend } from './logic/recommend.ts';
+import { answersKey, recommend } from './logic/recommend.ts';
 import { BookDetailPage } from './pages/BookDetailPage.tsx';
 import { QuestionPage, type QuestionKey } from './pages/QuestionPage.tsx';
 import { ResultsPage } from './pages/ResultsPage.tsx';
 import { ShelfPage } from './pages/ShelfPage.tsx';
 import { TopPage } from './pages/TopPage.tsx';
 import { excludedBookIds, LibraryProvider, useLibrary } from './state/library.tsx';
-import { browserStore, loadSessionRaw, restoreSession, saveSession, toStoredSession } from './state/storage.ts';
+import {
+  browserStore,
+  loadSessionRaw,
+  loadShownCounts,
+  recordShown,
+  restoreSession,
+  saveSession,
+  toStoredSession,
+} from './state/storage.ts';
 import { OfflineNotice } from './components/OfflineNotice.tsx';
 import type { Answers, Book, RecommendResult, RelaxSuggestion } from './types.ts';
 
@@ -102,13 +110,20 @@ function AppInner() {
   }, [route, draft, result, restored]);
 
   const runRecommend = (books: Book[], answers: Answers) => {
-    setResult(
-      recommend(books, answers, {
-        excludeBookIds: excludedBookIds(lib.state),
-        // 毎回ちがう「くじ」にして、同じ点数の本がまんべんなく出るようにする
-        seed: Math.floor(Math.random() * 2 ** 31),
-      }),
+    // この組み合わせで表示した回数の少ない本から出し、出した本は回数を1増やす
+    const key = answersKey(answers);
+    const next = recommend(books, answers, {
+      excludeBookIds: excludedBookIds(lib.state),
+      // 毎回ちがう「くじ」にして、同じ点数・同じ回数の本がまんべんなく出るようにする
+      seed: Math.floor(Math.random() * 2 ** 31),
+      shownCounts: loadShownCounts(store, key),
+    });
+    recordShown(
+      store,
+      key,
+      next.recommendations.map((r) => r.book.book_id),
     );
+    setResult(next);
   };
 
   let content: React.ReactNode;
