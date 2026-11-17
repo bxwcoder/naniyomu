@@ -260653,5 +260653,702 @@
     "tier": "basic",
     "publisher": "文藝春秋",
     "pages": 395
+  },
+  {
+    "book_id": "isbn-9784043740024",
+    "title": "アジアンタムブルー",
+    "author": "大崎善生",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043740024",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007815726",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 332
+  },
+  {
+    "book_id": "isbn-9784043740031",
+    "title": "孤独か、それに等しいもの",
+    "author": "大崎善生",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043740031",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008314159",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 227
+  },
+  {
+    "book_id": "isbn-9784043740048",
+    "title": "ロックンロール",
+    "author": "大崎善生",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043740048",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009086748",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 300
+  },
+  {
+    "book_id": "isbn-9784167715021",
+    "title": "タペストリーホワイト",
+    "author": "大崎善生",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167715021",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010584942",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 236
+  },
+  {
+    "book_id": "isbn-9784167715014",
+    "title": "ドナウよ、静かに流れよ",
+    "author": "大崎善生",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167715014",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008202424",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 420
+  },
+  {
+    "book_id": "isbn-9784167112417",
+    "title": "富士山頂",
+    "author": "新田次郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167112417",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023639372",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 258
+  },
+  {
+    "book_id": "isbn-9784167112363",
+    "title": "怒る富士",
+    "author": "新田次郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167112363",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009081473",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 365
+  },
+  {
+    "book_id": "isbn-9784101122014",
+    "title": "縦走路",
+    "author": "新田次郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101122014",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I04111107060468",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 220
+  },
+  {
+    "book_id": "isbn-9784167139322",
+    "title": "鼠",
+    "author": "城山三郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167139322",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023156362",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 386
+  },
+  {
+    "book_id": "isbn-9784041310069",
+    "title": "価格破壊",
+    "author": "城山三郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041310069",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I11141107614354",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 342
+  },
+  {
+    "book_id": "isbn-9784101133218",
+    "title": "打たれ強く生きる",
+    "author": "城山三郎",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101133218",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001992694",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 242
+  },
+  {
+    "book_id": "isbn-9784101133300",
+    "title": "部長の大晩年",
+    "author": "城山三郎",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "wonder",
+      "learning"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101133300",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007437400",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 260
+  },
+  {
+    "book_id": "isbn-9784087477665",
+    "title": "桃源郷",
+    "author": "陳舜臣",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087477665",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007599365",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 376
+  },
+  {
+    "book_id": "isbn-9784087486100",
+    "title": "耶律楚材",
+    "author": "陳舜臣",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087486100",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002606157",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 330
+  },
+  {
+    "book_id": "isbn-9784062630573",
+    "title": "琉球の風",
+    "author": "陳舜臣",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062630573",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002446092",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 285
+  },
+  {
+    "book_id": "isbn-9784101168043",
+    "title": "ドン松五郎の生活",
+    "author": "井上ひさし",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101168043",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809773272628",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": null
+  },
+  {
+    "book_id": "isbn-9784101168104",
+    "title": "下駄の上の卵",
+    "author": "井上ひさし",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101168104",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001581827",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 442
+  },
+  {
+    "book_id": "isbn-9784122051034",
+    "title": "十二人の手紙",
+    "author": "井上ひさし",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122051034",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010049211",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 302
+  },
+  {
+    "book_id": "isbn-9784101168142",
+    "title": "私家版日本語文法",
+    "author": "井上ひさし",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101168142",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001704212",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 285
+  },
+  {
+    "book_id": "isbn-9784106104107",
+    "title": "日本語教室",
+    "author": "井上ひさし",
+    "genres": [
+      "liberal_arts"
+    ],
+    "themes": [
+      "world"
+    ],
+    "moods": [
+      "learning",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784106104107",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011140272",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 182
+  },
+  {
+    "book_id": "isbn-9784167181031",
+    "title": "大いなる助走",
+    "author": "筒井康隆",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167181031",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001577741",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 315
+  },
+  {
+    "book_id": "isbn-9784101171531",
+    "title": "聖痕",
+    "author": "筒井康隆",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101171531",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026864000",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 343
+  },
+  {
+    "book_id": "isbn-9784041037188",
+    "title": "ビアンカ・オーバースタディ",
+    "author": "筒井康隆",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041037188",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027282614",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 188
+  },
+  {
+    "book_id": "isbn-9784101171524",
+    "title": "ダンシング・ヴァニティ",
+    "author": "筒井康隆",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101171524",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011074954",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 348
+  },
+  {
+    "book_id": "isbn-9784167906177",
+    "title": "現代語裏辞典",
+    "author": "筒井康隆",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167906177",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027255721",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 618
+  },
+  {
+    "book_id": "isbn-9784167909031",
+    "title": "繁栄の昭和",
+    "author": "筒井康隆",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "imagination"
+    ],
+    "moods": [
+      "absorbing",
+      "wonder"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167909031",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028373345",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 236
   }
 ]
