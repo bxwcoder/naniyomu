@@ -261722,6 +261722,33 @@
     "pages": 157
   },
   {
+    "book_id": "isbn-9784167665029",
+    "title": "熱帯魚",
+    "author": "吉田修一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167665029",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004151949",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 248
+  },
+  {
     "book_id": "isbn-9784062753593",
     "title": "日曜日たち",
     "author": "吉田修一",
@@ -261747,6 +261774,33 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 207
+  },
+  {
+    "book_id": "isbn-9784101287522",
+    "title": "長崎乱楽坂",
+    "author": "吉田修一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101287522",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008411734",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 222
   },
   {
     "book_id": "isbn-9784043912018",
