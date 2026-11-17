@@ -265638,5 +265638,653 @@
     "tier": "basic",
     "publisher": "春陽堂書店",
     "pages": 402
+  },
+  {
+    "book_id": "isbn-9784167348144",
+    "title": "胸の香り",
+    "author": "宮本輝",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167348144",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002811118",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 190
+  },
+  {
+    "book_id": "isbn-9784062634779",
+    "title": "朝の歓び",
+    "author": "宮本輝",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062634779",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002576949",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 395
+  },
+  {
+    "book_id": "isbn-9784061857971",
+    "title": "ここに地終わり 海始まる",
+    "author": "宮本輝",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061857971",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002366246",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 294
+  },
+  {
+    "book_id": "isbn-9784877285845",
+    "title": "人間の幸福",
+    "author": "宮本輝",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784877285845",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002752462",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 506
+  },
+  {
+    "book_id": "isbn-9784101307176",
+    "title": "三十光年の星たち",
+    "author": "宮本輝",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101307176",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024927110",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 339
+  },
+  {
+    "book_id": "isbn-9784087440652",
+    "title": "草花たちの静かな誓い",
+    "author": "宮本輝",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087440652",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030148664",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 464
+  },
+  {
+    "book_id": "isbn-9784101307572",
+    "title": "長流の畔",
+    "author": "宮本輝",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101307572",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029208871",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 478
+  },
+  {
+    "book_id": "isbn-9784344417106",
+    "title": "ハッピー・リタイアメント",
+    "author": "浅田次郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344417106",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023109354",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 358
+  },
+  {
+    "book_id": "isbn-9784087475746",
+    "title": "活動寫眞の女",
+    "author": "浅田次郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087475746",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004135143",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 325
+  },
+  {
+    "book_id": "isbn-9784167646011",
+    "title": "月のしずく",
+    "author": "浅田次郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167646011",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002912435",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 359
+  },
+  {
+    "book_id": "isbn-9784101019277",
+    "title": "赤猫異聞",
+    "author": "浅田次郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101019277",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025971058",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 383
+  },
+  {
+    "book_id": "isbn-9784101019284",
+    "title": "ブラックオアホワイト",
+    "author": "浅田次郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101019284",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I028577281",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 393
+  },
+  {
+    "book_id": "isbn-9784094065640",
+    "title": "わが心のジェニファー",
+    "author": "浅田次郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094065640",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029216789",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 397
+  },
+  {
+    "book_id": "isbn-9784065228203",
+    "title": "天子蒙塵",
+    "author": "浅田次郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065228203",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031419149",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 400
+  },
+  {
+    "book_id": "isbn-9784065413128",
+    "title": "兵諫",
+    "author": "浅田次郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065413128",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034389314",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 349
+  },
+  {
+    "book_id": "isbn-9784575247466",
+    "title": "完本 神坐す山の物語",
+    "author": "浅田次郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575247466",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033529748",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 368
+  },
+  {
+    "book_id": "isbn-9784041031605",
+    "title": "ファミレス",
+    "author": "重松清",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041031605",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027282603",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 326
+  },
+  {
+    "book_id": "isbn-9784122061644",
+    "title": "空より高く",
+    "author": "重松清",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122061644",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026726853",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 360
+  },
+  {
+    "book_id": "isbn-9784062779463",
+    "title": "峠うどん物語",
+    "author": "重松清",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062779463",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025810040",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 290
+  },
+  {
+    "book_id": "isbn-9784101349244",
+    "title": "あの歌がきこえる",
+    "author": "重松清",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101349244",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010298713",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 338
+  },
+  {
+    "book_id": "isbn-9784041009550",
+    "title": "みんなのうた",
+    "author": "重松清",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041009550",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024739382",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 310
+  },
+  {
+    "book_id": "isbn-9784101349312",
+    "title": "星のかけら",
+    "author": "重松清",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101349312",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024532108",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 234
+  },
+  {
+    "book_id": "isbn-9784101349343",
+    "title": "娘に語るお父さんの歴史",
+    "author": "重松清",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101349343",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027108287",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 220
+  },
+  {
+    "book_id": "isbn-9784167924089",
+    "title": "コメンテーター",
+    "author": "奥田英朗",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167924089",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034230453",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 286
   }
 ]
