@@ -155,7 +155,7 @@ for (const c of candidates) {
   // 選んだ版に巻の表示（「1」「上」など）があれば、上下巻やシリーズもの
   const multiVolume = Boolean(edition.volume);
   const pages = pagesFromExtent(edition.extent);
-  const tags = decideTags(c, { ndc: edition.ndc, pages, multiVolume });
+  const tags = decideTags(c, { ndc: edition.ndc, pages, multiVolume, series: edition.seriesTitle, title: c.title });
   if (!tags) {
     skip(`ジャンルを決められない（分類番号：${edition.ndc ?? 'なし'}）`);
     continue;
