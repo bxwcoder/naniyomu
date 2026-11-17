@@ -263846,6 +263846,1124 @@
     "pages": 413
   },
   {
+    "book_id": "isbn-9784041671252",
+    "title": "天使の爪",
+    "author": "大沢在昌",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041671252",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008833890",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 568
+  },
+  {
+    "book_id": "isbn-9784041079492",
+    "title": "影絵の騎士",
+    "author": "大沢在昌",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041079492",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029994236",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 605
+  },
+  {
+    "book_id": "isbn-9784041671191",
+    "title": "B・D・T 掟の街",
+    "author": "大沢在昌",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041671191",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003032996",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 422
+  },
+  {
+    "book_id": "isbn-9784041671078",
+    "title": "感傷の街角",
+    "author": "大沢在昌",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041671078",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002363160",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 372
+  },
+  {
+    "book_id": "isbn-9784101260310",
+    "title": "らんぼう",
+    "author": "大沢在昌",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101260310",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003067160",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 397
+  },
+  {
+    "book_id": "isbn-9784087450422",
+    "title": "欧亜純白",
+    "author": "大沢在昌",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087450422",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024285412",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 670
+  },
+  {
+    "book_id": "isbn-9784198946722",
+    "title": "爆身",
+    "author": "大沢在昌",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198946722",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031635368",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 634
+  },
+  {
+    "book_id": "isbn-9784022650054",
+    "title": "帰去来",
+    "author": "大沢在昌",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022650054",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031938487",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 646
+  },
+  {
+    "book_id": "isbn-9784065350690",
+    "title": "悪魔には悪魔を",
+    "author": "大沢在昌",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065350690",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033405023",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 617
+  },
+  {
+    "book_id": "isbn-9784575528503",
+    "title": "晩秋行",
+    "author": "大沢在昌",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575528503",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034117323",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 573
+  },
+  {
+    "book_id": "isbn-9784167520076",
+    "title": "斜影はるかな国",
+    "author": "逢坂剛",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167520076",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004272485",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 733
+  },
+  {
+    "book_id": "isbn-9784167520069",
+    "title": "禿鷹の夜",
+    "author": "逢坂剛",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167520069",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004151942",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 375
+  },
+  {
+    "book_id": "isbn-9784101195209",
+    "title": "鏡影劇場",
+    "author": "逢坂剛",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101195209",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032637612",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 657
+  },
+  {
+    "book_id": "isbn-9784087491258",
+    "title": "裏切りの日日",
+    "author": "逢坂剛",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087491258",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001811342",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 273
+  },
+  {
+    "book_id": "isbn-9784062934664",
+    "title": "さらばスペインの日日",
+    "author": "逢坂剛",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062934664",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027572470",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 445
+  },
+  {
+    "book_id": "isbn-9784087491982",
+    "title": "真夜中の遠い彼方",
+    "author": "佐々木譲",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087491982",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001848953",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 277
+  },
+  {
+    "book_id": "isbn-9784591114537",
+    "title": "夜を急ぐ者よ",
+    "author": "佐々木譲",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784591114537",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010631624",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "ポプラ社",
+    "pages": 447
+  },
+  {
+    "book_id": "isbn-9784122042544",
+    "title": "武揚伝",
+    "author": "佐々木譲",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122042544",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004270241",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 397
+  },
+  {
+    "book_id": "isbn-9784758434751",
+    "title": "警官の紋章",
+    "author": "佐々木譲",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784758434751",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010952935",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 435
+  },
+  {
+    "book_id": "isbn-9784758435543",
+    "title": "巡査の休日",
+    "author": "佐々木譲",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784758435543",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011304549",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 370
+  },
+  {
+    "book_id": "isbn-9784758439305",
+    "title": "憂いなき街",
+    "author": "佐々木譲",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784758439305",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026616314",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 379
+  },
+  {
+    "book_id": "isbn-9784104555109",
+    "title": "犬の掟",
+    "author": "佐々木譲",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784104555109",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026726841",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 476
+  },
+  {
+    "book_id": "isbn-9784101223278",
+    "title": "獅子の城塞",
+    "author": "佐々木譲",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101223278",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027186824",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 763
+  },
+  {
+    "book_id": "isbn-9784620210315",
+    "title": "英龍伝",
+    "author": "佐々木譲",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784620210315",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030655232",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "毎日新聞出版",
+    "pages": 361
+  },
+  {
+    "book_id": "isbn-9784101223308",
+    "title": "裂けた明日",
+    "author": "佐々木譲",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101223308",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034719571",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 506
+  },
+  {
+    "book_id": "isbn-9784167679538",
+    "title": "曙光の街",
+    "author": "今野敏",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167679538",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007899085",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 375
+  },
+  {
+    "book_id": "isbn-9784167753153",
+    "title": "白夜街道",
+    "author": "今野敏",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167753153",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009762618",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 313
+  },
+  {
+    "book_id": "isbn-9784167801724",
+    "title": "凍土の密約",
+    "author": "今野敏",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167801724",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023430705",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 348
+  },
+  {
+    "book_id": "isbn-9784167905453",
+    "title": "アクティブメジャーズ",
+    "author": "今野敏",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167905453",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027055950",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 335
+  },
+  {
+    "book_id": "isbn-9784167911690",
+    "title": "防諜捜査",
+    "author": "今野敏",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167911690",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029288591",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 348
+  },
+  {
+    "book_id": "isbn-9784122052109",
+    "title": "陰陽",
+    "author": "今野敏",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122052109",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010642266",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 297
+  },
+  {
+    "book_id": "isbn-9784062169820",
+    "title": "化合",
+    "author": "今野敏",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062169820",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011227296",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 338
+  },
+  {
+    "book_id": "isbn-9784344425101",
+    "title": "廉恥",
+    "author": "今野敏",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784344425101",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027498473",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "幻冬舎",
+    "pages": 408
+  },
+  {
+    "book_id": "isbn-9784087464016",
+    "title": "スクープ",
+    "author": "今野敏",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087464016",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010049092",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 324
+  },
+  {
+    "book_id": "isbn-9784087715149",
+    "title": "クローズアップ",
+    "author": "今野敏",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087715149",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024430004",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 345
+  },
+  {
+    "book_id": "isbn-9784575522297",
+    "title": "真贋",
+    "author": "今野敏",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784575522297",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029704674",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "双葉社",
+    "pages": 393
+  },
+  {
+    "book_id": "isbn-9784758436519",
+    "title": "夕暴雨",
+    "author": "今野敏",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784758436519",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023539692",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 376
+  },
+  {
+    "book_id": "isbn-9784758446457",
+    "title": "秋麗",
+    "author": "今野敏",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784758446457",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033521976",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川春樹事務所",
+    "pages": 377
+  },
+  {
+    "book_id": "isbn-9784041143247",
+    "title": "チョウセンアサガオの咲く夏",
+    "author": "柚月裕子",
+    "genres": [
+      "mystery_sf"
+    ],
+    "themes": [
+      "mystery"
+    ],
+    "moods": [
+      "absorbing"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041143247",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033419826",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 232
+  },
+  {
+    "book_id": "isbn-9784101156514",
+    "title": "あばれ狼",
+    "author": "池波正太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101156514",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001967997",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 403
+  },
+  {
+    "book_id": "isbn-9784101156620",
+    "title": "原っぱ",
+    "author": "池波正太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101156620",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002163946",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 223
+  },
+  {
+    "book_id": "isbn-9784101157474",
+    "title": "黒白",
+    "author": "池波正太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101157474",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004352149",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 543
+  },
+  {
+    "book_id": "isbn-9784101156552",
+    "title": "まんぞく まんぞく",
+    "author": "池波正太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101156552",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002053102",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 306
+  },
+  {
     "book_id": "isbn-9784167916312",
     "title": "旅路",
     "author": "池波正太郎",
@@ -263948,6 +265066,32 @@
     "tier": "basic",
     "publisher": "新潮社",
     "pages": 309
+  },
+  {
+    "book_id": "isbn-9784101247021",
+    "title": "竹光始末",
+    "author": "藤沢周平",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101247021",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001534311",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 270
   },
   {
     "book_id": "isbn-9784167192105",
