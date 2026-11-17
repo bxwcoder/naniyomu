@@ -24,7 +24,9 @@
     "purchase_url": null,
     "isbn": "9784101215235",
     "metadata_source": "https://www.shinchosha.co.jp/book/121523/",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "新潮社",
+    "pages": 291
   },
   {
     "book_id": "kimi-no-suizo",
@@ -51,7 +53,9 @@
     "purchase_url": null,
     "isbn": "9784575519945",
     "metadata_source": "https://bookwalker.jp/series/172662/",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "双葉社",
+    "pages": 325
   },
   {
     "book_id": "fune-wo-amu",
@@ -78,7 +82,9 @@
     "purchase_url": null,
     "isbn": "9784334768805",
     "metadata_source": "https://www.nikkan-gendai.com/articles/view/book/159192",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "光文社",
+    "pages": 347
   },
   {
     "book_id": "konbini-ningen",
@@ -105,7 +111,9 @@
     "purchase_url": null,
     "isbn": "9784167911300",
     "metadata_source": "https://www.kinokuniya.co.jp/f/dsg-01-9784167911300",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "文藝春秋",
+    "pages": 168
   },
   {
     "book_id": "nishi-no-majo",
@@ -132,7 +140,9 @@
     "purchase_url": null,
     "isbn": "9784101253329",
     "metadata_source": "https://www.shinchosha.co.jp/book/125332/",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "新潮社",
+    "pages": 226
   },
   {
     "book_id": "mitsubachi-to-enrai",
@@ -159,7 +169,9 @@
     "purchase_url": null,
     "isbn": "9784344428522",
     "metadata_source": "https://www.kinokuniya.co.jp/f/dsg-01-9784344428522",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "幻冬舎",
+    "pages": 454
   },
   {
     "book_id": "jukkakukan-no-satsujin",
@@ -187,7 +199,9 @@
     "purchase_url": null,
     "isbn": "9784062758574",
     "metadata_source": "https://www.kinokuniya.co.jp/f/dsg-01-9784062758574",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "講談社",
+    "pages": 495
   },
   {
     "book_id": "yogisha-x-no-kenshin",
@@ -215,7 +229,9 @@
     "purchase_url": null,
     "isbn": "9784167110123",
     "metadata_source": "https://bookmeter.com/series/3887",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "文藝春秋",
+    "pages": 394
   },
   {
     "book_id": "kasha",
@@ -243,7 +259,9 @@
     "purchase_url": null,
     "isbn": "9784101369181",
     "metadata_source": "https://www.shinchosha.co.jp/book/136918/",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "新潮社",
+    "pages": 590
   },
   {
     "book_id": "hoshi-wo-tsugumono",
@@ -273,7 +291,9 @@
     "purchase_url": null,
     "isbn": "9784488663315",
     "metadata_source": "https://www.kinokuniya.co.jp/f/dsg-01-9784488663315",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "東京創元社",
+    "pages": 326
   },
   {
     "book_id": "project-hail-mary",
@@ -303,7 +323,9 @@
     "purchase_url": null,
     "isbn": null,
     "metadata_source": "https://virtualgorillaplus.com/nobel/project-hail-mary/",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "早川書房",
+    "pages": 323
   },
   {
     "book_id": "batta-wo-taoshini",
@@ -331,7 +353,9 @@
     "purchase_url": null,
     "isbn": "9784334039899",
     "metadata_source": "https://bunshun.jp/articles/-/3141",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "光文社",
+    "pages": 378
   },
   {
     "book_id": "boku-wa-yellow",
@@ -359,7 +383,9 @@
     "purchase_url": null,
     "isbn": "9784101017525",
     "metadata_source": "https://www.kinokuniya.co.jp/f/dsg-01-9784101017525",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "新潮社",
+    "pages": 332
   },
   {
     "book_id": "yoru-to-kiri",
@@ -387,7 +413,9 @@
     "purchase_url": null,
     "isbn": "9784622039709",
     "metadata_source": "https://library.naist.jp/opac/en/book/61525",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "みすず書房",
+    "pages": 169
   },
   {
     "book_id": "kuhaku-no-go-mile",
@@ -414,7 +442,9 @@
     "purchase_url": null,
     "isbn": "9784087468823",
     "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023908577",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "集英社",
+    "pages": 318
   },
   {
     "book_id": "kirawareru-yuki",
@@ -441,7 +471,9 @@
     "purchase_url": null,
     "isbn": "9784478025819",
     "metadata_source": "https://gendai.media/articles/-/38483",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "ダイヤモンド社",
+    "pages": 294
   },
   {
     "book_id": "sapiens",
@@ -469,7 +501,9 @@
     "purchase_url": null,
     "isbn": "9784309467887",
     "metadata_source": "https://www.kinokuniya.co.jp/f/dsd-101001017024003-06-",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "河出書房新社",
+    "pages": 352
   },
   {
     "book_id": "factfulness",
@@ -497,7 +531,9 @@
     "purchase_url": null,
     "isbn": "9784822289607",
     "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029398192",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "日経BP社",
+    "pages": 397
   },
   {
     "book_id": "seibutsu-to-museibutsu",
@@ -525,7 +561,9 @@
     "purchase_url": null,
     "isbn": "9784061498914",
     "metadata_source": "https://www.kinokuniya.co.jp/f/dsg-01-9784061498914",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "講談社",
+    "pages": 285
   },
   {
     "book_id": "ju-byogenkin-tetsu",
@@ -554,7 +592,9 @@
     "purchase_url": null,
     "isbn": "9784794218780",
     "metadata_source": "https://number.bunshun.jp/articles/-/851091",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "草思社",
+    "pages": 17
   },
   {
     "book_id": "kanemochi-tosan",
@@ -581,7 +621,9 @@
     "purchase_url": null,
     "isbn": "9784480864246",
     "metadata_source": "https://news.mynavi.jp/article/20131108-a069",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "筑摩書房",
+    "pages": 262
   },
   {
     "book_id": "hito-wo-ugokasu",
@@ -665,7 +707,9 @@
     "purchase_url": null,
     "isbn": "9784863940246",
     "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024765841",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "キングベアー出版",
+    "pages": 521
   },
   {
     "book_id": "uchu-kyodai",
@@ -693,7 +737,9 @@
     "purchase_url": null,
     "isbn": "9784063726749",
     "metadata_source": "https://mechacomic.jp/free/mechamaga/news/189504",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "講談社",
+    "pages": 215
   },
   {
     "book_id": "chi-chikyu-no-undo",
@@ -721,7 +767,9 @@
     "purchase_url": null,
     "isbn": "9784098607785",
     "metadata_source": "https://www.museum.or.jp/report/120429",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "小学館",
+    "pages": 155
   },
   {
     "book_id": "hagane-no-renkinjutsushi",
@@ -749,7 +797,9 @@
     "purchase_url": null,
     "isbn": "9784757506206",
     "metadata_source": "https://bookmeter.com/books/437225",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "エニックス",
+    "pages": 179
   },
   {
     "book_id": "golden-kamuy",
@@ -777,7 +827,9 @@
     "purchase_url": null,
     "isbn": "9784088900827",
     "metadata_source": "https://bookwalker.jp/series/23628/list/",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "集英社",
+    "pages": null
   },
   {
     "book_id": "shinya-tokkyu",
@@ -805,7 +857,9 @@
     "purchase_url": null,
     "isbn": "9784101235288",
     "metadata_source": "https://www.shinchosha.co.jp/book/123528/",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "新潮社",
+    "pages": 270
   },
   {
     "book_id": "somaliland",
@@ -833,7 +887,9 @@
     "purchase_url": null,
     "isbn": "9784087455953",
     "metadata_source": "https://gendai.media/articles/-/37583",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "集英社",
+    "pages": 576
   },
   {
     "book_id": "angel-flight",
@@ -861,7 +917,9 @@
     "purchase_url": null,
     "isbn": "9784087452525",
     "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I025874833",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "集英社",
+    "pages": 284
   },
   {
     "book_id": "kumo-wo-sagasu",
@@ -887,7 +945,9 @@
     "purchase_url": null,
     "isbn": "9784309031019",
     "metadata_source": "https://bunshun.jp/articles/-/62291",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "河出書房新社",
+    "pages": 252
   },
   {
     "book_id": "homeless-chugakusei",
@@ -914,7 +974,9 @@
     "purchase_url": null,
     "isbn": "9784344415683",
     "metadata_source": "https://www.oricon.co.jp/news/2337704/full/",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "幻冬舎",
+    "pages": 230
   },
   {
     "book_id": "anne-no-nikki",
@@ -943,7 +1005,9 @@
     "purchase_url": null,
     "isbn": "9784167651336",
     "metadata_source": "https://books.bunshun.jp/ud/book/num/9784167651336",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "文藝春秋",
+    "pages": 597
   },
   {
     "book_id": "hadaka-demo-ikiru",
@@ -971,7 +1035,9 @@
     "purchase_url": null,
     "isbn": "9784062820646",
     "metadata_source": "https://booklog.jp/item/1/4062820641",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "講談社",
+    "pages": 263
   },
   {
     "book_id": "jibun-no-naka-ni-doku",
@@ -999,7 +1065,9 @@
     "purchase_url": null,
     "isbn": "9784413096843",
     "metadata_source": "https://www.kinokuniya.co.jp/f/dsg-01-9784413096843",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "青春出版社",
+    "pages": 246
   },
   {
     "book_id": "steve-jobs",
@@ -1028,7 +1096,9 @@
     "purchase_url": null,
     "isbn": "9784062171267",
     "metadata_source": "https://www.kodansha.co.jp/book/products/0000208018",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "講談社",
+    "pages": 445
   },
   {
     "book_id": "africa-nyorori",
@@ -1110,7 +1180,9 @@
     "purchase_url": null,
     "isbn": "9784101133348",
     "metadata_source": "https://www.shinchosha.co.jp/book/113334/",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "新潮社",
+    "pages": 173
   },
   {
     "book_id": "yotsubato",
@@ -1137,7 +1209,9 @@
     "purchase_url": null,
     "isbn": "9784840224666",
     "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023092039",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "アスキー・メディアワークス",
+    "pages": 224
   },
   {
     "book_id": "yurucamp",
@@ -1164,7 +1238,9 @@
     "purchase_url": null,
     "isbn": null,
     "metadata_source": "https://ciatr.jp/topics/328030",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "芳文社",
+    "pages": null
   },
   {
     "book_id": "dragon-zakura",
@@ -1220,7 +1296,9 @@
     "purchase_url": null,
     "isbn": "9784063765601",
     "metadata_source": "https://www.kodansha.co.jp/comic/products/0000045249",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "講談社",
+    "pages": null
   },
   {
     "book_id": "gin-no-saji",
@@ -1250,7 +1328,9 @@
     "purchase_url": null,
     "isbn": "9784091231802",
     "metadata_source": "https://news.denfaminicogamer.jp/news/2501222c",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "小学館",
+    "pages": 186
   },
   {
     "book_id": "sangatsu-no-lion",
@@ -1276,7 +1356,9 @@
     "purchase_url": null,
     "isbn": "9784592145110",
     "metadata_source": "https://www.b-ch.com/titles/5511",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "白泉社",
+    "pages": null
   },
   {
     "book_id": "blue-period",
@@ -1304,7 +1386,9 @@
     "purchase_url": null,
     "isbn": "9784065105863",
     "metadata_source": "https://bijutsutecho.com/magazine/news/headline/24563",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "講談社",
+    "pages": null
   },
   {
     "book_id": "dungeon-meshi",
@@ -1333,7 +1417,9 @@
     "purchase_url": null,
     "isbn": "9784047301535",
     "metadata_source": "https://www.kadokawa.co.jp/product/322308000857/",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "KADOKAWA",
+    "pages": 191
   },
   {
     "book_id": "yakusoku-neverland",
@@ -1361,7 +1447,9 @@
     "purchase_url": null,
     "isbn": "9784088808727",
     "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027747295",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "集英社",
+    "pages": 183
   },
   {
     "book_id": "kinou-nani-tabeta",
@@ -1388,7 +1476,9 @@
     "purchase_url": null,
     "isbn": "9784063726480",
     "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009175737",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "講談社",
+    "pages": 153
   },
   {
     "book_id": "yume-wo-kanaeru-zou",
@@ -1416,7 +1506,9 @@
     "purchase_url": null,
     "isbn": "9784866512419",
     "metadata_source": "https://realsound.jp/book/2020/08/post-601626.html",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "文響社",
+    "pages": 398
   },
   {
     "book_id": "kimitachi-wa-dou-ikiruka",
@@ -1444,7 +1536,9 @@
     "purchase_url": null,
     "isbn": "9784003315811",
     "metadata_source": "https://www.nippon.com/ja/japan-topics/bg900478/",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "岩波書店",
+    "pages": 339
   },
   {
     "book_id": "saodakeya",
@@ -1472,7 +1566,9 @@
     "purchase_url": null,
     "isbn": "9784334032913",
     "metadata_source": "https://www.kinokuniya.co.jp/f/dsg-08-9979178868",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "光文社",
+    "pages": 216
   },
   {
     "book_id": "tokimeku-katazuke",
@@ -1500,7 +1596,9 @@
     "purchase_url": null,
     "isbn": "9784763131201",
     "metadata_source": "https://president.jp/articles/woman-print/19229",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "サンマーク出版",
+    "pages": 270
   },
   {
     "book_id": "idea-no-tsukurikata",
@@ -1527,7 +1625,9 @@
     "purchase_url": null,
     "isbn": "9784484881041",
     "metadata_source": "https://forbesjapan.com/articles/detail/27594",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "ティビーエス・ブリタニカ",
+    "pages": 102
   },
   {
     "book_id": "okane-no-daigaku",
@@ -1554,7 +1654,9 @@
     "purchase_url": null,
     "isbn": "9784023323780",
     "metadata_source": "https://bunshun.jp/articles/-/39047",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "朝日新聞出版",
+    "pages": 321
   },
   {
     "book_id": "hima-to-taikutsu",
@@ -1581,7 +1683,9 @@
     "purchase_url": null,
     "isbn": "9784101035413",
     "metadata_source": "https://www.shinchosha.co.jp/book/103541/",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "新潮社",
+    "pages": 508
   },
   {
     "book_id": "dokuso-sen",
@@ -1607,7 +1711,9 @@
     "purchase_url": null,
     "isbn": "9784004317852",
     "metadata_source": "https://www.kinokuniya.co.jp/f/dsg-01-9784004317852",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "岩波書店",
+    "pages": 248
   },
   {
     "book_id": "zou-no-jikan",
@@ -1635,7 +1741,9 @@
     "purchase_url": null,
     "isbn": null,
     "metadata_source": "https://ndlsearch.ndl.go.jp/en/books/R100000038-I846580",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "中央公論社",
+    "pages": 230
   },
   {
     "book_id": "uchu-wa-nani",
@@ -1663,7 +1771,9 @@
     "purchase_url": null,
     "isbn": "9784344981881",
     "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011046728",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "幻冬舎",
+    "pages": 226
   },
   {
     "book_id": "tenchi-meisatsu",
@@ -1692,7 +1802,9 @@
     "purchase_url": null,
     "isbn": "9784041003183",
     "metadata_source": "https://www.kadokawa.co.jp/product/301404001439/",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "角川書店",
+    "pages": 282
   },
   {
     "book_id": "shitamachi-rocket",
@@ -1721,7 +1833,9 @@
     "purchase_url": null,
     "isbn": "9784094088960",
     "metadata_source": "https://www.kinokuniya.co.jp/f/dsg-01-9784094088960",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "小学館",
+    "pages": 493
   },
   {
     "book_id": "hitsuji-to-hagane",
@@ -1748,7 +1862,9 @@
     "purchase_url": null,
     "isbn": "9784167910105",
     "metadata_source": "https://books.bunshun.jp/articles/-/369",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "文藝春秋",
+    "pages": 274
   },
   {
     "book_id": "kagami-no-kojo",
@@ -1777,6 +1893,8 @@
     "purchase_url": null,
     "isbn": "9784591169711",
     "metadata_source": "https://www.kinokuniya.co.jp/f/dsg-01-9784591169728",
-    "metadata_verified": true
+    "metadata_verified": true,
+    "publisher": "ポプラ社",
+    "pages": 411
   }
 ]

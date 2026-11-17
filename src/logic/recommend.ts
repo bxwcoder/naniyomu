@@ -29,6 +29,7 @@ import type {
   RelaxSuggestion,
 } from '../types.ts';
 import { matchFavoriteBooks } from './matchFavorite.ts';
+import { SHOW_CURATED_TEXT } from '../components/bookInfo.ts';
 import { DIVERSITY, SCORING } from './scoringConfig.ts';
 
 export interface RecommendOptions {
@@ -250,7 +251,7 @@ export function buildReasons(
   if (role === 'discovery' && firstBook && !book.genres.some((g) => firstBook.genres.includes(g))) {
     reasons.push(`1冊目とは違う「${GENRES[book.genres[0]]}」の本で、別の角度から楽しめます。`);
   }
-  if (book.recommendation_reasons.length > 0) {
+  if (SHOW_CURATED_TEXT && book.recommendation_reasons.length > 0) {
     reasons.push(`この本の特徴：${book.recommendation_reasons.join('／')}`);
   }
   return reasons;
