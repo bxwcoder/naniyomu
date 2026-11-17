@@ -259574,5 +259574,1084 @@
     "tier": "basic",
     "publisher": "集英社",
     "pages": 313
+  },
+  {
+    "book_id": "isbn-9784103824015",
+    "title": "海峡",
+    "author": "伊集院静",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784103824015",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002144243",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 365
+  },
+  {
+    "book_id": "isbn-9784101196329",
+    "title": "春雷",
+    "author": "伊集院静",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101196329",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003668558",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 623
+  },
+  {
+    "book_id": "isbn-9784101196336",
+    "title": "岬へ",
+    "author": "伊集院静",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101196336",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003675883",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 686
+  },
+  {
+    "book_id": "isbn-9784087446692",
+    "title": "ごろごろ",
+    "author": "伊集院静",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087446692",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033576567",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 299
+  },
+  {
+    "book_id": "isbn-9784087450996",
+    "title": "いねむり先生",
+    "author": "伊集院静",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087450996",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024717758",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 436
+  },
+  {
+    "book_id": "isbn-9784062933131",
+    "title": "ノボさん",
+    "author": "伊集院静",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062933131",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027002788",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 275
+  },
+  {
+    "book_id": "isbn-9784087441215",
+    "title": "琥珀の夢",
+    "author": "伊集院静",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087441215",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030421872",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 379
+  },
+  {
+    "book_id": "isbn-9784094063486",
+    "title": "なぎさホテル",
+    "author": "伊集院静",
+    "genres": [
+      "nonfiction"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "relaxing"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784094063486",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027610126",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "小学館",
+    "pages": 253
+  },
+  {
+    "book_id": "isbn-9784167917180",
+    "title": "日傘を差す女",
+    "author": "伊集院静",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167917180",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031511207",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 461
+  },
+  {
+    "book_id": "isbn-9784065318522",
+    "title": "ミチクサ先生",
+    "author": "伊集院静",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784065318522",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032908635",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 408
+  },
+  {
+    "book_id": "isbn-9784043720040",
+    "title": "私という運命について",
+    "author": "白石一文",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784043720040",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009684241",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "角川書店",
+    "pages": 495
+  },
+  {
+    "book_id": "isbn-9784167772017",
+    "title": "どれくらいの愛情",
+    "author": "白石一文",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167772017",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010440078",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 494
+  },
+  {
+    "book_id": "isbn-9784062771153",
+    "title": "この胸に深々と突き刺さる矢を抜け",
+    "author": "白石一文",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062771153",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023172146",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 332
+  },
+  {
+    "book_id": "isbn-9784309413754",
+    "title": "火口のふたり",
+    "author": "白石一文",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784309413754",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026406028",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "河出書房新社",
+    "pages": 247
+  },
+  {
+    "book_id": "isbn-9784198945909",
+    "title": "一億円のさようなら",
+    "author": "白石一文",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784198945909",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030587145",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "徳間書店",
+    "pages": 674
+  },
+  {
+    "book_id": "isbn-9784101340760",
+    "title": "君がいないと小説は書けない",
+    "author": "白石一文",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101340760",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032268886",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 641
+  },
+  {
+    "book_id": "isbn-9784022650283",
+    "title": "プラスチックの祈り",
+    "author": "白石一文",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784022650283",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031938484",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "朝日新聞出版",
+    "pages": 385
+  },
+  {
+    "book_id": "isbn-9784062933797",
+    "title": "神秘",
+    "author": "白石一文",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062933797",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I027217278",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 363
+  },
+  {
+    "book_id": "isbn-9784087475135",
+    "title": "漂泊の牙",
+    "author": "熊谷達也",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087475135",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003614050",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 406
+  },
+  {
+    "book_id": "isbn-9784087472301",
+    "title": "ウエンカムイの爪",
+    "author": "熊谷達也",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087472301",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002916042",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 210
+  },
+  {
+    "book_id": "isbn-9784087462425",
+    "title": "荒蝦夷",
+    "author": "熊谷達也",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087462425",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009200833",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 389
+  },
+  {
+    "book_id": "isbn-9784334745974",
+    "title": "七夕しぐれ",
+    "author": "熊谷達也",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334745974",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010269674",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 350
+  },
+  {
+    "book_id": "isbn-9784334764753",
+    "title": "モラトリアムな季節",
+    "author": "熊谷達也",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784334764753",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I023950985",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "光文社",
+    "pages": 312
+  },
+  {
+    "book_id": "isbn-9784167905064",
+    "title": "調律師",
+    "author": "熊谷達也",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167905064",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026914716",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 277
+  },
+  {
+    "book_id": "isbn-9784140056684",
+    "title": "潮の音、空の青、海の詩",
+    "author": "熊谷達也",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784140056684",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I026583237",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "NHK出版",
+    "pages": 460
+  },
+  {
+    "book_id": "isbn-9784087447453",
+    "title": "希望の海",
+    "author": "熊谷達也",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087447453",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033930083",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 377
+  },
+  {
+    "book_id": "isbn-9784101341545",
+    "title": "我は景祐",
+    "author": "熊谷達也",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101341545",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I032539182",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 664
+  },
+  {
+    "book_id": "isbn-9784087487121",
+    "title": "ジャガーになった男",
+    "author": "佐藤賢一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087487121",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002643999",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 359
+  },
+  {
+    "book_id": "isbn-9784122043602",
+    "title": "カエサルを撃て",
+    "author": "佐藤賢一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122043602",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007383393",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 485
+  },
+  {
+    "book_id": "isbn-9784087476033",
+    "title": "カルチェ・ラタン",
+    "author": "佐藤賢一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087476033",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000004212212",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 519
+  },
+  {
+    "book_id": "isbn-9784087460650",
+    "title": "オクシタニア",
+    "author": "佐藤賢一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784087460650",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008276369",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "集英社",
+    "pages": 467
+  },
+  {
+    "book_id": "isbn-9784122066786",
+    "title": "ハンニバル戦争",
+    "author": "佐藤賢一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122066786",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029426391",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 525
+  },
+  {
+    "book_id": "isbn-9784101125350",
+    "title": "遺訓",
+    "author": "佐藤賢一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101125350",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I030807655",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 641
+  },
+  {
+    "book_id": "isbn-9784101125367",
+    "title": "日蓮",
+    "author": "佐藤賢一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101125367",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033022845",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 478
+  },
+  {
+    "book_id": "isbn-9784122077829",
+    "title": "チャンバラ",
+    "author": "佐藤賢一",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122077829",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I034662979",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 409
+  },
+  {
+    "book_id": "isbn-9784122051300",
+    "title": "ゆりかごで眠れ",
+    "author": "垣根涼介",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122051300",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010087419",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論新社",
+    "pages": 322
+  },
+  {
+    "book_id": "isbn-9784062765701",
+    "title": "真夏の島に咲く花は",
+    "author": "垣根涼介",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784062765701",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010702880",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 495
+  },
+  {
+    "book_id": "isbn-9784101329789",
+    "title": "室町無頼",
+    "author": "垣根涼介",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101329789",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I029438592",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 378
+  },
+  {
+    "book_id": "isbn-9784041148617",
+    "title": "涅槃",
+    "author": "垣根涼介",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784041148617",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I033585922",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "KADOKAWA",
+    "pages": 569
+  },
+  {
+    "book_id": "isbn-9784167686048",
+    "title": "ボーダー",
+    "author": "垣根涼介",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167686048",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I024143972",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 395
   }
 ]
