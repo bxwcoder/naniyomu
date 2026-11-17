@@ -266072,6 +266072,33 @@
     "pages": 368
   },
   {
+    "book_id": "isbn-9784101349275",
+    "title": "せんせい。",
+    "author": "重松清",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "absorbing",
+      "moving"
+    ],
+    "difficulty": "easy",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101349275",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011221302",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 277
+  },
+  {
     "book_id": "isbn-9784041031605",
     "title": "ファミレス",
     "author": "重松清",
