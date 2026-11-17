@@ -263844,5 +263844,655 @@
     "tier": "basic",
     "publisher": "講談社",
     "pages": 413
+  },
+  {
+    "book_id": "isbn-9784167916312",
+    "title": "旅路",
+    "author": "池波正太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167916312",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I031184047",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 314
+  },
+  {
+    "book_id": "isbn-9784167142773",
+    "title": "蝶の戦記",
+    "author": "池波正太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167142773",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003050720",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 457
+  },
+  {
+    "book_id": "isbn-9784167192037",
+    "title": "喜多川歌麿女絵草紙",
+    "author": "藤沢周平",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167192037",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001568105",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 246
+  },
+  {
+    "book_id": "isbn-9784101247250",
+    "title": "天保悪党伝",
+    "author": "藤沢周平",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101247250",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000003039811",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 309
+  },
+  {
+    "book_id": "isbn-9784167192105",
+    "title": "又蔵の火",
+    "author": "藤沢周平",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167192105",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001710717",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 320
+  },
+  {
+    "book_id": "isbn-9784101247045",
+    "title": "冤罪",
+    "author": "藤沢周平",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101247045",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001581820",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 426
+  },
+  {
+    "book_id": "isbn-9784101247113",
+    "title": "驟り雨",
+    "author": "藤沢周平",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101247113",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001731501",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 306
+  },
+  {
+    "book_id": "isbn-9784122010963",
+    "title": "夜の橋",
+    "author": "藤沢周平",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122010963",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001664395",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 329
+  },
+  {
+    "book_id": "isbn-9784167192280",
+    "title": "玄鳥",
+    "author": "藤沢周平",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167192280",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002313832",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文芸春秋",
+    "pages": 232
+  },
+  {
+    "book_id": "isbn-9784101247243",
+    "title": "静かな木",
+    "author": "藤沢周平",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "short",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101247243",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002918443",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 123
+  },
+  {
+    "book_id": "isbn-9784167192341",
+    "title": "日暮れ竹河岸",
+    "author": "藤沢周平",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784167192341",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002918432",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "文藝春秋",
+    "pages": 267
+  },
+  {
+    "book_id": "isbn-9784101134208",
+    "title": "ひとごろし",
+    "author": "山本周五郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101134208",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010066230",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 480
+  },
+  {
+    "book_id": "isbn-9784101134093",
+    "title": "日日平安",
+    "author": "山本周五郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101134093",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007303210",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 472
+  },
+  {
+    "book_id": "isbn-9784101134284",
+    "title": "四日のあやめ",
+    "author": "山本周五郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101134284",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007420240",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 481
+  },
+  {
+    "book_id": "isbn-9784101134550",
+    "title": "人情武士道",
+    "author": "山本周五郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101134550",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002023245",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 359
+  },
+  {
+    "book_id": "isbn-9784101134406",
+    "title": "楽天旅日記",
+    "author": "山本周五郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101134406",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001571471",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784101134376",
+    "title": "彦左衛門外記",
+    "author": "山本周五郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101134376",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001522492",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 272
+  },
+  {
+    "book_id": "isbn-9784101134161",
+    "title": "正雪記",
+    "author": "山本周五郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "long",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101134161",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000001-I25110824731",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 675
+  },
+  {
+    "book_id": "isbn-9784101134352",
+    "title": "寝ぼけ署長",
+    "author": "山本周五郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101134352",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001518141",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 317
+  },
+  {
+    "book_id": "isbn-9784101134338",
+    "title": "花杖記",
+    "author": "山本周五郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101134338",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001491115",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 367
+  },
+  {
+    "book_id": "isbn-9784061838659",
+    "title": "最後の伊賀者",
+    "author": "司馬遼太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061838659",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001830526",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 320
+  },
+  {
+    "book_id": "isbn-9784122010871",
+    "title": "一夜官女",
+    "author": "司馬遼太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784122010871",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001659452",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "中央公論社",
+    "pages": 273
+  },
+  {
+    "book_id": "isbn-9784101152240",
+    "title": "馬上少年過ぐ",
+    "author": "司馬遼太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784101152240",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008255528",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "新潮社",
+    "pages": 404
+  },
+  {
+    "book_id": "isbn-9784061836174",
+    "title": "大坂侍",
+    "author": "司馬遼太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784061836174",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001775899",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "講談社",
+    "pages": 268
+  },
+  {
+    "book_id": "isbn-9784394118015",
+    "title": "上方武士道",
+    "author": "司馬遼太郎",
+    "genres": [
+      "novel"
+    ],
+    "themes": [
+      "life"
+    ],
+    "moods": [
+      "moving"
+    ],
+    "difficulty": "normal",
+    "length_category": "medium",
+    "description": "",
+    "recommendation_reasons": [],
+    "cover_image_url": null,
+    "purchase_url": null,
+    "isbn": "9784394118015",
+    "metadata_source": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002553329",
+    "metadata_verified": true,
+    "tier": "basic",
+    "publisher": "春陽堂書店",
+    "pages": 402
   }
 ]
