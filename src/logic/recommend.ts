@@ -53,8 +53,10 @@ export function answersKey(answers: Answers): string {
   return [answers.mood, answers.theme, answers.difficulty, answers.length, answers.genre].join('|');
 }
 
-/** 表示回数1回の差は、どんな点数の差よりも優先する */
+/** 表示回数1回の差は、ほかのどの差よりも優先する */
 const SHOWN_COUNT_WEIGHT = 1_000_000;
+/** 気分も興味も合わない本は、同じ回数のうちでは後回し（点数の差より優先） */
+const NOT_RELEVANT_WEIGHT = 1_000;
 
 /** 番号から、毎回同じ並びの乱数を作る（mulberry32 という簡単な方法） */
 function seededRandom(seed: number): () => number {
@@ -188,14 +190,14 @@ function sameAuthorPenalty(book: Book, chosen: Candidate[]): number {
   return chosen.some((c) => c.book.author === book.author) ? DIVERSITY.sameAuthorPenalty : 0;
 }
 
-function selectThree(pool: Candidate[], shownCount: (c: Candidate) => number): [Candidate, RecommendationRole][] {
+function selectThree(pool: Candidate[], penalty: (c: Candidate) => number): [Candidate, RecommendationRole][] {
   const best = pool[0];
   const rest1 = pool.slice(1);
   const nearby = pickBest(
     rest1,
     (c) =>
       c.detail.score -
-      SHOWN_COUNT_WEIGHT * shownCount(c) -
+      penalty(c) -
       DIVERSITY.nearbyOverlapPenalty * similarity(c.book, best.book) -
       sameAuthorPenalty(c.book, [best]),
   )!;
@@ -204,7 +206,7 @@ function selectThree(pool: Candidate[], shownCount: (c: Candidate) => number): [
     rest2,
     (c) =>
       c.detail.score -
-      SHOWN_COUNT_WEIGHT * shownCount(c) -
+      penalty(c) -
       DIVERSITY.discoveryOverlapPenalty *
         Math.max(similarity(c.book, best.book), similarity(c.book, nearby.book)) -
       sameAuthorPenalty(c.book, [best, nearby]),
@@ -315,22 +317,25 @@ export function recommend(books: Book[], answers: Answers, options: RecommendOpt
     ...favoriteMatches.map((b) => b.book_id),
   ]);
 
-  const pool: Candidate[] = books
+  const all: Candidate[] = books
     .filter((book) => !excluded.has(book.book_id) && passesRequired(book, answers))
-    .map((book) => ({ book, detail: scoreBook(book, answers, favoriteMatches) }))
-    .filter((c) => isRelevant(c.detail));
+    .map((book) => ({ book, detail: scoreBook(book, answers, favoriteMatches) }));
+  const relevant = new Set(all.filter((c) => isRelevant(c.detail)));
   // 同点の本は「くじ」で並べ、登録順が早い本ばかりが選ばれないようにする
   const random = seededRandom(options.seed ?? 1);
-  const tieBreak = new Map(pool.map((c) => [c.book.book_id, random()]));
-  // 表示回数の少ない本を先に。同じ回数なら点数の高い順
+  const tieBreak = new Map(all.map((c) => [c.book.book_id, random()]));
   const counts = options.shownCounts ?? {};
   const shownCount = (c: Candidate) => counts[c.book.book_id] ?? 0;
-  pool.sort(
-    (a, b) =>
-      shownCount(a) - shownCount(b) ||
-      b.detail.score - a.detail.score ||
-      tieBreak.get(a.book.book_id)! - tieBreak.get(b.book.book_id)!,
-  );
+  // 選ぶ順番：①表示回数の少ない本 ②気分か興味が合う本 ③点数の高い本
+  // 気分・興味の合う本を出し切ったら、同じ回数のうちは種類と読みやすさだけ合う本にも広げる
+  const penalty = (c: Candidate) =>
+    SHOWN_COUNT_WEIGHT * shownCount(c) + (relevant.has(c) ? 0 : NOT_RELEVANT_WEIGHT);
+  const byPriority = (a: Candidate, b: Candidate) =>
+    penalty(a) - penalty(b) ||
+    b.detail.score - a.detail.score ||
+    tieBreak.get(a.book.book_id)! - tieBreak.get(b.book.book_id)!;
+  // 3冊そろうかは、これまでどおり気分か興味の合う本の数で決める
+  const pool = relevant.size >= 3 ? all.sort(byPriority) : [...relevant].sort(byPriority);
 
   const toRecommendation = ([c, role]: [Candidate, RecommendationRole], firstBook?: Book): Recommendation => ({
     book: c.book,
@@ -350,7 +355,7 @@ export function recommend(books: Book[], answers: Answers, options: RecommendOpt
     };
   }
 
-  const picked = selectThree(pool, shownCount);
+  const picked = selectThree(pool, penalty);
   const firstBook = picked[0][0].book;
   return {
     status: 'ok',

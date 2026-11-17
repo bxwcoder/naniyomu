@@ -324,4 +324,13 @@ describe('表示回数の少ない本から出す', () => {
     const second = recommend(books, baseAnswers, { seed: 1, shownCounts: counts }).recommendations;
     expect(second.some((r) => first.includes(r.book.book_id))).toBe(false);
   });
+
+  it('気分か興味の合う本を出し切ったら、同じ本をくり返す前に、種類と読みやすさだけ合う本を出す', () => {
+    const counts = Object.fromEntries(candidates.map((b) => [b.book_id, 1]));
+    const extra = books.filter((b) => passesRequired(b, baseAnswers) && !isRelevant(scoreBook(b, baseAnswers)));
+    const recs = recommend(books, baseAnswers, { seed: 1, shownCounts: counts }).recommendations;
+    if (extra.length >= 3) {
+      expect(recs.every((r) => !candidates.some((b) => b.book_id === r.book.book_id))).toBe(true);
+    }
+  });
 });
