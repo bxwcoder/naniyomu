@@ -5,6 +5,7 @@
 import { useRef, useState, type KeyboardEvent, type TouchEvent } from 'react';
 import { BookCard, ROLE_LABELS } from '../components/BookCard.tsx';
 import { AvailabilityLine, calilEnabled, useAvailability } from '../components/LibraryAvailability.tsx';
+import { ShareBox } from '../components/ShareBox.tsx';
 import { paths } from '../hooks/useHashRoute.ts';
 import { checkableIsbn } from '../logic/calil.ts';
 import type { RecommendResult, RelaxSuggestion } from '../types.ts';
@@ -178,6 +179,8 @@ export function ResultsPage({ result, onApplySuggestion, onRefresh, onRestart, p
           質問に答え直す
         </button>
       </div>
+
+      {!insufficient && count > 0 && <ShareBox books={recommendations.map((r) => r.book)} />}
     </>
   );
 }

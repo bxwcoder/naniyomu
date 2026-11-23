@@ -819,3 +819,22 @@ main:focus { outline: none; }
 .result-library { margin: 8px 0 0; }
 .result-library .avail-filter { margin-top: 0; }
 .book-card .avail { margin: 6px 0; }
+
+/* ---- おすすめを人に送る ---- */
+.share-box { margin-top: 10px; }
+.share-box__panel { margin-top: 8px; }
+.share-box__buttons { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; }
+.share-btn { text-decoration: none; display: flex; align-items: center; justify-content: center; }
+.share-btn--line { background: #06c755; border-color: #06c755; color: #fff; }
+.share-box__preview {
+  margin: 8px 0 0;
+  padding: 8px 10px;
+  background: var(--surface-muted);
+  border-radius: var(--radius-sm);
+  font: inherit;
+  font-size: 0.78rem;
+  line-height: 1.5;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  color: var(--text-muted);
+}
