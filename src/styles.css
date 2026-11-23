@@ -550,6 +550,8 @@ main:focus { outline: none; }
 .avail-panel__title { font-size: 0.95rem; margin: 0 0 6px; }
 .avail-panel__current { font-weight: 700; margin: 0 0 8px; }
 .avail-panel__credit { margin: 8px 0 0; }
+.avail-filter { display: flex; align-items: center; gap: 8px; min-height: 44px; margin-top: 6px; font-size: 0.9rem; cursor: pointer; }
+.avail-filter input { width: 20px; height: 20px; accent-color: var(--accent); }
 .avail { font-size: 0.85rem; margin: 0 0 8px; line-height: 1.5; }
 .avail a { color: inherit; }
 .avail__label { font-weight: 700; }

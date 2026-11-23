@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { BookCover } from '../components/BookCover.tsx';
 import { AvailabilityLine, calilEnabled, LibraryPicker, useAvailability } from '../components/LibraryAvailability.tsx';
 import { paths } from '../hooks/useHashRoute.ts';
-import { checkableIsbn } from '../logic/calil.ts';
+import { checkableIsbn, summarize } from '../logic/calil.ts';
 import { calilUrl } from '../logic/library.ts';
 import { useLibrary, type HistoryEntry } from '../state/library.tsx';
 import type { Book } from '../types.ts';
@@ -35,6 +35,20 @@ export function ShelfPage({ tab, books }: Props) {
     showAvailability ? shownBooks.map(checkableIsbn).filter((i): i is string => i !== null) : [],
   );
   const [picking, setPicking] = useState(false);
+
+  // 「借りられる本だけ」の絞り込み（この端末で覚えておく）
+  const [availableOnly, setAvailableOnlyState] = useState(() => readFlag(AVAILABLE_ONLY_KEY));
+  const setAvailableOnly = (v: boolean) => {
+    writeFlag(AVAILABLE_ONLY_KEY, v);
+    setAvailableOnlyState(v);
+  };
+  const filtering = showAvailability && !!avail.setting && !picking && availableOnly;
+  const isAvailable = (book: Book) => {
+    const isbn = checkableIsbn(book);
+    return isbn !== null && summarize(avail.results[isbn]).kind === 'available';
+  };
+  const visibleList = filtering ? list.filter(isAvailable) : list;
+  const availableCount = shownBooks.filter(isAvailable).length;
 
   return (
     <>
@@ -71,6 +85,11 @@ export function ShelfPage({ tab, books }: Props) {
                   図書館を変える
                 </button>
               </div>
+              <label className="avail-filter">
+                <input type="checkbox" checked={availableOnly} onChange={(e) => setAvailableOnly(e.target.checked)} />
+                今借りられる本（貸出可）だけ表示
+                <span className="muted small">（{availableCount}冊）</span>
+              </label>
               {avail.error && <p className="notice notice--error">{avail.error}</p>}
               <p className="muted small avail-panel__credit">
                 貸出状況：
@@ -99,6 +118,7 @@ export function ShelfPage({ tab, books }: Props) {
       {tab === 'history' && (
         <HistoryList
           books={books}
+          filter={filtering ? isAvailable : undefined}
           availability={(book) =>
             showAvailability && avail.setting && !picking ? (
               <AvailabilityLine isbn={checkableIsbn(book)} systemid={avail.setting.systemid} results={avail.results} />
@@ -118,9 +138,11 @@ export function ShelfPage({ tab, books }: Props) {
             おすすめ本を探す
           </a>
         </div>
-      ) : tab === 'history' ? null : (
+      ) : tab === 'history' ? null : visibleList.length === 0 ? (
+        <FilteredEmpty running={avail.running} onShowAll={() => setAvailableOnly(false)} />
+      ) : (
         <ul className="stack shelf-list">
-          {list.map((book) => (
+          {visibleList.map((book) => (
             <li key={book.book_id} className="card shelf-item">
               <BookCover book={book} />
               <div className="shelf-item__body">
@@ -192,8 +214,11 @@ const FROM_LABEL: Record<HistoryEntry['from'], string> = {
 function HistoryList({
   books,
   availability,
+  filter,
 }: {
   books: Book[];
+  /** 「借りられる本だけ」のときの絞り込み */
+  filter?: (book: Book) => boolean;
   /** 本ごとの図書館の貸出状況（図書館を選んでいなければ null） */
   availability: (book: Book) => React.ReactNode;
 }) {
@@ -209,12 +234,14 @@ function HistoryList({
       </div>
     );
   }
+  const visible = filter ? entries.filter((e) => filter(e.book)) : entries;
+  if (visible.length === 0) return <FilteredEmpty running={false} />;
 
   return (
     <>
       <p className="muted small">お気に入りや読んだ本から外した本です（新しい順・{entries.length}冊）。</p>
       <ul className="stack shelf-list">
-        {entries.map(({ h, book }) => {
+        {visible.map(({ h, book }) => {
           // もう一度一覧に入れ直したかどうか（片方だけ戻した場合などに表示を変える）
           const back = h.from === 'favorites' ? lib.isFavorite(book.book_id) : lib.isRead(book.book_id);
           return (
@@ -281,4 +308,40 @@ function HistoryList({
       </div>
     </>
   );
+}
+
+/** 「借りられる本だけ」で1冊もないとき */
+function FilteredEmpty({ running, onShowAll }: { running: boolean; onShowAll?: () => void }) {
+  return (
+    <div className="empty">
+      <p>
+        {running
+          ? '貸出状況を確認しています。借りられる本が見つかりしだい、ここに出ます。'
+          : '今借りられる本（貸出可）はありません。上のチェックを外すと、全部の本を表示します。'}
+      </p>
+      {onShowAll && !running && (
+        <button type="button" className="btn" onClick={onShowAll}>
+          全部の本を表示する
+        </button>
+      )}
+    </div>
+  );
+}
+
+const AVAILABLE_ONLY_KEY = 'naniyomu.availableOnly.v1';
+
+/** 画面の表示の好み（保存できない環境では、毎回はじめの状態にもどる） */
+function readFlag(key: string): boolean {
+  try {
+    return window.localStorage.getItem(key) === '1';
+  } catch {
+    return false;
+  }
+}
+function writeFlag(key: string, value: boolean): void {
+  try {
+    window.localStorage.setItem(key, value ? '1' : '0');
+  } catch {
+    // 保存できなくても続ける
+  }
 }
