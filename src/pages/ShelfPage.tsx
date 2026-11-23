@@ -2,6 +2,7 @@
 
 import { BookCover } from '../components/BookCover.tsx';
 import { paths } from '../hooks/useHashRoute.ts';
+import { calilUrl } from '../logic/library.ts';
 import { useLibrary } from '../state/library.tsx';
 import type { Book } from '../types.ts';
 
@@ -56,6 +57,17 @@ export function ShelfPage({ tab, books }: Props) {
                   <a className="btn btn--small" href={paths.book(book.book_id)}>
                     詳しく見る
                   </a>
+                  {tab === 'favorites' && (
+                    <a
+                      className="btn btn--small"
+                      href={calilUrl(book)}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      aria-label={`『${book.title}』を図書館で探す（カーリル・外部サイト）`}
+                    >
+                      図書館で探す
+                    </a>
+                  )}
                   {tab === 'favorites' ? (
                     <button
                       type="button"

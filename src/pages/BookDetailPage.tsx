@@ -7,6 +7,7 @@ import { AFFILIATE } from '../config/affiliate.ts';
 import { DIFFICULTIES, GENRES, LENGTHS } from '../data/options.ts';
 import { REACTION_LABELS, useLibrary, type ReactionType } from '../state/library.tsx';
 import { AMAZON_DISCLOSURE, purchaseLinks } from '../logic/affiliate.ts';
+import { calilUrl } from '../logic/library.ts';
 import type { Book } from '../types.ts';
 
 const NOT_REGISTERED = '情報未登録';
@@ -73,6 +74,19 @@ export function BookDetailPage({ book, highlights }: Props) {
           {book.recommendation_reasons.join('／')}
         </p>
       )}
+
+      <section className="library-box" aria-labelledby="library-title">
+        <h2 id="library-title" className="library-box__title">
+          図書館で借りる
+        </h2>
+        <a className="btn btn--small btn--block" href={calilUrl(book)} target="_blank" rel="noopener noreferrer">
+          図書館で探す（カーリル）
+        </a>
+        <p className="library-box__note">
+          {'全国の図書館の蔵書をまとめて検索できる「カーリル」で、この本がある図書館と貸出状況を調べられます。' +
+            'よく使う図書館をカーリルで登録しておくと便利です。'}
+        </p>
+      </section>
 
       {links.length > 0 && (
         <section className="buy-box" aria-labelledby="buy-title">
