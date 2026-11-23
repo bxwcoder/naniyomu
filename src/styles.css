@@ -769,3 +769,48 @@ main:focus { outline: none; }
 .settings-current { font-weight: 700; margin: 0 0 8px; }
 .settings-about { margin: 0; padding-left: 1.2em; line-height: 1.6; }
 .settings-about li { margin-bottom: 4px; }
+
+/* ---- 読書メモ ---- */
+.note-box { border-top: 1px solid var(--border); padding: 8px 0; }
+.note-box__title { font-size: 0.9rem; margin: 0 0 6px; }
+.note-field { display: grid; grid-template-columns: 6.5em 1fr; align-items: center; gap: 8px; margin-bottom: 8px; font-size: 0.88rem; }
+.note-field--memo { grid-template-columns: 1fr; }
+.note-field input[type='date'],
+.note-field textarea {
+  min-height: 44px;
+  padding: 6px 10px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  color: var(--text);
+  font: inherit;
+  box-sizing: border-box;
+  width: 100%;
+}
+.star-input { display: flex; gap: 2px; }
+.star-input__btn {
+  min-width: 44px;
+  min-height: 44px;
+  border: none;
+  background: transparent;
+  font-size: 1.6rem;
+  line-height: 1;
+  color: var(--border);
+  cursor: pointer;
+  padding: 0;
+}
+.star-input__btn.is-on { color: var(--warm); }
+.note-actions { display: flex; align-items: center; gap: 10px; }
+.stars { color: var(--warm); letter-spacing: 1px; }
+.stars__off { color: var(--border); }
+.note-summary { margin: 0 0 8px; font-size: 0.85rem; }
+.note-summary__line { margin: 0 0 2px; color: var(--text-muted); }
+.note-summary__memo {
+  margin: 0;
+  color: var(--text);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  overflow-wrap: anywhere;
+}

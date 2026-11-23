@@ -81,11 +81,14 @@ export function mergeLibraries(current: LibraryState, incoming: LibraryState): L
     const prev = byKey.get(key);
     if (!prev || h.at > prev.at) byKey.set(key, h);
   }
+  // 読書メモ：今の記録にある内容を優先し、空いているところをバックアップで埋める
+  const notes = { ...incoming.notes };
+  for (const [id, n] of Object.entries(current.notes)) notes[id] = { ...incoming.notes[id], ...n };
   const history = [...byKey.values()]
     .filter((h) => !(h.from === 'favorites' ? favorites : read).includes(h.bookId))
     .sort((a, b) => b.at - a.at)
     .slice(0, HISTORY_LIMIT);
-  return { favorites, read, reactions, history };
+  return { favorites, read, reactions, history, notes };
 }
 
 /** 確認画面に出す冊数 */

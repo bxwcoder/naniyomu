@@ -27,6 +27,19 @@ export interface HistoryEntry {
   at: number;
 }
 
+/** 読んだ本の記録（読書メモ） */
+export interface ReadingNote {
+  /** 読んだ日（例：「2026-11-23」） */
+  readAt?: string;
+  /** 評価（★1〜5） */
+  rating?: number;
+  /** ひとことメモ */
+  memo?: string;
+}
+
+/** メモの文字数の上限 */
+export const MEMO_MAX = 500;
+
 export interface LibraryState {
   /** お気に入りに登録した本のID（登録した順） */
   favorites: string[];
@@ -36,9 +49,22 @@ export interface LibraryState {
   reactions: Record<string, ReactionType[]>;
   /** お気に入り・読んだ本から外した本（新しい順） */
   history: HistoryEntry[];
+  /** 読んだ本の記録（読んだ日・評価・メモ）。読んだ本から外しても残す */
+  notes: Record<string, ReadingNote>;
 }
 
-export const emptyLibrary: LibraryState = { favorites: [], read: [], reactions: {}, history: [] };
+export const emptyLibrary: LibraryState = { favorites: [], read: [], reactions: {}, history: [], notes: {} };
+
+/** 今日の日付（例：「2026-11-23」。この端末の時計で） */
+export function todayString(now = new Date()): string {
+  const p = (n: number) => String(n).padStart(2, '0');
+  return `${now.getFullYear()}-${p(now.getMonth() + 1)}-${p(now.getDate())}`;
+}
+
+/** メモが空か（何も書いていなければ保存しない） */
+export function isEmptyNote(n: ReadingNote | undefined): boolean {
+  return !n || (!n.readAt && !n.rating && !n.memo?.trim());
+}
 
 /** 履歴に残す件数の上限（古いものから消える） */
 export const HISTORY_LIMIT = 300;
@@ -50,7 +76,8 @@ type Action =
   | { type: 'unmarkRead'; bookId: string }
   | { type: 'markRead'; bookId: string }
   | { type: 'removeHistory'; bookId: string; from: HistoryEntry['from'] }
-  | { type: 'clearHistory' };
+  | { type: 'clearHistory' }
+  | { type: 'setNote'; bookId: string; note: ReadingNote };
 
 const without = (list: string[], id: string) => list.filter((x) => x !== id);
 
@@ -79,7 +106,15 @@ export function libraryReducer(state: LibraryState, action: Action): LibraryStat
   // 別のタブからの読み込み（replace）は、そのまま使う
   if (action.type === 'replace' || next === state) return next;
   const history = updateHistory(state, next, Date.now());
-  return history === next.history ? next : { ...next, history };
+  let result = history === next.history ? next : { ...next, history };
+  // 新しく読んだ本に入った本は、読んだ日を今日にしておく（あとで変えられる）
+  const newlyRead = result.read.filter((id) => !state.read.includes(id) && !result.notes[id]?.readAt);
+  if (newlyRead.length > 0) {
+    const notes = { ...result.notes };
+    for (const id of newlyRead) notes[id] = { ...notes[id], readAt: todayString() };
+    result = { ...result, notes };
+  }
+  return result;
 }
 
 function applyAction(state: LibraryState, action: Action): LibraryState {
@@ -124,6 +159,17 @@ function applyAction(state: LibraryState, action: Action): LibraryState {
       };
     case 'clearHistory':
       return { ...state, history: [] };
+    case 'setNote': {
+      const notes = { ...state.notes };
+      const note: ReadingNote = {};
+      if (action.note.readAt) note.readAt = action.note.readAt;
+      if (action.note.rating) note.rating = action.note.rating;
+      const memo = action.note.memo?.slice(0, MEMO_MAX);
+      if (memo?.trim()) note.memo = memo;
+      if (isEmptyNote(note)) delete notes[action.bookId];
+      else notes[action.bookId] = note;
+      return { ...state, notes };
+    }
     case 'unmarkRead': {
       const current = state.reactions[action.bookId] ?? [];
       return {
@@ -161,6 +207,7 @@ interface LibraryApi {
   markRead: (bookId: string) => void;
   removeHistory: (bookId: string, from: HistoryEntry['from']) => void;
   clearHistory: () => void;
+  setNote: (bookId: string, note: ReadingNote) => void;
 }
 
 const LibraryContext = createContext<LibraryApi | null>(null);
@@ -201,6 +248,7 @@ export function LibraryProvider({ children }: { children: ReactNode }) {
       markRead: (bookId) => dispatch({ type: 'markRead', bookId }),
       removeHistory: (bookId, from) => dispatch({ type: 'removeHistory', bookId, from }),
       clearHistory: () => dispatch({ type: 'clearHistory' }),
+      setNote: (bookId, note) => dispatch({ type: 'setNote', bookId, note }),
     }),
     [state],
   );

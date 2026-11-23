@@ -6,7 +6,15 @@
 
 import { MOODS, THEMES, NO_THEME, DIFFICULTY_CHOICES, LENGTH_CHOICES, GENRE_CHOICES } from '../data/options.ts';
 import type { Answers, Book, Recommendation, RecommendResult, RecommendationRole, RelaxSuggestion } from '../types.ts';
-import { emptyLibrary, HISTORY_LIMIT, type HistoryEntry, type LibraryState, type ReactionType } from './library.tsx';
+import {
+  emptyLibrary,
+  HISTORY_LIMIT,
+  MEMO_MAX,
+  type HistoryEntry,
+  type LibraryState,
+  type ReactionType,
+  type ReadingNote,
+} from './library.tsx';
 
 /** 保存に使う名前。データの形を変えたときは、末尾の数字を上げる */
 export const STORAGE_KEYS = {
@@ -156,7 +164,24 @@ export function parseLibrary(raw: unknown): LibraryState {
     read: isStringArray(r.read) ? [...new Set(r.read)] : [],
     reactions,
     history: history.slice(0, HISTORY_LIMIT),
+    notes: parseNotes(r.notes),
   };
+}
+
+/** 読書メモ（前の版で保存したデータにはないので、なければ空） */
+function parseNotes(raw: unknown): Record<string, ReadingNote> {
+  const notes: Record<string, ReadingNote> = {};
+  if (typeof raw !== 'object' || raw === null) return notes;
+  for (const [id, v] of Object.entries(raw as Record<string, unknown>)) {
+    if (typeof v !== 'object' || v === null) continue;
+    const n = v as Record<string, unknown>;
+    const note: ReadingNote = {};
+    if (typeof n.readAt === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(n.readAt)) note.readAt = n.readAt;
+    if (Number.isInteger(n.rating) && (n.rating as number) >= 1 && (n.rating as number) <= 5) note.rating = n.rating as number;
+    if (typeof n.memo === 'string' && n.memo.trim()) note.memo = n.memo.slice(0, MEMO_MAX);
+    if (Object.keys(note).length > 0) notes[id] = note;
+  }
+  return notes;
 }
 
 export function loadLibrary(store: KeyValueStore | null): LibraryState {

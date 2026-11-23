@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { BookCover } from '../components/BookCover.tsx';
+import { NoteSummary } from '../components/ReadingNote.tsx';
 import { AvailabilityLine, calilEnabled, LibraryPicker, useAvailability } from '../components/LibraryAvailability.tsx';
 import { paths } from '../hooks/useHashRoute.ts';
 import { checkableIsbn, summarize } from '../logic/calil.ts';
@@ -150,6 +151,7 @@ export function ShelfPage({ tab, books }: Props) {
                 <p className="muted small" style={{ margin: '0 0 8px' }}>
                   {book.author}
                 </p>
+                {tab === 'read' && <NoteSummary note={lib.state.notes[book.book_id]} />}
                 {showAvailability && avail.setting && !picking && (
                   <AvailabilityLine isbn={checkableIsbn(book)} systemid={avail.setting.systemid} results={avail.results} />
                 )}

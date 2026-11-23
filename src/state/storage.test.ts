@@ -72,7 +72,7 @@ describe('お気に入り・既読・反応の保存', () => {
     expect(loadLibrary(memoryStore({ [STORAGE_KEYS.library]: '{壊れた文字' }))).toEqual(emptyLibrary);
     expect(
       parseLibrary({ favorites: ['a', 1, 'a'], read: 'x', reactions: { b: ['interested', 'unknown'], c: 'bad' } }),
-    ).toEqual({ favorites: [], read: [], reactions: { b: ['interested'] }, history: [] });
+    ).toEqual({ favorites: [], read: [], reactions: { b: ['interested'] }, history: [], notes: {} });
     expect(parseLibrary({ favorites: ['a', 'a'] }).favorites).toEqual(['a']);
   });
 
@@ -229,5 +229,29 @@ describe('外した本の履歴', () => {
     expect(parseLibrary({ favorites: [] }).history).toEqual([]);
     const h = [{ bookId: 'a', from: 'read', at: 1 }, { bookId: 1, from: 'x' }];
     expect(parseLibrary({ history: h }).history).toEqual([{ bookId: 'a', from: 'read', at: 1 }]);
+  });
+});
+
+describe('読んだ本の記録（読んだ日・評価・メモ）', () => {
+  it('読んだ本に入れると、読んだ日が今日になる', () => {
+    const s = libraryReducer(emptyLibrary, { type: 'toggleReaction', bookId: 'a', reaction: 'already_read' });
+    expect(s.notes.a.readAt).toMatch(/^\d{4}-\d{2}-\d{2}$/);
+  });
+
+  it('読んだ日・評価・メモを保存でき、全部空にすると消える。読んだ本から外してもメモは残る', () => {
+    let s = libraryReducer(emptyLibrary, { type: 'markRead', bookId: 'a' });
+    s = libraryReducer(s, { type: 'setNote', bookId: 'a', note: { readAt: '2026-01-02', rating: 5, memo: '泣いた' } });
+    expect(s.notes.a).toEqual({ readAt: '2026-01-02', rating: 5, memo: '泣いた' });
+    s = libraryReducer(s, { type: 'unmarkRead', bookId: 'a' });
+    expect(s.notes.a.memo).toBe('泣いた');
+    s = libraryReducer(s, { type: 'setNote', bookId: 'a', note: { memo: '  ' } });
+    expect(s.notes.a).toBeUndefined();
+  });
+
+  it('保存したメモを読み込める。おかしな値は読まない', () => {
+    const notes = parseLibrary({
+      notes: { a: { readAt: '2026-11-23', rating: 3, memo: 'よかった' }, b: { readAt: '昨日', rating: 9 }, c: 'x' },
+    }).notes;
+    expect(notes).toEqual({ a: { readAt: '2026-11-23', rating: 3, memo: 'よかった' } });
   });
 });

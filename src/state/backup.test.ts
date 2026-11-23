@@ -7,6 +7,7 @@ const library: LibraryState = {
   read: ['c'],
   reactions: { c: ['already_read'] },
   history: [{ bookId: 'd', from: 'favorites', at: 100 }],
+  notes: { c: { readAt: '2026-11-01', rating: 4 } },
 };
 const calil = { systemid: 'Tokyo_Setagaya', systemname: '東京都世田谷区', pref: '東京都', city: '世田谷区' };
 
@@ -42,6 +43,7 @@ describe('今の記録とバックアップを合わせる', () => {
       read: [],
       reactions: { c: ['finished'] },
       history: [{ bookId: 'a', from: 'favorites', at: 50 }],
+      notes: { c: { memo: '面白かった' } },
     };
     const merged = mergeLibraries(current, library);
     expect(merged.favorites).toEqual(['b', 'x', 'a']);
@@ -49,5 +51,7 @@ describe('今の記録とバックアップを合わせる', () => {
     expect(merged.reactions.c).toEqual(['finished', 'already_read']);
     // a はお気に入りに入ったので履歴から消え、d だけ残る
     expect(merged.history).toEqual([{ bookId: 'd', from: 'favorites', at: 100 }]);
+    // 読書メモは、今のメモを残しつつ、空いているところをバックアップで埋める
+    expect(merged.notes.c).toEqual({ readAt: '2026-11-01', rating: 4, memo: '面白かった' });
   });
 });

@@ -3,6 +3,7 @@
 import { basicInfoText, SHOW_CURATED_TEXT } from '../components/bookInfo.ts';
 import { BookCover } from '../components/BookCover.tsx';
 import { HighlightList } from '../components/HighlightList.tsx';
+import { ReadingNoteEditor } from '../components/ReadingNote.tsx';
 import { AFFILIATE } from '../config/affiliate.ts';
 import { DIFFICULTIES, GENRES, LENGTHS } from '../data/options.ts';
 import { REACTION_LABELS, useLibrary, type ReactionType } from '../state/library.tsx';
@@ -149,6 +150,8 @@ export function BookDetailPage({ book, highlights }: Props) {
           </p>
         )}
       </section>
+
+      {(read || lib.state.notes[book.book_id]) && <ReadingNoteEditor bookId={book.book_id} />}
 
       <p className="detail-foot">
         {/* 購入ボタンがあるときは、ここには購入先を書かない */}
