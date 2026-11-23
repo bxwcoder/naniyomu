@@ -169,6 +169,9 @@ export function ShelfPage({ tab, books }: Props) {
           ))}
         </ul>
       )}
+      <p className="shelf-backup">
+        <a href={paths.backup}>記録のバックアップ・引っ越し</a>
+      </p>
     </>
   );
 }

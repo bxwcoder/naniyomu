@@ -712,3 +712,25 @@ main:focus { outline: none; }
   line-height: 1.5;
   text-align: center;
 }
+
+/* ---- 記録のバックアップ ---- */
+.backup-box { padding: 12px; margin-bottom: 12px; }
+.backup-box h2 { font-size: 1rem; margin: 0 0 8px; }
+.backup-box textarea {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 8px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  color: var(--text);
+  font: inherit;
+  font-size: 0.8rem;
+  margin-bottom: 8px;
+  word-break: break-all;
+}
+.backup-code { margin-top: 10px; }
+.backup-file { position: relative; display: flex; align-items: center; justify-content: center; }
+.backup-file input { position: absolute; inset: 0; opacity: 0; cursor: pointer; }
+.backup-confirm { margin-top: 10px; }
+.shelf-backup { text-align: center; font-size: 0.85rem; margin: 16px 0 0; }

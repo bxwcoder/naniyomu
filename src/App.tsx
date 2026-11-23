@@ -8,6 +8,7 @@ import { QUESTIONS } from './data/options.ts';
 import { loadBooks } from './data/loadBooks.ts';
 import { navigate, paths, useHashRoute, type Route } from './hooks/useHashRoute.ts';
 import { answersKey, recommend } from './logic/recommend.ts';
+import { BackupPage } from './pages/BackupPage.tsx';
 import { BookDetailPage } from './pages/BookDetailPage.tsx';
 import { QuestionPage, type QuestionKey } from './pages/QuestionPage.tsx';
 import { ResultsPage } from './pages/ResultsPage.tsx';
@@ -50,6 +51,8 @@ function backTarget(route: Route): string | undefined {
       return paths.results;
     case 'shelf':
       return paths.top;
+    case 'backup':
+      return paths.saved;
   }
 }
 
@@ -226,6 +229,10 @@ function AppInner() {
 
       case 'shelf':
         content = <ShelfPage tab={route.tab} books={books} />;
+        break;
+
+      case 'backup':
+        content = <BackupPage />;
         break;
     }
   }
