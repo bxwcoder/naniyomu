@@ -814,3 +814,8 @@ main:focus { outline: none; }
   overflow: hidden;
   overflow-wrap: anywhere;
 }
+
+/* ---- おすすめ結果の図書館 ---- */
+.result-library { margin: 8px 0 0; }
+.result-library .avail-filter { margin-top: 0; }
+.book-card .avail { margin: 6px 0; }

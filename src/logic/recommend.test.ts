@@ -16,7 +16,7 @@ import {
 } from '../data/options.ts';
 import type { Answers, Book } from '../types.ts';
 import { matchFavoriteBooks } from './matchFavorite.ts';
-import { isRelevant, passesRequired, recommend, scoreBook } from './recommend.ts';
+import { isRelevant, passesRequired, recommend, scoreBook, upcomingCandidates } from './recommend.ts';
 import { validateBooks } from './validateBooks.ts';
 
 const { validBooks: books, errors } = validateBooks(booksData);
@@ -332,5 +332,24 @@ describe('表示回数の少ない本から出す', () => {
     if (extra.length >= 3) {
       expect(recs.every((r) => !candidates.some((b) => b.book_id === r.book.book_id))).toBe(true);
     }
+  });
+});
+
+describe('借りられる本を優先する', () => {
+  it('優先する本があれば、表示回数が同じうちはそれを先に選ぶ', () => {
+    const upcoming = upcomingCandidates(books, baseAnswers, { seed: 1 }, 20);
+    expect(upcoming.length).toBeGreaterThan(5);
+    // 上位20冊のうち、下の方の3冊だけ「借りられる」ことにする
+    const prefer = new Set(upcoming.slice(-3).map((b) => b.book_id));
+    const recs = recommend(books, baseAnswers, { seed: 1, preferIds: prefer }).recommendations;
+    const relevantPreferred = upcoming.slice(-3).filter((b) => isRelevant(scoreBook(b, baseAnswers)));
+    // 気分・興味の合う「借りられる本」は、ほかの本より先に選ばれる
+    for (const b of relevantPreferred) expect(recs.map((r) => r.book.book_id)).toContain(b.book_id);
+  });
+
+  it('優先する本を渡さなければ、これまでと同じ結果', () => {
+    const a = recommend(books, baseAnswers, { seed: 3 }).recommendations.map((r) => r.book.book_id);
+    const b = recommend(books, baseAnswers, { seed: 3, preferIds: undefined }).recommendations.map((r) => r.book.book_id);
+    expect(a).toEqual(b);
   });
 });

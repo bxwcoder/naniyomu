@@ -46,6 +46,11 @@ export interface RecommendOptions {
    * 渡さなければ、全部 0 回として点数順に選ぶ。
    */
   shownCounts?: Readonly<Record<string, number>>;
+  /**
+   * 優先する本（例：選んだ図書館で今借りられる本）。
+   * 表示回数と「気分・興味が合うか」が同じなら、この本を先に選ぶ。
+   */
+  preferIds?: ReadonlySet<string>;
 }
 
 /** 回答の組み合わせを表す文字列（表示回数を組み合わせごとに数えるための名前） */
@@ -57,6 +62,8 @@ export function answersKey(answers: Answers): string {
 const SHOWN_COUNT_WEIGHT = 1_000_000;
 /** 気分も興味も合わない本は、同じ回数のうちでは後回し（点数の差より優先） */
 const NOT_RELEVANT_WEIGHT = 1_000;
+/** 優先する本（借りられる本など）でないときの後回しの度合い（点数の差より優先） */
+const NOT_PREFERRED_WEIGHT = 100;
 
 /** 番号から、毎回同じ並びの乱数を作る（mulberry32 という簡単な方法） */
 function seededRandom(seed: number): () => number {
@@ -309,7 +316,8 @@ function buildSuggestions(books: Book[], answers: Answers, excluded: Set<string>
 
 // ---- まとめ ----
 
-export function recommend(books: Book[], answers: Answers, options: RecommendOptions = {}): RecommendResult {
+/** 候補の本を、選ぶ順番に並べる（recommend と、借りられるか調べる本を決めるときに使う） */
+function rankPool(books: Book[], answers: Answers, options: RecommendOptions) {
   const favoriteMatches = matchFavoriteBooks(answers.favoriteText, books);
   // 好きだった本として挙げられた本は、もう読んでいるのでおすすめから外す
   const excluded = new Set<string>([
@@ -326,16 +334,31 @@ export function recommend(books: Book[], answers: Answers, options: RecommendOpt
   const tieBreak = new Map(all.map((c) => [c.book.book_id, random()]));
   const counts = options.shownCounts ?? {};
   const shownCount = (c: Candidate) => counts[c.book.book_id] ?? 0;
-  // 選ぶ順番：①表示回数の少ない本 ②気分か興味が合う本 ③点数の高い本
+  const preferred = (c: Candidate) => !options.preferIds || options.preferIds.has(c.book.book_id);
+  // 選ぶ順番：①表示回数の少ない本 ②気分か興味が合う本 ③優先する本（借りられる本など） ④点数の高い本
   // 気分・興味の合う本を出し切ったら、同じ回数のうちは種類と読みやすさだけ合う本にも広げる
   const penalty = (c: Candidate) =>
-    SHOWN_COUNT_WEIGHT * shownCount(c) + (relevant.has(c) ? 0 : NOT_RELEVANT_WEIGHT);
+    SHOWN_COUNT_WEIGHT * shownCount(c) +
+    (relevant.has(c) ? 0 : NOT_RELEVANT_WEIGHT) +
+    (preferred(c) ? 0 : NOT_PREFERRED_WEIGHT);
   const byPriority = (a: Candidate, b: Candidate) =>
     penalty(a) - penalty(b) ||
     b.detail.score - a.detail.score ||
     tieBreak.get(a.book.book_id)! - tieBreak.get(b.book.book_id)!;
   // 3冊そろうかは、これまでどおり気分か興味の合う本の数で決める
   const pool = relevant.size >= 3 ? all.sort(byPriority) : [...relevant].sort(byPriority);
+  return { pool, penalty, excluded, favoriteMatches };
+}
+
+/** 次に選ばれそうな本（上位 limit 冊）。図書館で借りられるかを先に調べる本を決めるのに使う */
+export function upcomingCandidates(books: Book[], answers: Answers, options: RecommendOptions = {}, limit = 20): Book[] {
+  return rankPool(books, answers, options)
+    .pool.slice(0, limit)
+    .map((c) => c.book);
+}
+
+export function recommend(books: Book[], answers: Answers, options: RecommendOptions = {}): RecommendResult {
+  const { pool, penalty, excluded, favoriteMatches } = rankPool(books, answers, options);
 
   const toRecommendation = ([c, role]: [Candidate, RecommendationRole], firstBook?: Book): Recommendation => ({
     book: c.book,

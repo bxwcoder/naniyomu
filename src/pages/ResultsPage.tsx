@@ -4,6 +4,9 @@
 
 import { useRef, useState, type KeyboardEvent, type TouchEvent } from 'react';
 import { BookCard, ROLE_LABELS } from '../components/BookCard.tsx';
+import { AvailabilityLine, calilEnabled, useAvailability } from '../components/LibraryAvailability.tsx';
+import { paths } from '../hooks/useHashRoute.ts';
+import { checkableIsbn } from '../logic/calil.ts';
 import type { RecommendResult, RelaxSuggestion } from '../types.ts';
 
 interface Props {
@@ -11,6 +14,9 @@ interface Props {
   onApplySuggestion: (s: RelaxSuggestion) => void;
   onRefresh: () => void;
   onRestart: () => void;
+  /** 「借りられる本を優先」がオンか */
+  preferAvailable: boolean;
+  onTogglePrefer: (value: boolean) => void;
 }
 
 const SUGGESTION_LABELS: Record<RelaxSuggestion['question'], string> = {
@@ -21,8 +27,13 @@ const SUGGESTION_LABELS: Record<RelaxSuggestion['question'], string> = {
 /** 指を横に何px動かしたら「スワイプ」とみなすか */
 const SWIPE_THRESHOLD = 50;
 
-export function ResultsPage({ result, onApplySuggestion, onRefresh, onRestart }: Props) {
+export function ResultsPage({ result, onApplySuggestion, onRefresh, onRestart, preferAvailable, onTogglePrefer }: Props) {
   const { recommendations } = result;
+  // 選んだ図書館での貸出状況（設定で図書館を選んでいるときだけ）
+  const libraryOn = calilEnabled();
+  const avail = useAvailability(
+    libraryOn ? recommendations.map((r) => checkableIsbn(r.book)).filter((i): i is string => i !== null) : [],
+  );
   const insufficient = result.status === 'insufficient';
   const [current, setCurrent] = useState(0);
   const touchStart = useRef<{ x: number; y: number } | null>(null);
@@ -121,8 +132,35 @@ export function ResultsPage({ result, onApplySuggestion, onRefresh, onRestart }:
             onTouchStart={onTouchStart}
             onTouchEnd={onTouchEnd}
           >
-            <BookCard key={shown.book.book_id} rec={shown} />
+            <BookCard
+              key={shown.book.book_id}
+              rec={shown}
+              availability={
+                libraryOn && avail.setting ? (
+                  <AvailabilityLine
+                    isbn={checkableIsbn(shown.book)}
+                    systemid={avail.setting.systemid}
+                    results={avail.results}
+                  />
+                ) : undefined
+              }
+            />
           </div>
+      )}
+
+      {libraryOn && count > 0 && (
+        <div className="result-library">
+          {avail.setting ? (
+            <label className="avail-filter">
+              <input type="checkbox" checked={preferAvailable} onChange={(e) => onTogglePrefer(e.target.checked)} />
+              {avail.setting.systemname}で借りられる本を優先
+            </label>
+          ) : (
+            <p className="muted small">
+              <a href={paths.settings}>設定</a>で図書館を選ぶと、借りられるかが分かり、借りられる本を優先しておすすめできます。
+            </p>
+          )}
+        </div>
       )}
 
       <div className="result-footer">

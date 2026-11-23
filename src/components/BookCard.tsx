@@ -26,9 +26,11 @@ export const ROLE_LABELS: Record<RecommendationRole, string> = {
 
 interface Props {
   rec: Recommendation;
+  /** 選んだ図書館での貸出状況（図書館を選んでいなければ出さない） */
+  availability?: React.ReactNode;
 }
 
-export function BookCard({ rec }: Props) {
+export function BookCard({ rec, availability }: Props) {
   const { book } = rec;
   const lib = useLibrary();
   const fav = lib.isFavorite(book.book_id);
@@ -60,6 +62,8 @@ export function BookCard({ rec }: Props) {
       ) : (
         <p className="book-card__desc book-card__desc--basic">{basicInfoText(book)}</p>
       )}
+
+      {availability}
 
       {/* 1画面に収めるため、カードでは大事な2つ（興味・気分）まで。残りは詳細画面で表示 */}
       <HighlightList items={rec.highlights.slice(0, 2)} />

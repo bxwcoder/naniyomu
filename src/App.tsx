@@ -7,7 +7,8 @@ import { Header } from './components/Header.tsx';
 import { QUESTIONS } from './data/options.ts';
 import { loadBooks } from './data/loadBooks.ts';
 import { navigate, paths, useHashRoute, type Route } from './hooks/useHashRoute.ts';
-import { answersKey, recommend } from './logic/recommend.ts';
+import { answersKey, recommend, upcomingCandidates, type RecommendOptions } from './logic/recommend.ts';
+import { calilEnabled, findAvailableBooks } from './components/LibraryAvailability.tsx';
 import { BackupPage } from './pages/BackupPage.tsx';
 import { BookDetailPage } from './pages/BookDetailPage.tsx';
 import { QuestionPage, type QuestionKey } from './pages/QuestionPage.tsx';
@@ -19,7 +20,11 @@ import { TopPage } from './pages/TopPage.tsx';
 import { excludedBookIds, LibraryProvider, useLibrary } from './state/library.tsx';
 import {
   browserStore,
+  loadCalilSetting,
+  loadFlag,
   loadSessionRaw,
+  saveFlag,
+  STORAGE_KEYS,
   loadShownCounts,
   recordShown,
   restoreSession,
@@ -118,15 +123,35 @@ function AppInner() {
     }
   }, [route, draft, result, restored]);
 
-  const runRecommend = (books: Book[], answers: Answers) => {
+  // 「借りられる本を優先」の設定と、図書館に問い合わせ中かどうか
+  const [preferAvailable, setPreferAvailableState] = useState(() => loadFlag(store, STORAGE_KEYS.preferAvailable));
+  const [checkingLibrary, setCheckingLibrary] = useState(false);
+  const setPreferAvailable = (v: boolean) => {
+    saveFlag(store, STORAGE_KEYS.preferAvailable, v);
+    setPreferAvailableState(v);
+  };
+
+  const runRecommend = async (books: Book[], answers: Answers, prefer = preferAvailable) => {
+    if (checkingLibrary) return;
     // この組み合わせで表示した回数の少ない本から出し、出した本は回数を1増やす
     const key = answersKey(answers);
-    const next = recommend(books, answers, {
+    const options: RecommendOptions = {
       excludeBookIds: excludedBookIds(lib.state),
       // 毎回ちがう「くじ」にして、同じ点数・同じ回数の本がまんべんなく出るようにする
       seed: Math.floor(Math.random() * 2 ** 31),
       shownCounts: loadShownCounts(store, key),
-    });
+    };
+    // 借りられる本を優先：次に選ばれそうな20冊が、選んだ図書館で今借りられるかを先に調べる
+    const calil = loadCalilSetting(store);
+    if (prefer && calilEnabled() && calil) {
+      setCheckingLibrary(true);
+      try {
+        options.preferIds = await findAvailableBooks(calil.systemid, upcomingCandidates(books, answers, options, 20));
+      } finally {
+        setCheckingLibrary(false);
+      }
+    }
+    const next = recommend(books, answers, options);
     recordShown(
       store,
       key,
@@ -136,7 +161,14 @@ function AppInner() {
   };
 
   let content: React.ReactNode;
-  if (load.status === 'loading' || (load.status === 'ready' && !restored)) {
+  if (checkingLibrary) {
+    content = (
+      <div role="status">
+        <div className="spinner" aria-hidden="true" />
+        <p className="empty">図書館で借りられる本を探しています…（10秒ほどかかることがあります）</p>
+      </div>
+    );
+  } else if (load.status === 'loading' || (load.status === 'ready' && !restored)) {
     content = (
       <div role="status">
         <div className="spinner" aria-hidden="true" />
@@ -183,8 +215,7 @@ function AppInner() {
             navigate(paths.question(Math.max(firstUnanswered(answered), 0)));
             return;
           }
-          runRecommend(books, answers);
-          navigate(paths.results);
+          void runRecommend(books, answers).then(() => navigate(paths.results));
         };
         content = (
           <QuestionPage
@@ -210,7 +241,13 @@ function AppInner() {
             <ResultsPage
               key={result.recommendations.map((r) => r.book.book_id).join(',')}
               result={result}
-              onRefresh={() => runRecommend(books, answers)}
+              onRefresh={() => void runRecommend(books, answers)}
+              preferAvailable={preferAvailable}
+              onTogglePrefer={(v) => {
+                setPreferAvailable(v);
+                // オンにしたら、すぐ借りられる本を優先して選び直す
+                if (v) void runRecommend(books, answers, true);
+              }}
               onRestart={() => {
                 setDraft({});
                 navigate(paths.question(0));
@@ -218,7 +255,7 @@ function AppInner() {
               onApplySuggestion={(s: RelaxSuggestion) => {
                 const changed: Answers = { ...answers, [s.question]: 'any' };
                 setDraft(changed);
-                runRecommend(books, changed);
+                void runRecommend(books, changed);
                 window.scrollTo(0, 0);
               }}
             />

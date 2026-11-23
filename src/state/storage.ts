@@ -22,7 +22,26 @@ export const STORAGE_KEYS = {
   session: 'naniyomu.session.v1',
   shown: 'naniyomu.shown.v1',
   calil: 'naniyomu.calil.v1',
+  preferAvailable: 'naniyomu.preferAvailable.v1',
 } as const;
+
+/** オン・オフの設定を読む（保存できない環境では false） */
+export function loadFlag(store: KeyValueStore | null, key: string): boolean {
+  try {
+    return store?.getItem(key) === '1';
+  } catch {
+    return false;
+  }
+}
+
+/** オン・オフの設定を保存する */
+export function saveFlag(store: KeyValueStore | null, key: string, value: boolean): void {
+  try {
+    store?.setItem(key, value ? '1' : '0');
+  } catch {
+    // 保存できなくても続ける
+  }
+}
 
 /** localStorage と同じ使い方ができるもの（テストでは偽物を渡す） */
 export type KeyValueStore = Pick<Storage, 'getItem' | 'setItem'>;

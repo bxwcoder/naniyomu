@@ -5,7 +5,9 @@
 
 import { useEffect, useRef, useState } from 'react';
 import { CALIL_APPKEY } from '../config/calil.ts';
+import type { Book } from '../types.ts';
 import {
+  checkableIsbn,
   calilBookUrl,
   calilLibraryUrl,
   checkAvailability,
@@ -23,6 +25,41 @@ export const calilEnabled = () => CALIL_APPKEY.trim() !== '';
 /** 同じ図書館・同じ本を、画面を行き来するたびに問い合わせないための一時的な保存（10分） */
 const CACHE_MS = 10 * 60 * 1000;
 let cache: { systemid: string; at: number; results: CheckResults } | null = null;
+
+/**
+ * おすすめを選ぶ前に、候補の本が選んだ図書館で今借りられるかを調べる（10分の一時保存も使う）。
+ * 遅い図書館を待ちすぎないよう、timeoutMs までに分かった分だけで決める。
+ * 返すのは「貸出可」の本のID。
+ */
+export async function findAvailableBooks(systemid: string, books: Book[], timeoutMs = 12000): Promise<Set<string>> {
+  const fresh = cache && cache.systemid === systemid && Date.now() - cache.at < CACHE_MS ? cache : null;
+  let results: CheckResults = { ...(fresh?.results ?? {}) };
+  const missing = books
+    .map(checkableIsbn)
+    .filter((i): i is string => i !== null && (!results[i] || results[i].status === 'Running'));
+  if (missing.length > 0) {
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), timeoutMs);
+    try {
+      const done = await checkAvailability(CALIL_APPKEY, systemid, missing, (partial) => {
+        results = { ...results, ...partial };
+      }, { signal: controller.signal });
+      results = { ...results, ...done };
+    } catch (e) {
+      // 時間切れ・通信の失敗：分かった分だけで決める
+      if (!(e instanceof DOMException && e.name === 'AbortError')) console.error(e);
+    } finally {
+      clearTimeout(timer);
+    }
+    cache = { systemid, at: Date.now(), results: { ...(fresh?.results ?? {}), ...results } };
+  }
+  const ids = new Set<string>();
+  for (const b of books) {
+    const isbn = checkableIsbn(b);
+    if (isbn && summarize(results[isbn]).kind === 'available') ids.add(b.book_id);
+  }
+  return ids;
+}
 
 /** 選んだ図書館と、お気に入りの本の貸出状況 */
 export function useAvailability(isbns: string[]) {
