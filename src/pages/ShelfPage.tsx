@@ -23,8 +23,8 @@ export function ShelfPage({ tab, books }: Props) {
     .map((id) => books.find((b) => b.book_id === id))
     .filter((b): b is Book => b !== undefined);
 
-  // 選んだ図書館での貸出状況（カーリル）。お気に入りのときだけ調べる
-  const showAvailability = tab === 'favorites' && calilEnabled();
+  // 選んだ図書館での貸出状況（カーリル）。お気に入り・読んだ本のどちらでも、表示中の本を調べる
+  const showAvailability = calilEnabled();
   const avail = useAvailability(
     showAvailability ? list.map(checkableIsbn).filter((i): i is string => i !== null) : [],
   );
@@ -72,7 +72,7 @@ export function ShelfPage({ tab, books }: Props) {
             </>
           ) : (
             <>
-              <p className="muted small">よく使う図書館を選ぶと、お気に入りの本が借りられるか分かります。</p>
+              <p className="muted small">よく使う図書館を選ぶと、本棚の本が借りられるか分かります。</p>
               <LibraryPicker
                 initial={avail.setting}
                 onSelect={(s) => {
@@ -114,17 +114,15 @@ export function ShelfPage({ tab, books }: Props) {
                   <a className="btn btn--small" href={paths.book(book.book_id)}>
                     詳しく見る
                   </a>
-                  {tab === 'favorites' && (
-                    <a
-                      className="btn btn--small"
-                      href={calilUrl(book)}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      aria-label={`『${book.title}』を図書館で探す（カーリル・外部サイト）`}
-                    >
-                      図書館で探す
-                    </a>
-                  )}
+                  <a
+                    className="btn btn--small"
+                    href={calilUrl(book)}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label={`『${book.title}』を図書館で探す（カーリル・外部サイト）`}
+                  >
+                    図書館で探す
+                  </a>
                   {tab === 'favorites' ? (
                     <button
                       type="button"
