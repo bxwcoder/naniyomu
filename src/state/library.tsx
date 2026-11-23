@@ -18,6 +18,15 @@ export const REACTION_LABELS: Record<ReactionType, string> = {
 /** 「読んだ本」として扱う反応 */
 const READ_REACTIONS: ReactionType[] = ['already_read', 'finished'];
 
+/** 一覧から外した本の記録（「前にお気に入りに入れたの何だっけ？」とならないように残す） */
+export interface HistoryEntry {
+  bookId: string;
+  /** どの一覧から外したか */
+  from: 'favorites' | 'read';
+  /** 外した日時（ミリ秒） */
+  at: number;
+}
+
 export interface LibraryState {
   /** お気に入りに登録した本のID（登録した順） */
   favorites: string[];
@@ -25,19 +34,55 @@ export interface LibraryState {
   read: string[];
   /** 本ごとの反応 */
   reactions: Record<string, ReactionType[]>;
+  /** お気に入り・読んだ本から外した本（新しい順） */
+  history: HistoryEntry[];
 }
 
-export const emptyLibrary: LibraryState = { favorites: [], read: [], reactions: {} };
+export const emptyLibrary: LibraryState = { favorites: [], read: [], reactions: {}, history: [] };
+
+/** 履歴に残す件数の上限（古いものから消える） */
+export const HISTORY_LIMIT = 300;
 
 type Action =
   | { type: 'replace'; state: LibraryState }
   | { type: 'toggleFavorite'; bookId: string }
   | { type: 'toggleReaction'; bookId: string; reaction: ReactionType }
-  | { type: 'unmarkRead'; bookId: string };
+  | { type: 'unmarkRead'; bookId: string }
+  | { type: 'markRead'; bookId: string }
+  | { type: 'removeHistory'; bookId: string; from: HistoryEntry['from'] }
+  | { type: 'clearHistory' };
 
 const without = (list: string[], id: string) => list.filter((x) => x !== id);
 
+/**
+ * 一覧の変化から履歴を更新する。外した本は履歴に入れ、また入れた本は履歴から消す。
+ * （どの操作で外れても同じように記録されるよう、操作の前後を比べて決める）
+ */
+export function updateHistory(before: LibraryState, after: LibraryState, now: number): HistoryEntry[] {
+  let history = after.history;
+  for (const from of ['favorites', 'read'] as const) {
+    const removed = before[from].filter((id) => !after[from].includes(id));
+    const added = after[from].filter((id) => !before[from].includes(id));
+    if (added.length > 0) history = history.filter((h) => !(h.from === from && added.includes(h.bookId)));
+    if (removed.length > 0) {
+      history = [
+        ...removed.map((bookId) => ({ bookId, from, at: now })),
+        ...history.filter((h) => !(h.from === from && removed.includes(h.bookId))),
+      ];
+    }
+  }
+  return history === after.history ? history : history.slice(0, HISTORY_LIMIT);
+}
+
 export function libraryReducer(state: LibraryState, action: Action): LibraryState {
+  const next = applyAction(state, action);
+  // 別のタブからの読み込み（replace）は、そのまま使う
+  if (action.type === 'replace' || next === state) return next;
+  const history = updateHistory(state, next, Date.now());
+  return history === next.history ? next : { ...next, history };
+}
+
+function applyAction(state: LibraryState, action: Action): LibraryState {
   switch (action.type) {
     case 'replace':
       return action.state;
@@ -63,6 +108,22 @@ export function libraryReducer(state: LibraryState, action: Action): LibraryStat
 
       return { ...state, read, reactions: { ...state.reactions, [action.bookId]: nextReactions } };
     }
+    case 'markRead': {
+      if (state.read.includes(action.bookId)) return state;
+      const current = state.reactions[action.bookId] ?? [];
+      return {
+        ...state,
+        read: [...state.read, action.bookId],
+        reactions: { ...state.reactions, [action.bookId]: [...new Set([...current, 'already_read' as const])] },
+      };
+    }
+    case 'removeHistory':
+      return {
+        ...state,
+        history: state.history.filter((h) => !(h.bookId === action.bookId && h.from === action.from)),
+      };
+    case 'clearHistory':
+      return { ...state, history: [] };
     case 'unmarkRead': {
       const current = state.reactions[action.bookId] ?? [];
       return {
@@ -97,6 +158,9 @@ interface LibraryApi {
   toggleFavorite: (bookId: string) => void;
   toggleReaction: (bookId: string, reaction: ReactionType) => void;
   unmarkRead: (bookId: string) => void;
+  markRead: (bookId: string) => void;
+  removeHistory: (bookId: string, from: HistoryEntry['from']) => void;
+  clearHistory: () => void;
 }
 
 const LibraryContext = createContext<LibraryApi | null>(null);
@@ -134,6 +198,9 @@ export function LibraryProvider({ children }: { children: ReactNode }) {
       toggleFavorite: (bookId) => dispatch({ type: 'toggleFavorite', bookId }),
       toggleReaction: (bookId, reaction) => dispatch({ type: 'toggleReaction', bookId, reaction }),
       unmarkRead: (bookId) => dispatch({ type: 'unmarkRead', bookId }),
+      markRead: (bookId) => dispatch({ type: 'markRead', bookId }),
+      removeHistory: (bookId, from) => dispatch({ type: 'removeHistory', bookId, from }),
+      clearHistory: () => dispatch({ type: 'clearHistory' }),
     }),
     [state],
   );

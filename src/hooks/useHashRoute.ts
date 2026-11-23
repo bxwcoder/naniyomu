@@ -9,7 +9,7 @@ export type Route =
   | { name: 'question'; index: number }
   | { name: 'results' }
   | { name: 'book'; id: string }
-  | { name: 'shelf'; tab: 'favorites' | 'read' };
+  | { name: 'shelf'; tab: 'favorites' | 'read' | 'history' };
 
 export function parseHash(hash: string): Route {
   const path = hash.replace(/^#/, '') || '/';
@@ -20,6 +20,7 @@ export function parseHash(hash: string): Route {
   if (path === '/results') return { name: 'results' };
   if (path === '/saved') return { name: 'shelf', tab: 'favorites' };
   if (path === '/read') return { name: 'shelf', tab: 'read' };
+  if (path === '/history') return { name: 'shelf', tab: 'history' };
   return { name: 'top' };
 }
 
@@ -30,6 +31,7 @@ export const paths = {
   book: (id: string) => `#/book/${id}`,
   saved: '#/saved',
   read: '#/read',
+  history: '#/history',
 };
 
 // アプリの中で何回画面を移動したか。0回なら「戻る」で外のページに出てしまうので使わない

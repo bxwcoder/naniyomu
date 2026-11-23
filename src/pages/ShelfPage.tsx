@@ -1,4 +1,4 @@
-// 画面6：お気に入り・読んだ本の一覧
+// 画面6：お気に入り・読んだ本・履歴（一覧から外した本）の一覧
 
 import { useState } from 'react';
 import { BookCover } from '../components/BookCover.tsx';
@@ -6,17 +6,17 @@ import { AvailabilityLine, calilEnabled, LibraryPicker, useAvailability } from '
 import { paths } from '../hooks/useHashRoute.ts';
 import { checkableIsbn } from '../logic/calil.ts';
 import { calilUrl } from '../logic/library.ts';
-import { useLibrary } from '../state/library.tsx';
+import { useLibrary, type HistoryEntry } from '../state/library.tsx';
 import type { Book } from '../types.ts';
 
 interface Props {
-  tab: 'favorites' | 'read';
+  tab: 'favorites' | 'read' | 'history';
   books: Book[];
 }
 
 export function ShelfPage({ tab, books }: Props) {
   const lib = useLibrary();
-  const ids = tab === 'favorites' ? lib.state.favorites : lib.state.read;
+  const ids = tab === 'favorites' ? lib.state.favorites : tab === 'read' ? lib.state.read : [];
   // 新しく登録した順に並べる
   const list = [...ids]
     .reverse()
@@ -24,7 +24,7 @@ export function ShelfPage({ tab, books }: Props) {
     .filter((b): b is Book => b !== undefined);
 
   // 選んだ図書館での貸出状況（カーリル）。お気に入り・読んだ本のどちらでも、表示中の本を調べる
-  const showAvailability = calilEnabled();
+  const showAvailability = calilEnabled() && tab !== 'history';
   const avail = useAvailability(
     showAvailability ? list.map(checkableIsbn).filter((i): i is string => i !== null) : [],
   );
@@ -33,14 +33,19 @@ export function ShelfPage({ tab, books }: Props) {
   return (
     <>
       <h1>本棚</h1>
-      <nav className="tabs" aria-label="本棚の切り替え">
+      <nav className="tabs tabs--3" aria-label="本棚の切り替え">
         <a className="tab" href={paths.saved} aria-current={tab === 'favorites' ? 'page' : undefined}>
-          ☆ お気に入り（{lib.state.favorites.length}）
+          ☆ お気に入り<span className="tab__count">{lib.state.favorites.length}</span>
         </a>
         <a className="tab" href={paths.read} aria-current={tab === 'read' ? 'page' : undefined}>
-          ✓ 読んだ本（{lib.state.read.length}）
+          ✓ 読んだ本<span className="tab__count">{lib.state.read.length}</span>
+        </a>
+        <a className="tab" href={paths.history} aria-current={tab === 'history' ? 'page' : undefined}>
+          🕘 履歴<span className="tab__count">{lib.state.history.length}</span>
         </a>
       </nav>
+
+      {tab === 'history' && <HistoryList books={books} />}
 
       {showAvailability && list.length > 0 && (
         <section className="avail-panel" aria-labelledby="avail-title">
@@ -86,7 +91,7 @@ export function ShelfPage({ tab, books }: Props) {
         </section>
       )}
 
-      {list.length === 0 ? (
+      {tab !== 'history' && list.length === 0 ? (
         <div className="empty">
           <p>
             {tab === 'favorites'
@@ -97,7 +102,7 @@ export function ShelfPage({ tab, books }: Props) {
             おすすめ本を探す
           </a>
         </div>
-      ) : (
+      ) : tab === 'history' ? null : (
         <ul className="stack shelf-list">
           {list.map((book) => (
             <li key={book.book_id} className="card shelf-item">
@@ -148,6 +153,96 @@ export function ShelfPage({ tab, books }: Props) {
           ))}
         </ul>
       )}
+    </>
+  );
+}
+
+/** 例：「11月23日」。今年でなければ年も付ける */
+function formatDate(ms: number): string {
+  const d = new Date(ms);
+  const sameYear = d.getFullYear() === new Date().getFullYear();
+  return `${sameYear ? '' : `${d.getFullYear()}年`}${d.getMonth() + 1}月${d.getDate()}日`;
+}
+
+const FROM_LABEL: Record<HistoryEntry['from'], string> = {
+  favorites: 'お気に入り',
+  read: '読んだ本',
+};
+
+/** お気に入り・読んだ本から外した本の一覧（新しい順） */
+function HistoryList({ books }: { books: Book[] }) {
+  const lib = useLibrary();
+  const entries = lib.state.history
+    .map((h) => ({ h, book: books.find((b) => b.book_id === h.bookId) }))
+    .filter((e): e is { h: HistoryEntry; book: Book } => e.book !== undefined);
+
+  if (entries.length === 0) {
+    return (
+      <div className="empty">
+        <p>お気に入りや読んだ本から外した本が、ここに残ります。「前に入れたの何だっけ？」というときに見返せます。</p>
+      </div>
+    );
+  }
+
+  return (
+    <>
+      <p className="muted small">お気に入りや読んだ本から外した本です（新しい順・{entries.length}冊）。</p>
+      <ul className="stack shelf-list">
+        {entries.map(({ h, book }) => {
+          // もう一度一覧に入れ直したかどうか（片方だけ戻した場合などに表示を変える）
+          const back = h.from === 'favorites' ? lib.isFavorite(book.book_id) : lib.isRead(book.book_id);
+          return (
+            <li key={`${h.from}-${book.book_id}`} className="card shelf-item">
+              <BookCover book={book} />
+              <div className="shelf-item__body">
+                <p className="shelf-item__title">{book.title}</p>
+                <p className="muted small" style={{ margin: '0 0 4px' }}>
+                  {book.author}
+                </p>
+                <p className="history-note">
+                  {formatDate(h.at)}に{FROM_LABEL[h.from]}から外しました
+                </p>
+                <div className="row">
+                  <a className="btn btn--small" href={paths.book(book.book_id)}>
+                    詳しく見る
+                  </a>
+                  {!back && (
+                    <button
+                      type="button"
+                      className="btn btn--small"
+                      onClick={() =>
+                        h.from === 'favorites' ? lib.toggleFavorite(book.book_id) : lib.markRead(book.book_id)
+                      }
+                      aria-label={`『${book.title}』を${FROM_LABEL[h.from]}に戻す`}
+                    >
+                      {FROM_LABEL[h.from]}に戻す
+                    </button>
+                  )}
+                  <button
+                    type="button"
+                    className="btn btn--small"
+                    onClick={() => lib.removeHistory(book.book_id, h.from)}
+                    aria-label={`『${book.title}』を履歴から消す`}
+                  >
+                    履歴から消す
+                  </button>
+                </div>
+              </div>
+            </li>
+          );
+        })}
+      </ul>
+      <div className="history-clear">
+        <button
+          type="button"
+          className="btn btn--small btn--ghost"
+          onClick={() => {
+            if (window.confirm('履歴をすべて消しますか？（お気に入り・読んだ本は消えません）')) lib.clearHistory();
+          }}
+        >
+          履歴をすべて消す
+        </button>
+      </div>
     </>
   );
 }

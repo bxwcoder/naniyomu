@@ -72,7 +72,7 @@ describe('お気に入り・既読・反応の保存', () => {
     expect(loadLibrary(memoryStore({ [STORAGE_KEYS.library]: '{壊れた文字' }))).toEqual(emptyLibrary);
     expect(
       parseLibrary({ favorites: ['a', 1, 'a'], read: 'x', reactions: { b: ['interested', 'unknown'], c: 'bad' } }),
-    ).toEqual({ favorites: [], read: [], reactions: { b: ['interested'] } });
+    ).toEqual({ favorites: [], read: [], reactions: { b: ['interested'] }, history: [] });
     expect(parseLibrary({ favorites: ['a', 'a'] }).favorites).toEqual(['a']);
   });
 
@@ -180,5 +180,54 @@ describe('表示回数の保存', () => {
     const store = memoryStore();
     store.setItem('naniyomu.shown.v1', '{壊れた');
     expect(loadShownCounts(store, 'a')).toEqual({});
+  });
+});
+
+describe('外した本の履歴', () => {
+  it('お気に入りから外すと履歴に入り、また入れると履歴から消える', () => {
+    let s = libraryReducer(emptyLibrary, { type: 'toggleFavorite', bookId: 'a' });
+    expect(s.history).toEqual([]);
+    s = libraryReducer(s, { type: 'toggleFavorite', bookId: 'a' });
+    expect(s.history).toMatchObject([{ bookId: 'a', from: 'favorites' }]);
+    s = libraryReducer(s, { type: 'toggleFavorite', bookId: 'a' });
+    expect(s.history).toEqual([]);
+  });
+
+  it('読んだ本から外したとき（既読を解除・「読んだことがある」を外す）も履歴に入る', () => {
+    let s = libraryReducer(emptyLibrary, { type: 'toggleReaction', bookId: 'b', reaction: 'already_read' });
+    s = libraryReducer(s, { type: 'unmarkRead', bookId: 'b' });
+    expect(s.history).toMatchObject([{ bookId: 'b', from: 'read' }]);
+    s = libraryReducer(s, { type: 'markRead', bookId: 'b' });
+    expect(s.read).toEqual(['b']);
+    expect(s.history).toEqual([]);
+    s = libraryReducer(s, { type: 'toggleReaction', bookId: 'b', reaction: 'already_read' });
+    expect(s.history).toMatchObject([{ bookId: 'b', from: 'read' }]);
+  });
+
+  it('新しく外した本が先頭。同じ本を何度外しても1件にまとまる', () => {
+    let s = emptyLibrary;
+    for (const id of ['a', 'b', 'a']) {
+      s = libraryReducer(s, { type: 'toggleFavorite', bookId: id });
+      s = libraryReducer(s, { type: 'toggleFavorite', bookId: id });
+    }
+    expect(s.history.map((h) => h.bookId)).toEqual(['a', 'b']);
+  });
+
+  it('履歴から1件消す・全部消すことができ、お気に入りや読んだ本はそのまま', () => {
+    let s = libraryReducer(emptyLibrary, { type: 'toggleFavorite', bookId: 'a' });
+    s = libraryReducer(s, { type: 'toggleFavorite', bookId: 'a' });
+    s = libraryReducer(s, { type: 'toggleFavorite', bookId: 'c' });
+    s = libraryReducer(s, { type: 'removeHistory', bookId: 'a', from: 'favorites' });
+    expect(s.history).toEqual([]);
+    expect(s.favorites).toEqual(['c']);
+    s = libraryReducer(s, { type: 'toggleFavorite', bookId: 'c' });
+    s = libraryReducer(s, { type: 'clearHistory' });
+    expect(s.history).toEqual([]);
+  });
+
+  it('保存した履歴を読み込める。前の版のデータ（履歴なし）でも動く', () => {
+    expect(parseLibrary({ favorites: [] }).history).toEqual([]);
+    const h = [{ bookId: 'a', from: 'read', at: 1 }, { bookId: 1, from: 'x' }];
+    expect(parseLibrary({ history: h }).history).toEqual([{ bookId: 'a', from: 'read', at: 1 }]);
   });
 });

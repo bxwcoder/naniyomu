@@ -6,7 +6,7 @@
 
 import { MOODS, THEMES, NO_THEME, DIFFICULTY_CHOICES, LENGTH_CHOICES, GENRE_CHOICES } from '../data/options.ts';
 import type { Answers, Book, Recommendation, RecommendResult, RecommendationRole, RelaxSuggestion } from '../types.ts';
-import { emptyLibrary, type LibraryState, type ReactionType } from './library.tsx';
+import { emptyLibrary, HISTORY_LIMIT, type HistoryEntry, type LibraryState, type ReactionType } from './library.tsx';
 
 /** 保存に使う名前。データの形を変えたときは、末尾の数字を上げる */
 export const STORAGE_KEYS = {
@@ -140,10 +140,22 @@ export function parseLibrary(raw: unknown): LibraryState {
       }
     }
   }
+  // 外した本の履歴（前の版で保存したデータにはないので、なければ空）
+  const history: HistoryEntry[] = [];
+  if (Array.isArray(r.history)) {
+    for (const h of r.history as unknown[]) {
+      if (typeof h !== 'object' || h === null) continue;
+      const e = h as Record<string, unknown>;
+      if (typeof e.bookId === 'string' && (e.from === 'favorites' || e.from === 'read') && typeof e.at === 'number') {
+        history.push({ bookId: e.bookId, from: e.from, at: e.at });
+      }
+    }
+  }
   return {
     favorites: isStringArray(r.favorites) ? [...new Set(r.favorites)] : [],
     read: isStringArray(r.read) ? [...new Set(r.read)] : [],
     reactions,
+    history: history.slice(0, HISTORY_LIMIT),
   };
 }
 

@@ -670,6 +670,12 @@ main:focus { outline: none; }
   box-shadow: var(--shadow);
 }
 .shelf-list { list-style: none; padding: 0; margin: 0; }
+/* 本棚のタブが3つのとき：文字を少し小さくし、冊数は下の段に出す */
+.tabs--3 { grid-template-columns: repeat(3, 1fr); }
+.tabs--3 .tab { display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: 0.85rem; line-height: 1.3; padding: 4px 2px; text-decoration: none; }
+.tab__count { font-size: 0.78rem; font-weight: 400; }
+.history-note { font-size: 0.8rem; color: var(--text-muted); margin: 0 0 8px; }
+.history-clear { text-align: center; margin-top: 12px; }
 .shelf-item {
   display: flex;
   gap: 12px;
