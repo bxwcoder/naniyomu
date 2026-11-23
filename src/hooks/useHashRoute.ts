@@ -11,7 +11,8 @@ export type Route =
   | { name: 'book'; id: string }
   | { name: 'shelf'; tab: 'favorites' | 'read' | 'history' }
   | { name: 'backup' }
-  | { name: 'search' };
+  | { name: 'search' }
+  | { name: 'settings' };
 
 export function parseHash(hash: string): Route {
   const path = hash.replace(/^#/, '') || '/';
@@ -25,6 +26,7 @@ export function parseHash(hash: string): Route {
   if (path === '/history') return { name: 'shelf', tab: 'history' };
   if (path === '/backup') return { name: 'backup' };
   if (path === '/search') return { name: 'search' };
+  if (path === '/settings') return { name: 'settings' };
   return { name: 'top' };
 }
 
@@ -38,6 +40,7 @@ export const paths = {
   history: '#/history',
   backup: '#/backup',
   search: '#/search',
+  settings: '#/settings',
 };
 
 // アプリの中で何画面目か（最初に開いた画面が 0）を、ブラウザの履歴の各項目に書いておく。

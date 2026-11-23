@@ -25,12 +25,15 @@ export function Header({ backTo, showLogo = true }: Props) {
           </a>
         )}
         <span className="app-header__spacer" />
-        <nav aria-label="本を探す・保存した本" className="app-header__nav">
+        <nav aria-label="本を探す・本棚・設定" className="app-header__nav">
           <a className="btn btn--ghost btn--small" href={paths.search} aria-label="本を名前で探す">
             さがす
           </a>
           <a className="btn btn--ghost btn--small" href={paths.saved}>
             本棚
+          </a>
+          <a className="btn btn--ghost btn--small app-header__icon" href={paths.settings} aria-label="設定">
+            <span aria-hidden="true">⚙</span>
           </a>
         </nav>
       </div>

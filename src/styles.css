@@ -735,7 +735,6 @@ main:focus { outline: none; }
 .backup-file { position: relative; display: flex; align-items: center; justify-content: center; }
 .backup-file input { position: absolute; inset: 0; opacity: 0; cursor: pointer; }
 .backup-confirm { margin-top: 10px; }
-.shelf-backup { text-align: center; font-size: 0.85rem; margin: 16px 0 0; }
 
 /* ---- 本を名前で探す ---- */
 .search-form { margin-bottom: 8px; }
@@ -754,3 +753,19 @@ main:focus { outline: none; }
 .search-meta { font-size: 0.78rem; color: var(--text-muted); margin: 0 0 8px; }
 .search-more { margin-top: 12px; }
 .app-header__nav { display: flex; gap: 2px; }
+
+/* ---- 設定 ---- */
+.app-header__icon { font-size: 1.25rem; min-width: 44px; justify-content: center; }
+.app-header .btn { white-space: nowrap; }
+/* 幅のせまいスマホでは、ボタンの余白とロゴを小さくして1行に収める */
+@media (max-width: 374px) {
+  .app-header .btn--small { padding-inline: 6px; }
+  .app-header__title svg { height: 24px; width: auto; }
+  .app-header__icon { min-width: 40px; }
+}
+.settings-box { padding: 12px; margin-bottom: 12px; }
+.settings-box h2 { font-size: 1rem; margin: 0 0 8px; }
+.settings-link { display: flex; justify-content: space-between; align-items: center; text-decoration: none; }
+.settings-current { font-weight: 700; margin: 0 0 8px; }
+.settings-about { margin: 0; padding-left: 1.2em; line-height: 1.6; }
+.settings-about li { margin-bottom: 4px; }
