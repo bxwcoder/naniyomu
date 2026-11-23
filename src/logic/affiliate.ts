@@ -4,22 +4,14 @@
 
 import type { AffiliateConfig } from '../config/affiliate.ts';
 import type { Book } from '../types.ts';
-import { isValidIsbn13 } from './isbn.ts';
+import { isbn13To10, isValidIsbn13 } from './isbn.ts';
+
+export { isbn13To10 };
 
 export interface PurchaseLink {
   service: 'amazon' | 'rakuten';
   label: string;
   url: string;
-}
-
-/** 13けたの ISBN（978 で始まるもの）を、Amazon の商品番号に使う10けたに変換する。変換できなければ null */
-export function isbn13To10(isbn13: string): string | null {
-  if (!isValidIsbn13(isbn13) || !isbn13.startsWith('978')) return null;
-  const first9 = isbn13.slice(3, 12);
-  let sum = 0;
-  for (let i = 0; i < 9; i++) sum += Number(first9[i]) * (10 - i);
-  const check = (11 - (sum % 11)) % 11;
-  return first9 + (check === 10 ? 'X' : String(check));
 }
 
 /** 設定されているサービスの購入リンク。ID が空のサービスや、ISBN のない本は含めない */

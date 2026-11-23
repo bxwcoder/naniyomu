@@ -13,6 +13,7 @@ export const STORAGE_KEYS = {
   library: 'naniyomu.library.v1',
   session: 'naniyomu.session.v1',
   shown: 'naniyomu.shown.v1',
+  calil: 'naniyomu.calil.v1',
 } as const;
 
 /** localStorage と同じ使い方ができるもの（テストでは偽物を渡す） */
@@ -86,6 +87,43 @@ export function recordShown(store: KeyValueStore | null, comboKey: string, bookI
   for (const id of bookIds) counts[id] = (counts[id] ?? 0) + 1;
   all[comboKey] = counts;
   writeJson(store, STORAGE_KEYS.shown, all);
+}
+
+// ---- 貸出状況を調べる図書館（カーリル） ----
+
+export interface CalilSetting {
+  systemid: string;
+  systemname: string;
+  pref: string;
+  city: string;
+}
+
+export function parseCalilSetting(raw: unknown): CalilSetting | null {
+  if (typeof raw !== 'object' || raw === null) return null;
+  const r = raw as Record<string, unknown>;
+  if (typeof r.systemid !== 'string' || !r.systemid || typeof r.systemname !== 'string') return null;
+  return {
+    systemid: r.systemid,
+    systemname: r.systemname,
+    pref: typeof r.pref === 'string' ? r.pref : '',
+    city: typeof r.city === 'string' ? r.city : '',
+  };
+}
+
+export function loadCalilSetting(store: KeyValueStore | null): CalilSetting | null {
+  return parseCalilSetting(readJson(store, STORAGE_KEYS.calil));
+}
+
+/** 図書館を保存する。null なら選んだ図書館を消す */
+export function saveCalilSetting(store: KeyValueStore | null, setting: CalilSetting | null): void {
+  if (!store) return;
+  if (setting) writeJson(store, STORAGE_KEYS.calil, setting);
+  else
+    try {
+      store.setItem(STORAGE_KEYS.calil, '');
+    } catch {
+      // 保存できなくても続ける
+    }
 }
 
 // ---- お気に入り・既読・反応 ----

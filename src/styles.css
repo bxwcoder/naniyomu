@@ -540,6 +540,39 @@ main:focus { outline: none; }
 .library-box__title { font-size: 0.9rem; margin-bottom: 6px; }
 .library-box .btn { text-decoration: none; display: flex; align-items: center; justify-content: center; }
 .library-box__note { font-size: 0.75rem; line-height: 1.5; color: var(--text-muted); margin: 6px 0 0; }
+.avail-panel {
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.avail-panel__title { font-size: 0.95rem; margin: 0 0 6px; }
+.avail-panel__current { font-weight: 700; margin: 0 0 8px; }
+.avail-panel__credit { margin: 8px 0 0; }
+.avail { font-size: 0.85rem; margin: 0 0 8px; line-height: 1.5; }
+.avail a { color: inherit; }
+.avail__label { font-weight: 700; }
+.avail--available .avail__label { color: var(--accent); }
+.avail--busy .avail__label { color: var(--warm); }
+.avail--none, .avail--checking, .avail--error { color: var(--text-muted); }
+.avail__reserve { font-size: 0.8rem; }
+.lib-picker__form { display: grid; gap: 8px; margin-bottom: 8px; }
+.lib-picker__form label { display: grid; gap: 4px; font-size: 0.85rem; }
+.lib-picker__form select,
+.lib-picker__form input {
+  min-height: 44px;
+  padding: 6px 10px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  color: var(--text);
+  font: inherit;
+}
+.lib-picker__list { list-style: none; padding: 0; margin: 0 0 8px; display: grid; gap: 6px; }
+.lib-picker__choice { display: grid; justify-items: start; justify-content: stretch; text-align: left; gap: 2px; }
+.lib-picker__name { font-weight: 700; }
+.lib-picker__libs { font-size: 0.78rem; color: var(--text-muted); font-weight: 400; }
 .shelf-item .row .btn { text-decoration: none; display: inline-flex; align-items: center; }
 .buy-box {
   border-top: 1px solid var(--border);

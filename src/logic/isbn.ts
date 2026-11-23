@@ -35,3 +35,13 @@ export function isbn10To13(isbn10: string): string | null {
   const first12 = '978' + s.slice(0, 9);
   return first12 + isbn13CheckDigit(first12);
 }
+
+/** 13けたの ISBN（978 で始まるもの）を、10けたに変換する（Amazon の商品番号・カーリルの本のページに使う）。変換できなければ null */
+export function isbn13To10(isbn13: string): string | null {
+  if (!isValidIsbn13(isbn13) || !isbn13.startsWith('978')) return null;
+  const first9 = isbn13.slice(3, 12);
+  let sum = 0;
+  for (let i = 0; i < 9; i++) sum += Number(first9[i]) * (10 - i);
+  const check = (11 - (sum % 11)) % 11;
+  return first9 + (check === 10 ? 'X' : String(check));
+}
