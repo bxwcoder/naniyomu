@@ -22,6 +22,9 @@ export function TopPage({ onStart, hasPreviousResult }: Props) {
         <button type="button" className="btn btn--primary btn--block" onClick={onStart}>
           おすすめ本を探す
         </button>
+        <a className="btn btn--block" href={paths.search}>
+          🔍 本を名前で探す
+        </a>
         {hasPreviousResult && (
           <a className="btn btn--block" href={paths.results}>
             前回のおすすめ結果を見る

@@ -734,3 +734,21 @@ main:focus { outline: none; }
 .backup-file input { position: absolute; inset: 0; opacity: 0; cursor: pointer; }
 .backup-confirm { margin-top: 10px; }
 .shelf-backup { text-align: center; font-size: 0.85rem; margin: 16px 0 0; }
+
+/* ---- 本を名前で探す ---- */
+.search-form { margin-bottom: 8px; }
+.search-input {
+  width: 100%;
+  box-sizing: border-box;
+  min-height: 48px;
+  padding: 8px 12px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  color: var(--text);
+  font: inherit;
+  font-size: 1rem;
+}
+.search-meta { font-size: 0.78rem; color: var(--text-muted); margin: 0 0 8px; }
+.search-more { margin-top: 12px; }
+.app-header__nav { display: flex; gap: 2px; }

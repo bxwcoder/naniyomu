@@ -12,6 +12,7 @@ import { BackupPage } from './pages/BackupPage.tsx';
 import { BookDetailPage } from './pages/BookDetailPage.tsx';
 import { QuestionPage, type QuestionKey } from './pages/QuestionPage.tsx';
 import { ResultsPage } from './pages/ResultsPage.tsx';
+import { SearchPage } from './pages/SearchPage.tsx';
 import { ShelfPage } from './pages/ShelfPage.tsx';
 import { TopPage } from './pages/TopPage.tsx';
 import { excludedBookIds, LibraryProvider, useLibrary } from './state/library.tsx';
@@ -53,6 +54,8 @@ function backTarget(route: Route): string | undefined {
       return paths.top;
     case 'backup':
       return paths.saved;
+    case 'search':
+      return paths.top;
   }
 }
 
@@ -233,6 +236,10 @@ function AppInner() {
 
       case 'backup':
         content = <BackupPage />;
+        break;
+
+      case 'search':
+        content = <SearchPage books={books} />;
         break;
     }
   }
