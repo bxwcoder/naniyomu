@@ -23,10 +23,16 @@ export function ShelfPage({ tab, books }: Props) {
     .map((id) => books.find((b) => b.book_id === id))
     .filter((b): b is Book => b !== undefined);
 
-  // 選んだ図書館での貸出状況（カーリル）。お気に入り・読んだ本のどちらでも、表示中の本を調べる
-  const showAvailability = calilEnabled() && tab !== 'history';
+  // 履歴の本（外した本）。同じ本がお気に入り・読んだ本の両方から外されていても1冊として数える
+  const historyBooks = [...new Set(lib.state.history.map((h) => h.bookId))]
+    .map((id) => books.find((b) => b.book_id === id))
+    .filter((b): b is Book => b !== undefined);
+  const shownBooks = tab === 'history' ? historyBooks : list;
+
+  // 選んだ図書館での貸出状況（カーリル）。どのタブでも、表示中の本を調べる
+  const showAvailability = calilEnabled();
   const avail = useAvailability(
-    showAvailability ? list.map(checkableIsbn).filter((i): i is string => i !== null) : [],
+    showAvailability ? shownBooks.map(checkableIsbn).filter((i): i is string => i !== null) : [],
   );
   const [picking, setPicking] = useState(false);
 
@@ -45,9 +51,8 @@ export function ShelfPage({ tab, books }: Props) {
         </a>
       </nav>
 
-      {tab === 'history' && <HistoryList books={books} />}
 
-      {showAvailability && list.length > 0 && (
+      {showAvailability && shownBooks.length > 0 && (
         <section className="avail-panel" aria-labelledby="avail-title">
           <h2 id="avail-title" className="avail-panel__title">
             図書館の貸出状況
@@ -89,6 +94,17 @@ export function ShelfPage({ tab, books }: Props) {
             </>
           )}
         </section>
+      )}
+
+      {tab === 'history' && (
+        <HistoryList
+          books={books}
+          availability={(book) =>
+            showAvailability && avail.setting && !picking ? (
+              <AvailabilityLine isbn={checkableIsbn(book)} systemid={avail.setting.systemid} results={avail.results} />
+            ) : null
+          }
+        />
       )}
 
       {tab !== 'history' && list.length === 0 ? (
@@ -170,7 +186,14 @@ const FROM_LABEL: Record<HistoryEntry['from'], string> = {
 };
 
 /** お気に入り・読んだ本から外した本の一覧（新しい順） */
-function HistoryList({ books }: { books: Book[] }) {
+function HistoryList({
+  books,
+  availability,
+}: {
+  books: Book[];
+  /** 本ごとの図書館の貸出状況（図書館を選んでいなければ null） */
+  availability: (book: Book) => React.ReactNode;
+}) {
   const lib = useLibrary();
   const entries = lib.state.history
     .map((h) => ({ h, book: books.find((b) => b.book_id === h.bookId) }))
@@ -202,9 +225,19 @@ function HistoryList({ books }: { books: Book[] }) {
                 <p className="history-note">
                   {formatDate(h.at)}に{FROM_LABEL[h.from]}から外しました
                 </p>
+                {availability(book)}
                 <div className="row">
                   <a className="btn btn--small" href={paths.book(book.book_id)}>
                     詳しく見る
+                  </a>
+                  <a
+                    className="btn btn--small"
+                    href={calilUrl(book)}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label={`『${book.title}』を図書館で探す（カーリル・外部サイト）`}
+                  >
+                    図書館で探す
                   </a>
                   {!back && (
                     <button
