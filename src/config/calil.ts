@@ -8,4 +8,4 @@
 // アプリケーションキーは、カーリルの仕組み上ブラウザから直接使うもので、画面を開いた人にも見えます。
 // 利用規約（https://calil.jp/doc/api_license.html）により、ほかの人に貸したり譲ったりはできません。
 
-export const CALIL_APPKEY = '';
+export const CALIL_APPKEY = '4cdfde971669617b8384e631e77f9715';
